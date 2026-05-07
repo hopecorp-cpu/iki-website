@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>IKI — Chăm sóc sức khoẻ chủ động cho người Việt và thế giới | Hệ sinh thái dưỡng sinh chủ động</title>
+  <meta name="description" content="IKI — thương hiệu chăm sóc sức khoẻ chủ động của Công ty Cổ phần TMDV HOPE, với cố vấn chuyên môn từ TS. Ngô Đức Vượng và đội ngũ Học Viện IKI. Học Viện, Cộng đồng, Sản phẩm và Ứng dụng IKI hướng tới phục vụ cộng đồng người Việt và bạn bè quốc tế cùng xây dựng lối sống khoẻ mạnh, an lành và thịnh vượng." />
+  <link rel="canonical" href="https://ikihealing.com/" />
+
+  <!-- Open Graph / Facebook / Zalo -->
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="vi_VN" />
+  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:url" content="https://ikihealing.com/" />
+  <meta property="og:title" content="IKI — Chăm sóc sức khoẻ chủ động cho người Việt và thế giới" />
+  <meta property="og:description" content="Hệ sinh thái chăm sóc sức khoẻ chủ động: Học Viện, Cộng đồng, Sản phẩm và Ứng dụng IKI. Bắt đầu với 3 Ngày Reset miễn phí." />
+  <meta property="og:image" content="https://ikihealing.com/iki-logo.jpg" />
+  <meta property="og:image:width" content="2048" />
+  <meta property="og:image:height" content="2048" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="IKI — Chăm sóc sức khoẻ chủ động cho người Việt và thế giới" />
+  <meta name="twitter:description" content="Hệ sinh thái chăm sóc sức khoẻ chủ động của HOPE CORP. Bắt đầu với 3 Ngày Reset miễn phí." />
+  <meta name="twitter:image" content="https://ikihealing.com/iki-logo.jpg" />
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/jpeg" href="iki-logo-256.jpg" />
+  <link rel="stylesheet" href="styles.css" />
+  <script src="script.js" defer></script>
+
+  <!-- JSON-LD: Organization -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Công ty Cổ phần TMDV HOPE",
+    "alternateName": ["HOPE CORP", "IKI by HOPE"],
+    "url": "https://ikihealing.com",
+    "logo": "https://ikihealing.com/iki-logo.jpg",
+    "email": "contact@ikihealing.com",
+    "taxID": "0801404967",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "63/253 Ngô Quyền, P. Lê Thanh Nghị",
+      "addressLocality": "Hải Phòng",
+      "addressCountry": "VN"
+    },
+    "contactPoint": [{
+      "@type": "ContactPoint",
+      "telephone": "+84-987-931-551",
+      "contactType": "customer service",
+      "areaServed": "VN",
+      "availableLanguage": ["Vietnamese"]
+    }],
+    "brand": {
+      "@type": "Brand",
+      "name": "IKI",
+      "description": "Hệ sinh thái chăm sóc sức khoẻ chủ động"
+    }
+  }
+  </script>
+
+  <!-- JSON-LD: FAQ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "IKI có khác gì so với các app wellness khác?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "IKI tích hợp Hệ tri thức Thực dưỡng và Y học Cổ truyền đã được kiểm chứng qua nhiều thập kỷ với Công nghệ AI hiện đại — gợi ý lộ trình lối sống tham khảo theo thể tạng (Hàn/Nhiệt/Hư/Thực), không phải công thức chung. Khác biệt chính: cá nhân hoá tham khảo + cộng đồng 100K+ + tích hợp sản phẩm + tư vấn 1-1 với chuyên viên Học Viện IKI."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Tôi không có nhiều thời gian — cần bao nhiêu phút mỗi ngày?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Chỉ 30 giây/ngày để ghi nhật ký. AI hỗ trợ phần phân tích lối sống. Khi đăng ký khoá học, bạn cần thêm 30 phút/ngày trong 7 ngày để xem video bài giảng. Sau đó là tự áp dụng vào lối sống."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Tôi 60+ tuổi, có dùng được app không?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Có. IKI App được thiết kế đơn giản — chữ to, ít nút bấm, có hướng dẫn giọng nói tiếng Việt. Nhiều thành viên cộng đồng IKI ở độ tuổi 65–75 vẫn đang dùng đều đặn."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Tôi đang dùng thuốc Tây — có cần dừng không?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Không. IKI là phương pháp bổ trợ, không thay thế điều trị y tế. Mọi thay đổi về thuốc cần tham khảo bác sĩ điều trị của bạn. IKI chỉ tập trung vào dinh dưỡng, vận động, hơi thở và lối sống."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Hoàn tiền có khó không nếu tôi không thấy hợp?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Không khó. Trong 30 ngày đầu, gửi 1 tin nhắn ngắn vào email contact@ikihealing.com — không cần lý do. HOPE CORP hoàn tiền 100% trong 3-5 ngày làm việc qua tài khoản gốc."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "IKI có liên quan gì đến Tiến sĩ Ngô Đức Vượng?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "TS. Ngô Đức Vượng là người đặt nền móng tri thức cho Học Viện IKI — bộ video bài giảng cốt lõi đều do Thầy ghi hình. Hiện tại, đội ngũ Health Coach và chuyên gia Y học Cổ truyền của HOPE CORP — lớp kế thừa được Thầy đào tạo — đảm nhận giảng dạy live, Q&A và đồng hành cá nhân hoá."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Sản phẩm IKI có an toàn? Có giấy phép không?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Tất cả sản phẩm IKI đều có Giấy công bố sản phẩm với Cục An toàn Thực phẩm và Phiếu kiểm nghiệm độc lập — công khai trên website. Sản xuất tại nhà máy đạt chuẩn GMP."
+        }
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header">
+    <nav class="nav">
+      <a class="brand" href="index.html" aria-label="IKI Trang chủ">
+        <img class="brand-logo" src="iki-logo-256.jpg" alt="IKI logo" />
+        <span>
+          IKI
+          <span class="brand-sub">By HOPE CORP</span>
+        </span>
+      </a>
+      <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
+        <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+      <ul class="nav-links" id="primary-nav">
+        <li><a href="index.html" class="active">Trang chủ</a></li>
+        <li><a href="hoc-vien.html">Học Viện</a></li>
+        <li><a href="cong-dong.html">Cộng đồng</a></li>
+        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Sản phẩm ↗</a></li>
+        <li><a href="app.html">Ứng dụng</a></li>
+        <li><a href="ve-hope.html">Về HOPE CORP</a></li>
+        <li><a class="nav-cta" href="hoc-vien.html#dang-ky">Tham gia khoá học</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- ============ HERO ============ -->
+  <section class="hero">
+    <div class="container hero-grid">
+      <div>
+        <span class="eyebrow">Hệ sinh thái chăm sóc sức khoẻ chủ động</span>
+        <h1>Thân khoẻ.<span class="h1-break"> </span>Tâm an.<span class="h1-break"> </span><em>Tuệ sáng.</em></h1>
+        <p class="hero-tagline">Hướng tới sự thịnh vượng</p>
+        <p class="hero-lead">
+          IKI là thương hiệu chăm sóc sức khoẻ chủ động của HOPE CORP — kết hợp
+          <em>Hệ tri thức Thực dưỡng &amp; Dưỡng sinh phương Đông</em> được lưu truyền
+          qua nhiều thập kỷ với <em>Công nghệ dữ liệu hiện đại</em> và
+          <em>Mạng lưới chuyên gia</em>, gợi ý lộ trình tham khảo phù hợp với
+          lối sống và thể tạng của từng cá nhân.
+        </p>
+        <div class="hero-cta">
+          <a class="btn btn-primary" href="https://www.7ngayreset.com" target="_blank" rel="noopener">
+            Bắt đầu 3 Ngày Reset — miễn phí
+            <span aria-hidden="true">→</span>
+          </a>
+          <a class="btn btn-secondary" href="#he-sinh-thai">Khám phá hệ sinh thái</a>
+        </div>
+        <div class="hero-microtrust">
+          <span><strong>Miễn phí</strong> · Không thẻ tín dụng</span>
+          <span aria-hidden="true">·</span>
+          <span><strong>5 phút</strong> khảo sát lối sống</span>
+          <span aria-hidden="true">·</span>
+          <span><strong>Hoàn tiền 30 ngày</strong> nếu mua khoá</span>
+        </div>
+      </div>
+      <div class="hero-visual hero-visual-photo" aria-hidden="true">
+        <img src="https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=1400&q=80&auto=format&fit=crop"
+             alt=""
+             class="hero-photo-img"
+             loading="eager"
+             fetchpriority="high" />
+        <div class="hero-photo-overlay">
+          <img src="iki-logo-256.jpg" alt="" class="hero-logo-mark" />
+          <span class="label">IKI · Chăm từ gốc</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ TRUST STRIP — credentials thật ============ -->
+  <section class="trust-mini" aria-label="Cam kết minh bạch của HOPE CORP">
+    <div class="container">
+      <div class="trust-mini-grid">
+        <div class="trust-mini-item">
+          <span class="trust-mini-icon" aria-hidden="true">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>
+          </span>
+          <div>
+            <strong>HOPE CORP</strong>
+            <span>Pháp nhân chính thức · MST 0801404967</span>
+          </div>
+        </div>
+        <div class="trust-mini-item">
+          <span class="trust-mini-icon" aria-hidden="true">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/><circle cx="12" cy="12" r="10"/></svg>
+          </span>
+          <div>
+            <strong>Hosting tại Việt Nam</strong>
+            <span>Tuân thủ Nghị định 13/2023 về DLCN</span>
+          </div>
+        </div>
+        <div class="trust-mini-item">
+          <span class="trust-mini-icon" aria-hidden="true">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11H1l8-8 8 8h-8v10z"/></svg>
+          </span>
+          <div>
+            <strong>Hoàn tiền 30 ngày</strong>
+            <span>Không cần lý do · 100% qua tài khoản gốc</span>
+          </div>
+        </div>
+        <div class="trust-mini-item">
+          <span class="trust-mini-icon" aria-hidden="true">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7L9 18l-5-5"/></svg>
+          </span>
+          <div>
+            <strong>Sản phẩm có Giấy công bố</strong>
+            <span>Đăng ký Cục ATTP · Kiểm nghiệm độc lập</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ ECOSYSTEM (4 nhánh) ============ -->
+  <section class="ecosystem" id="he-sinh-thai">
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow">Bốn nhánh — Một hệ sinh thái</span>
+        <h2>Tất cả những gì bạn cần cho một cuộc sống khoẻ mạnh</h2>
+        <p>IKI tích hợp tri thức — sản phẩm — công nghệ — cộng đồng trong một hệ thống thống nhất, để hành trình chăm sóc sức khoẻ của bạn được đồng hành ở mọi điểm chạm.</p>
+      </div>
+      <div class="ecosystem-grid">
+
+        <a class="eco-card" href="hoc-vien.html">
+          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></div>
+          <span class="eco-tag">Tri thức</span>
+          <h3>Học Viện IKI</h3>
+          <p>Đơn vị đào tạo của HOPE CORP. Toàn bộ bài giảng cốt lõi do TS. Ngô Đức Vượng ghi hình và đóng gói; đội ngũ Học Viện IKI — lớp kế thừa của Thầy — đảm nhận giảng dạy live, Q&amp;A và đồng hành học viên. Hơn 50 khoá học từ cơ bản đến chuyên sâu.</p>
+          <span class="eco-link">Xem các khoá học →</span>
+        </a>
+
+        <a class="eco-card" href="cong-dong.html">
+          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
+          <span class="eco-tag">Đồng hành</span>
+          <h3>Cộng đồng IKI</h3>
+          <p>Hơn 100.000 thành viên cùng học hỏi, chia sẻ và lan toả lối sống lành mạnh. Tham gia các nhóm chuyên đề, sự kiện offline và workshop hàng tháng.</p>
+          <span class="eco-link">Tham gia cộng đồng →</span>
+        </a>
+
+        <a class="eco-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">
+          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/><path d="M2 21c0-3 1.85-5.36 5.08-6"/></svg></div>
+          <span class="eco-tag">Sản phẩm</span>
+          <h3>Sản phẩm IKI</h3>
+          <p>Bộ sản phẩm hỗ trợ thanh lọc và bồi bổ cơ thể, lựa chọn từ thảo dược tự nhiên, kiểm nghiệm bài bản theo chuẩn an toàn cao nhất.</p>
+          <span class="eco-link">Khám phá sản phẩm →</span>
+        </a>
+
+        <a class="eco-card" href="app.html">
+          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg></div>
+          <span class="eco-tag">Công nghệ</span>
+          <h3>Ứng dụng IKI</h3>
+          <p>Theo dõi hành trình chăm sóc sức khoẻ, học tập, kết nối cộng đồng và đặt sản phẩm — tất cả trong một ứng dụng. Đồng hành cùng bạn mỗi ngày.</p>
+          <span class="eco-link">Tải ứng dụng →</span>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HOW IT WORKS — 3 bước onboarding ============ -->
+  <section class="how-it-works">
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow">Hành trình IKI · Đơn giản 3 bước</span>
+        <h2>Bắt đầu hôm nay — thấy thay đổi sau 7 ngày</h2>
+        <p>Bạn không cần đảo lộn cuộc sống. Chỉ cần 3 bước nhỏ — và một quyết định tử tế với chính mình.</p>
+      </div>
+      <div class="how-grid">
+
+        <article class="how-step">
+          <div class="how-step-num">1</div>
+          <div class="how-step-icon">📋</div>
+          <h3>Làm bài khảo sát lối sống (5 phút)</h3>
+          <p>Trả lời <strong>10 câu hỏi</strong> về thể trạng — IKI sẽ gợi ý nhóm dưỡng sinh tham khảo theo phương Đông: Hàn / Nhiệt / Hư / Thực / Đàm thấp. Hoàn toàn miễn phí.</p>
+          <div class="how-step-meta">⏱ 5 phút · Miễn phí</div>
+        </article>
+
+        <article class="how-step">
+          <div class="how-step-num">2</div>
+          <div class="how-step-icon">📚</div>
+          <h3>Nhận lộ trình cá nhân hoá</h3>
+          <p>Dựa trên kết quả khảo sát, IKI gợi ý <strong>khoá học phù hợp</strong> tham khảo — bắt đầu với 3 Ngày Reset miễn phí, hoặc khoá 7 Ngày có hướng dẫn cùng chuyên viên.</p>
+          <div class="how-step-meta">⏱ 7 ngày · Miễn phí — 1.2M</div>
+        </article>
+
+        <article class="how-step">
+          <div class="how-step-num">3</div>
+          <div class="how-step-icon">🌱</div>
+          <h3>Đồng hành cùng trợ lý AI lối sống</h3>
+          <p>Mỗi ngày 30 giây ghi nhật ký · AI gợi ý thói quen sống lành mạnh phù hợp · 2 buổi 1-1 với chuyên viên HOPE CORP nếu lên Premium.</p>
+          <div class="how-step-meta">⏱ 30 giây/ngày · Tự động</div>
+        </article>
+
+      </div>
+      <p class="disclaimer-inline" style="max-width: 820px; margin: 32px auto 0; text-align: left;">
+        <strong>Lưu ý:</strong> Bài khảo sát lối sống và các gợi ý của IKI mang tính tham khảo theo triết lý dưỡng sinh phương Đông — không dùng để chẩn đoán hoặc thay thế đánh giá y khoa chuyên môn.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ PHILOSOPHY — editorial, không chân dung ============ -->
+  <section class="philosophy">
+    <div class="container philosophy-inner">
+      <span class="eyebrow">Triết lý dẫn lối</span>
+      <blockquote class="philosophy-quote">
+        Mỗi người là vị thầy thuốc <em>tốt nhất</em><br/>của chính mình.
+      </blockquote>
+      <p class="philosophy-body">
+        Cơ thể con người có khả năng tự cân bằng kỳ diệu nếu được sống đúng
+        quy luật tự nhiên. IKI hệ thống hoá triết lý này thành hành trình
+        cụ thể — kết nối <em>thực dưỡng</em>, <em>vận động</em>, <em>hơi thở</em>
+        và <em>tâm thức</em> — để bất kỳ ai, dù bận rộn đến đâu, cũng có thể
+        bắt đầu.
+      </p>
+      <p class="philosophy-attribution">
+        Triết lý nền tảng được kế thừa và phát triển bởi Học Viện IKI thuộc HOPE CORP.
+      </p>
+      <a class="btn btn-secondary" href="hoc-vien.html">Tìm hiểu Học Viện IKI</a>
+    </div>
+  </section>
+
+  <!-- ============ LIFESTYLE BANNER — visual break ============ -->
+  <div class="lifestyle-banner" style="background-image: url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=2000&q=80&auto=format&fit=crop');" aria-hidden="true"></div>
+
+  <!-- ============ STATS ============ -->
+  <section class="stats">
+    <div class="container">
+      <div class="stats-grid">
+        <div>
+          <span class="stat-num">100K+</span>
+          <span class="stat-label">Thành viên cộng đồng</span>
+        </div>
+        <div>
+          <span class="stat-num">50+</span>
+          <span class="stat-label">Khoá học chuyên sâu</span>
+        </div>
+        <div>
+          <span class="stat-num">30 ngày</span>
+          <span class="stat-label">Hoàn tiền không cần lý do</span>
+        </div>
+        <div>
+          <span class="stat-num">40</span>
+          <span class="stat-label">Năm nghiên cứu của TS. NĐV</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ WHY IKI — 3 trụ cột thương hiệu ============ -->
+  <section class="features">
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow">Ba trụ cột làm nên IKI</span>
+        <h2>Tri thức — Công nghệ — Cộng đồng</h2>
+        <p>IKI không phụ thuộc vào một cá nhân. Đó là một hệ thống được xây trên ba nền tảng vững chắc, mỗi trụ cột tự đứng được và bổ trợ hai trụ cột còn lại.</p>
+      </div>
+
+      <div class="feature-row">
+        <div>
+          <span class="eyebrow">01 — Hệ tri thức</span>
+          <h3>Dựa trên hệ tri thức đã được kiểm chứng</h3>
+          <p>IKI được xây dựng trên nền tảng <strong>Hệ tri thức Thực dưỡng và Y học tự nhiên</strong> — đã được kiểm chứng qua nhiều thập kỷ thực hành — kết hợp cùng các thuật toán AI hiện đại để cá nhân hoá việc chăm sóc sức khoẻ.</p>
+          <ul class="feature-list">
+            <li>Hệ tri thức Thực dưỡng có lịch sử hơn nửa thế kỷ</li>
+            <li>Tham chiếu Y học hiện đại, cổ truyền và dinh dưỡng học</li>
+            <li>Cập nhật liên tục theo nghiên cứu khoa học mới</li>
+          </ul>
+        </div>
+        <div class="feature-visual" style="background-image: url('https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Trụ cột 01</span><strong>Hệ tri thức · kiểm chứng qua nhiều thập kỷ</strong></div></div>
+      </div>
+
+      <div class="feature-row reverse">
+        <div>
+          <span class="eyebrow">02 — Hợp nhất tinh hoa</span>
+          <h3>Trí tuệ truyền thống gặp Khoa học dữ liệu</h3>
+          <p>IKI là sự hợp nhất giữa <strong>Trí tuệ truyền thống</strong> (Traditional Wisdom) và <strong>Công nghệ dữ liệu</strong> (Data Science) — mang đến lộ trình tham khảo về chăm sóc sức khoẻ "chạm" đúng cơ địa của từng cá nhân, thay vì áp dụng công thức chung.</p>
+          <ul class="feature-list">
+            <li>Hồ sơ cơ địa cá nhân hoá qua App IKI</li>
+            <li>Đề xuất lộ trình theo dữ liệu thực hành của bạn</li>
+            <li>Theo dõi tiến triển bằng phân tích dài hạn</li>
+          </ul>
+        </div>
+        <div class="feature-visual warm" style="background-image: url('https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Trụ cột 02</span><strong>Truyền thống gặp Dữ liệu hiện đại</strong></div></div>
+      </div>
+
+      <div class="feature-row">
+        <div>
+          <span class="eyebrow">03 — Cộng đồng &amp; Chuyên gia</span>
+          <h3>Pháo đài dữ liệu sức khoẻ thực chứng</h3>
+          <p>IKI thừa hưởng bề dày kinh nghiệm từ <strong>Học Viện IKI</strong> và <strong>mạng lưới chuyên gia cố vấn hàng đầu</strong> trong lĩnh vực lối sống thuận tự nhiên — tạo nên một "pháo đài" về dữ liệu sức khoẻ thực chứng, không lý thuyết suông.</p>
+          <ul class="feature-list">
+            <li>100.000+ thành viên cộng đồng cùng thực hành</li>
+            <li>Mạng lưới Bác sĩ, Tiến sĩ, Lương y cố vấn chuyên môn</li>
+            <li>Hồ sơ kết quả thực hành được hệ thống hoá</li>
+          </ul>
+        </div>
+        <div class="feature-visual sand" style="background-image: url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Trụ cột 03</span><strong>Cộng đồng · Chuyên gia cố vấn</strong></div></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ============ COMPARISON — IKI vs cách thông thường ============ -->
+  <section class="comparison">
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow">Khác biệt rõ rệt</span>
+        <h2>IKI khác gì các phương pháp wellness khác?</h2>
+        <p>So sánh trực tiếp giữa IKI, app sức khoẻ thông thường, và phương pháp truyền thống.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th></th>
+              <th class="col-iki">
+                <strong>IKI</strong>
+                <small>Hệ tri thức + AI</small>
+              </th>
+              <th>
+                <strong>App wellness phổ thông</strong>
+                <small>MyFitnessPal, Noom...</small>
+              </th>
+              <th>
+                <strong>Phương pháp truyền thống</strong>
+                <small>Đông y / lương y riêng</small>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Cá nhân hoá theo cơ địa Đông y</td>
+              <td class="col-iki">✓ Hàn/Nhiệt/Hư/Thực/Đàm thấp</td>
+              <td>✗ Chỉ tính calo</td>
+              <td>✓ Có nhưng phụ thuộc lương y</td>
+            </tr>
+            <tr>
+              <td>AI Coach 24/7 không giới hạn</td>
+              <td class="col-iki">✓ Chat không giới hạn (Premium)</td>
+              <td>~ Chatbot generic</td>
+              <td>✗ Chỉ khi đi khám</td>
+            </tr>
+            <tr>
+              <td>Tích hợp sản phẩm + giảm 15%</td>
+              <td class="col-iki">✓ Bộ sản phẩm tự nhiên đa dạng</td>
+              <td>✗ Không có</td>
+              <td>~ Tự mua riêng</td>
+            </tr>
+            <tr>
+              <td>Cộng đồng học viên 100K+</td>
+              <td class="col-iki">✓ Group Zalo + Skool</td>
+              <td>~ Có nhưng generic</td>
+              <td>✗ Không có</td>
+            </tr>
+            <tr>
+              <td>Coaching 1-1 với chuyên viên</td>
+              <td class="col-iki">✓ 2 buổi/tháng (Premium)</td>
+              <td>~ Trả thêm phí cao</td>
+              <td>✓ Có (đắt)</td>
+            </tr>
+            <tr>
+              <td>Tuân thủ NĐ 13/2023 về DLCN</td>
+              <td class="col-iki">✓ Hosting tại VN</td>
+              <td>✗ Hosting nước ngoài</td>
+              <td>~ Không số hoá</td>
+            </tr>
+            <tr>
+              <td>Hoàn tiền 30 ngày không lý do</td>
+              <td class="col-iki">✓ Có</td>
+              <td>~ Phức tạp</td>
+              <td>✗ Không có</td>
+            </tr>
+            <tr class="row-price">
+              <td>Chi phí 1 năm</td>
+              <td class="col-iki"><strong>249.000đ/năm</strong><br/><small>Founder · ~20.750đ/tháng</small></td>
+              <td>~3.000.000đ/năm<br/><small>Premium subscription</small></td>
+              <td>5–15 triệu/năm<br/><small>Phòng khám lương y</small></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ PRODUCT SHOWCASE — 4 sản phẩm nổi bật ============ -->
+  <section class="product-showcase">
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow">Sản phẩm IKI nổi bật</span>
+        <h2>Tinh hoa thiên nhiên — đã được tin dùng</h2>
+        <p>4 sản phẩm bán chạy nhất từ bộ sưu tập thanh lọc &amp; bồi bổ của IKI.</p>
+      </div>
+      <div class="showcase-grid">
+
+        <a class="showcase-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">
+          <div class="showcase-img">
+            <img src="https://cdn.hstatic.net/products/200001053789/7_b4f0fad59a2b400da40762e0c2778958.png" alt="Bộ thải độc đại tràng" loading="lazy" />
+          </div>
+          <div class="showcase-body">
+            <span class="showcase-tag">Thanh lọc</span>
+            <h3>Bộ thải độc Đại tràng</h3>
+            <span class="showcase-price">450.000đ</span>
+          </div>
+        </a>
+
+        <a class="showcase-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">
+          <div class="showcase-img">
+            <img src="https://cdn.hstatic.net/products/200001053789/daudua_3_80a06830f8c346c4b95cae3330ba840f.jpg" alt="Dầu dừa lên men tách lạnh" loading="lazy" />
+          </div>
+          <div class="showcase-body">
+            <span class="showcase-tag">Thực dưỡng</span>
+            <h3>Dầu Dừa Lên Men Tách Lạnh</h3>
+            <span class="showcase-price">385.000đ</span>
+          </div>
+        </a>
+
+        <a class="showcase-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">
+          <div class="showcase-img">
+            <img src="https://cdn.hstatic.net/products/200001053789/1_a469e6978a9740888cf235d6450f7c6f.png" alt="Trà Tuệ Minh" loading="lazy" />
+          </div>
+          <div class="showcase-body">
+            <span class="showcase-tag">Trà thanh tâm</span>
+            <h3>Trà Tuệ Minh</h3>
+            <span class="showcase-price">162.000đ</span>
+          </div>
+        </a>
+
+        <a class="showcase-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">
+          <div class="showcase-img">
+            <img src="https://cdn.hstatic.net/products/200001053789/13_9f7490be5e224429be7edbb4b9cd7abd.png" alt="Bột Cafe IKI" loading="lazy" />
+          </div>
+          <div class="showcase-body">
+            <span class="showcase-tag">Thanh lọc</span>
+            <h3>Bột Cafe IKI</h3>
+            <span class="showcase-price">300.000đ</span>
+          </div>
+        </a>
+
+      </div>
+      <div style="text-align: center; margin-top: 40px;">
+        <a class="btn btn-secondary" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Xem toàn bộ tại ikihealingdetox.com ↗</a>
+      </div>
+      <p class="disclaimer-inline" style="max-width: 820px; margin: 32px auto 0;">
+        <strong>Lưu ý:</strong> Các sản phẩm trên là <strong>thực phẩm/thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Sản phẩm có Giấy công bố sản phẩm với Cục An toàn Thực phẩm và Phiếu kiểm nghiệm độc lập.
+      </p>
+    </div>
+  </section>
+
+  <!-- ============ TESTIMONIALS ============ -->
+  <section class="testimonials">
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow">Lời của hơn 100.000 học viên &amp; cộng đồng IKI</span>
+        <h2>Hành trình thay đổi — từ những con người thật</h2>
+        <p>Không phải lời quảng cáo. Đây là chia sẻ thật của học viên, khách hàng và thành viên cộng đồng IKI sau khi áp dụng triết lý sống chủ động vào cuộc sống của họ.</p>
+        <p class="disclaimer-inline" style="text-align: left; margin-top: 20px;">
+          <strong>Lưu ý:</strong> Các chia sẻ là trải nghiệm cá nhân — kết quả có thể khác nhau tuỳ cơ địa, tình trạng sức khoẻ và quá trình thực hành của từng người. Không phải nội dung khẳng định hiệu quả điều trị.
+        </p>
+      </div>
+
+      <!-- Featured testimonial -->
+      <div class="testimonial-featured">
+        <div class="testimonial-portrait" aria-hidden="true">M</div>
+        <div>
+          <div class="testimonial-rating" aria-label="5 sao">★ ★ ★ ★ ★</div>
+          <blockquote>"Trước đây tôi có giấc ngủ rời rạc và đã thử nhiều cách khác nhau. Sau khoá 7 ngày của IKI và duy trì đều đặn chế độ ăn, hơi thở, đi bộ buổi sáng, tôi cảm nhận cơ thể nhẹ nhõm hơn và có nhịp sinh hoạt đều đặn hơn theo từng tuần. Điều tôi biết ơn nhất ở IKI là họ giúp tôi hiểu cơ thể mình và chủ động hơn với lối sống của bản thân."</blockquote>
+          <div class="testimonial-meta">
+            <div>
+              <div class="testimonial-name">Chị Minh Anh, 42 tuổi</div>
+              <div class="testimonial-role">Quản lý dự án · Học viên khoá Nền tảng 30 ngày · TP.HCM</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- 6 short testimonials -->
+      <div class="testimonial-grid">
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Sau 30 ngày khoá Nền tảng, gia đình tôi đã đổi cả thực đơn buổi sáng. Con tôi cảm thấy đường tiêu hoá thoải mái hơn, chồng tôi cảm nhận cơ thể gọn gàng và năng lượng đều hơn — không phải ăn kiêng khắt khe.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar">N</div>
+            <div>
+              <div class="testimonial-name">Chị Ngọc Lan</div>
+              <div class="testimonial-role">Mẹ 2 con · Hà Nội</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Là bác sĩ, tôi từng nghĩ mình biết về sức khoẻ. Đến khi nghe Thầy Vượng giảng, tôi mới hiểu khoảng cách giữa "biết bệnh" và "hiểu sức khoẻ" lớn thế nào.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar warm">B</div>
+            <div>
+              <div class="testimonial-name">BS. Bích Vân</div>
+              <div class="testimonial-role">Bác sĩ Y học Cổ truyền · Đà Nẵng</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Điều tôi quý nhất ở IKI là sự tử tế. Trong group Zalo, mọi câu hỏi của tôi đều được moderator trả lời cẩn thận — không bị bỏ rơi như nhiều cộng đồng khác.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar deep">T</div>
+            <div>
+              <div class="testimonial-name">Anh Thanh Tùng, 38</div>
+              <div class="testimonial-role">Kỹ sư phần mềm · Hà Nội</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Tôi 65 tuổi, không quen với online học hành. Thế mà khoá học IKI tôi vẫn theo được — vì nó được chia nhỏ, nói chậm, có người gọi nhắc. Cảm giác như có cháu chăm.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar sand">L</div>
+            <div>
+              <div class="testimonial-name">Cô Lan Hương, 65</div>
+              <div class="testimonial-role">Hưu trí · Hải Phòng</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Sau retreat 7 ngày tại Hoà Bình, tôi nhận ra mình đã sống vội suốt 10 năm. Quay về Sài Gòn, tôi giữ thói quen dậy 5h tập thở mỗi sáng — đó là thay đổi quý nhất của tôi.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar earth">P</div>
+            <div>
+              <div class="testimonial-name">Anh Phương, 35</div>
+              <div class="testimonial-role">Founder startup · TP.HCM</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Sản phẩm IKI Detox Trà tôi dùng đều đặn 6 tháng — vị dễ chịu, dễ uống. Cảm giác cơ thể thoải mái hơn và lối sinh hoạt cân bằng hơn.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar">H</div>
+            <div>
+              <div class="testimonial-name">Chị Hồng Ngọc, 48</div>
+              <div class="testimonial-role">Khách hàng IKI Detox Trà · Cần Thơ</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 3 testimonials mới — focus IKI App + lộ trình -->
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>IKI App đã trở thành nghi thức buổi sáng của tôi. Mở app, ghi 30 giây, xem AI Coach gợi ý gì cho hôm nay — rồi cứ thế đi theo. Cơ thể tôi nhẹ hơn rõ rệt sau 60 ngày.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar deep">A</div>
+            <div>
+              <div class="testimonial-name">Anh An Bình, 39</div>
+              <div class="testimonial-role">IKI Premium Founder · Bình Dương</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Tôi đăng ký Founder 249k/năm và thấy đây là quyết định đúng nhất 2026. Riêng 2 buổi tư vấn 1-1 với chuyên viên HOPE CORP mỗi tháng đã đáng giá hơn số tiền tôi bỏ ra cả năm.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar warm">N</div>
+            <div>
+              <div class="testimonial-name">Cô Như Quỳnh, 47</div>
+              <div class="testimonial-role">IKI Premium Founder · Hà Nội</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="testimonial">
+          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
+          <blockquote>Lộ trình IKI rất rõ: 3 Ngày Reset miễn phí thử trước → thấy hợp thì đăng ký 7 Ngày Detox → cần sâu hơn thì có Đồng Hành 1-1. Không bị ép buộc, không kiểu MLM. Hiếm có brand wellness Việt làm chuẩn được như vậy.</blockquote>
+          <div class="testimonial-meta">
+            <div class="testimonial-avatar sand">T</div>
+            <div>
+              <div class="testimonial-name">Anh Tuấn Anh, 44</div>
+              <div class="testimonial-role">Đã trải qua đủ 3 tier · Đà Nẵng</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ FAQ — câu hỏi thường gặp ============ -->
+  <section class="faq" id="faq">
+    <div class="container faq-inner">
+      <div class="section-header">
+        <span class="eyebrow">Câu hỏi thường gặp</span>
+        <h2>Mọi điều bạn muốn biết — trước khi bắt đầu</h2>
+      </div>
+
+      <details class="faq-item">
+        <summary>IKI có khác gì so với các app wellness khác?</summary>
+        <p>IKI tích hợp <strong>Hệ tri thức Thực dưỡng và Y học Cổ truyền</strong> đã được kiểm chứng qua nhiều thập kỷ với <strong>Công nghệ AI hiện đại</strong> — gợi ý lộ trình lối sống tham khảo theo thể tạng (Hàn/Nhiệt/Hư/Thực), không phải công thức chung. Khác biệt chính: cá nhân hoá tham khảo + cộng đồng 100K+ + tích hợp sản phẩm + tư vấn 1-1 với chuyên viên Học Viện IKI.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Tôi không có nhiều thời gian — cần bao nhiêu phút mỗi ngày?</summary>
+        <p>Chỉ <strong>30 giây/ngày</strong> để ghi nhật ký. AI hỗ trợ phần phân tích lối sống. Khi đăng ký khoá học, bạn cần thêm 30 phút/ngày trong 7 ngày để xem video bài giảng. Sau đó là tự áp dụng vào lối sống.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Tôi 60+ tuổi, có dùng được app không?</summary>
+        <p>Có. IKI App được thiết kế đơn giản — chữ to, ít nút bấm, có hướng dẫn giọng nói tiếng Việt. Nhiều thành viên cộng đồng IKI ở độ tuổi 65–75 vẫn đang dùng đều đặn. Nếu khó khăn, có đội ngũ CSKH gọi điện hướng dẫn miễn phí.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Tôi đang dùng thuốc Tây — có cần dừng không?</summary>
+        <p><strong>Không.</strong> IKI là phương pháp <em>bổ trợ</em>, không thay thế điều trị y tế. Mọi thay đổi về thuốc cần tham khảo bác sĩ điều trị của bạn. IKI chỉ tập trung vào dinh dưỡng, vận động, hơi thở và lối sống — những yếu tố nền tảng mà mọi bác sĩ đều khuyến khích.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Hoàn tiền có khó không nếu tôi không thấy hợp?</summary>
+        <p>Không khó. Trong <strong>30 ngày đầu</strong>, gửi 1 tin nhắn ngắn vào email <em>contact@ikihealing.com</em> — không cần lý do. HOPE CORP hoàn tiền 100% trong 3-5 ngày làm việc qua tài khoản gốc.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>IKI có liên quan gì đến Tiến sĩ Ngô Đức Vượng?</summary>
+        <p>TS. Ngô Đức Vượng là <strong>người đặt nền móng tri thức</strong> cho Học Viện IKI — bộ video bài giảng cốt lõi đều do Thầy ghi hình. Hiện tại, đội ngũ Health Coach và chuyên gia Y học Cổ truyền của HOPE CORP — lớp kế thừa được Thầy đào tạo — đảm nhận giảng dạy live, Q&amp;A và đồng hành cá nhân hoá.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Sản phẩm IKI có an toàn? Có giấy phép không?</summary>
+        <p>Tất cả sản phẩm IKI đều có <strong>Giấy công bố sản phẩm</strong> với Cục An toàn Thực phẩm và <strong>Phiếu kiểm nghiệm độc lập</strong> — công khai trên website. Sản xuất tại nhà máy đạt chuẩn GMP. Không hương liệu hoá học, không chất bảo quản tổng hợp, không phụ gia không cần thiết.</p>
+      </details>
+
+      <details class="faq-item">
+        <summary>Có thể dùng IKI cho cả gia đình không?</summary>
+        <p>Có. IKI Premium 1 tài khoản dùng được cho 1 người, nhưng nhiều thành viên trong nhà có thể tham khảo cùng nhau qua việc xem video bài giảng. Học viên Khoá Nền tảng có thể chia sẻ thực đơn cho cả nhà — đây là cách nhiều gia đình IKI áp dụng.</p>
+      </details>
+
+    </div>
+  </section>
+
+  <!-- ============ EMAIL CAPTURE ============ -->
+  <section class="email-capture">
+    <div class="container">
+      <div class="email-capture-inner">
+        <span class="eyebrow">Lộ trình miễn phí qua email</span>
+        <h2>Nhận lộ trình 3 Ngày Reset + bài khảo sát lối sống</h2>
+        <p>Để lại email — chúng tôi gửi ngay lộ trình ăn uống &amp; vận động phù hợp cơ địa Đông y của bạn. Không spam, có thể huỷ bất cứ lúc nào.</p>
+        <form class="email-capture-form" novalidate>
+          <input type="email" name="email" placeholder="email-cua-ban@gmail.com" required aria-label="Email của bạn" />
+          <button type="submit" class="btn btn-primary">Nhận lộ trình →</button>
+        </form>
+        <div class="consent-row">
+          <input type="checkbox" id="consent-pdpa" name="consent" required />
+          <label for="consent-pdpa">
+            Tôi đồng ý cho HOPE CORP xử lý email và thông tin liên hệ để gửi lộ trình tham khảo theo
+            <a href="chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách bảo mật</a>
+            (Nghị định 13/2023/NĐ-CP). Tôi có thể rút lại đồng ý bất cứ lúc nào.
+          </label>
+        </div>
+        <p class="email-capture-note">Email của anh/chị được bảo mật theo Nghị định 13/2023/NĐ-CP · Không chia sẻ cho bên thứ ba</p>
+        <div class="email-capture-success" role="status">
+          ✓ Cảm ơn anh/chị đã đăng ký. Vui lòng kiểm tra hộp thư (kể cả Spam) trong vài phút tới.
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ CTA BANNER ============ -->
+  <section style="padding: 64px 0;">
+    <div class="container" style="padding: 0;">
+      <div class="cta-banner">
+        <span class="eyebrow" style="color: var(--iki-sand);">Bắt đầu hôm nay · Miễn phí</span>
+        <h2>3 Ngày Reset — Bước thử đầu tiên hoàn toàn miễn phí</h2>
+        <p>3 ngày email + thực đơn + bài khảo sát lối sống tham khảo theo dưỡng sinh phương Đông. Không thẻ tín dụng, không cam kết. Hợp thì tiếp tục, không hợp thì dừng. Đơn giản vậy thôi.</p>
+        <a class="btn btn-primary" href="https://www.7ngayreset.com" target="_blank" rel="noopener">Bắt đầu 3 Ngày Reset miễn phí →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ HOPE CORPORATE STRIP ============ -->
+  <section class="hope-strip">
+    <div class="container hope-grid">
+      <div>
+        <span class="hope-eyebrow">Đơn vị pháp lý</span>
+        <h2>Công ty Cổ phần TMDV HOPE</h2>
+        <p>Pháp nhân sở hữu thương hiệu IKI, thương hiệu Ngô Đức Vượng và toàn bộ hệ sinh thái — vận hành minh bạch, có trách nhiệm với khách hàng, đối tác và cộng đồng.</p>
+      </div>
+      <dl class="hope-info-list">
+        <div>
+          <dt>Tên đầy đủ</dt>
+          <dd>Công ty Cổ phần Thương mại Dịch vụ HOPE</dd>
+        </div>
+        <div>
+          <dt>Mã số thuế</dt>
+          <dd>0801404967</dd>
+        </div>
+        <div>
+          <dt>Lĩnh vực hoạt động</dt>
+          <dd>Đào tạo sức khoẻ — TMĐT — Cộng đồng</dd>
+        </div>
+        <div>
+          <dt>Trụ sở</dt>
+          <dd>63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng</dd>
+        </div>
+        <div>
+          <dt>Liên hệ doanh nghiệp</dt>
+          <dd>contact@ikihealing.com</dd>
+        </div>
+      </dl>
+    </div>
+  </section>
+
+  <!-- ============ STICKY MOBILE CTA ============ -->
+  <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
+    <a class="btn btn-primary" href="https://www.7ngayreset.com" target="_blank" rel="noopener">Tham gia miễn phí →</a>
+  </div>
+
+  <!-- ============ FOOTER ============ -->
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div>
+          <div class="footer-brand">IKI</div>
+          <p>Hệ sinh thái chăm sóc sức khoẻ chủ động cho người Việt — một thương hiệu thuộc sở hữu của Công ty Cổ phần TMDV HOPE. Cố vấn chuyên môn: TS. Ngô Đức Vượng và đội ngũ Học Viện IKI.</p>
+        </div>
+        <div>
+          <h4>Hệ sinh thái</h4>
+          <ul>
+            <li><a href="hoc-vien.html">Học Viện IKI</a></li>
+            <li><a href="cong-dong.html">Cộng đồng IKI</a></li>
+            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Sản phẩm IKI ↗</a></li>
+            <li><a href="app.html">Ứng dụng IKI</a></li>
+          <li><a href="ve-hope.html">Về HOPE CORP</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Hỗ trợ</h4>
+          <ul>
+            <li><a href="index.html#faq">Câu hỏi thường gặp</a></li>
+            <li><a href="chinh-sach-doi-tra.html">Chính sách đổi trả</a></li>
+            <li><a href="chinh-sach-bao-mat.html">Chính sách bảo mật</a></li>
+            <li><a href="mailto:contact@ikihealing.com">Liên hệ</a></li>
+          </ul>
+        </div>
+        <div>
+          <h4>Liên hệ</h4>
+          <ul class="contact-list">
+            <li class="contact-item">
+              <span class="contact-label">📧 Email</span>
+              <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a>
+            </li>
+            <li class="contact-item">
+              <span class="contact-label">🌿 Tư vấn sức khoẻ &amp; Mua hàng</span>
+              <a href="tel:0987931551">0987.931.551</a><span class="contact-sep">·</span><a href="tel:0398767885">0398.767.885</a>
+            </li>
+            <li class="contact-item">
+              <span class="contact-label">💬 Chăm sóc Khách hàng</span>
+              <a href="tel:0396748848">0396.748.848</a>
+            </li>
+            <li class="contact-item">
+              <span class="contact-label">🥑 Sản phẩm IKI</span>
+              <a href="tel:0336759982">0336.759.982</a>
+            </li>
+            <li class="contact-item">
+              <span class="contact-label">📍 Trụ sở</span>
+              63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng
+            </li>
+            <li class="contact-social">
+              <span class="social-soon">Facebook · YouTube · Zalo OA · TikTok <em>(sắp ra mắt)</em></span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="global-disclaimer">
+        <h4>Thông tin miễn trừ trách nhiệm</h4>
+        <p>Các thông tin trên website IKI chỉ nhằm mục đích cung cấp kiến thức về dinh dưỡng, lối sống và chăm sóc sức khoẻ chủ động. Nội dung không thay thế cho tư vấn, chẩn đoán hoặc điều trị y khoa chuyên môn.</p>
+        <p>Các sản phẩm được giới thiệu trên website là <strong style="color: rgba(255,255,255,0.78);">thực phẩm/thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
+        <p>Kết quả trải nghiệm có thể khác nhau tuỳ theo cơ địa, tình trạng sức khoẻ và quá trình thực hành của từng cá nhân.</p>
+        <p>Ứng dụng IKI và các bài khảo sát chỉ mang tính hỗ trợ tham khảo theo triết lý dưỡng sinh phương Đông, không phải công cụ chẩn đoán y khoa.</p>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span>
+        <span>Made with care in Vietnam</span>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

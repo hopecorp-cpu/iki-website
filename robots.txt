@@ -1,0 +1,16 @@
+# IKI by HOPE CORP — robots.txt
+# https://ikihealing.com
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://ikihealing.com/sitemap.xml
+
+# Disallow common admin / dev paths (none on static site, but defensive)
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+
+# Crawl-delay for polite bots
+Crawl-delay: 1
