@@ -1481,12 +1481,11 @@ section { padding: 96px 0; }
   .hero h1 .h1-break { display: block; }
 }
 
-/* -------- Language switcher (header) -------- */
+/* -------- Language switcher -------- */
 .lang-switcher {
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  margin-left: 12px;
   padding: 4px;
   background: var(--iki-cream);
   border-radius: 999px;
@@ -1511,13 +1510,37 @@ section { padding: 96px 0; }
   color: white !important;
   box-shadow: 0 2px 8px rgba(46, 137, 117, 0.25);
 }
+
+/* Header sub-bar — desktop language strip below main nav */
+.header-subbar {
+  display: none;
+  border-top: 1px solid var(--gray-100);
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+.header-subbar-inner {
+  max-width: var(--container);
+  margin: 0 auto;
+  padding: 6px 24px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+/* Desktop: hide inline switcher, show subbar */
+@media (min-width: 881px) {
+  .lang-switcher.is-inline { display: none; }
+  .header-subbar { display: block; }
+}
+/* Mobile: keep inline switcher in header, hide subbar */
 @media (max-width: 880px) {
-  .lang-switcher {
+  .lang-switcher.is-inline {
     margin: 0 auto 0 0;
     order: 2;
     font-size: 0.72rem;
   }
-  .lang-switcher a { padding: 5px 9px; }
+  .lang-switcher.is-inline a { padding: 5px 9px; }
 }
 .feature-list {
   list-style: none;
