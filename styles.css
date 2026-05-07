@@ -1482,35 +1482,43 @@ section { padding: 96px 0; }
   .hero h1 .h1-break { display: block; }
 }
 
-/* -------- Language switcher -------- */
+/* -------- Language switcher (flag icons) -------- */
 .lang-switcher {
   display: inline-flex;
   align-items: center;
-  gap: 4px;
+  gap: 2px;
   padding: 4px;
   background: var(--iki-cream);
   border-radius: 999px;
   font-family: var(--font-body);
   font-size: 0.78rem;
   font-weight: 600;
-  letter-spacing: 0.06em;
 }
 .lang-switcher a {
   display: inline-flex;
   align-items: center;
-  padding: 6px 11px;
+  gap: 6px;
+  padding: 6px 12px;
   border-radius: 999px;
   color: var(--gray-500);
   text-decoration: none;
   transition: all 0.2s var(--ease);
+  letter-spacing: 0.06em;
   text-transform: uppercase;
+  font-size: 0.74rem;
 }
-.lang-switcher a:hover { color: var(--iki-teal-deep); }
+.lang-switcher a .flag {
+  font-size: 1.1rem;
+  line-height: 1;
+  filter: saturate(1.05);
+}
+.lang-switcher a:hover { color: var(--iki-teal-deep); background: rgba(255,255,255,0.55); }
 .lang-switcher a.active {
   background: var(--iki-gradient);
   color: white !important;
   box-shadow: 0 2px 8px rgba(46, 137, 117, 0.25);
 }
+.lang-switcher a.active .flag { filter: saturate(1.15) drop-shadow(0 1px 2px rgba(0,0,0,0.12)); }
 
 /* Header sub-bar — desktop language strip below main nav */
 .header-subbar {
