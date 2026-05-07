@@ -1188,7 +1188,7 @@ section { padding: 96px 0; }
 }
 .ks-block {
   display: grid;
-  grid-template-columns: 88px 1fr;
+  grid-template-columns: minmax(120px, max-content) 1fr;
   gap: 32px;
   align-items: start;
   padding-bottom: 48px;
@@ -1208,6 +1208,7 @@ section { padding: 96px 0; }
   -webkit-text-fill-color: transparent;
   background-clip: text;
   letter-spacing: -0.02em;
+  white-space: nowrap;
 }
 .ks-content h3 {
   font-size: clamp(1.4rem, 2.4vw, 1.8rem);
