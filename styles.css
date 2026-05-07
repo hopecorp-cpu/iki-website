@@ -2467,3 +2467,263 @@ section { padding: 96px 0; }
   letter-spacing: 0.01em;
   line-height: 1.3;
 }
+
+/* =====================================================================
+   ADDITIONS v3 — Funnel · Pricing summary · Exit popup · Quiz
+   ===================================================================== */
+
+/* -------- Hành trình IKI Funnel section -------- */
+.iki-funnel { background: var(--white); padding: 96px 0; }
+.funnel-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 18px;
+  margin-top: 56px;
+  position: relative;
+}
+@media (max-width: 980px) { .funnel-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 540px) { .funnel-grid { grid-template-columns: 1fr; } }
+.funnel-step {
+  background: white;
+  border: 1.5px solid var(--gray-100);
+  border-radius: var(--radius-lg);
+  padding: 32px 24px;
+  position: relative;
+  text-align: center;
+  transition: all 0.3s var(--ease);
+}
+.funnel-step:hover { transform: translateY(-4px); border-color: var(--iki-leaf); box-shadow: var(--shadow-md); }
+.funnel-step.featured { border-color: var(--iki-teal); background: linear-gradient(180deg, rgba(75,192,171,0.04) 0%, white 100%); }
+.funnel-step-tier {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--iki-clay);
+  background: var(--iki-cream);
+  padding: 5px 12px;
+  border-radius: 999px;
+  margin-bottom: 16px;
+}
+.funnel-step h3 { font-size: 1.25rem; margin-bottom: 8px; }
+.funnel-step .funnel-price {
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: var(--iki-teal-deep);
+  margin-bottom: 12px;
+}
+.funnel-step .funnel-price small {
+  font-size: 0.78rem;
+  font-weight: 400;
+  color: var(--gray-500);
+  display: block;
+  margin-top: 2px;
+}
+.funnel-step p { font-size: 0.9rem; color: var(--gray-700); margin-bottom: 18px; line-height: 1.55; }
+.funnel-step .funnel-cta { font-size: 0.85rem; color: var(--iki-teal-deep); font-weight: 600; }
+.funnel-step .funnel-cta::after { content: " →"; color: var(--iki-clay); }
+
+/* -------- Exit-intent popup -------- */
+.exit-popup-overlay {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(31, 45, 42, 0.7);
+  backdrop-filter: blur(4px);
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: fade-in 0.3s ease;
+}
+.exit-popup-overlay.is-open { display: flex; }
+@keyframes fade-in { from { opacity: 0; } to { opacity: 1; } }
+.exit-popup {
+  background: white;
+  border-radius: var(--radius-lg);
+  padding: 48px 36px;
+  max-width: 520px;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  box-shadow: var(--shadow-lg);
+  animation: pop-in 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+}
+@keyframes pop-in {
+  from { transform: scale(0.92); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+@media (max-width: 540px) { .exit-popup { padding: 36px 24px; } }
+.exit-popup-close {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  background: var(--iki-cream);
+  border: 0;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  cursor: pointer;
+  font-size: 1.1rem;
+  color: var(--gray-700);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.exit-popup-close:hover { background: var(--gray-100); }
+.exit-popup-eyebrow {
+  display: inline-block;
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--iki-clay);
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.exit-popup h3 {
+  font-size: 1.6rem;
+  margin-bottom: 12px;
+  line-height: 1.2;
+}
+.exit-popup p { color: var(--gray-700); margin-bottom: 24px; font-size: 0.95rem; }
+.exit-popup form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.exit-popup input[type="email"] {
+  padding: 14px 18px;
+  border: 1.5px solid var(--gray-100);
+  border-radius: 12px;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+}
+.exit-popup input[type="email"]:focus {
+  outline: none;
+  border-color: var(--iki-teal);
+  box-shadow: 0 0 0 4px rgba(75, 192, 171, 0.15);
+}
+.exit-popup .btn { width: 100%; justify-content: center; }
+.exit-popup small {
+  display: block;
+  margin-top: 14px;
+  font-size: 0.78rem;
+  color: var(--gray-500);
+}
+
+/* -------- Quiz launcher card -------- */
+.quiz-launcher {
+  background: linear-gradient(135deg, rgba(168, 210, 84, 0.10) 0%, rgba(75, 192, 171, 0.18) 100%);
+  border-radius: var(--radius-lg);
+  padding: 48px 40px;
+  text-align: center;
+  border: 2px dashed var(--iki-teal);
+  max-width: 760px;
+  margin: 0 auto;
+}
+@media (max-width: 540px) { .quiz-launcher { padding: 36px 24px; } }
+.quiz-launcher .quiz-badge {
+  display: inline-block;
+  font-size: 1.6rem;
+  margin-bottom: 12px;
+}
+.quiz-launcher h3 {
+  font-size: clamp(1.5rem, 2.8vw, 2rem);
+  margin-bottom: 12px;
+}
+.quiz-launcher p { color: var(--gray-700); font-size: 1rem; max-width: 540px; margin: 0 auto 24px; line-height: 1.65; }
+.quiz-launcher .btn { padding: 16px 32px; }
+
+/* Quiz modal (when launched) */
+.quiz-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(31, 45, 42, 0.7);
+  backdrop-filter: blur(4px);
+  z-index: 100;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.quiz-modal.is-open { display: flex; }
+.quiz-modal-inner {
+  background: white;
+  border-radius: var(--radius-lg);
+  padding: 40px 32px;
+  max-width: 600px;
+  width: 100%;
+  position: relative;
+  box-shadow: var(--shadow-lg);
+  max-height: 90vh;
+  overflow-y: auto;
+}
+.quiz-step { display: none; }
+.quiz-step.is-active { display: block; }
+.quiz-progress {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 24px;
+}
+.quiz-progress-dot {
+  flex: 1;
+  height: 4px;
+  background: var(--gray-100);
+  border-radius: 4px;
+}
+.quiz-progress-dot.is-active { background: var(--iki-gradient); }
+.quiz-step h4 {
+  font-size: 1.3rem;
+  margin-bottom: 24px;
+  text-align: center;
+}
+.quiz-options {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.quiz-option {
+  background: white;
+  border: 1.5px solid var(--gray-100);
+  border-radius: 12px;
+  padding: 14px 18px;
+  cursor: pointer;
+  text-align: left;
+  font-size: 0.95rem;
+  color: var(--iki-ink);
+  transition: all 0.2s var(--ease);
+  font-family: var(--font-body);
+}
+.quiz-option:hover { border-color: var(--iki-teal); background: rgba(75,192,171,0.04); }
+.quiz-result {
+  text-align: center;
+  padding: 12px;
+}
+.quiz-result-badge {
+  display: inline-block;
+  background: var(--iki-gradient);
+  color: white;
+  padding: 8px 20px;
+  border-radius: 999px;
+  font-family: var(--font-body);
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  font-size: 0.85rem;
+  margin-bottom: 14px;
+}
+.quiz-result h3 { font-size: 1.6rem; margin-bottom: 12px; }
+.quiz-result p { color: var(--gray-700); line-height: 1.6; margin-bottom: 18px; }
+.quiz-email-form input {
+  width: 100%;
+  padding: 14px 18px;
+  border: 1.5px solid var(--gray-100);
+  border-radius: 12px;
+  font-family: var(--font-body);
+  margin-bottom: 12px;
+}
+.quiz-email-form input:focus { outline: none; border-color: var(--iki-teal); box-shadow: 0 0 0 4px rgba(75,192,171,0.15); }
+.quiz-email-form .btn { width: 100%; justify-content: center; }
