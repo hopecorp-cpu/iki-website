@@ -2,6 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
+       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
+       like Cloudflare. These meta tags are the static-site-safe subset.
+       ============================================================ -->
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
+  <!-- Google Search Console verification — paste your actual code from GSC here:
+  <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>IKI — Proactive Health Care for Vietnam &amp; the World | A Modern Wellness Ecosystem</title>
   <meta name="description" content="IKI is the proactive wellness brand of HOPE CORP, integrating traditional Eastern macrobiotics with modern data science. Academy, Community, Products, and the IKI App come together to support healthier, more peaceful, and more prosperous living." />
@@ -74,10 +84,10 @@
         <li><a href="/en/" class="active">Home</a></li>
         <li><a href="/en/coming-soon.html?p=academy">Academy</a></li>
         <li><a href="/en/coming-soon.html?p=community">Community</a></li>
-        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Products ↗</a></li>
+        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Products ↗</a></li>
         <li><a href="/en/coming-soon.html?p=app">App</a></li>
         <li><a href="/en/coming-soon.html?p=about">About HOPE CORP</a></li>
-        <li><a class="nav-cta" href="/3ngayreset.html" target="_blank" rel="noopener">Try Free</a></li>
+        <li><a class="nav-cta" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Try Free</a></li>
       </ul>
     </nav>
     <div class="header-subbar"><div class="header-subbar-inner"><div class="lang-switcher" aria-label="Language"><a href="/"><span class="flag" aria-hidden="true">🇻🇳</span>VI</a><a href="/en/" class="active"><span class="flag" aria-hidden="true">🇬🇧</span>EN</a><a href="/ja/"><span class="flag" aria-hidden="true">🇯🇵</span>JA</a></div></div></div>
@@ -98,7 +108,7 @@
           journeys aligned with each individual's lifestyle and constitution.
         </p>
         <div class="hero-cta">
-          <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener">
+          <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">
             Start the 3-Day Reset — free
             <span aria-hidden="true">→</span>
           </a>
@@ -196,7 +206,7 @@
           <span class="eco-link">Join the community →</span>
         </a>
 
-        <a class="eco-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">
+        <a class="eco-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">
           <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/><path d="M2 21c0-3 1.85-5.36 5.08-6"/></svg></div>
           <span class="eco-tag">Products</span>
           <h3>IKI Products</h3>
@@ -353,7 +363,7 @@
         <span class="eyebrow" style="color: var(--iki-sand);">Begin today · Free</span>
         <h2>3-Day Reset — your first step, completely free</h2>
         <p>3 days of email + meal plans + Eastern lifestyle survey. No credit card, no commitment. Continue if it fits, stop if it doesn't. It's that simple.</p>
-        <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener">Start the free 3-Day Reset →</a>
+        <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Start the free 3-Day Reset →</a>
       </div>
     </div>
   </section>
@@ -393,7 +403,7 @@
 
   <!-- STICKY MOBILE CTA -->
   <div class="sticky-mobile-cta" aria-label="Quick action">
-    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener">Try free →</a>
+    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Try free →</a>
   </div>
 
   <!-- FOOTER -->
@@ -409,7 +419,7 @@
           <ul>
             <li><a href="/en/coming-soon.html?p=academy">IKI Academy</a></li>
             <li><a href="/en/coming-soon.html?p=community">IKI Community</a></li>
-            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">IKI Products ↗</a></li>
+            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">IKI Products ↗</a></li>
             <li><a href="/en/coming-soon.html?p=app">IKI App</a></li>
             <li><a href="/en/coming-soon.html?p=about">About HOPE CORP</a></li>
           </ul>

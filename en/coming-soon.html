@@ -2,6 +2,16 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
+       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
+       like Cloudflare. These meta tags are the static-site-safe subset.
+       ============================================================ -->
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
+  <!-- Google Search Console verification — paste your actual code from GSC here:
+  <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Coming Soon · IKI by HOPE CORP</title>
   <meta name="description" content="This page is currently being translated to English. Please visit the Vietnamese version or return later." />
@@ -14,6 +24,21 @@
   <link rel="icon" type="image/jpeg" href="../iki-logo-256.jpg" />
   <link rel="stylesheet" href="../styles.css" />
   <script src="../script.js" defer></script>
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:url" content="https://ikihealing.com/en/coming-soon.html" />
+  <meta property="og:title" content="Coming Soon — IKI by HOPE CORP" />
+  <meta property="og:description" content="This page is being prepared for English. Please visit our homepage in the meantime." />
+  <meta property="og:image" content="https://ikihealing.com/iki-logo.jpg" />
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Coming Soon — IKI by HOPE CORP" />
+  <meta name="twitter:description" content="This page is being prepared for English. Please visit our homepage in the meantime." />
+  <meta name="twitter:image" content="https://ikihealing.com/iki-logo.jpg" />
 </head>
 <body>
 
@@ -32,10 +57,10 @@
         <li><a href="/en/">Home</a></li>
         <li><a href="/en/coming-soon.html?p=academy">Academy</a></li>
         <li><a href="/en/coming-soon.html?p=community">Community</a></li>
-        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Products ↗</a></li>
+        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Products ↗</a></li>
         <li><a href="/en/coming-soon.html?p=app">App</a></li>
         <li><a href="/en/coming-soon.html?p=about">About HOPE CORP</a></li>
-        <li><a class="nav-cta" href="/3ngayreset.html" target="_blank" rel="noopener">Try Free</a></li>
+        <li><a class="nav-cta" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Try Free</a></li>
       </ul>
     </nav>
     <div class="header-subbar"><div class="header-subbar-inner"><div class="lang-switcher" aria-label="Language"><a href="/"><span class="flag" aria-hidden="true">🇻🇳</span>VI</a><a href="/en/" class="active"><span class="flag" aria-hidden="true">🇬🇧</span>EN</a><a href="/ja/"><span class="flag" aria-hidden="true">🇯🇵</span>JA</a></div></div></div>

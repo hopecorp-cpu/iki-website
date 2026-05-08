@@ -2,6 +2,16 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
+  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
+       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
+       like Cloudflare. These meta tags are the static-site-safe subset.
+       ============================================================ -->
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
+  <!-- Google Search Console verification — paste your actual code from GSC here:
+  <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Học Viện IKI — Khoá học sức khoẻ chủ động · Di sản tri thức TS. Ngô Đức Vượng</title>
   <meta name="description" content="Học Viện IKI (tiền thân: Học Viện Ngô Đức Vượng) — đơn vị đào tạo thuộc HOPE CORP. Bài giảng cốt lõi do TS. Ngô Đức Vượng ghi hình; đội ngũ Học Viện IKI (lớp kế thừa của Thầy) đảm nhận giảng dạy live, Q&amp;A và đồng hành. Hơn 50 khoá học từ cơ bản đến chuyên sâu." />
@@ -26,6 +36,28 @@
   <link rel="icon" type="image/jpeg" href="iki-logo-256.jpg" />
   <link rel="stylesheet" href="styles.css" />
   <script src="script.js" defer></script>
+
+  <!-- BreadcrumbList schema for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Trang chủ",
+        "item": "https://ikihealing.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Học Viện",
+        "item": "https://ikihealing.com/hoc-vien.html"
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
 
@@ -44,7 +76,7 @@
         <li><a href="index.html">Trang chủ</a></li>
         <li><a href="hoc-vien.html" class="active">Học Viện</a></li>
         <li><a href="cong-dong.html">Cộng đồng</a></li>
-        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Sản phẩm ↗</a></li>
+        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Sản phẩm ↗</a></li>
         <li><a href="app.html">Ứng dụng</a></li>
         <li><a href="ve-hope.html">Về HOPE CORP</a></li>
         <li><a class="nav-cta" href="#dang-ky">Đăng ký ngay</a></li>
@@ -493,7 +525,7 @@
           <ul>
             <li><a href="hoc-vien.html">Học Viện IKI</a></li>
             <li><a href="cong-dong.html">Cộng đồng IKI</a></li>
-            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Sản phẩm IKI ↗</a></li>
+            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Sản phẩm IKI ↗</a></li>
             <li><a href="app.html">Ứng dụng IKI</a></li>
           <li><a href="ve-hope.html">Về HOPE CORP</a></li>
           </ul>

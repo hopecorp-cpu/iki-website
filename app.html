@@ -2,6 +2,16 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
+  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
+       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
+       like Cloudflare. These meta tags are the static-site-safe subset.
+       ============================================================ -->
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
+  <!-- Google Search Console verification — paste your actual code from GSC here:
+  <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>IKI App — Lộ trình chăm sóc sức khoẻ tham khảo cá nhân hoá trong tay bạn</title>
   <meta name="description" content="IKI App — ứng dụng cá nhân hoá hành trình chăm sóc sức khoẻ chủ động: AI Insight, nhật ký, audio bài giảng, cộng đồng và cửa hàng IKI. Tích hợp Hệ tri thức Thực dưỡng với Công nghệ dữ liệu hiện đại." />
@@ -26,6 +36,28 @@
   <link rel="icon" type="image/jpeg" href="iki-logo-256.jpg" />
   <link rel="stylesheet" href="styles.css" />
   <script src="script.js" defer></script>
+
+  <!-- BreadcrumbList schema for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Trang chủ",
+        "item": "https://ikihealing.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Ứng dụng",
+        "item": "https://ikihealing.com/app.html"
+      }
+    ]
+  }
+  </script>
 </head>
 <body>
 
@@ -41,7 +73,7 @@
         <li><a href="index.html">Trang chủ</a></li>
         <li><a href="hoc-vien.html">Học Viện</a></li>
         <li><a href="cong-dong.html">Cộng đồng</a></li>
-        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Sản phẩm ↗</a></li>
+        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Sản phẩm ↗</a></li>
         <li><a href="app.html" class="active">Ứng dụng</a></li>
         <li><a href="ve-hope.html">Về HOPE CORP</a></li>
         <li><a class="nav-cta" href="#tai-app">Đăng ký Beta</a></li>
@@ -498,7 +530,7 @@
 
   <!-- FOOTER -->
   <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
-    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener">Tham gia miễn phí →</a>
+    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Tham gia miễn phí →</a>
   </div>
 
   <footer class="site-footer">
@@ -513,7 +545,7 @@
           <ul>
             <li><a href="hoc-vien.html">Học Viện IKI</a></li>
             <li><a href="cong-dong.html">Cộng đồng IKI</a></li>
-            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Sản phẩm IKI ↗</a></li>
+            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Sản phẩm IKI ↗</a></li>
             <li><a href="app.html">Ứng dụng IKI</a></li>
             <li><a href="ve-hope.html">Về HOPE CORP</a></li>
           </ul>

@@ -2,6 +2,16 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
+  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
+       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
+       like Cloudflare. These meta tags are the static-site-safe subset.
+       ============================================================ -->
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
+  <!-- Google Search Console verification — paste your actual code from GSC here:
+  <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
+
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Khoá 7 Ngày Detox · Reset cơ thể tự nhiên cùng TS. Ngô Đức Vượng | IKI by HOPE CORP</title>
   <meta name="description" content="Khoá 7 ngày Detox — Hành trình tiết thực nhẹ nhàng theo phương pháp Thực dưỡng phương Đông cùng TS. Ngô Đức Vượng và đội ngũ Học Viện IKI. 200.000+ học viên đã tham gia. Hoàn tiền 30 ngày." />
@@ -45,6 +55,34 @@
       { "@type": "Offer", "name": "Gói Cơ Bản", "price": "1200000", "priceCurrency": "VND" },
       { "@type": "Offer", "name": "Gói Chuyên Sâu", "price": "1468000", "priceCurrency": "VND" },
       { "@type": "Offer", "name": "Gói VIP Toàn Diện", "price": "2268000", "priceCurrency": "VND" }
+    ]
+  }
+  </script>
+
+  <!-- BreadcrumbList schema for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Trang chủ",
+        "item": "https://ikihealing.com/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Học Viện",
+        "item": "https://ikihealing.com/hoc-vien.html"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "7 Ngày Detox",
+        "item": "https://ikihealing.com/7ngaydetox.html"
+      }
     ]
   }
   </script>
@@ -761,7 +799,7 @@
             <input type="checkbox" id="signup-consent" name="consent" required />
             <label for="signup-consent">
               Tôi đồng ý cho HOPE CORP xử lý thông tin liên hệ để gửi tài liệu khoá học và nội dung chăm sóc sức khoẻ theo
-              <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách bảo mật</a>
+              <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener noreferrer">Chính sách bảo mật</a>
               (Nghị định 13/2023/NĐ-CP).
             </label>
           </div>
@@ -856,10 +894,10 @@
         <div>
           <h4>Hệ sinh thái IKI</h4>
           <ul>
-            <li><a href="https://ikihealing.com/" target="_blank" rel="noopener">Trang chủ IKI ↗</a></li>
-            <li><a href="https://ikihealing.com/hoc-vien.html" target="_blank" rel="noopener">Học Viện IKI ↗</a></li>
-            <li><a href="/3ngayreset.html" target="_blank" rel="noopener">Khoá 3 Ngày Reset (miễn phí) ↗</a></li>
-            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener">Sản phẩm IKI ↗</a></li>
+            <li><a href="https://ikihealing.com/" target="_blank" rel="noopener noreferrer">Trang chủ IKI ↗</a></li>
+            <li><a href="https://ikihealing.com/hoc-vien.html" target="_blank" rel="noopener noreferrer">Học Viện IKI ↗</a></li>
+            <li><a href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Khoá 3 Ngày Reset (miễn phí) ↗</a></li>
+            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Sản phẩm IKI ↗</a></li>
           </ul>
         </div>
         <div>
