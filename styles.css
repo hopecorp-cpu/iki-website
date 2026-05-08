@@ -4203,3 +4203,79 @@ section { padding: 96px 0; }
   font-weight: 700;
   letter-spacing: 0.02em;
 }
+
+/* ============================================================
+   SALES PAGE MINI HEADER — logo + back to homepage
+   Sits above the countdown bar on /3ngayreset.html and /7ngaydetox.html.
+   Lightweight, no full nav — keeps focus on sales content while
+   giving users a clear way to reach the main site.
+   ============================================================ */
+.sales-mini-header {
+  background: #ffffff;
+  border-bottom: 1px solid var(--gray-200, #e6e6e6);
+  padding: 10px 0;
+  position: relative;
+  z-index: 5;
+}
+.sales-mini-header-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+.sales-mini-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  text-decoration: none;
+  color: var(--ink, #1f2922);
+  transition: opacity 0.15s ease;
+}
+.sales-mini-brand:hover { opacity: 0.7; }
+.sales-mini-logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  object-fit: cover;
+  display: block;
+}
+.sales-mini-name {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+  line-height: 1;
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+}
+.sales-mini-name small {
+  font-family: 'Manrope', system-ui, sans-serif;
+  font-weight: 500;
+  font-size: 0.7rem;
+  color: var(--gray-500, #888);
+  letter-spacing: 0.04em;
+}
+.sales-mini-back {
+  font-family: 'Manrope', system-ui, sans-serif;
+  font-size: 0.88rem;
+  font-weight: 500;
+  color: var(--iki-teal, #4BC0AB);
+  text-decoration: none;
+  padding: 8px 14px;
+  border-radius: 999px;
+  border: 1px solid rgba(75, 192, 171, 0.3);
+  transition: background 0.15s ease, border-color 0.15s ease;
+  white-space: nowrap;
+}
+.sales-mini-back:hover {
+  background: rgba(75, 192, 171, 0.08);
+  border-color: var(--iki-teal, #4BC0AB);
+}
+@media (max-width: 480px) {
+  .sales-mini-header { padding: 8px 0; }
+  .sales-mini-logo { width: 28px; height: 28px; }
+  .sales-mini-name { font-size: 1.1rem; }
+  .sales-mini-name small { display: none; }
+  .sales-mini-back { font-size: 0.82rem; padding: 6px 12px; }
+}
