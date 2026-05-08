@@ -4226,35 +4226,39 @@ section { padding: 96px 0; }
 .sales-mini-brand {
   display: inline-flex;
   align-items: center;
-  gap: 10px;
+  gap: 12px;
   text-decoration: none;
   color: var(--ink, #1f2922);
   transition: opacity 0.15s ease;
 }
 .sales-mini-brand:hover { opacity: 0.7; }
 .sales-mini-logo {
-  width: 32px;
-  height: 32px;
+  width: 40px;
+  height: 40px;
   border-radius: 8px;
   object-fit: cover;
   display: block;
+  flex-shrink: 0;
 }
-.sales-mini-name {
+.sales-mini-wordmark {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 1;
   font-family: 'Cormorant Garamond', Georgia, serif;
   font-weight: 600;
-  font-size: 1.25rem;
-  letter-spacing: 0.02em;
-  line-height: 1;
-  display: inline-flex;
-  align-items: baseline;
-  gap: 4px;
+  font-size: 1.5rem;
+  letter-spacing: 0.04em;
+  color: var(--iki-teal, #4BC0AB);
 }
-.sales-mini-name small {
+.sales-mini-wordmark small {
   font-family: 'Manrope', system-ui, sans-serif;
   font-weight: 500;
-  font-size: 0.7rem;
-  color: var(--gray-500, #888);
-  letter-spacing: 0.04em;
+  font-size: 0.62rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--gray-500, #8a9590);
+  margin-top: 4px;
 }
 .sales-mini-back {
   font-family: 'Manrope', system-ui, sans-serif;
@@ -4274,8 +4278,8 @@ section { padding: 96px 0; }
 }
 @media (max-width: 480px) {
   .sales-mini-header { padding: 8px 0; }
-  .sales-mini-logo { width: 28px; height: 28px; }
-  .sales-mini-name { font-size: 1.1rem; }
-  .sales-mini-name small { display: none; }
+  .sales-mini-logo { width: 34px; height: 34px; }
+  .sales-mini-wordmark { font-size: 1.25rem; }
+  .sales-mini-wordmark small { font-size: 0.55rem; letter-spacing: 0.14em; margin-top: 3px; }
   .sales-mini-back { font-size: 0.82rem; padding: 6px 12px; }
 }
