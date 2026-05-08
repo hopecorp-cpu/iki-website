@@ -65,6 +65,21 @@
     <priority>0.8</priority>
   </url>
 
+  <!-- Sales landing pages (Tier 1 + Tier 2 funnels) -->
+  <url>
+    <loc>https://ikihealing.com/3ngayreset.html</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
+  <url>
+    <loc>https://ikihealing.com/7ngaydetox.html</loc>
+    <lastmod>2026-05-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+  </url>
+
   <url>
     <loc>https://ikihealing.com/ve-hope.html</loc>
     <lastmod>2026-05-07</lastmod>
