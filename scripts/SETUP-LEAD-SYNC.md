@@ -70,8 +70,37 @@ FormSubmit gửi email tới:
 | F | Nguồn | Web (mặc định) — sau này có thể thêm Facebook, Zalo, etc. |
 | G | Trạng thái | Sale tự update — quan trọng để follow up |
 | H | Ghi chú | Sale ghi note: cuộc gọi, gói quan tâm, etc. |
-| I | Email subject | Subject gốc — debug/verify |
-| J | Gmail link | Link mở email gốc trong Gmail |
+| **I** | **utm_source** | Kênh đăng bài: `fb_iki`, `fb_personal`, `zalo_oa`, `email`, `pr` |
+| **J** | **utm_medium** | Loại traffic: `social`, `newsletter`, `referral`, `cpc` |
+| **K** | **utm_campaign** | Tên chiến dịch: `launch_3reset`, `tet_2026`, etc. |
+| **L** | **utm_content** | Slug bài viết: `bai-1-thuc-don`, `live-2026-05-08`, etc. |
+| **M** | **utm_term** | Keyword (Google Ads) hoặc rỗng |
+| **N** | Landing page | URL user vào lần đầu (vd `/3ngayreset.html`) |
+| **O** | Referrer | Web user đến từ đâu (vd `https://m.facebook.com`) |
+| P | Email subject | Subject gốc — debug/verify |
+| Q | Gmail link | Link mở email gốc trong Gmail |
+
+## UTM Convention (anh dùng khi đăng bài)
+
+| Kênh | utm_source | utm_medium |
+|---|---|---|
+| Facebook Page IKI | `fb_iki` | `social` |
+| Facebook cá nhân | `fb_personal` | `social` |
+| Zalo OA | `zalo_oa` | `social` |
+| Email blast | `email` | `newsletter` |
+| Báo chí PR | `pr` | `referral` |
+| Google Ads | `google` | `cpc` |
+| Facebook Ads | `fb_ads` | `paid_social` |
+| YouTube | `youtube` | `social` |
+
+**Cú pháp link:**
+```
+https://ikihealing.com/3ngayreset.html?utm_source=fb_iki&utm_medium=social&utm_content=bai-1-thuc-don&utm_campaign=launch_3reset
+```
+
+**Cùng 1 bài đăng 3 kênh** → giữ nguyên `utm_content` + `utm_campaign`, chỉ đổi `utm_source` & `utm_medium`.
+
+JS trên web (file `script.js`) tự đọc UTM từ URL → lưu localStorage → inject vào form khi user đăng ký. Không cần làm gì thủ công ở browser.
 
 ## Tips dùng Sheet hiệu quả
 

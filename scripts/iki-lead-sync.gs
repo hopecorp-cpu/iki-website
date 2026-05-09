@@ -33,6 +33,13 @@ const HEADERS = [
   'Nguồn',
   'Trạng thái',
   'Ghi chú',
+  'utm_source',
+  'utm_medium',
+  'utm_campaign',
+  'utm_content',
+  'utm_term',
+  'Landing page',
+  'Referrer',
   'Email subject',
   'Gmail link'
 ];
@@ -53,16 +60,23 @@ function setupOnce() {
     headerRange.setFontColor('#1f2922');
     sheet.setFrozenRows(1);
 
-    sheet.setColumnWidth(1, 140);
-    sheet.setColumnWidth(2, 130);
-    sheet.setColumnWidth(3, 160);
-    sheet.setColumnWidth(4, 220);
-    sheet.setColumnWidth(5, 120);
-    sheet.setColumnWidth(6, 90);
-    sheet.setColumnWidth(7, 130);
-    sheet.setColumnWidth(8, 240);
-    sheet.setColumnWidth(9, 280);
-    sheet.setColumnWidth(10, 100);
+    sheet.setColumnWidth(1, 140);   // A Date
+    sheet.setColumnWidth(2, 130);   // B Funnel
+    sheet.setColumnWidth(3, 160);   // C Name
+    sheet.setColumnWidth(4, 220);   // D Email
+    sheet.setColumnWidth(5, 120);   // E Phone
+    sheet.setColumnWidth(6, 90);    // F Source
+    sheet.setColumnWidth(7, 130);   // G Status
+    sheet.setColumnWidth(8, 240);   // H Notes
+    sheet.setColumnWidth(9, 110);   // I utm_source
+    sheet.setColumnWidth(10, 100);  // J utm_medium
+    sheet.setColumnWidth(11, 130);  // K utm_campaign
+    sheet.setColumnWidth(12, 130);  // L utm_content
+    sheet.setColumnWidth(13, 100);  // M utm_term
+    sheet.setColumnWidth(14, 160);  // N Landing page
+    sheet.setColumnWidth(15, 200);  // O Referrer
+    sheet.setColumnWidth(16, 280);  // P Email subject
+    sheet.setColumnWidth(17, 100);  // Q Gmail link
 
     const statusRule = SpreadsheetApp.newDataValidation()
       .requireValueInList(STATUS_OPTIONS, true)
@@ -131,6 +145,13 @@ function syncLeads() {
             'Web',
             'Chưa liên hệ',
             '',
+            lead.utm_source,
+            lead.utm_medium,
+            lead.utm_campaign,
+            lead.utm_content,
+            lead.utm_term,
+            lead.landing_page,
+            lead.referrer,
             lead.subject,
             lead.gmailLink
           ]);
@@ -203,6 +224,13 @@ function parseFormSubmitEmail(message) {
     name: name,
     email: email,
     phone: phone,
+    utm_source:    fields.utm_source   || '',
+    utm_medium:    fields.utm_medium   || '',
+    utm_campaign:  fields.utm_campaign || '',
+    utm_content:   fields.utm_content  || '',
+    utm_term:      fields.utm_term     || '',
+    landing_page:  fields.landing_page || '',
+    referrer:      fields.referrer     || '',
     subject: subject,
     gmailLink: 'https://mail.google.com/mail/u/0/#inbox/' + message.getId()
   };

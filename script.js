@@ -1,7 +1,77 @@
 /* IKI website — minimal interactions
    - Mobile hamburger toggle
    - Email capture form (mailto fallback, no backend)
+   - UTM attribution capture (last-touch) → injected into form hidden fields
 */
+
+/* ============================================================
+ * UTM ATTRIBUTION CAPTURE
+ * Capture UTM/marketing params from URL → store in localStorage.
+ * On form submit anywhere on the site, populate hidden inputs:
+ *   utm_source, utm_medium, utm_campaign, utm_content, utm_term,
+ *   landing_page, referrer
+ * Strategy: last-touch (overwrites if URL has new UTM params).
+ * Apps Script reads these from FormSubmit table → writes to Sheet.
+ * ============================================================ */
+(function () {
+  'use strict';
+  const KEY = 'iki_attribution';
+  const PARAMS = ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'];
+
+  function captureFromUrl() {
+    const url = new URL(window.location.href);
+    const found = {};
+    let hasAny = false;
+    PARAMS.forEach(p => {
+      const v = url.searchParams.get(p);
+      if (v) { found[p] = v; hasAny = true; }
+    });
+    if (hasAny) {
+      const data = {
+        utm_source:    found.utm_source    || '',
+        utm_medium:    found.utm_medium    || '',
+        utm_campaign:  found.utm_campaign  || '',
+        utm_content:   found.utm_content   || '',
+        utm_term:      found.utm_term      || '',
+        landing_page:  url.pathname,
+        referrer:      document.referrer || '',
+        captured_at:   new Date().toISOString()
+      };
+      try { localStorage.setItem(KEY, JSON.stringify(data)); } catch (e) {}
+    }
+  }
+
+  function getStored() {
+    try {
+      const raw = localStorage.getItem(KEY);
+      return raw ? JSON.parse(raw) : null;
+    } catch (e) { return null; }
+  }
+
+  function injectIntoForms() {
+    const data = getStored();
+    if (!data) return;
+    document.querySelectorAll('form').forEach(form => {
+      Object.keys(data).forEach(key => {
+        if (key === 'captured_at') return;
+        if (form.querySelector('[name="' + key + '"]')) return;
+        const input = document.createElement('input');
+        input.type = 'hidden';
+        input.name = key;
+        input.value = data[key] || '';
+        form.appendChild(input);
+      });
+    });
+  }
+
+  captureFromUrl();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', injectIntoForms);
+  } else {
+    injectIntoForms();
+  }
+})();
+
 (function () {
   'use strict';
 
