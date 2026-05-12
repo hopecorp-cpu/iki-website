@@ -4832,6 +4832,115 @@ section { padding: 96px 0; }
   color: var(--gray-700, #555);
 }
 
+/* Knowledge Lineage — 3 historical figures + advisor mini */
+.lineage-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin: 48px 0 32px;
+}
+@media (max-width: 880px) {
+  .lineage-grid { grid-template-columns: 1fr; max-width: 480px; margin-left: auto; margin-right: auto; }
+}
+.lineage-card {
+  background: var(--white, #fff);
+  border: 1px solid rgba(31, 41, 34, 0.08);
+  border-radius: 16px;
+  padding: 28px 24px;
+  position: relative;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.lineage-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(75, 192, 171, 0.1);
+}
+.lineage-card-featured {
+  background: linear-gradient(140deg, rgba(168, 210, 84, 0.06), rgba(75, 192, 171, 0.06));
+  border-color: rgba(75, 192, 171, 0.25);
+  box-shadow: 0 8px 24px rgba(75, 192, 171, 0.08);
+}
+@media (min-width: 880px) {
+  .lineage-card-featured { transform: translateY(-8px); }
+}
+.lineage-era {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--iki-teal, #4BC0AB);
+  background: rgba(75, 192, 171, 0.08);
+  padding: 4px 10px;
+  border-radius: 999px;
+  margin-bottom: 14px;
+}
+.lineage-icon {
+  font-size: 2.2rem;
+  margin-bottom: 10px;
+}
+.lineage-card h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--ink, #1f2922);
+  margin: 0 0 4px;
+  line-height: 1.2;
+}
+.lineage-tagline {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.82rem;
+  color: var(--iki-teal, #4BC0AB);
+  font-style: italic;
+  margin: 0 0 14px;
+  font-weight: 500;
+}
+.lineage-body {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.9rem;
+  color: var(--gray-700, #555);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Advisor mini card — TS. NĐV compact section */
+.advisor-card-mini {
+  max-width: 720px;
+  margin: 32px auto 0;
+  background: var(--white, #fff);
+  border: 1px solid rgba(31, 41, 34, 0.08);
+  border-left: 4px solid var(--iki-teal, #4BC0AB);
+  border-radius: 0 14px 14px 0;
+  padding: 28px 32px;
+}
+.advisor-card-mini .advisor-tag {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--iki-teal, #4BC0AB);
+  background: rgba(75, 192, 171, 0.08);
+  padding: 4px 12px;
+  border-radius: 999px;
+  margin-bottom: 12px;
+}
+.advisor-card-mini h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: var(--ink, #1f2922);
+  margin: 0 0 12px;
+}
+.advisor-card-mini p {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.95rem;
+  color: var(--gray-700, #555);
+  line-height: 1.65;
+  margin: 0 0 8px;
+}
+
 /* Unfair Advantage section */
 .unfair-advantage-section {
   padding: 80px 0;
