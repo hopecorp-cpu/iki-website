@@ -5182,3 +5182,230 @@ section { padding: 96px 0; }
   color: var(--gray-700, #555);
   letter-spacing: 0.04em;
 }
+
+/* ============================================================
+   5 BODY TYPES INFOGRAPHIC — /cong-nghe.html
+   SVG-based body silhouettes per constitution
+   ============================================================ */
+.body-types-infographic {
+  padding-top: 48px;
+}
+.body-types-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+  margin-top: 32px;
+}
+@media (max-width: 1080px) { .body-types-grid { grid-template-columns: repeat(3, 1fr); } }
+@media (max-width: 720px) { .body-types-grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 480px) { .body-types-grid { grid-template-columns: 1fr; max-width: 320px; margin-left: auto; margin-right: auto; } }
+
+.body-type {
+  background: var(--white, #fff);
+  border: 1px solid rgba(31, 41, 34, 0.08);
+  border-radius: 14px;
+  padding: 18px 16px;
+  text-align: center;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.body-type:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(75, 192, 171, 0.12);
+}
+.body-svg {
+  width: 100%;
+  max-width: 110px;
+  height: auto;
+  margin: 0 auto 12px;
+  display: block;
+}
+.body-type-tag {
+  display: inline-block;
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--iki-teal, #4BC0AB);
+  background: rgba(75, 192, 171, 0.08);
+  padding: 3px 8px;
+  border-radius: 999px;
+  margin-bottom: 8px;
+}
+.body-type h3 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 1.3rem;
+  font-weight: 600;
+  color: var(--ink, #1f2922);
+  margin: 0 0 6px;
+  line-height: 1.2;
+}
+.body-type-summary {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.82rem;
+  color: var(--gray-700, #555);
+  margin: 0 0 12px;
+  line-height: 1.45;
+  font-style: italic;
+}
+.body-type-symptoms {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+.body-type-symptoms li {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.78rem;
+  color: var(--gray-700, #555);
+  padding: 4px 0;
+  border-top: 1px dashed rgba(31, 41, 34, 0.06);
+  line-height: 1.4;
+}
+.body-type-symptoms li:first-child { border-top: none; padding-top: 0; }
+
+/* ============================================================
+   "10 PHÚT THAY ĐỔI LỚN" — /app.html
+   Micro-commitment concept
+   ============================================================ */
+.ten-min-section {
+  padding: 96px 0;
+  background:
+    radial-gradient(circle at 90% 20%, rgba(168, 210, 84, 0.08) 0%, transparent 50%),
+    radial-gradient(circle at 10% 80%, rgba(75, 192, 171, 0.08) 0%, transparent 50%),
+    linear-gradient(180deg, var(--white, #fff) 0%, #f8faf8 100%);
+}
+.ten-min-inner {
+  display: grid;
+  grid-template-columns: 1.3fr 1fr;
+  gap: 64px;
+  align-items: center;
+}
+@media (max-width: 880px) { .ten-min-inner { grid-template-columns: 1fr; gap: 48px; } }
+
+.ten-min-text h2 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 2.4rem;
+  font-weight: 600;
+  color: var(--ink, #1f2922);
+  margin: 8px 0 16px;
+  line-height: 1.15;
+}
+.ten-min-text h2 em {
+  color: var(--iki-teal, #4BC0AB);
+  font-style: italic;
+}
+.ten-min-lead {
+  font-family: 'Manrope', sans-serif;
+  font-size: 1.05rem;
+  color: var(--gray-700, #444);
+  line-height: 1.65;
+  margin: 0 0 28px;
+}
+.ten-min-breakdown {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin-bottom: 24px;
+}
+.ten-min-step {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 14px 18px;
+  background: var(--white, #fff);
+  border: 1px solid rgba(31, 41, 34, 0.06);
+  border-radius: 12px;
+}
+.ten-min-time {
+  flex-shrink: 0;
+  width: 52px;
+  height: 52px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, var(--iki-lime, #A8D254), var(--iki-teal, #4BC0AB));
+  color: white;
+  border-radius: 50%;
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  font-size: 1.05rem;
+  letter-spacing: 0.02em;
+}
+.ten-min-step > div { display: flex; flex-direction: column; gap: 4px; }
+.ten-min-step strong {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: var(--ink, #1f2922);
+}
+.ten-min-step span {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.85rem;
+  color: var(--gray-700, #555);
+  line-height: 1.45;
+}
+.ten-min-cta-text {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.95rem;
+  color: var(--gray-700, #444);
+  padding: 16px 20px;
+  background: rgba(75, 192, 171, 0.06);
+  border-left: 3px solid var(--iki-teal, #4BC0AB);
+  border-radius: 0 10px 10px 0;
+  margin: 24px 0;
+}
+
+/* Visual side */
+.ten-min-visual {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+}
+.ten-min-circle {
+  position: relative;
+  width: 240px;
+  height: 240px;
+}
+.ten-min-circle svg { width: 100%; height: 100%; }
+.ten-min-circle-content {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.ten-min-circle-time {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-size: 3.6rem;
+  font-weight: 600;
+  color: var(--ink, #1f2922);
+  line-height: 1;
+}
+.ten-min-circle-label {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.85rem;
+  color: var(--gray-700, #555);
+  letter-spacing: 0.04em;
+  margin-top: 6px;
+}
+.ten-min-features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.ten-min-features li {
+  font-family: 'Manrope', sans-serif;
+  font-size: 0.92rem;
+  color: var(--gray-700, #444);
+  padding: 10px 16px;
+  background: var(--white, #fff);
+  border-radius: 999px;
+  border: 1px solid rgba(31, 41, 34, 0.06);
+}
