@@ -825,13 +825,6 @@ section { padding: 96px 0; }
 }
 .founder-row strong { color: var(--iki-teal-deep); font-weight: 600; }
 
-/* Scarcity badge for featured pricing card */
-.price-card.featured[style*="iki-clay"]::before {
-  content: "🥑 200 SUẤT FOUNDER";
-  background: var(--iki-clay);
-  letter-spacing: 0.08em;
-  font-size: 0.68rem;
-}
 
 /* -------- Sticky promo bar (top of page) -------- */
 .promo-bar {
@@ -2026,8 +2019,9 @@ section { padding: 96px 0; }
   transition: all 0.3s var(--ease);
 }
 .price-card.featured {
-  border-color: var(--iki-sage);
-  box-shadow: var(--shadow-md);
+  border-color: var(--iki-teal);
+  border-width: 2px;
+  box-shadow: 0 8px 32px rgba(75,192,171,0.18);
   transform: translateY(-6px);
 }
 .price-card.featured::before {
