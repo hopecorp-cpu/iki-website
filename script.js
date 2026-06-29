@@ -284,6 +284,19 @@
 })();
 
 /* ============================================================
+ * NAV SCROLL BEHAVIOR — transparent → blur on scroll
+ * ============================================================ */
+(function () {
+  var header = document.getElementById('site-header');
+  if (!header) return;
+  function onScroll() {
+    header.classList.toggle('scrolled', window.scrollY > 60);
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  onScroll();
+})();
+
+/* ============================================================
  * WHOOP FEATURE SECTION — tab nav + accordion
  * ============================================================ */
 (function () {
