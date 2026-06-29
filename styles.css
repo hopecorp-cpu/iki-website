@@ -74,17 +74,17 @@ img { max-width: 100%; height: auto; display: block; }
 a { color: var(--iki-teal-deep); text-decoration: none; transition: color 0.25s var(--ease); font-weight: 500; }
 a:hover { color: var(--iki-teal); }
 h1, h2, h3, h4 {
-  font-family: var(--font-display);
-  font-weight: 600;
-  line-height: 1.15;
-  color: var(--iki-teal-deep);
+  font-family: var(--font-body);
+  font-weight: 700;
+  line-height: 1.1;
+  color: var(--iki-ink);
   margin: 0 0 0.6em;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.025em;
 }
-h1 { font-size: clamp(2.2rem, 4.5vw, 3.8rem); font-weight: 600; }
-h2 { font-size: clamp(1.75rem, 3.2vw, 2.7rem); font-weight: 600; }
-h3 { font-size: clamp(1.25rem, 2vw, 1.55rem); font-weight: 600; }
-h1 em, h2 em, h3 em { font-style: italic; font-weight: 500; color: var(--iki-teal); }
+h1 { font-size: clamp(2.6rem, 5.5vw, 4.8rem); font-weight: 800; letter-spacing: -0.04em; line-height: 1.05; }
+h2 { font-size: clamp(1.9rem, 3.5vw, 3rem); font-weight: 700; letter-spacing: -0.025em; line-height: 1.1; }
+h3 { font-size: clamp(1.2rem, 2vw, 1.45rem); font-weight: 600; letter-spacing: -0.01em; line-height: 1.25; }
+h1 em, h2 em, h3 em { font-style: italic; font-weight: 700; color: var(--iki-teal); font-family: var(--font-display); }
 p  { margin: 0 0 1em; }
 .muted { color: var(--gray-500); }
 .eyebrow {
@@ -104,8 +104,8 @@ p  { margin: 0 0 1em; }
   margin: 0 auto;
   padding: 0 24px;
 }
-section { padding: 96px 0; }
-@media (max-width: 720px) { section { padding: 64px 0; } }
+section { padding: 120px 0; }
+@media (max-width: 720px) { section { padding: 80px 0; } }
 
 /* -------- Header / nav -------- */
 .site-header {
@@ -201,25 +201,28 @@ section { padding: 96px 0; }
   padding: 0;
 }
 .nav-links a {
-  font-size: 0.95rem;
+  font-size: 0.78rem;
   color: var(--iki-ink);
-  font-weight: 500;
+  font-weight: 600;
   white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
 }
 .nav-links a:hover, .nav-links a.active {
   color: var(--iki-sage-deep);
 }
 .nav-cta {
-  background: var(--iki-gradient);
-  background-size: 200% 100%;
-  background-position: 0% 50%;
+  background: var(--iki-ink);
   color: white !important;
   padding: 10px 22px;
   border-radius: 999px;
-  font-weight: 500;
-  transition: background-position 0.4s var(--ease), transform 0.2s var(--ease);
+  font-weight: 700;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  transition: background 0.2s var(--ease), transform 0.2s var(--ease);
 }
-.nav-cta:hover { background-position: 100% 50%; transform: translateY(-1px); color: white !important; }
+.nav-cta:hover { background: var(--iki-teal-deep); transform: translateY(-1px); color: white !important; }
 /* Legacy mobile nav rule replaced by hamburger menu in additions section below */
 
 /* -------- Buttons -------- */
@@ -229,32 +232,32 @@ section { padding: 96px 0; }
   gap: 8px;
   padding: 14px 28px;
   border-radius: 999px;
-  font-weight: 500;
-  font-size: 0.95rem;
+  font-weight: 700;
+  font-size: 0.8rem;
   border: 1.5px solid transparent;
   cursor: pointer;
   transition: all 0.2s var(--ease);
   text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
 }
 .btn-primary {
-  background: var(--iki-gradient);
+  background: var(--iki-ink);
   color: white;
-  background-size: 200% 100%;
-  background-position: 0% 50%;
 }
 .btn-primary:hover {
-  background-position: 100% 50%;
+  background: var(--iki-teal-deep);
   color: white;
   transform: translateY(-1px);
-  box-shadow: var(--shadow-md);
+  box-shadow: 0 0 0 3px rgba(75,192,171,0.3);
 }
 .btn-secondary {
   background: transparent;
-  color: var(--iki-sage-deep);
-  border-color: var(--iki-sage-deep);
+  color: var(--iki-ink);
+  border-color: var(--iki-ink);
 }
 .btn-secondary:hover {
-  background: var(--iki-sage-deep);
+  background: var(--iki-ink);
   color: white;
 }
 .btn-ghost {
@@ -268,9 +271,9 @@ section { padding: 96px 0; }
   position: relative;
   padding: 140px 0 110px;
   background:
-    radial-gradient(1400px 700px at 85% -10%, rgba(75, 192, 171, 0.16), transparent 60%),
-    radial-gradient(900px 500px at 0% 100%, rgba(168, 210, 84, 0.14), transparent 60%),
-    var(--white);
+    radial-gradient(1000px 600px at 80% 20%, rgba(75, 192, 171, 0.12), transparent 55%),
+    radial-gradient(700px 400px at 10% 90%, rgba(75, 192, 171, 0.08), transparent 55%),
+    var(--iki-ink);
   overflow: hidden;
 }
 .hero-grid {
@@ -283,20 +286,22 @@ section { padding: 96px 0; }
   .hero-grid { grid-template-columns: 1fr; gap: 40px; }
 }
 .hero h1 {
-  font-size: clamp(2.6rem, 5.5vw, 4.4rem);
-  line-height: 1.08;
+  font-size: clamp(2.8rem, 6vw, 5rem);
+  line-height: 1.04;
   margin-bottom: 28px;
-  font-weight: 500;
-  letter-spacing: -0.015em;
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  color: white;
 }
 .hero h1 em {
   font-style: italic;
   color: var(--iki-teal);
-  font-weight: 400;
+  font-weight: 700;
+  font-family: var(--font-display);
 }
 .hero-lead {
-  font-size: 1.15rem;
-  color: var(--gray-700);
+  font-size: 1.1rem;
+  color: rgba(255,255,255,0.68);
   margin-bottom: 36px;
   max-width: 540px;
   line-height: 1.7;
@@ -465,18 +470,19 @@ section { padding: 96px 0; }
 @media (max-width: 980px) { .showcase-grid { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 540px) { .showcase-grid { grid-template-columns: 1fr; } }
 .showcase-card {
-  background: var(--white);
+  background: #F5F5F5;
   border-radius: var(--radius-lg);
   overflow: hidden;
-  border: 1px solid var(--gray-100);
+  border: none;
   text-decoration: none;
   color: inherit;
   display: block;
-  transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease);
+  transition: transform 0.3s var(--ease), background 0.2s var(--ease);
 }
 .showcase-card:hover {
-  transform: translateY(-6px);
-  box-shadow: var(--shadow-md);
+  transform: translateY(-4px);
+  background: #EBEBEB;
+  box-shadow: none;
 }
 .showcase-img {
   aspect-ratio: 1 / 1;
@@ -577,17 +583,18 @@ section { padding: 96px 0; }
 }
 @media (max-width: 880px) { .how-grid { grid-template-columns: 1fr; gap: 28px; } }
 .how-step {
-  background: var(--white);
+  background: #F5F5F5;
   border-radius: var(--radius-lg);
   padding: 40px 32px;
   text-align: center;
   position: relative;
-  border: 1px solid var(--gray-100);
-  transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease);
+  border: none;
+  transition: transform 0.3s var(--ease), background 0.2s var(--ease);
 }
 .how-step:hover {
-  transform: translateY(-6px);
-  box-shadow: var(--shadow-md);
+  transform: translateY(-4px);
+  background: #EBEBEB;
+  box-shadow: none;
 }
 .how-step-num {
   position: absolute;
@@ -828,11 +835,12 @@ section { padding: 96px 0; }
 
 /* -------- Sticky promo bar (top of page) -------- */
 .promo-bar {
-  background: var(--iki-gradient);
-  color: white;
-  padding: 12px 0;
-  font-size: 0.92rem;
+  background: var(--iki-ink);
+  color: rgba(255,255,255,0.9);
+  padding: 11px 0;
+  font-size: 0.76rem;
   font-weight: 500;
+  letter-spacing: 0.04em;
   position: relative;
   z-index: 51;
 }
@@ -1299,9 +1307,9 @@ section { padding: 96px 0; }
 
 /* -------- Stats / numbers -------- */
 .stats {
-  background: var(--iki-gradient);
+  background: var(--iki-ink);
   color: white;
-  padding: 88px 0;
+  padding: 100px 0;
   position: relative;
   overflow: hidden;
 }
@@ -1310,8 +1318,8 @@ section { padding: 96px 0; }
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 15% 50%, rgba(255, 255, 255, 0.12), transparent 50%),
-    radial-gradient(circle at 85% 50%, rgba(255, 255, 255, 0.08), transparent 50%);
+    radial-gradient(circle at 15% 50%, rgba(75,192,171,0.10), transparent 50%),
+    radial-gradient(circle at 85% 50%, rgba(75,192,171,0.06), transparent 50%);
   pointer-events: none;
 }
 .stats > * { position: relative; }
@@ -1818,7 +1826,7 @@ section { padding: 96px 0; }
 
 /* -------- CTA banner -------- */
 .cta-banner {
-  background: var(--iki-gradient);
+  background: var(--iki-ink);
   color: white;
   padding: 96px 32px;
   border-radius: var(--radius-lg);
@@ -1832,17 +1840,17 @@ section { padding: 96px 0; }
   position: absolute;
   inset: 0;
   background:
-    radial-gradient(circle at 20% 80%, rgba(255, 255, 255, 0.18), transparent 55%),
-    radial-gradient(circle at 80% 20%, rgba(255, 255, 255, 0.12), transparent 55%);
+    radial-gradient(circle at 20% 80%, rgba(75,192,171,0.12), transparent 55%),
+    radial-gradient(circle at 80% 20%, rgba(75,192,171,0.08), transparent 55%);
 }
 .cta-banner > * { position: relative; }
-.cta-banner h2 { color: white; font-size: clamp(1.9rem, 3.6vw, 2.7rem); font-weight: 500; }
-.cta-banner p { font-size: 1.15rem; opacity: 0.95; max-width: 600px; margin: 0 auto 32px; line-height: 1.65; }
+.cta-banner h2 { color: white; font-size: clamp(1.9rem, 3.6vw, 2.8rem); font-weight: 800; letter-spacing: -0.035em; }
+.cta-banner p { font-size: 1.05rem; color: rgba(255,255,255,0.68); max-width: 600px; margin: 0 auto 32px; line-height: 1.65; }
 .cta-banner .btn-primary {
   background: white;
-  color: var(--iki-teal-deep);
+  color: var(--iki-ink);
 }
-.cta-banner .btn-primary:hover { background: var(--iki-cream); color: var(--iki-teal-deep); }
+.cta-banner .btn-primary:hover { background: var(--iki-teal); color: white; box-shadow: none; }
 
 /* -------- HOPE corporate strip (formal section) -------- */
 .hope-strip {
@@ -2011,16 +2019,16 @@ section { padding: 96px 0; }
 }
 @media (max-width: 880px) { .pricing-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; } }
 .price-card {
-  background: white;
-  border: 1px solid var(--gray-100);
+  background: #F5F5F5;
+  border: none;
   border-radius: var(--radius-lg);
   padding: 36px 28px;
   position: relative;
   transition: all 0.3s var(--ease);
 }
 .price-card.featured {
-  border-color: var(--iki-teal);
-  border-width: 2px;
+  background: white;
+  border: 2px solid var(--iki-teal);
   box-shadow: 0 8px 32px rgba(75,192,171,0.18);
   transform: translateY(-6px);
 }
@@ -5532,3 +5540,90 @@ section { padding: 96px 0; }
   cursor: not-allowed;
   pointer-events: none;
 }
+
+/* =====================================================================
+   WHOOP Design Overhaul — June 2026
+   Contrast rhythm: dark/light alternating sections
+   ===================================================================== */
+
+/* -------- Announcement bar -------- */
+.announcement-bar {
+  background: var(--iki-ink);
+  color: rgba(255,255,255,0.9);
+  padding: 11px 24px;
+  text-align: center;
+  font-size: 0.76rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  font-family: var(--font-body);
+}
+.announcement-bar a {
+  color: var(--iki-teal);
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+/* -------- Dark section utility -------- */
+.section-dark {
+  background: var(--iki-ink);
+  color: rgba(255,255,255,0.88);
+}
+.section-dark h1,
+.section-dark h2,
+.section-dark h3 { color: white; }
+.section-dark .eyebrow { color: var(--iki-teal); }
+.section-dark p { color: rgba(255,255,255,0.68); }
+.section-dark .muted { color: rgba(255,255,255,0.45); }
+.section-dark a:not(.btn) { color: var(--iki-teal); }
+
+/* Dark section — buttons */
+.section-dark .btn-primary {
+  background: white;
+  color: var(--iki-ink);
+  box-shadow: none;
+}
+.section-dark .btn-primary:hover {
+  background: var(--iki-teal);
+  color: white;
+  box-shadow: none;
+}
+.section-dark .btn-secondary {
+  border-color: rgba(255,255,255,0.4);
+  color: white;
+}
+.section-dark .btn-secondary:hover {
+  background: white;
+  color: var(--iki-ink);
+  border-color: white;
+}
+
+/* Dark section — cards */
+.section-dark .price-card {
+  background: rgba(255,255,255,0.07);
+  border: 1px solid rgba(255,255,255,0.1);
+  color: rgba(255,255,255,0.88);
+}
+.section-dark .price-card.featured {
+  background: rgba(75,192,171,0.12);
+  border-color: var(--iki-teal);
+  box-shadow: 0 0 0 1px var(--iki-teal), 0 8px 32px rgba(75,192,171,0.2);
+}
+.section-dark .price-card h3 { color: white; }
+.section-dark .price-tagline { color: rgba(255,255,255,0.5); }
+.section-dark .price-amount { color: white; }
+.section-dark .price-amount small { color: rgba(255,255,255,0.45); }
+.section-dark .price-features { border-top-color: rgba(255,255,255,0.12); }
+.section-dark .price-features li { color: rgba(255,255,255,0.78); }
+.section-dark .price-features li::before { color: var(--iki-teal); }
+
+/* Dark section — testimonials section bg */
+.section-dark.testimonials { background: var(--iki-ink); }
+
+/* Hero text overrides (hero is always dark) */
+.hero .hero-tagline { color: rgba(255,255,255,0.52); }
+.hero .hero-microtrust { color: rgba(255,255,255,0.55); }
+.hero .hero-microtrust-item::before { background: rgba(255,255,255,0.2); }
+.hero .eyebrow { color: var(--iki-teal); }
+
+/* Section header margin */
+.section-header { margin-bottom: 72px; }
