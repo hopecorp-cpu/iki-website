@@ -2,14 +2,13 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
-  <!-- ============ SECURITY HEADERS ============ -->
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
   <title>Đội ngũ HOPE CORP — Founders, Board &amp; Cố vấn khoa học IKI</title>
-  <meta name="description" content="Đội ngũ sáng lập và điều hành HOPE CORP — Nguyễn Văn Hưng (CEO/Founder, The Tao Engineer), Phạm Ngọc Thanh Tâm (COO Founder), Nguyễn Hoàng Hải (Board Member, Forbes 30 under 30 Asia 2017). Tri thức nền tảng từ học thuyết Âm Dương Ngũ Hành — kết tinh qua Tuệ Tĩnh và Hải Thượng Lãn Ông, hệ thống hoá bởi TS. Ngô Đức Vượng — Cố vấn chuyên môn." />
+  <meta name="description" content="Đội ngũ sáng lập và điều hành HOPE CORP — Nguyễn Văn Hưng (CEO/Founder), Phạm Ngọc Thanh Tâm (COO Founder), Nguyễn Hoàng Hải (Board Member, Forbes 30 under 30 Asia 2017). Tri thức nền tảng từ học thuyết Âm Dương Ngũ Hành — kết tinh qua Tuệ Tĩnh và Hải Thượng Lãn Ông." />
   <meta name="robots" content="index,follow" />
   <link rel="canonical" href="https://ikihealing.com/team.html" />
   <link rel="alternate" hreflang="vi" href="https://ikihealing.com/team.html" />
@@ -21,9 +20,11 @@
   <meta property="og:locale" content="vi_VN" />
   <meta property="og:site_name" content="IKI by HOPE CORP" />
   <meta property="og:url" content="https://ikihealing.com/team.html" />
-  <meta property="og:title" content="Đội ngũ HOPE CORP — Tao Engineer & Founders sau IKI" />
-  <meta property="og:description" content="Founders + Board + Cố vấn khoa học của HOPE CORP. Tổng hợp 4 năng lực hiếm cùng lúc: IT/AI G7 · Quản trị · Luật Kinh tế · Di sản Đông Y." />
+  <meta property="og:title" content="Đội ngũ HOPE CORP — Founders sau IKI" />
+  <meta property="og:description" content="Founders + Board + Cố vấn khoa học của HOPE CORP. 4 năng lực hiếm cùng lúc: IT/AI G7 · Quản trị · Luật Kinh tế · Di sản Đông Y." />
   <meta property="og:image" content="https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
 
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Đội ngũ HOPE CORP — Founders sau IKI" />
@@ -33,11 +34,11 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
+
   <link rel="icon" type="image/jpeg" href="iki-logo-256.jpg" />
   <link rel="stylesheet" href="styles.css" />
   <script src="script.js" defer></script>
 
-  <!-- BreadcrumbList schema for SEO -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -49,7 +50,6 @@
   }
   </script>
 
-  <!-- Organization + Person schema — giúp Google hiểu cấu trúc team -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -57,7 +57,6 @@
     "name": "Công ty Cổ phần Thương mại Dịch vụ HOPE",
     "alternateName": "HOPE CORP",
     "url": "https://ikihealing.com",
-    "logo": "https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg",
     "founder": [
       {
         "@type": "Person",
@@ -81,7 +80,6 @@
   }
   </script>
 
-  <!-- ============ MICROSOFT CLARITY ============ -->
   <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -89,23 +87,243 @@
       y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "YOUR_CLARITY_ID");
   </script>
+
+  <style>
+    /* ---- Team page local styles ---- */
+    .team-grid-whoop {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 48px 40px;
+      padding: 0;
+    }
+    @media (max-width: 900px) {
+      .team-grid-whoop { grid-template-columns: repeat(2, 1fr); gap: 40px 32px; }
+    }
+    @media (max-width: 560px) {
+      .team-grid-whoop { grid-template-columns: 1fr; gap: 40px; }
+    }
+    .team-member {
+      text-align: center;
+    }
+    .team-member-photo {
+      width: 120px;
+      height: 120px;
+      border-radius: 50%;
+      margin: 0 auto 20px;
+      overflow: hidden;
+      background: #E8F0EC;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2rem;
+      font-weight: 700;
+      color: var(--iki-teal-deep);
+    }
+    .team-member-photo img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .team-member .eyebrow {
+      margin-bottom: 6px;
+      font-size: 0.68rem;
+    }
+    .team-member h3 {
+      font-size: 1.1rem;
+      margin-bottom: 6px;
+      letter-spacing: -0.01em;
+    }
+    .team-member-tagline {
+      font-size: 0.88rem;
+      color: var(--iki-teal-deep);
+      font-weight: 600;
+      margin-bottom: 12px;
+    }
+    .team-member-bio {
+      font-size: 0.9rem;
+      line-height: 1.65;
+      color: var(--gray-700);
+      margin: 0;
+    }
+    .team-member-quote {
+      margin-top: 14px;
+      font-family: var(--font-display);
+      font-style: italic;
+      font-size: 0.95rem;
+      color: var(--iki-teal-deep);
+      line-height: 1.45;
+    }
+
+    /* Science section */
+    .science-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 0;
+      border: 1px solid rgba(255,255,255,0.08);
+    }
+    @media (max-width: 720px) {
+      .science-grid { grid-template-columns: 1fr; }
+    }
+    .science-item {
+      padding: 48px 40px;
+      border-right: 1px solid rgba(255,255,255,0.08);
+    }
+    .science-item:last-child { border-right: none; }
+    .science-era {
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: var(--iki-teal);
+      font-weight: 600;
+      display: block;
+      margin-bottom: 20px;
+    }
+    .science-glyph {
+      font-size: 2rem;
+      display: block;
+      margin-bottom: 16px;
+    }
+    .science-item h3 {
+      color: white;
+      font-size: 1.3rem;
+      margin-bottom: 8px;
+    }
+    .science-item-sub {
+      font-size: 0.8rem;
+      color: rgba(255,255,255,0.4);
+      text-transform: uppercase;
+      letter-spacing: 0.07em;
+      font-weight: 600;
+      margin-bottom: 16px;
+      display: block;
+    }
+    .science-item p {
+      font-size: 0.92rem;
+      color: rgba(255,255,255,0.62);
+      line-height: 1.7;
+      margin: 0;
+    }
+
+    /* Advisor mini card */
+    .advisor-mini {
+      margin-top: 64px;
+      border-top: 1px solid rgba(255,255,255,0.1);
+      padding-top: 56px;
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 48px;
+      align-items: start;
+    }
+    @media (max-width: 680px) {
+      .advisor-mini { grid-template-columns: 1fr; gap: 24px; }
+    }
+    .advisor-mini-label {
+      font-size: 0.68rem;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--iki-teal);
+      font-weight: 700;
+      display: block;
+      white-space: nowrap;
+      padding-top: 4px;
+    }
+    .advisor-mini h3 {
+      color: white;
+      font-size: 1.4rem;
+      margin-bottom: 10px;
+    }
+    .advisor-mini p {
+      color: rgba(255,255,255,0.6);
+      font-size: 0.92rem;
+      line-height: 1.7;
+      margin-bottom: 0.6em;
+    }
+    .advisor-mini .disclaimer {
+      margin-top: 16px;
+      font-size: 0.82rem;
+      color: rgba(255,255,255,0.38);
+      line-height: 1.65;
+    }
+
+    /* Advantage grid */
+    .advantage-grid-whoop {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 0;
+      border: 1px solid rgba(0,0,0,0.06);
+    }
+    @media (max-width: 680px) {
+      .advantage-grid-whoop { grid-template-columns: 1fr; }
+    }
+    .advantage-item {
+      padding: 56px 48px;
+      border-right: 1px solid rgba(0,0,0,0.06);
+      border-bottom: 1px solid rgba(0,0,0,0.06);
+    }
+    .advantage-item:nth-child(2n) { border-right: none; }
+    .advantage-item:nth-child(3),
+    .advantage-item:nth-child(4) { border-bottom: none; }
+    @media (max-width: 680px) {
+      .advantage-item { border-right: none; }
+      .advantage-item:last-child { border-bottom: none; }
+      .advantage-item:nth-child(3) { border-bottom: 1px solid rgba(0,0,0,0.06); }
+    }
+    .advantage-num {
+      display: block;
+      font-size: 0.68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--iki-teal);
+      margin-bottom: 18px;
+    }
+    .advantage-item h3 {
+      font-size: 1.15rem;
+      margin-bottom: 12px;
+      letter-spacing: -0.01em;
+    }
+    .advantage-item p {
+      font-size: 0.92rem;
+      color: var(--gray-700);
+      line-height: 1.7;
+      margin: 0;
+    }
+
+    /* Join CTA */
+    .join-cta-content {
+      max-width: 680px;
+      margin: 0 auto;
+      text-align: center;
+    }
+    .join-cta-content h2 {
+      font-size: clamp(2rem, 4vw, 3.6rem);
+      letter-spacing: -0.04em;
+      line-height: 1.05;
+      color: white;
+      margin-bottom: 20px;
+    }
+    .join-cta-content p {
+      color: rgba(255,255,255,0.55);
+      font-size: 1.05rem;
+      margin-bottom: 36px;
+    }
+    .join-btn-row {
+      display: flex;
+      gap: 16px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+  </style>
 </head>
 <body>
-  <!-- ============ ANNOUNCEMENT BAR ============ -->
-  <div class="announcement-bar">
-    App IKI — <a href="app.html">iOS &amp; Android</a>. Tải miễn phí · AI Coach Đông Y ngay trong tầm tay.
-  </div>
 
-<header class="site-header" id="site-header">
+  <div class="announcement-bar">App IKI — <a href="app.html">iOS &amp; Android</a>. Tải miễn phí.</div>
+
+  <header class="site-header" id="site-header">
     <nav class="nav">
-      <a class="brand" href="index.html" aria-label="IKI Trang chủ">
-        <img class="brand-logo" src="iki-logo-256.jpg" alt="IKI logo" />
-        <span>IKI <span class="brand-sub">By HOPE CORP</span></span>
-      </a>
-      <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
-        <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-        <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-      </button>
+      <a class="brand" href="index.html" aria-label="IKI Trang chủ"><img class="brand-logo" src="iki-logo-256.jpg" alt="IKI logo" /><span>IKI <span class="brand-sub">By HOPE CORP</span></span></a>
+      <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav"><svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg><svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
       <ul class="nav-links" id="primary-nav">
         <li><a href="index.html">Trang chủ</a></li>
         <li><a href="hoc-vien.html">Học Viện</a></li>
@@ -115,234 +333,257 @@
         <li><a href="ve-hope.html">Về HOPE CORP</a></li>
         <li><a class="nav-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">🌿 Mở Web App →</a></li>
       </ul>
-      <div class="nav-lang" aria-label="Language">
-        <a href="/" title="Tiếng Việt">🇻🇳</a>
-        <a href="/en/" title="English">🇬🇧</a>
-        <a href="/ja/" title="日本語">🇯🇵</a>
-      </div>
+      <div class="nav-lang" aria-label="Language"><a href="/" title="Tiếng Việt">🇻🇳</a><a href="/en/" title="English">🇬🇧</a><a href="/ja/" title="日本語">🇯🇵</a></div>
     </nav>
   </header>
 
-  <!-- ============ PAGE HERO ============ -->
-  <section class="page-hero">
+  <!-- ============ HERO ============ -->
+  <section class="page-hero page-hero-image" style="background-image: url('https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=2400&q=85&auto=format&fit=crop');">
     <div class="container">
       <div class="crumbs">
-        <a href="index.html">Trang chủ</a><span>›</span><a href="ve-hope.html">Về HOPE CORP</a><span>›</span><span>Đội ngũ</span>
+        <a href="index.html">Trang chủ</a><span> › </span><a href="ve-hope.html">Về HOPE CORP</a><span> › </span><span>Đội ngũ</span>
       </div>
-      <span class="eyebrow">Founders · Board · Cố vấn khoa học</span>
-      <h1>Đội ngũ đằng sau HOPE CORP</h1>
-      <p>Đội sáng lập tổng hoà <strong>ba năng lực hiếm cùng lúc</strong>: kỹ thuật AI/IT trong môi trường G7 · quản trị Sales toàn cầu · Luật Kinh tế xuyên biên giới · di sản tri thức Y học Cổ truyền phương Đông. Đây là moat khó copy — không đối thủ nào có cùng tổ hợp.</p>
+      <span class="eyebrow">Những người xây dựng IKI</span>
+      <h1>Đội ngũ HOPE CORP.</h1>
+      <p>Tổng hoà ba năng lực hiếm cùng lúc: kỹ thuật AI/IT trong môi trường G7 · quản trị Sales toàn cầu · Luật Kinh tế xuyên biên giới · di sản tri thức Y học Cổ truyền phương Đông. Đây là moat không đối thủ nào có cùng tổ hợp.</p>
     </div>
   </section>
 
-  <!-- ============ 3 FOUNDERS ============ -->
-  <section class="team-grid-section">
+  <!-- ============ STATS BAR ============ -->
+  <div class="stats-bar">
+    <div class="stat-item">
+      <span class="stat-num">12<span class="stat-plus">+</span></span>
+      <span class="stat-label">Năm IT Nhật Bản</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num">100K<span class="stat-plus">+</span></span>
+      <span class="stat-label">Thành viên cộng đồng</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num">2000<span class="stat-plus">+</span></span>
+      <span class="stat-label">Năm di sản Đông Y</span>
+    </div>
+    <div class="stat-item">
+      <span class="stat-num">3</span>
+      <span class="stat-label">Founders & Board</span>
+    </div>
+  </div>
+
+  <!-- ============ FOUNDERS GRID [WHITE] ============ -->
+  <section style="background: #ffffff; padding: 120px 0;">
     <div class="container">
-      <div class="section-header">
+      <div style="margin-bottom: 64px;">
         <span class="eyebrow">Đội sáng lập &amp; Hội đồng quản trị</span>
-        <h2>Ba con người · Ba lăng kính · Một sứ mệnh</h2>
+        <h2 style="font-size: clamp(2rem, 3.8vw, 3.4rem); letter-spacing: -0.03em; margin-top: 12px; max-width: 600px;">Ba con người. Ba lăng kính. Một sứ mệnh.</h2>
       </div>
 
-      <div class="team-grid">
+      <div class="team-grid-whoop">
 
         <!-- HUNG NGUYEN — CEO/FOUNDER -->
-        <article class="team-card team-card-featured">
-          <div class="team-photo" data-initials="HN">
-            <img src="team-photos/nguyen-van-hung.jpg" alt="Nguyễn Văn Hưng — CEO & Founder HOPE CORP" onerror="this.style.display='none';this.parentElement.classList.add('photo-fallback');" />
+        <article class="team-member">
+          <div class="team-member-photo" aria-hidden="true">
+            <img src="team-photos/nguyen-van-hung.jpg" alt="Nguyễn Văn Hưng — CEO &amp; Founder HOPE CORP" loading="eager" onerror="this.style.display='none'" />
           </div>
-          <span class="team-role">CEO &amp; FOUNDER</span>
-          <h3 class="team-name">Nguyễn Văn Hưng</h3>
-          <p class="team-tagline"><em>The Tao Engineer</em> — kỹ sư của Đạo</p>
-          <p class="team-bio">
-            18 tuổi rời Việt Nam sang Nhật — sống và học tại Nhật 7 năm, làm việc với môi trường &amp; doanh nghiệp Nhật hơn <strong>12 năm</strong> (BrSE trong công nghệ G7 rồi Sales quốc tế). Học thêm Thạc sĩ Luật Kinh tế để hoàn thiện vế bảo vệ doanh nghiệp xuyên biên giới. Quyết định xây HOPE CORP để bắc cầu giữa hệ tri thức Y học Cổ truyền Việt Nam — kế thừa từ <strong>học thuyết Âm Dương Ngũ Hành — kết tinh qua Tuệ Tĩnh và Hải Thượng Lãn Ông</strong> — và công nghệ AI hiện đại, viết tri thức nghìn năm thành code mà thế giới đọc được.
+          <span class="eyebrow">CEO &amp; Founder</span>
+          <h3>Nguyễn Văn Hưng</h3>
+          <p class="team-member-tagline"><em>The Tao Engineer</em></p>
+          <p class="team-member-bio">
+            18 tuổi rời Việt Nam sang Nhật — sống và học tại Nhật 7 năm, làm việc với môi trường doanh nghiệp Nhật hơn <strong>12 năm</strong> (BrSE trong công nghệ G7 rồi Sales quốc tế). Học thêm Thạc sĩ Luật Kinh tế để hoàn thiện vế bảo vệ doanh nghiệp xuyên biên giới. Xây HOPE CORP để bắc cầu giữa hệ tri thức Y học Cổ truyền Việt Nam — kế thừa từ học thuyết Âm Dương Ngũ Hành qua Tuệ Tĩnh và Hải Thượng Lãn Ông — và công nghệ AI hiện đại.
           </p>
-          <ul class="team-creds">
-            <li>🇯🇵 7 năm IT Nhật Bản — BrSE → Sale Manager → Khởi nghiệp</li>
-            <li>📈 50K+ Community · $300K Revenue</li>
-            <li>⚖️ Đang học Thạc sĩ Luật Kinh tế</li>
-            <li>🌿 Healthcare Founder · Holistic Ecosystem</li>
-          </ul>
-          <p class="team-quote">
-            "I build systems that listen. Where the Tao meets the algorithm."
-          </p>
+          <p class="team-member-quote">"I build systems that listen. Where the Tao meets the algorithm."</p>
         </article>
 
         <!-- THANH TAM — COO/FOUNDER -->
-        <article class="team-card">
-          <div class="team-photo" data-initials="TT">
-            <img src="team-photos/pham-ngoc-thanh-tam.jpg" alt="Phạm Ngọc Thanh Tâm — COO Founder HOPE CORP" onerror="this.style.display='none';this.parentElement.classList.add('photo-fallback');" />
+        <article class="team-member">
+          <div class="team-member-photo" aria-hidden="true">
+            <img src="team-photos/pham-ngoc-thanh-tam.jpg" alt="Phạm Ngọc Thanh Tâm — COO Founder HOPE CORP" loading="eager" onerror="this.style.display='none'" />
           </div>
-          <span class="team-role">COO &amp; FOUNDER</span>
-          <h3 class="team-name">Phạm Ngọc Thanh Tâm</h3>
-          <p class="team-tagline">Head of Growth &amp; Community · Macrobiotics Specialist</p>
-          <p class="team-bio">
+          <span class="eyebrow">COO &amp; Founder</span>
+          <h3>Phạm Ngọc Thanh Tâm</h3>
+          <p class="team-member-tagline">Head of Growth &amp; Community · Macrobiotics Specialist</p>
+          <p class="team-member-bio">
             Chuyên gia Thực dưỡng đồng sáng lập HOPE CORP, dẫn dắt cộng đồng <strong>100.000+ thành viên</strong> theo lối sống dưỡng sinh phương Đông. Biến uy tín chuyên môn thành doanh thu bền vững và mở rộng năng lực marketing của HOPE CORP qua content, community-building và đối tác chiến lược.
           </p>
-          <ul class="team-creds">
-            <li>👥 100K+ community leader</li>
-            <li>🌿 Macrobiotics Specialist · Health Coach</li>
-            <li>📊 Head of Growth — HOPE CORP</li>
-            <li>🎤 Diễn giả workshop sức khoẻ tự nhiên</li>
-          </ul>
-          <p class="team-quote">
-            "Cộng đồng không phải audience. Cộng đồng là dòng chảy nuôi dưỡng nhau."
-          </p>
+          <p class="team-member-quote">"Cộng đồng không phải audience. Cộng đồng là dòng chảy nuôi dưỡng nhau."</p>
         </article>
 
         <!-- HOANG HAI — BOARD MEMBER -->
-        <article class="team-card">
-          <div class="team-photo" data-initials="HH">
-            <img src="team-photos/nguyen-hoang-hai.jpg" alt="Nguyễn Hoàng Hải — Board Member HOPE CORP" onerror="this.style.display='none';this.parentElement.classList.add('photo-fallback');" />
+        <article class="team-member">
+          <div class="team-member-photo" aria-hidden="true">
+            <img src="team-photos/nguyen-hoang-hai.jpg" alt="Nguyễn Hoàng Hải — Board Member HOPE CORP" loading="eager" onerror="this.style.display='none'" />
           </div>
-          <span class="team-role">BOARD MEMBER · FUNDRAISING COACH</span>
-          <h3 class="team-name">Nguyễn Hoàng Hải</h3>
-          <p class="team-tagline">Former CEO Canavi · Forbes 30 under 30 Asia 2017</p>
-          <p class="team-bio">
+          <span class="eyebrow">Board Member · Fundraising Coach</span>
+          <h3>Nguyễn Hoàng Hải</h3>
+          <p class="team-member-tagline">Former CEO Canavi · Forbes 30 under 30 Asia 2017</p>
+          <p class="team-member-bio">
             Cố vấn chiến lược về <strong>fundraising</strong> và <strong>institutional design</strong> cho HOPE CORP. Track record xây dựng và scale doanh nghiệp công nghệ — từ founder Canavi đến CFRO VinCSS — giúp HOPE CORP cấu trúc gọi vốn quốc tế và quản trị theo chuẩn investor-ready.
           </p>
-          <ul class="team-creds">
-            <li>🏆 Forbes 30 under 30 Asia 2017</li>
-            <li>💼 Former CEO Canavi</li>
-            <li>🛡 Former Board Member &amp; CFRO VinCSS</li>
-            <li>📚 Fundraising Coach HR1 Việt Nam · Board Member VuaCua</li>
-          </ul>
-          <p class="team-quote">
-            "Series A không mua một ngôi sao. Họ mua một thể chế."
-          </p>
+          <p class="team-member-quote">"Series A không mua một ngôi sao. Họ mua một thể chế."</p>
         </article>
 
       </div>
     </div>
   </section>
 
-  <!-- ============ KNOWLEDGE LINEAGE — Nguồn tri thức nền tảng ============ -->
-  <section class="science-advisor-section">
+  <!-- ============ UNFAIR ADVANTAGE [BLACK] ============ -->
+  <section class="section-black" style="padding: 120px 0;">
     <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Knowledge Lineage · 2000+ năm di sản</span>
-        <h2>Từ nguyên lý cổ Đông Y đến framework AI hiện đại của IKI</h2>
-        <p>Knowledge base của IKI được kế thừa từ <strong>tinh hoa Y học Cổ truyền phương Đông</strong> — bắc cầu từ nguyên lý gốc 2000+ năm đến hai nhà y học kinh điển Việt Nam — được hệ thống hoá thành dataset training cho AI Engine.</p>
-      </div>
-
-      <div class="lineage-grid">
-
-        <article class="lineage-card">
-          <span class="lineage-era">~3000-200 TCN · Public domain</span>
-          <div class="lineage-icon">☯</div>
-          <h3>Âm Dương · Ngũ Hành</h3>
-          <p class="lineage-tagline">Nguyên lý nền tảng Đông Y · 2000+ năm</p>
-          <p class="lineage-body">Học thuyết <strong>Âm Dương</strong> (Kinh Dịch, ~3000 TCN) và <strong>Ngũ Hành</strong> (Hoàng Đế Nội Kinh, ~200 TCN) — di sản công khai của văn minh phương Đông. Là nguyên lý cốt lõi để IKI xây dựng framework <em>5 thể tạng</em>: Hàn / Nhiệt / Hư / Thực / Đàm thấp.</p>
-        </article>
-
-        <article class="lineage-card">
-          <span class="lineage-era">Thế kỷ 14 · ~1330–1400</span>
-          <div class="lineage-icon">📜</div>
-          <h3>Tuệ Tĩnh</h3>
-          <p class="lineage-tagline">Ông tổ Y học Cổ truyền Việt Nam</p>
-          <p class="lineage-body">Tác giả <strong>"Nam Dược Thần Hiệu"</strong> — công trình đặt nền móng cho hệ thống Y học Cổ truyền dùng dược liệu Việt Nam. Triết lý <em>"Nam dược trị Nam nhân"</em> (thuốc Việt chữa người Việt) là tinh thần xuyên suốt của IKI.</p>
-        </article>
-
-        <article class="lineage-card lineage-card-featured">
-          <span class="lineage-era">Thế kỷ 18 · 1720–1791</span>
-          <div class="lineage-icon">📚</div>
-          <h3>Hải Thượng Lãn Ông</h3>
-          <p class="lineage-tagline">Lê Hữu Trác · Đại y tôn Việt Nam</p>
-          <p class="lineage-body">Tác giả <strong>"Hải Thượng Y Tông Tâm Lĩnh"</strong> — bộ bách khoa Y học Cổ truyền Việt Nam 28 quyển, kết tinh tri thức về thể tạng, bệnh học, dược học và dưỡng sinh. Nguồn tri thức trung tâm cho framework cá nhân hoá của IKI.</p>
-        </article>
-
-      </div>
-
-      <!-- Cố vấn chuyên môn hiện tại — short -->
-      <div class="advisor-card-mini">
-        <span class="advisor-tag">Cố vấn chuyên môn hiện tại</span>
-        <h3>TS. Ngô Đức Vượng</h3>
-        <p>Cố vấn chuyên môn của HOPE CORP — hệ thống hoá học thuyết Âm Dương Ngũ Hành và tinh hoa Y học Cổ truyền Việt Nam (Tuệ Tĩnh, Hải Thượng Lãn Ông) thành chương trình đào tạo và knowledge base cho IKI.</p>
-        <p style="margin-top: 14px;"><strong>HOPE CORP là pháp nhân sở hữu thương hiệu IKI và thương hiệu "Ngô Đức Vượng"</strong> — vận hành minh bạch, có trách nhiệm với khách hàng, đối tác và cộng đồng.</p>
-        <p class="disclaimer-inline" style="margin-top: 16px;">
-          <strong>Lưu ý compliance:</strong> Knowledge base của Học Viện IKI mang tính giáo dục lối sống &amp; dưỡng sinh — <strong>không phải tư vấn y khoa</strong> và không thay thế chẩn đoán/điều trị của bác sĩ chuyên môn.
-        </p>
-      </div>
-    </div>
-  </section>
-
-  <!-- ============ UNFAIR ADVANTAGE — 4 năng lực hiếm ============ -->
-  <section class="unfair-advantage-section">
-    <div class="container">
-      <div class="section-header">
+      <div style="margin-bottom: 72px;">
         <span class="eyebrow">Unfair Advantage</span>
-        <h2>4 năng lực hiếm cùng lúc — không đối thủ nào có cùng tổ hợp</h2>
-        <p>Tổng hoà 4 chiều này tạo ra moat tự nhiên không thể copy bằng vốn hay tốc độ.</p>
+        <h2 style="font-size: clamp(2rem, 3.8vw, 3.6rem); letter-spacing: -0.04em; margin-top: 14px; max-width: 700px; color: white;">4 năng lực hiếm cùng lúc — không đối thủ nào có cùng tổ hợp.</h2>
+        <p style="max-width: 560px;">Tổng hoà 4 chiều này tạo ra moat tự nhiên không thể copy bằng vốn hay tốc độ.</p>
       </div>
 
-      <div class="advantage-grid">
-        <article class="advantage-card">
-          <div class="advantage-icon">🇯🇵</div>
+      <div class="advantage-grid-whoop">
+        <div class="advantage-item" style="border-color: rgba(255,255,255,0.08); border-right: 1px solid rgba(255,255,255,0.08); border-bottom: 1px solid rgba(255,255,255,0.08);">
           <span class="advantage-num">01</span>
-          <h3>IT/AI sâu trong môi trường G7</h3>
-          <p>Sống &amp; học tại Nhật 7 năm + làm việc với doanh nghiệp Nhật <strong>12+ năm</strong> — không phải bootcamp, không phải tech-bro Silicon Valley. Đây là tư duy hệ thống được rèn qua văn hoá kỹ thuật khắt khe nhất thế giới.</p>
-        </article>
-
-        <article class="advantage-card">
-          <div class="advantage-icon">📈</div>
+          <h3 style="color: white;">IT/AI sâu trong môi trường G7</h3>
+          <p style="color: rgba(255,255,255,0.6);">Sống &amp; học tại Nhật 7 năm + làm việc với doanh nghiệp Nhật <strong>12+ năm</strong> — không phải bootcamp. Tư duy hệ thống được rèn qua văn hoá kỹ thuật khắt khe nhất thế giới.</p>
+        </div>
+        <div class="advantage-item" style="border-color: rgba(255,255,255,0.08); border-bottom: 1px solid rgba(255,255,255,0.08); border-right: none;">
           <span class="advantage-num">02</span>
-          <h3>Quản trị Sales chuẩn quốc tế</h3>
-          <p>Từ BrSE chuyển sang Sales — học cách thuyết phục con người theo framework chuẩn. Đây là vế "Mở rộng" trong tam giác Khởi tạo · Mở rộng · Bảo vệ.</p>
-        </article>
-
-        <article class="advantage-card">
-          <div class="advantage-icon">⚖️</div>
+          <h3 style="color: white;">Quản trị Sales chuẩn quốc tế</h3>
+          <p style="color: rgba(255,255,255,0.6);">Từ BrSE chuyển sang Sales — học cách thuyết phục con người theo framework chuẩn. Đây là vế "Mở rộng" trong tam giác Khởi tạo · Mở rộng · Bảo vệ.</p>
+        </div>
+        <div class="advantage-item" style="border-color: rgba(255,255,255,0.08); border-right: 1px solid rgba(255,255,255,0.08); border-bottom: none;">
           <span class="advantage-num">03</span>
-          <h3>Luật Kinh tế xuyên biên giới</h3>
-          <p>Thạc sĩ Luật Kinh tế khi đã đi làm — đủ để cấu trúc doanh nghiệp scale qua biên giới mà không gãy về compliance/IP. Cực hiếm với founder gốc kỹ thuật.</p>
-        </article>
-
-        <article class="advantage-card">
-          <div class="advantage-icon">🌿</div>
+          <h3 style="color: white;">Luật Kinh tế xuyên biên giới</h3>
+          <p style="color: rgba(255,255,255,0.6);">Thạc sĩ Luật Kinh tế khi đã đi làm — đủ để cấu trúc doanh nghiệp scale qua biên giới mà không gãy về compliance/IP. Cực hiếm với founder gốc kỹ thuật.</p>
+        </div>
+        <div class="advantage-item" style="border-color: rgba(255,255,255,0.08); border-right: none; border-bottom: none;">
           <span class="advantage-num">04</span>
-          <h3>Di sản tri thức Y học Cổ truyền</h3>
-          <p>Kế thừa hệ tri thức Y học Cổ truyền Việt Nam từ <strong>học thuyết Âm Dương Ngũ Hành — kết tinh qua Tuệ Tĩnh và Hải Thượng Lãn Ông</strong> — được hệ thống hoá thành knowledge base cho AI Engine. HOPE CORP sở hữu thương hiệu IKI và "Ngô Đức Vượng" — dataset độc bản không thể mua, không thể outsource.</p>
+          <h3 style="color: white;">Di sản tri thức Y học Cổ truyền</h3>
+          <p style="color: rgba(255,255,255,0.6);">Kế thừa hệ tri thức từ <strong>học thuyết Âm Dương Ngũ Hành — kết tinh qua Tuệ Tĩnh và Hải Thượng Lãn Ông</strong> — được hệ thống hoá thành knowledge base cho AI Engine. Dataset độc bản không thể mua, không thể outsource.</p>
+        </div>
+      </div>
+
+      <p style="margin-top: 56px; font-size: 1.05rem; color: rgba(255,255,255,0.5); max-width: 640px;"><strong style="color: white;">Tổng hoà 4 yếu tố này</strong> = một định danh duy nhất trên thị trường: <em>The Tao Engineer</em>. Đây là chất liệu để xây thể chế trường tồn — không phải hào quang cá nhân.</p>
+    </div>
+  </section>
+
+  <!-- ============ SCIENCE ADVISOR [BLACK] ============ -->
+  <section class="section-black" style="padding: 120px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+    <div class="container">
+      <div style="margin-bottom: 72px;">
+        <span class="eyebrow">Knowledge Lineage · 2000+ năm di sản</span>
+        <h2 style="font-size: clamp(1.9rem, 3.5vw, 3.2rem); letter-spacing: -0.035em; margin-top: 14px; max-width: 660px; color: white;">Từ nguyên lý cổ Đông Y đến framework AI hiện đại của IKI.</h2>
+        <p style="max-width: 560px;">Knowledge base của IKI kế thừa từ tinh hoa Y học Cổ truyền phương Đông — bắc cầu từ nguyên lý gốc 2000+ năm đến hai nhà y học kinh điển Việt Nam — được hệ thống hoá thành dataset training cho AI Engine.</p>
+      </div>
+
+      <div class="science-grid">
+        <article class="science-item">
+          <span class="science-era">~3000–200 TCN · Public domain</span>
+          <span class="science-glyph">☯</span>
+          <h3>Âm Dương · Ngũ Hành</h3>
+          <span class="science-item-sub">Nguyên lý nền tảng Đông Y</span>
+          <p>Học thuyết <strong>Âm Dương</strong> (Kinh Dịch, ~3000 TCN) và <strong>Ngũ Hành</strong> (Hoàng Đế Nội Kinh, ~200 TCN) — di sản công khai của văn minh phương Đông. Là nguyên lý cốt lõi để IKI xây dựng framework 5 thể tạng: Hàn / Nhiệt / Hư / Thực / Đàm thấp.</p>
+        </article>
+        <article class="science-item">
+          <span class="science-era">Thế kỷ 14 · ~1330–1400</span>
+          <span class="science-glyph">📜</span>
+          <h3>Tuệ Tĩnh</h3>
+          <span class="science-item-sub">Ông tổ Y học Cổ truyền Việt Nam</span>
+          <p>Tác giả <strong>"Nam Dược Thần Hiệu"</strong> — công trình đặt nền móng cho hệ thống Y học Cổ truyền dùng dược liệu Việt Nam. Triết lý <em>"Nam dược trị Nam nhân"</em> là tinh thần xuyên suốt của IKI.</p>
+        </article>
+        <article class="science-item" style="border-right: none;">
+          <span class="science-era">Thế kỷ 18 · 1720–1791</span>
+          <span class="science-glyph">📚</span>
+          <h3>Hải Thượng Lãn Ông</h3>
+          <span class="science-item-sub">Lê Hữu Trác · Đại y tôn Việt Nam</span>
+          <p>Tác giả <strong>"Hải Thượng Y Tông Tâm Lĩnh"</strong> — bộ bách khoa Y học Cổ truyền Việt Nam 28 quyển, kết tinh tri thức về thể tạng, bệnh học, dược học và dưỡng sinh. Nguồn tri thức trung tâm cho framework cá nhân hoá của IKI.</p>
         </article>
       </div>
 
-      <div class="advantage-takeaway">
-        <p><strong>Tổng hoà 4 yếu tố này</strong> = một định danh duy nhất trên thị trường: <em>The Tao Engineer</em>. Đây là chất liệu để xây thể chế trường tồn — không phải hào quang cá nhân.</p>
+      <div class="advisor-mini">
+        <span class="advisor-mini-label">Cố vấn chuyên môn hiện tại</span>
+        <div>
+          <h3>TS. Ngô Đức Vượng</h3>
+          <p>Cố vấn chuyên môn của HOPE CORP — hệ thống hoá học thuyết Âm Dương Ngũ Hành và tinh hoa Y học Cổ truyền Việt Nam (Tuệ Tĩnh, Hải Thượng Lãn Ông) thành chương trình đào tạo và knowledge base cho IKI.</p>
+          <p><strong style="color: rgba(255,255,255,0.75);">HOPE CORP là pháp nhân sở hữu thương hiệu IKI và thương hiệu "Ngô Đức Vượng"</strong> — vận hành minh bạch, có trách nhiệm với khách hàng, đối tác và cộng đồng.</p>
+          <p class="disclaimer">Lưu ý compliance: Knowledge base của Học Viện IKI mang tính giáo dục lối sống &amp; dưỡng sinh — không phải tư vấn y khoa và không thay thế chẩn đoán/điều trị của bác sĩ chuyên môn.</p>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- ============ HEALTH COACH TEAM ============ -->
-  <section style="padding: 80px 0; background: #f8faf8;">
+  <!-- ============ HEALTH COACH [WHITE] ============ -->
+  <section style="background: #ffffff; padding: 120px 0;">
     <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Đội ngũ Health Coach</span>
-        <h2>Service Layer — Đội chuyên viên đồng hành</h2>
-        <p>Đội Health Coach của HOPE CORP — được đào tạo theo chương trình Học Viện IKI dựa trên hệ tri thức kinh điển — đảm nhận giảng dạy live tại Học Viện IKI, Q&amp;A trong cộng đồng, và tham vấn 1-1 cho user cần lộ trình cá nhân hoá sâu.</p>
+      <span class="eyebrow">Đội ngũ Health Coach</span>
+      <h2 style="font-size: clamp(1.9rem, 3.5vw, 3rem); letter-spacing: -0.03em; margin-top: 14px; margin-bottom: 24px; max-width: 600px;">Service Layer — Đội chuyên viên đồng hành.</h2>
+      <p style="max-width: 600px; color: var(--gray-700); margin-bottom: 48px;">Đội Health Coach của HOPE CORP — được đào tạo theo chương trình Học Viện IKI dựa trên hệ tri thức kinh điển — đảm nhận giảng dạy live tại Học Viện IKI, Q&amp;A trong cộng đồng, và tham vấn 1-1 cho user cần lộ trình cá nhân hoá sâu.</p>
+
+      <div class="advantage-grid-whoop">
+        <div class="advantage-item">
+          <span class="advantage-num">Học Viện IKI</span>
+          <h3>Giảng dạy &amp; Q&amp;A</h3>
+          <p>Giảng viên live, hỗ trợ Q&amp;A khoá học. Kiểm chứng nội dung theo chuẩn chuyên môn Học Viện.</p>
+        </div>
+        <div class="advantage-item" style="border-right: none;">
+          <span class="advantage-num">Cộng đồng IKI</span>
+          <h3>Moderation &amp; Kiểm chứng</h3>
+          <p>Duy trì chất lượng thông tin trong cộng đồng 100K+ thành viên. Không để misinformation lan truyền.</p>
+        </div>
+        <div class="advantage-item" style="border-bottom: none;">
+          <span class="advantage-num">IKI Đồng Hành 1-1</span>
+          <h3>Tham vấn cá nhân</h3>
+          <p>Lộ trình riêng cho cơ địa đặc biệt. Kết hợp AI Coach + chuyên viên con người khi cần chiều sâu.</p>
+        </div>
+        <div class="advantage-item" style="border-right: none; border-bottom: none;">
+          <span class="advantage-num">App IKI</span>
+          <h3>Review AI Recommendations</h3>
+          <p>Review &amp; verify AI recommendations cho ca khó. Con người là tầng cuối trong chuỗi phán quyết.</p>
+        </div>
       </div>
 
-      <div class="health-coach-callout">
-        <p><strong>Service layer trong mô hình platform IKI:</strong></p>
-        <ul style="margin: 16px 0 0 24px;">
-          <li><strong>Học Viện IKI</strong> — Giảng dạy live, Q&amp;A khoá học</li>
-          <li><strong>Cộng đồng IKI</strong> — Moderation, kiểm chứng nội dung</li>
-          <li><strong>IKI Đồng Hành 1-1</strong> — Tham vấn riêng cho cơ địa đặc biệt</li>
-          <li><strong>App IKI</strong> — Review &amp; verify AI recommendations cho ca khó</li>
-        </ul>
-        <p style="margin-top: 16px;">Chi tiết về đội ngũ Health Coach và cố vấn chuyên môn được trình bày tại <a href="hoc-vien.html"><strong>trang Học Viện IKI</strong></a>.</p>
+      <p style="margin-top: 40px; font-size: 0.9rem; color: var(--gray-500);">Chi tiết về đội ngũ Health Coach và cố vấn chuyên môn được trình bày tại <a href="hoc-vien.html"><strong>trang Học Viện IKI</strong></a>.</p>
+    </div>
+  </section>
+
+  <!-- ============ TESTIMONIALS [BLACK] ============ -->
+  <section class="section-black testimonials-whoop">
+    <div class="container">
+      <span class="eyebrow">Cộng đồng nói về HOPE CORP</span>
+      <p class="testimonial-featured-quote">"HOPE CORP là nơi hiếm hoi tôi thấy tri thức y học cổ truyền được trình bày bài bản, không bịa đặt, không cường điệu — mà còn được đội ngũ kỹ thuật đưa vào app thực sự dùng được hàng ngày."</p>
+      <p class="testimonial-featured-attr">Chị Minh Châu, 42 tuổi · Thành viên cộng đồng IKI · Hà Nội</p>
+
+      <div class="testimonials-mini-row">
+        <div class="testimonial-mini">
+          <div class="testimonial-stars">★ ★ ★ ★ ★</div>
+          <p>"Founder Hưng trả lời câu hỏi của tôi trong group lúc 11 giờ đêm. Mức độ tận tâm đó không phải startup nào cũng có."</p>
+          <p class="testimonial-mini-attr">Anh Quang Tuấn · Đà Nẵng · Community Member</p>
+        </div>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars">★ ★ ★ ★ ★</div>
+          <p>"Tôi từng hoài nghi về Đông Y vì thấy nhiều nơi nói quá đà. HOPE CORP là lần đầu tiên tôi thấy một đội ngũ vừa hiểu Đông Y vừa không tự phong phép màu."</p>
+          <p class="testimonial-mini-attr">Chị Hồng Vân, 38 tuổi · TP.HCM · Học Viện IKI</p>
+        </div>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars">★ ★ ★ ★ ★</div>
+          <p>"Đội ngũ Health Coach của Học Viện giải thích từng điểm trong lộ trình dưỡng sinh cho tôi rất rõ ràng. Tôi không bị để mặc sau khi đăng ký."</p>
+          <p class="testimonial-mini-attr">Cô Ngọc Lan, 55 tuổi · Hải Phòng · Học Viện IKI</p>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- ============ CTA ============ -->
-  <section style="padding: 64px 0;">
-    <div class="container" style="text-align: center; max-width: 720px;">
-      <span class="eyebrow">Liên hệ &amp; Hợp tác</span>
-      <h2 style="margin: 12px 0 16px;">Quan tâm về HOPE CORP?</h2>
-      <p style="margin-bottom: 28px;">Press, đối tác chiến lược, nhà đầu tư, hoặc ứng viên — đều có thể liên hệ trực tiếp với đội sáng lập.</p>
-      <a class="btn btn-primary" href="mailto:contact@ikihealing.com?subject=Hợp tác với HOPE CORP">Email contact@ikihealing.com</a>
-      <a class="btn btn-secondary" href="cong-nghe.html" style="margin-left: 12px;">Tìm hiểu Công nghệ IKI</a>
+  <!-- ============ JOIN US CTA [BLACK] ============ -->
+  <section class="section-black" style="padding: 120px 0; border-top: 1px solid rgba(255,255,255,0.06);">
+    <div class="container">
+      <div class="join-cta-content">
+        <span class="eyebrow">Gia nhập đội ngũ</span>
+        <h2>Gia nhập đội ngũ HOPE CORP.</h2>
+        <p>HOPE CORP tìm người thực thi — không cần quản lý, cam kết cao, gắn KPI. Press, đối tác chiến lược, nhà đầu tư hoặc ứng viên đều có thể liên hệ trực tiếp với đội sáng lập.</p>
+        <div class="join-btn-row">
+          <a class="btn btn-primary" href="mailto:contact@ikihealing.com?subject=Ứng tuyển HOPE CORP">Gửi CV &amp; Thư ứng tuyển</a>
+          <a class="btn btn-secondary" href="cong-nghe.html">Tìm hiểu Công nghệ IKI</a>
+        </div>
+        <p style="margin-top: 32px; font-size: 0.82rem; color: rgba(255,255,255,0.3); letter-spacing: 0.05em;">contact@ikihealing.com · MST: 0801404967</p>
+      </div>
     </div>
   </section>
 
+  <!-- ============ FOOTER ============ -->
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
@@ -374,11 +615,9 @@
           <h4>Liên hệ</h4>
           <ul class="contact-list">
             <li class="contact-item">
-              <span class="contact-label">📧 Email</span>
               <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">💬 CSKH</span>
               <a href="tel:0396748848">0396.748.848</a>
             </li>
           </ul>

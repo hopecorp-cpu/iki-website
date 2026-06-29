@@ -2,14 +2,11 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
-  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
-       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
-       like Cloudflare. These meta tags are the static-site-safe subset.
-       ============================================================ -->
+  <!-- ============ SECURITY HEADERS ============ -->
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
-  <!-- Google Search Console verification — paste your actual code from GSC here:
+  <!-- Google Search Console verification:
   <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -25,6 +22,10 @@
   <meta property="og:title" content="Về HOPE CORP — Công ty đứng sau hệ sinh thái IKI" />
   <meta property="og:description" content="Pháp nhân: Công ty Cổ phần TMDV HOPE · MST 0801404967 · Sở hữu thương hiệu IKI và platform công nghệ wellness." />
   <meta property="og:image" content="https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Về HOPE CORP" />
   <meta name="twitter:description" content="Pháp nhân chính thức sở hữu thương hiệu IKI." />
@@ -32,12 +33,12 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&display=swap" rel="stylesheet" />
   <link rel="icon" type="image/jpeg" href="iki-logo-256.jpg" />
   <link rel="stylesheet" href="styles.css" />
   <script src="script.js" defer></script>
 
-  <!-- BreadcrumbList schema for SEO -->
+  <!-- BreadcrumbList schema -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -59,13 +60,27 @@
   }
   </script>
 
-  <!-- ============ MICROSOFT CLARITY (heatmap + session recording) ============
-       1. Đăng ký free tại https://clarity.microsoft.com/
-       2. Add project → domain ikihealing.com
-       3. Copy Project ID (10 ký tự, vd: "abc1234xyz")
-       4. Replace YOUR_CLARITY_ID bên dưới với ID đó
-       5. Re-deploy — Clarity bắt đầu thu data trong vòng 5 phút
-       ============================================================ -->
+  <!-- Organization schema -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Công ty Cổ phần TMDV HOPE",
+    "alternateName": ["HOPE CORP", "IKI by HOPE"],
+    "url": "https://ikihealing.com",
+    "logo": "https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg",
+    "email": "contact@ikihealing.com",
+    "taxID": "0801404967",
+    "foundingDate": "2023-08",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "63/253 Ngô Quyền, P. Lê Thanh Nghị",
+      "addressLocality": "Hải Phòng",
+      "addressCountry": "VN"
+    }
+  }
+  </script>
+
   <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -75,12 +90,14 @@
   </script>
 </head>
 <body>
+
   <!-- ============ ANNOUNCEMENT BAR ============ -->
   <div class="announcement-bar">
     App IKI — <a href="app.html">iOS &amp; Android</a>. Tải miễn phí · AI Coach Đông Y ngay trong tầm tay.
   </div>
 
-<header class="site-header" id="site-header">
+  <!-- ============ HEADER ============ -->
+  <header class="site-header" id="site-header">
     <nav class="nav">
       <a class="brand" href="index.html" aria-label="IKI Trang chủ">
         <img class="brand-logo" src="iki-logo-256.jpg" alt="IKI logo" />
@@ -107,295 +124,221 @@
     </nav>
   </header>
 
-  <!-- PAGE HERO -->
-  <section class="page-hero page-hero-image" style="background-image: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1600&q=80&auto=format&fit=crop');">
-    <div class="container">
-      <div class="crumbs">
-        <a href="index.html">Trang chủ</a>
-        <span>›</span>
-        <span>Về HOPE CORP</span>
-      </div>
-      <span class="eyebrow">Về Công ty Cổ phần TMDV HOPE</span>
-      <h1>Doanh nghiệp đứng sau hệ sinh thái IKI</h1>
-      <p>HOPE CORP là pháp nhân sở hữu và vận hành toàn bộ thương hiệu IKI — Học Viện, Cộng đồng, Sản phẩm và Ứng dụng. Một doanh nghiệp Việt Nam với sứ mệnh đem sức khoẻ chủ động đến hàng triệu người.</p>
-    </div>
-  </section>
-
-  <!-- SỨ MỆNH -->
-  <section class="philosophy">
-    <div class="container philosophy-inner">
-      <span class="eyebrow">Sứ mệnh</span>
-      <blockquote class="philosophy-quote">
-        Đem <em>tri thức sức khoẻ chủ động</em><br/>đến với mọi người Việt.
-      </blockquote>
-      <p class="philosophy-body">
-        HOPE CORP tin rằng mỗi người Việt — dù sống ở thành phố hay nông thôn, dù
-        trẻ hay già — đều xứng đáng được tiếp cận tri thức chăm sóc sức khoẻ
-        đúng đắn, được kiểm chứng, dễ áp dụng. Chúng tôi xây dựng IKI như
-        một <em>nền tảng mở</em> để hiện thực hoá sứ mệnh đó.
-      </p>
-    </div>
-  </section>
-
-  <!-- ============ FOUNDER STORY — Tao Engineer narrative ============ -->
-  <section class="founder-story">
-    <div class="container founder-story-inner">
-      <span class="eyebrow">Câu chuyện sáng lập</span>
-      <h2>Hai cuộc gặp định nghĩa lại HOPE CORP — và sinh ra <em>The Tao Engineer</em></h2>
-
-      <article class="founder-story-body">
-        <p class="lead">Có hai cuộc gặp đã định nghĩa lại con đường của tôi — và cuối cùng đẻ ra cụm từ <em>"Tao Engineer"</em>, định danh tôi chọn để dẫn HOPE CORP.</p>
-
-        <h3>Cuộc gặp thứ nhất — 18 tuổi, đặt chân đến Nhật Bản</h3>
-        <p>7 năm sống và học tại Nhật, sau đó tiếp tục làm việc với môi trường &amp; doanh nghiệp Nhật <strong>hơn 12 năm</strong> — qua các vai trò BrSE trong công nghệ G7 rồi Sales quốc tế. Tôi học được một bài học mà không trường lớp nào ở Việt Nam dạy: <strong>người Nhật không tin vào một cá nhân kiệt xuất</strong>. Họ tin vào hệ thống.</p>
-        <p>Họ đóng gói mọi thứ thành quy trình. Họ chuyển giao mọi thứ thành tài liệu. Họ kiến trúc mọi thứ thành thể chế. Một công ty Nhật có thể mất Chủ tịch, mất CEO — và vẫn vận hành trơn tru ngày hôm sau.</p>
-        <p>Tư duy <strong>institutional design</strong> đó ám ảnh tôi suốt hành trình. Tôi rẽ ngang sang Sales để học cách thuyết phục con người, rồi quay lại học Thạc sĩ Luật Kinh tế để hoàn thiện vế bảo vệ doanh nghiệp xuyên biên giới.</p>
-
-        <h3>Cuộc gặp thứ hai — Hệ tri thức Y học Cổ truyền Việt Nam</h3>
-        <p>Khi tiếp xúc với di sản trí tuệ khổng lồ về sức khỏe thuận tự nhiên — kế thừa từ <strong>học thuyết Âm Dương Ngũ Hành — kết tinh qua Tuệ Tĩnh và Hải Thượng Lãn Ông</strong> — tôi nhận ra một điều khiến tôi không ngủ được vài đêm:</p>
-        <blockquote class="founder-pull">
-          "Nếu tri thức này chỉ tồn tại dưới dạng video, sách, bài giảng — nó sẽ chết cùng một thế hệ."
-        </blockquote>
-        <p>Phương Đông có nghìn năm để hiểu Đạo. Nhưng phương Đông cũng có thói quen để Đạo ấy <em>tan vào im lặng</em> theo thời gian — vì nó không bao giờ được kiến trúc thành một hệ thống đủ vững để tự vận hành.</p>
-
-        <h3>Hai cuộc gặp va vào nhau — và sinh ra HOPE CORP</h3>
-        <p>Một bên là <strong>tư duy hệ thống Nhật Bản</strong>: mọi thứ phải được engineered, có cấu trúc, vận hành mà không cần người sáng lập.</p>
-        <p>Một bên là <strong>Đạo của phương Đông</strong>: cần được giữ lại — không phải bằng sách, mà bằng thuật toán.</p>
-        <p>Hai cái đó va vào nhau, và sinh ra một định danh chưa từng có trên thế giới: <strong>The Tao Engineer</strong>. <strong>IKI</strong> là sản phẩm đầu tiên của định danh đó. <strong>HOPE CORP</strong> là thể chế chứa nó.</p>
-
-        <blockquote class="founder-manifesto">
-          <p>"Tôi không vận hành một công ty. Tôi engineer một dòng chảy."</p>
-          <p>"Cá nhân đến rồi đi. Đạo và thể chế thì ở lại."</p>
-          <cite>— Nguyễn Văn Hưng · CEO &amp; Founder HOPE CORP</cite>
-        </blockquote>
-
-        <p style="margin-top: 32px;">
-          <a class="btn btn-primary" href="team.html">Xem toàn bộ đội ngũ HOPE CORP →</a>
-          <a class="btn btn-secondary" href="cong-nghe.html" style="margin-left: 12px;">Tìm hiểu công nghệ IKI</a>
-        </p>
-      </article>
-    </div>
-  </section>
-
-  <!-- ============ WHY TECH COMPANY — định vị HealthTech ============ -->
-  <section class="why-tech-company">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Tại sao là công ty công nghệ</span>
-        <h2>HOPE CORP không chỉ là 1 brand wellness — chúng tôi là công ty công nghệ trong ngành wellness</h2>
-        <p>Sự khác biệt nằm ở <strong>cách chúng tôi xây dựng sản phẩm</strong>: dữ liệu &amp; AI làm trung tâm, tri thức Y học Cổ truyền làm nền tảng, đội ngũ chuyên gia làm tầng dịch vụ.</p>
-      </div>
-
-      <div class="why-tech-grid">
-        <article class="why-tech-card">
-          <div class="why-tech-num">01</div>
-          <h3>Sản phẩm cốt lõi là App, không phải khoá học</h3>
-          <p>Trong khi brand wellness truyền thống bán khoá học hay sản phẩm vật lý, sản phẩm chính của IKI là <strong>phần mềm</strong> — App IKI với engine AI cá nhân hoá. Khoá học và sản phẩm chỉ là touchpoint mở rộng.</p>
-        </article>
-
-        <article class="why-tech-card">
-          <div class="why-tech-num">02</div>
-          <h3>AI cá nhân hoá theo quy mô lớn</h3>
-          <p>Mỗi user trên platform có lộ trình riêng dựa trên thể tạng + dữ liệu nhật ký. Đây là việc <strong>không thể làm thủ công</strong> với 100K+ user — phải có AI Engine + Knowledge Base được số hoá.</p>
-        </article>
-
-        <article class="why-tech-card">
-          <div class="why-tech-num">03</div>
-          <h3>Tri thức Đông Y là dataset, không phải nội dung marketing</h3>
-          <p>Hệ tri thức Y học Cổ truyền Việt Nam — kế thừa từ <strong>học thuyết Âm Dương Ngũ Hành — kết tinh qua Tuệ Tĩnh và Hải Thượng Lãn Ông</strong> — được số hoá thành <strong>knowledge graph cho AI</strong>: không chỉ là video bài giảng, mà là rule-based system + symptom taxonomy + treatment recommendation framework.</p>
-        </article>
-
-        <article class="why-tech-card">
-          <div class="why-tech-num">04</div>
-          <h3>Đội ngũ chuyên gia là service layer</h3>
-          <p>Đội Health Coach và chuyên gia Y học Cổ truyền không phải brand asset như "guru" — họ là <strong>tầng dịch vụ</strong> trong mô hình platform, đảm nhận live teaching, Q&amp;A và 1-1 cho user cần tư vấn sâu.</p>
-        </article>
-      </div>
-
-      <div class="why-tech-comparison" aria-label="So sánh định vị">
-        <div class="comp-col comp-old">
-          <h4>❌ Brand wellness truyền thống</h4>
-          <ul>
-            <li>Bán khoá học / sản phẩm vật lý</li>
-            <li>Phụ thuộc vào "guru" / nhân vật ảnh hưởng</li>
-            <li>Cá nhân hoá thủ công (limit ở vài trăm khách)</li>
-            <li>Định giá: doanh thu × multiple wellness (< 5x)</li>
-          </ul>
-        </div>
-        <div class="comp-col comp-new">
-          <h4>✅ Công ty công nghệ wellness (IKI)</h4>
-          <ul>
-            <li>Sản phẩm chính là <strong>App + AI Engine</strong></li>
-            <li>Tri thức được số hoá thành <strong>dataset training AI</strong></li>
-            <li>Cá nhân hoá quy mô lớn — <strong>scale tuyến tính</strong></li>
-            <li>Định giá: HealthTech multiple <strong>15–40x</strong></li>
-          </ul>
-        </div>
+  <!-- ============================================================
+       1. HERO — Full-bleed
+       ============================================================ -->
+  <section class="hero hero-fullbleed" aria-label="Hero Về HOPE CORP">
+    <div class="hfb-bg" style="background-image: url('https://images.unsplash.com/photo-1497366216548-37526070297c?w=2400&q=85&auto=format&fit=crop')"></div>
+    <div class="hfb-overlay"></div>
+    <div class="container hfb-content">
+      <span class="eyebrow">Về HOPE CORP</span>
+      <h1>Doanh nghiệp đứng sau<br>hệ sinh thái IKI.</h1>
+      <p class="hero-lead">HOPE CORP là pháp nhân sở hữu và vận hành toàn bộ thương hiệu IKI — Học Viện, Cộng đồng, Sản phẩm và Ứng dụng. Một doanh nghiệp Việt Nam với sứ mệnh đem sức khoẻ chủ động đến hàng triệu người.</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="team.html">Gặp đội ngũ HOPE CORP →</a>
+        <a class="btn btn-secondary" href="cong-nghe.html">Tìm hiểu công nghệ IKI</a>
       </div>
     </div>
   </section>
 
-  <!-- 3 GIÁ TRỊ CỐT LÕI -->
-  <section class="ecosystem" style="background: var(--white);">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Giá trị cốt lõi</span>
-        <h2>Ba giá trị dẫn lối mọi quyết định của HOPE CORP</h2>
-      </div>
-      <div class="ecosystem-grid" style="grid-template-columns: repeat(3, 1fr);">
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">🌱</div>
-          <span class="eco-tag">Tử tế</span>
-          <h3>Đặt lợi ích khách hàng trên lợi nhuận</h3>
-          <p>Chúng tôi không bán những gì khách hàng không cần. Sản phẩm, khoá học và lời khuyên — tất cả phải vượt qua một câu hỏi: "Có thực sự tốt cho người dùng không?"</p>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">🔬</div>
-          <span class="eco-tag">Thực chứng</span>
-          <h3>Nói có sách, mách có chứng</h3>
-          <p>Mọi nội dung trong hệ sinh thái IKI đều có nguồn gốc tri thức rõ ràng, có dữ liệu thực hành, có kiểm nghiệm. Không truyền miệng, không "nghe nói".</p>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">⚙️</div>
-          <span class="eco-tag">Hệ thống</span>
-          <h3>Xây bằng hệ thống, không phụ thuộc cá nhân</h3>
-          <p>HOPE CORP xây IKI như một thương hiệu có thể đứng vững trong nhiều thập kỷ — không lệ thuộc vào một cá nhân, không tan rã khi một mắt xích thay đổi.</p>
-        </div>
-
-      </div>
+  <!-- ============================================================
+       2. STATS BAR — BLACK
+       ============================================================ -->
+  <div class="stats-bar" aria-label="Số liệu HOPE CORP">
+    <div class="stat-item">
+      <div class="stat-num">15<span class="stat-plus">+</span></div>
+      <div class="stat-label">Năm kinh nghiệm</div>
     </div>
-  </section>
-
-  <!-- TIMELINE / ROADMAP -->
-  <section class="knowledge-system">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Lộ trình HOPE CORP — IKI</span>
-        <h2>Hành trình đã đi và con đường phía trước</h2>
-        <p>Một timeline rõ ràng các cột mốc quan trọng của HOPE CORP — từ ngày khởi nguồn đến tầm nhìn 2030.</p>
-      </div>
-
-      <div class="ks-grid">
-
-        <article class="ks-block">
-          <div class="ks-num">8/2023</div>
-          <div class="ks-content">
-            <span class="eyebrow">Khởi nguồn</span>
-            <h3>Thành lập Công ty Cổ phần TMDV HOPE</h3>
-            <p>HOPE CORP được thành lập tháng 8/2023 với mục tiêu thương mại hoá tri thức về sức khoẻ chủ động — vốn trước đó chỉ tồn tại ở dạng bài giảng truyền miệng và workshop offline. Đặt trụ sở tại 63/253 đường Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">2025</div>
-          <div class="ks-content">
-            <span class="eyebrow">Hợp nhất thương hiệu</span>
-            <h3>HOPE CORP sở hữu &amp; tái cấu trúc thương hiệu IKI</h3>
-            <p>HOPE CORP chính thức sở hữu thương hiệu IKI và rebrand Học viện Ngô Đức Vượng thành Học Viện IKI. Hệ sinh thái 4 nhánh được định hình: Học Viện, Cộng đồng, Sản phẩm vật lý và Ứng dụng số.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">2026</div>
-          <div class="ks-content">
-            <span class="eyebrow">Năm hiện tại</span>
-            <h3>Số hoá toàn diện &amp; ra mắt App IKI</h3>
-            <p>Đóng gói toàn bộ bài giảng cốt lõi thành video, ra mắt nền tảng học tập số. Chuẩn bị ra mắt IKI App — ứng dụng cá nhân hoá hành trình chăm sóc sức khoẻ. Mở rộng cộng đồng vượt 100.000 thành viên.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">2027</div>
-          <div class="ks-content">
-            <span class="eyebrow">Mở rộng địa lý</span>
-            <h3>IKI tại 10 tỉnh thành — Workshop offline khắp Việt Nam</h3>
-            <p>Mở rộng các Đại sứ IKI và CLB sống thuận tự nhiên tại 10 tỉnh thành lớn. Tổ chức 50+ workshop offline mỗi năm. Hợp tác với các phòng khám Y học Cổ truyền uy tín.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">2028</div>
-          <div class="ks-content">
-            <span class="eyebrow">Mở rộng quốc tế</span>
-            <h3>Quốc tế hoá App IKI — Đông Nam Á &amp; cộng đồng Việt toàn cầu</h3>
-            <p>Localize App IKI và bộ bài giảng video sang tiếng Anh, tiếng Nhật (web ikihealing.com đã có VI/EN/JA từ 2026). Bắt đầu từ cộng đồng người Việt tại Mỹ, Nhật, Singapore — sau đó mở rộng cho người bản địa quan tâm Y học Cổ truyền phương Đông.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">2030</div>
-          <div class="ks-content">
-            <span class="eyebrow">Tầm nhìn 5 năm</span>
-            <h3>"Thư viện trí tuệ số" về sức khoẻ chủ động cho 1 triệu người</h3>
-            <p>1 triệu người dùng tích cực trên IKI App. Hệ thống dữ liệu sức khoẻ thực chứng lớn nhất tại Việt Nam — đặt nền móng cho các sản phẩm AI cá nhân hoá thế hệ tiếp theo. IKI trở thành một trong những thương hiệu wellness có ảnh hưởng nhất tại Đông Nam Á.</p>
-          </div>
-        </article>
-
-      </div>
+    <div class="stat-item">
+      <div class="stat-num">100K<span class="stat-plus">+</span></div>
+      <div class="stat-label">Người dùng IKI</div>
     </div>
-  </section>
-
-  <!-- THÔNG TIN PHÁP NHÂN -->
-  <section class="hope-strip">
-    <div class="container hope-grid">
-      <div>
-        <span class="hope-eyebrow">Pháp nhân</span>
-        <h2>Công ty Cổ phần Thương mại Dịch vụ HOPE</h2>
-        <p>Một doanh nghiệp Việt Nam, đăng ký kinh doanh và vận hành minh bạch tại Hà Nội — sở hữu toàn bộ thương hiệu IKI và Ngô Đức Vượng.</p>
-      </div>
-      <dl class="hope-info-list">
-        <div>
-          <dt>Tên đầy đủ</dt>
-          <dd>Công ty Cổ phần Thương mại Dịch vụ HOPE</dd>
-        </div>
-        <div>
-          <dt>Mã số thuế</dt>
-          <dd>0801404967</dd>
-        </div>
-        <div>
-          <dt>Năm thành lập</dt>
-          <dd>Tháng 8/2023</dd>
-        </div>
-        <div>
-          <dt>Trụ sở chính</dt>
-          <dd>63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng</dd>
-        </div>
-        <div>
-          <dt>Lĩnh vực hoạt động</dt>
-          <dd>Đào tạo sức khoẻ — TMĐT — Cộng đồng — Công nghệ</dd>
-        </div>
-        <div>
-          <dt>Thương hiệu sở hữu</dt>
-          <dd>IKI · Ngô Đức Vượng · Học Viện IKI</dd>
-        </div>
-        <div>
-          <dt>Liên hệ doanh nghiệp</dt>
-          <dd>contact@ikihealing.com</dd>
-        </div>
-      </dl>
+    <div class="stat-item">
+      <div class="stat-num">2023</div>
+      <div class="stat-label">Thành lập</div>
     </div>
-  </section>
-
-  <!-- CTA -->
-  <section style="padding: 64px 0;">
-    <div class="container" style="padding: 0;">
-      <div class="cta-banner">
-        <span class="eyebrow" style="color: var(--iki-cream);">Đồng hành cùng HOPE CORP</span>
-        <h2>Trở thành một phần của hành trình</h2>
-        <p>Bạn là khách hàng, đối tác, hay đơn giản là người quan tâm đến sức khoẻ chủ động — luôn có một cánh cửa mở cho bạn tại IKI.</p>
-        <a class="btn btn-primary" href="hoc-vien.html#dang-ky">Bắt đầu với khoá 7 ngày miễn phí →</a>
-      </div>
+    <div class="stat-item">
+      <div class="stat-num">0801404967</div>
+      <div class="stat-label">MST · Hải Phòng · Việt Nam</div>
     </div>
-  </section>
-
-  <!-- FOOTER -->
-  <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
-    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Tham gia miễn phí →</a>
   </div>
 
+  <!-- ============================================================
+       3. SỨ MỆNH — Callout WHITE · Text left + Visual right
+       ============================================================ -->
+  <section class="callout-section" aria-labelledby="su-menh-title">
+    <div class="callout-text">
+      <span class="eyebrow">Sứ mệnh</span>
+      <h2 id="su-menh-title">Đem tri thức sức khoẻ chủ động đến với mọi người Việt.</h2>
+      <ul class="callout-list">
+        <li>Mỗi người Việt — dù thành phố hay nông thôn, trẻ hay già — đều xứng đáng được tiếp cận tri thức sức khoẻ đúng đắn</li>
+        <li>Tri thức được kiểm chứng, dễ áp dụng — không truyền miệng, không sao chép</li>
+        <li>IKI là nền tảng mở để hiện thực hoá sứ mệnh đó cho hàng triệu người</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="app.html">Trải nghiệm IKI ngay →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Sứ mệnh HOPE CORP — sức khoẻ chủ động cho người Việt" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       4. FOUNDER STORY — Callout BLACK reverse · Visual left + Text right
+       ============================================================ -->
+  <section class="callout-section reverse section-black" aria-labelledby="founder-title">
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Câu chuyện sáng lập The Tao Engineer" loading="lazy" />
+    </div>
+    <div class="callout-text">
+      <span class="eyebrow">Câu chuyện sáng lập</span>
+      <h2 id="founder-title">Hai cuộc gặp,<br>một định danh.<br><em>The Tao Engineer.</em></h2>
+      <ul class="callout-list">
+        <li>7 năm tại Nhật Bản — học tư duy hệ thống: mọi thứ phải được engineered, không phụ thuộc cá nhân</li>
+        <li>Gặp di sản Y học Cổ truyền Việt Nam — 700 năm tri thức Tuệ Tĩnh và Hải Thượng Lãn Ông — nhận ra nếu không số hoá, tri thức này sẽ mất theo một thế hệ</li>
+        <li>Tư duy Nhật va vào Đạo phương Đông, sinh ra HOPE CORP: thể chế chứa IKI</li>
+      </ul>
+      <blockquote style="margin: 24px 0; padding-left: 20px; border-left: 2px solid rgba(255,255,255,0.3); font-style: italic; color: rgba(255,255,255,0.75); font-size: 1rem; line-height: 1.6;">
+        "Cá nhân đến rồi đi. Đạo và thể chế thì ở lại."<br>
+        <cite style="font-style: normal; font-size: 0.85rem; color: rgba(255,255,255,0.5);">— Nguyễn Văn Hưng · CEO &amp; Founder HOPE CORP</cite>
+      </blockquote>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       5a. GIÁ TRỊ CỐT LÕI 1 — Institutional Design · WHITE
+       ============================================================ -->
+  <section class="callout-section" aria-labelledby="value-1-title">
+    <div class="callout-text">
+      <span class="eyebrow">Giá trị cốt lõi · 01</span>
+      <h2 id="value-1-title">Xây bằng hệ thống.<br>Không phụ thuộc cá nhân.</h2>
+      <ul class="callout-list">
+        <li>Mọi quy trình, tri thức, sản phẩm đều được đóng gói thành tài liệu và hệ thống vận hành độc lập</li>
+        <li>HOPE CORP có thể mất bất kỳ ai trong đội ngũ — và vẫn vận hành trơn tru ngày hôm sau</li>
+        <li>Tư duy institutional design học từ môi trường doanh nghiệp Nhật Bản — áp dụng vào wellness Việt Nam</li>
+      </ul>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Hệ thống tổ chức HOPE CORP" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       5b. GIÁ TRỊ CỐT LÕI 2 — Đông Y số hoá · BLACK reverse
+       ============================================================ -->
+  <section class="callout-section reverse section-black" aria-labelledby="value-2-title">
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1447452001526-7cd5f0b6c7c2?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Tri thức Đông Y được số hoá" loading="lazy" />
+    </div>
+    <div class="callout-text">
+      <span class="eyebrow">Giá trị cốt lõi · 02</span>
+      <h2 id="value-2-title">Đông Y là dataset.<br>Không phải nội dung marketing.</h2>
+      <ul class="callout-list">
+        <li>700+ năm tri thức Tuệ Tĩnh và Hải Thượng Lãn Ông được số hoá thành knowledge graph cho AI</li>
+        <li>Không chỉ là video bài giảng — mà là rule-based system, symptom taxonomy, recommendation framework</li>
+        <li>Nói có sách, mách có chứng: mọi nội dung IKI đều có nguồn gốc tri thức rõ ràng, có dữ liệu thực hành</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       5c. GIÁ TRỊ CỐT LÕI 3 — Công nghệ Việt · WHITE
+       ============================================================ -->
+  <section class="callout-section" aria-labelledby="value-3-title">
+    <div class="callout-text">
+      <span class="eyebrow">Giá trị cốt lõi · 03</span>
+      <h2 id="value-3-title">Công nghệ Việt.<br>Cho người Việt.</h2>
+      <ul class="callout-list">
+        <li>IKI là ứng dụng wellness duy nhất cá nhân hoá theo thể tạng Đông Y — không copy công thức sức khoẻ Tây hay Tàu</li>
+        <li>Sản phẩm chính là App + AI Engine: cá nhân hoá quy mô lớn mà coaching thủ công không bao giờ làm được</li>
+        <li>Đặt lợi ích người dùng trên lợi nhuận — không bán những gì khách hàng không thực sự cần</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="cong-nghe.html">Tìm hiểu công nghệ IKI →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Công nghệ IKI — Made in Vietnam" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       6. TEAM TEASER — Testimonials / people section · BLACK
+       ============================================================ -->
+  <section class="testimonials-whoop section-black" aria-labelledby="team-teaser-title">
+    <div class="container">
+      <span class="eyebrow" style="display:block;text-align:center;margin-bottom:16px;">Đội ngũ HOPE CORP</span>
+      <h2 id="team-teaser-title" style="text-align:center;margin-bottom:48px;">Những người<br>engineer hệ sinh thái IKI.</h2>
+
+      <blockquote class="testimonial-featured-quote">
+        "Tôi không vận hành một công ty. Tôi engineer một dòng chảy — để tri thức Đông Y có thể chạm đến triệu người mà không cần tôi đứng giữa."
+      </blockquote>
+      <p class="testimonial-featured-attr">Nguyễn Văn Hưng · CEO &amp; Founder · HOPE CORP</p>
+
+      <div class="testimonials-mini-row">
+        <div class="testimonial-mini">
+          <p style="font-weight:600;font-size:1rem;margin-bottom:4px;">Nguyễn Văn Hưng</p>
+          <p style="color:rgba(255,255,255,0.45);font-size:0.8rem;margin-bottom:12px;">CEO &amp; Founder · The Tao Engineer</p>
+          <p>BrSE công nghệ G7 → Sales quốc tế → Thạc sĩ Luật Kinh tế. 7 năm Nhật Bản, 15+ năm tư duy hệ thống. Người thiết kế toàn bộ kiến trúc HOPE CORP.</p>
+        </div>
+        <div class="testimonial-mini">
+          <p style="font-weight:600;font-size:1rem;margin-bottom:4px;">TS. Ngô Đức Vượng</p>
+          <p style="color:rgba(255,255,255,0.45);font-size:0.8rem;margin-bottom:12px;">Cố vấn chuyên môn · Học Viện IKI</p>
+          <p>Tiến sĩ Y học Cổ truyền, người xây dựng hệ tri thức Đông Y làm nền tảng cho toàn bộ platform IKI — từ Học Viện đến AI Engine.</p>
+        </div>
+        <div class="testimonial-mini">
+          <p style="font-weight:600;font-size:1rem;margin-bottom:4px;">Đội ngũ Health Coach</p>
+          <p style="color:rgba(255,255,255,0.45);font-size:0.8rem;margin-bottom:12px;">Tầng dịch vụ · Live teaching &amp; 1-1</p>
+          <p>Chuyên gia Y học Cổ truyền và Health Coach đảm nhận bài giảng trực tiếp, Q&amp;A và tư vấn cá nhân cho người dùng cần hỗ trợ chuyên sâu.</p>
+        </div>
+      </div>
+
+      <div style="text-align:center;margin-top:56px;">
+        <a class="btn btn-primary" href="team.html">Xem toàn bộ đội ngũ HOPE CORP →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       PHÁP NHÂN — Callout WHITE · thông tin doanh nghiệp
+       ============================================================ -->
+  <section class="callout-section" aria-labelledby="phap-nhan-title">
+    <div class="callout-text">
+      <span class="eyebrow">Pháp nhân</span>
+      <h2 id="phap-nhan-title">Công ty Cổ phần Thương mại Dịch vụ HOPE.</h2>
+      <ul class="callout-list">
+        <li>Tên đầy đủ: Công ty Cổ phần Thương mại Dịch vụ HOPE</li>
+        <li>Mã số thuế: 0801404967 — Thành lập: Tháng 8/2023</li>
+        <li>Trụ sở: 63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng</li>
+        <li>Lĩnh vực: Đào tạo sức khoẻ · TMĐT · Cộng đồng · Công nghệ</li>
+        <li>Thương hiệu sở hữu: IKI · Ngô Đức Vượng · Học Viện IKI</li>
+        <li>Liên hệ: <a href="mailto:contact@ikihealing.com" style="color:inherit;">contact@ikihealing.com</a></li>
+      </ul>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=1200&q=85&auto=format&fit=crop&crop=center" alt="HOPE CORP — doanh nghiệp Việt Nam" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       7. DOWNLOAD CTA — BLACK
+       ============================================================ -->
+  <section class="download-cta section-black" aria-label="Trải nghiệm IKI">
+    <div class="container download-cta-inner">
+      <h2>Trải nghiệm IKI<br>ngay hôm nay.</h2>
+      <p>Miễn phí · Không cần thẻ tín dụng · Cá nhân hoá ngay lập tức</p>
+      <div class="download-btns">
+        <a class="btn-dl" href="https://play.google.com/store/apps/details?id=com.ikiapp.app" target="_blank" rel="noopener noreferrer">Google Play →</a>
+        <a class="btn-dl" href="https://apps.apple.com/vn/app/iki-eastern-wisdom-ai/id6767866520" target="_blank" rel="noopener noreferrer">App Store →</a>
+        <a class="btn-dl btn-dl-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Mở Web App →</a>
+      </div>
+      <p class="download-disclaimer">Ứng dụng IKI chỉ mang tính hỗ trợ lối sống tham khảo — không phải công cụ chẩn đoán y khoa.</p>
+    </div>
+  </section>
+
+  <!-- ============ STICKY MOBILE CTA ============ -->
+  <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
+    <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Mở Web App →</a>
+  </div>
+
+  <!-- ============ FOOTER ============ -->
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
@@ -416,9 +359,9 @@
         <div>
           <h4>Hỗ trợ</h4>
           <ul>
-            <li><a href="index.html#faq">Câu hỏi thường gặp</a></li>
             <li><a href="chinh-sach-doi-tra.html">Chính sách đổi trả</a></li>
             <li><a href="chinh-sach-bao-mat.html">Chính sách bảo mật</a></li>
+            <li><a href="cong-nghe.html">Công nghệ IKI</a></li>
             <li><a href="mailto:contact@ikihealing.com">Liên hệ</a></li>
           </ul>
         </div>
@@ -426,41 +369,29 @@
           <h4>Liên hệ</h4>
           <ul class="contact-list">
             <li class="contact-item">
-              <span class="contact-label">📧 Email</span>
+              <span class="contact-label">Email</span>
               <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">🌿 Tư vấn sức khoẻ &amp; Mua hàng</span>
-              <a href="tel:0987931551">0987.931.551</a><span class="contact-sep">·</span><a href="tel:0398767885">0398.767.885</a>
+              <span class="contact-label">Tư vấn &amp; Mua hàng</span>
+              <a href="tel:0987931551">0987.931.551</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">💬 Chăm sóc Khách hàng</span>
-              <a href="tel:0396748848">0396.748.848</a>
-            </li>
-            <li class="contact-item">
-              <span class="contact-label">🥑 Sản phẩm IKI</span>
-              <a href="tel:0336759982">0336.759.982</a>
-            </li>
-            <li class="contact-item">
-              <span class="contact-label">📍 Trụ sở</span>
+              <span class="contact-label">Trụ sở</span>
               63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng
             </li>
             <li class="contact-social">
-              <span class="social-soon">Facebook · YouTube · Zalo OA · TikTok <em>(sắp ra mắt)</em></span>
+              <a href="https://www.facebook.com/ikihealing/" target="_blank" rel="noopener noreferrer" class="social-link">Facebook</a> · Zalo OA · YouTube · TikTok
             </li>
           </ul>
         </div>
       </div>
       <div class="global-disclaimer">
-        <h4>Thông tin miễn trừ trách nhiệm</h4>
-        <p>Các thông tin trên website IKI chỉ nhằm mục đích cung cấp kiến thức về dinh dưỡng, lối sống và chăm sóc sức khoẻ chủ động. Nội dung không thay thế cho tư vấn, chẩn đoán hoặc điều trị y khoa chuyên môn.</p>
-        <p>Các sản phẩm được giới thiệu trên website là <strong style="color: rgba(255,255,255,0.78);">thực phẩm/thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
-        <p>Kết quả trải nghiệm có thể khác nhau tuỳ theo cơ địa, tình trạng sức khoẻ và quá trình thực hành của từng cá nhân.</p>
-        <p>Ứng dụng IKI và các bài khảo sát chỉ mang tính hỗ trợ tham khảo theo triết lý dưỡng sinh phương Đông, không phải công cụ chẩn đoán y khoa.</p>
+        <p>Các sản phẩm là <strong style="color:rgba(255,255,255,0.78);">thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Kết quả có thể khác nhau tuỳ cơ địa. Ứng dụng IKI mang tính hỗ trợ tham khảo lối sống, không phải công cụ chẩn đoán y khoa.</p>
       </div>
       <div class="footer-bottom">
         <span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span>
-        <span>Made with care in Vietnam</span>
+        <span>Made with care in Vietnam 🇻🇳</span>
       </div>
     </div>
   </footer>

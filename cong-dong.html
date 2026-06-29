@@ -2,70 +2,54 @@
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
-  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
-       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
-       like Cloudflare. These meta tags are the static-site-safe subset.
-       ============================================================ -->
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
-  <!-- Google Search Console verification — paste your actual code from GSC here:
-  <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
-
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Cộng đồng IKI — Đồng hành cùng nhau trên hành trình chăm sóc sức khoẻ</title>
-  <meta name="description" content="Cộng đồng IKI Healing — hơn 100.000 thành viên cùng học, cùng thực hành và cùng lan toả lối sống lành mạnh. Tham gia miễn phí, đồng hành 24/7." />
+
+  <title>Cộng đồng IKI — 100.000+ thành viên đồng hành sức khoẻ | IKI Healing</title>
+  <meta name="description" content="Cộng đồng IKI Healing — hơn 100.000 thành viên cùng học, cùng thực hành và cùng lan toả lối sống lành mạnh. Tham gia Zalo OA, Skool và workshop offline miễn phí." />
   <link rel="canonical" href="https://ikihealing.com/cong-dong.html" />
+  <link rel="alternate" hreflang="vi" href="https://ikihealing.com/cong-dong.html" />
+  <link rel="alternate" hreflang="x-default" href="https://ikihealing.com/cong-dong.html" />
 
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="vi_VN" />
   <meta property="og:site_name" content="IKI by HOPE CORP" />
   <meta property="og:url" content="https://ikihealing.com/cong-dong.html" />
-  <meta property="og:title" content="Cộng đồng IKI — Đồng hành cùng nhau trên hành trình chăm sóc sức khoẻ" />
+  <meta property="og:title" content="Cộng đồng IKI — 100.000+ thành viên đồng hành sức khoẻ" />
   <meta property="og:description" content="Hơn 100.000 thành viên cùng học, cùng thực hành và cùng lan toả lối sống lành mạnh. Tham gia miễn phí." />
   <meta property="og:image" content="https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+
+  <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="Cộng đồng IKI — Đồng hành cùng nhau" />
-  <meta name="twitter:description" content="Hơn 100.000 thành viên cùng thực hành lối sống lành mạnh." />
+  <meta name="twitter:title" content="Cộng đồng IKI — 100.000+ thành viên" />
+  <meta name="twitter:description" content="Hơn 100.000 thành viên cùng thực hành lối sống lành mạnh. Zalo OA · Skool · Workshop offline." />
   <meta name="twitter:image" content="https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg" />
 
+  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&display=swap" rel="stylesheet" />
+
   <link rel="icon" type="image/jpeg" href="iki-logo-256.jpg" />
   <link rel="stylesheet" href="styles.css" />
   <script src="script.js" defer></script>
 
-  <!-- BreadcrumbList schema for SEO -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "name": "Trang chủ",
-        "item": "https://ikihealing.com/"
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "name": "Cộng đồng",
-        "item": "https://ikihealing.com/cong-dong.html"
-      }
+      { "@type": "ListItem", "position": 1, "name": "Trang chủ", "item": "https://ikihealing.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Cộng đồng", "item": "https://ikihealing.com/cong-dong.html" }
     ]
   }
   </script>
 
-  <!-- ============ MICROSOFT CLARITY (heatmap + session recording) ============
-       1. Đăng ký free tại https://clarity.microsoft.com/
-       2. Add project → domain ikihealing.com
-       3. Copy Project ID (10 ký tự, vd: "abc1234xyz")
-       4. Replace YOUR_CLARITY_ID bên dưới với ID đó
-       5. Re-deploy — Clarity bắt đầu thu data trong vòng 5 phút
-       ============================================================ -->
   <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -75,21 +59,15 @@
   </script>
 </head>
 <body>
-  <!-- ============ ANNOUNCEMENT BAR ============ -->
-  <div class="announcement-bar">
-    App IKI — <a href="app.html">iOS &amp; Android</a>. Tải miễn phí · AI Coach Đông Y ngay trong tầm tay.
-  </div>
 
-<header class="site-header" id="site-header">
+  <!-- ============ ANNOUNCEMENT BAR ============ -->
+  <div class="announcement-bar">App IKI — <a href="app.html">iOS &amp; Android</a>. Tải miễn phí · AI Coach Đông Y ngay trong tầm tay.</div>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header" id="site-header">
     <nav class="nav">
-      <a class="brand" href="index.html" aria-label="IKI Trang chủ">
-        <img class="brand-logo" src="iki-logo-256.jpg" alt="IKI logo" />
-        <span>IKI <span class="brand-sub">By HOPE CORP</span></span>
-      </a>
-      <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
-        <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
-        <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-      </button>
+      <a class="brand" href="index.html" aria-label="IKI Trang chủ"><img class="brand-logo" src="iki-logo-256.jpg" alt="IKI logo" /><span>IKI <span class="brand-sub">By HOPE CORP</span></span></a>
+      <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav"><svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg><svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
       <ul class="nav-links" id="primary-nav">
         <li><a href="index.html">Trang chủ</a></li>
         <li><a href="hoc-vien.html">Học Viện</a></li>
@@ -99,279 +77,164 @@
         <li><a href="ve-hope.html">Về HOPE CORP</a></li>
         <li><a class="nav-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">🌿 Mở Web App →</a></li>
       </ul>
-      <div class="nav-lang" aria-label="Language">
-        <a href="/" title="Tiếng Việt">🇻🇳</a>
-        <a href="/en/" title="English">🇬🇧</a>
-        <a href="/ja/" title="日本語">🇯🇵</a>
-      </div>
+      <div class="nav-lang" aria-label="Language"><a href="/" title="Tiếng Việt">🇻🇳</a><a href="/en/" title="English">🇬🇧</a><a href="/ja/" title="日本語">🇯🇵</a></div>
     </nav>
   </header>
 
-  <section class="page-hero page-hero-image" style="background-image: url('https://images.unsplash.com/photo-1599901860904-17e6ed7083a0?w=1600&q=80&auto=format&fit=crop');">
-    <div class="container">
-      <div class="crumbs">
-        <a href="index.html">Trang chủ</a><span>›</span><span>Cộng đồng IKI</span>
-      </div>
-      <span class="eyebrow">Cộng đồng IKI Healing</span>
-      <h1>Bạn không bước đi một mình</h1>
-      <p>Hơn 100.000 thành viên cùng học, cùng thực hành và cùng lan toả lối sống chủ động — chăm từ gốc. Một cộng đồng được xây trên nền tảng của sự tử tế và đồng hành.</p>
-    </div>
-  </section>
-
-  <!-- STATS -->
-  <section class="stats">
-    <div class="container">
-      <div class="stats-grid">
-        <div><span class="stat-num">100K+</span><span class="stat-label">Thành viên cộng đồng</span></div>
-        <div><span class="stat-num">12</span><span class="stat-label">Nhóm chuyên đề</span></div>
-        <div><span class="stat-num">24</span><span class="stat-label">Sự kiện offline / năm</span></div>
-        <div><span class="stat-num">∞</span><span class="stat-label">Cuộc trò chuyện tử tế</span></div>
+  <!-- ============================================================
+       1. HERO — Full-bleed
+       ============================================================ -->
+  <section class="hero hero-fullbleed">
+    <div class="hfb-bg" style="background-image: url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=2400&q=85&auto=format&fit=crop')"></div>
+    <div class="hfb-overlay"></div>
+    <div class="container hfb-content">
+      <span class="eyebrow">100.000+ thành viên</span>
+      <h1>Cộng đồng IKI.</h1>
+      <p class="hero-lead">Một nơi không có drama, không bán hàng nài nỉ — chỉ có những người tử tế đi cùng nhau trên hành trình chăm sóc sức khoẻ.</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="https://zalo.me/g/hopecorp-iki" target="_blank" rel="noopener">Tham gia ngay →</a>
+        <a class="btn btn-secondary" href="#cach-tham-gia">Tìm hiểu thêm</a>
       </div>
     </div>
   </section>
 
-  <!-- 3 WAYS TO JOIN -->
-  <section class="ecosystem" id="tham-gia">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Cách tham gia</span>
-        <h2>Ba cánh cửa — bạn chọn cánh phù hợp</h2>
-        <p>Cộng đồng IKI có nhiều tầng — từ nhẹ nhàng theo dõi, đến đồng hành sâu cùng học viên VIP. Tất cả đều miễn phí ở cấp độ cơ bản.</p>
-      </div>
-
-      <div class="ecosystem-grid" style="grid-template-columns: repeat(3, 1fr);">
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">💬</div>
-          <span class="eco-tag">Mở</span>
-          <h3>Group Zalo &amp; Facebook IKI</h3>
-          <p>Tham gia ngay không cần đăng ký khoá học. Chia sẻ kinh nghiệm, đặt câu hỏi, đọc bài hữu ích hàng ngày.</p>
-          <span class="eco-link">Tham gia miễn phí →</span>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">🎓</div>
-          <span class="eco-tag">Dành cho học viên</span>
-          <h3>Skool IKI Academy</h3>
-          <p>Cộng đồng riêng cho học viên các khoá học IKI — có moderator, có lộ trình, có Q&amp;A định kỳ với chuyên gia.</p>
-          <span class="eco-link">Khoá học IKI →</span>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">⭐</div>
-          <span class="eco-tag">Membership</span>
-          <h3>IKI Inner Circle</h3>
-          <p>Vòng kết nối chuyên sâu với đội ngũ Học Viện IKI — lớp kế thừa của Thầy Vượng — và các chuyên gia khách mời. Coaching nhóm, retreat thực tế, ưu đãi sản phẩm.</p>
-          <span class="eco-link">Đăng ký membership →</span>
-        </div>
-
-      </div>
+  <!-- ============================================================
+       2. STATS BAR — Black horizontal strip
+       ============================================================ -->
+  <div class="stats-bar" aria-label="Chỉ số cộng đồng IKI">
+    <div class="stat-item">
+      <div class="stat-num">100K<span class="stat-plus">+</span></div>
+      <div class="stat-label">Thành viên cộng đồng</div>
     </div>
-  </section>
-
-  <!-- HOẠT ĐỘNG -->
-  <section class="features">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Hoạt động cộng đồng</span>
-        <h2>Mỗi tháng — luôn có điều gì đó để mong chờ</h2>
-      </div>
-
-      <div class="feature-row">
-        <div>
-          <span class="eyebrow">Hàng tuần</span>
-          <h3>Live Q&amp;A với chuyên gia</h3>
-          <p>Mỗi tuần có buổi live với đội ngũ Học Viện IKI và các chuyên gia khách mời, dựa trên di sản tri thức của Thầy Vượng. Bạn được đặt câu hỏi và nhận câu trả lời ngay tại buổi live.</p>
-          <ul class="feature-list">
-            <li>Live Zoom &amp; YouTube công khai</li>
-            <li>Lưu trữ trong Skool học viên</li>
-            <li>Tổng hợp Q&amp;A gửi qua email tuần sau</li>
-          </ul>
-        </div>
-        <div class="feature-visual" style="background-image: url('https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Hàng tuần</span><strong>Live Q&amp;A với chuyên gia</strong></div></div>
-      </div>
-
-      <div class="feature-row reverse">
-        <div>
-          <span class="eyebrow">Hàng tháng</span>
-          <h3>Workshop offline tại các tỉnh thành</h3>
-          <p>IKI tổ chức 1–2 workshop offline mỗi tháng tại Hà Nội, TP.HCM, Đà Nẵng và các tỉnh khác. Học viên VIP được ưu tiên đăng ký.</p>
-          <ul class="feature-list">
-            <li>Workshop nấu ăn lành mạnh</li>
-            <li>Buổi thực hành thiền — thở</li>
-            <li>Buổi gặp mặt cộng đồng theo vùng</li>
-          </ul>
-        </div>
-        <div class="feature-visual warm" style="background-image: url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Hàng tháng</span><strong>Workshop offline tại các tỉnh thành</strong></div></div>
-      </div>
-
-      <div class="feature-row">
-        <div>
-          <span class="eyebrow">Hàng quý</span>
-          <h3>Retreat &amp; Detox tập trung</h3>
-          <p>Bốn lần mỗi năm, IKI tổ chức retreat 3–7 ngày tại các điểm gần thiên nhiên — nơi học viên có thể thực hành toàn diện cùng chuyên gia.</p>
-          <ul class="feature-list">
-            <li>Detox tập trung 3 ngày</li>
-            <li>Retreat thiền &amp; tĩnh tâm 7 ngày</li>
-            <li>Số lượng giới hạn — đăng ký trước 1 tháng</li>
-          </ul>
-        </div>
-        <div class="feature-visual sand" style="background-image: url('https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Hàng quý</span><strong>Retreat 7 ngày trong thiên nhiên</strong></div></div>
-      </div>
-
+    <div class="stat-item">
+      <div class="stat-num">12</div>
+      <div class="stat-label">Nhóm chuyên đề</div>
     </div>
-  </section>
-
-  <!-- ============ LIFESTYLE BANNER — visual break ============ -->
-  <div class="lifestyle-banner" style="background-image: url('https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=2000&q=80&auto=format&fit=crop');" aria-hidden="true"></div>
-
-  <!-- TESTIMONIALS -->
-  <section class="testimonials">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Cộng đồng đang nói gì</span>
-        <h2>Một nơi an toàn để hỏi — và để chia sẻ</h2>
-        <p>Phản hồi từ thành viên ở cả ba tầng cộng đồng: Group Zalo mở, Skool học viên, và Inner Circle. Không có drama, không bán hàng nài nỉ — chỉ có những người tử tế đi cùng nhau.</p>
-      </div>
-
-      <!-- Featured -->
-      <div class="testimonial-featured">
-        <div class="testimonial-portrait" aria-hidden="true">B</div>
-        <div>
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>"Tôi đã rời rất nhiều cộng đồng online vì cảm thấy mệt — toàn drama, bán hàng đa cấp, hoặc khoe khoang vô nghĩa. IKI là cộng đồng đầu tiên tôi gắn bó được 2 năm. Lý do? Không có drama. Không bán hàng kiểu nài nỉ. Ai chia sẻ chuyện gì cũng được lắng nghe — kể cả khi đó là một câu hỏi rất ngơ ngác về dinh dưỡng. Hiếm có cộng đồng online nào ở Việt Nam như vậy."</blockquote>
-          <div class="testimonial-meta">
-            <div>
-              <div class="testimonial-name">Cô Bích Thảo, 49 tuổi</div>
-              <div class="testimonial-role">2 năm trong cộng đồng IKI · Học viên khoá Nền tảng &amp; Chuyên sâu · Hà Nội</div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <!-- 6 testimonials theo nhiều tầng cộng đồng -->
-      <div class="testimonial-grid">
-
-        <div class="testimonial with-stat">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Lần đầu vào Group Zalo IKI tôi chỉ định đọc thầm. Sau một tháng, tôi đã đặt câu hỏi đầu tiên về giấc ngủ — và được moderator trả lời rất cẩn thận. Cảm giác như có một gia đình online.</blockquote>
-          <div class="testimonial-result">
-            <strong>1 tháng đọc thầm</strong>
-            đến khi sẵn sàng chia sẻ
-          </div>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar">P</div>
-            <div>
-              <div class="testimonial-name">Chị Phương Linh, 34</div>
-              <div class="testimonial-role">Group Zalo IKI · Quảng Ninh</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial with-stat">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Tôi tham gia retreat 7 ngày tại Hoà Bình hè năm ngoái. Đó là tuần đầu tiên trong 5 năm tôi không động đến điện thoại — và cơ thể tôi cảm ơn tôi vì điều đó. Đến giờ tôi vẫn duy trì 1 ngày "không màn hình" mỗi tuần.</blockquote>
-          <div class="testimonial-result">
-            <strong>7 ngày retreat</strong>
-            thay đổi 1 năm cuộc sống
-          </div>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar deep">Q</div>
-            <div>
-              <div class="testimonial-name">Anh Quân Anh, 39</div>
-              <div class="testimonial-role">IKI Inner Circle · Retreat Hoà Bình · Hà Nội</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial with-stat">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Trong Skool IKI, tôi được giao một "buddy" cùng khoá Nền tảng. Cô ấy ở Đà Lạt, tôi ở Hà Nội — chúng tôi gọi nhau mỗi tuần để cập nhật tiến độ. 30 ngày sau, chúng tôi đã thành bạn thật.</blockquote>
-          <div class="testimonial-result">
-            <strong>1 buddy mỗi khoá</strong>
-            biến cô đơn thành đồng hành
-          </div>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar warm">M</div>
-            <div>
-              <div class="testimonial-name">Chị Mai Trang, 31</div>
-              <div class="testimonial-role">Skool IKI · Khoá Nền tảng · Hà Nội</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Workshop offline IKI tại Đà Nẵng tháng trước — 50 người cùng học nấu ăn lành mạnh. Tôi nhớ nhất khoảnh khắc cô bán hàng tạp hoá ngồi cạnh chuyên gia tài chính cùng học cách rửa rau đúng cách. Cộng đồng đẹp ở chỗ đó.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar sand">H</div>
-            <div>
-              <div class="testimonial-name">Cô Hoài Thu, 56</div>
-              <div class="testimonial-role">Workshop offline · Đà Nẵng</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Inner Circle khác hẳn Group Zalo — quy mô nhỏ hơn nhưng sâu hơn. Mỗi tháng có 2 buổi gọi nhóm với Thầy Vượng. Câu hỏi của tôi được trả lời trực tiếp, không bị "chìm" như trong group lớn.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar earth">A</div>
-            <div>
-              <div class="testimonial-name">Anh Anh Tuấn, 47</div>
-              <div class="testimonial-role">IKI Inner Circle · Founder doanh nghiệp · TP.HCM</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Tôi 68 tuổi, không quen công nghệ. Nhưng moderator IKI gọi điện hướng dẫn tôi vào group Zalo — bằng giọng nhẹ nhàng và kiên nhẫn. Đó là sự tử tế hiếm gặp trong thời đại này.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar warm">N</div>
-            <div>
-              <div class="testimonial-name">Cô Nga, 68</div>
-              <div class="testimonial-role">Group Zalo IKI · Hưu trí · Nam Định</div>
-            </div>
-          </div>
-        </div>
-
-      </div>
+    <div class="stat-item">
+      <div class="stat-num">24</div>
+      <div class="stat-label">Sự kiện offline / năm</div>
     </div>
-  </section>
-
-  <!-- CTA -->
-  <section style="padding: 64px 0;">
-    <div class="container" style="padding: 0;">
-      <div class="cta-banner">
-        <h2>Một cộng đồng tử tế đang chờ bạn</h2>
-        <p>Tham gia Group Zalo IKI miễn phí — không cần điều kiện, không cần đăng ký phức tạp. Đọc thầm trước, chia sẻ sau, khi bạn sẵn sàng.</p>
-        <a class="btn btn-primary" href="mailto:contact@ikihealing.com?subject=Tham%20gia%20Group%20Zalo%20IKI">Tham gia Group Zalo IKI →</a>
-      </div>
+    <div class="stat-item">
+      <div class="stat-num">∞</div>
+      <div class="stat-label">Cuộc trò chuyện tử tế</div>
     </div>
-  </section>
-
-  <!-- HOPE CORP STRIP -->
-  <section class="hope-strip">
-    <div class="container hope-grid">
-      <div>
-        <span class="hope-eyebrow">Đơn vị pháp lý</span>
-        <h2>Cộng đồng IKI — vận hành bởi HOPE CORP</h2>
-        <p>HOPE CORP là pháp nhân sở hữu thương hiệu IKI và toàn bộ hệ sinh thái. Mọi sự kiện, retreat và hoạt động cộng đồng đều do Công ty Cổ phần TMDV HOPE vận hành — minh bạch và có trách nhiệm.</p>
-      </div>
-      <dl class="hope-info-list">
-        <div><dt>Pháp nhân</dt><dd>Công ty Cổ phần TMDV HOPE</dd></div><div><dt>Mã số thuế</dt><dd>0801404967</dd></div>
-        <div><dt>Phụ trách cộng đồng</dt><dd>Đội Community Management</dd></div>
-        <div><dt>Quy mô hiện tại</dt><dd>100.000+ thành viên đa kênh</dd></div>
-        <div><dt>Liên hệ</dt><dd>contact@ikihealing.com</dd></div>
-      </dl>
-    </div>
-  </section>
-
-  <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
-    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Tham gia miễn phí →</a>
   </div>
 
+  <!-- ============================================================
+       3. CALLOUT — WHITE: Zalo OA
+       ============================================================ -->
+  <div class="callout-section" id="cach-tham-gia">
+    <div class="callout-text">
+      <span class="eyebrow">Hỏi đáp mỗi ngày</span>
+      <h2>Zalo OA — hỏi đáp mỗi ngày.</h2>
+      <ul class="callout-list">
+        <li>Đặt câu hỏi về sức khoẻ, dinh dưỡng, giấc ngủ — nhận trả lời từ moderator và chuyên gia trong ngày</li>
+        <li>Bài viết kiến thức hàng ngày từ đội ngũ Học Viện IKI</li>
+        <li>Không cần đăng ký khoá học — tham gia miễn phí ngay</li>
+        <li>Cộng đồng với 100.000+ thành viên, hoạt động 24/7</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="https://zalo.me/g/hopecorp-iki" target="_blank" rel="noopener">Tham gia Zalo OA →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&q=85&auto=format&fit=crop" alt="Cộng đồng IKI Zalo — thành viên chia sẻ kinh nghiệm sức khoẻ" loading="lazy" />
+    </div>
+  </div>
+
+  <!-- ============================================================
+       4. CALLOUT — BLACK reverse: Workshop offline
+       ============================================================ -->
+  <div class="callout-section section-black reverse">
+    <div class="callout-text">
+      <span class="eyebrow">Hàng tháng</span>
+      <h2>Workshop &amp; retreat offline hàng tháng.</h2>
+      <ul class="callout-list">
+        <li>1–2 workshop offline mỗi tháng tại Hà Nội, TP.HCM, Đà Nẵng và các tỉnh thành</li>
+        <li>Workshop nấu ăn lành mạnh, thiền — thở, gặp mặt cộng đồng theo vùng</li>
+        <li>Retreat 3–7 ngày hàng quý tại các điểm gần thiên nhiên, cùng chuyên gia thực hành toàn diện</li>
+        <li>Học viên VIP được ưu tiên đăng ký — số lượng giới hạn</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="mailto:contact@ikihealing.com?subject=Dang%20ky%20workshop%20IKI" target="_blank" rel="noopener">Đăng ký workshop →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=1200&q=85&auto=format&fit=crop" alt="Workshop offline IKI — thực hành cùng nhau trong thiên nhiên" loading="lazy" />
+    </div>
+  </div>
+
+  <!-- ============================================================
+       5. CALLOUT — WHITE: Skool Community
+       ============================================================ -->
+  <div class="callout-section">
+    <div class="callout-text">
+      <span class="eyebrow">Dành cho học viên</span>
+      <h2>Skool Community — học và kết nối.</h2>
+      <ul class="callout-list">
+        <li>Cộng đồng riêng cho học viên các khoá học IKI — có moderator, có lộ trình rõ ràng</li>
+        <li>Q&amp;A định kỳ với chuyên gia, live Zoom hàng tuần được lưu trữ đầy đủ</li>
+        <li>Hệ thống "buddy" — mỗi học viên được ghép cặp để cùng theo dõi tiến độ</li>
+        <li>IKI Inner Circle — coaching nhóm chuyên sâu, ưu đãi sản phẩm, retreat thực tế</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="https://www.skool.com/iki-healing" target="_blank" rel="noopener">Tham gia Skool →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?w=1200&q=85&auto=format&fit=crop" alt="Skool IKI Community — học viên kết nối và học cùng nhau" loading="lazy" />
+    </div>
+  </div>
+
+  <!-- ============================================================
+       6. TESTIMONIALS — Black, WHOOP flat style
+       ============================================================ -->
+  <section class="testimonials-whoop section-black">
+    <div class="container">
+      <span class="eyebrow">Cộng đồng đang nói gì</span>
+
+      <!-- Featured quote -->
+      <blockquote class="testimonial-featured-quote">
+        "IKI là cộng đồng đầu tiên tôi gắn bó được 2 năm. Không có drama. Không bán hàng kiểu nài nỉ. Ai chia sẻ chuyện gì cũng được lắng nghe — kể cả khi đó là một câu hỏi rất ngơ ngác về dinh dưỡng."
+      </blockquote>
+      <p class="testimonial-featured-attr">Cô Bích Thảo, 49 tuổi · 2 năm trong cộng đồng IKI · Hà Nội</p>
+
+      <!-- 3 mini testimonials -->
+      <div class="testimonials-mini-row">
+        <div class="testimonial-mini">
+          <div class="testimonial-stars">★★★★★</div>
+          <p>"Lần đầu vào Group Zalo IKI tôi chỉ định đọc thầm. Sau một tháng, tôi đặt câu hỏi đầu tiên về giấc ngủ — và được moderator trả lời rất cẩn thận. Cảm giác như có một gia đình online."</p>
+          <div class="testimonial-mini-attr">Chị Phương Linh, 34 · Group Zalo IKI · Quảng Ninh</div>
+        </div>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars">★★★★★</div>
+          <p>"Tôi tham gia retreat 7 ngày tại Hoà Bình hè năm ngoái. Đó là tuần đầu tiên trong 5 năm tôi không động đến điện thoại. Đến giờ vẫn duy trì 1 ngày không màn hình mỗi tuần."</p>
+          <div class="testimonial-mini-attr">Anh Quân Anh, 39 · Inner Circle · Retreat Hoà Bình · Hà Nội</div>
+        </div>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars">★★★★★</div>
+          <p>"Workshop offline IKI tại Đà Nẵng — 50 người cùng học nấu ăn lành mạnh. Cô bán hàng tạp hoá ngồi cạnh chuyên gia tài chính cùng học cách rửa rau đúng cách. Cộng đồng đẹp ở chỗ đó."</p>
+          <div class="testimonial-mini-attr">Cô Hoài Thu, 56 · Workshop offline · Đà Nẵng</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       7. CTA JOIN — Black
+       ============================================================ -->
+  <section class="section-black" style="padding: 120px 0; text-align: center;">
+    <div class="container">
+      <span class="eyebrow">Bắt đầu ngay hôm nay</span>
+      <h2 style="font-size: clamp(2.4rem, 4.5vw, 4.2rem); margin-bottom: 24px;">Tham gia cộng đồng IKI.</h2>
+      <p style="max-width: 560px; margin: 0 auto 48px; font-size: 1.1rem; color: rgba(255,255,255,0.6);">Đọc thầm trước, chia sẻ sau — khi bạn sẵn sàng. Không cần điều kiện, không đăng ký phức tạp. Cộng đồng tử tế đang chờ bạn.</p>
+      <div style="display: flex; gap: 16px; justify-content: center; flex-wrap: wrap;">
+        <a class="btn btn-primary" href="https://zalo.me/g/hopecorp-iki" target="_blank" rel="noopener">Tham gia Zalo OA →</a>
+        <a class="btn btn-secondary" href="https://www.skool.com/iki-healing" target="_blank" rel="noopener">Tham gia Skool</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ STICKY MOBILE CTA ============ -->
+  <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
+    <a class="btn btn-primary" href="https://zalo.me/g/hopecorp-iki" target="_blank" rel="noopener noreferrer">Tham gia cộng đồng →</a>
+  </div>
+
+  <!-- ============ FOOTER ============ -->
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
@@ -386,7 +249,7 @@
             <li><a href="cong-dong.html">Cộng đồng IKI</a></li>
             <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Sản phẩm IKI ↗</a></li>
             <li><a href="app.html">Ứng dụng IKI</a></li>
-          <li><a href="ve-hope.html">Về HOPE CORP</a></li>
+            <li><a href="ve-hope.html">Về HOPE CORP</a></li>
             <li><a href="team.html">Đội ngũ</a></li>
           </ul>
         </div>
@@ -403,27 +266,20 @@
           <h4>Liên hệ</h4>
           <ul class="contact-list">
             <li class="contact-item">
-              <span class="contact-label">📧 Email</span>
+              <span class="contact-label">Email</span>
               <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">🌿 Tư vấn sức khoẻ &amp; Mua hàng</span>
+              <span class="contact-label">Tư vấn sức khoẻ &amp; Mua hàng</span>
               <a href="tel:0987931551">0987.931.551</a><span class="contact-sep">·</span><a href="tel:0398767885">0398.767.885</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">💬 Chăm sóc Khách hàng</span>
+              <span class="contact-label">Chăm sóc Khách hàng</span>
               <a href="tel:0396748848">0396.748.848</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">🥑 Sản phẩm IKI</span>
-              <a href="tel:0336759982">0336.759.982</a>
-            </li>
-            <li class="contact-item">
-              <span class="contact-label">📍 Trụ sở</span>
+              <span class="contact-label">Trụ sở</span>
               63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng
-            </li>
-            <li class="contact-social">
-              <span class="social-soon">Facebook · YouTube · Zalo OA · TikTok <em>(sắp ra mắt)</em></span>
             </li>
           </ul>
         </div>
@@ -433,7 +289,6 @@
         <p>Các thông tin trên website IKI chỉ nhằm mục đích cung cấp kiến thức về dinh dưỡng, lối sống và chăm sóc sức khoẻ chủ động. Nội dung không thay thế cho tư vấn, chẩn đoán hoặc điều trị y khoa chuyên môn.</p>
         <p>Các sản phẩm được giới thiệu trên website là <strong style="color: rgba(255,255,255,0.78);">thực phẩm/thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
         <p>Kết quả trải nghiệm có thể khác nhau tuỳ theo cơ địa, tình trạng sức khoẻ và quá trình thực hành của từng cá nhân.</p>
-        <p>Ứng dụng IKI và các bài khảo sát chỉ mang tính hỗ trợ tham khảo theo triết lý dưỡng sinh phương Đông, không phải công cụ chẩn đoán y khoa.</p>
       </div>
       <div class="footer-bottom">
         <span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span>

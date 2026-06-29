@@ -32,12 +32,12 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&display=swap" rel="stylesheet" />
   <link rel="icon" type="image/jpeg" href="iki-logo-256.jpg" />
   <link rel="stylesheet" href="styles.css" />
   <script src="script.js" defer></script>
 
-  <!-- BreadcrumbList schema for SEO -->
+  <!-- BreadcrumbList schema -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -59,7 +59,7 @@
   }
   </script>
 
-  <!-- SoftwareApplication schema — tells Google this is an app page (high quality signal) -->
+  <!-- SoftwareApplication schema -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -75,7 +75,6 @@
     "screenshot": "https://ikihealing.com/iki-logo-1024.jpg",
     "image": "https://ikihealing.com/iki-logo-1024.jpg",
     "softwareVersion": "1.0.2",
-    "releaseNotes": "Smart pronouns theo giới tính, đầy đủ tiếng Anh, tích hợp Pro Family, hỗ trợ contact@ikihealing.com.",
     "datePublished": "2026-05-10",
     "inLanguage": ["vi-VN", "en-US"],
     "isAccessibleForFree": true,
@@ -88,39 +87,12 @@
     "author": {
       "@type": "Organization",
       "name": "HOPE Corporation",
-      "alternateName": "Công ty Cổ phần TMDV HOPE",
-      "url": "https://ikihealing.com",
-      "logo": "https://ikihealing.com/iki-logo-256.jpg",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Hải Phòng",
-        "addressCountry": "VN"
-      }
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "HOPE Corporation",
       "url": "https://ikihealing.com"
-    },
-    "featureList": [
-      "AI scan bữa ăn — tính calo, đạm, tinh bột, chất béo + chấm điểm âm dương",
-      "Trắc nghiệm cơ địa Đông y — 7 câu xác định Hàn/Nhiệt/Hư/Thực",
-      "Thiền và thở có hướng dẫn — voice AI 5-15 phút mỗi ngày",
-      "Tiết thực thông minh — 5 phác đồ từ 12h đến 7 ngày",
-      "Tracking nước, cân nặng, bữa ăn — đơn giản, không áp lực",
-      "Hỗ trợ tiếng Việt và tiếng Anh",
-      "Dữ liệu lưu trên thiết bị — không bắt buộc cloud"
-    ]
+    }
   }
   </script>
 
-  <!-- ============ MICROSOFT CLARITY (heatmap + session recording) ============
-       1. Đăng ký free tại https://clarity.microsoft.com/
-       2. Add project → domain ikihealing.com
-       3. Copy Project ID (10 ký tự, vd: "abc1234xyz")
-       4. Replace YOUR_CLARITY_ID bên dưới với ID đó
-       5. Re-deploy — Clarity bắt đầu thu data trong vòng 5 phút
-       ============================================================ -->
+  <!-- ============ MICROSOFT CLARITY ============ -->
   <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -130,12 +102,13 @@
   </script>
 </head>
 <body>
+
   <!-- ============ ANNOUNCEMENT BAR ============ -->
   <div class="announcement-bar">
     App IKI — <a href="app.html">iOS &amp; Android</a>. Tải miễn phí · AI Coach Đông Y ngay trong tầm tay.
   </div>
 
-<header class="site-header" id="site-header">
+  <header class="site-header" id="site-header">
     <nav class="nav">
       <a class="brand" href="index.html" aria-label="IKI Trang chủ">
         <img class="brand-logo" src="iki-logo-256.jpg" alt="IKI logo" />
@@ -162,629 +135,379 @@
     </nav>
   </header>
 
-  <!-- ANNOUNCEMENT BAR -->
-  <div class="promo-bar">
-    <div class="container">
-      <span><strong>IKI Pro</strong> · AI Coach Đông y · 11 tính năng · <strong>499.000đ/năm</strong></span>
-      <a href="#bang-gia">Xem bảng giá →</a>
+  <!-- ============================================================
+       1. HERO — Full-bleed WHOOP style
+       ============================================================ -->
+  <section class="hero hero-fullbleed" aria-label="IKI App hero">
+    <div class="hfb-bg" style="background-image: url('https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=2400&q=85&auto=format&fit=crop')"></div>
+    <div class="hfb-overlay"></div>
+    <div class="container hfb-content">
+      <span class="eyebrow">App IKI · iOS &amp; Android · Web</span>
+      <h1>Ứng dụng IKI.</h1>
+      <p class="hero-lead">AI cá nhân hoá theo cơ địa Đông Y của bạn.</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Mở Web App →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       2. STATS BAR — Dark horizontal strip
+       ============================================================ -->
+  <div class="stats-bar" aria-label="Chỉ số IKI App">
+    <div class="stat-item">
+      <div class="stat-num">100K<span class="stat-plus">+</span></div>
+      <div class="stat-label">Người dùng</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num">4.8<span class="stat-plus">★</span></div>
+      <div class="stat-label">App Store</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num">24/7</div>
+      <div class="stat-label">AI Coach</div>
+    </div>
+    <div class="stat-item">
+      <div class="stat-num">30s</div>
+      <div class="stat-label">Nhật ký mỗi ngày</div>
     </div>
   </div>
 
-  <!-- HERO with phone mockup -->
-  <section class="hero">
-    <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">IKI App · Pro · Beta · Ra mắt Q3 / 2026</span>
-        <h1>Đạt mục tiêu sức khoẻ <em>nhanh hơn 4.2×</em> — chỉ với 1 ly cà phê/tuần.</h1>
-        <p class="hero-lead">
-          <strong>📸 Chụp ảnh món ăn → AI chấm calo + âm dương</strong> trong vài giây.
-          Cá nhân hoá theo <em>cơ địa Đông y</em> + <em>vùng địa lý của bạn</em>
-          (Bắc/Trung/Nam VN hoặc nước ngoài). Tất cả trong <strong>33 tính năng</strong> —
-          tích hợp Y học Cổ truyền với khoa học dữ liệu hiện đại.
-        </p>
-        <div class="hero-cta">
-          <a class="btn btn-primary" href="#bang-gia">Đăng ký IKI Pro 499k/năm →</a>
-          <a class="btn btn-secondary" href="#hanh-trinh">Xem hành trình 5 bước</a>
-        </div>
-        <div class="trust-strip">
-          <div><strong>33</strong><span>tính năng</span></div>
-          <div><strong>4.2×</strong><span>nhanh hơn</span></div>
-          <div><strong>100K+</strong><span>thành viên</span></div>
-          <div><strong>30 ngày</strong><span>hoàn tiền</span></div>
-        </div>
+  <!-- ============================================================
+       3. WHOOP ACCORDION — 4 tabs
+       ============================================================ -->
+  <section class="wi-section" id="tinh-nang" aria-label="Tính năng App IKI">
+    <div class="wi-tabs">
+      <div class="container">
+        <button class="wi-tab active" data-panel="ai-coach">AI Coach</button>
+        <button class="wi-tab" data-panel="nhat-ky">Nhật ký</button>
+        <button class="wi-tab" data-panel="co-dia">Cơ địa</button>
+        <button class="wi-tab" data-panel="tich-hop">Tích hợp</button>
       </div>
+    </div>
 
-      <!-- Phone mockup -->
-      <div class="phone-mockup-wrap" aria-hidden="true">
-        <div class="phone-frame">
-          <div class="phone-notch"></div>
-          <div class="phone-screen">
-            <div class="phone-status-bar">
-              <span>9:41</span>
-              <span>●●● 100%</span>
+    <!-- Panel 1: AI Coach -->
+    <div class="wi-panel active" id="panel-ai-coach">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>AI Coach<br>Đông Y</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">Chat không giới hạn — 24/7</div>
+              <p>AI Coach IKI luôn nhớ lịch sử sức khoẻ của bạn. Hỏi bất cứ điều gì — thực đơn hôm nay, lý do mệt mỏi buổi chiều, hoặc cách ngủ sâu hơn — không cần giải thích lại từ đầu.</p>
             </div>
-            <div class="phone-content">
-              <div class="phone-greeting">
-                <div class="phone-greet-text">
-                  <small>Chào buổi sáng,</small>
-                  <strong>IKI</strong>
-                </div>
-                <div class="phone-streak">🔥 12</div>
-              </div>
-              <div class="phone-card">
-                <small>AI Coach · Đông y</small>
-                <strong>Cơ địa bạn thuộc thể HÀN — gợi ý hôm nay: Trà Tuệ Minh ấm + Mè đen rang.</strong>
-              </div>
-              <div class="phone-progress">
-                <div class="phone-progress-row">
-                  <span>Hơi thở 4-7-8</span>
-                  <span>3/3 ✓</span>
-                </div>
-                <div class="phone-bar"><div class="phone-bar-fill" style="width: 100%"></div></div>
-                <div class="phone-progress-row">
-                  <span>Tiết thực Ohsawa · Ngày 5/7</span>
-                  <span>71%</span>
-                </div>
-                <div class="phone-bar"><div class="phone-bar-fill" style="width: 71%"></div></div>
-              </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">Gợi ý theo thể tạng × mùa × địa lý</div>
+              <p>Thực đơn, lối sống và thảo dược được cá nhân hoá theo cơ địa Đông Y (Hàn/Nhiệt/Hư/Thực), mùa trong năm và vùng địa lý bạn đang sống — không phải công thức chung.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">Phát hiện mất cân bằng sớm</div>
+              <p>AI phân tích dữ liệu nhật ký và cảnh báo khi nhận thấy dấu hiệu mất cân bằng — trước khi chúng trở thành triệu chứng nặng hơn.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">04</span>
+              <div class="wi-title">Tổng kết AI hàng tuần</div>
+              <p>Mỗi cuối tuần, AI tổng hợp những gì cơ thể bạn đang phản hồi tốt và những điểm cần điều chỉnh — gửi thẳng vào app và email.</p>
             </div>
           </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=85&auto=format&fit=crop&crop=center" alt="AI Coach IKI Đông Y" loading="lazy" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel 2: Nhật ký -->
+    <div class="wi-panel" id="panel-nhat-ky">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>Nhật ký<br>30 giây</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">Ghi cực nhanh — không điền form dài</div>
+              <p>5 câu hỏi thông minh về tâm trạng, năng lượng, giấc ngủ, tiêu hoá và vận động. Hoàn thành trong 30 giây. AI làm phần còn lại.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">Chụp ảnh bữa ăn — AI nhận diện ngay</div>
+              <p>Chụp ảnh món ăn, AI tự động nhận diện, chấm calo và điểm âm dương theo Đông Y trong vài giây. Không cần gõ tên món hay tra bảng.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">Trend 30 ngày — thấy pattern thật sự</div>
+              <p>Xem xu hướng giấc ngủ, năng lượng và tiêu hoá theo tuần, tháng. Nhận ra thói quen nào đang thực sự giúp bạn khoẻ hơn — và thói quen nào kéo bạn xuống.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">04</span>
+              <div class="wi-title">Streak &amp; nhắc nhở nhẹ nhàng</div>
+              <p>Streak ngày liên tiếp và hệ thống thành tựu giúp duy trì thói quen. Nhắc nhở thông minh theo nhịp sinh học — không spam, không gây áp lực.</p>
+            </div>
+          </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Nhật ký sức khoẻ IKI 30 giây" loading="lazy" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel 3: Cơ địa -->
+    <div class="wi-panel" id="panel-co-dia">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>Cơ địa<br>Đông Y</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">Tính thể tạng trong 2 phút</div>
+              <p>7 câu hỏi lâm sàng xác định cơ địa Đông Y của bạn — Hàn · Nhiệt · Hư · Thực · Đàm thấp. Kết quả cá nhân hoá tức thì, không áp công thức chung lên bạn.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">700+ năm tri thức Việt số hoá</div>
+              <p>Tuệ Tĩnh (thế kỷ 14) và Hải Thượng Lãn Ông được số hoá và cá nhân hoá bằng AI hiện đại. Tri thức Đông Y sống lại trong tay bạn.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">Cơ địa thay đổi — app cập nhật theo</div>
+              <p>Thể tạng thay đổi theo mùa, tuổi và lối sống. IKI nhắc nhở re-test định kỳ và tự điều chỉnh gợi ý khi cơ địa bạn thay đổi.</p>
+            </div>
+          </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Cơ địa Đông Y — IKI App" loading="lazy" />
+        </div>
+      </div>
+    </div>
+
+    <!-- Panel 4: Tích hợp -->
+    <div class="wi-panel" id="panel-tich-hop">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>Tích hợp<br>toàn hệ sinh thái</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">Một tài khoản — dùng mọi nơi</div>
+              <p>Đăng ký một lần, đồng bộ giữa App (iOS/Android), Web App, Học Viện IKI và cộng đồng Skool. Không cần nhiều tài khoản, không mất tiến trình.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">Kết nối thiết bị đeo (IKI Pro)</div>
+              <p>Đồng bộ dữ liệu từ Strava, Withings và các thiết bị theo dõi sức khoẻ phổ biến. AI phân tích kết hợp dữ liệu wearable và nhật ký chủ quan.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">Đặt lịch Coach 1-1 trong app</div>
+              <p>IKI Pro cho phép đặt buổi tư vấn riêng với Health Coach HOPE CORP trực tiếp từ app — không cần liên hệ qua kênh khác.</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">04</span>
+              <div class="wi-title">Quyền riêng tư — dữ liệu thuộc về bạn</div>
+              <p>Tuân thủ NĐ 13/2023/NĐ-CP. Không bán dữ liệu, không quảng cáo bên thứ ba. Bạn có thể xuất hoặc xoá toàn bộ dữ liệu bất kỳ lúc nào.</p>
+            </div>
+          </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Tích hợp hệ sinh thái IKI" loading="lazy" />
         </div>
       </div>
     </div>
   </section>
 
-  <!-- ============ DEMO VIDEO — Xem App IKI thật trong action ============ -->
-  <section class="app-demo-section" id="demo">
+  <!-- ============================================================
+       4. CALLOUT 1 — WHITE bg · Text left + Visual right
+       "Tính thể tạng trong 2 phút"
+       ============================================================ -->
+  <section class="callout-section" aria-label="Tính thể tạng Đông Y">
+    <div class="callout-text">
+      <span class="eyebrow">AI phân tích Đông Y · 2 phút</span>
+      <h2>Tính thể tạng<br>trong 2 phút.</h2>
+      <ul class="callout-list">
+        <li>7 câu hỏi lâm sàng — xác định Hàn · Nhiệt · Hư · Thực · Đàm thấp</li>
+        <li>Gợi ý thực đơn, thảo dược và lối sống cá nhân hoá tức thì</li>
+        <li>Cập nhật lại theo mùa — cơ địa thay đổi, app điều chỉnh theo</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Tính thể tạng của tôi →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Phân tích thể tạng Đông Y bằng AI" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       5. CALLOUT 2 — BLACK bg · reverse · Visual left + Text right
+       "Nhật ký 30 giây. Trend 30 ngày."
+       ============================================================ -->
+  <section class="callout-section reverse section-black" aria-label="Nhật ký sức khoẻ">
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Nhật ký 30 giây mỗi ngày" loading="lazy" />
+    </div>
+    <div class="callout-text">
+      <span class="eyebrow">Nhật ký sức khoẻ · Không áp lực</span>
+      <h2>Nhật ký 30 giây.<br>Trend 30 ngày.</h2>
+      <ul class="callout-list">
+        <li>Ghi cảm giác cơ thể trong 30 giây — AI phân tích phần còn lại</li>
+        <li>Chụp ảnh bữa ăn — nhận diện và chấm âm dương tự động</li>
+        <li>Xem xu hướng thật sự, không phải con số rời rạc</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Bắt đầu nhật ký hôm nay →</a>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       6. CALLOUT 3 — WHITE bg · Text left + Visual right
+       "Đặt lịch Coach 1-1 ngay trong app."
+       ============================================================ -->
+  <section class="callout-section" aria-label="Coaching 1-1">
+    <div class="callout-text">
+      <span class="eyebrow">IKI Pro · Coaching cá nhân</span>
+      <h2>Đặt lịch Coach 1-1<br>ngay trong app.</h2>
+      <ul class="callout-list">
+        <li>Health Coach HOPE CORP — người thật, không phải chatbot</li>
+        <li>Lộ trình cá nhân 90 ngày — điều chỉnh theo tiến độ thực tế</li>
+        <li>Đặt lịch trực tiếp trong app — không cần liên hệ qua kênh khác</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="mailto:contact@ikihealing.com">Liên hệ tư vấn Coaching →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=1200&q=85&auto=format&fit=crop&crop=center" alt="Coaching 1-1 IKI Pro" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       7. TESTIMONIALS — BLACK bg · 1 featured + 3 mini
+       ============================================================ -->
+  <section class="testimonials-whoop section-black" aria-label="Phản hồi người dùng IKI App">
     <div class="container">
-      <div class="section-header" style="text-align: center;">
-        <span class="eyebrow">Demo thật · iPhone 17 Pro Max</span>
-        <h2>Xem App IKI trong action</h2>
-        <p style="max-width: 680px; margin: 0 auto;">Quay từ simulator chính thức — không phải mockup. Hơn 1 phút trải nghiệm các tính năng cốt lõi: dashboard, AI gợi ý, chụp ảnh món ăn, nhật ký 30 giây, kết quả thể tạng Đông Y.</p>
-      </div>
+      <span class="eyebrow" style="display:block;text-align:center;margin-bottom:48px;">Người dùng IKI App nói gì</span>
 
-      <div class="app-demo-wrap">
-        <div class="app-demo-phone-frame">
-          <video
-            class="app-demo-video"
-            controls
-            preload="metadata"
-            playsinline
-            muted
-            poster="videos/iki-app-poster.jpg"
-            aria-label="Demo App IKI trên iPhone 17 Pro Max">
-            <source src="videos/iki-app-demo.mp4" type="video/mp4" />
-            <p>Trình duyệt của anh/chị không hỗ trợ video HTML5. <a href="videos/iki-app-demo.mp4">Tải video demo</a> để xem.</p>
-          </video>
+      <blockquote class="testimonial-featured-quote">
+        "30 giây mỗi tối ghi nhật ký đã giữ tôi kiên trì 127 ngày liên tục. App tự gợi ý thực đơn ngày mai theo thể tạng Hư của tôi — không cần phải nghĩ. 4 tháng dùng IKI, năng lượng buổi chiều tăng rõ rệt — bỏ được cà phê 3pm."
+      </blockquote>
+      <p class="testimonial-featured-attr">Chị Bùi Phương Linh, 33 · Marketing Manager · Hà Nội · IKI Pro</p>
+
+      <div class="testimonials-mini-row">
+        <div class="testimonial-mini">
+          <div class="testimonial-stars" aria-label="5 sao">★★★★★</div>
+          <p>"App sức khoẻ đầu tiên tôi dùng quá 1 tháng mà không bỏ giữa chừng. AI gợi ý thực đơn ấm và loại trà phù hợp, cơ thể cân bằng hơn hẳn sau 6 tuần."</p>
+          <span class="testimonial-mini-attr">Chị Ngọc Trâm, 29 · Đà Nẵng</span>
         </div>
-
-        <div class="app-demo-cta">
-          <p class="app-demo-caption"><strong>1 phút 13 giây</strong> · Không âm thanh · 720p MP4</p>
-          <p style="font-size: 0.92rem; margin-bottom: 16px;">
-            🔗 Dùng ngay tại: <a href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer" style="color: var(--iki-teal, #4BC0AB); text-decoration: underline; font-weight: 600;">app.ikihealing.com/landing</a>
-          </p>
-          <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">🌿 Mở Web App IKI →</a>
-          <a class="btn btn-secondary" href="#bang-gia" style="margin-left: 12px;">Xem bảng giá</a>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars" aria-label="5 sao">★★★★★</div>
+          <p>"Là mẹ 2 con vừa đi làm, tôi ngại app phức tạp. IKI mở ra là dùng được ngay — không cần hướng dẫn dài. Tính năng thử thách 7 ngày cùng cộng đồng giúp tôi duy trì dễ hơn."</p>
+          <span class="testimonial-mini-attr">Chị Thuỳ Linh, 33 · TP.HCM</span>
+        </div>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars" aria-label="5 sao">★★★★★</div>
+          <p>"Làm ngành y, ban đầu còn hoài nghi về Đông y số. Nhưng phần giải thích khoa học đằng sau các gợi ý của IKI rất thuyết phục. Streak 60 ngày và vẫn đang giữ."</p>
+          <span class="testimonial-mini-attr">Anh Minh Tuấn, 38 · Y sĩ · Cần Thơ</span>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- ============ "10 PHÚT THAY ĐỔI LỚN" — Micro-commitment concept ============ -->
-  <section class="ten-min-section">
-    <div class="container">
-      <div class="ten-min-inner">
-        <div class="ten-min-text">
-          <span class="eyebrow">Triết lý sản phẩm</span>
-          <h2>Hành trình nhỏ · <em>Thay đổi lớn</em></h2>
-          <p class="ten-min-lead">App IKI không yêu cầu anh/chị thay đổi cuộc sống. Chỉ cần <strong>10 phút mỗi ngày</strong> — đủ để cơ thể nhận ra sự khác biệt sau 30 ngày.</p>
-
-          <div class="ten-min-breakdown">
-            <div class="ten-min-step">
-              <span class="ten-min-time">30s</span>
-              <div>
-                <strong>Nhật ký lối sống</strong>
-                <span>5 câu hỏi · tâm trạng, năng lượng, giấc ngủ, tiêu hoá, vận động</span>
-              </div>
-            </div>
-            <div class="ten-min-step">
-              <span class="ten-min-time">3p</span>
-              <div>
-                <strong>Đọc gợi ý AI cá nhân hoá</strong>
-                <span>Thực đơn ngày mai · điều chỉnh lối sống theo thể tạng</span>
-              </div>
-            </div>
-            <div class="ten-min-step">
-              <span class="ten-min-time">5p</span>
-              <div>
-                <strong>Thiền có hướng dẫn / vận động nhẹ</strong>
-                <span>Một bài thở · khí công · stretching ngắn</span>
-              </div>
-            </div>
-            <div class="ten-min-step">
-              <span class="ten-min-time">1p30s</span>
-              <div>
-                <strong>Tổng kết + tự đánh giá</strong>
-                <span>Streak hôm nay · pattern phát hiện · chuẩn bị ngày mai</span>
-              </div>
-            </div>
-          </div>
-
-          <p class="ten-min-cta-text">10 phút × 30 ngày = <strong>5 giờ trên App</strong> để khởi đầu thay đổi lối sống. Đầu tư ít nhất, nhưng hiệu quả nhất khi kiên trì.</p>
-
-          <div style="margin-top: 28px;">
-            <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">🌿 Bắt đầu 10 phút hôm nay →</a>
-          </div>
-        </div>
-
-        <div class="ten-min-visual">
-          <div class="ten-min-circle">
-            <svg viewBox="0 0 200 200" aria-hidden="true">
-              <defs>
-                <linearGradient id="ten-min-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#A8D254" />
-                  <stop offset="100%" stop-color="#4BC0AB" />
-                </linearGradient>
-              </defs>
-              <circle cx="100" cy="100" r="85" fill="none" stroke="rgba(75,192,171,0.15)" stroke-width="6" />
-              <circle cx="100" cy="100" r="85" fill="none" stroke="url(#ten-min-grad)" stroke-width="6" stroke-linecap="round"
-                      stroke-dasharray="534" stroke-dashoffset="0" transform="rotate(-90 100 100)" />
-            </svg>
-            <div class="ten-min-circle-content">
-              <span class="ten-min-circle-time">10:00</span>
-              <span class="ten-min-circle-label">phút / ngày</span>
-            </div>
-          </div>
-          <ul class="ten-min-features">
-            <li>📅 Streak gamification</li>
-            <li>🔔 Nhắc nhở nhẹ nhàng (không spam)</li>
-            <li>📈 Báo cáo tuần · tháng tự động</li>
-            <li>🎯 Mục tiêu điều chỉnh theo tiến độ</li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- HÀNH TRÌNH 5 BƯỚC — flow retention → AI sales → CSKH -->
-  <section class="knowledge-system" id="hanh-trinh">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Hành trình của bạn cùng IKI App</span>
-        <h2>5 bước — từ ghi nhật ký đến cơ thể nhẹ nhõm</h2>
-        <p>IKI App không buộc bạn đếm calo hay đo nhịp tim. Cách tiếp cận của chúng tôi nhẹ nhàng và liền mạch — bạn chỉ cần làm 1 việc nhỏ mỗi ngày, app lo phần còn lại.</p>
-      </div>
-
-      <div class="ks-grid">
-
-        <article class="ks-block">
-          <div class="ks-num">01</div>
-          <div class="ks-content">
-            <span class="eyebrow">Mỗi ngày · 30 giây</span>
-            <h3>Chụp ảnh món ăn — AI nhận diện ngay</h3>
-            <p>Không cần tỉ mỉ ghi chép. Chỉ cần <strong>chụp ảnh bữa ăn</strong>, AI tự động nhận diện món, chấm <strong>calo + âm dương</strong> theo Đông y trong vài giây. Hoặc gõ vài dòng cảm giác cơ thể — app lưu lại theo nhật ký cá nhân.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">02</div>
-          <div class="ks-content">
-            <span class="eyebrow">Hàng tuần · Tự động</span>
-            <h3>AI phân tích cơ địa + vùng địa lý của bạn</h3>
-            <p>Dựa trên dữ liệu thực đơn + <strong>vùng địa lý bạn ở</strong> (Bắc/Trung/Nam VN hay nước ngoài) + <strong>cơ địa Đông y</strong> (Hàn/Nhiệt/Hư/Thực), AI tham khảo gợi ý cơ thể có thể đang cần điều chỉnh — gợi ý điều chỉnh thực đơn, bài tập, hoặc <em>sản phẩm</em> tham khảo có thể phù hợp. Mọi gợi ý mang tính tham khảo, không thay thế tư vấn y khoa.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">03</div>
-          <div class="ks-content">
-            <span class="eyebrow">Khi cần · 1 chạm</span>
-            <h3>Đặt sản phẩm IKI — giao đến tận nhà</h3>
-            <p>App gợi ý sản phẩm phù hợp với hành trình của bạn — mua trực tiếp trong app, giao 24-48h. Thành viên IKI Plus được giảm 20%. Không tracker, không quảng cáo bên thứ ba.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">04</div>
-          <div class="ks-content">
-            <span class="eyebrow">Mỗi tuần · Q&amp;A live</span>
-            <h3>Hỏi đáp với chuyên gia — không bị bỏ rơi</h3>
-            <p>Đặt câu hỏi cho đội ngũ Học Viện IKI bất kỳ lúc nào. Mỗi tuần có buổi live Q&amp;A; câu hỏi của bạn được trả lời trong 24 giờ. CSKH không phải chatbot — là người thật từ đội Học Viện.</p>
-          </div>
-        </article>
-
-        <article class="ks-block">
-          <div class="ks-num">05</div>
-          <div class="ks-content">
-            <span class="eyebrow">Mỗi tháng · Tổng kết</span>
-            <h3>Bạn nhìn lại — và thấy mình đã đi xa thế nào</h3>
-            <p>Báo cáo tháng trực quan: giấc ngủ cải thiện X%, năng lượng buổi sáng tăng Y, tiêu hoá đều hơn Z ngày/tuần. Chia sẻ kết quả lên MXH bằng ảnh đẹp do app tự tạo — nếu bạn muốn.</p>
-          </div>
-        </article>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- 33 TÍNH NĂNG — chia 6 nhóm -->
-  <section class="ecosystem" id="tinh-nang" style="background: var(--white);">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">33 tính năng — tất cả trong 1 app</span>
-        <h2>Một app — năm nhóm chức năng — phục vụ cả ngày của bạn</h2>
-        <p>IKI App không phải app tracker đơn thuần. Đây là "thư viện trí tuệ số" cá nhân hoá tích hợp Đông y cổ truyền với khoa học dữ liệu hiện đại.</p>
-      </div>
-
-      <div class="ecosystem-grid">
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">📸</div>
-          <span class="eco-tag">5 tính năng</span>
-          <h3>Dinh dưỡng &amp; AI nhận diện</h3>
-          <p><strong>Chụp ảnh món ăn</strong> → AI nhận diện tự động · Chấm <strong>calo + âm dương</strong> trong vài giây · Spider chart 7 tiêu chuẩn thực phẩm Đông y · Theo dõi chất xơ/đường/natri/protein · Ăn theo mùa Bắc/Trung/Nam.</p>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">☯️</div>
-          <span class="eco-tag">5 tính năng</span>
-          <h3>Đông y &amp; Cơ địa</h3>
-          <p>Thể tạng âm dương Ohsawa · Khảo sát thể tạng Hàn/Nhiệt/Hư/Thực/Đàm thấp · Gợi ý thảo dược cá nhân · 8 huyệt đạo quan trọng · 14 vị Đông y phân loại.</p>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">🌿</div>
-          <span class="eco-tag">5 tính năng</span>
-          <h3>Thanh lọc &amp; Phục hồi</h3>
-          <p>Lộ trình tiết thực Ohsawa tham khảo 12h → 7 ngày · Coffee Enema Gerson 21 ngày · Cân bằng vi sinh Candida 28 ngày · Hỗ trợ thanh lọc định kỳ 7 ngày · Thanh lọc Thận 21 ngày.</p>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">🧘</div>
-          <span class="eco-tag">5 tính năng</span>
-          <h3>Thở · Thiền · Vận động</h3>
-          <p>5 kỹ thuật thở (4-7-8, Nadi Shodhana, 4 thì...) · 5 kỹ thuật thiền (Anapana, Body scan, Metta...) · Voice thiền tiếng Việt + nhạc · Nhai kỹ Coach · Massage day ấn huyệt.</p>
-        </div>
-
-        <div class="eco-card" style="cursor: default;">
-          <div class="eco-icon">🤖</div>
-          <span class="eco-tag">5 tính năng</span>
-          <h3>Huấn luyện viên AI</h3>
-          <p>Chat AI Coach dinh dưỡng không giới hạn · Tích Bơ đổi avatar mascot · Streak ngày + cột mốc · Achievement đặc biệt · Nhiệm vụ hàng ngày + hàng tuần.</p>
-        </div>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- DEEPER FEATURES — 3 trụ cột app -->
-  <section class="features">
+  <!-- ============================================================
+       8. PRICING — WHITE bg · 3 tiers
+       ============================================================ -->
+  <section class="pricing-whoop" id="bang-gia" aria-label="Gói dịch vụ IKI App">
     <div class="container">
       <div class="section-header">
-        <span class="eyebrow">Triết lý thiết kế</span>
-        <h2>Khác biệt cốt lõi: cá nhân hoá thật, không tracker</h2>
-        <p class="disclaimer-inline" style="text-align: left; margin-top: 20px;">
-          <strong>Lưu ý:</strong> Ứng dụng IKI cung cấp nội dung mang tính tham khảo và hỗ trợ xây dựng thói quen sống lành mạnh — không thay thế tư vấn, chẩn đoán hoặc điều trị y khoa chuyên môn. Mọi dữ liệu sức khoẻ được xử lý theo Nghị định 13/2023/NĐ-CP với sự đồng ý của anh/chị.
-        </p>
+        <span class="eyebrow">Gói dịch vụ</span>
+        <h2>Bắt đầu miễn phí.<br>Nâng cấp khi sẵn sàng.</h2>
       </div>
+      <div class="pricing-grid">
 
-      <div class="feature-row">
-        <div>
-          <span class="eyebrow">01 — Cá nhân hoá theo cơ địa &amp; địa lý</span>
-          <h3>Không phải "ai cũng nên uống 8 ly nước/ngày"</h3>
-          <p>IKI App là app duy nhất tại Việt Nam phân biệt <strong>cơ địa Đông y</strong> (Hàn/Nhiệt/Hư/Thực/Đàm thấp) với <strong>vùng địa lý</strong> (Bắc/Trung/Nam Việt Nam, hoặc người Việt ở nước ngoài). Mỗi gợi ý dựa trên dữ liệu thực tế — không phải template chung.</p>
-          <ul class="feature-list">
-            <li><strong>📸 Chụp ảnh món ăn</strong> → AI nhận diện + chấm calo + âm dương ngay</li>
-            <li><strong>🗺️ Phân vùng địa lý:</strong> Bắc/Trung/Nam VN, hoặc cộng đồng Việt ở Mỹ/Nhật/Singapore</li>
-            <li><strong>☯️ Phân loại cơ địa:</strong> Hàn/Nhiệt/Hư/Thực/Đàm thấp (Đông y)</li>
-            <li><strong>🌤️ Điều chỉnh theo mùa:</strong> mùa lạnh ăn ấm, mùa nóng ăn mát</li>
-            <li>AI Insight tổng hợp cuối tuần — gửi qua email + push</li>
+        <div class="price-card-whoop">
+          <div class="pcw-tag">Miễn phí</div>
+          <div class="pcw-name">IKI Free</div>
+          <div class="pcw-price">0<span>đ</span></div>
+          <div class="pcw-period">Mãi mãi</div>
+          <ul class="pcw-features">
+            <li>App IKI (iOS &amp; Android &amp; Web)</li>
+            <li>AI Coach cơ bản</li>
+            <li>Nhật ký sức khoẻ 30 giây/ngày</li>
+            <li>Trắc nghiệm thể tạng Đông Y</li>
+            <li>Streak &amp; thành tựu</li>
+            <li>Hành trình 7 ngày nhập môn</li>
           </ul>
-        </div>
-        <div class="feature-visual" style="background-image: url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Tính năng 01</span><strong>AI Insight theo cơ địa</strong></div></div>
-      </div>
-
-      <div class="feature-row reverse">
-        <div>
-          <span class="eyebrow">02 — Quyền riêng tư là mặc định</span>
-          <h3>Dữ liệu sức khoẻ của bạn — thuộc về bạn</h3>
-          <p>Khác với các app sức khoẻ thông thường, IKI tuân thủ Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân. Chúng tôi không bán dữ liệu cho bất kỳ bên thứ ba nào, không chèn quảng cáo, không tracker hành vi.</p>
-          <ul class="feature-list">
-            <li>Mã hoá đầu cuối cho dữ liệu cá nhân</li>
-            <li>Bạn có thể xuất hoặc xoá toàn bộ dữ liệu bất kỳ lúc nào</li>
-            <li>Đăng nhập bằng Zalo, Google, hoặc Apple ID</li>
-            <li>Không có quảng cáo của bên thứ ba — mãi mãi</li>
-          </ul>
-        </div>
-        <div class="feature-visual warm" style="background-image: url('https://images.unsplash.com/photo-1614064641938-3bbee52942c7?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Tính năng 02</span><strong>Riêng tư là mặc định</strong></div></div>
-      </div>
-
-      <div class="feature-row">
-        <div>
-          <span class="eyebrow">03 — Một tài khoản, cả hệ sinh thái</span>
-          <h3>Web — App — Cộng đồng đồng bộ liền mạch</h3>
-          <p>Đăng ký một lần, dùng được mọi nơi: khoá học từ Học Viện IKI, group Skool, đơn hàng từ cửa hàng, Q&amp;A live — tất cả đồng bộ giữa web và app. Không phải tạo lại tài khoản, không phải nhớ nhiều mật khẩu.</p>
-          <ul class="feature-list">
-            <li>Đồng bộ tiến trình học giữa web và app</li>
-            <li>Lịch sử đơn hàng, vận đơn, đánh giá sản phẩm</li>
-            <li>Mã giảm giá thành viên gửi vào app</li>
-            <li>Chia sẻ kết quả thực hành thành ảnh đẹp lên MXH</li>
-          </ul>
-        </div>
-        <div class="feature-visual sand" style="background-image: url('https://images.unsplash.com/photo-1556761175-5973dc0f32e7?w=1200&q=80&auto=format&fit=crop');"><div class="visual-caption"><span class="caption-eyebrow">Tính năng 03</span><strong>Đồng bộ liền mạch</strong></div></div>
-      </div>
-
-    </div>
-  </section>
-
-  <!-- TECH STACK / TRUST -->
-  <section class="knowledge-system">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Công nghệ đằng sau IKI App</span>
-        <h2>Xây dựng bởi đội ngũ kỹ sư Việt Nam</h2>
-        <p>IKI App là sản phẩm công nghệ thuần Việt — kỹ sư người Việt, dữ liệu lưu tại Việt Nam, tuân thủ pháp luật Việt Nam.</p>
-      </div>
-      <div class="ks-grid" style="grid-template-columns: repeat(3, 1fr); gap: 32px;">
-
-        <article class="ks-block" style="display: block;">
-          <div class="ks-num">📱</div>
-          <div class="ks-content">
-            <h3>iOS &amp; Android</h3>
-            <p>Native app cho cả iPhone (iOS 15+) và Android (Android 9+). Có cả Progressive Web App (PWA) cho ai không muốn cài đặt.</p>
-          </div>
-        </article>
-
-        <article class="ks-block" style="display: block;">
-          <div class="ks-num">🇻🇳</div>
-          <div class="ks-content">
-            <h3>Hosting tại Việt Nam</h3>
-            <p>Server đặt tại VN — tốc độ tải nhanh, tuân thủ NĐ 13/2023 về dữ liệu cá nhân, dữ liệu không xuất ngoại.</p>
-          </div>
-        </article>
-
-        <article class="ks-block" style="display: block;">
-          <div class="ks-num">🤖</div>
-          <div class="ks-content">
-            <h3>AI cá nhân hoá</h3>
-            <p>Mô hình AI được fine-tune trên Hệ tri thức Thực dưỡng + Y học cổ truyền của Học Viện IKI — không phải chatbot generic.</p>
-          </div>
-        </article>
-
-      </div>
-    </div>
-  </section>
-
-  <!-- PRICING -->
-  <section class="testimonials section-dark" id="bang-gia">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Bảng giá IKI</span>
-        <h2>11 tính năng — <em>miễn phí hoặc 499.000đ/năm</em></h2>
-        <p>AI Coach Đông y · Quét bữa ăn · Trắc nghiệm cơ địa · 26 vùng đất · Tiết khí hàng ngày. Gần bằng <strong>1 ly cà phê/tuần</strong> — cho cả năm.</p>
-      </div>
-
-      <div class="pricing-grid" style="max-width: 860px; margin: 0 auto; grid-template-columns: repeat(2, 1fr); padding-top: 20px;">
-
-        <div class="price-card">
-          <h3>IKI Free</h3>
-          <p class="price-tagline">Cho mọi người dùng</p>
-          <div class="price-amount">0<small>đ</small></div>
-          <small>Mãi mãi miễn phí</small>
-          <ul class="price-features">
-            <li>AI Coach — chat Đông y 24/7</li>
-            <li>Trắc nghiệm cơ địa (Hàn · Nhiệt · Hư · Thực)</li>
-            <li>Quét bữa ăn bằng ảnh, giọng hoặc nhập tay</li>
-            <li>Đông y theo vùng đất &amp; tiết khí (26 khu vực)</li>
-            <li>Lời khuyên sức khoẻ mỗi ngày</li>
-            <li>Streak · thành tựu · hành trình 7 ngày nhập môn</li>
-          </ul>
-          <a class="btn btn-secondary" href="#tai-app">Tải miễn phí</a>
+          <a class="btn btn-secondary pcw-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Tải miễn phí</a>
         </div>
 
-        <div class="price-card featured">
-          <h3>IKI Pro</h3>
-          <p class="price-tagline">Gói năm · Tính năng nâng cao</p>
-          <div class="price-amount" style="color: var(--iki-teal-deep);">499.000<small>đ / năm</small></div>
-          <small style="color: var(--gray-500);">~41.600đ/tháng</small>
-          <ul class="price-features">
+        <div class="price-card-whoop featured">
+          <div class="pcw-tag">Phổ biến nhất</div>
+          <div class="pcw-name">IKI Pro</div>
+          <div class="pcw-price">499K<span>đ</span></div>
+          <div class="pcw-period">/ năm (~41K/tháng)</div>
+          <ul class="pcw-features">
+            <li>Tất cả tính năng Free</li>
+            <li>AI Coach không giới hạn + phân tích chuyên sâu</li>
+            <li>Nhật ký không giới hạn + trend phân tích</li>
             <li>Đọc bữa ăn bằng giọng (SpeakButton)</li>
-            <li>Phân tích Đông y chuyên sâu từng món</li>
-            <li>Điểm hợp cơ địa cá nhân hoá</li>
-            <li>Lời khuyên hàng ngày đọc bằng giọng</li>
-            <li>Bảo vệ streak nâng cao — nghỉ 4 ngày (Free: 2 ngày)</li>
-            <li>Tính năng mới — luôn vào Pro trước</li>
+            <li>Tích hợp thiết bị đeo (Strava, Withings)</li>
+            <li>Bảo vệ streak nâng cao</li>
+            <li>Hoàn tiền 30 ngày — không cần lý do</li>
           </ul>
-          <a class="btn btn-primary" href="#tai-app">Đăng ký IKI Pro →</a>
+          <a class="btn btn-primary pcw-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Bắt đầu IKI Pro →</a>
         </div>
 
-      </div>
-
-    </div>
-  </section>
-
-  <!-- BETA TESTERS TESTIMONIAL -->
-  <section class="testimonials" style="background: var(--white);">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">Phản hồi từ người dùng beta</span>
-        <h2>500 thành viên đã thử — và họ thích</h2>
-        <p>Bản beta đã được mời thử trong 3 tháng qua. Một số phản hồi tiêu biểu — những gì cần cải thiện đã được ghi nhận và đang hoàn thiện trước khi ra mắt chính thức.</p>
-      </div>
-
-      <div class="testimonial-grid">
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Tôi không nghĩ một app sức khoẻ lại có thể "không gây áp lực". IKI App không buộc tôi đếm calo, không spam thông báo, không gamify quá đà. Tôi chỉ ghi 30 giây mỗi tối và nhìn lại sau 1 tuần — cảm giác như viết nhật ký với người bạn hiểu mình.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar">L</div>
-            <div>
-              <div class="testimonial-name">Chị Linh, 36</div>
-              <div class="testimonial-role">Beta tester từ tháng 02/2026 · Hà Nội</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ☆</div>
-          <blockquote>Phần Insight AI của IKI App khá ấn tượng — gợi ý đúng với cảm giác cơ thể của tôi mùa lạnh năm nay. Phần cộng đồng đang thiếu chức năng tìm kiếm bài cũ — đội phát triển đã hứa bổ sung trong bản 1.1.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar warm">D</div>
-            <div>
-              <div class="testimonial-name">Anh Duy Khang, 41</div>
-              <div class="testimonial-role">Beta tester · Khoá Nền tảng IKI · Vinh</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Là mẹ 2 con vừa đi làm, tôi rất ngại app phức tạp. IKI App mở ra là dùng được — không cần hướng dẫn dài. Đặc biệt thích chức năng "thử thách 7 ngày" cùng cộng đồng — có người cùng làm thì dễ kiên trì hơn.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar deep">T</div>
-            <div>
-              <div class="testimonial-name">Chị Thuỳ Linh, 33</div>
-              <div class="testimonial-role">Beta tester · Mẹ 2 con · TP.HCM</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>30 giây mỗi tối ghi nhật ký — tưởng đơn giản nhưng đã giữ mình kiên trì <strong>127 ngày liên tục</strong>. App tự động gợi ý thực đơn ngày mai theo thể tạng Hư của mình — không phải suy nghĩ. <strong>4 tháng dùng IKI App</strong>, năng lượng buổi chiều tăng rõ rệt — bỏ được thói quen cà phê 3pm. Đầu tư <strong>499K/năm</strong> xứng đáng hơn nhiều supplement đắt tiền mình từng thử.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar warm">P</div>
-            <div>
-              <div class="testimonial-name">Chị Bùi Phương Linh, 33</div>
-              <div class="testimonial-role">Marketing Manager · IKI Pro · Hà Nội</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>App sức khoẻ đầu tiên tôi dùng quá 1 tháng mà không bỏ giữa chừng. Tính năng khảo sát thể tạng Hàn/Nhiệt rất mới — từ nhỏ đến giờ hay bị tay chân lạnh, hoá ra là cơ địa Hàn. AI gợi ý thực đơn ấm và loại trà phù hợp, cảm giác cơ thể cân bằng hơn hẳn sau 6 tuần.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar">N</div>
-            <div>
-              <div class="testimonial-name">Chị Ngọc Trâm, 29</div>
-              <div class="testimonial-role">Beta tester · Nhân viên văn phòng · Đà Nẵng</div>
-            </div>
-          </div>
-        </div>
-
-        <div class="testimonial">
-          <div class="testimonial-rating">★ ★ ★ ★ ★</div>
-          <blockquote>Làm ngành y, ban đầu tôi còn hoài nghi về "Đông y số". Nhưng phần giải thích khoa học đằng sau các gợi ý của IKI App rất thuyết phục — không phải mê tín, là dữ liệu được cá nhân hoá theo cơ địa thực tế. Streak <strong>60 ngày</strong> và vẫn đang giữ. 499K/năm đáng từng xu.</blockquote>
-          <div class="testimonial-meta">
-            <div class="testimonial-avatar deep">M</div>
-            <div>
-              <div class="testimonial-name">Anh Minh Tuấn, 38</div>
-              <div class="testimonial-role">Beta tester · Y sĩ cộng đồng · Cần Thơ</div>
-            </div>
-          </div>
+        <div class="price-card-whoop">
+          <div class="pcw-tag">Dành cho nghiêm túc</div>
+          <div class="pcw-name">Health Coaching</div>
+          <div class="pcw-price">Liên hệ</div>
+          <div class="pcw-period">Tuỳ nhu cầu</div>
+          <ul class="pcw-features">
+            <li>Tất cả tính năng Pro</li>
+            <li>2 buổi coaching 1-1 / tháng</li>
+            <li>Lộ trình cá nhân 90 ngày</li>
+            <li>Ưu tiên hỗ trợ &amp; Q&amp;A</li>
+            <li>Health Coach người thật — không chatbot</li>
+          </ul>
+          <a class="btn btn-secondary pcw-cta" href="mailto:contact@ikihealing.com">Liên hệ tư vấn</a>
         </div>
 
       </div>
     </div>
   </section>
 
-  <!-- DOWNLOAD CTA -->
-  <section style="padding: 64px 0;" id="tai-app">
-    <div class="container" style="padding: 0;">
-      <div class="cta-banner">
-        <span class="eyebrow" style="color: var(--iki-cream);">App đã ra mắt · Tải về ngay</span>
-        <h2>Trải nghiệm IKI ngay hôm nay</h2>
-        <p>App IKI đã có mặt trên <strong>Google Play</strong> và <strong>App Store</strong>. Hoặc dùng ngay trên web — không cần cài đặt.</p>
-
-        <!-- App Store badges -->
-        <div class="app-store-badges">
-          <!-- Google Play - LIVE -->
-          <a class="store-badge store-badge-google" href="https://play.google.com/store/apps/details?id=com.ikiapp.app" target="_blank" rel="noopener noreferrer" aria-label="Tải IKI App trên Google Play">
-            <svg class="store-badge-icon" viewBox="0 0 24 24" aria-hidden="true">
-              <defs>
-                <linearGradient id="gp-green" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#00d56b"/><stop offset="100%" stop-color="#00ad53"/>
-                </linearGradient>
-                <linearGradient id="gp-blue" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#00bcef"/><stop offset="100%" stop-color="#0078d4"/>
-                </linearGradient>
-                <linearGradient id="gp-yellow" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#ffd200"/><stop offset="100%" stop-color="#ffa500"/>
-                </linearGradient>
-                <linearGradient id="gp-red" x1="0%" y1="0%" x2="100%" y2="100%">
-                  <stop offset="0%" stop-color="#ff3a44"/><stop offset="100%" stop-color="#c40015"/>
-                </linearGradient>
-              </defs>
-              <path fill="url(#gp-blue)" d="M3.5 2.4v19.2c0 .4.4.6.7.4l10-9.6-10-10.4c-.3-.2-.7 0-.7.4z"/>
-              <path fill="url(#gp-yellow)" d="M17.8 9.6 14.2 12l3.6 2.4 3.4-2c.5-.3.5-.9 0-1.2l-3.4-2.4z"/>
-              <path fill="url(#gp-green)" d="M3.5 2.4c0-.4.4-.6.7-.4l13.6 7.6L14.2 12z"/>
-              <path fill="url(#gp-red)" d="M3.5 21.6c0 .4.4.6.7.4L17.8 14.4 14.2 12z"/>
-            </svg>
-            <div class="store-badge-text">
-              <small>GET IT ON</small>
-              <strong>Google Play</strong>
-            </div>
-          </a>
-
-          <!-- App Store - LIVE -->
-          <a class="store-badge store-badge-apple" href="https://apps.apple.com/vn/app/iki-eastern-wisdom-ai/id6767866520" target="_blank" rel="noopener noreferrer" aria-label="Tải IKI App trên App Store">
-            <svg class="store-badge-icon" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
-              <path d="M17.05 12.04c0-2.84 2.31-4.19 2.41-4.26-1.31-1.92-3.36-2.18-4.09-2.21-1.74-.18-3.39 1.02-4.27 1.02-.88 0-2.24-1-3.69-.97-1.89.03-3.65 1.1-4.62 2.79-1.97 3.41-.5 8.46 1.43 11.23.94 1.36 2.06 2.88 3.51 2.83 1.41-.06 1.95-.91 3.65-.91 1.7 0 2.18.91 3.67.88 1.51-.03 2.47-1.39 3.4-2.75 1.07-1.57 1.51-3.09 1.54-3.17-.03-.01-2.95-1.14-2.99-4.48zM14.33 4.5c.77-.93 1.29-2.23 1.14-3.5-1.11.04-2.45.74-3.24 1.67-.71.82-1.33 2.13-1.17 3.39 1.23.1 2.5-.63 3.27-1.56z"/>
-            </svg>
-            <div class="store-badge-text">
-              <small>Download on the</small>
-              <strong>App Store</strong>
-            </div>
-          </a>
-
-          <!-- Web App - LIVE direct -->
-          <a class="store-badge store-badge-web" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer" aria-label="Mở IKI Web App">
-            <svg class="store-badge-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
-              <circle cx="12" cy="12" r="10"/>
-              <path d="M2 12h20M12 2a15 15 0 0 1 4 10 15 15 0 0 1-4 10 15 15 0 0 1-4-10 15 15 0 0 1 4-10z"/>
-            </svg>
-            <div class="store-badge-text">
-              <small>Hoặc dùng trên</small>
-              <strong>Web App ↗</strong>
-            </div>
-          </a>
-        </div>
-
+  <!-- ============================================================
+       9. DOWNLOAD CTA — BLACK bg
+       ============================================================ -->
+  <section class="download-cta section-black" id="tai-app" aria-label="Tải App IKI">
+    <div class="container download-cta-inner">
+      <h2>Tải App IKI.<br>Miễn phí.</h2>
+      <p>Không cần thẻ tín dụng · Cá nhân hoá ngay lập tức · iOS &amp; Android &amp; Web</p>
+      <div class="download-btns">
+        <a class="btn-dl" href="https://play.google.com/store/apps/details?id=com.ikiapp.app" target="_blank" rel="noopener noreferrer">Google Play →</a>
+        <a class="btn-dl" href="https://apps.apple.com/vn/app/iki-eastern-wisdom-ai/id6767866520" target="_blank" rel="noopener noreferrer">App Store →</a>
+        <a class="btn-dl btn-dl-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Mở Web App →</a>
       </div>
+      <p class="download-disclaimer">Ứng dụng IKI chỉ mang tính hỗ trợ lối sống tham khảo — không phải công cụ chẩn đoán y khoa.</p>
     </div>
   </section>
 
-  <!-- HOPE CORP STRIP -->
-  <section class="hope-strip">
-    <div class="container hope-grid">
-      <div>
-        <span class="hope-eyebrow">Đơn vị phát hành</span>
-        <h2>IKI App được phát hành bởi HOPE CORP</h2>
-        <p>IKI App được phát hành và vận hành bởi Công ty Cổ phần TMDV HOPE — pháp nhân sở hữu thương hiệu IKI, chịu trách nhiệm về dữ liệu, vận hành và chất lượng dịch vụ.</p>
-      </div>
-      <dl class="hope-info-list">
-        <div><dt>Pháp nhân phát hành</dt><dd>Công ty Cổ phần TMDV HOPE</dd></div><div><dt>Mã số thuế</dt><dd>0801404967</dd></div>
-        <div><dt>Tuân thủ pháp luật</dt><dd>NĐ 13/2023/NĐ-CP về DLCN</dd></div>
-        <div><dt>Nền tảng</dt><dd>iOS · Android · PWA</dd></div>
-        <div><dt>Phiên bản hiện tại</dt><dd>Beta 0.9 · Ra mắt Q3/2026</dd></div>
-        <div><dt>Hosting</dt><dd>Tại Việt Nam — không xuất dữ liệu</dd></div>
-        <div><dt>Hỗ trợ kỹ thuật</dt><dd>contact@ikihealing.com</dd></div>
-      </dl>
-    </div>
-  </section>
-
-  <!-- FOOTER -->
-  <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
-    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">Tham gia miễn phí →</a>
+  <!-- ============================================================
+       10. STICKY PILL CTA + FOOTER
+       ============================================================ -->
+  <div class="sticky-pill-cta" aria-label="Tải App IKI">
+    <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">🌿 Mở Web App IKI →</a>
   </div>
 
+  <div class="sticky-mobile-cta" aria-label="Hành động nhanh">
+    <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">Mở Web App →</a>
+  </div>
+
+  <!-- ============ FOOTER ============ -->
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
         <div>
           <div class="footer-brand">IKI</div>
           <p>Platform công nghệ wellness cho người Việt — một thương hiệu thuộc sở hữu của Công ty Cổ phần TMDV HOPE. Cố vấn chuyên môn: TS. Ngô Đức Vượng và đội ngũ Học Viện IKI.</p>
+          <p style="margin-top: 12px; font-size: 0.82rem; color: rgba(255,255,255,0.4);">Hosting tại VN · Tuân thủ NĐ 13/2023 · Sản phẩm có Giấy công bố Cục ATTP</p>
         </div>
         <div>
           <h4>Hệ sinh thái</h4>
@@ -822,15 +545,11 @@
               <a href="tel:0396748848">0396.748.848</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">🥑 Sản phẩm IKI</span>
-              <a href="tel:0336759982">0336.759.982</a>
-            </li>
-            <li class="contact-item">
               <span class="contact-label">📍 Trụ sở</span>
               63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng
             </li>
             <li class="contact-social">
-              <a href="https://www.facebook.com/ikihealing/" target="_blank" rel="noopener noreferrer" class="social-link">Facebook</a> · YouTube · Zalo OA · TikTok <em>(sắp ra mắt)</em>
+              <a href="https://www.facebook.com/ikihealing/" target="_blank" rel="noopener noreferrer" class="social-link">Facebook</a> · Zalo OA · YouTube · TikTok
             </li>
           </ul>
         </div>
@@ -839,12 +558,11 @@
         <h4>Thông tin miễn trừ trách nhiệm</h4>
         <p>Các thông tin trên website IKI chỉ nhằm mục đích cung cấp kiến thức về dinh dưỡng, lối sống và chăm sóc sức khoẻ chủ động. Nội dung không thay thế cho tư vấn, chẩn đoán hoặc điều trị y khoa chuyên môn.</p>
         <p>Các sản phẩm được giới thiệu trên website là <strong style="color: rgba(255,255,255,0.78);">thực phẩm/thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
-        <p>Kết quả trải nghiệm có thể khác nhau tuỳ theo cơ địa, tình trạng sức khoẻ và quá trình thực hành của từng cá nhân.</p>
-        <p>Ứng dụng IKI và các bài khảo sát chỉ mang tính hỗ trợ tham khảo theo triết lý dưỡng sinh phương Đông, không phải công cụ chẩn đoán y khoa.</p>
+        <p>Kết quả trải nghiệm có thể khác nhau tuỳ theo cơ địa, tình trạng sức khoẻ và quá trình thực hành của từng cá nhân. Ứng dụng IKI và các bài khảo sát chỉ mang tính hỗ trợ tham khảo theo triết lý dưỡng sinh phương Đông, không phải công cụ chẩn đoán y khoa.</p>
       </div>
       <div class="footer-bottom">
         <span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span>
-        <span>Made with care in Vietnam</span>
+        <span>Made with care in Vietnam 🇻🇳</span>
       </div>
     </div>
   </footer>
