@@ -6439,6 +6439,45 @@ h3 {
   line-height: 1.6;
 }
 
+/* Clean text-only download buttons (no phone icons) */
+.download-btns {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 48px;
+}
+.btn-dl {
+  display: inline-block;
+  padding: 16px 36px;
+  border: 1px solid rgba(255,255,255,0.25);
+  border-radius: 100px;
+  color: white;
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  transition: background 0.2s, border-color 0.2s;
+  background: transparent;
+}
+.btn-dl:hover {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.5);
+  text-decoration: none;
+  color: white;
+}
+.btn-dl-primary {
+  background: var(--iki-teal);
+  border-color: var(--iki-teal);
+  color: white;
+}
+.btn-dl-primary:hover {
+  background: #3aafa0;
+  border-color: #3aafa0;
+  color: white;
+}
+
 /* =====================================================================
    STICKY MOBILE CTA — only on small screens
    ===================================================================== */
