@@ -282,3 +282,50 @@
     });
   }
 })();
+
+/* ============================================================
+ * WHOOP FEATURE SECTION — tab nav + accordion
+ * ============================================================ */
+(function () {
+  'use strict';
+
+  // Tab switching
+  var tabs = document.querySelectorAll('.wi-tab');
+  var panels = document.querySelectorAll('.wi-panel');
+
+  tabs.forEach(function (tab) {
+    tab.addEventListener('click', function () {
+      var panelId = 'panel-' + this.dataset.panel;
+      tabs.forEach(function (t) { t.classList.remove('active'); });
+      panels.forEach(function (p) { p.classList.remove('active'); });
+      this.classList.add('active');
+      var panel = document.getElementById(panelId);
+      if (panel) panel.classList.add('active');
+    });
+  });
+
+  // Accordion item toggle within each panel
+  document.querySelectorAll('.wi-item').forEach(function (item) {
+    item.addEventListener('click', function () {
+      var siblings = this.closest('.wi-items').querySelectorAll('.wi-item');
+      siblings.forEach(function (s) { s.classList.remove('active'); });
+      this.classList.add('active');
+    });
+  });
+
+  // Sticky pill CTA — show after scrolling 60% of hero
+  var pill = document.querySelector('.sticky-pill-cta');
+  if (pill) {
+    var hero = document.querySelector('.hero-fullbleed');
+    var threshold = hero ? hero.offsetHeight * 0.6 : window.innerHeight * 0.6;
+    function onScroll() {
+      if (window.scrollY > threshold) {
+        pill.classList.add('visible');
+      } else {
+        pill.classList.remove('visible');
+      }
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+})();

@@ -5627,3 +5627,360 @@ section { padding: 120px 0; }
 
 /* Section header margin */
 .section-header { margin-bottom: 72px; }
+
+/* =====================================================================
+   WHOOP FULL OVERHAUL — v4 (June 2026)
+   Typography massive, hero full-bleed, WHOOP accordion, sticky CTA
+   ===================================================================== */
+
+/* --- Global: h2 MUCH bigger (WHOOP signature) --- */
+h2 {
+  font-size: clamp(2.8rem, 5.5vw, 5.5rem);
+  font-weight: 800;
+  letter-spacing: -0.04em;
+  line-height: 1.0;
+}
+h3 {
+  font-size: clamp(1.25rem, 2.2vw, 1.65rem);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+}
+
+/* --- Stats numbers BIGGER (WHOOP scale) --- */
+.stat-num {
+  font-family: var(--font-body);
+  font-size: clamp(3.5rem, 6vw, 6rem);
+  font-weight: 800;
+  letter-spacing: -0.05em;
+  line-height: 1;
+}
+
+/* --- Philosophy quote bigger --- */
+.philosophy-quote {
+  font-size: clamp(2.4rem, 5vw, 4.2rem);
+}
+
+/* --- Section header text bigger --- */
+.section-header p { font-size: 1.15rem; line-height: 1.7; }
+
+/* =====================================================================
+   HERO FULL-BLEED (WHOOP style)
+   ===================================================================== */
+.hero-fullbleed {
+  position: relative;
+  min-height: 100svh;
+  min-height: 100vh;
+  display: flex;
+  align-items: flex-end;
+  padding: 0;
+  overflow: hidden;
+  background: var(--iki-ink);
+}
+.hfb-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center 30%;
+  z-index: 0;
+  transition: transform 8s ease;
+}
+.hfb-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to bottom,
+    rgba(10,16,14,0.08) 0%,
+    rgba(10,16,14,0.0) 25%,
+    rgba(10,16,14,0.45) 55%,
+    rgba(10,16,14,0.93) 85%,
+    rgba(10,16,14,0.98) 100%
+  );
+  z-index: 1;
+}
+.hfb-content {
+  position: relative;
+  z-index: 2;
+  padding-bottom: 88px;
+  padding-top: 0;
+}
+.hero-fullbleed .eyebrow {
+  color: var(--iki-teal);
+  margin-bottom: 20px;
+}
+.hero-fullbleed h1 {
+  font-size: clamp(3.2rem, 8vw, 7.5rem);
+  line-height: 0.95;
+  letter-spacing: -0.05em;
+  font-weight: 800;
+  color: white;
+  margin-bottom: 28px;
+  max-width: 860px;
+}
+.hero-fullbleed h1 em {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--iki-teal);
+  font-weight: 700;
+}
+.hero-fullbleed .hero-lead {
+  font-size: 1.15rem;
+  color: rgba(255,255,255,0.65);
+  max-width: 560px;
+  margin-bottom: 36px;
+  line-height: 1.65;
+  font-weight: 400;
+}
+.hero-fullbleed .hero-lead strong { color: white; }
+.hero-fullbleed .hero-tagline { display: none; }
+.hero-fullbleed .hero-cta { display: flex; gap: 16px; flex-wrap: wrap; }
+.hero-fullbleed .btn-secondary {
+  border-color: rgba(255,255,255,0.32);
+  color: white;
+}
+.hero-fullbleed .btn-secondary:hover {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.6);
+  color: white;
+}
+.hero-fullbleed .hero-microtrust {
+  color: rgba(255,255,255,0.48);
+  margin-top: 24px;
+}
+.hero-fullbleed .hero-microtrust strong { color: rgba(255,255,255,0.85); font-weight: 600; }
+.hero-fullbleed .hero-microtrust span[aria-hidden] { color: rgba(255,255,255,0.2); }
+.hero-fullbleed .hero-store-badges { margin: 20px 0 0; }
+.hero-fullbleed .hero-store-badge {
+  background: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.2);
+}
+.hero-fullbleed .hero-store-badge:hover { background: rgba(255,255,255,0.2); }
+@media (max-width: 720px) {
+  .hfb-content { padding-bottom: 72px; }
+  .hero-fullbleed h1 { font-size: clamp(2.6rem, 10vw, 4.5rem); }
+  .hero-fullbleed .hero-lead { font-size: 1.05rem; }
+}
+
+/* =====================================================================
+   WHOOP FEATURE SECTION — Tab nav + accordion + full-bleed image
+   ===================================================================== */
+.wi-section {
+  background: #0D1311;
+  padding: 0;
+  overflow: hidden;
+}
+.wi-tabs {
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.wi-tabs::-webkit-scrollbar { display: none; }
+.wi-tabs .container {
+  display: flex;
+  gap: 0;
+  padding-left: 24px;
+  padding-right: 24px;
+  min-width: max-content;
+}
+.wi-tab {
+  background: transparent;
+  border: none;
+  color: rgba(255,255,255,0.38);
+  font-family: var(--font-body);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 22px 28px;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: all 0.2s var(--ease);
+  white-space: nowrap;
+}
+.wi-tab:hover { color: rgba(255,255,255,0.7); }
+.wi-tab.active {
+  color: white;
+  border-bottom-color: var(--iki-teal);
+}
+.wi-panel { display: none; }
+.wi-panel.active { display: block; }
+.wi-body {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  min-height: 560px;
+}
+@media (max-width: 880px) {
+  .wi-body { grid-template-columns: 1fr; }
+}
+.wi-left {
+  padding: 72px 56px 88px;
+}
+@media (max-width: 1024px) { .wi-left { padding: 56px 40px 72px; } }
+@media (max-width: 880px) { .wi-left { padding: 48px 24px 56px; } }
+.wi-left h2 {
+  color: white;
+  margin-bottom: 48px;
+  font-size: clamp(2.4rem, 4.5vw, 4rem);
+  letter-spacing: -0.04em;
+  line-height: 1.0;
+}
+.wi-items { display: flex; flex-direction: column; gap: 0; }
+.wi-item {
+  border-left: 2px solid rgba(255,255,255,0.1);
+  padding: 20px 0 20px 28px;
+  cursor: pointer;
+  transition: border-color 0.25s var(--ease);
+}
+.wi-item:hover { border-left-color: rgba(255,255,255,0.3); }
+.wi-item.active { border-left-color: var(--iki-teal); }
+.wi-num {
+  font-size: 0.75rem;
+  color: rgba(255,255,255,0.28);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin-bottom: 4px;
+  font-family: var(--font-body);
+  display: block;
+  transition: color 0.2s var(--ease);
+}
+.wi-item.active .wi-num { color: var(--iki-teal); }
+.wi-title {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  font-weight: 500;
+  color: rgba(255,255,255,0.42);
+  line-height: 1.3;
+  transition: color 0.2s var(--ease), font-weight 0.1s;
+  margin: 0;
+}
+.wi-item:hover .wi-title { color: rgba(255,255,255,0.7); }
+.wi-item.active .wi-title { color: white; font-weight: 700; font-size: 1.05rem; }
+.wi-item > p {
+  display: none;
+  font-size: 0.95rem;
+  color: rgba(255,255,255,0.55);
+  margin: 12px 0 0;
+  line-height: 1.7;
+  max-width: 440px;
+}
+.wi-item.active > p { display: block; }
+.wi-right {
+  position: relative;
+  overflow: hidden;
+  min-height: 480px;
+}
+.wi-right img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.78);
+  transition: transform 0.6s var(--ease);
+}
+.wi-right:hover img { transform: scale(1.03); }
+@media (max-width: 880px) {
+  .wi-right { min-height: 280px; order: -1; }
+}
+
+/* =====================================================================
+   STICKY FLOATING CTA (desktop) — WHOOP "JOIN NOW" equivalent
+   ===================================================================== */
+.sticky-pill-cta {
+  position: fixed;
+  bottom: 32px;
+  left: 50%;
+  transform: translateX(-50%) translateY(20px);
+  z-index: 90;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.35s var(--ease), transform 0.35s var(--ease);
+}
+.sticky-pill-cta.visible {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateX(-50%) translateY(0);
+}
+.sticky-pill-cta .btn {
+  background: white;
+  color: var(--iki-ink);
+  box-shadow: 0 8px 32px rgba(0,0,0,0.28), 0 2px 8px rgba(0,0,0,0.12);
+  padding: 16px 36px;
+  font-size: 0.82rem;
+  border: none;
+  white-space: nowrap;
+}
+.sticky-pill-cta .btn:hover {
+  background: var(--iki-teal);
+  color: white;
+  box-shadow: 0 8px 32px rgba(75,192,171,0.45);
+  transform: translateY(-1px);
+}
+@media (max-width: 720px) {
+  .sticky-pill-cta { display: none; }
+}
+
+/* =====================================================================
+   ECO-CARDS: strip card styling (WHOOP has zero card chrome)
+   ===================================================================== */
+.eco-card {
+  background: transparent;
+  border: 1px solid var(--gray-100);
+  border-radius: var(--radius);
+  box-shadow: none;
+}
+.eco-card:hover {
+  background: var(--gray-50);
+  box-shadow: none;
+  transform: translateY(-2px);
+}
+
+/* =====================================================================
+   HOW-STEP: strip shadow/border further
+   ===================================================================== */
+.how-step {
+  background: transparent;
+  border: 1px solid var(--gray-100);
+  box-shadow: none;
+}
+.how-step:hover {
+  background: var(--gray-50);
+  box-shadow: none;
+  transform: translateY(-2px);
+}
+
+/* =====================================================================
+   TESTIMONIALS: simpler, no shadow
+   ===================================================================== */
+.testimonial {
+  background: white;
+  border: 1px solid var(--gray-100);
+  box-shadow: none;
+}
+.testimonial-featured {
+  border: 1px solid var(--gray-100);
+  box-shadow: none;
+}
+
+/* =====================================================================
+   LIFESTYLE BANNER: taller, more cinematic
+   ===================================================================== */
+.lifestyle-banner {
+  height: clamp(280px, 40vw, 480px);
+}
+
+/* =====================================================================
+   QUIZ LAUNCHER: flat style
+   ===================================================================== */
+.quiz-launcher {
+  border: 1px solid var(--gray-100);
+  border-radius: var(--radius-lg);
+  padding: 48px;
+  text-align: center;
+  max-width: 640px;
+  margin: 0 auto;
+}
+@media (max-width: 720px) {
+  .quiz-launcher { padding: 32px 24px; }
+}
