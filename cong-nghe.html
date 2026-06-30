@@ -87,65 +87,59 @@
   </section>
 
   <!-- ============ CALLOUT 1 — WHITE: AI Tiered Vision ============ -->
-  <section class="callout-section" style="padding: 100px 0; background: #ffffff;">
-    <div class="container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: stretch; grid-column: 1 / -1;">
-      <div class="callout-text">
-        <span class="eyebrow">Trụ cột 1 — AI Engine</span>
-        <h2>Mô hình AI Tiered Vision.</h2>
-        <p>IKI dùng kiến trúc AI hai tầng để cân bằng tốc độ và độ chính xác khi phân tích hình ảnh thực phẩm và cá nhân hoá lộ trình của từng user.</p>
-        <ul class="callout-list">
-          <li><strong>Tầng 1 — Claude Haiku 4.5 (Primary):</strong> Xử lý tức thì phần lớn yêu cầu — nhận diện món ăn, log nhật ký, gợi ý thực đơn theo thể tạng. Confidence threshold &ge; 0.75.</li>
-          <li><strong>Tầng 2 — Claude Sonnet 4.6 (Escalate):</strong> Tự động kích hoạt khi Haiku trả về confidence thấp, ảnh mơ hồ, hoặc cần nhận diện nhãn sản phẩm chi tiết. Không cần user thao tác thêm.</li>
-          <li><strong>Vision pipeline:</strong> Ảnh resize tối đa 1568px trước khi gửi lên model — giảm token cost, giữ nguyên độ chính xác với thực phẩm Việt Nam.</li>
-          <li><strong>Auto-save nhật ký:</strong> Ba luồng scan (camera, album, mô tả) đều tự ghi kết quả khi có output — không cần user nhấn xác nhận thêm bước.</li>
-        </ul>
-      </div>
-      <div class="callout-visual">
-        <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=900&q=80&auto=format&fit=crop" alt="AI vision pipeline phân tích thực phẩm" loading="lazy" width="900" height="600" />
-      </div>
+  <section class="callout-section" style="background: #ffffff;">
+    <div class="callout-text">
+      <span class="eyebrow">Trụ cột 1 — AI Engine</span>
+      <h2>Mô hình AI Tiered Vision.</h2>
+      <p>IKI dùng kiến trúc AI hai tầng để cân bằng tốc độ và độ chính xác khi phân tích hình ảnh thực phẩm và cá nhân hoá lộ trình của từng user.</p>
+      <ul class="callout-list">
+        <li><strong>Tầng 1 — Claude Haiku 4.5 (Primary):</strong> Xử lý tức thì phần lớn yêu cầu — nhận diện món ăn, log nhật ký, gợi ý thực đơn theo thể tạng. Confidence threshold &ge; 0.75.</li>
+        <li><strong>Tầng 2 — Claude Sonnet 4.6 (Escalate):</strong> Tự động kích hoạt khi Haiku trả về confidence thấp, ảnh mơ hồ, hoặc cần nhận diện nhãn sản phẩm chi tiết. Không cần user thao tác thêm.</li>
+        <li><strong>Vision pipeline:</strong> Ảnh resize tối đa 1568px trước khi gửi lên model — giảm token cost, giữ nguyên độ chính xác với thực phẩm Việt Nam.</li>
+        <li><strong>Auto-save nhật ký:</strong> Ba luồng scan (camera, album, mô tả) đều tự ghi kết quả khi có output — không cần user nhấn xác nhận thêm bước.</li>
+      </ul>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=900&q=80&auto=format&fit=crop" alt="AI vision pipeline phân tích thực phẩm" loading="eager" width="900" height="600" />
     </div>
   </section>
 
   <!-- ============ CALLOUT 2 — BLACK reverse: 5 thể tạng Đông Y ============ -->
-  <section class="callout-section reverse section-black" style="padding: 100px 0;">
-    <div class="container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: stretch; grid-column: 1 / -1;">
-      <div class="callout-text">
-        <span class="eyebrow">Trụ cột 2 — Knowledge Base</span>
-        <h2>5 thể tạng Đông Y số hoá.</h2>
-        <p>Kế thừa từ học thuyết Âm Dương Ngũ Hành — hệ thống hoá bởi <strong style="color: white;">TS. Ngô Đức Vượng</strong>, cố vấn chuyên môn của HOPE CORP. Toàn bộ tri thức được chuyển hoá thành Knowledge Graph có thể query bởi AI Engine.</p>
-        <ul class="callout-list">
-          <li><strong>Hàn:</strong> Tuần hoàn chậm, lạnh tay chân — ưu tiên thực phẩm ấm, tránh đồ lạnh.</li>
-          <li><strong>Nhiệt:</strong> Dễ kích thích, nóng trong, khát nước — ưu tiên thực phẩm mát, giải nhiệt.</li>
-          <li><strong>Hư:</strong> Thiếu năng lượng, mệt mỏi kéo dài — ưu tiên bổ dưỡng, không vận động cường độ cao.</li>
-          <li><strong>Thực:</strong> Tích tụ, đầy hơi, tiêu hoá chậm — ưu tiên hành khí, giảm đồ khó tiêu.</li>
-          <li><strong>Đàm thấp:</strong> Uể oải, đờm trong cổ, da nhờn — ưu tiên hoá đàm, tăng vận động nhẹ.</li>
-        </ul>
-        <p style="color: rgba(255,255,255,0.45); font-size: 0.85rem; margin-top: 20px;">Framework 5 thể tạng là tham chiếu dưỡng sinh theo Y học Cổ truyền — không thay thế chẩn đoán y khoa.</p>
-      </div>
-      <div class="callout-visual">
-        <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=900&q=80&auto=format&fit=crop" alt="Tri thức Y học Cổ truyền được số hoá" loading="lazy" width="900" height="600" />
-      </div>
+  <section class="callout-section reverse section-black">
+    <div class="callout-text">
+      <span class="eyebrow">Trụ cột 2 — Knowledge Base</span>
+      <h2>5 thể tạng Đông Y số hoá.</h2>
+      <p>Kế thừa từ học thuyết Âm Dương Ngũ Hành — hệ thống hoá bởi <strong style="color: white;">TS. Ngô Đức Vượng</strong>, cố vấn chuyên môn của HOPE CORP. Toàn bộ tri thức được chuyển hoá thành Knowledge Graph có thể query bởi AI Engine.</p>
+      <ul class="callout-list">
+        <li><strong>Hàn:</strong> Tuần hoàn chậm, lạnh tay chân — ưu tiên thực phẩm ấm, tránh đồ lạnh.</li>
+        <li><strong>Nhiệt:</strong> Dễ kích thích, nóng trong, khát nước — ưu tiên thực phẩm mát, giải nhiệt.</li>
+        <li><strong>Hư:</strong> Thiếu năng lượng, mệt mỏi kéo dài — ưu tiên bổ dưỡng, không vận động cường độ cao.</li>
+        <li><strong>Thực:</strong> Tích tụ, đầy hơi, tiêu hoá chậm — ưu tiên hành khí, giảm đồ khó tiêu.</li>
+        <li><strong>Đàm thấp:</strong> Uể oải, đờm trong cổ, da nhờn — ưu tiên hoá đàm, tăng vận động nhẹ.</li>
+      </ul>
+      <p style="color: rgba(255,255,255,0.45); font-size: 0.85rem; margin-top: 20px;">Framework 5 thể tạng là tham chiếu dưỡng sinh theo Y học Cổ truyền — không thay thế chẩn đoán y khoa.</p>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=900&q=80&auto=format&fit=crop" alt="Tri thức Y học Cổ truyền được số hoá" loading="eager" width="900" height="600" />
     </div>
   </section>
 
   <!-- ============ CALLOUT 3 — WHITE: Privacy by Design ============ -->
-  <section class="callout-section" style="padding: 100px 0; background: #ffffff;">
-    <div class="container" style="display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: stretch; grid-column: 1 / -1;">
-      <div class="callout-text">
-        <span class="eyebrow">Trụ cột 3 — Dữ liệu</span>
-        <h2>Privacy by design.</h2>
-        <p>Dữ liệu sức khoẻ là tài sản quý nhất của user. IKI xây dựng hạ tầng dữ liệu từ đầu theo nguyên tắc Privacy by Design — không phải compliance chạy theo sau.</p>
-        <ul class="callout-list">
-          <li><strong>Minimum data:</strong> Chỉ thu thập đúng những gì cần cho personalization — không hỏi thêm field thừa.</li>
-          <li><strong>Mã hoá end-to-end:</strong> TLS 1.2+ khi truyền tải, AES-256 khi lưu trữ. Hosting tại trung tâm dữ liệu Tier-3 tại Việt Nam.</li>
-          <li><strong>Không bán dữ liệu:</strong> HOPE CORP cam kết không bán, không cho thuê, không chia sẻ dữ liệu cá nhân với bên thứ ba.</li>
-          <li><strong>Anonymized aggregation:</strong> Insights tổng hợp (nghiên cứu wellness Việt Nam) được anonymized hoàn toàn trước khi xử lý — không truy ngược về cá nhân.</li>
-          <li><strong>Tuân thủ NĐ 13/2023:</strong> Mọi form đăng ký có checkbox đồng ý. User có quyền truy cập, sửa, xoá dữ liệu bất cứ lúc nào.</li>
-        </ul>
-      </div>
-      <div class="callout-visual">
-        <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?w=900&q=80&auto=format&fit=crop" alt="Bảo mật dữ liệu Privacy by Design" loading="lazy" width="900" height="600" />
-      </div>
+  <section class="callout-section" style="background: #ffffff;">
+    <div class="callout-text">
+      <span class="eyebrow">Trụ cột 3 — Dữ liệu</span>
+      <h2>Privacy by design.</h2>
+      <p>Dữ liệu sức khoẻ là tài sản quý nhất của user. IKI xây dựng hạ tầng dữ liệu từ đầu theo nguyên tắc Privacy by Design — không phải compliance chạy theo sau.</p>
+      <ul class="callout-list">
+        <li><strong>Minimum data:</strong> Chỉ thu thập đúng những gì cần cho personalization — không hỏi thêm field thừa.</li>
+        <li><strong>Mã hoá end-to-end:</strong> TLS 1.2+ khi truyền tải, AES-256 khi lưu trữ. Hosting tại trung tâm dữ liệu Tier-3 tại Việt Nam.</li>
+        <li><strong>Không bán dữ liệu:</strong> HOPE CORP cam kết không bán, không cho thuê, không chia sẻ dữ liệu cá nhân với bên thứ ba.</li>
+        <li><strong>Anonymized aggregation:</strong> Insights tổng hợp (nghiên cứu wellness Việt Nam) được anonymized hoàn toàn trước khi xử lý — không truy ngược về cá nhân.</li>
+        <li><strong>Tuân thủ NĐ 13/2023:</strong> Mọi form đăng ký có checkbox đồng ý. User có quyền truy cập, sửa, xoá dữ liệu bất cứ lúc nào.</li>
+      </ul>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1563986768609-322da13575f3?w=900&q=80&auto=format&fit=crop" alt="Bảo mật dữ liệu Privacy by Design" loading="eager" width="900" height="600" />
     </div>
   </section>
 
