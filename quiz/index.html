@@ -793,7 +793,8 @@
       <div class="thanks" id="leadThanks">
         <div class="check"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></div>
         <h4>Cảm ơn bạn đã tin tưởng</h4>
-        <p>HOPE sẽ gửi ebook và lộ trình riêng cho bạn qua Zalo trong ít phút nữa.</p>
+        <p>Ebook <b>“Lắng nghe cơ thể mình”</b> đã được gửi vào email của bạn. Bạn cũng có thể tải ngay tại đây:</p>
+        <a id="ebookDl" class="btn-primary" href="#" target="_blank" rel="noopener" style="margin-top:10px;text-decoration:none">📖 Tải ebook (PDF)</a>
       </div>
     </div>
 
@@ -942,6 +943,7 @@ const OFFER_DEADLINE = "2026-07-31T23:59:59"; // hạn ưu đãi thật; null = 
 const SLOTS_LEFT     = 15;                     // số suất còn lại THẬT; null = ẩn
 // Giá trị ebook — CHỈ dùng con số THẬT bán được (giá bịa cho đồ free dễ phản tác dụng + rủi ro). null = ẩn.
 const EBOOK_VALUE    = null;                   // điền giá THẬT (vd "199.000đ") khi có; null = chỉ hiện "Miễn phí"
+const EBOOK_URL      = "https://ikihealing.com/ebook/lang-nghe-co-the.pdf"; // file ebook để tải ngay + gửi email
 const GATE_RESULT    = true;                   // true = bắt nhập thông tin TRƯỚC khi xem kết quả (tăng lead mạnh); false = xem tự do
 // Nhóm cộng đồng — điền link THẬT (để trống "" thì ẩn nút đó)
 const COMMUNITY = {
@@ -1344,6 +1346,8 @@ if(EBOOK_VALUE){
   const ev=document.getElementById("ebookValue");
   if(ev){ ev.innerHTML="Giá trị <s>"+EBOOK_VALUE+"</s> <b>Miễn phí hôm nay</b>"; ev.style.display="inline-flex"; }
 }
+// Nút tải ebook trên màn cảm ơn
+(function(){ var dl=document.getElementById("ebookDl"); if(dl){ if(EBOOK_URL){ dl.href=EBOOK_URL; } else { dl.style.display="none"; } } })();
 // Link nhóm cộng đồng: đặt href, ẩn nút chưa có link
 [["grpZalo","zalo"],["grpFb","facebook"],["grpTg","telegram"]].forEach(function(p){
   const el=document.getElementById(p[0]), url=(COMMUNITY||{})[p[1]];

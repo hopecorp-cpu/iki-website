@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Lắng Nghe Cơ Thể Mình — Cẩm nang 7 ngày dưỡng sinh cân bằng | HOPE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,500;0,600;0,700;1,500&family=Be+Vietnam+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#232620; --soft:#575349; --faint:#8a8477;
+    --forest:#173d26; --forest2:#1f4e33; --gold:#c79a2b; --gold2:#EBB61C;
+    --cream:#faf7f0; --cream2:#f3eee2; --line:#e6dfce; --danger:#c0392b;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-print-color-adjust:exact;print-color-adjust:exact}
+  body{font-family:"Be Vietnam Pro",system-ui,sans-serif;color:var(--ink);background:#fff;line-height:1.7;font-size:11pt}
+  h1,h2,h3,.serif{font-family:"Lora",Georgia,serif}
+
+  /* ---- PAGE ---- */
+  @page{size:A5;margin:0}
+  .page{
+    width:148mm;height:207mm;padding:14mm 15mm;margin:0 auto;
+    position:relative;page-break-after:always;break-after:page;background:#fff;overflow:hidden;
+  }
+  .page:last-child{page-break-after:auto}
+  .pad-cream{background:var(--cream)}
+
+  /* ---- LOGO ---- */
+  .brand{display:flex;align-items:center;gap:8px}
+  .badge{width:34px;height:34px;border-radius:9px;background:var(--forest);
+    display:flex;align-items:center;justify-content:center;position:relative;flex:none}
+  .badge b{color:var(--gold2);font-family:"Lora",serif;font-weight:700;font-size:17px;letter-spacing:-1px}
+  .badge i{position:absolute;top:5px;right:6px;width:6px;height:6px;border-radius:50%;
+    background:var(--gold2);box-shadow:0 0 0 3px rgba(235,182,28,.25)}
+  .brand .bt{font-family:"Lora",serif;font-weight:700;font-size:15px;letter-spacing:1px;color:var(--forest)}
+  .brand .bs{font-size:7.5pt;color:var(--faint);letter-spacing:.5px;margin-top:1px}
+
+  /* ---- COVER ---- */
+  .cover{background:linear-gradient(160deg,#12331f 0%,#173d26 46%,#0e2a1a 100%);color:#fff;
+    display:flex;flex-direction:column;justify-content:space-between}
+  .cover .badge{background:rgba(255,255,255,.08);box-shadow:inset 0 0 0 1px rgba(235,182,28,.4)}
+  .cover .brand .bt{color:#fff}.cover .brand .bs{color:rgba(255,255,255,.6)}
+  .cover-mid{margin:auto 0}
+  .kick{display:inline-block;font-size:8.5pt;letter-spacing:3px;text-transform:uppercase;
+    color:var(--gold2);border:1px solid rgba(235,182,28,.4);padding:5px 12px;border-radius:20px}
+  .cover h1{font-size:33pt;line-height:1.12;margin:18px 0 0;font-weight:700}
+  .cover h1 em{font-style:italic;color:var(--gold2)}
+  .cover .sub{margin-top:14px;font-size:11.5pt;color:rgba(255,255,255,.82);max-width:92%}
+  .cover .orb{width:120px;height:120px;border-radius:50%;margin:26px 0 0;
+    background:radial-gradient(circle at 38% 34%,#EBB61C,#c79a2b 45%,#8a6a12 100%);
+    box-shadow:0 0 0 10px rgba(235,182,28,.10),0 0 44px rgba(235,182,28,.35)}
+  .cover-foot{font-size:9pt;color:rgba(255,255,255,.7);border-top:1px solid rgba(255,255,255,.14);padding-top:12px}
+  .cover-foot b{color:#fff}
+
+  /* ---- HEADINGS ---- */
+  .eyebrow{font-size:8.5pt;letter-spacing:2.5px;text-transform:uppercase;color:var(--gold);font-weight:600}
+  h2.chap{font-size:22pt;line-height:1.15;margin:6px 0 4px;color:var(--forest)}
+  .rule{width:46px;height:3px;background:var(--gold2);border-radius:2px;margin:12px 0 18px}
+  h3{font-size:13pt;color:var(--forest2);margin:18px 0 6px}
+  p{margin:0 0 10px}
+  p.lead{font-size:12pt;color:var(--soft)}
+  .drop::first-letter{font-family:"Lora",serif;font-size:40pt;line-height:.82;float:left;
+    color:var(--gold);margin:6px 10px 0 0;font-weight:700}
+  em.mark{background:linear-gradient(transparent 60%,rgba(235,182,28,.35) 0);font-style:normal;font-weight:600}
+  .pgnum{position:absolute;bottom:10mm;right:16mm;font-size:8pt;color:var(--faint)}
+  .pgnum.l{right:auto;left:16mm}
+  .foot-brand{position:absolute;bottom:10mm;left:16mm;font-size:8pt;color:var(--faint);letter-spacing:1px}
+
+  /* ---- BLOCKS ---- */
+  .signal{display:flex;gap:11px;padding:8px 12px;border:1px solid var(--line);border-radius:11px;
+    background:var(--cream);margin:7px 0;break-inside:avoid}
+  .signal .ic{width:27px;height:27px;border-radius:8px;background:var(--forest);color:var(--gold2);
+    display:flex;align-items:center;justify-content:center;font-size:14px;flex:none}
+  .signal .t{font-weight:600;color:var(--forest);font-size:10pt}
+  .signal .d{font-size:9pt;color:var(--soft);line-height:1.5}
+
+  .todo{background:var(--cream2);border-left:3px solid var(--gold2);border-radius:0 10px 10px 0;
+    padding:12px 15px;margin:12px 0;break-inside:avoid}
+  .todo b{color:var(--forest);font-size:10pt}
+  .todo ul{list-style:none;margin:8px 0 0}
+  .todo li{position:relative;padding:4px 0 4px 22px;font-size:10pt;color:var(--ink)}
+  .todo li::before{content:"";position:absolute;left:2px;top:9px;width:8px;height:8px;
+    border:2px solid var(--gold);border-radius:2px}
+
+  .why{font-size:9.5pt;color:var(--soft);background:#fff;border:1px dashed var(--line);
+    border-radius:10px;padding:11px 14px;margin:10px 0}
+  .why b{color:var(--forest2)}
+
+  /* ---- TOC ---- */
+  .toc-item{display:flex;align-items:baseline;gap:10px;padding:11px 0;border-bottom:1px solid var(--line)}
+  .toc-item .n{font-family:"Lora",serif;font-size:15pt;color:var(--gold);width:30px;flex:none}
+  .toc-item .tt{font-weight:600;color:var(--ink);font-size:11pt}
+  .toc-item .ts{font-size:9pt;color:var(--faint)}
+  .toc-item .pg{margin-left:auto;font-size:9pt;color:var(--faint)}
+
+  /* ---- 7 DAY TABLE ---- */
+  table{width:100%;border-collapse:collapse;margin:14px 0;font-size:9.5pt}
+  th,td{text-align:left;padding:9px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{background:var(--forest);color:#fff;font-weight:600;font-size:9pt}
+  td .day{font-weight:700;color:var(--forest);font-family:"Lora",serif}
+  tr:nth-child(even) td{background:var(--cream)}
+
+  /* ---- CHECK GRID ---- */
+  .track{border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:14px 0}
+  .track .row{display:flex;border-bottom:1px solid var(--line)}
+  .track .row:last-child{border-bottom:none}
+  .track .lab{flex:1;padding:9px 12px;font-size:10pt;background:var(--cream)}
+  .track .cell{width:26px;border-left:1px solid var(--line);display:flex;align-items:center;justify-content:center;padding:9px 0}
+  .track .cell b{font-size:7.5pt;color:var(--faint);font-weight:500}
+  .track .box{width:13px;height:13px;border:1.5px solid var(--gold);border-radius:3px}
+  .track .head .lab{background:var(--forest2);color:#fff;font-weight:600}
+  .track .head .cell{background:var(--forest2)}
+
+  /* ---- CTA / APP ---- */
+  .cta{background:linear-gradient(160deg,#173d26,#0e2a1a);color:#fff;border-radius:16px;padding:16px 18px;margin:12px 0;text-align:center}
+  .cta h3{color:#fff;font-size:14pt;margin:0 0 5px}
+  .cta p{color:rgba(255,255,255,.82);font-size:9.5pt}
+  .cta .orb-sm{width:54px;height:54px;border-radius:50%;margin:0 auto 10px;
+    background:radial-gradient(circle at 38% 34%,#EBB61C,#c79a2b 46%,#8a6a12 100%);
+    box-shadow:0 0 0 7px rgba(235,182,28,.10)}
+  .pill{display:inline-block;background:var(--gold2);color:#3a2c05;font-weight:700;
+    padding:10px 20px;border-radius:24px;font-size:10.5pt;margin-top:12px;text-decoration:none}
+  .stores{display:flex;gap:8px;justify-content:center;margin-top:12px;flex-wrap:wrap}
+  .store{border:1px solid rgba(255,255,255,.28);border-radius:10px;padding:8px 14px;font-size:9pt;color:#fff}
+  .store b{display:block;font-size:10pt}
+
+  .disc{font-size:8pt;color:var(--faint);line-height:1.55;border-top:1px solid var(--line);padding-top:12px;margin-top:16px}
+  .quote{font-family:"Lora",serif;font-style:italic;font-size:14pt;color:var(--forest);line-height:1.5;
+    border-left:3px solid var(--gold2);padding-left:16px;margin:18px 0}
+</style>
+</head>
+<body>
+
+<!-- ====== TRANG BÌA ====== -->
+<section class="page cover">
+  <div class="brand">
+    <span class="badge"><b>H</b><i></i></span>
+    <span><span class="bt">HOPE</span><span class="bs">Thân khoẻ · Tâm an · Tuệ sáng</span></span>
+  </div>
+  <div class="cover-mid">
+    <span class="kick">Cẩm nang tặng bạn</span>
+    <h1>Lắng nghe<br>cơ thể <em>mình</em></h1>
+    <div class="sub">7 ngày dưỡng sinh cân bằng — hiểu 5 tín hiệu cơ thể đang gửi cho bạn mỗi ngày, và những việc nhỏ để đáp lại chúng.</div>
+    <div class="orb"></div>
+  </div>
+  <div class="cover-foot">Biên soạn bởi đội ngũ <b>HOPE</b> &nbsp;·&nbsp; Đồng hành cùng ứng dụng <b>IKI</b><br>Tài liệu miễn phí — không nhằm chẩn đoán hay thay thế tư vấn y khoa.</div>
+</section>
+
+<!-- ====== LỜI NGỎ ====== -->
+<section class="page pad-cream">
+  <span class="eyebrow">Lời ngỏ</span>
+  <h2 class="chap">Cơ thể luôn lên tiếng<br>trước khi bạn kịp nhận ra</h2>
+  <div class="rule"></div>
+  <p class="lead drop">Mệt dù đã ngủ đủ. Đầy bụng sau bữa ăn. Dễ cáu vì những chuyện nhỏ. Thở gấp khi leo vài tầng cầu thang. Ta thường bỏ qua những tín hiệu ấy, cho đến một ngày chúng lớn thành thói quen khó đổi.</p>
+  <p>Cuốn cẩm nang này <em class="mark">không dạy bạn kiêng khem hay lo sợ</em>. Nó giúp bạn làm một việc đơn giản mà ít người làm: <b>lắng nghe cơ thể mình một cách có hệ thống</b> — qua 5 tín hiệu quen thuộc, và đáp lại bằng những việc rất nhỏ, làm được ngay hôm nay.</p>
+  <div class="quote">“Sức khoẻ không đến từ một lần cố gắng lớn, mà từ những lựa chọn nhỏ lặp lại mỗi ngày.”</div>
+  <p>Bạn không cần thay đổi cả cuộc sống. Chỉ cần bắt đầu từ một việc — và để nó dẫn bạn đi tiếp.</p>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">2</div>
+</section>
+
+<!-- ====== MỤC LỤC ====== -->
+<section class="page">
+  <span class="eyebrow">Bên trong cuốn này</span>
+  <h2 class="chap">Mục lục</h2>
+  <div class="rule"></div>
+  <div class="toc-item"><span class="n">01</span><span><div class="tt">Cơ thể “nói chuyện” bằng 5 tín hiệu</div><div class="ts">Cách đọc bản đồ cân bằng của chính mình</div></span><span class="pg">tr. 4</span></div>
+  <div class="toc-item"><span class="n">02</span><span><div class="tt">Năng lượng — nhịp mở đầu mỗi ngày</div><div class="ts">Tỉnh táo buổi sáng &amp; giấc ngủ sâu</div></span><span class="pg">tr. 5</span></div>
+  <div class="toc-item"><span class="n">03</span><span><div class="tt">Tinh thần — chiếc la bàn cảm xúc</div><div class="ts">Căng thẳng, tâm trạng &amp; sự tĩnh tại</div></span><span class="pg">tr. 6</span></div>
+  <div class="toc-item"><span class="n">04</span><span><div class="tt">Tiêu hoá &amp; bài tiết — gốc của sức sống</div><div class="ts">Ăn uống nhẹ bụng, đường ruột đều đặn</div></span><span class="pg">tr. 7</span></div>
+  <div class="toc-item"><span class="n">05</span><span><div class="tt">Hơi thở — sợi dây nối thân và tâm</div><div class="ts">Thở sâu, bền sức, bớt hụt hơi</div></span><span class="pg">tr. 8</span></div>
+  <div class="toc-item"><span class="n">06</span><span><div class="tt">Lối sống — nền móng đỡ tất cả</div><div class="ts">Nước, vận động &amp; nhịp sinh hoạt</div></span><span class="pg">tr. 9</span></div>
+  <div class="toc-item"><span class="n">07</span><span><div class="tt">Lịch 7 ngày reset &amp; bảng theo dõi</div><div class="ts">Bắt đầu ngay, mỗi ngày một việc nhỏ</div></span><span class="pg">tr. 10</span></div>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">3</div>
+</section>
+
+<!-- ====== CH.01 — 5 TÍN HIỆU ====== -->
+<section class="page pad-cream">
+  <span class="eyebrow">Chương 01</span>
+  <h2 class="chap">Cơ thể “nói chuyện”<br>bằng 5 tín hiệu</h2>
+  <div class="rule"></div>
+  <p class="lead" style="margin-bottom:8px">Thay vì hỏi “mình có ổn không?”, hãy hỏi cụ thể theo 5 nhóm tín hiệu — bạn sẽ thấy rõ chỗ cơ thể cần chú ý nhất.</p>
+  <div class="signal"><span class="ic">⚡</span><span><div class="t">1 · Năng lượng</div><div class="d">Buổi sáng bạn bật dậy hay uể oải? Chiều có “tụt” sức không? Giấc ngủ có sâu?</div></span></div>
+  <div class="signal"><span class="ic">🧘</span><span><div class="t">2 · Tinh thần</div><div class="d">Mức căng thẳng, sự cáu gắt, khả năng thư giãn và tĩnh lại sau một ngày.</div></span></div>
+  <div class="signal"><span class="ic">🌿</span><span><div class="t">3 · Tiêu hoá &amp; bài tiết</div><div class="d">Sau bữa ăn nhẹ bụng hay ì ạch? Đường ruột có đều đặn mỗi ngày?</div></span></div>
+  <div class="signal"><span class="ic">💨</span><span><div class="t">4 · Hơi thở</div><div class="d">Thở nông hay sâu? Leo cầu thang, đi nhanh có dễ hụt hơi không?</div></span></div>
+  <div class="signal"><span class="ic">💧</span><span><div class="t">5 · Lối sống</div><div class="d">Lượng nước, vận động, thời gian ngồi một chỗ và nhịp sinh hoạt trong ngày.</div></span></div>
+  <p style="margin-top:10px;font-size:10pt">Ở 5 chương sau, mỗi tín hiệu có: <b>dấu hiệu nhận biết</b>, <b>vì sao</b> quan trọng, và <b>3 việc nhỏ</b> làm được ngay.</p>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">4</div>
+</section>
+
+<!-- ====== CH.02 — NĂNG LƯỢNG ====== -->
+<section class="page">
+  <span class="eyebrow">Chương 02 · Tín hiệu Năng lượng</span>
+  <h2 class="chap">Nhịp mở đầu<br>mỗi ngày</h2>
+  <div class="rule"></div>
+  <h3>Dấu hiệu cần lắng nghe</h3>
+  <p>Khó bật dậy dù ngủ đủ giờ, cần cà phê mới “tỉnh”, tụt sức giữa buổi chiều, hay trằn trọc khó vào giấc — đó là cơ thể đang xin bạn xem lại <em class="mark">chất lượng nghỉ ngơi</em>, không chỉ số giờ ngủ.</p>
+  <div class="why"><b>Vì sao:</b> Năng lượng ổn định đến từ nhịp thức–ngủ đều và ánh sáng đúng lúc. Ngủ đủ nhưng lệch nhịp vẫn khiến bạn mệt. Cơ thể thích sự <b>đều đặn</b> hơn là “ngủ bù”.</p>
+  <div class="todo"><b>3 việc nhỏ làm ngay</b>
+    <ul>
+      <li>Ra ánh sáng tự nhiên 5–10 phút trong 1 giờ đầu sau khi thức.</li>
+      <li>Cố định giờ đi ngủ &amp; thức dậy, kể cả cuối tuần (lệch tối đa ~1 giờ).</li>
+      <li>Ngưng màn hình sáng 30 phút trước khi ngủ; để phòng tối &amp; mát.</li>
+    </ul>
+  </div>
+  <div class="quote" style="font-size:12pt;margin:16px 0 0">“Một buổi sáng tỉnh táo bắt đầu từ tối hôm trước.”</div>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">5</div>
+</section>
+
+<!-- ====== CH.03 — TINH THẦN ====== -->
+<section class="page pad-cream">
+  <span class="eyebrow">Chương 03 · Tín hiệu Tinh thần</span>
+  <h2 class="chap">Chiếc la bàn<br>cảm xúc</h2>
+  <div class="rule"></div>
+  <h3>Dấu hiệu cần lắng nghe</h3>
+  <p>Dễ cáu vì chuyện nhỏ, đầu óc khó “tắt”, khó thư giãn dù đang nghỉ, hoặc thấy trống rỗng cuối ngày. Tinh thần căng lâu ngày sẽ “rút” năng lượng và ảnh hưởng cả giấc ngủ lẫn tiêu hoá.</p>
+  <div class="why"><b>Vì sao:</b> Cơ thể phản ứng với căng thẳng như phản ứng với mối nguy thật. Cho hệ thần kinh vài phút “hạ nhiệt” mỗi ngày giúp bạn <b>lấy lại sự tĩnh tại</b> thay vì tích dồn.</p>
+  <div class="todo"><b>3 việc nhỏ làm ngay</b>
+    <ul>
+      <li>Thở 4–7–8: hít 4 giây, giữ 7 giây, thở ra 8 giây — lặp 4 nhịp.</li>
+      <li>Viết ra 3 điều biết ơn hoặc 1 việc khiến bạn nhẹ lòng trước khi ngủ.</li>
+      <li>Đặt 1 khoảng “không màn hình” 15 phút mỗi ngày để đầu óc nghỉ.</li>
+    </ul>
+  </div>
+  <p style="font-size:9.5pt;color:var(--soft);margin-top:12px">Nếu cảm giác nặng nề kéo dài, hãy trò chuyện với người bạn tin tưởng hoặc chuyên gia — chăm sóc tinh thần là điều nên làm chủ động, không phải khi đã quá sức.</p>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">6</div>
+</section>
+
+<!-- ====== CH.04 — TIÊU HOÁ ====== -->
+<section class="page">
+  <span class="eyebrow">Chương 04 · Tín hiệu Tiêu hoá &amp; bài tiết</span>
+  <h2 class="chap">Gốc của<br>sức sống</h2>
+  <div class="rule"></div>
+  <h3>Dấu hiệu cần lắng nghe</h3>
+  <p>Đầy hơi, ì ạch sau ăn, ăn nhanh nên hay quá no, hoặc đường ruột không đều đặn. Đây là nơi cơ thể hấp thu dưỡng chất — khi nó “nặng nề”, cả năng lượng lẫn tinh thần đều bị kéo theo.</p>
+  <div class="why"><b>Vì sao:</b> Tiêu hoá nhẹ nhàng phụ thuộc vào <b>cách ăn</b> nhiều như <b>món ăn</b>: ăn chậm, nhai kỹ, đủ chất xơ và nước giúp đường ruột làm việc đều đặn, tự nhiên.</p>
+  <div class="todo"><b>3 việc nhỏ làm ngay</b>
+    <ul>
+      <li>Nhai chậm, đặt đũa xuống giữa các miếng; dừng khi no khoảng 80%.</li>
+      <li>Thêm rau xanh &amp; chất xơ vào mỗi bữa; uống nước đều trong ngày.</li>
+      <li>Đi bộ nhẹ 5–10 phút sau bữa chính thay vì nằm/ngồi ngay.</li>
+    </ul>
+  </div>
+  <div class="quote" style="font-size:12pt;margin:16px 0 0">“Ăn chậm là món quà rẻ nhất bạn tặng cho đường ruột.”</div>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">7</div>
+</section>
+
+<!-- ====== CH.05 — HƠI THỞ ====== -->
+<section class="page pad-cream">
+  <span class="eyebrow">Chương 05 · Tín hiệu Hơi thở</span>
+  <h2 class="chap">Sợi dây nối<br>thân và tâm</h2>
+  <div class="rule"></div>
+  <h3>Dấu hiệu cần lắng nghe</h3>
+  <p>Thở nông ở ngực, hay thở gấp khi leo cầu thang hoặc đi nhanh, quen “nín thở” lúc tập trung. Hơi thở là tín hiệu duy nhất bạn vừa cảm nhận được, vừa chủ động điều chỉnh được ngay.</p>
+  <div class="why"><b>Vì sao:</b> Thở sâu bằng bụng đưa nhiều oxy hơn và giúp hệ thần kinh dịu lại. Rèn hơi thở đều đặn cũng là cách nhẹ nhàng để cải thiện <b>sức bền</b> hằng ngày.</p>
+  <div class="todo"><b>3 việc nhỏ làm ngay</b>
+    <ul>
+      <li>Thở bụng: đặt tay lên bụng, hít để bụng phồng, thở để bụng xẹp — 5 nhịp.</li>
+      <li>Cứ mỗi giờ ngồi lâu, đứng dậy hít thở sâu 3 lần bên cửa sổ.</li>
+      <li>Đi bộ nhanh 10 phút mỗi ngày để phổi &amp; tim quen với nhịp khoẻ hơn.</li>
+    </ul>
+  </div>
+  <p style="font-size:9.5pt;color:var(--soft);margin-top:12px">Nếu bạn thường xuyên hụt hơi bất thường ngay cả khi nghỉ, hãy đến cơ sở y tế để được kiểm tra.</p>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">8</div>
+</section>
+
+<!-- ====== CH.06 — LỐI SỐNG ====== -->
+<section class="page">
+  <span class="eyebrow">Chương 06 · Tín hiệu Lối sống</span>
+  <h2 class="chap">Nền móng<br>đỡ tất cả</h2>
+  <div class="rule"></div>
+  <h3>Dấu hiệu cần lắng nghe</h3>
+  <p>Quên uống nước, ngồi liền nhiều giờ, ngày sinh hoạt thất thường. Bốn tín hiệu trên đứng vững hay không đều dựa trên nền móng lối sống này — nó âm thầm nhưng quyết định nhất.</p>
+  <div class="why"><b>Vì sao:</b> Những thói quen nền tảng — <b>nước, vận động, nhịp ngày</b> — lặp lại đủ nhiều sẽ nâng cả 5 tín hiệu cùng lúc. Đây là nơi “lãi kép” của sức khoẻ bắt đầu.</p>
+  <div class="todo"><b>3 việc nhỏ làm ngay</b>
+    <ul>
+      <li>Đặt chai nước trong tầm mắt; uống một ngụm mỗi khi đi ngang.</li>
+      <li>Cứ 60 phút ngồi, đứng dậy vươn vai &amp; đi lại 2–3 phút.</li>
+      <li>Chọn 1 “mỏ neo” cố định mỗi ngày (giờ ăn sáng, giờ đi bộ) để giữ nhịp.</li>
+    </ul>
+  </div>
+  <div class="quote" style="font-size:12pt;margin:16px 0 0">“Việc nhỏ làm đều thắng việc lớn làm một lần.”</div>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">9</div>
+</section>
+
+<!-- ====== CH.07 — 7 NGÀY RESET ====== -->
+<section class="page pad-cream">
+  <span class="eyebrow">Chương 07 · Bắt đầu ngay</span>
+  <h2 class="chap">Lịch 7 ngày reset</h2>
+  <div class="rule"></div>
+  <p class="lead">Mỗi ngày chỉ thêm <b>một</b> việc nhỏ. Không cần hoàn hảo — làm được ngày nào, đánh dấu ngày đó.</p>
+  <table>
+    <tr><th style="width:64px">Ngày</th><th>Việc nhỏ hôm nay</th></tr>
+    <tr><td><span class="day">Ngày 1</span></td><td>Ra nắng sớm 10 phút &amp; cố định giờ dậy.</td></tr>
+    <tr><td><span class="day">Ngày 2</span></td><td>Uống đủ nước — để chai trong tầm mắt cả ngày.</td></tr>
+    <tr><td><span class="day">Ngày 3</span></td><td>Ăn chậm, nhai kỹ; đi bộ nhẹ sau bữa tối.</td></tr>
+    <tr><td><span class="day">Ngày 4</span></td><td>Thở 4–7–8 buổi tối, 4 nhịp trước khi ngủ.</td></tr>
+    <tr><td><span class="day">Ngày 5</span></td><td>Cứ mỗi giờ ngồi lâu, đứng dậy đi lại &amp; thở sâu.</td></tr>
+    <tr><td><span class="day">Ngày 6</span></td><td>Đi bộ nhanh 10 phút; thêm rau xanh vào bữa ăn.</td></tr>
+    <tr><td><span class="day">Ngày 7</span></td><td>15 phút “không màn hình” &amp; viết 3 điều biết ơn.</td></tr>
+  </table>
+  <p style="font-size:9.5pt;color:var(--soft)">Hết 7 ngày, giữ lại 2–3 việc bạn thấy dễ chịu nhất và biến chúng thành thói quen.</p>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">10</div>
+</section>
+
+<!-- ====== BẢNG THEO DÕI ====== -->
+<section class="page">
+  <span class="eyebrow">Công cụ · In ra &amp; dán lên tủ lạnh</span>
+  <h2 class="chap">Bảng theo dõi<br>7 ngày</h2>
+  <div class="rule"></div>
+  <p style="font-size:10pt;color:var(--soft)">Đánh dấu ô mỗi khi bạn hoàn thành. Nhìn cả tuần “xanh” dần lên là động lực lớn nhất.</p>
+  <div class="track">
+    <div class="row head"><div class="lab">Thói quen \ Ngày</div>
+      <div class="cell"><b>T2</b></div><div class="cell"><b>T3</b></div><div class="cell"><b>T4</b></div><div class="cell"><b>T5</b></div><div class="cell"><b>T6</b></div><div class="cell"><b>T7</b></div><div class="cell"><b>CN</b></div></div>
+    <div class="row"><div class="lab">☀️ Nắng sớm &amp; dậy đúng giờ</div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div></div>
+    <div class="row"><div class="lab">💧 Uống đủ nước</div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div></div>
+    <div class="row"><div class="lab">🌿 Ăn chậm, nhai kỹ</div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div></div>
+    <div class="row"><div class="lab">💨 Thở sâu / đi bộ</div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div></div>
+    <div class="row"><div class="lab">🧘 15 phút tĩnh / biết ơn</div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div></div>
+    <div class="row"><div class="lab">😴 Ngủ đúng giờ</div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div><div class="cell"><span class="box"></span></div></div>
+  </div>
+  <p style="font-size:9pt;color:var(--faint);margin-top:8px">Mẹo: để ứng dụng <b>IKI</b> nhắc bạn uống nước, ăn uống &amp; nghỉ ngơi đúng nhịp — đỡ phải nhớ.</p>
+  <div class="foot-brand">HOPE · Lắng nghe cơ thể mình</div>
+  <div class="pgnum">11</div>
+</section>
+
+<!-- ====== TRANG CUỐI — IKI + CỘNG ĐỒNG ====== -->
+<section class="page pad-cream">
+  <span class="eyebrow">Đồng hành mỗi ngày</span>
+  <h2 class="chap">Bạn không cần<br>đi một mình</h2>
+  <div class="rule"></div>
+  <p class="lead" style="margin-bottom:6px">Cẩm nang này là bước khởi đầu. Để giữ nhịp lâu dài, hãy để công nghệ &amp; cộng đồng cùng bạn.</p>
+
+  <div class="cta">
+    <div class="orb-sm"></div>
+    <h3>Ứng dụng IKI</h3>
+    <p>Người bạn dưỡng sinh cá nhân hoá theo cơ địa: nhắc uống nước · ăn uống · nghỉ ngơi đúng nhịp, lắng nghe 5 tín hiệu cơ thể mỗi ngày.</p>
+    <div class="stores">
+      <div class="store"><b>Google Play</b>Android</div>
+      <div class="store"><b>App Store</b>iOS</div>
+    </div>
+  </div>
+
+  <p style="text-align:center;margin:12px 0 3px"><b style="color:var(--forest)">Tham gia cộng đồng HOPE</b></p>
+  <p style="text-align:center;font-size:9.5pt;color:var(--soft);margin-bottom:0">Thêm cẩm nang, thử thách 7 ngày &amp; đồng hành cùng những người đang lắng nghe cơ thể mình như bạn — tìm “HOPE” trên Zalo &amp; Facebook.</p>
+
+  <div class="disc">
+    <b>Miễn trừ trách nhiệm:</b> Nội dung mang tính tham khảo về thói quen &amp; lối sống, <b>không phải chẩn đoán, tư vấn hay điều trị y khoa</b>. Nếu có dấu hiệu bất thường, hãy đến cơ sở y tế. Sản phẩm của HOPE là <b>thực phẩm bổ sung — không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh</b>. © HOPE · ikihealing.com
+  </div>
+  <div class="foot-brand">HOPE · Thân khoẻ · Tâm an · Tuệ sáng</div>
+  <div class="pgnum">12</div>
+</section>
+
+</body>
+</html>
