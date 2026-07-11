@@ -452,6 +452,17 @@
   .app .desc{position:relative;color:#cfe0d3;font-size:15px}
   .app .mini-tag{position:relative;display:inline-flex;align-items:center;gap:7px;color:var(--gold-lite);font-size:12.5px;font-weight:600;letter-spacing:.05em;margin-top:16px}
   .app .mini-tag svg{width:15px;height:15px;flex:0 0 15px}
+  /* Video giới thiệu IKI (khung điện thoại) */
+  .app-video{position:relative;width:100%;max-width:224px;margin:16px auto 6px;border-radius:24px;overflow:hidden;
+    line-height:0;background:#000;border:1px solid rgba(255,255,255,.16);box-shadow:0 18px 44px rgba(0,0,0,.5)}
+  .app-video video{width:100%;height:auto;display:block}
+  .app-play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:62px;height:62px;border:none;
+    border-radius:50%;cursor:pointer;background:rgba(21,58,36,.78);backdrop-filter:blur(4px);display:grid;place-items:center;
+    box-shadow:0 8px 22px rgba(0,0,0,.45);transition:transform .15s ease,opacity .25s ease}
+  .app-play svg{width:26px;height:26px;margin-left:3px}
+  .app-play:hover{transform:translate(-50%,-50%) scale(1.07)}
+  .app-video.playing .app-play{opacity:0;pointer-events:none}
+  .app-cap{position:relative;text-align:center;color:var(--gold-lite);font-size:12px;letter-spacing:.02em;margin:0 0 14px}
   .stores{position:relative;display:flex;gap:11px;margin-top:16px;flex-wrap:wrap}
   .store{flex:1 1 0;min-width:140px;display:flex;align-items:center;gap:11px;text-decoration:none;
     background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.16);border-radius:13px;
@@ -823,6 +834,13 @@
       <div class="soft">Và một người bạn đồng hành mỗi ngày…</div>
       <h3>IKI — ứng dụng chăm sóc sức khỏe cá nhân hoá</h3>
       <p class="desc">Quét món ăn, cân bằng cơ địa và nhận lời khuyên riêng cho bạn — kết hợp <b>700+ năm tri thức Việt</b> với AI. Hoàn toàn miễn phí.</p>
+      <div class="app-video" id="appVideo">
+        <video id="ikiVid" src="https://ikihealing.com/videos/iki-app-demo.mp4" poster="https://ikihealing.com/videos/iki-app-poster.jpg" preload="none" playsinline onplay="this.controls=true;this.closest('.app-video').classList.add('playing')"></video>
+        <button class="app-play" aria-label="Xem video giới thiệu IKI" onclick="this.previousElementSibling.play()">
+          <svg viewBox="0 0 24 24" fill="#fff"><path d="M8 5v14l11-7z"/></svg>
+        </button>
+      </div>
+      <div class="app-cap">▶ Xem IKI hoạt động trong 1 phút</div>
       <div class="stores">
         <a class="store" href="https://play.google.com/store/apps/details?id=com.ikiapp.app" target="_blank" rel="noopener">
           <svg viewBox="0 0 24 24" fill="#f3f2ed"><path d="M4 3.3c0-.7.7-1.1 1.3-.8l14 8.7c.6.4.6 1.2 0 1.6l-14 8.7c-.6.3-1.3-.1-1.3-.8V3.3Z"/></svg>
