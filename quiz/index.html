@@ -1145,7 +1145,8 @@ const Quiz = {
   _pushLead(d){
     if(this.leadDone) return;
     this.leadDone=true;
-    const payload={source:"health-quiz",name:d.name,phone:d.phone,email:d.email,ageRange:this.ageLabel||"",bodyAge:this.bodyAge||null,group:this.groupKey,groupName:GROUPS[this.groupKey].name,score:this.score,dimScore:this.dimScore,answers:this.answers.map(a=>a.t)};
+    const G=GROUPS[this.groupKey]||{};
+    const payload={source:"health-quiz",name:d.name,phone:d.phone,email:d.email,ageRange:this.ageLabel||"",bodyAge:this.bodyAge||null,group:this.groupKey,groupName:G.name||"",score:this.score,zone:zoneOf(this.score).label,dimScore:this.dimScore,todos:G.todo||[],insight:G.insight||"",answers:this.answers.map(a=>a.t)};
     if(LEAD_ENDPOINT){ fetch(LEAD_ENDPOINT,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(payload)}).catch(e=>console.warn("lead post failed",e)); }
     else console.log("LEAD (chưa cấu hình LEAD_ENDPOINT):",payload);
     // đánh dấu form ebook dưới kết quả đã xong
