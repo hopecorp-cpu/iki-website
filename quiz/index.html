@@ -442,6 +442,23 @@
   .gate-list li svg{width:19px;height:19px;stroke:var(--ink);flex:0 0 19px}
   .gate-card form{text-align:left;margin-top:6px}
 
+  /* Cộng đồng — Zalo · Facebook · Telegram */
+  .cm-benes{list-style:none;margin:12px 0 16px}
+  .cm-benes li{display:flex;gap:9px;align-items:flex-start;font-size:14.5px;color:var(--ink-2);padding:5px 0}
+  .cm-benes li svg{width:17px;height:17px;stroke:var(--ink);flex:0 0 17px;margin-top:2px}
+  .groups{display:flex;flex-direction:column;gap:11px}
+  .grp{display:flex;align-items:center;gap:13px;padding:12px 14px;border-radius:14px;text-decoration:none;
+    background:var(--ink);color:#fff;transition:transform .12s ease,filter .2s ease}
+  .grp:hover{filter:brightness(1.14)}
+  .grp:active{transform:scale(.99)}
+  .grp .gi{width:38px;height:38px;flex:0 0 38px;border-radius:10px;display:grid;place-items:center}
+  .grp .gi svg{width:22px;height:22px}
+  .grp .gl{display:flex;flex-direction:column;line-height:1.2}
+  .grp .gl b{font-size:15.5px;font-weight:600}
+  .grp .gl small{font-size:12px;opacity:.66}
+  .grp .ga{width:18px;height:18px;stroke:#fff;opacity:.55;margin-left:auto;flex:0 0 18px}
+  .cm-note{text-align:center;color:var(--ink-3);font-size:12px;margin-top:13px}
+
   /* App IKI — nền xanh rừng thương hiệu */
   .app{background:linear-gradient(160deg,var(--forest),var(--forest-deep));border:none;
     color:#f4efe2;position:relative;overflow:hidden;box-shadow:var(--shadow-lg)}
@@ -818,7 +835,7 @@
         <span><svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> Không hợp có thể dừng</span>
         <span><svg viewBox="0 0 24 24" fill="none" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> Bảo mật thông tin</span>
       </div>
-      <button class="btn ghost" onclick="Quiz.cta('community')">Chỉ muốn vào cộng đồng miễn phí</button>
+      <button class="btn ghost" onclick="document.querySelector('.community').scrollIntoView({behavior:'smooth',block:'start'})">Chỉ muốn vào cộng đồng miễn phí</button>
       <p class="fineprint">* Thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
     </div>
 
@@ -827,6 +844,39 @@
       <div class="t3"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4-3 7-7 9-4-2-7-5-7-9V6l7-3Z"/><path d="M9 12l2 2 4-4"/></svg><span>Chuyên gia dinh dưỡng đồng hành</span></div>
       <div class="t3"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3 3-5 6-5s6 2 6 5M16 6a3 3 0 0 1 0 6M21 20c0-2-1-3-3-4"/></svg><span>Cộng đồng cùng đồng hành mỗi ngày</span></div>
       <div class="t3"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4-3 7-7 9-4-2-7-5-7-9V6l7-3Z"/></svg><span>Thông tin của bạn được bảo mật tuyệt đối</span></div>
+    </div>
+
+    <!-- Cộng đồng: Zalo · Facebook · Telegram -->
+    <div class="card community">
+      <span class="gift"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3 3-5 6-5s6 2 6 5M16 6a3 3 0 0 1 0 6M21 20c0-2-1-3-3-4"/></svg> Cộng đồng HOPE</span>
+      <div class="sec-title" style="margin-bottom:8px">
+        <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 20c0-3 3-5 6-5s6 2 6 5M16 6a3 3 0 0 1 0 6M21 20c0-2-1-3-3-4"/></svg></span>
+        <h3>Vào nhóm để giữ nhịp mỗi ngày</h3>
+      </div>
+      <p class="prose">Tham gia cộng đồng để nhận <b>tài nguyên độc quyền</b>, được nhắc việc &amp; đồng hành mỗi ngày cùng người cùng mục tiêu.</p>
+      <ul class="cm-benes">
+        <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> <span>Mẹo &amp; tài nguyên sống khỏe độc quyền</span></li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> <span>Được nhắc việc &amp; đồng hành mỗi ngày</span></li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> <span><b>Ưu tiên</b> nhận ưu đãi &amp; suất chương trình</span></li>
+      </ul>
+      <div class="groups">
+        <a class="grp" id="grpZalo" href="#" target="_blank" rel="noopener">
+          <span class="gi" style="background:#0068FF"><svg viewBox="0 0 24 24" fill="#fff"><path d="M12 3C6.9 3 3 6.4 3 10.6c0 2.3 1.2 4.4 3.1 5.7-.1.9-.5 2-1 2.7-.2.3.1.6.4.5 1.5-.4 2.7-1 3.5-1.5 1 .3 1.9.4 3 .4 5.1 0 9-3.4 9-7.6S17.1 3 12 3Z"/></svg></span>
+          <span class="gl"><b>Nhóm Zalo</b><small>Trao đổi nhanh, gần gũi</small></span>
+          <svg class="ga" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg>
+        </a>
+        <a class="grp" id="grpFb" href="#" target="_blank" rel="noopener">
+          <span class="gi" style="background:#1877F2"><svg viewBox="0 0 24 24" fill="#fff"><path d="M15 8h-2c-.6 0-1 .4-1 1v2h3l-.5 3H12v7H9v-7H7v-3h2V8.5C9 6 10.6 5 12.8 5H15v3Z"/></svg></span>
+          <span class="gl"><b>Nhóm Facebook</b><small>Chia sẻ &amp; hỏi đáp cộng đồng</small></span>
+          <svg class="ga" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg>
+        </a>
+        <a class="grp" id="grpTg" href="#" target="_blank" rel="noopener">
+          <span class="gi" style="background:#229ED9"><svg viewBox="0 0 24 24" fill="#fff"><path d="M21.5 4.3 2.9 11.5c-.9.4-.9 1.6.1 1.9l4.6 1.4 1.8 5.5c.2.6 1 .8 1.4.3l2.5-2.5 4.7 3.5c.5.4 1.3.1 1.4-.5l3-14.5c.2-.8-.6-1.5-1.4-1.2ZM9.7 14.2l8.4-5.2c.2-.1.4.2.2.3l-6.9 6.4c-.2.2-.3.5-.3.8l-.2 2.1-1.2-4.4Z"/></svg></span>
+          <span class="gl"><b>Nhóm Telegram</b><small>Thông báo &amp; tài nguyên</small></span>
+          <svg class="ga" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 6l6 6-6 6"/></svg>
+        </a>
+      </div>
+      <p class="cm-note">Chọn nền tảng bạn hay dùng — nhóm nào cũng cùng một cộng đồng HOPE.</p>
     </div>
 
     <!-- App IKI -->
@@ -893,6 +943,12 @@ const SLOTS_LEFT     = 15;                     // số suất còn lại THẬT;
 // Giá trị ebook — CHỈ dùng con số THẬT bán được (giá bịa cho đồ free dễ phản tác dụng + rủi ro). null = ẩn.
 const EBOOK_VALUE    = null;                   // điền giá THẬT (vd "199.000đ") khi có; null = chỉ hiện "Miễn phí"
 const GATE_RESULT    = true;                   // true = bắt nhập thông tin TRƯỚC khi xem kết quả (tăng lead mạnh); false = xem tự do
+// Nhóm cộng đồng — điền link THẬT (để trống "" thì ẩn nút đó)
+const COMMUNITY = {
+  zalo:     "https://zalo.me/g/xxxxxx",              // link nhóm Zalo
+  facebook: "https://www.facebook.com/groups/xxxxxx", // link nhóm Facebook
+  telegram: "https://t.me/xxxxxx"                    // link nhóm Telegram
+};
 const LINKS = {
   program:"https://zalo.me/",             // link tư vấn hành trình 21 ngày
   community:"https://zalo.me/",            // link nhóm cộng đồng
@@ -1277,6 +1333,12 @@ if(EBOOK_VALUE){
   const ev=document.getElementById("ebookValue");
   if(ev){ ev.innerHTML="Giá trị <s>"+EBOOK_VALUE+"</s> <b>Miễn phí hôm nay</b>"; ev.style.display="inline-flex"; }
 }
+// Link nhóm cộng đồng: đặt href, ẩn nút chưa có link
+[["grpZalo","zalo"],["grpFb","facebook"],["grpTg","telegram"]].forEach(function(p){
+  const el=document.getElementById(p[0]), url=(COMMUNITY||{})[p[1]];
+  if(!el) return;
+  if(url){ el.href=url; } else { el.style.display="none"; }
+});
 function animateNum(id,target,dur){
   const el=document.getElementById(id); let t0=null, done=false;
   if(matchMedia("(prefers-reduced-motion:reduce)").matches){ el.textContent=target; return; }
