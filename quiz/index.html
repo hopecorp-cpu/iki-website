@@ -1243,7 +1243,7 @@ const Quiz = {
     if(this.leadDone) return;
     this.leadDone=true;
     const G=GROUPS[this.groupKey]||{};
-    const payload={source:"health-quiz",name:d.name,phone:d.phone,email:d.email,ageRange:this.ageLabel||"",bodyAge:this.bodyAge||null,group:this.groupKey,groupName:G.name||"",score:this.score,zone:zoneOf(this.score).label,dimScore:this.dimScore,todos:G.todo||[],insight:G.insight||"",answers:this.answers.map(a=>a.t)};
+    const payload={source:"health-quiz",name:d.name,phone:d.phone,email:d.email,ageRange:this.ageLabel||"",bodyAge:this.bodyAge||null,group:this.groupKey,groupName:G.name||"",score:this.score,zone:zoneOf(this.score).label,dimScore:this.dimScore,todos:G.todo||[],insight:G.insight||"",answers:this.answers.map(a=>a.t),province:(USER_GEO.region||""),city:(USER_GEO.city||""),country:(USER_GEO.country||"")};
     if(LEAD_ENDPOINT){ fetch(LEAD_ENDPOINT,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(payload)}).catch(e=>console.warn("lead post failed",e)); }
     else console.log("LEAD (chưa cấu hình LEAD_ENDPOINT):",payload);
     // đánh dấu form ebook dưới kết quả đã xong
@@ -1322,6 +1322,17 @@ function startCountdown(){
 function show(id){ document.querySelectorAll(".screen").forEach(s=>s.classList.remove("active")); document.getElementById(id).classList.add("active"); }
 function toTop(){ window.scrollTo({top:0,behavior:"smooth"}); }
 window.Quiz = Quiz;
+
+// Vị trí (im lặng, để thống kê vùng miền — KHÔNG hỏi khách). Lỗi thì bỏ qua.
+var USER_GEO = {};
+(function(){
+  try{
+    fetch("https://ipwho.is/?fields=success,country,region,city")
+      .then(function(r){ return r.json(); })
+      .then(function(d){ if(d && d.success!==false){ USER_GEO={country:d.country||"",region:d.region||"",city:d.city||""}; } })
+      .catch(function(){});
+  }catch(e){}
+})();
 
 // Social proof: chỉ hiện số khi có số THẬT
 if(SOCIAL_PROOF_COUNT && SOCIAL_PROOF_COUNT>0){
