@@ -430,6 +430,18 @@
   .eb-benes li{display:flex;gap:8px;align-items:flex-start;font-size:13.5px;color:var(--ink-2);padding:3px 0}
   .eb-benes li svg{width:15px;height:15px;stroke:var(--ink);flex:0 0 15px;margin-top:2px}
 
+  /* Cổng mở khoá kết quả */
+  .gate-card{text-align:center}
+  .gate-check{width:58px;height:58px;border-radius:50%;background:var(--ink);margin:0 auto 4px;display:grid;place-items:center;animation:orb .5s cubic-bezier(.22,1,.36,1)}
+  .gate-check svg{width:30px;height:30px;stroke:#fff;stroke-width:2.6}
+  .gate-card .gift{margin-left:auto;margin-right:auto}
+  .gate-h{font-family:var(--serif);font-weight:600;font-size:24px;line-height:1.28;margin-bottom:8px}
+  .gate-sub{color:var(--ink-2);font-size:15.5px;max-width:36ch;margin:0 auto 4px}
+  .gate-list{list-style:none;max-width:300px;margin:16px auto 6px;text-align:left}
+  .gate-list li{display:flex;gap:11px;align-items:center;padding:8px 0;font-size:15px;color:var(--ink)}
+  .gate-list li svg{width:19px;height:19px;stroke:var(--ink);flex:0 0 19px}
+  .gate-card form{text-align:left;margin-top:6px}
+
   /* App IKI — nền xanh rừng thương hiệu */
   .app{background:linear-gradient(160deg,var(--forest),var(--forest-deep));border:none;
     color:#f4efe2;position:relative;overflow:hidden;box-shadow:var(--shadow-lg)}
@@ -582,6 +594,50 @@
     </div>
   </section>
 
+  <!-- ============ CỔNG NHẬP LIỆU (mở khoá kết quả) ============ -->
+  <section id="s-gate" class="screen">
+    <div class="card gate-card">
+      <div class="gate-check"><svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></div>
+      <span class="gift" style="margin:2px 0 12px"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg> Phân tích của bạn đã sẵn sàng</span>
+      <h3 class="gate-h">Còn một bước để mở khoá kết quả</h3>
+      <p class="gate-sub">Nhập thông tin để xem <b>toàn bộ phân tích cá nhân hoá</b> — và nhận kèm ebook + lộ trình riêng qua Zalo &amp; email.</p>
+      <ul class="gate-list">
+        <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 8v4l3 2"/><circle cx="12" cy="12" r="9"/></svg> <b>Tuổi cơ thể</b> ước tính của bạn</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a10 10 0 1 0 10 10h-10Z"/></svg> <b>Mức rủi ro</b> &amp; vùng cần chú ý</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 3v3M12 18v3M3 12h3M18 12h3"/></svg> <b>Bản đồ cân bằng</b> 4 khía cạnh</li>
+        <li><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11l3 3L22 4M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg> <b>Lộ trình</b> nên làm ngay</li>
+      </ul>
+      <form id="gateForm" onsubmit="return Quiz.submitGate(event)" novalidate>
+        <div class="field">
+          <label for="gName">Tên của bạn <i>*</i></label>
+          <div class="in"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg>
+            <input id="gName" type="text" placeholder="Ví dụ: Chị Lan" autocomplete="name" required/></div>
+          <div class="err" id="gErrName"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Vui lòng nhập tên của bạn.</div>
+        </div>
+        <div class="field">
+          <label for="gPhone">Số điện thoại / Zalo <i>*</i></label>
+          <div class="in"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l2 5-3 2a12 12 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2Z"/></svg>
+            <input id="gPhone" type="tel" inputmode="numeric" autocomplete="tel" placeholder="Ví dụ: 0901 234 567" required/></div>
+          <div class="err" id="gErrPhone"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Số điện thoại chưa hợp lệ (tối thiểu 9 số).</div>
+        </div>
+        <div class="field">
+          <label for="gEmail">Email <i>*</i></label>
+          <div class="in"><svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>
+            <input id="gEmail" type="email" inputmode="email" autocomplete="email" placeholder="Ví dụ: chiLan@email.com" required/></div>
+          <div class="err" id="gErrEmail"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Email chưa hợp lệ.</div>
+        </div>
+        <button class="btn" type="submit" style="margin-top:18px">
+          Mở khoá kết quả của tôi
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 11V8a5 5 0 0 1 10 0M5 11h14v10H5z" transform="translate(0 -1)"/></svg>
+        </button>
+        <div class="privacy">
+          <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4-3 7-7 9-4-2-7-5-7-9V6l7-3Z"/><path d="M9 12l2 2 4-4"/></svg>
+          Thông tin của bạn được bảo mật, chỉ dùng để gửi kết quả và đồng hành cùng bạn. Không chia sẻ cho bên thứ ba.
+        </div>
+      </form>
+    </div>
+  </section>
+
   <!-- ============ RESULT ============ -->
   <section id="s-result" class="screen">
     <!-- Tuổi cơ thể (đòn sốc) -->
@@ -679,7 +735,7 @@
             <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4 4-6 8-6s8 2 8 6"/></svg>
             <input id="lName" type="text" placeholder="Ví dụ: Chị Lan" autocomplete="name" required/>
           </div>
-          <div class="err" id="errName"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Vui lòng nhập tên của bạn.</div>
+          <div class="err" id="lErrName"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Vui lòng nhập tên của bạn.</div>
         </div>
         <div class="field">
           <label for="lPhone">Số điện thoại / Zalo <i>*</i></label>
@@ -687,7 +743,7 @@
             <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l2 5-3 2a12 12 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2Z"/></svg>
             <input id="lPhone" type="tel" inputmode="numeric" autocomplete="tel" placeholder="Ví dụ: 0901 234 567" required/>
           </div>
-          <div class="err" id="errPhone"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Số điện thoại chưa hợp lệ (tối thiểu 9 số).</div>
+          <div class="err" id="lErrPhone"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Số điện thoại chưa hợp lệ (tối thiểu 9 số).</div>
         </div>
         <div class="field">
           <label for="lEmail">Email <i>*</i></label>
@@ -695,7 +751,7 @@
             <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>
             <input id="lEmail" type="email" inputmode="email" autocomplete="email" placeholder="Ví dụ: chiLan@email.com" required/>
           </div>
-          <div class="err" id="errEmail"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Email chưa hợp lệ.</div>
+          <div class="err" id="lErrEmail"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 8v4M12 16h.01"/></svg> Email chưa hợp lệ.</div>
         </div>
         <button class="btn gold" type="submit" style="margin-top:18px">
           <svg viewBox="0 0 24 24" fill="none" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 12v8a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1v-8M2 7h20v5H2zM12 21V7"/></svg>
@@ -818,6 +874,7 @@ const OFFER_DEADLINE = "2026-07-31T23:59:59"; // hạn ưu đãi thật; null = 
 const SLOTS_LEFT     = 15;                     // số suất còn lại THẬT; null = ẩn
 // Giá trị ebook — CHỈ dùng con số THẬT bán được (giá bịa cho đồ free dễ phản tác dụng + rủi ro). null = ẩn.
 const EBOOK_VALUE    = null;                   // điền giá THẬT (vd "199.000đ") khi có; null = chỉ hiện "Miễn phí"
+const GATE_RESULT    = true;                   // true = bắt nhập thông tin TRƯỚC khi xem kết quả (tăng lead mạnh); false = xem tự do
 const LINKS = {
   program:"https://zalo.me/",             // link tư vấn hành trình 21 ngày
   community:"https://zalo.me/",            // link nhóm cộng đồng
@@ -925,7 +982,7 @@ function gaugeArc(cx,cy,r,aHi,aLo){
 }
 
 const Quiz = {
-  i:0, answers:[], score:0, groupKey:"green", dimScore:{}, realAge:null, ageLabel:"", bodyAge:null,
+  i:0, answers:[], score:0, groupKey:"green", dimScore:{}, realAge:null, ageLabel:"", bodyAge:null, leadDone:false,
   begin(){ show("s-age"); toTop(); },
   setAge(mid,label){ this.realAge=mid; this.ageLabel=label; this.start(); },
   start(){ this.i=0; this.answers=[]; show("s-quiz"); this.render(); toTop(); },
@@ -1068,33 +1125,53 @@ const Quiz = {
       sb.textContent="Chỉ còn "+SLOTS_LEFT+" suất"; sb.style.display="inline-block";
     }
     startCountdown();
+    if(GATE_RESULT && !this.leadDone){ show("s-gate"); } else { show("s-result"); }
+    toTop();
+  },
+  _validate(pfx){
+    const g=id=>document.getElementById(id);
+    const name=g(pfx+"Name").value.trim();
+    const phone=g(pfx+"Phone").value.replace(/[^0-9]/g,"");
+    const email=g(pfx+"Email").value.trim();
+    const okN=name.length>=1, okP=phone.length>=9, okE=/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
+    g(pfx+"ErrName").style.display=okN?"none":"flex";
+    g(pfx+"ErrPhone").style.display=okP?"none":"flex";
+    g(pfx+"ErrEmail").style.display=okE?"none":"flex";
+    if(!okN){ g(pfx+"Name").focus(); return null; }
+    if(!okP){ g(pfx+"Phone").focus(); return null; }
+    if(!okE){ g(pfx+"Email").focus(); return null; }
+    return {name,phone,email};
+  },
+  _pushLead(d){
+    if(this.leadDone) return;
+    this.leadDone=true;
+    const payload={source:"health-quiz",name:d.name,phone:d.phone,email:d.email,ageRange:this.ageLabel||"",bodyAge:this.bodyAge||null,group:this.groupKey,groupName:GROUPS[this.groupKey].name,score:this.score,dimScore:this.dimScore,answers:this.answers.map(a=>a.t)};
+    if(LEAD_ENDPOINT){ fetch(LEAD_ENDPOINT,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(payload)}).catch(e=>console.warn("lead post failed",e)); }
+    else console.log("LEAD (chưa cấu hình LEAD_ENDPOINT):",payload);
+    // đánh dấu form ebook dưới kết quả đã xong
+    const lf=document.getElementById("leadForm"); if(lf) lf.style.display="none";
+    const lt=document.getElementById("leadThanks"); if(lt) lt.classList.add("show");
+  },
+  submitGate(e){
+    e.preventDefault();
+    const d=this._validate("g"); if(!d) return false;
+    this._pushLead(d);
     show("s-result"); toTop();
+    return false;
   },
   submitLead(e){
     e.preventDefault();
-    const name=document.getElementById("lName").value.trim();
-    const phone=document.getElementById("lPhone").value.replace(/[^0-9]/g,"");
-    const email=document.getElementById("lEmail").value.trim();
-    const eN=document.getElementById("errName"), eP=document.getElementById("errPhone"), eE=document.getElementById("errEmail");
-    const okName=name.length>=1, okPhone=phone.length>=9, okEmail=/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email);
-    eN.style.display=okName?"none":"flex";
-    eP.style.display=okPhone?"none":"flex";
-    eE.style.display=okEmail?"none":"flex";
-    if(!okName){ document.getElementById("lName").focus(); return false; }
-    if(!okPhone){ document.getElementById("lPhone").focus(); return false; }
-    if(!okEmail){ document.getElementById("lEmail").focus(); return false; }
-    const payload={source:"health-quiz",name,phone,email,ageRange:this.ageLabel||"",bodyAge:this.bodyAge||null,group:this.groupKey,groupName:GROUPS[this.groupKey].name,score:this.score,dimScore:this.dimScore,answers:this.answers.map(a=>a.t)};
-    if(LEAD_ENDPOINT){ fetch(LEAD_ENDPOINT,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(payload)}).catch(e=>console.warn("lead post failed",e)); }
-    else console.log("LEAD (chưa cấu hình LEAD_ENDPOINT):",payload);
-    document.getElementById("leadForm").style.display="none";
-    document.getElementById("leadThanks").classList.add("show");
+    const d=this._validate("l"); if(!d) return false;
+    this._pushLead(d);
     return false;
   },
   cta(kind){ const url=LINKS[kind]||"#"; console.log("CTA",kind,url,"| nhóm",this.groupKey,"| điểm",this.score); if(url&&url!=="#") window.open(url,"_blank"); },
   restart(){
+    this.leadDone=false;
     document.getElementById("leadForm").style.display="block";
     document.getElementById("leadThanks").classList.remove("show");
-    ["errName","errPhone","errEmail"].forEach(id=>{const e=document.getElementById(id);if(e)e.style.display="none";});
+    ["lErrName","lErrPhone","lErrEmail","gErrName","gErrPhone","gErrEmail"].forEach(id=>{const e=document.getElementById(id);if(e)e.style.display="none";});
+    ["gName","gPhone","gEmail"].forEach(id=>{const e=document.getElementById(id);if(e)e.value="";});
     const r=document.documentElement.style;
     r.setProperty("--accent","#17171b"); r.setProperty("--accent-2","#3a3a3f"); r.setProperty("--accent-tint","#f0f0ee");
     show("s-intro"); toTop();
