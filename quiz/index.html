@@ -529,7 +529,7 @@
       <div class="trust-row">
         <span class="chip"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> Không bán hàng</span>
         <span class="chip"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> Miễn phí</span>
-        <span class="chip"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> 8 câu ngắn</span>
+        <span class="chip"><svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg> 10 câu ngắn</span>
       </div>
       <div class="avatars">
         <span class="stack"><span></span><span></span><span></span><span></span></span>
@@ -882,34 +882,50 @@ const LINKS = {
   ios:"https://apps.apple.com/vn/app/iki-qu%C3%A9t-m%C3%B3n-%C4%83n-c%C3%A2n-b%E1%BA%B1ng/id6767866520"
 };
 
-const ORDINAL = ["thứ nhất","thứ hai","thứ ba","thứ tư","thứ năm","thứ sáu","thứ bảy","thứ tám"];
+const ORDINAL = ["thứ nhất","thứ hai","thứ ba","thứ tư","thứ năm","thứ sáu","thứ bảy","thứ tám","thứ chín","thứ mười"];
 
-/* mỗi đáp án: s=điểm khỏe (0..3), dim=trục cần quan tâm */
+/* mỗi đáp án: t=nội dung, s=điểm khỏe (0..3). Trục do AXES quyết định theo index câu. */
 const QUESTIONS = [
-  { q:"Theo bạn, điều gì quyết định sức khỏe nhiều nhất?",
-    opts:[{t:"Ăn uống",s:2,dim:"digestion"},{t:"Giấc ngủ",s:2,dim:"energy"},{t:"Tiêu hoá",s:2,dim:"digestion"},{t:"Tinh thần",s:2,dim:"stress"},{t:"Mình chưa chắc",s:1,dim:"lifestyle"}],
-    aha:"Thực tế, không yếu tố nào đứng một mình — ăn uống, giấc ngủ, tiêu hoá và tinh thần liên kết chặt với nhau. Khi một mắt xích yếu đi, cả cơ thể sẽ cảm nhận được." },
-  { q:"Sau bữa ăn, cơ thể bạn thường phản ứng thế nào?",
-    opts:[{t:"Nhẹ nhàng, dễ chịu",s:3,dim:"digestion"},{t:"Hơi đầy bụng",s:1,dim:"digestion"},{t:"Buồn ngủ, uể oải",s:1,dim:"energy"},{t:"Khó tiêu",s:0,dim:"digestion"},{t:"Mình ít để ý",s:1,dim:"lifestyle"}],
-    aha:"Khi hệ tiêu hoá hoạt động nhịp nhàng, cơ thể hấp thu dưỡng chất tốt hơn và bạn thấy nhẹ nhõm sau ăn. Cảm giác nặng bụng hay buồn ngủ thường xuyên là tín hiệu để bạn xem lại bữa ăn." },
+  /* 0 — NĂNG LƯỢNG (buổi sáng) */
   { q:"Buổi sáng vừa thức dậy, bạn thường cảm thấy…",
-    opts:[{t:"Tràn đầy năng lượng",s:3,dim:"energy"},{t:"Mất ~30 phút mới tỉnh",s:2,dim:"energy"},{t:"Phải có cà phê mới tỉnh",s:1,dim:"energy"},{t:"Gần như luôn thấy mệt",s:0,dim:"energy"}],
-    aha:"Năng lượng buổi sáng phản ánh chất lượng giấc ngủ đêm qua và cả dinh dưỡng ban ngày. Nếu ngủ đủ mà vẫn mệt kéo dài, đó là lúc nên lắng nghe cơ thể kỹ hơn." },
-  { q:"Mức độ căng thẳng trong một ngày của bạn?",
-    opts:[{t:"Khá cân bằng, thoải mái",s:3,dim:"stress"},{t:"Thỉnh thoảng căng",s:2,dim:"stress"},{t:"Thường xuyên căng thẳng",s:1,dim:"stress"},{t:"Gần như liên tục quá tải",s:0,dim:"stress"}],
-    aha:"Căng thẳng kéo dài không chỉ ở trong đầu — nó ảnh hưởng tới giấc ngủ, tiêu hoá và cả cảm giác thèm ăn. Dành vài phút thở sâu mỗi ngày là một khởi đầu tốt." },
-  { q:"Giấc ngủ ban đêm của bạn thế nào?",
-    opts:[{t:"Ngủ sâu, đủ giấc",s:3,dim:"energy"},{t:"Khó vào giấc",s:1,dim:"stress"},{t:"Hay tỉnh giữa đêm",s:1,dim:"energy"},{t:"Ngủ dậy vẫn thấy mệt",s:0,dim:"energy"}],
-    aha:"Giấc ngủ là lúc cơ thể tự phục hồi. Ngủ đủ giờ nhưng vẫn mệt có thể liên quan đến chất lượng giấc ngủ, thói quen trước khi ngủ hoặc mức độ căng thẳng ban ngày." },
+    opts:[{t:"Tỉnh táo, tràn đầy năng lượng",s:3},{t:"Mất một lúc mới tỉnh",s:2},{t:"Phải có cà phê mới tỉnh nổi",s:1},{t:"Gần như luôn thấy mệt, nặng người",s:0}],
+    aha:"Năng lượng buổi sáng phản ánh cách cơ thể phục hồi qua đêm. Nếu ngủ đủ mà vẫn uể oải, đó là tín hiệu để lắng nghe cơ thể kỹ hơn — chứ không phải 'do tuổi'." },
+  /* 1 — TIÊU HOÁ (sau ăn / khó tiêu) */
+  { q:"Sau bữa ăn, bụng bạn thường thế nào?",
+    opts:[{t:"Nhẹ nhàng, dễ chịu",s:3},{t:"Hơi ậm ạch một chút",s:2},{t:"Đầy hơi, chướng bụng",s:1},{t:"Khó tiêu, nặng bụng khá lâu",s:0}],
+    aha:"Cảm giác sau ăn cho biết hệ tiêu hoá đang làm việc nhẹ nhàng hay đang 'quá tải'. Đầy hơi, khó tiêu thường xuyên là lời nhắc xem lại cách ăn và chất lượng bữa ăn." },
+  /* 2 — TINH THẦN (căng thẳng/tập trung) */
+  { q:"Trong ngày, đầu óc bạn thường ở trạng thái nào?",
+    opts:[{t:"Thoải mái, tập trung tốt",s:3},{t:"Thỉnh thoảng căng, hơi xao nhãng",s:2},{t:"Hay căng thẳng, khó thư giãn",s:1},{t:"Gần như lúc nào cũng căng, dễ cáu",s:0}],
+    aha:"Căng thẳng kéo dài không chỉ ở trong đầu — nó ảnh hưởng thật đến giấc ngủ, tiêu hoá và cả hơi thở. Vài phút thư giãn mỗi ngày là khởi đầu đơn giản mà hiệu quả." },
+  /* 3 — HƠI THỞ (khi gắng sức) */
+  { q:"Khi leo cầu thang, đi nhanh hoặc lúc xúc động, hơi thở của bạn?",
+    opts:[{t:"Vẫn đều, thoải mái",s:3},{t:"Hơi nhanh nhưng vẫn ổn",s:2},{t:"Dễ hụt hơi, phải thở gấp",s:1},{t:"Thường thở nông, mau mệt",s:0}],
+    aha:"Hơi thở phản ánh thể lực và mức thư giãn của cơ thể. Hụt hơi, thở nông thường đi cùng ít vận động và căng thẳng tích tụ — tập hít thở sâu là cách 'sạc lại' rất đơn giản." },
+  /* 4 — LỐI SỐNG (nước) */
   { q:"Một ngày bạn thường uống bao nhiêu nước?",
-    opts:[{t:"Đủ khoảng 2 lít",s:3,dim:"lifestyle"},{t:"Khoảng 1 lít",s:2,dim:"lifestyle"},{t:"Ít, chỉ uống khi khát",s:1,dim:"lifestyle"},{t:"Chủ yếu trà, cà phê, nước ngọt",s:0,dim:"lifestyle"}],
-    aha:"Nước tham gia vào hầu hết hoạt động của cơ thể — từ tiêu hoá đến sự tỉnh táo. Đôi khi cảm giác mệt hay đói lại chỉ là cơ thể đang… khát." },
-  { q:"Mức độ vận động của bạn mỗi tuần?",
-    opts:[{t:"Đều đặn 3–5 buổi",s:3,dim:"lifestyle"},{t:"1–2 buổi",s:2,dim:"lifestyle"},{t:"Hầu như không",s:0,dim:"lifestyle"},{t:"Ngồi nhiều, ít đi lại",s:0,dim:"lifestyle"}],
-    aha:"Vận động không cần cường độ cao — chỉ cần đều đặn. Vài phút đi bộ mỗi ngày đã giúp tuần hoàn, tiêu hoá và tinh thần tốt lên rõ rệt." },
-  { q:"Rau xanh và chất xơ trong bữa ăn hằng ngày của bạn?",
-    opts:[{t:"Luôn có, đa dạng",s:3,dim:"digestion"},{t:"Có nhưng khá ít",s:2,dim:"digestion"},{t:"Thỉnh thoảng",s:1,dim:"digestion"},{t:"Hiếm khi",s:0,dim:"digestion"}],
-    aha:"Chất xơ là 'thức ăn' cho hệ vi sinh đường ruột — nền tảng của tiêu hoá khỏe. Thêm một chút rau xanh vào mỗi bữa là món quà nhỏ cho cơ thể mỗi ngày." }
+    opts:[{t:"Đủ, khoảng 2 lít",s:3},{t:"Khoảng 1 lít",s:2},{t:"Ít, chỉ uống khi khát",s:1},{t:"Chủ yếu là trà, cà phê, nước ngọt",s:0}],
+    aha:"Nước tham gia gần như mọi hoạt động của cơ thể — từ tiêu hoá đến sự tỉnh táo. Đôi khi cảm giác mệt hay đói lại chỉ là cơ thể đang… khát." },
+  /* 5 — NĂNG LƯỢNG (giấc ngủ) */
+  { q:"Giấc ngủ ban đêm của bạn thế nào?",
+    opts:[{t:"Ngủ sâu, đủ giấc, dậy khoẻ",s:3},{t:"Ngủ được nhưng chưa thật sâu",s:2},{t:"Khó vào giấc hoặc hay tỉnh giữa đêm",s:1},{t:"Ngủ dậy vẫn mệt, uể oải",s:0}],
+    aha:"Giấc ngủ là lúc cơ thể tự sửa chữa. Ngủ đủ giờ mà vẫn mệt có thể do chất lượng giấc ngủ, thói quen trước khi ngủ hoặc căng thẳng ban ngày — chứ không hẳn do thiếu ngủ." },
+  /* 6 — TIÊU HOÁ (bài tiết / đi vệ sinh) */
+  { q:"Nhịp đi vệ sinh (đại tiện) của bạn có đều không?",
+    opts:[{t:"Đều đặn mỗi ngày, dễ chịu",s:3},{t:"Khá đều",s:2},{t:"Thất thường, lúc có lúc không",s:1},{t:"Hay bị 'tắc', vài ngày mới đi một lần",s:0}],
+    aha:"Nhịp bài tiết đều đặn là dấu hiệu cho thấy đường ruột đang khoẻ. Chất xơ, đủ nước và vận động giúp mọi thứ 'trôi chảy' hơn — một chỉ dấu thầm lặng nhưng rất quan trọng." },
+  /* 7 — TINH THẦN (tâm trạng) */
+  { q:"Gần đây, tâm trạng của bạn nhìn chung ra sao?",
+    opts:[{t:"Ổn định, vui vẻ",s:3},{t:"Bình thường, đôi lúc hơi trùng",s:2},{t:"Hay lo nghĩ, dễ mệt tinh thần",s:1},{t:"Thường uể oải, mất hứng thú",s:0}],
+    aha:"Tinh thần và thể chất là hai mặt của một cơ thể. Khi tâm trí nhẹ nhõm, giấc ngủ và tiêu hoá cũng tốt lên theo — và ngược lại. Chăm cả hai luôn hiệu quả hơn." },
+  /* 8 — HƠI THỞ (thói quen thở/khí trời) */
+  { q:"Bạn có thường chủ động hít thở sâu, thư giãn hay ra ngoài hít khí trời không?",
+    opts:[{t:"Có, gần như mỗi ngày",s:3},{t:"Thỉnh thoảng",s:2},{t:"Hiếm khi",s:1},{t:"Gần như không bao giờ",s:0}],
+    aha:"Chỉ vài phút hít thở sâu mỗi ngày giúp hạ căng thẳng, cải thiện giấc ngủ và tăng sự tỉnh táo. Một thói quen rất nhỏ nhưng phần thưởng lại lớn bất ngờ." },
+  /* 9 — LỐI SỐNG (vận động) */
+  { q:"Mức vận động của bạn mỗi tuần?",
+    opts:[{t:"Đều đặn 3–5 buổi",s:3},{t:"1–2 buổi",s:2},{t:"Thỉnh thoảng đi bộ",s:1},{t:"Ngồi nhiều, hầu như ít vận động",s:0}],
+    aha:"Vận động không cần cường độ cao — chỉ cần đều. Vài phút đi bộ mỗi ngày đã giúp tuần hoàn, tiêu hoá, hơi thở và tinh thần tốt lên rõ rệt." }
 ];
 
 /* icon nhóm (SVG line) */
@@ -918,45 +934,52 @@ const ICONS = {
   energy:'<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M13 2 4 14h7l-1 8 9-12h-7l1-8Z"/></svg>',
   stress:'<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12c3 0 3-3 6-3s3 3 6 3 3-3 6-3M3 18c3 0 3-3 6-3s3 3 6 3 3-3 6-3M3 6c3 0 3-3 6-3s3 3 6 3 3-3 6-3"/></svg>',
   digestion:'<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M8 3v4a4 4 0 0 0 8 0V3M12 11c-3 0-5 2-5 5a5 5 0 0 0 10 0c0-3-2-5-5-5Z"/></svg>',
+  breathing:'<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M3 8h11a3 3 0 1 0-3-3M3 16h15a3 3 0 1 1-3 3M3 12h9"/></svg>',
   lifestyle:'<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-4.5-9.5-9A5.5 5.5 0 0 1 12 6a5.5 5.5 0 0 1 9.5 6C19 16.5 12 21 12 21Z"/></svg>'
 };
 
 const GROUPS = {
-  green:{ icon:"green", c:"#2e7d5b", c2:"#3f9b73", tint:"#e6f2ec",
+  green:{ icon:"green",
     name:"Người chăm sóc sức khỏe rất tốt",
     desc:"Bạn đã có một nền tảng thói quen tuyệt vời. Việc cần làm là duy trì và tinh chỉnh để giữ phong độ này lâu dài.",
     insight:"Nhiều người nghĩ khỏe là chuyện may mắn — nhưng kết quả của bạn cho thấy đó là thành quả của những thói quen nhỏ đều đặn. Điều quan trọng bây giờ là giữ nhịp và không chủ quan.",
     todo:["Duy trì lịch ăn – ngủ – vận động ổn định","Lắng nghe cơ thể để điều chỉnh sớm","Bổ sung vi chất cân bằng để giữ phong độ"] },
-  energy:{ icon:"energy", c:"#c08a2e", c2:"#d9a53f", tint:"#f7eed6",
+  energy:{ icon:"energy",
     name:"Người đang thiếu năng lượng",
     desc:"Cơ thể bạn đang gợi ý rằng nó cần được nạp lại năng lượng và phục hồi tốt hơn mỗi ngày.",
     insight:"Nhiều người nghĩ 'cứ ngủ nhiều là hết mệt'. Thực tế, cảm giác thiếu năng lượng kéo dài chịu ảnh hưởng từ nhiều yếu tố: chất lượng giấc ngủ, dinh dưỡng, vận động và cả tinh thần. Hiểu đúng nguyên nhân sẽ giúp bạn chọn cách cải thiện phù hợp.",
     todo:["Ăn đủ đạm trong bữa sáng để có năng lượng bền","Ngủ trước 23h để cơ thể kịp phục hồi","Uống đủ nước ngay khi thức dậy"] },
-  stress:{ icon:"stress", c:"#bf6a3c", c2:"#d5824f", tint:"#f6e6da",
+  stress:{ icon:"stress",
     name:"Người đang hơi quá tải",
-    desc:"Áp lực và nhịp sống có thể đang ảnh hưởng tới giấc ngủ và cảm giác dễ chịu của bạn nhiều hơn bạn nghĩ.",
-    insight:"Căng thẳng không chỉ nằm trong suy nghĩ — nó tác động thật đến giấc ngủ, tiêu hoá và mức năng lượng. Tin tốt là chỉ cần vài thói quen nhỏ để 'hạ nhiệt' mỗi ngày, cơ thể sẽ phản hồi rất nhanh.",
-    todo:["Dành 5 phút thở sâu hoặc đi bộ nhẹ mỗi ngày","Giảm caffeine sau buổi chiều","Tạo một nghi thức thư giãn trước khi ngủ"] },
-  digestion:{ icon:"digestion", c:"#3a7c92", c2:"#4f96ad", tint:"#dcebf1",
-    name:"Người nên quan tâm hệ tiêu hoá",
-    desc:"Một vài dấu hiệu cho thấy bạn nên chú ý hơn đến thói quen ăn uống và tiêu hoá của mình.",
-    insight:"Hệ tiêu hoá được ví như 'bộ não thứ hai' của cơ thể — nó ảnh hưởng đến hấp thu dưỡng chất, năng lượng và cả tâm trạng. Khi tiêu hoá nhẹ nhàng, cả cơ thể sẽ thấy dễ chịu hơn.",
-    todo:["Thêm rau xanh và chất xơ vào mỗi bữa","Ăn chậm, nhai kỹ, tránh ăn quá no","Uống đủ nước để hỗ trợ tiêu hoá"] },
-  lifestyle:{ icon:"lifestyle", c:"#b0544c", c2:"#c56b63", tint:"#f4dedb",
+    desc:"Áp lực và nhịp sống có thể đang ảnh hưởng tới giấc ngủ, hơi thở và cảm giác dễ chịu của bạn nhiều hơn bạn nghĩ.",
+    insight:"Căng thẳng không chỉ nằm trong suy nghĩ — nó tác động thật đến giấc ngủ, tiêu hoá, hơi thở và mức năng lượng. Tin tốt là chỉ cần vài thói quen nhỏ để 'hạ nhiệt' mỗi ngày, cơ thể sẽ phản hồi rất nhanh.",
+    todo:["Dành 5 phút hít thở sâu hoặc đi bộ nhẹ mỗi ngày","Giảm caffeine sau buổi chiều","Tạo một nghi thức thư giãn trước khi ngủ"] },
+  digestion:{ icon:"digestion",
+    name:"Người nên chú ý tiêu hoá & bài tiết",
+    desc:"Một vài dấu hiệu cho thấy bạn nên quan tâm hơn đến ăn uống, tiêu hoá và nhịp bài tiết của mình.",
+    insight:"Hệ tiêu hoá được ví như 'bộ não thứ hai' của cơ thể — nó ảnh hưởng đến hấp thu dưỡng chất, năng lượng, tâm trạng và cả nhịp bài tiết. Khi tiêu hoá nhẹ nhàng, cả cơ thể sẽ thấy dễ chịu hơn.",
+    todo:["Thêm rau xanh và chất xơ vào mỗi bữa","Uống đủ nước để đường ruột 'trôi chảy'","Ăn chậm, nhai kỹ, tránh ăn quá no"] },
+  breathing:{ icon:"breathing",
+    name:"Người nên chú ý hơi thở",
+    desc:"Hơi thở của bạn đang phát vài tín hiệu — thường đi cùng ít vận động hoặc căng thẳng tích tụ.",
+    insight:"Hơi thở là 'nhịp' của cơ thể — thở nông, hụt hơi kéo dài thường liên quan đến thể lực và mức căng thẳng, chứ không hẳn là điều nghiêm trọng. Tin vui: chỉ vài phút hít thở sâu mỗi ngày đã giúp cơ thể bình tĩnh và tràn năng lượng hơn.",
+    todo:["Tập hít thở sâu vài phút mỗi ngày (hít 4 – giữ 4 – thở ra 6)","Đi bộ nhanh để tăng dung tích thở","Mở cửa sổ, hít khí trời vào buổi sáng"] },
+  lifestyle:{ icon:"lifestyle",
     name:"Người đang cần tái tạo lối sống",
     desc:"Đã đến lúc nhẹ nhàng xây lại những thói quen nhỏ mỗi ngày — không cần thay đổi lớn, chỉ cần bắt đầu.",
     insight:"Không ai thay đổi cả lối sống trong một ngày, và bạn cũng không cần phải vậy. Sức khỏe được xây từ những lựa chọn nhỏ lặp lại. Chỉ cần một thói quen tốt mỗi tuần, sau vài tháng bạn sẽ ngạc nhiên về chính mình.",
     todo:["Chọn một thói quen nhỏ để bắt đầu tuần này","Uống đủ nước và thêm một bữa có rau xanh","Đi bộ 10 phút mỗi ngày"] }
 };
 
-/* 4 trục cho biểu đồ — mỗi trục gom các câu hỏi (index 0-based) */
+/* 5 trục cho radar — mỗi trục gom các câu hỏi (index 0-based) */
 const AXES = {
-  energy:    { label:"Năng lượng", qs:[2,4] },   // sáng dậy + giấc ngủ
-  stress:    { label:"Tinh thần",  qs:[3] },      // căng thẳng
-  digestion: { label:"Tiêu hoá",   qs:[1,7] },    // sau ăn + rau xanh
-  lifestyle: { label:"Lối sống",   qs:[5,6] }     // nước + vận động
+  energy:    { label:"Năng lượng", qs:[0,5] },   // sáng dậy + giấc ngủ
+  stress:    { label:"Tinh thần",  qs:[2,7] },   // căng thẳng + tâm trạng
+  digestion: { label:"Tiêu hoá",   qs:[1,6] },   // sau ăn + bài tiết
+  breathing: { label:"Hơi thở",    qs:[3,8] },   // gắng sức + thói quen thở
+  lifestyle: { label:"Lối sống",   qs:[4,9] }    // nước + vận động
 };
-const AXIS_ORDER = ["energy","stress","digestion","lifestyle"];
+const AXIS_ORDER = ["energy","stress","digestion","breathing","lifestyle"];
 
 const ALERT_ICO='<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0Z"/><path d="M12 9v4M12 17h.01"/></svg>';
 const CHECK_ICO='<svg viewBox="0 0 24 24" fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.1V12a10 10 0 1 1-5.9-9.1"/><path d="M22 4 12 14.01l-3-3"/></svg>';
@@ -1180,35 +1203,30 @@ const Quiz = {
 };
 
 function buildRadar(dim){
-  const cx=150, cy=113, R=82, LR=104;          // tâm, bán kính lưới, bán kính nhãn
-  const axes=[
-    {k:"energy",    u:[0,-1]},
-    {k:"stress",    u:[1,0]},
-    {k:"digestion", u:[0,1]},
-    {k:"lifestyle", u:[-1,0]}
-  ];
-  const pt=(u,v,rad)=>[ +(cx+u[0]*rad*v/100).toFixed(1), +(cy+u[1]*rad*v/100).toFixed(1) ];
+  const order=AXIS_ORDER, N=order.length;
+  const cx=150, cy=116, R=78, LR=100;                       // tâm, bán kính lưới, bán kính nhãn
+  const uv=i=>{ const a=(-90+i*360/N)*Math.PI/180; return [Math.cos(a),Math.sin(a)]; };
+  const pt=(i,v,rad)=>{ const u=uv(i); return [ +(cx+u[0]*rad*v/100).toFixed(1), +(cy+u[1]*rad*v/100).toFixed(1) ]; };
+  const poly=(v,rad)=>{ let p=""; for(let i=0;i<N;i++) p+=pt(i,v,rad).join(",")+" "; return p.trim(); };
   let s="";
   // lưới đồng tâm
-  [25,50,75,100].forEach(g=>{
-    const pts=axes.map(a=>pt(a.u,g,R).join(",")).join(" ");
-    s+='<polygon points="'+pts+'" fill="none" stroke="#e6e5e1" stroke-width="1"/>';
-  });
+  [25,50,75,100].forEach(g=>{ s+='<polygon points="'+poly(g,R)+'" fill="none" stroke="#e6e5e1" stroke-width="1"/>'; });
   // nan hoa
-  axes.forEach(a=>{ const p=pt(a.u,100,R); s+='<line x1="'+cx+'" y1="'+cy+'" x2="'+p[0]+'" y2="'+p[1]+'" stroke="#e6e5e1" stroke-width="1"/>'; });
-  // vùng lý tưởng (100, nét đứt)
-  s+='<polygon points="'+axes.map(a=>pt(a.u,100,R).join(",")).join(" ")+'" fill="none" stroke="#bdbcb7" stroke-width="1.3" stroke-dasharray="4 4"/>';
+  for(let i=0;i<N;i++){ const p=pt(i,100,R); s+='<line x1="'+cx+'" y1="'+cy+'" x2="'+p[0]+'" y2="'+p[1]+'" stroke="#e6e5e1" stroke-width="1"/>'; }
+  // vùng lý tưởng (nét đứt)
+  s+='<polygon points="'+poly(100,R)+'" fill="none" stroke="#bdbcb7" stroke-width="1.3" stroke-dasharray="4 4"/>';
   // hình cơ thể bạn
-  const upts=axes.map(a=>pt(a.u,Math.max(dim[a.k],5),R).join(",")).join(" ");
-  let shape='<polygon points="'+upts+'" fill="rgba(23,23,27,.12)" stroke="#17171b" stroke-width="2.4" stroke-linejoin="round"/>';
-  axes.forEach(a=>{ const p=pt(a.u,Math.max(dim[a.k],5),R); const weak=dim[a.k]<40;
-    shape+='<circle cx="'+p[0]+'" cy="'+p[1]+'" r="'+(weak?5.5:4.5)+'" fill="'+(weak?"#c0392b":"#17171b")+'"/>'; });
+  let upts=""; for(let i=0;i<N;i++) upts+=pt(i,Math.max(dim[order[i]],5),R).join(",")+" ";
+  let shape='<polygon points="'+upts.trim()+'" fill="rgba(23,23,27,.12)" stroke="#17171b" stroke-width="2.4" stroke-linejoin="round"/>';
+  for(let i=0;i<N;i++){ const k=order[i], p=pt(i,Math.max(dim[k],5),R), weak=dim[k]<40;
+    shape+='<circle cx="'+p[0]+'" cy="'+p[1]+'" r="'+(weak?5.5:4.5)+'" fill="'+(weak?"#c0392b":"#17171b")+'"/>'; }
   s+='<g class="radar-shape" id="radarShape">'+shape+'</g>';
-  // nhãn trục (tên; đỏ nếu yếu)
-  axes.forEach(a=>{ const lp=pt(a.u,100,LR); const weak=dim[a.k]<40; const col=weak?"#c0392b":"#54545a";
-    const dy=a.u[1]>0?13:a.u[1]<0?-7:4;
-    s+='<text x="'+lp[0]+'" y="'+(lp[1]+dy)+'" text-anchor="middle" font-size="12.5" font-weight="600" fill="'+col+'" font-family="Be Vietnam Pro,-apple-system,sans-serif">'+AXES[a.k].label+'</text>';
-  });
+  // nhãn trục (đỏ nếu yếu)
+  for(let i=0;i<N;i++){ const k=order[i], u=uv(i), lp=pt(i,100,LR), weak=dim[k]<40, col=weak?"#c0392b":"#54545a";
+    const anchor=u[0]>0.35?"start":u[0]<-0.35?"end":"middle";
+    const dy=u[1]>0.5?13:u[1]<-0.5?-8:4;
+    s+='<text x="'+lp[0]+'" y="'+(lp[1]+dy)+'" text-anchor="'+anchor+'" font-size="11.5" font-weight="600" fill="'+col+'" font-family="Be Vietnam Pro,-apple-system,sans-serif">'+AXES[k].label+'</text>';
+  }
   document.getElementById("radarSvg").innerHTML=s;
 }
 function startCountdown(){
