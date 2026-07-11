@@ -810,7 +810,7 @@
 /* =========================================================================
    HOPE — Bài khám phá cơ thể. Chỉnh nội dung ở QUESTIONS / GROUPS là đủ.
    ========================================================================= */
-const LEAD_ENDPOINT = "";                 // webhook HOPE (/api/leads/ingest) hoặc Apps Script URL
+const LEAD_ENDPOINT = "https://script.google.com/macros/s/AKfycby-GyUbPvhF6jhbGacVezzkImJmoSUAAWnuISMG_vL9eSQX7NrMH49CxAkD401D-o8N/exec"; // Apps Script → Google Sheet
 // Số người đã làm quiz — CHỈ điền khi có số THẬT (tránh quảng cáo gây nhầm lẫn). Để null = ẩn.
 const SOCIAL_PROOF_COUNT = null;          // ví dụ: 12400
 // CẤP BÁCH — phải là hạn/suất THẬT của chiến dịch (cấp bách giả = vi phạm + mất uy tín)
@@ -1084,7 +1084,7 @@ const Quiz = {
     if(!okPhone){ document.getElementById("lPhone").focus(); return false; }
     if(!okEmail){ document.getElementById("lEmail").focus(); return false; }
     const payload={source:"health-quiz",name,phone,email,ageRange:this.ageLabel||"",bodyAge:this.bodyAge||null,group:this.groupKey,groupName:GROUPS[this.groupKey].name,score:this.score,dimScore:this.dimScore,answers:this.answers.map(a=>a.t)};
-    if(LEAD_ENDPOINT){ fetch(LEAD_ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(payload)}).catch(e=>console.warn("lead post failed",e)); }
+    if(LEAD_ENDPOINT){ fetch(LEAD_ENDPOINT,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(payload)}).catch(e=>console.warn("lead post failed",e)); }
     else console.log("LEAD (chưa cấu hình LEAD_ENDPOINT):",payload);
     document.getElementById("leadForm").style.display="none";
     document.getElementById("leadThanks").classList.add("show");
