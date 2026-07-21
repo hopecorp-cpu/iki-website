@@ -1,16 +1,45 @@
 # IKI by HOPE CORP — robots.txt
 # https://ikihealing.com
+# GEO: chào đón các bot AI (ChatGPT/Claude/Perplexity/Gemini/...) để nội dung được trích dẫn.
+# Hướng dẫn cho AI: https://ikihealing.com/llms.txt
 
+# Tất cả bot
 User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+
+# Bot tìm kiếm / trợ lý AI — cho phép tường minh
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Bytespider
 Allow: /
 
 # Sitemap
 Sitemap: https://ikihealing.com/sitemap.xml
 
-# Disallow common admin / dev paths (none on static site, but defensive)
-Disallow: /admin/
-Disallow: /private/
-Disallow: /*.json$
-
-# Crawl-delay for polite bots
+# Crawl-delay cho bot lịch sự
 Crawl-delay: 1

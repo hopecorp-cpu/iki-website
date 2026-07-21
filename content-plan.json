@@ -1,0 +1,134 @@
+{
+  "_note": "Khung blog IKI theo mô hình lộ trình BeginGuru. 'chapters' = trục chính (chặng phủ dần, mỗi bài có tier). 'categories' = trụ (hub + đếm sidebar). 'roadmaps' = hub lộ trình theo đối tượng. 'articles' = master list. status: published nếu có blog-drafts/<slug>.md. Viết bài = thêm draft khớp slug + đổi status.",
+  "leadMagnet": {
+    "tag": "Miễn phí",
+    "title": "Nhận cẩm nang chăm sóc sức khoẻ chủ động",
+    "sub": "Cẩm nang PDF hướng dẫn lộ trình 6 chặng theo thể tạng — gửi ngay vào email của bạn.",
+    "button": "Nhận ngay →",
+    "note": "Không spam · Huỷ nhận bất cứ lúc nào"
+  },
+  "categories": [
+    { "slug": "lo-trinh", "name": "Lộ trình chăm sóc sức khoẻ", "desc": "Series lộ trình theo chặng — đi từ dễ đến sâu, theo đối tượng, độ tuổi và nhu cầu." },
+    { "slug": "dinh-duong", "name": "Dinh dưỡng & ăn uống", "desc": "Ăn theo mùa, theo thể tạng, cân bằng nhóm chất — nền tảng của sức khoẻ chủ động." },
+    { "slug": "thoi-quen", "name": "Thói quen & lối sống", "desc": "Nước, giấc ngủ, vận động, thư giãn — những thói quen nhỏ tạo thay đổi bền." },
+    { "slug": "dong-y", "name": "Tri thức Đông y & dân gian", "desc": "Thể tạng, minh triết ăn uống phương Đông và kinh nghiệm dân gian Việt." },
+    { "slug": "thuc-pham", "name": "Kiến thức thực phẩm", "desc": "Hiểu từng loại rau, quả, hạt, gia vị và cách dùng cho hợp lý." }
+  ],
+  "chapters": [
+    {
+      "title": "Chặng 0 — Bắt đầu: hiểu cơ thể mình",
+      "desc": "Nhận biết cơ thể, hiểu thể tạng của bạn, và lộ trình cho người mới bắt đầu.",
+      "items": [
+        { "slug": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau", "tier": "Lộ trình" },
+        { "slug": "5-the-tang-theo-dong-y", "tier": "Nền tảng" }
+      ]
+    },
+    {
+      "title": "Chặng 1 — Nền tảng ăn uống",
+      "desc": "Ăn theo mùa, cân bằng nhóm chất, ăn đúng và đủ — nền móng lớn nhất của sức khoẻ.",
+      "items": [
+        { "slug": "an-theo-mua-va-the-tang", "tier": "Nền tảng" },
+        { "slug": "8-nhom-thuc-pham-lanh-manh", "tier": "Nền tảng" },
+        { "slug": "an-sang-tran-nang-luong", "tier": "Thực hành" },
+        { "slug": "duong-va-do-che-bien-san", "tier": "Thực hành" },
+        { "slug": "an-chay-du-chat-can-bang", "tier": "Thực hành" }
+      ]
+    },
+    {
+      "title": "Chặng 2 — Thói quen & lối sống",
+      "desc": "Nước, giấc ngủ, vận động và thư giãn — những thói quen nhỏ làm nên thay đổi bền.",
+      "items": [
+        { "slug": "uong-nuoc-dung-cach-moi-ngay", "tier": "Thực hành" },
+        { "slug": "giac-ngu-chat-luong", "tier": "Thực hành" },
+        { "slug": "van-dong-nhe-moi-ngay", "tier": "Thực hành" },
+        { "slug": "thoi-quen-buoi-sang", "tier": "Thực hành" },
+        { "slug": "thu-gian-can-bang-hoi-tho", "tier": "Thực hành" }
+      ]
+    },
+    {
+      "title": "Chặng 3 — Tri thức Đông y & dân gian",
+      "desc": "Thể tạng chuyên sâu, minh triết ăn uống phương Đông và kinh nghiệm dân gian Việt.",
+      "items": [
+        { "slug": "minh-triet-an-uong-am-duong", "tier": "Chuyên sâu" },
+        { "slug": "kinh-nghiem-dan-gian-cham-soc", "tier": "Chuyên sâu" }
+      ]
+    },
+    {
+      "title": "Chặng 4 — Chăm sóc theo đối tượng & nhu cầu",
+      "desc": "Lộ trình riêng theo độ tuổi, hoàn cảnh sống và mối quan tâm sức khoẻ của bạn.",
+      "items": [
+        { "slug": "lo-trinh-nguoi-tre", "tier": "Lộ trình" },
+        { "slug": "lo-trinh-nguoi-trung-nien", "tier": "Lộ trình" },
+        { "slug": "lo-trinh-nguoi-cao-tuoi", "tier": "Lộ trình" },
+        { "slug": "lo-trinh-nguoi-ban-ron", "tier": "Lộ trình" },
+        { "slug": "lo-trinh-an-chay-du-chat", "tier": "Lộ trình" },
+        { "slug": "lo-trinh-phu-nu-sau-sinh", "tier": "Lộ trình" }
+      ]
+    },
+    {
+      "title": "Chặng 5 — Kiến thức thực phẩm",
+      "desc": "Hiểu giá trị và cách dùng hợp lý từng loại rau, quả, hạt và gia vị quen thuộc.",
+      "items": [
+        { "slug": "qua-bo-gia-tri-va-cach-an", "tier": "Tham khảo" },
+        { "slug": "cac-loai-hat-dinh-duong", "tier": "Tham khảo" },
+        { "slug": "rau-la-xanh-moi-ngay", "tier": "Tham khảo" },
+        { "slug": "gia-vi-viet-gung-nghe-sa", "tier": "Tham khảo" }
+      ]
+    }
+  ],
+  "articles": [
+    { "title": "Lộ trình chăm sóc sức khoẻ chủ động cho người mới bắt đầu (6 chặng)", "slug": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau", "category": "lo-trinh", "status": "published" },
+    { "title": "Uống nước đúng cách mỗi ngày theo thể tạng", "slug": "uong-nuoc-dung-cach-moi-ngay", "category": "thoi-quen", "status": "published" },
+    { "title": "Ăn theo mùa và thể tạng: nguyên tắc của người Việt", "slug": "an-theo-mua-va-the-tang", "category": "dinh-duong", "status": "published" },
+
+    { "title": "Ăn chay đủ chất: xây khẩu phần cân bằng cho người ăn thực vật", "slug": "an-chay-du-chat-can-bang", "category": "dinh-duong", "status": "planned" },
+    { "title": "8 nhóm thực phẩm lành mạnh và cách cân bằng bữa ăn", "slug": "8-nhom-thuc-pham-lanh-manh", "category": "dinh-duong", "status": "planned" },
+    { "title": "Ăn sáng thế nào cho một ngày tràn năng lượng", "slug": "an-sang-tran-nang-luong", "category": "dinh-duong", "status": "planned" },
+    { "title": "Hiểu về đường và đồ chế biến sẵn: ăn uống điều độ", "slug": "duong-va-do-che-bien-san", "category": "dinh-duong", "status": "planned" },
+
+    { "title": "Giấc ngủ chất lượng: thói quen cho đêm ngon, ngày tỉnh táo", "slug": "giac-ngu-chat-luong", "category": "thoi-quen", "status": "planned" },
+    { "title": "Vận động nhẹ mỗi ngày: bắt đầu từ đi bộ", "slug": "van-dong-nhe-moi-ngay", "category": "thoi-quen", "status": "planned" },
+    { "title": "Thói quen buổi sáng của người sống khoẻ", "slug": "thoi-quen-buoi-sang", "category": "thoi-quen", "status": "planned" },
+    { "title": "Thư giãn & cân bằng: hơi thở và nghỉ ngơi chủ động", "slug": "thu-gian-can-bang-hoi-tho", "category": "thoi-quen", "status": "planned" },
+
+    { "title": "5 thể tạng theo Đông y: bạn thuộc kiểu nào?", "slug": "5-the-tang-theo-dong-y", "category": "dong-y", "status": "planned" },
+    { "title": "Minh triết ăn uống phương Đông: nguyên tắc âm dương trong bữa cơm", "slug": "minh-triet-an-uong-am-duong", "category": "dong-y", "status": "planned" },
+    { "title": "Kinh nghiệm dân gian Việt trong chăm sóc sức khoẻ hằng ngày", "slug": "kinh-nghiem-dan-gian-cham-soc", "category": "dong-y", "status": "planned" },
+
+    { "title": "Quả bơ: giá trị dinh dưỡng và cách ăn cho hợp lý", "slug": "qua-bo-gia-tri-va-cach-an", "category": "thuc-pham", "status": "planned" },
+    { "title": "Các loại hạt: nguồn dinh dưỡng nhỏ mà chất", "slug": "cac-loai-hat-dinh-duong", "category": "thuc-pham", "status": "planned" },
+    { "title": "Rau lá xanh: vì sao nên có trong bữa ăn hằng ngày", "slug": "rau-la-xanh-moi-ngay", "category": "thuc-pham", "status": "planned" },
+    { "title": "Gia vị Việt (gừng, nghệ, sả): hương vị và giá trị", "slug": "gia-vi-viet-gung-nghe-sa", "category": "thuc-pham", "status": "planned" }
+  ],
+  "roadmaps": [
+    {
+      "group": "Theo độ tuổi",
+      "desc": "Mỗi giai đoạn cuộc đời có nhu cầu chăm sóc khác nhau.",
+      "items": [
+        { "title": "Người mới bắt đầu (6 chặng)", "slug": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau", "status": "published" },
+        { "title": "Lộ trình cho người trẻ (20–35): năng lượng, ăn ngoài, thư giãn", "slug": "lo-trinh-nguoi-tre", "status": "planned" },
+        { "title": "Lộ trình cho người trung niên (35–55): cân bằng & chăm sóc chủ động", "slug": "lo-trinh-nguoi-trung-nien", "status": "planned" },
+        { "title": "Lộ trình cho người cao tuổi (55+): tiêu hoá, xương khớp, giấc ngủ", "slug": "lo-trinh-nguoi-cao-tuoi", "status": "planned" }
+      ]
+    },
+    {
+      "group": "Theo nhu cầu & lối sống",
+      "desc": "Chăm sóc phù hợp với hoàn cảnh sống của bạn.",
+      "items": [
+        { "title": "Lộ trình cho người bận rộn / dân văn phòng", "slug": "lo-trinh-nguoi-ban-ron", "status": "planned" },
+        { "title": "Lộ trình ăn chay đủ chất", "slug": "lo-trinh-an-chay-du-chat", "status": "planned" },
+        { "title": "Lộ trình cho phụ nữ sau sinh", "slug": "lo-trinh-phu-nu-sau-sinh", "status": "planned" }
+      ]
+    },
+    {
+      "group": "Theo mối quan tâm sức khoẻ",
+      "desc": "Khung chăm sóc CHỦ ĐỘNG theo mối quan tâm — không phải trị bệnh.",
+      "items": [
+        { "title": "Lộ trình chăm sóc tiêu hoá nhẹ nhàng", "slug": "lo-trinh-cham-soc-tieu-hoa", "status": "planned" },
+        { "title": "Lộ trình cho giấc ngủ ngon", "slug": "lo-trinh-giac-ngu-ngon", "status": "planned" },
+        { "title": "Lộ trình giữ năng lượng bền cả ngày", "slug": "lo-trinh-nang-luong-ben", "status": "planned" },
+        { "title": "Lộ trình chăm sóc xương khớp chủ động", "slug": "lo-trinh-xuong-khop-chu-dong", "status": "planned" }
+      ]
+    }
+  ]
+}
