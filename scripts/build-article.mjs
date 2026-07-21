@@ -19,6 +19,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const SITE = "https://ikihealing.com";
 const PLAN = JSON.parse(fs.readFileSync(path.join(ROOT, "content-plan.json"), "utf8"));
+// Beacon đo tương tác lead (đọc/click/tải) — gắn mã lead từ ?lid (link email). Không thu thập gì nếu không có lid.
+const BEACON = `<script>(function(){var T='https://hope-ops-hub.vercel.app/api/track';function lid(){try{var u=new URLSearchParams(location.search).get('lid');if(u){sessionStorage.setItem('iki_lid',u);return u;}return sessionStorage.getItem('iki_lid')||'';}catch(e){return '';}}function b(e,m){var id=lid();if(!id)return;var i=new Image();i.src=T+'?lid='+encodeURIComponent(id)+'&e='+e+(m?'&m='+encodeURIComponent(m):'')+'&_='+Date.now();}var s=location.pathname.split('/').pop().replace(/\\.html$/,'')||'index';if(lid())b('read',s);document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a');if(!a)return;var h=a.getAttribute('href')||'';if(/\\.pdf($|\\?)/i.test(h))b('download',(h.split('/').pop()||'pdf').slice(0,60));else if(/ikihealingdetox|trueveganprotein|tra\\.ikihealing|thanhhuongtra|app\\.html/.test(h))b('click',h.slice(0,80));},true);})();</script>`;
 
 const esc = (s) => String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const escAttr = (s) => esc(s).replace(/"/g, "&quot;");
@@ -376,6 +378,7 @@ ${article}
       </div>
     </div>
   </footer>
+${BEACON}
 </body>
 </html>
 `;
