@@ -22,6 +22,8 @@ const PLAN = JSON.parse(fs.readFileSync(path.join(ROOT, "content-plan.json"), "u
 
 const esc = (s) => String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const escAttr = (s) => esc(s).replace(/"/g, "&quot;");
+// Cắt chuỗi theo biên từ (SEO: title ≤60, meta description ≤160 — tránh Google cắt cụt)
+const clamp = (s, n) => { s = String(s || ""); return s.length <= n ? s : s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…"; };
 function slugifyHeading(s) {
   return s.normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D")
     .toLowerCase().replace(/[^a-z0-9\s-]/g, "").trim().replace(/\s+/g, "-").slice(0, 50);
@@ -186,8 +188,8 @@ function render(fm, body) {
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io https://hope-ops-hub.vercel.app;" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>${esc(fm.title)} | Blog IKI</title>
-  <meta name="description" content="${escAttr(fm.description)}" />
+  <title>${esc(clamp(fm.seo_title || fm.title, 60))}</title>
+  <meta name="description" content="${escAttr(clamp(fm.description, 160))}" />
   <link rel="canonical" href="${url}" />
   <link rel="alternate" hreflang="vi" href="${url}" />
   <link rel="alternate" hreflang="x-default" href="${url}" />
@@ -197,12 +199,12 @@ function render(fm, body) {
   <meta property="og:site_name" content="IKI by HOPE CORP" />
   <meta property="og:url" content="${url}" />
   <meta property="og:title" content="${escAttr(fm.title)}" />
-  <meta property="og:description" content="${escAttr(fm.description)}" />
+  <meta property="og:description" content="${escAttr(clamp(fm.description, 160))}" />
   <meta property="og:image" content="${escAttr(heroAbs)}" />
   <meta property="article:published_time" content="${escAttr(fm.date)}" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="${escAttr(fm.title)}" />
-  <meta name="twitter:description" content="${escAttr(fm.description)}" />
+  <meta name="twitter:description" content="${escAttr(clamp(fm.description, 160))}" />
   <meta name="twitter:image" content="${escAttr(heroAbs)}" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />

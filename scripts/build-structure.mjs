@@ -23,6 +23,7 @@ const FORM_ACTION = "https://hope-ops-hub.vercel.app/api/blog-lead";
 
 const esc = (s) => String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const escAttr = (s) => esc(s).replace(/"/g, "&quot;");
+const clamp = (s, n) => { s = String(s || ""); return s.length <= n ? s : s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…"; };
 
 function loadPlan() { return JSON.parse(fs.readFileSync(path.join(ROOT, "content-plan.json"), "utf8")); }
 function draftMeta(slug) {
@@ -72,7 +73,7 @@ function head(title, desc, canonical, ldExtra, noindex) {
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io https://hope-ops-hub.vercel.app;" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   ${noindex ? '<meta name="robots" content="noindex,follow" />\n  ' : ""}<title>${esc(title)}</title>
-  <meta name="description" content="${escAttr(desc)}" />
+  <meta name="description" content="${escAttr(clamp(desc, 160))}" />
   <link rel="canonical" href="${canonical}" />
   <link rel="alternate" hreflang="vi" href="${canonical}" />
   <link rel="alternate" hreflang="x-default" href="${canonical}" />
@@ -81,7 +82,7 @@ function head(title, desc, canonical, ldExtra, noindex) {
   <meta property="og:site_name" content="IKI by HOPE CORP" />
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escAttr(title)}" />
-  <meta property="og:description" content="${escAttr(desc)}" />
+  <meta property="og:description" content="${escAttr(clamp(desc, 160))}" />
   <meta property="og:image" content="${SITE}/assets/banners/iki-banner-1200x630-og.jpg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

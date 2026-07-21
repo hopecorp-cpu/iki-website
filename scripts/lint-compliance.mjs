@@ -45,7 +45,8 @@ function stripAllowed(text) {
     .replace(/\d+\s*ng[àa]y\s*detox/gi, "COURSENAME") // tên khoá "7 Ngày Detox" (site chính đang dùng)
     .replace(/không phải thuốc[^.]*?chữa bệnh/gi, "[DISCLAIMER]")
     .replace(/không (có tác dụng )?thay thế thuốc[^.]*?bệnh/gi, "[DISCLAIMER]")
-    .replace(/không thay thế (chẩn đoán|điều trị)[^.]*?y khoa/gi, "[DISCLAIMER]");
+    .replace(/không thay thế (chẩn đoán|điều trị)[^.]*?y khoa/gi, "[DISCLAIMER]")
+    .replace(/không phải[^.]*?(điều trị|chẩn đoán)[^.]*?(y tế|y khoa)/gi, "[DISCLAIMER]");
 }
 
 function scan(file) {

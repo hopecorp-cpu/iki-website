@@ -86,16 +86,16 @@
     { "title": "Ăn sáng thế nào cho một ngày tràn năng lượng", "slug": "an-sang-tran-nang-luong", "category": "dinh-duong", "status": "planned" },
     { "title": "Hiểu về đường và đồ chế biến sẵn: ăn uống điều độ", "slug": "duong-va-do-che-bien-san", "category": "dinh-duong", "status": "planned" },
 
-    { "title": "Giấc ngủ chất lượng: thói quen cho đêm ngon, ngày tỉnh táo", "slug": "giac-ngu-chat-luong", "category": "thoi-quen", "status": "planned" },
-    { "title": "Vận động nhẹ mỗi ngày: bắt đầu từ đi bộ", "slug": "van-dong-nhe-moi-ngay", "category": "thoi-quen", "status": "planned" },
+    { "title": "Giấc ngủ chất lượng: thói quen cho đêm ngon, ngày tỉnh táo", "slug": "giac-ngu-chat-luong", "category": "thoi-quen", "status": "published" },
+    { "title": "Vận động nhẹ mỗi ngày: bắt đầu từ đi bộ", "slug": "van-dong-nhe-moi-ngay", "category": "thoi-quen", "status": "published" },
     { "title": "Thói quen buổi sáng của người sống khoẻ", "slug": "thoi-quen-buoi-sang", "category": "thoi-quen", "status": "planned" },
     { "title": "Thư giãn & cân bằng: hơi thở và nghỉ ngơi chủ động", "slug": "thu-gian-can-bang-hoi-tho", "category": "thoi-quen", "status": "planned" },
 
-    { "title": "5 thể tạng theo Đông y: bạn thuộc kiểu nào?", "slug": "5-the-tang-theo-dong-y", "category": "dong-y", "status": "planned" },
+    { "title": "5 thể tạng theo Đông y: bạn thuộc kiểu nào?", "slug": "5-the-tang-theo-dong-y", "category": "dong-y", "status": "published" },
     { "title": "Minh triết ăn uống phương Đông: nguyên tắc âm dương trong bữa cơm", "slug": "minh-triet-an-uong-am-duong", "category": "dong-y", "status": "planned" },
     { "title": "Kinh nghiệm dân gian Việt trong chăm sóc sức khoẻ hằng ngày", "slug": "kinh-nghiem-dan-gian-cham-soc", "category": "dong-y", "status": "planned" },
 
-    { "title": "Quả bơ: giá trị dinh dưỡng và cách ăn cho hợp lý", "slug": "qua-bo-gia-tri-va-cach-an", "category": "thuc-pham", "status": "planned" },
+    { "title": "Quả bơ: giá trị dinh dưỡng và cách ăn cho hợp lý", "slug": "qua-bo-gia-tri-va-cach-an", "category": "thuc-pham", "status": "published" },
     { "title": "Các loại hạt: nguồn dinh dưỡng nhỏ mà chất", "slug": "cac-loai-hat-dinh-duong", "category": "thuc-pham", "status": "planned" },
     { "title": "Rau lá xanh: vì sao nên có trong bữa ăn hằng ngày", "slug": "rau-la-xanh-moi-ngay", "category": "thuc-pham", "status": "planned" },
     { "title": "Gia vị Việt (gừng, nghệ, sả): hương vị và giá trị", "slug": "gia-vi-viet-gung-nghe-sa", "category": "thuc-pham", "status": "planned" },
