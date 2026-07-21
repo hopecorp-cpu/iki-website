@@ -98,7 +98,10 @@
     { "title": "Quả bơ: giá trị dinh dưỡng và cách ăn cho hợp lý", "slug": "qua-bo-gia-tri-va-cach-an", "category": "thuc-pham", "status": "planned" },
     { "title": "Các loại hạt: nguồn dinh dưỡng nhỏ mà chất", "slug": "cac-loai-hat-dinh-duong", "category": "thuc-pham", "status": "planned" },
     { "title": "Rau lá xanh: vì sao nên có trong bữa ăn hằng ngày", "slug": "rau-la-xanh-moi-ngay", "category": "thuc-pham", "status": "planned" },
-    { "title": "Gia vị Việt (gừng, nghệ, sả): hương vị và giá trị", "slug": "gia-vi-viet-gung-nghe-sa", "category": "thuc-pham", "status": "planned" }
+    { "title": "Gia vị Việt (gừng, nghệ, sả): hương vị và giá trị", "slug": "gia-vi-viet-gung-nghe-sa", "category": "thuc-pham", "status": "planned" },
+    { "title": "Lộ trình chăm sóc sức khoẻ cho người trẻ (20–35 tuổi)", "slug": "lo-trinh-nguoi-tre", "category": "lo-trinh", "status": "published" },
+    { "title": "Lộ trình chăm sóc sức khoẻ cho người trung niên (35–55 tuổi)", "slug": "lo-trinh-nguoi-trung-nien", "category": "lo-trinh", "status": "published" },
+    { "title": "Lộ trình chăm sóc sức khoẻ chủ động cho người cao tuổi (55+)", "slug": "lo-trinh-nguoi-cao-tuoi", "category": "lo-trinh", "status": "published" }
   ],
   "roadmaps": [
     {
@@ -106,9 +109,9 @@
       "desc": "Mỗi giai đoạn cuộc đời có nhu cầu chăm sóc khác nhau.",
       "items": [
         { "title": "Người mới bắt đầu (6 chặng)", "slug": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau", "status": "published" },
-        { "title": "Lộ trình cho người trẻ (20–35): năng lượng, ăn ngoài, thư giãn", "slug": "lo-trinh-nguoi-tre", "status": "planned" },
-        { "title": "Lộ trình cho người trung niên (35–55): cân bằng & chăm sóc chủ động", "slug": "lo-trinh-nguoi-trung-nien", "status": "planned" },
-        { "title": "Lộ trình cho người cao tuổi (55+): tiêu hoá, xương khớp, giấc ngủ", "slug": "lo-trinh-nguoi-cao-tuoi", "status": "planned" }
+        { "title": "Lộ trình cho người trẻ (20–35): năng lượng, ăn ngoài, thư giãn", "slug": "lo-trinh-nguoi-tre", "status": "published" },
+        { "title": "Lộ trình cho người trung niên (35–55): cân bằng & chăm sóc chủ động", "slug": "lo-trinh-nguoi-trung-nien", "status": "published" },
+        { "title": "Lộ trình cho người cao tuổi (55+): tiêu hoá, xương khớp, giấc ngủ", "slug": "lo-trinh-nguoi-cao-tuoi", "status": "published" }
       ]
     },
     {

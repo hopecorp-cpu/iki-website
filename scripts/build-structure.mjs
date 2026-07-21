@@ -98,6 +98,28 @@ ${ldExtra ? `  <script type="application/ld+json">\n${JSON.stringify(ldExtra, nu
     .cat-nav{max-width:1100px;margin:18px auto 0;padding:0 20px;display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
     .cat-nav a{font-size:.9rem;font-weight:600;color:#344054;background:#fff;border:1px solid #e4e7ec;border-radius:999px;padding:7px 16px;text-decoration:none}
     .cat-nav a:hover,.cat-nav a.active{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));color:#fff;border-color:transparent}
+    .blog-search{max-width:620px;margin:18px auto 0;padding:0 20px;position:relative}
+    .blog-search input{width:100%;border:1px solid #d0d5dd;border-radius:999px;padding:14px 22px;font-size:1rem;font-family:inherit;outline:none;box-shadow:0 1px 2px rgba(16,24,40,.04)}
+    .blog-search input:focus{border-color:var(--iki-teal,#4BC0AB);box-shadow:0 0 0 3px rgba(75,192,171,.15)}
+    .search-results{position:absolute;left:20px;right:20px;top:58px;background:#fff;border:1px solid #eef0f3;border-radius:14px;box-shadow:0 8px 28px rgba(16,24,40,.12);z-index:30;overflow:hidden}
+    .search-results a,.search-results .sr-soon{display:block;padding:12px 18px;text-decoration:none;color:#101828;font-weight:600;border-bottom:1px solid #f2f4f7;font-size:.95rem}
+    .search-results a:hover{background:#f6fbf9}
+    .search-results .sr-soon{color:#98a2b3;font-weight:500}
+    .search-results .sr-cat{display:block;font-size:.68rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:2px}
+    .search-results .sr-empty{padding:16px 18px;color:#667085;font-size:.92rem}
+    .age-section{max-width:1100px;margin:26px auto 6px;padding:0 20px}
+    .age-head{text-align:center;margin-bottom:16px}
+    .age-head h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.7rem;margin:0}
+    .age-head p{color:#667085;margin:4px 0 0;font-size:.98rem}
+    .age-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}
+    @media(max-width:760px){.age-grid{grid-template-columns:repeat(2,1fr)}}
+    .age-card{position:relative;display:flex;flex-direction:column;gap:6px;background:#fff;border:1px solid #eef0f3;border-top:3px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px;text-decoration:none;color:inherit;box-shadow:0 1px 2px rgba(16,24,40,.04);transition:transform .15s,box-shadow .15s}
+    .age-card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(16,24,40,.10)}
+    .age-card.soon{border-top-color:#d0d5dd;background:#fafbfc}
+    .age-label{font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
+    .age-card.soon .age-label{color:#98a2b3}
+    .age-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:1.3rem;line-height:1.15}
+    .age-soon{font-size:.64rem;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#98a2b3;background:#f2f4f7;border-radius:999px;padding:3px 8px;align-self:flex-start}
     .blog-layout{max-width:1140px;margin:0 auto;padding:24px 20px 10px;display:grid;grid-template-columns:1fr 320px;gap:36px;align-items:start}
     @media(max-width:900px){.blog-layout{grid-template-columns:1fr}}
     .chapter{margin-bottom:34px}
@@ -233,13 +255,32 @@ export function buildStructure() {
       <div class="side-box side-cats"><div class="side-title">Danh mục</div><ul>${plan.categories.map((c) => `<li><a href="${c.slug === "lo-trinh" ? "lo-trinh.html" : `danh-muc-${c.slug}.html`}">${esc(c.name)}</a><span>${catCount(c.slug)}</span></li>`).join("")}</ul></div>
       <div class="side-box side-app"><div class="side-tag">App IKI</div><div class="side-h">AI Coach Đông y cá nhân hoá</div><p>Nhật ký 30 giây mỗi ngày, gợi ý theo thể tạng của riêng bạn.</p><a class="btn btn-primary" href="../app.html">Tải miễn phí →</a></div>
     </aside>`;
+  // Khối "Chăm sóc theo độ tuổi" (nổi bật) — từ nhóm roadmap "Theo độ tuổi"
+  const AGE = {
+    "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau": { label: "Bắt đầu", short: "Người mới bắt đầu" },
+    "lo-trinh-nguoi-tre": { label: "20–35 tuổi", short: "Người trẻ" },
+    "lo-trinh-nguoi-trung-nien": { label: "35–55 tuổi", short: "Người trung niên" },
+    "lo-trinh-nguoi-cao-tuoi": { label: "55+ tuổi", short: "Người cao tuổi" },
+  };
+  const ageGroup = plan.roadmaps.find((g) => /độ tuổi/i.test(g.group));
+  const ageSection = ageGroup ? `<section class="age-section"><div class="age-head"><h2>Chăm sóc sức khoẻ theo độ tuổi</h2><p>Chọn lộ trình phù hợp với giai đoạn của bạn — từ người mới, người trẻ đến người cao tuổi.</p></div><div class="age-grid">${ageGroup.items.map((it) => {
+    const pub = isPublished(it.slug); const a = AGE[it.slug] || { label: "", short: it.title };
+    return `<a class="age-card${pub ? "" : " soon"}" href="${pub ? escAttr(it.slug) + ".html" : "lo-trinh.html"}"><span class="age-label">${esc(a.label)}</span><span class="age-title">${esc(a.short)}</span>${pub ? "" : '<span class="age-soon">Sắp có</span>'}</a>`;
+  }).join("")}</div></section>` : "";
+  // Search theo chủ đề (client-side, đọc search-index.json)
+  const searchBox = `<div class="blog-search"><input type="search" id="blogSearch" placeholder="Tìm chủ đề bạn muốn đọc…" autocomplete="off" aria-label="Tìm bài viết" /><div id="blogSearchResults" class="search-results" hidden></div></div>`;
+  const searchScript = `<script>(function(){var i=document.getElementById('blogSearch'),b=document.getElementById('blogSearchResults'),x=null;function n(s){return (s||'').normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').toLowerCase();}function L(){return x?Promise.resolve(x):fetch('search-index.json').then(function(r){return r.json();}).then(function(d){x=d;return d;});}function R(q){var q2=n(q);if(!q2){b.hidden=true;b.innerHTML='';return;}L().then(function(d){var h=d.filter(function(a){return n(a.title+' '+a.desc+' '+a.cat).indexOf(q2)>-1;}).slice(0,8);b.innerHTML=h.length?h.map(function(a){return a.url?('<a href="'+a.url+'"><span class="sr-cat">'+a.cat+'</span>'+a.title+'</a>'):('<span class="sr-soon"><span class="sr-cat">'+a.cat+'</span>'+a.title+' — sắp có</span>');}).join(''):'<div class="sr-empty">Không tìm thấy chủ đề. Thử từ khoá khác.</div>';b.hidden=false;});}if(i){i.addEventListener('input',function(){R(i.value);});i.addEventListener('focus',function(){if(i.value)R(i.value);});document.addEventListener('click',function(e){if(!e.target.closest('.blog-search'))b.hidden=true;});}})();</script>`;
+  const searchIndex = [];
+  for (const a of plan.articles) { const m = isPublished(a.slug) ? (draftMeta(a.slug) || {}) : {}; searchIndex.push({ title: a.title, url: isPublished(a.slug) ? `${a.slug}.html` : null, cat: catName(a.category), desc: m.description || "" }); }
+  for (const g of plan.roadmaps) for (const it of g.items) if (!plan.articles.find((a) => a.slug === it.slug)) searchIndex.push({ title: it.title, url: isPublished(it.slug) ? `${it.slug}.html` : null, cat: "Lộ trình", desc: g.group });
+  fs.writeFileSync(path.join(outDir, "search-index.json"), JSON.stringify(searchIndex), "utf8");
   fs.writeFileSync(path.join(outDir, "index.html"),
     head("Blog IKI — Lộ trình chăm sóc sức khoẻ chủ động",
       "Blog IKI — lộ trình chăm sóc sức khoẻ chủ động theo từng chặng: hiểu cơ thể, nền tảng ăn uống, thói quen, tri thức Đông y và kiến thức thực phẩm. Cá nhân hoá theo thể tạng.",
       `${SITE}/blog/`,
       { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKI", url: `${SITE}/blog/`, description: "Lộ trình chăm sóc sức khoẻ chủ động theo thể tạng.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: "IKI by HOPE CORP" } })
     + header()
-    + `<main><section class="blog-hero"><span class="eyebrow">Blog IKI · Lộ trình chăm sóc sức khoẻ</span><h1>Chăm sóc sức khoẻ chủ động, theo từng chặng</h1><p>Đi từ hiểu cơ thể mình đến xây thói quen bền vững — mỗi chặng một bước, phủ dần kiến thức để bạn tự chủ sức khoẻ mỗi ngày.</p></section>${catNav}<div class="blog-layout"><div class="blog-main">${chapters}</div>${sidebar}</div>${emailCta(plan, "index")}</main>`
+    + `<main><section class="blog-hero"><span class="eyebrow">Blog IKI · Lộ trình chăm sóc sức khoẻ</span><h1>Chăm sóc sức khoẻ chủ động, theo từng chặng</h1><p>Đi từ hiểu cơ thể mình đến xây thói quen bền vững — mỗi chặng một bước, phủ dần kiến thức để bạn tự chủ sức khoẻ mỗi ngày.</p></section>${searchBox}${ageSection}${catNav}<div class="blog-layout"><div class="blog-main">${chapters}</div>${sidebar}</div>${emailCta(plan, "index")}${searchScript}</main>`
     + footer(), "utf8");
 
   // ---------- CATEGORY HUBS ----------
