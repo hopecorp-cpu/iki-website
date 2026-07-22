@@ -372,6 +372,42 @@
       "slug": "app-iki-ca-nhan-hoa",
       "category": "thoi-quen",
       "status": "published"
+    },
+    {
+      "title": "Hara hachi bu: bí quyết ăn no 80% của người Nhật",
+      "slug": "an-no-80-phan-tram-hara-hachi-bu",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Chế độ ăn Okinawa: bài học từ vùng đất trường thọ",
+      "slug": "che-do-an-okinawa-truong-tho",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Đồ lên men kiểu Nhật (miso, natto) trong bữa ăn hằng ngày",
+      "slug": "do-len-men-nhat-ban",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Ikigai: tìm lẽ sống mỗi ngày để tinh thần an vui",
+      "slug": "ikigai-le-song-tinh-than",
+      "category": "thoi-quen",
+      "status": "published"
+    },
+    {
+      "title": "Trà xanh và matcha: thói quen uống trà của người Nhật",
+      "slug": "tra-xanh-matcha-thoi-quen-nhat",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Radio taiso và thói quen vận động nhẹ của người Nhật",
+      "slug": "van-dong-kieu-nhat-radio-taiso",
+      "category": "thoi-quen",
+      "status": "published"
     }
   ],
   "roadmaps": [
@@ -460,7 +496,8 @@
         "an-theo-mua-va-the-tang",
         "day-bung-kho-tieu-sau-an",
         "thuc-uong-am-tra-thao-moc",
-        "tra-thao-moc-tue-minh"
+        "tra-thao-moc-tue-minh",
+        "do-len-men-nhat-ban"
       ]
     },
     {
@@ -480,7 +517,8 @@
         "van-dong-nhe-moi-ngay",
         "cac-loai-hat-dinh-duong",
         "hay-met-ue-oai-giua-buoi",
-        "an-gi-cho-nang-luong-ben"
+        "an-gi-cho-nang-luong-ben",
+        "van-dong-kieu-nhat-radio-taiso"
       ]
     },
     {
@@ -492,7 +530,9 @@
         "qua-bo-gia-tri-va-cach-an",
         "dam-thuc-vat-va-dong-vat",
         "duong-va-do-che-bien-san",
-        "vi-sao-chon-dam-thuc-vat"
+        "vi-sao-chon-dam-thuc-vat",
+        "an-no-80-phan-tram-hara-hachi-bu",
+        "che-do-an-okinawa-truong-tho"
       ]
     },
     {
@@ -519,7 +559,9 @@
       "items": [
         "giu-tinh-than-can-bang",
         "thu-gian-can-bang-hoi-tho",
-        "tra-thanh-huong-thu-gian"
+        "tra-thanh-huong-thu-gian",
+        "ikigai-le-song-tinh-than",
+        "tra-xanh-matcha-thoi-quen-nhat"
       ]
     }
   ],

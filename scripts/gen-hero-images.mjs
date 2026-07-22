@@ -112,6 +112,12 @@ const NEW = {
   "tra-thao-moc-tue-minh": ["warm herbal tea cup with dried medicinal herbs and green leaves, cozy still life", "Trà thảo mộc uống ấm mỗi ngày"],
   "tra-thanh-huong-thu-gian": ["evening herbal tea with osmanthus flowers beside a warm lamp, relaxing still life", "Thức uống thảo mộc thư giãn buổi tối"],
   "app-iki-ca-nhan-hoa": ["smartphone on a wooden desk beside a cup of tea and a small plant, calm wellness lifestyle, no faces", "Chăm sóc sức khoẻ cá nhân hoá cùng App IKI"],
+  "an-no-80-phan-tram-hara-hachi-bu": ["japanese balanced meal in small ceramic bowls, minimalist table, rice vegetables and tofu, portioned", "Bữa ăn cân đối kiểu Nhật, ăn no 80%"],
+  "che-do-an-okinawa-truong-tho": ["okinawan healthy food spread, sweet potato tofu vegetables and seaweed in bowls, fresh", "Chế độ ăn Okinawa nhiều rau củ"],
+  "do-len-men-nhat-ban": ["japanese fermented foods still life, miso paste, natto and pickled vegetables in small dishes", "Đồ lên men kiểu Nhật: miso, natto"],
+  "ikigai-le-song-tinh-than": ["serene japanese zen corner with green tea and a bonsai plant, calm morning light, minimal", "Ikigai: khoảng lặng tinh thần an vui"],
+  "tra-xanh-matcha-thoi-quen-nhat": ["matcha green tea with bamboo whisk and ceramic bowl, japanese tea ceremony still life", "Trà xanh matcha và nghi thức trà Nhật"],
+  "van-dong-kieu-nhat-radio-taiso": ["peaceful green park at dawn with soft morning light, calm outdoor setting, no people", "Vận động nhẹ buổi sáng kiểu Nhật"],
 };
 
 // 18 bài cũ chỉ đóng logo lên ảnh có sẵn
