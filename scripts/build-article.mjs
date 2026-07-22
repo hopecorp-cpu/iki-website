@@ -35,7 +35,7 @@ function slugifyHeading(s) {
 function inline(t) {
   let s = esc(t);
   s = s.replace(/\[([^\]]+)\]\((https?:[^)]+)\)/g, (m, txt, url) => `<a href="${escAttr(url)}">${txt}</a>`);
-  s = s.replace(/\[([^\]]+)\]\((\/[^)]*|[a-z0-9\-]+\.html[^)]*)\)/gi, (m, txt, url) => `<a href="${escAttr(url)}">${txt}</a>`);
+  s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (m, txt, url) => `<a href="${escAttr(url)}">${txt}</a>`);
   s = s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
   s = s.replace(/(^|[^*])\*([^*]+)\*(?!\*)/g, "$1<em>$2</em>");
   return s;
