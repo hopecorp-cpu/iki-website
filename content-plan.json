@@ -209,7 +209,7 @@
       "title": "Hiểu về đường và đồ chế biến sẵn: ăn uống điều độ",
       "slug": "duong-va-do-che-bien-san",
       "category": "dinh-duong",
-      "status": "planned"
+      "status": "published"
     },
     {
       "title": "Giấc ngủ chất lượng: thói quen cho đêm ngon, ngày tỉnh táo",
@@ -233,7 +233,7 @@
       "title": "Thư giãn & cân bằng: hơi thở và nghỉ ngơi chủ động",
       "slug": "thu-gian-can-bang-hoi-tho",
       "category": "thoi-quen",
-      "status": "planned"
+      "status": "published"
     },
     {
       "title": "5 thể tạng theo Đông y: bạn thuộc kiểu nào?",
@@ -251,7 +251,7 @@
       "title": "Kinh nghiệm dân gian Việt trong chăm sóc sức khoẻ hằng ngày",
       "slug": "kinh-nghiem-dan-gian-cham-soc",
       "category": "dong-y",
-      "status": "planned"
+      "status": "published"
     },
     {
       "title": "Quả bơ: giá trị dinh dưỡng và cách ăn cho hợp lý",
@@ -293,6 +293,60 @@
       "title": "Lộ trình chăm sóc sức khoẻ chủ động cho người cao tuổi (55+)",
       "slug": "lo-trinh-nguoi-cao-tuoi",
       "category": "lo-trinh",
+      "status": "published"
+    },
+    {
+      "title": "Hay đầy bụng, khó tiêu sau khi ăn: điều chỉnh thói quen thế nào",
+      "slug": "day-bung-kho-tieu-sau-an",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Khó ngủ, trằn trọc: nếp buổi tối giúp dễ vào giấc",
+      "slug": "kho-ngu-tran-troc-nep-buoi-toi",
+      "category": "thoi-quen",
+      "status": "published"
+    },
+    {
+      "title": "Hay mệt, uể oải giữa buổi: vì sao và ăn uống thế nào",
+      "slug": "hay-met-ue-oai-giua-buoi",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Chăm da từ bên trong: ăn uống cho làn da khoẻ",
+      "slug": "cham-da-tu-ben-trong",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Tóc yếu, tóc rụng: dinh dưỡng hỗ trợ mái tóc chắc khoẻ",
+      "slug": "toc-yeu-rung-dinh-duong",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Đạm thực vật và đạm động vật: chọn thế nào cho cân bằng",
+      "slug": "dam-thuc-vat-va-dong-vat",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Ăn gì để có năng lượng bền cả ngày làm việc",
+      "slug": "an-gi-cho-nang-luong-ben",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Thức uống ấm mỗi ngày và trà thảo mộc",
+      "slug": "thuc-uong-am-tra-thao-moc",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Căng thẳng, hay cáu: thói quen giữ tinh thần cân bằng",
+      "slug": "giu-tinh-than-can-bang",
+      "category": "thoi-quen",
       "status": "published"
     }
   ],
@@ -379,7 +433,9 @@
         "rau-la-xanh-moi-ngay",
         "gia-vi-viet-gung-nghe-sa",
         "uong-nuoc-dung-cach-moi-ngay",
-        "an-theo-mua-va-the-tang"
+        "an-theo-mua-va-the-tang",
+        "day-bung-kho-tieu-sau-an",
+        "thuc-uong-am-tra-thao-moc"
       ]
     },
     {
@@ -387,7 +443,8 @@
       "desc": "Thói quen buổi tối và nhịp sống giúp bạn dễ vào giấc, ngủ sâu hơn.",
       "items": [
         "giac-ngu-chat-luong",
-        "thoi-quen-buoi-sang"
+        "thoi-quen-buoi-sang",
+        "kho-ngu-tran-troc-nep-buoi-toi"
       ]
     },
     {
@@ -396,7 +453,9 @@
       "items": [
         "an-sang-tran-nang-luong",
         "van-dong-nhe-moi-ngay",
-        "cac-loai-hat-dinh-duong"
+        "cac-loai-hat-dinh-duong",
+        "hay-met-ue-oai-giua-buoi",
+        "an-gi-cho-nang-luong-ben"
       ]
     },
     {
@@ -405,7 +464,9 @@
       "items": [
         "8-nhom-thuc-pham-lanh-manh",
         "an-chay-du-chat-can-bang",
-        "qua-bo-gia-tri-va-cach-an"
+        "qua-bo-gia-tri-va-cach-an",
+        "dam-thuc-vat-va-dong-vat",
+        "duong-va-do-che-bien-san"
       ]
     },
     {
@@ -413,7 +474,24 @@
       "desc": "Nhận biết thể tạng và cân bằng âm dương để chăm sóc đúng với chính mình.",
       "items": [
         "5-the-tang-theo-dong-y",
-        "minh-triet-an-uong-am-duong"
+        "minh-triet-an-uong-am-duong",
+        "kinh-nghiem-dan-gian-cham-soc"
+      ]
+    },
+    {
+      "name": "Da & tóc khoẻ",
+      "desc": "Chăm làn da và mái tóc từ bên trong bằng dinh dưỡng và thói quen mỗi ngày.",
+      "items": [
+        "cham-da-tu-ben-trong",
+        "toc-yeu-rung-dinh-duong"
+      ]
+    },
+    {
+      "name": "Tinh thần thư thái",
+      "desc": "Giữ tâm trí cân bằng, bớt căng thẳng bằng hơi thở, nghỉ ngơi và nhịp sống lành.",
+      "items": [
+        "giu-tinh-than-can-bang",
+        "thu-gian-can-bang-hoi-tho"
       ]
     }
   ],
