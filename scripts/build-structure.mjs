@@ -70,6 +70,9 @@ function head(title, desc, canonical, ldExtra, noindex) {
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
+  <!-- Google tag: GA4 + Google Ads (remarketing) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9X3LTTL2N3"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-9X3LTTL2N3');gtag('config','AW-18332022859');</script>
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io https://hope-ops-hub.vercel.app;" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -380,7 +383,7 @@ export function buildStructure() {
   fs.writeFileSync(path.join(outDir, "cam-on.html"),
     head("Cảm ơn bạn đã đăng ký | Blog IKI", "Cảm ơn bạn đã để lại email nhận cẩm nang chăm sóc sức khoẻ chủ động từ IKI.", `${SITE}/blog/cam-on.html`, null, true)
     + header()
-    + `<main><section class="blog-hero" style="padding-bottom:40px"><span class="eyebrow">Đã nhận đăng ký</span><h1>Cảm ơn bạn!</h1><p>IKI đã nhận email của bạn. Cẩm nang cũng vừa được gửi vào hộp thư của bạn — hoặc tải trực tiếp ngay dưới đây:</p><div style="margin-top:22px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap"><a class="btn btn-primary" href="../assets/cam-nang-cham-soc-suc-khoe-chu-dong.pdf" target="_blank" rel="noopener">Tải cẩm nang PDF →</a><a class="btn btn-secondary" href="index.html">Đọc Blog IKI</a><a class="btn btn-secondary" href="../app.html">Tải App IKI</a></div></section></main>`
+    + `<main><section class="blog-hero" style="padding-bottom:40px"><span class="eyebrow">Đã nhận đăng ký</span><h1>Cảm ơn bạn!</h1><p>IKI đã nhận email của bạn. Cẩm nang cũng vừa được gửi vào hộp thư của bạn — hoặc tải trực tiếp ngay dưới đây:</p><div style="margin-top:22px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap"><a class="btn btn-primary" href="../assets/cam-nang-cham-soc-suc-khoe-chu-dong.pdf" target="_blank" rel="noopener">Tải cẩm nang PDF →</a><a class="btn btn-secondary" href="index.html">Đọc Blog IKI</a><a class="btn btn-secondary" href="../app.html">Tải App IKI</a></div></section><script>try{if(typeof gtag==='function'){gtag('event','generate_lead',{event_category:'blog',event_label:'lead_magnet'});}}catch(e){}</script></main>`
     + footer(), "utf8");
 
   updateSitemap(plan);

@@ -187,6 +187,9 @@ function render(fm, body) {
 <html lang="vi">
 <head>
   <meta charset="UTF-8" />
+  <!-- Google tag: GA4 + Google Ads (remarketing) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9X3LTTL2N3"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-9X3LTTL2N3');gtag('config','AW-18332022859');</script>
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io https://hope-ops-hub.vercel.app;" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
