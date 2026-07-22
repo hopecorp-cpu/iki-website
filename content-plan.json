@@ -32,6 +32,11 @@
       "slug": "thuc-pham",
       "name": "Kiến thức thực phẩm",
       "desc": "Hiểu từng loại rau, quả, hạt, gia vị và cách dùng cho hợp lý."
+    },
+    {
+      "slug": "cam-nang-suc-khoe",
+      "name": "Cẩm nang sức khoẻ",
+      "desc": "Kiến thức tham khảo về các vấn đề sức khoẻ thường gặp: dấu hiệu, nguyên nhân và khi nào cần đi khám bác sĩ. Không thay thế thăm khám y khoa."
     }
   ],
   "chapters": [
@@ -407,6 +412,54 @@
       "title": "Radio taiso và thói quen vận động nhẹ của người Nhật",
       "slug": "van-dong-kieu-nhat-radio-taiso",
       "category": "thoi-quen",
+      "status": "published"
+    },
+    {
+      "title": "Rối loạn mỡ máu: dấu hiệu, nguyên nhân và khi nào đi khám",
+      "slug": "mau-nhiem-mo",
+      "category": "cam-nang-suc-khoe",
+      "status": "published"
+    },
+    {
+      "title": "Gan nhiễm mỡ: dấu hiệu, nguyên nhân và khi nào đi khám",
+      "slug": "gan-nhiem-mo",
+      "category": "cam-nang-suc-khoe",
+      "status": "published"
+    },
+    {
+      "title": "Tăng huyết áp: dấu hiệu, nguyên nhân và khi nào đi khám",
+      "slug": "tang-huyet-ap",
+      "category": "cam-nang-suc-khoe",
+      "status": "published"
+    },
+    {
+      "title": "Thiếu máu: dấu hiệu, nguyên nhân và khi nào đi khám",
+      "slug": "thieu-mau",
+      "category": "cam-nang-suc-khoe",
+      "status": "published"
+    },
+    {
+      "title": "Suy giãn tĩnh mạch chân: dấu hiệu và khi nào đi khám",
+      "slug": "suy-gian-tinh-mach-chan",
+      "category": "cam-nang-suc-khoe",
+      "status": "published"
+    },
+    {
+      "title": "Thoái hoá khớp: dấu hiệu, nguyên nhân và khi nào đi khám",
+      "slug": "thoai-hoa-khop",
+      "category": "cam-nang-suc-khoe",
+      "status": "published"
+    },
+    {
+      "title": "Tê bì chân tay: nguyên nhân và khi nào cần đi khám",
+      "slug": "te-bi-chan-tay",
+      "category": "cam-nang-suc-khoe",
+      "status": "published"
+    },
+    {
+      "title": "Đau nửa đầu (Migraine): dấu hiệu và khi nào đi khám",
+      "slug": "dau-nua-dau",
+      "category": "cam-nang-suc-khoe",
       "status": "published"
     }
   ],

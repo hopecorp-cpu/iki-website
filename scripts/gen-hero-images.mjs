@@ -118,6 +118,14 @@ const NEW = {
   "ikigai-le-song-tinh-than": ["serene japanese zen corner with green tea and a bonsai plant, calm morning light, minimal", "Ikigai: khoảng lặng tinh thần an vui"],
   "tra-xanh-matcha-thoi-quen-nhat": ["matcha green tea with bamboo whisk and ceramic bowl, japanese tea ceremony still life", "Trà xanh matcha và nghi thức trà Nhật"],
   "van-dong-kieu-nhat-radio-taiso": ["peaceful green park at dawn with soft morning light, calm outdoor setting, no people", "Vận động nhẹ buổi sáng kiểu Nhật"],
+  "mau-nhiem-mo": ["heart friendly foods, olive oil, fish, nuts and fresh vegetables on a table, calm still life", "Thực phẩm tốt cho tim mạch"],
+  "gan-nhiem-mo": ["fresh green vegetables, leafy greens and a glass of water, clean healthy diet still life", "Rau xanh và nước cho chế độ ăn lành"],
+  "tang-huyet-ap": ["a blood pressure monitor beside fresh vegetables and fruit on a wooden table, calm", "Theo dõi huyết áp và ăn uống lành mạnh"],
+  "thieu-mau": ["iron rich foods, leafy greens, beans and red fruits on a wooden table, healthy nutrition", "Thực phẩm giàu sắt"],
+  "suy-gian-tinh-mach-chan": ["walking shoes and a water bottle beside a park path, gentle exercise, soft light, no people", "Vận động nhẹ, đi bộ đều đặn"],
+  "thoai-hoa-khop": ["a yoga mat and water bottle in a bright calm room, gentle movement, no people", "Vận động nhẹ nhàng cho khớp"],
+  "te-bi-chan-tay": ["a quiet nature walking path with soft morning light, calm outdoor scene, no people", "Đi bộ nhẹ trong thiên nhiên"],
+  "dau-nua-dau": ["a calm dim room with a warm cup of tea and a soft blanket, relaxing atmosphere, no people", "Không gian yên tĩnh thư giãn"],
 };
 
 // 18 bài cũ chỉ đóng logo lên ảnh có sẵn

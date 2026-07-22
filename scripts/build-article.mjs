@@ -225,6 +225,8 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
     .post-eyebrow{display:inline-block;font-family:var(--font-sans,'Manrope');font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
+    .med-notice{background:#fef6e7;border:1px solid #f0d8a8;border-left:4px solid #d99a2b;border-radius:12px;padding:14px 18px;margin:22px 0;color:#8a5a12;font-size:.95rem;line-height:1.55}
+    .med-notice a{color:#8a5a12;text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -312,6 +314,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
       </div>
 
       <div class="post-wrap">
+        ${fm.no_product ? `<div class="med-notice" role="note"><strong>Lưu ý y khoa:</strong> Bài viết cung cấp kiến thức tham khảo, không nhằm chẩn đoán hay thay thế thăm khám, tư vấn của bác sĩ. Nếu có dấu hiệu bất thường, hãy đến cơ sở y tế. Xem thêm <a href="mien-tru-trach-nhiem.html">Miễn trừ trách nhiệm</a>.</div>` : ""}
         ${answerHtml}
         ${journeyHtml}
         ${tocHtml}
@@ -319,15 +322,15 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
 ${article}
         </div>
 
-        <div class="post-cta">
+        ${fm.no_product ? "" : `<div class="post-cta">
           <h3>Chăm sóc sức khoẻ chủ động cùng IKI</h3>
           <p>AI Coach Đông Y cá nhân hoá theo thể tạng — nhật ký 30 giây mỗi ngày. Miễn phí.</p>
           <a class="btn btn-primary" href="../app.html">Tải App IKI miễn phí →</a>
-        </div>
+        </div>`}
 
         ${faqHtml}
         ${emailCta(PLAN, "article:" + fm.slug)}
-        ${brandBoxHtml}
+        ${fm.no_product ? "" : brandBoxHtml}
         ${relatedHtml}
 
         <div class="post-disclaimer">
