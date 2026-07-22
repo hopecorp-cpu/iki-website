@@ -96,6 +96,11 @@ function ensureHero(slug, alt) {
 
 // Bài mới cần generate {slug: [prompt, alt]}
 const NEW = {
+  "suc-khoe-phu-nu-sau-sinh": ["nourishing balanced meal with warm soup, vegetables and fruit beside a cup of tea, cozy home still life, no people", "Bữa ăn cân bằng phục hồi cho mẹ sau sinh"],
+  "suc-khoe-tai-xe-duong-dai": ["water bottle and healthy snacks, nuts and fruit in a car cup holder on a long road trip, no people", "Nước và đồ ăn nhẹ lành mạnh cho chuyến đi dài"],
+  "suc-khoe-giao-vien": ["warm herbal tea cup and a water bottle on a wooden desk with books, cozy calm still life, no people", "Trà thảo mộc ấm và nước bên bàn làm việc"],
+  "suc-khoe-hoc-sinh-mua-thi": ["tidy study desk with a healthy snack, nuts fruit and a glass of water beside books, bright focus, no people", "Bàn học gọn với bữa phụ lành mạnh mùa thi"],
+  "dinh-duong-nguoi-tap-gym": ["post workout meal with plant protein, vegetables, beans and a glass of water on a table, fresh still life, no people", "Bữa ăn giàu đạm thực vật sau buổi tập"],
   "day-bung-kho-tieu-sau-an": ["fresh ginger tea, sliced ginger and green vegetables, warm cozy still life", "Trà gừng ấm và rau xanh"],
   "thuc-uong-am-tra-thao-moc": ["herbal tea in a ceramic cup with dried herbs and steam, warm morning", "Tách trà thảo mộc ấm"],
   "kho-ngu-tran-troc-nep-buoi-toi": ["calm bedside nightstand with a warm lamp and a cup of herbal tea at night, serene", "Góc thư giãn buổi tối trước khi ngủ"],
