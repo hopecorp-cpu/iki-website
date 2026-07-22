@@ -250,7 +250,7 @@ export function buildStructure() {
     : plan.articles.filter((a) => a.category === slug).length;
 
   // ---------- INDEX (theo chặng + sidebar + CTA) ----------
-  const catNav = `<nav class="cat-nav"><a href="lo-trinh.html">Lộ trình</a>${plan.categories.filter((c) => c.slug !== "lo-trinh").map((c) => `<a href="danh-muc-${c.slug}.html">${esc(c.name)}</a>`).join("")}</nav>`;
+  const catNav = `<nav class="cat-nav"><a href="lo-trinh.html">Lộ trình</a><a href="moi-quan-tam.html">Theo mối quan tâm</a>${plan.categories.filter((c) => c.slug !== "lo-trinh").map((c) => `<a href="danh-muc-${c.slug}.html">${esc(c.name)}</a>`).join("")}<a href="cam-nhan-cong-dong.html">Cảm nhận cộng đồng</a></nav>`;
   const chapters = (plan.chapters || []).map((ch) =>
     `<section class="chapter"><div class="ch-head"><h2>${esc(ch.title)}</h2>${ch.desc ? `<p>${esc(ch.desc)}</p>` : ""}</div><div class="chip-grid">${ch.items.map((it) => chipCard(it.slug, it.tier, tmap)).join("")}</div></section>`
   ).join("");
@@ -315,6 +315,37 @@ export function buildStructure() {
     + `<main><section class="blog-hero"><span class="eyebrow">Lộ trình theo chặng</span><h1>Lộ trình chăm sóc sức khoẻ chủ động</h1><p>Chọn lộ trình phù hợp với bạn — theo độ tuổi, nhu cầu sống và mối quan tâm. Mỗi lộ trình đi theo chặng, từ dễ đến sâu.</p></section>${groups}${emailCta(plan, "lo-trinh")}</main>`
     + footer(), "utf8");
 
+  // ---------- HUB THEO MỐI QUAN TÂM ----------
+  const concerns = Array.isArray(plan.concerns) ? plan.concerns : [];
+  const catOf = (slug) => { const a = plan.articles.find((x) => x.slug === slug); return a ? catName(a.category) : ""; };
+  const concernSections = concerns.map((g) => {
+    const cards = (g.items || []).filter((s) => isPublished(s)).map((s) => imgCard({ slug: s, title: (tmap[s] || s) }, catOf(s))).join("");
+    if (!cards) return "";
+    return `<section class="cat-section"><div class="ch-head" style="text-align:center;margin-bottom:14px"><h2>${esc(g.name)}</h2>${g.desc ? `<p>${esc(g.desc)}</p>` : ""}</div><div class="blog-grid">${cards}</div></section>`;
+  }).join("");
+  fs.writeFileSync(path.join(outDir, "moi-quan-tam.html"),
+    head("Chăm sóc theo mối quan tâm | Blog IKI",
+      "Chọn theo điều bạn quan tâm — tiêu hoá nhẹ nhàng, ngủ ngon, năng lượng mỗi ngày, ăn uống cân bằng — và tìm bài viết chăm sóc sức khoẻ chủ động phù hợp.",
+      `${SITE}/blog/moi-quan-tam.html`,
+      { "@context": "https://schema.org", "@type": "CollectionPage", name: "Chăm sóc sức khoẻ theo mối quan tâm", url: `${SITE}/blog/moi-quan-tam.html`, inLanguage: "vi-VN" })
+    + header()
+    + `<main><section class="blog-hero"><span class="eyebrow">Theo mối quan tâm</span><h1>Chăm sóc theo điều bạn đang quan tâm</h1><p>Bạn đang để ý tới tiêu hoá, giấc ngủ, năng lượng hay bữa ăn cân bằng? Chọn nhóm quan tâm của mình để đọc những bài phù hợp nhất — đây là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay thay thế tư vấn y khoa.</p></section>${catNav}${concernSections}${emailCta(plan, "moi-quan-tam")}</main>`
+    + footer(), "utf8");
+
+  // ---------- CẢM NHẬN CỘNG ĐỒNG (testimonials — bản đã lọc, hợp luật TPBS) ----------
+  const tms = Array.isArray(plan.testimonials) ? plan.testimonials : [];
+  const tmCards = tms.map((t) => `<figure class="tm-card"><blockquote>${esc(t.text)}</blockquote><figcaption><span class="tm-name">${esc(t.name)}</span>${t.place ? `<span class="tm-place">${esc(t.place)}</span>` : ""}</figcaption></figure>`).join("");
+  const tmStyle = `<style>.tm-wrap{max-width:1100px;margin:0 auto;padding:8px 20px 10px}.tm-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}.tm-card{background:#fff;border:1px solid #eef0f3;border-radius:16px;padding:22px 22px 18px;box-shadow:0 1px 2px rgba(16,24,40,.04),0 2px 10px rgba(16,24,40,.05);display:flex;flex-direction:column;gap:14px}.tm-card blockquote{margin:0;color:#344054;font-size:1.02rem;line-height:1.65}.tm-card blockquote::before{content:"\\201C";color:var(--iki-teal,#4BC0AB);font-family:var(--font-display,'Cormorant Garamond');font-size:2rem;line-height:0;vertical-align:-.35em;margin-right:2px}.tm-card figcaption{display:flex;flex-direction:column}.tm-name{font-weight:700;color:#101828}.tm-place{color:#98a2b3;font-size:.86rem}.tm-note{max-width:1100px;margin:6px auto 0;padding:0 20px;color:#98a2b3;font-size:.86rem;text-align:center}</style>`;
+  fs.writeFileSync(path.join(outDir, "cam-nhan-cong-dong.html"),
+    head("Cảm nhận cộng đồng | Blog IKI",
+      "Những chia sẻ chân thật của cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động mỗi ngày.",
+      `${SITE}/blog/cam-nhan-cong-dong.html`,
+      { "@context": "https://schema.org", "@type": "CollectionPage", name: "Cảm nhận cộng đồng IKI", url: `${SITE}/blog/cam-nhan-cong-dong.html`, inLanguage: "vi-VN" })
+    + header()
+    + tmStyle
+    + `<main><section class="blog-hero"><span class="eyebrow">Cảm nhận cộng đồng</span><h1>Những thói quen nhỏ, kể bằng lời thật</h1><p>Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Mỗi người một cảm nhận riêng.</p></section><div class="tm-wrap"><div class="tm-grid">${tmCards}</div></div><p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người. Sản phẩm là thực phẩm bổ sung, không phải thuốc và không thay thế thuốc chữa bệnh.</p>${emailCta(plan, "cam-nhan-cong-dong")}</main>`
+    + footer(), "utf8");
+
   // ---------- THANK YOU ----------
   fs.writeFileSync(path.join(outDir, "cam-on.html"),
     head("Cảm ơn bạn đã đăng ký | Blog IKI", "Cảm ơn bạn đã để lại email nhận cẩm nang chăm sóc sức khoẻ chủ động từ IKI.", `${SITE}/blog/cam-on.html`, null, true)
@@ -366,7 +397,7 @@ function updateSitemap(plan) {
   let xml = fs.readFileSync(sp, "utf8");
   const today = "2026-07-21";
   const url = (loc, pri, freq) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>\n  </url>`;
-  const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly")];
+  const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly")];
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
   for (const a of plan.articles) if (isPublished(a.slug)) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly"));
   const block = `  <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- BLOG:END -->`;
