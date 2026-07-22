@@ -126,6 +126,10 @@ const NEW = {
   "thoai-hoa-khop": ["a yoga mat and water bottle in a bright calm room, gentle movement, no people", "Vận động nhẹ nhàng cho khớp"],
   "te-bi-chan-tay": ["a quiet nature walking path with soft morning light, calm outdoor scene, no people", "Đi bộ nhẹ trong thiên nhiên"],
   "dau-nua-dau": ["a calm dim room with a warm cup of tea and a soft blanket, relaxing atmosphere, no people", "Không gian yên tĩnh thư giãn"],
+  "lo-trinh-dan-van-phong": ["tidy modern office desk with a green plant, water bottle and laptop by a window, calm, no people", "Bàn làm việc gọn gàng, chăm sóc sức khoẻ văn phòng"],
+  "suc-khoe-cho-coder-it": ["clean programmer desk with monitor, mechanical keyboard, a plant and a glass of water, calm, no people", "Bàn làm việc của lập trình viên"],
+  "suc-khoe-cho-nhan-vien-sale": ["car dashboard with a water bottle and a healthy snack in a cup holder, on the road, no people", "Chăm sóc sức khoẻ khi di chuyển nhiều"],
+  "suc-khoe-cho-nhan-vien-hanh-chinh": ["office chair and desk with a small plant and a glass of water by a bright window, calm, no people", "Góc làm việc hành chính lành mạnh"],
 };
 
 // 18 bài cũ chỉ đóng logo lên ảnh có sẵn

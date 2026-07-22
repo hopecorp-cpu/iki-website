@@ -461,6 +461,30 @@
       "slug": "dau-nua-dau",
       "category": "cam-nang-suc-khoe",
       "status": "published"
+    },
+    {
+      "title": "Lộ trình chăm sóc sức khoẻ cho dân văn phòng",
+      "slug": "lo-trinh-dan-van-phong",
+      "category": "thoi-quen",
+      "status": "published"
+    },
+    {
+      "title": "Chăm sóc sức khoẻ cho lập trình viên và dân IT",
+      "slug": "suc-khoe-cho-coder-it",
+      "category": "thoi-quen",
+      "status": "published"
+    },
+    {
+      "title": "Chăm sóc sức khoẻ cho nhân viên kinh doanh, sale",
+      "slug": "suc-khoe-cho-nhan-vien-sale",
+      "category": "thoi-quen",
+      "status": "published"
+    },
+    {
+      "title": "Chăm sóc sức khoẻ cho nhân viên hành chính văn phòng",
+      "slug": "suc-khoe-cho-nhan-vien-hanh-chinh",
+      "category": "thoi-quen",
+      "status": "published"
     }
   ],
   "roadmaps": [
@@ -495,8 +519,8 @@
       "desc": "Chăm sóc phù hợp với hoàn cảnh sống của bạn.",
       "items": [
         {
-          "title": "Lộ trình cho người bận rộn / dân văn phòng",
-          "slug": "lo-trinh-nguoi-ban-ron",
+          "title": "Lộ trình cho dân văn phòng (coder · sale · hành chính)",
+          "slug": "lo-trinh-dan-van-phong",
           "status": "planned"
         },
         {
