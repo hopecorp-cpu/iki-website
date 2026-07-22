@@ -216,6 +216,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ikihealing.com/blog/an-sang-tran-nang-luong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ikihealing.com/blog/giac-ngu-chat-luong.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -223,6 +229,12 @@
   </url>
   <url>
     <loc>https://ikihealing.com/blog/van-dong-nhe-moi-ngay.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/thoi-quen-buoi-sang.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -246,7 +258,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://ikihealing.com/blog/cac-loai-hat-dinh-duong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ikihealing.com/blog/rau-la-xanh-moi-ngay.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/gia-vi-viet-gung-nghe-sa.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
