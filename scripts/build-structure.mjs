@@ -219,7 +219,7 @@ const footer = () => `
       <div><h4>Liên hệ</h4><ul class="contact-list"><li class="contact-item"><span class="contact-label">Email</span><a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></li><li class="contact-item"><span class="contact-label">Tư vấn</span><a href="tel:0987931551">0987.931.551</a></li></ul></div>
     </div>
     <div class="global-disclaimer"><p>Các sản phẩm là <strong style="color:rgba(255,255,255,0.78);">thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Kết quả có thể khác nhau tuỳ cơ địa.</p></div>
-    <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span></div>
+    <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span> <a href="mien-tru-trach-nhiem.html" style="color:rgba(255,255,255,0.7);text-decoration:underline">Miễn trừ trách nhiệm</a></div>
   </div></footer>
 </body>
 </html>
@@ -346,6 +346,36 @@ export function buildStructure() {
     + `<main><section class="blog-hero"><span class="eyebrow">Cảm nhận cộng đồng</span><h1>Những thói quen nhỏ, kể bằng lời thật</h1><p>Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Mỗi người một cảm nhận riêng.</p></section><div class="tm-wrap"><div class="tm-grid">${tmCards}</div></div><p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người. Sản phẩm là thực phẩm bổ sung, không phải thuốc và không thay thế thuốc chữa bệnh.</p>${emailCta(plan, "cam-nhan-cong-dong")}</main>`
     + footer(), "utf8");
 
+  // ---------- MIỄN TRỪ TRÁCH NHIỆM (điều khoản nội dung) ----------
+  const legalStyle = `<style>.legal{max-width:760px;margin:0 auto;padding:8px 22px 10px;font-size:1.02rem;color:#344054}.legal h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.4rem;color:#101828;margin:1.7em 0 .4em;scroll-margin-top:90px}.legal h2 .ln{color:var(--iki-teal-deep,#2E8975);font-family:var(--font-sans,'Manrope');font-size:.9rem;font-weight:700;margin-right:8px}.legal p{margin:.7em 0;line-height:1.72}.legal ul{margin:.5em 0;padding-left:1.3em}.legal li{margin:.35em 0;line-height:1.6}.legal strong{color:#101828}.legal .upd{color:#98a2b3;font-size:.88rem}.legal .note{background:#f4f8ff;border:1px solid #d6e4fb;border-radius:12px;padding:14px 18px;color:#334155;font-size:.94rem;margin:16px 0}</style>`;
+  const legalBody = `<section class="legal">
+    <p class="upd">Cập nhật: 2026 · Áp dụng cho blog và các kênh nội dung của IKI by HOPE CORP.</p>
+    <div class="note">Văn bản này là điều khoản nội dung &amp; miễn trừ trách nhiệm cho mục đích tham khảo và minh bạch với người đọc. Doanh nghiệp nên để bộ phận pháp chế rà soát trước khi coi là văn bản pháp lý chính thức.</div>
+    <h2><span class="ln">1.</span>Mục đích và phạm vi nội dung</h2>
+    <p>Toàn bộ nội dung trên blog và các kênh chính thức của IKI (bài viết, hình ảnh, video, bản tin, cẩm nang…) hướng tới mục tiêu <strong>chia sẻ kiến thức chăm sóc sức khoẻ chủ động</strong>: dinh dưỡng, thói quen, vận động, giấc ngủ, tinh thần và kinh nghiệm dân gian được tiếp nhận có chọn lọc. Nội dung mang tính phổ thông, giáo dục cộng đồng, giúp người đọc <strong>hiểu đúng – làm đúng – duy trì lâu dài</strong>.</p>
+    <p>IKI là thương hiệu thuộc Công ty Cổ phần TMDV HOPE, <strong>không phải cơ sở khám chữa bệnh</strong>. Nội dung không phải là dịch vụ y tế và không thay thế việc thăm khám, chẩn đoán hay tư vấn trực tiếp của bác sĩ có thẩm quyền.</p>
+    <h2><span class="ln">2.</span>Không thay thế tư vấn y khoa cá nhân</h2>
+    <p>Mỗi cơ thể là một trường hợp riêng. Điều phù hợp với người này chưa chắc phù hợp với người khác. Nếu bạn đang có bệnh lý nền, đang dùng thuốc theo đơn, đang mang thai hoặc cho con bú, hãy <strong>trao đổi với bác sĩ của bạn trước khi áp dụng</strong> bất kỳ gợi ý nào từ nội dung của chúng tôi. Việc lắng nghe cơ thể và điều chỉnh cùng chuyên gia là nền tảng của chăm sóc sức khoẻ chủ động.</p>
+    <h2><span class="ln">3.</span>Về sản phẩm của IKI / HOPE</h2>
+    <p>Các sản phẩm của IKI (đạm thực vật, trà thảo mộc và các sản phẩm khác) là <strong>thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh</strong>. Sản phẩm được công bố theo quy định hiện hành. Cảm nhận và kết quả có thể khác nhau tuỳ cơ địa, chế độ sinh hoạt và mức độ kiên trì của mỗi người.</p>
+    <h2><span class="ln">4.</span>Về cảm nhận và trải nghiệm cộng đồng</h2>
+    <p>Các chia sẻ, cảm nhận của thành viên cộng đồng là <strong>trải nghiệm cá nhân về thay đổi thói quen sinh hoạt</strong>, không phải lời khuyên y khoa, không đại diện cho tất cả mọi người và không phải cam kết về kết quả sức khoẻ.</p>
+    <h2><span class="ln">5.</span>Miễn trừ trách nhiệm</h2>
+    <p>IKI / HOPE CORP và đội ngũ vận hành <strong>không chịu trách nhiệm pháp lý hoặc cá nhân</strong> đối với bất kỳ rủi ro, hệ quả hoặc tác động không mong muốn nào có thể phát sinh khi người đọc <strong>tự ý áp dụng thông tin mà không có hướng dẫn y tế phù hợp</strong>. Mọi nội dung chỉ mang tính tham khảo, giáo dục và khuyến khích thay đổi lối sống tích cực, không nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa cá nhân.</p>
+    <h2><span class="ln">6.</span>Bản quyền và sử dụng lại nội dung</h2>
+    <p>Nội dung, hình ảnh và tài liệu trên các kênh của IKI thuộc bản quyền của Công ty Cổ phần TMDV HOPE. Việc trích dẫn hoặc sử dụng lại cần ghi rõ nguồn và không chỉnh sửa làm sai lệch nội dung gốc. Chúng tôi khuyến khích chia sẻ có trách nhiệm vì mục tiêu lan toả tri thức sức khoẻ, và không chịu trách nhiệm với việc diễn giải sai lệch nằm ngoài phạm vi kiểm soát của mình.</p>
+    <h2><span class="ln">7.</span>Đồng ý và luật áp dụng</h2>
+    <p>Việc truy cập, tham khảo, sử dụng hoặc tham gia các hoạt động do IKI / HOPE vận hành đồng nghĩa với việc bạn đã đọc, hiểu và đồng ý với các điều khoản trong văn bản này. Văn bản được biên soạn theo pháp luật Việt Nam hiện hành; mọi tranh chấp, khiếu nại sẽ được xem xét, giải quyết theo quy định của pháp luật Việt Nam.</p>
+    <p class="upd">Liên hệ: contact@ikihealing.com · 0987.931.551 — Công ty Cổ phần TMDV HOPE (MST 0801404967).</p>
+  </section>`;
+  fs.writeFileSync(path.join(outDir, "mien-tru-trach-nhiem.html"),
+    head("Miễn trừ trách nhiệm &amp; điều khoản nội dung | IKI",
+      "Điều khoản nội dung và miễn trừ trách nhiệm của IKI by HOPE CORP: nội dung mang tính giáo dục, không thay thế tư vấn y khoa; sản phẩm là thực phẩm bổ sung.",
+      `${SITE}/blog/mien-tru-trach-nhiem.html`, null, true)
+    + header() + legalStyle
+    + `<main><section class="blog-hero" style="padding-bottom:6px"><span class="eyebrow">Điều khoản nội dung</span><h1>Miễn trừ trách nhiệm</h1><p>Cách chúng tôi chia sẻ nội dung sức khoẻ và ranh giới trách nhiệm, để bạn đọc an tâm và đúng cách.</p></section>${legalBody}</main>`
+    + footer(), "utf8");
+
   // ---------- THANK YOU ----------
   fs.writeFileSync(path.join(outDir, "cam-on.html"),
     head("Cảm ơn bạn đã đăng ký | Blog IKI", "Cảm ơn bạn đã để lại email nhận cẩm nang chăm sóc sức khoẻ chủ động từ IKI.", `${SITE}/blog/cam-on.html`, null, true)
@@ -397,7 +427,7 @@ function updateSitemap(plan) {
   let xml = fs.readFileSync(sp, "utf8");
   const today = "2026-07-21";
   const url = (loc, pri, freq) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>\n  </url>`;
-  const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly")];
+  const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly"), url(`${SITE}/blog/mien-tru-trach-nhiem.html`, "0.3", "yearly")];
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
   for (const a of plan.articles) if (isPublished(a.slug)) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly"));
   const block = `  <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- BLOG:END -->`;
