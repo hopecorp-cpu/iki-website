@@ -348,6 +348,30 @@
       "slug": "giu-tinh-than-can-bang",
       "category": "thoi-quen",
       "status": "published"
+    },
+    {
+      "title": "Chọn nguồn đạm thực vật thế nào cho đúng",
+      "slug": "vi-sao-chon-dam-thuc-vat",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Trà thảo mộc cho thức uống ấm mỗi ngày",
+      "slug": "tra-thao-moc-tue-minh",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Gợi ý thức uống thảo mộc để thư giãn",
+      "slug": "tra-thanh-huong-thu-gian",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI",
+      "slug": "app-iki-ca-nhan-hoa",
+      "category": "thoi-quen",
+      "status": "published"
     }
   ],
   "roadmaps": [
@@ -435,7 +459,8 @@
         "uong-nuoc-dung-cach-moi-ngay",
         "an-theo-mua-va-the-tang",
         "day-bung-kho-tieu-sau-an",
-        "thuc-uong-am-tra-thao-moc"
+        "thuc-uong-am-tra-thao-moc",
+        "tra-thao-moc-tue-minh"
       ]
     },
     {
@@ -466,7 +491,8 @@
         "an-chay-du-chat-can-bang",
         "qua-bo-gia-tri-va-cach-an",
         "dam-thuc-vat-va-dong-vat",
-        "duong-va-do-che-bien-san"
+        "duong-va-do-che-bien-san",
+        "vi-sao-chon-dam-thuc-vat"
       ]
     },
     {
@@ -475,7 +501,8 @@
       "items": [
         "5-the-tang-theo-dong-y",
         "minh-triet-an-uong-am-duong",
-        "kinh-nghiem-dan-gian-cham-soc"
+        "kinh-nghiem-dan-gian-cham-soc",
+        "app-iki-ca-nhan-hoa"
       ]
     },
     {
@@ -491,7 +518,8 @@
       "desc": "Giữ tâm trí cân bằng, bớt căng thẳng bằng hơi thở, nghỉ ngơi và nhịp sống lành.",
       "items": [
         "giu-tinh-than-can-bang",
-        "thu-gian-can-bang-hoi-tho"
+        "thu-gian-can-bang-hoi-tho",
+        "tra-thanh-huong-thu-gian"
       ]
     }
   ],
