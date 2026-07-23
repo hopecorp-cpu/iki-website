@@ -2,19 +2,13 @@
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
-  <!-- ============ SECURITY HEADERS (meta-equivalent for static hosting) ============
-       Note: full HTTP headers (HSTS, X-Frame-Options, full CSP) require a proxy
-       like Cloudflare. These meta tags are the static-site-safe subset.
-       ============================================================ -->
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io;" />
-  <!-- Google Search Console verification — paste your actual code from GSC here:
-  <meta name="google-site-verification" content="YOUR-CODE-HERE" /> -->
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>IKI — ウェルネステック企業 · AI + データ + 東洋医学の知恵 | HOPE CORP</title>
-  <meta name="description" content="IKI はベトナム発の最初のウェルネステック企業です。AI、ヘルスデータ、そして東洋医学の伝統的な知恵を融合し、一人ひとりに合わせたウェルネスの道筋をパーソナライズします。IKI アプリ、アカデミー、コミュニティ、HOPE CORP の専門家ネットワークを提供します。" />
+  <title>IKI — ウェルネステック企業 · AI + データ + 東洋医学 | HOPE CORP</title>
+  <meta name="description" content="IKI — ベトナム初のウェルネステック企業。AIと健康データを東洋の伝統医学の知恵と組み合わせ、一人ひとりの体質に合わせたケアの道のりをパーソナライズします。" />
   <link rel="canonical" href="https://ikihealing.com/ja/" />
   <link rel="alternate" hreflang="vi" href="https://ikihealing.com/" />
   <link rel="alternate" hreflang="en" href="https://ikihealing.com/en/" />
@@ -23,69 +17,59 @@
 
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="ja_JP" />
-  <meta property="og:locale:alternate" content="vi_VN" />
-  <meta property="og:locale:alternate" content="en_US" />
   <meta property="og:site_name" content="IKI by HOPE CORP" />
   <meta property="og:url" content="https://ikihealing.com/ja/" />
   <meta property="og:title" content="IKI — ウェルネステック企業 · AI + データ + 東洋医学" />
-  <meta property="og:description" content="ベトナム発の最初のウェルネステック企業 — AI、ヘルスデータ、東洋医学の知恵を組み合わせ、一人ひとりに合わせたウェルネスをパーソナライズ。" />
+  <meta property="og:description" content="ウェルネステック企業 — AI + 健康データ + 東洋の伝統医学の知恵。" />
   <meta property="og:image" content="https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg" />
-
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:title" content="IKI — ウェルネステック企業 · AI + データ + 東洋医学" />
-  <meta name="twitter:description" content="ベトナム発の最初のウェルネステック企業 — AI + ヘルスデータ + 東洋医学の知恵。" />
+  <meta name="twitter:title" content="IKI — ウェルネステック企業 · AI + 東洋医学" />
   <meta name="twitter:image" content="https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg" />
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Noto+Serif+JP:wght@500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="icon" type="image/jpeg" href="../iki-logo-256.jpg" />
-  <link rel="stylesheet" href="../styles.css" />
-  <script src="../script.js" defer></script>
-
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500;1,600&family=Noto+Serif+JP:wght@500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="icon" type="image/jpeg" href="/iki-logo-256.jpg" />
+  <link rel="stylesheet" href="/styles.css" />
   <style>
-    /* Japanese typography overrides — pair Noto Serif JP with Cormorant for headings */
-    html[lang="ja"] body { font-family: 'Noto Sans JP', var(--font-body); }
-    html[lang="ja"] h1, html[lang="ja"] h2, html[lang="ja"] h3, html[lang="ja"] h4,
-    html[lang="ja"] .philosophy-quote, html[lang="ja"] .visual-caption strong,
-    html[lang="ja"] .stat-num, html[lang="ja"] .footer-brand,
-    html[lang="ja"] .price-amount, html[lang="ja"] .testimonial-featured blockquote {
-      font-family: 'Noto Serif JP', var(--font-display);
-    }
-    html[lang="ja"] .hero-tagline { font-family: 'Noto Serif JP', var(--font-display); font-style: normal; }
+    html[lang="ja"] body{font-family:'Noto Sans JP','Manrope',sans-serif}
+    html[lang="ja"] h1,html[lang="ja"] h2,html[lang="ja"] h3,html[lang="ja"] .wi-title,html[lang="ja"] .pcw-name,html[lang="ja"] .faq-slim-title,html[lang="ja"] .testimonial-featured-quote{font-family:'Noto Serif JP','Cormorant Garamond',serif}
   </style>
+  <script src="/script.js" defer></script>
 
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "name": "HOPE 商業サービス株式会社",
+    "name": "HOPE Trading and Service JSC",
     "alternateName": ["HOPE CORP", "IKI by HOPE"],
-    "url": "https://ikihealing.com/ja/",
+    "url": "https://ikihealing.com",
     "logo": "https://ikihealing.com/assets/banners/iki-banner-1200x630-og.jpg",
     "email": "contact@ikihealing.com",
     "taxID": "0801404967",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "63/253 Ngo Quyen 通り、Le Thanh Nghi 区",
-      "addressLocality": "ハイフォン市",
+      "streetAddress": "63/253 Ngo Quyen, Le Thanh Nghi Ward",
+      "addressLocality": "Hai Phong",
       "addressCountry": "VN"
     },
-    "brand": {
-      "@type": "Brand",
-      "name": "IKI",
-      "description": "自発的なウェルネス・エコシステム"
-    }
+    "contactPoint": [{"@type": "ContactPoint","telephone": "+84-987-931-551","contactType": "customer service","areaServed": "VN","availableLanguage": ["Vietnamese","Japanese"]}]
   }
   </script>
 
-  <!-- ============ MICROSOFT CLARITY (heatmap + session recording) ============
-       1. Đăng ký free tại https://clarity.microsoft.com/
-       2. Add project → domain ikihealing.com
-       3. Copy Project ID (10 ký tự, vd: "abc1234xyz")
-       4. Replace YOUR_CLARITY_ID bên dưới với ID đó
-       5. Re-deploy — Clarity bắt đầu thu data trong vòng 5 phút
-       ============================================================ -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {"@type":"Question","name":"IKIは他のウェルネスアプリと何が違いますか?","acceptedAnswer":{"@type":"Answer","text":"IKIはベトナム伝統医学の知識とAIを組み合わせ、一律の公式ではなく、あなたの体質に合わせた道のりを提案します。特長は、真のパーソナライゼーション、10万人を超えるコミュニティ、そして許可を得た製品です。"}},
+      {"@type":"Question","name":"時間があまりありません。1日に何分必要ですか?","acceptedAnswer":{"@type":"Answer","text":"1日30秒の記録だけです。分析はAIが行います。"}},
+      {"@type":"Question","name":"西洋薬を服用していますが、やめる必要がありますか?","acceptedAnswer":{"@type":"Answer","text":"いいえ。IKIは補助的なアプローチであり、医療の代わりではありません。薬に関する変更は医師にご相談ください。"}},
+      {"@type":"Question","name":"返金は難しいですか?","acceptedAnswer":{"@type":"Answer","text":"いいえ。最初の30日以内なら、contact@ikihealing.com にメールするだけ——理由は不要です。3〜5日で全額返金します。"}}
+    ]
+  }
+  </script>
+
   <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
       c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -96,13 +80,18 @@
 </head>
 <body>
 
-  <header class="site-header">
+  <!-- ============ ANNOUNCEMENT BAR ============ -->
+  <div class="announcement-bar">
+    IKIアプリ — <a href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">iOS &amp; Android</a>。無料ダウンロード · 東洋医学AIコーチを、いつでも手元に。
+  </div>
+
+  <!-- ============ HEADER ============ -->
+  <header class="site-header" id="site-header">
     <nav class="nav">
       <a class="brand" href="/ja/" aria-label="IKI ホーム">
-        <img class="brand-logo" src="../iki-logo-256.jpg" alt="IKI ロゴ" />
-        <span>IKI<span class="brand-sub">By HOPE CORP</span></span>
+        <img class="brand-logo" src="/iki-logo-256.jpg" alt="IKI ロゴ" />
+        <span>IKI <span class="brand-sub">By HOPE CORP</span></span>
       </a>
-      <div class="lang-switcher is-inline" aria-label="言語"><a href="/"><span class="flag" aria-hidden="true">🇻🇳</span>VI</a><a href="/en/"><span class="flag" aria-hidden="true">🇬🇧</span>EN</a><a href="/ja/" class="active"><span class="flag" aria-hidden="true">🇯🇵</span>JA</a></div>
       <button class="nav-toggle" type="button" aria-label="メニューを開く" aria-expanded="false" aria-controls="primary-nav">
         <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
         <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
@@ -114,448 +103,442 @@
         <li><a href="/ja/coming-soon.html?p=community" rel="nofollow">コミュニティ</a></li>
         <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">製品 ↗</a></li>
         <li><a href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">アプリ</a></li>
-        <li><a href="/ja/coming-soon.html?p=about" rel="nofollow">HOPE CORP について</a></li>
-        <li><a href="/ja/team.html">チーム</a></li>
-        <li><a class="nav-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">🌿 Webアプリを開く →</a></li>
+        <li><a href="/ja/coming-soon.html?p=about" rel="nofollow">HOPE CORPについて</a></li>
       </ul>
+      <div class="nav-lang" aria-label="Language">
+        <a href="/" title="Tiếng Việt">VI</a>
+        <a href="/en/" title="English">EN</a>
+        <a href="/ja/" class="active" title="日本語">日本語</a>
+      </div>
     </nav>
-    <div class="header-subbar"><div class="header-subbar-inner"><div class="lang-switcher" aria-label="言語"><a href="/"><span class="flag" aria-hidden="true">🇻🇳</span>VI</a><a href="/en/"><span class="flag" aria-hidden="true">🇬🇧</span>EN</a><a href="/ja/" class="active"><span class="flag" aria-hidden="true">🇯🇵</span>JA</a></div></div></div>
   </header>
 
-  <!-- HERO -->
-  <section class="hero">
-    <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">ウェルネステック企業 · AI + データ + 東洋医学の知恵</span>
-        <h1>体は健やかに。<span class="h1-break"> </span>心は穏やかに。<span class="h1-break"> </span><em>知は澄やかに。</em></h1>
-        <p class="hero-tagline">真の豊かさを目指して</p>
-        <p class="hero-lead">
-          IKI は<strong>ベトナム発の最初のウェルネステック企業</strong>です。
-          <em>AI パーソナライゼーション</em>、<em>ヘルスデータ</em>、そして<em>東洋医学の伝統的な知恵</em>を融合し、
-          一人ひとりの体質に合わせたウェルネスの道筋をご提案します。
-        </p>
-        <div class="hero-cta">
-          <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">
-            🌿 IKI Web アプリを開く
-            <span aria-hidden="true">→</span>
-          </a>
-          <a class="btn btn-secondary" href="#ecosystem">プラットフォームを見る</a>
-        </div>
-        <div class="hero-microtrust">
-          <span><strong>AI</strong> · 体質ごとにパーソナライズ</span>
-          <span aria-hidden="true">·</span>
-          <span><strong>5 分</strong>の生活習慣チェック</span>
-          <span aria-hidden="true">·</span>
-          <span><strong>100K+</strong> ユーザー</span>
-        </div>
-      </div>
-      <div class="hero-visual hero-visual-photo" aria-hidden="true">
-        <img src="https://images.unsplash.com/photo-1545205597-3d9d02c29597?w=1400&q=80&auto=format&fit=crop"
-             alt=""
-             class="hero-photo-img"
-             loading="eager"
-             fetchpriority="high" />
-        <div class="hero-photo-overlay">
-          <img src="../iki-logo-256.jpg" alt="" class="hero-logo-mark" />
-          <span class="label">IKI · 根からのケア</span>
-        </div>
+  <!-- ============================================================
+       1. HERO — Full-bleed, WHOOP style
+       ============================================================ -->
+  <section class="hero hero-fullbleed">
+    <div class="hfb-bg" style="background-image: url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=2400&q=85&auto=format&fit=crop&crop=center')"></div>
+    <div class="hfb-overlay"></div>
+    <div class="container hfb-content">
+      <span class="eyebrow">ウェルネステック企業 · AI + 東洋医学 + データ</span>
+      <h1>体は健やかに。<br>心は穏やかに。<br><em>知は澄やかに。</em></h1>
+      <p class="hero-lead">IKI — 一人ひとりの体質と暮らしに合わせて、ケアの道のりを<strong>AIがパーソナライズ</strong>します。</p>
+      <div class="hero-cta">
+        <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">IKIアプリを無料でダウンロード →</a>
       </div>
     </div>
   </section>
 
-  <!-- TRUST STRIP -->
-  <section class="trust-mini" aria-label="HOPE CORP のお約束">
-    <div class="container">
-      <div class="trust-mini-grid">
-        <div class="trust-mini-item">
-          <span class="trust-mini-icon" aria-hidden="true">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg>
-          </span>
-          <div>
-            <strong>HOPE CORP</strong>
-            <span>正規法人 · 税番号 0801404967</span>
-          </div>
-        </div>
-        <div class="trust-mini-item">
-          <span class="trust-mini-icon" aria-hidden="true">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 12h20"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/><circle cx="12" cy="12" r="10"/></svg>
-          </span>
-          <div>
-            <strong>ベトナム国内ホスティング</strong>
-            <span>個人情報保護令 13/2023 に準拠</span>
-          </div>
-        </div>
-        <div class="trust-mini-item">
-          <span class="trust-mini-icon" aria-hidden="true">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 11H1l8-8 8 8h-8v10z"/></svg>
-          </span>
-          <div>
-            <strong>30 日間返金保証</strong>
-            <span>理由不要 · 100% 元の口座へ</span>
-          </div>
-        </div>
-        <div class="trust-mini-item">
-          <span class="trust-mini-icon" aria-hidden="true">
-            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 7L9 18l-5-5"/></svg>
-          </span>
-          <div>
-            <strong>食品安全認可済み</strong>
-            <span>食品安全局登録 · 第三者試験済み</span>
-          </div>
-        </div>
-      </div>
+  <!-- ============================================================
+       2. STATS BAR
+       ============================================================ -->
+  <div class="stats-bar" aria-label="IKI の指標">
+    <div class="stat-item">
+      <div class="stat-num">100K<span class="stat-plus">+</span></div>
+      <div class="stat-label">ユーザー</div>
     </div>
-  </section>
-
-  <!-- HOW AI WORKS — ウェルネステックの 3 つの柱 -->
-  <section class="how-ai-works" id="how-ai-works" aria-labelledby="how-ai-title-ja">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">IKI の仕組み</span>
-        <h2 id="how-ai-title-ja">ウェルネステックの 3 つの柱</h2>
-        <p>IKI はデトックスブランドや養生ショップではなく、<strong>テクノロジー・プラットフォーム</strong>です。<em>ヘルスデータ</em>、<em>AI パーソナライゼーション</em>、<em>東洋医学の伝統的な知恵</em>を融合し、一人ひとりに合わせた道筋を提案します。</p>
-      </div>
-
-      <div class="how-ai-grid">
-        <article class="pillar pillar-data">
-          <span class="pillar-tag">柱 1 · インプット</span>
-          <div class="pillar-icon">📊</div>
-          <h3>ヘルスデータ</h3>
-          <p>各ユーザーは以下を通じて生活データを提供します:</p>
-          <ul class="pillar-list">
-            <li><strong>5 分の体質チェック</strong>(東洋医学フレームワーク)</li>
-            <li>IKI App での<strong>1 日 30 秒のセルフ記録</strong></li>
-            <li><strong>バイタルサイン</strong> — 心拍数、睡眠、エネルギー</li>
-            <li>5 体質理論に基づく<strong>症状ログ</strong></li>
-          </ul>
-          <div class="pillar-stat">月間 10 万+ データポイント</div>
-        </article>
-
-        <article class="pillar pillar-ai pillar-featured">
-          <span class="pillar-tag">柱 2 · 処理</span>
-          <div class="pillar-icon">🧠</div>
-          <h3>AI エンジン</h3>
-          <p>IKI 独自の AI エンジンが自動で:</p>
-          <ul class="pillar-list">
-            <li>ユーザーを<strong>5 体質</strong>に分類 — 寒 / 熱 / 虚 / 実 / 痰湿</li>
-            <li>体質 × 季節 × 食事ごとに<strong>パーソナライズされた献立</strong>を提案</li>
-            <li>道筋に合った<strong>講座</strong>と<strong>製品</strong>を推奨</li>
-            <li>セルフ記録から<strong>不調の兆候</strong>を早期検出</li>
-          </ul>
-          <div class="pillar-stat">スケールするパーソナライゼーション</div>
-        </article>
-
-        <article class="pillar pillar-knowledge">
-          <span class="pillar-tag">柱 3 · 基盤</span>
-          <div class="pillar-icon">📚</div>
-          <h3>東洋医学の知恵</h3>
-          <p>ナレッジベースは以下から継承:</p>
-          <ul class="pillar-list">
-            <li><strong>陰陽・五行</strong>説(2000+ 年、パブリックドメイン)</li>
-            <li><strong>トゥエ・ティン</strong> — 『南薬神効』(〜14 世紀)</li>
-            <li><strong>ハイ・トゥオン・ラン・オン</strong> — 『医宗心領』(18 世紀)</li>
-            <li><strong>Ngô Đức Vượng 博士</strong>(HOPE CORP 科学顧問)が体系化</li>
-          </ul>
-          <div class="pillar-stat">2000+ 年の遺産</div>
-        </article>
-      </div>
-
-      <div class="how-ai-flow" aria-label="データの流れ">
-        <span class="flow-node">📥 生活データ</span>
-        <span class="flow-arrow" aria-hidden="true">→</span>
-        <span class="flow-node featured">🧠 AI エンジン × 東洋医学の知恵</span>
-        <span class="flow-arrow" aria-hidden="true">→</span>
-        <span class="flow-node">🎯 パーソナライズされた道筋</span>
-      </div>
-
-      <p class="disclaimer-inline" style="max-width: 820px; margin: 32px auto 0; text-align: left;">
-        <strong>コンプライアンスについて:</strong> IKI の提案は、能動的なライフスタイルウェルネスを支援するものです。<strong>医療診断ではなく</strong>、医療専門家による相談の代替にはなりません。
-      </p>
+    <div class="stat-item">
+      <div class="stat-num">5</div>
+      <div class="stat-label">東洋医学の体質</div>
     </div>
-  </section>
-
-  <!-- ECOSYSTEM -->
-  <section class="ecosystem" id="ecosystem">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">4 つの柱・1 つのエコシステム</span>
-        <h2>健やかな暮らしに必要なものを、すべて</h2>
-        <p>IKI は、知識・製品・テクノロジー・コミュニティをひとつの体系に統合します。あなたのウェルネス・ジャーニーのあらゆる場面で、寄り添うパートナーになるために。</p>
-      </div>
-      <div class="ecosystem-grid">
-
-        <a class="eco-card" href="/ja/coming-soon.html?p=academy" rel="nofollow">
-          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></div>
-          <span class="eco-tag">知識</span>
-          <h3>IKI アカデミー</h3>
-          <p>HOPE CORP の教育部門。中核講義は Ngô Đức Vượng 博士(ゴ・ドゥック・ヴォン)が収録。後継者である IKI アカデミー・チームがライブ授業・Q&amp;A・受講者の伴走を担います。基礎から専門コースまで 50 講座以上。</p>
-          <span class="eco-link">講座を見る →</span>
-        </a>
-
-        <a class="eco-card" href="/ja/coming-soon.html?p=community" rel="nofollow">
-          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></div>
-          <span class="eco-tag">仲間</span>
-          <h3>IKI コミュニティ</h3>
-          <p>10 万人を超えるメンバーが、ともに学び、共有し、健やかな暮らしを広げています。テーマ別グループ、月次オフラインイベント、ワークショップにご参加ください。</p>
-          <span class="eco-link">コミュニティに参加 →</span>
-        </a>
-
-        <a class="eco-card" href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">
-          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.48 19 2c1 2 2 4.18 2 8 0 5.5-4.78 10-10 10z"/><path d="M2 21c0-3 1.85-5.36 5.08-6"/></svg></div>
-          <span class="eco-tag">製品</span>
-          <h3>IKI 製品</h3>
-          <p>厳選された天然ハーブから生まれた、クレンジングと滋養のためのプロダクト。最高水準の安全性で丁寧に試験されています。</p>
-          <span class="eco-link">製品を見る →</span>
-        </a>
-
-        <a class="eco-card" href="/ja/coming-soon.html?p=app" rel="nofollow">
-          <div class="eco-icon"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="2" width="14" height="20" rx="2" ry="2"/><line x1="12" y1="18" x2="12.01" y2="18"/></svg></div>
-          <span class="eco-tag">テクノロジー</span>
-          <h3>IKI アプリ</h3>
-          <p>ウェルネス・ジャーニーの記録、学習、コミュニティ参加、製品の注文 — すべてがひとつのアプリに。日々の暮らしに寄り添います。</p>
-          <span class="eco-link">アプリを試す →</span>
-        </a>
-
-      </div>
+    <div class="stat-item">
+      <div class="stat-num">30秒</div>
+      <div class="stat-label">1日の記録</div>
     </div>
-  </section>
-
-  <!-- HOW IT WORKS -->
-  <section class="how-it-works">
-    <div class="container">
-      <div class="section-header">
-        <span class="eyebrow">IKI の歩み方 · 3 ステップ</span>
-        <h2>今日から始めて、7 日後に変化を感じる</h2>
-        <p>暮らしを大きく変える必要はありません。3 つの小さな一歩、そして自分自身への優しい決断から。</p>
-      </div>
-      <div class="how-grid">
-
-        <article class="how-step">
-          <div class="how-step-num">1</div>
-          <div class="how-step-icon">📋</div>
-          <h3>生活習慣チェック (5 分)</h3>
-          <p>体調についての <strong>10 の質問</strong>にお答えください。IKI が東洋養生の参考タイプ「寒・熱・虚・実・痰湿」のいずれに近いかをご提案します。完全無料。</p>
-          <div class="how-step-meta">⏱ 5 分 · 無料</div>
-        </article>
-
-        <article class="how-step">
-          <div class="how-step-num">2</div>
-          <div class="how-step-icon">📚</div>
-          <h3>パーソナライズされたプランをお届け</h3>
-          <p>診断結果をもとに、IKI が <strong>適切な講座</strong>をご提案します。無料の 3 日間リセットから、専門スタッフが伴走する 7 日間の本格プログラムまで。</p>
-          <div class="how-step-meta">⏱ 7 日間 · 無料 〜 約 ¥7,500</div>
-        </article>
-
-        <article class="how-step">
-          <div class="how-step-num">3</div>
-          <div class="how-step-icon">🌱</div>
-          <h3>AI ライフスタイル・アシスタントと共に</h3>
-          <p>毎日 30 秒のセルフ記録 · あなたに合った健やかな習慣を AI が提案 · プレミアムでは月 2 回、HOPE CORP 専門スタッフとの 1 対 1 参考セッション付き。</p>
-          <div class="how-step-meta">⏱ 1 日 30 秒 · 自動化</div>
-        </article>
-
-      </div>
-      <p class="disclaimer-inline" style="max-width: 820px; margin: 32px auto 0; text-align: left;">
-        <strong>ご注意:</strong> IKI の生活習慣チェックや提案は、東洋養生の伝統に基づく参考情報です。医学的診断や専門医療の代替を目的とするものではありません。
-      </p>
+    <div class="stat-item">
+      <div class="stat-num">700<span class="stat-plus">+</span></div>
+      <div class="stat-label">年に及ぶベトナムの知恵</div>
     </div>
-  </section>
-
-  <!-- PHILOSOPHY -->
-  <section class="philosophy">
-    <div class="container philosophy-inner">
-      <span class="eyebrow">私たちの哲学</span>
-      <blockquote class="philosophy-quote">
-        最善の医者は、<em>自分自身</em>。<br/>誰の中にも、その医者がいる。
-      </blockquote>
-      <p class="philosophy-body">
-        人間の体には、自然の理にかなった暮らしの中で <em>自ずとバランスを取り戻す</em> 見事な力が備わっています。
-        IKI はこの哲学を、 <em>食</em>・<em>動</em>・<em>息</em>・<em>心</em> をつなぐ具体的な歩みへと体系化しました。
-        どんなに忙しい方でも、今日から始められます。
-      </p>
-      <p class="philosophy-attribution">
-        この哲学は、HOPE CORP 傘下の IKI アカデミーによって受け継がれ、発展しています。
-      </p>
-      <a class="btn btn-secondary" href="/ja/coming-soon.html?p=academy" rel="nofollow">IKI アカデミーを見る</a>
-    </div>
-  </section>
-
-  <!-- LIFESTYLE BANNER -->
-  <div class="lifestyle-banner" style="background-image: url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=2000&q=80&auto=format&fit=crop');" aria-hidden="true"></div>
-
-  <!-- STATS -->
-  <section class="stats">
-    <div class="container">
-      <div class="stats-grid">
-        <div>
-          <span class="stat-num">10 万+</span>
-          <span class="stat-label">プラットフォームのユーザー</span>
-        </div>
-        <div>
-          <span class="stat-num">5</span>
-          <span class="stat-label">AI による体質パーソナライズ</span>
-        </div>
-        <div>
-          <span class="stat-num">2000+ 年</span>
-          <span class="stat-label">東洋医学の遺産</span>
-        </div>
-        <div>
-          <span class="stat-num">24/7</span>
-          <span class="stat-label">AI ライフスタイル提案</span>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <!-- FAQ -->
-  <section class="faq" id="faq">
-    <div class="container faq-inner">
-      <div class="section-header">
-        <span class="eyebrow">よくあるご質問</span>
-        <h2>始める前に知っておきたい、すべて</h2>
-      </div>
-
-      <details class="faq-item">
-        <summary>他のウェルネス・アプリと、どう違いますか?</summary>
-        <p>IKI は、何十年も実践されてきた <strong>マクロビオティックと東洋医学の知識体系</strong>と、現代の <strong>AI 技術</strong>を統合しています。「寒・熱・虚・実」といった体質に応じた参考プランをご提案。一般的な公式の押し付けではありません。主な特徴: 真にパーソナライズされた参考情報 + 10 万人のコミュニティ + 製品との連携 + IKI アカデミー専門スタッフとの 1 対 1 相談。</p>
-      </details>
-
-      <details class="faq-item">
-        <summary>忙しいのですが、1 日にどれくらい時間が必要ですか?</summary>
-        <p>毎日 <strong>30 秒のセルフ記録</strong>のみ。分析は AI が担います。講座を受講される場合、7 日間は 1 日 30 分ほど映像視聴の時間を確保いただきます。それ以降は、暮らしに取り入れていく段階となります。</p>
-      </details>
-
-      <details class="faq-item">
-        <summary>現在お薬を服用中ですが、やめる必要はありますか?</summary>
-        <p><strong>いいえ。</strong> IKI は医療の <em>補助</em> であり、代替ではありません。お薬の変更は必ず主治医にご相談ください。IKI は栄養・運動・呼吸・暮らしという、すべての医師が推奨する基盤に焦点を当てています。</p>
-      </details>
-
-      <details class="faq-item">
-        <summary>合わなかった場合、返金は簡単ですか?</summary>
-        <p>はい、簡単です。<strong>最初の 30 日間</strong>であれば、<em>contact@ikihealing.com</em> まで一行のメッセージをお送りください。理由は不要です。HOPE CORP は 3〜5 営業日以内に元のお支払い方法へ全額返金いたします。</p>
-      </details>
-
-      <details class="faq-item">
-        <summary>IKI のナレッジベースの源は?</summary>
-        <p>IKI の基盤知識は、<strong>陰陽五行説</strong>(2000 年以上の歴史、パブリックドメイン)に由来します。ベトナムにおける応用は <strong>トゥエ・ティン (Tuệ Tĩnh)</strong>(『南薬神効』、14 世紀)と <strong>ハイ・トゥオン・ラン・オン (Hải Thượng Lãn Ông)</strong>(『医宗心領』、18 世紀)によって体系化されました。現代では HOPE CORP の科学顧問である <strong>Ngô Đức Vượng 博士</strong>が体系化・現代化を担っています。HOPE CORP は IKI ブランドと「Ngô Đức Vượng」商標の両方を所有しています。</p>
-      </details>
-
-      <details class="faq-item">
-        <summary>IKI 製品は安全ですか? 認可はありますか?</summary>
-        <p>すべての IKI 製品は、ベトナム食品安全局による <strong>製品宣言書</strong>と <strong>独立した試験報告書</strong>を保有しており、ウェブサイト上で公開しています。製造は GMP 準拠の工場で行われ、合成香料・合成保存料・不要な添加物を使用していません。</p>
-      </details>
-
-    </div>
-  </section>
-
-  <!-- CTA BANNER -->
-  <section style="padding: 64px 0;">
-    <div class="container" style="padding: 0;">
-      <div class="cta-banner">
-        <span class="eyebrow" style="color: var(--iki-sand);">今日から始める · 無料体験</span>
-        <h2>IKI App を体験 — AI パーソナライゼーションを数分で</h2>
-        <p>5 分の体質チェック + 1 日 30 秒のセルフ記録 → AI がライフスタイルの道筋を提案。クレカ不要で開始可能。2000 年以上の東洋医学の知恵が支えます。</p>
-        <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener noreferrer">🌿 IKI Web アプリを開く →</a>
-      </div>
-    </div>
-  </section>
-
-  <!-- HOPE CORPORATE STRIP -->
-  <section class="hope-strip">
-    <div class="container hope-grid">
-      <div>
-        <span class="hope-eyebrow">運営法人</span>
-        <h2>HOPE 商業サービス株式会社</h2>
-        <p>IKI ブランドとそのエコシステム全体を所有・運営する正規法人。お客様、パートナー、コミュニティに対し、透明性と責任を持って事業を行っています。</p>
-      </div>
-      <dl class="hope-info-list">
-        <div>
-          <dt>正式名称</dt>
-          <dd>HOPE 商業サービス株式会社</dd>
-        </div>
-        <div>
-          <dt>税番号</dt>
-          <dd>0801404967</dd>
-        </div>
-        <div>
-          <dt>事業内容</dt>
-          <dd>健康教育 · EC · コミュニティ</dd>
-        </div>
-        <div>
-          <dt>本社</dt>
-          <dd>63/253 Ngo Quyen 通り、Le Thanh Nghi 区、ハイフォン市、ベトナム</dd>
-        </div>
-        <div>
-          <dt>お問い合わせ</dt>
-          <dd>contact@ikihealing.com</dd>
-        </div>
-      </dl>
-    </div>
-  </section>
-
-  <!-- STICKY MOBILE CTA -->
-  <div class="sticky-mobile-cta" aria-label="クイックアクション">
-    <a class="btn btn-primary" href="/3ngayreset.html" target="_blank" rel="noopener noreferrer">無料で試す →</a>
   </div>
 
-  <!-- FOOTER -->
+  <!-- ============================================================
+       3. FEATURE ACCORDION
+       ============================================================ -->
+  <section class="wi-section" id="tinh-nang" aria-label="IKI の機能">
+    <div class="wi-tabs">
+      <div class="container">
+        <button class="wi-tab active" data-panel="ai-coach">AIコーチ</button>
+        <button class="wi-tab" data-panel="nhat-ky">健康記録</button>
+        <button class="wi-tab" data-panel="co-dia">東洋医学の体質</button>
+        <button class="wi-tab" data-panel="cong-dong">コミュニティ</button>
+      </div>
+    </div>
+
+    <div class="wi-panel active" id="panel-ai-coach">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>東洋医学<br>AIコーチ</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">体質のパーソナル分析</div>
+              <p>IKIのAIが、10の質問を通してあなたの体質——寒・熱・虚・実・痰湿——を見極めます。そこから、すべての提案があなたの体に合わせてパーソナライズされます。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">日 × 季節 × 体質に合わせた食事</div>
+              <p>季節、体調、実際の暮らしに合わせて変わる食事の提案——繰り返さず、飽きません。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">不調のサインに早めに気づく</div>
+              <p>AIが記録を見守り、バランスの乱れのサインに早めに気づきます——より重くなる前に。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">04</span>
+              <div class="wi-title">24時間365日の暮らしのアドバイス</div>
+              <p>いつでもAIコーチとチャット。あなたの健康の履歴をいつも覚えているので、はじめから説明し直す必要はありません。</p>
+            </div>
+          </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=1200&q=85&auto=format&fit=crop&crop=center" alt="IKI AIコーチ" loading="eager" />
+        </div>
+      </div>
+    </div>
+
+    <div class="wi-panel" id="panel-nhat-ky">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>健康<br>記録</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">1日30秒</div>
+              <p>体の感覚、睡眠、食事、エネルギーを、さっと記録。あとはAIにおまかせ。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">長期のパターンを追う</div>
+              <p>週ごと・月ごとの健康の傾向を見て、どの習慣が本当にあなたを健やかにしているかに気づけます。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">スマートなリマインド</div>
+              <p>水分補給、規則正しい食事、十分な睡眠——IKIが体の自然なリズムに合わせて知らせます。</p>
+            </div>
+          </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=1200&q=85&auto=format&fit=crop&crop=center" alt="IKI 健康記録" loading="eager" />
+        </div>
+      </div>
+    </div>
+
+    <div class="wi-panel" id="panel-co-dia">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>東洋医学<br>の体質</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">5つの体質——1人の人</div>
+              <p>寒・熱・虚・実・痰湿——IKIはあなたの本当の体質を見極め、一律の健康の公式を押しつけません。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">700年以上のベトナムの知恵</div>
+              <p>トゥエ・ティン(14世紀)とハイ・トゥオン・ラン・オンの知恵を、現代のAIでデジタル化しパーソナライズ。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">時とともに更新</div>
+              <p>体質は季節・年齢・暮らしで変わります——IKIは見守りながら提案を調整し続けます。</p>
+            </div>
+          </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1561049501-e1f96bdd98fd?w=1200&q=85&auto=format&fit=crop&crop=center" alt="IKI 東洋医学の体質" loading="eager" />
+        </div>
+      </div>
+    </div>
+
+    <div class="wi-panel" id="panel-cong-dong">
+      <div class="wi-body">
+        <div class="wi-left">
+          <h2>コミュニティ<br>100K+</h2>
+          <div class="wi-items">
+            <div class="wi-item active">
+              <span class="wi-num">01</span>
+              <div class="wi-title">毎日のサポートグループ</div>
+              <p>Zalo OA + Skool コミュニティ——10万人を超えるメンバーと、食事や体験、質問を共有できます。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">02</span>
+              <div class="wi-title">毎月のオフラインイベント</div>
+              <p>ハノイ、ホーチミン、ハイフォンで、専門家によるワークショップ、リトリート、実践セッション。</p>
+            </div>
+            <div class="wi-item">
+              <span class="wi-num">03</span>
+              <div class="wi-title">専門家との1対1コーチング</div>
+              <p>IKI Pro なら、毎月 HOPE CORP のヘルスコーチと個別相談を予約できます。</p>
+            </div>
+          </div>
+        </div>
+        <div class="wi-right">
+          <img src="https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=1200&q=85&auto=format&fit=crop&crop=center" alt="IKI コミュニティ" loading="eager" />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       4. CALLOUT 1
+       ============================================================ -->
+  <section class="callout-section">
+    <div class="callout-text">
+      <span class="eyebrow">AIパーソナライゼーション · 24/7</span>
+      <h2>眠っている間も、<br>AIがあなたの体を読む。</h2>
+      <ul class="callout-list">
+        <li>東洋医学の体質を分類——寒・熱・虚・実・痰湿</li>
+        <li>季節と体質に合わせた毎日の食事を自動で提案</li>
+        <li>不調になる前に、バランスの乱れに気づく</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">AIコーチの仕組みを見る →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1491528323818-fdd1faba62cc?w=1200&q=85&auto=format&fit=crop&crop=center" alt="24時間あなたの健康を見守るAI" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       5. CALLOUT 2
+       ============================================================ -->
+  <section class="callout-section reverse section-black">
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1200&q=85&auto=format&fit=crop&crop=center" alt="健康記録" loading="lazy" />
+    </div>
+    <div class="callout-text">
+      <span class="eyebrow">健康記録</span>
+      <h2>1日30秒。<br>あとはAIにおまかせ。</h2>
+      <ul class="callout-list">
+        <li>体の感覚をさっと記録——長いフォームは不要</li>
+        <li>30日間の傾向を追い、本当のパターンが見える</li>
+        <li>自然なリズムに合わせたスマートなリマインド</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">IKIアプリを無料でダウンロード →</a>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       6. CALLOUT 3
+       ============================================================ -->
+  <section class="callout-section">
+    <div class="callout-text">
+      <span class="eyebrow">IKIコミュニティ</span>
+      <h2>10万人が毎日、<br>より健やかに暮らしています。</h2>
+      <ul class="callout-list">
+        <li>Zalo OA &amp; Skool——毎日の質問と食事の共有</li>
+        <li>全国で毎月のオフラインワークショップ &amp; リトリート</li>
+        <li>HOPE CORP ヘルスコーチとの1対1コーチング</li>
+      </ul>
+      <a class="btn btn-primary callout-cta" href="/ja/coming-soon.html?p=community">コミュニティに参加する →</a>
+    </div>
+    <div class="callout-visual">
+      <img src="https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?w=1200&q=85&auto=format&fit=crop&crop=center" alt="IKI コミュニティ 100K+" loading="lazy" />
+    </div>
+  </section>
+
+  <!-- ============================================================
+       7. TESTIMONIALS
+       ============================================================ -->
+  <section class="testimonials-whoop section-black" aria-label="IKIユーザーの声">
+    <div class="container">
+      <span class="eyebrow" style="display:block;text-align:center;margin-bottom:48px;">IKIユーザーの声</span>
+
+      <blockquote class="testimonial-featured-quote">
+        「IKIを3か月使って、なぜいつも疲れていたのか初めて理解でき——そして何をすればよいか分かりました。」
+      </blockquote>
+      <p class="testimonial-featured-attr">Nguyen Thanh H. · ハノイ · IKI Pro</p>
+
+      <div class="testimonials-mini-row">
+        <div class="testimonial-mini">
+          <div class="testimonial-stars" aria-label="5つ星"><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg></div>
+          <p>「使いやすく、AIがすぐにアドバイスしてくれます。食事がこれまで試したどれよりも体質に合っていました。」</p>
+          <span class="testimonial-mini-attr">Tran Minh P. · ホーチミン</span>
+        </div>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars" aria-label="5つ星"><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg></div>
+          <p>「IKIのコミュニティのおかげで健康的な習慣を続けられています——毎日、そばに寄り添ってくれる人がいます。」</p>
+          <span class="testimonial-mini-attr">Le Thu H. · ハイフォン</span>
+        </div>
+        <div class="testimonial-mini">
+          <div class="testimonial-stars" aria-label="5つ星"><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="#f5a623" aria-hidden="true"><path d="M12 2.5l2.9 5.9 6.5.9-4.7 4.6 1.1 6.5L12 17.8l-5.8 3.1 1.1-6.5L2.6 9.3l6.5-.9z"/></svg></div>
+          <p>「初めて、ベトナム人に合った健康法を見つけました——西洋や中国の真似ではないものを。」</p>
+          <span class="testimonial-mini-attr">Pham Duc A. · ダナン</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       8. PRICING
+       ============================================================ -->
+  <section class="pricing-whoop" id="gia" aria-label="IKI プラン">
+    <div class="container">
+      <div class="section-header">
+        <span class="eyebrow">プラン</span>
+        <h2>無料で始めて、<br>準備ができたらアップグレード。</h2>
+      </div>
+      <div class="pricing-grid">
+
+        <div class="price-card-whoop">
+          <div class="pcw-tag">無料</div>
+          <div class="pcw-name">IKI Free</div>
+          <div class="pcw-price">0<span>đ</span></div>
+          <div class="pcw-period">ずっと無料</div>
+          <ul class="pcw-features">
+            <li>IKIアプリ(iOS &amp; Android)</li>
+            <li>基本のAIコーチ</li>
+            <li>健康記録——30日間</li>
+            <li>体質アンケート</li>
+          </ul>
+          <a class="btn btn-secondary pcw-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">アプリをダウンロード</a>
+        </div>
+
+        <div class="price-card-whoop featured">
+          <div class="pcw-tag">いちばん人気</div>
+          <div class="pcw-name">IKI Pro</div>
+          <div class="pcw-price">499K<span>đ</span></div>
+          <div class="pcw-period">/ 年(約41K/月)</div>
+          <ul class="pcw-features">
+            <li>Free のすべての機能</li>
+            <li>無制限のAIコーチ</li>
+            <li>無制限の記録 + 傾向分析</li>
+            <li>Skool Pro コミュニティ</li>
+            <li>体質に合わせたスマートリマインド</li>
+            <li>30日間返金——理由不要</li>
+          </ul>
+          <a class="btn btn-primary pcw-cta" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">IKI Pro を始める →</a>
+        </div>
+
+        <div class="price-card-whoop">
+          <div class="pcw-tag">本格的に取り組む方へ</div>
+          <div class="pcw-name">ヘルスコーチング</div>
+          <div class="pcw-price">お問い合わせ</div>
+          <div class="pcw-period">ご希望に応じて</div>
+          <ul class="pcw-features">
+            <li>Pro のすべての機能</li>
+            <li>月2回の1対1コーチング</li>
+            <li>個別90日ロードマップ</li>
+            <li>優先サポート &amp; Q&amp;A</li>
+          </ul>
+          <a class="btn btn-secondary pcw-cta" href="mailto:contact@ikihealing.com">お問い合わせ</a>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       9. FAQ
+       ============================================================ -->
+  <section class="faq-slim" id="faq" aria-label="よくある質問">
+    <div class="container faq-slim-inner">
+      <h2 class="faq-slim-title">よくある質問</h2>
+      <div class="faq-slim-list">
+        <details class="faq-item">
+          <summary>IKIは他のウェルネスアプリと何が違いますか?</summary>
+          <p>IKIはベトナム伝統医学の知識とAIを組み合わせ、一律の公式ではなく、あなたの体質(寒/熱/虚/実/痰湿)に合わせた道のりを提案します。特長は、真のパーソナライゼーション、10万人を超えるコミュニティ、そして許可を得た製品です。</p>
+        </details>
+        <details class="faq-item">
+          <summary>1日にどれくらいの時間が必要ですか?</summary>
+          <p>記録は1日30秒だけ。分析はAIが行います。暮らしを一度にすべて変える必要はありません——IKIが小さな一歩ずつ寄り添います。</p>
+        </details>
+        <details class="faq-item">
+          <summary>西洋薬を服用していますが、使えますか?</summary>
+          <p>はい。IKIは栄養・暮らし・養生に焦点を当てた補助的なアプローチであり、薬の代わりではありません。薬に関する変更は医師にご相談ください。</p>
+        </details>
+        <details class="faq-item">
+          <summary>合わない場合、返金はどうなりますか?</summary>
+          <p>最初の30日以内に、contact@ikihealing.com へメールを1通送るだけ——理由は不要です。HOPE CORP が3〜5営業日以内に、元のアカウントへ全額返金します。</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       10. DOWNLOAD CTA
+       ============================================================ -->
+  <section class="download-cta section-black" aria-label="IKIアプリをダウンロード">
+    <div class="container download-cta-inner">
+      <h2>あなたの健康の<br>道のりを始めよう。</h2>
+      <p>無料 · クレジットカード不要 · すぐにパーソナライズ</p>
+      <div class="download-btns">
+        <a class="btn-dl" href="https://play.google.com/store/apps/details?id=com.ikiapp.app" target="_blank" rel="noopener noreferrer">Google Play →</a>
+        <a class="btn-dl" href="https://apps.apple.com/vn/app/iki-eastern-wisdom-ai/id6767866520" target="_blank" rel="noopener noreferrer">App Store →</a>
+      </div>
+      <p class="download-disclaimer">IKIアプリは暮らしの参考情報をサポートするものであり、医療診断ツールではありません。</p>
+    </div>
+  </section>
+
+  <!-- ============ STICKY PILL CTA (desktop) ============ -->
+  <div class="sticky-pill-cta" aria-label="IKIアプリをダウンロード">
+    <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">IKIアプリを無料でダウンロード →</a>
+  </div>
+
+  <!-- ============ STICKY MOBILE CTA ============ -->
+  <div class="sticky-mobile-cta" aria-label="クイックアクション">
+    <a class="btn btn-primary" href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">IKIアプリをダウンロード →</a>
+  </div>
+
+  <!-- ============ FOOTER ============ -->
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
         <div>
           <div class="footer-brand">IKI</div>
-          <p>ベトナムと世界へ。HOPE 商業サービス株式会社のウェルネス・エコシステム。知の顧問: Ngô Đức Vượng 博士と IKI アカデミー・チーム。</p>
+          <p>ベトナムの人々のためのウェルネス・テクノロジープラットフォーム——トゥエ・ティン、ハイ・トゥオン・ラン・オンから受け継ぐベトナム伝統医学の知恵を現代に。HOPE Trading and Service JSC(税番号 0801404967)の製品です。専門アドバイザー:Ngo Duc Vuong 博士。</p>
+          <p style="margin-top: 12px; font-size: 0.82rem; color: rgba(255,255,255,0.4);">ベトナムでホスティング · 政令13/2023に準拠 · 製品は食品安全局の届出を保有</p>
         </div>
         <div>
           <h4>エコシステム</h4>
           <ul>
-            <li><a href="/ja/coming-soon.html?p=academy" rel="nofollow">IKI アカデミー</a></li>
-            <li><a href="/ja/coming-soon.html?p=community" rel="nofollow">IKI コミュニティ</a></li>
-            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">IKI 製品 ↗</a></li>
-            <li><a href="/ja/coming-soon.html?p=app" rel="nofollow">IKI アプリ</a></li>
-            <li><a href="/ja/coming-soon.html?p=about" rel="nofollow">HOPE CORP について</a></li>
+            <li><a href="/ja/coming-soon.html?p=academy">IKIアカデミー</a></li>
+            <li><a href="/ja/coming-soon.html?p=community">IKIコミュニティ</a></li>
+            <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">IKI製品 ↗</a></li>
+            <li><a href="https://app.ikihealing.com/landing" target="_blank" rel="noopener">IKIアプリ</a></li>
+            <li><a href="/ja/coming-soon.html?p=about">HOPE CORPについて</a></li>
+            <li><a href="/ja/team.html">チーム</a></li>
           </ul>
         </div>
         <div>
           <h4>サポート</h4>
           <ul>
-            <li><a href="/ja/#faq">よくあるご質問</a></li>
-            <li><a href="/chinh-sach-doi-tra.html">返金ポリシー</a></li>
-            <li><a href="/chinh-sach-bao-mat.html">プライバシーポリシー</a></li>
+            <li><a href="/ja/coming-soon.html?p=tech">IKIのテクノロジー</a></li>
+            <li><a href="/ja/coming-soon.html?p=privacy">プライバシーポリシー</a></li>
+            <li><a href="/ja/coming-soon.html?p=returns">返品ポリシー</a></li>
+            <li><a href="#faq">よくある質問</a></li>
             <li><a href="mailto:contact@ikihealing.com">お問い合わせ</a></li>
           </ul>
         </div>
         <div>
-          <h4>連絡先</h4>
+          <h4>お問い合わせ</h4>
           <ul class="contact-list">
             <li class="contact-item">
-              <span class="contact-label">📧 メール</span>
+              <span class="contact-label">メール</span>
               <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">💬 カスタマーサポート</span>
-              <a href="tel:+84396748848">+84 396.748.848</a>
+              <span class="contact-label">相談 &amp; 購入</span>
+              <a href="tel:+84987931551">+84 987 931 551</a>
             </li>
             <li class="contact-item">
-              <span class="contact-label">📍 本社</span>
-              63/253 Ngo Quyen 通り、Le Thanh Nghi 区、ハイフォン市、ベトナム
+              <span class="contact-label">所在地</span>
+              63/253 Ngo Quyen, Le Thanh Nghi Ward, Hai Phong
             </li>
             <li class="contact-social">
-              <span class="social-soon">Facebook · YouTube · Zalo OA · TikTok <em>(近日公開)</em></span>
+              <a href="https://www.facebook.com/ikihealing/" target="_blank" rel="noopener noreferrer" class="social-link">Facebook</a> · Zalo OA · YouTube · TikTok
             </li>
           </ul>
         </div>
       </div>
       <div class="global-disclaimer">
-        <h4>免責事項</h4>
-        <p>IKI ウェブサイトの情報は、栄養・暮らし・自発的な健康管理に関する知識をお伝えする目的でのみ提供されます。専門医による診断・助言・治療の代替となるものではありません。</p>
-        <p>ご紹介する製品は <strong style="color: rgba(255,255,255,0.78);">食品/栄養補助食品</strong> であり、医薬品ではなく、医薬品の効能を持つものではありません。</p>
-        <p>体験の結果は、体質、健康状態、実践の継続性により個人差があります。</p>
-        <p>IKI アプリおよび各種チェックは、東洋養生の伝統に基づく参考ツールであり、医療診断機器ではありません。</p>
+        <p>当社の製品は<strong style="color:rgba(255,255,255,0.78);">健康補助食品</strong>であり、医薬品ではなく、医療の代わりになるものではありません。効果には個人差があります。IKIアプリは暮らしの参考情報をサポートするものであり、医療診断ツールではありません。</p>
       </div>
       <div class="footer-bottom">
-        <span>© 2026 HOPE 商業サービス株式会社 — IKI は HOPE CORP が所有・運営するブランドです。</span>
-        <span>ベトナムから、心を込めて。</span>
+        <span>© 2026 HOPE Trading and Service JSC — IKIはHOPE CORPが所有・運営するブランドです。</span>
+        <span>Made with care in Vietnam</span>
       </div>
     </div>
   </footer>
