@@ -31,7 +31,7 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Noto+Serif+JP:wght@500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <link rel="icon" type="image/jpeg" href="/iki-logo-256.jpg" />
   <link rel="stylesheet" href="/styles.css" />
   <script src="/script.js" defer></script>
@@ -246,6 +246,8 @@
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
     @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+      html[lang="ja"] body{font-family:'Noto Sans JP',var(--font-sans,'Manrope')}
+    html[lang="ja"] .post-title,html[lang="ja"] .post-cta h3,html[lang="ja"] .lead-cta h2,html[lang="ja"] .brand-box h2,html[lang="ja"] .post-faq h2{font-family:'Noto Serif JP',var(--font-display,'Cormorant Garamond')}
   </style>
 </head>
 <body>
