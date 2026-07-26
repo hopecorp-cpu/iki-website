@@ -13,4 +13,4 @@ BACKLINK-PLAN.md
 # Blog working material — local only, không publish
 content-kho/
 _templates/
-blog-drafts/
+# blog-drafts/ ĐÃ đưa vào repo (2026-07-26) để GitHub Action tự build blog trên cloud (A1).
