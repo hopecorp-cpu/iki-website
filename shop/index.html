@@ -666,8 +666,9 @@ document.getElementById('searchClose').onclick=()=>{sBar.classList.remove('open'
 sInput.addEventListener('input',()=>{curSearch=sInput.value.trim().toLowerCase();curCat='all';syncChips();renderCol();go('collection');sBar.classList.add('open');});
 document.getElementById('cartBtn').onclick=()=>showToast('Mở một sản phẩm và để lại SĐT — nhân viên sẽ gọi tư vấn & chốt đơn');
 
-// PDP: form để lại SĐT nhận tư vấn
+// PDP: form để lại SĐT — gửi về máy chia lead HOPE (tự chia cho sale + báo Telegram)
 let currentProduct=null;
+const LEADS_ENDPOINT="https://hope-ops-hub.vercel.app/api/leads/ingest";
 const phoneSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>';
 const chatSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
 function renderConsult(){
@@ -675,6 +676,7 @@ function renderConsult(){
     `<div class="consult-label">Đặt hàng nhanh — nhân viên xác nhận &amp; giao COD</div>
      <div class="consult-field">
        <input type="tel" id="leadPhone" placeholder="Số điện thoại của bạn" inputmode="tel" autocomplete="tel">
+       <input type="text" id="leadHp" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
      </div>
      <div class="consult-actions">
        <button class="btn brand" id="buyNow">Đặt mua ngay</button>
@@ -690,6 +692,14 @@ function renderConsult(){
     const raw=(inp.value||'').replace(/[^0-9]/g,'');
     if(raw.length<9||raw.length>11){ inp.focus(); inp.style.borderColor='#c0392b'; showToast('Vui lòng nhập số điện thoại để nhân viên liên hệ'); return; }
     const p=currentProduct, nameTxt=p?('“'+p.n+'”'):'sản phẩm';
+    // gửi lead về máy chia lead HOPE (tự chia cho sale + báo Telegram) — fire-and-forget
+    try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
+      phone: inp.value.trim(), channel:'website',
+      source: mode==='buy' ? 'shop-mua-ngay' : 'shop-tu-van',
+      product: p?p.n:'',
+      note: (mode==='buy'?'ĐẶT MUA NGAY':'Xin tư vấn')+(p?(' — '+p.n):''),
+      _hp: (document.getElementById('leadHp')||{}).value||''
+    })}).catch(function(){}); }catch(e){}
     const html = mode==='buy'
       ? `<b>Đã ghi nhận đơn hàng</b><p>Cảm ơn bạn đã đặt ${nameTxt}! Nhân viên IKI sẽ gọi số <b>${inp.value}</b> trong ít phút để xác nhận địa chỉ và giao hàng — thanh toán khi nhận (COD).</p>`
       : `<b>Đã nhận yêu cầu tư vấn</b><p>Cảm ơn bạn! Nhân viên IKI sẽ gọi lại số <b>${inp.value}</b> trong ít phút để tư vấn ${nameTxt} và hỗ trợ đặt hàng.</p>`;
