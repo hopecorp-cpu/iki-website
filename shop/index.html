@@ -242,6 +242,45 @@
   :root[data-theme="dark"] .consult-ok .tick .ico{stroke:#0A160F}
   .consult-ok b{font-family:var(--serif);font-size:18px;font-weight:600;display:block;margin-bottom:4px}
   .consult-ok p{margin:0;color:var(--ink-soft);font-size:14px;letter-spacing:0}
+  .consult-or{text-align:center;font-size:12.5px;color:var(--ink-soft);margin:14px 0 12px;letter-spacing:0}
+  /* checkout */
+  .co-grid{display:grid;grid-template-columns:1.3fr .9fr;gap:48px;padding:36px 0 40px;align-items:start}
+  .co-main h1{font-size:clamp(26px,3.4vw,38px)}
+  .co-fields{display:flex;flex-direction:column;gap:14px;margin:24px 0 8px}
+  .co-fields label{display:flex;flex-direction:column;gap:6px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-soft)}
+  .co-fields input,.co-fields textarea{border:1px solid var(--line);background:var(--surface);border-radius:12px;padding:14px 16px;font-family:inherit;font-size:15px;color:var(--ink);letter-spacing:0;font-weight:400;text-transform:none}
+  .co-fields input:focus,.co-fields textarea:focus{outline:none;border-color:var(--brand)}
+  .co-fields textarea{resize:vertical;min-height:64px}
+  .co-main h3{font-size:15px;margin:24px 0 12px;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-soft);font-family:var(--sans);font-weight:700}
+  .co-pay{display:flex;flex-direction:column;gap:10px}
+  .pay-opt{display:flex;gap:12px;align-items:flex-start;border:1px solid var(--line);border-radius:12px;padding:15px 16px;cursor:pointer}
+  .pay-opt.on{border-color:var(--brand);background:var(--brand-tint)}
+  .pay-opt input{margin-top:3px;accent-color:var(--brand)}
+  .pay-opt b{font-family:var(--serif);font-size:16px;font-weight:600;display:block}
+  .pay-opt span{font-size:13px;color:var(--ink-soft);letter-spacing:0}
+  .co-summary{position:sticky;top:96px}
+  .co-sum-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);padding:22px;box-shadow:var(--shadow-sm)}
+  .co-item{display:flex;gap:14px;align-items:center;padding-bottom:16px;border-bottom:1px solid var(--line)}
+  .co-item img{width:64px;height:64px;object-fit:cover;border-radius:10px;border:1px solid var(--line)}
+  .co-item b{font-family:var(--serif);font-size:16px;font-weight:600;display:block}
+  .co-item span{font-size:13px;color:var(--ink-soft)}
+  .co-qty{display:flex;align-items:center;justify-content:space-between;padding:16px 0;font-size:14px;font-weight:600}
+  .stepper2{display:flex;align-items:center;border:1px solid var(--line);border-radius:999px;overflow:hidden}
+  .stepper2 button{width:38px;height:40px;border:none;background:transparent;color:var(--ink);font-size:18px}
+  .stepper2 button:hover{background:var(--raise)}
+  .stepper2 span{width:36px;text-align:center;font-weight:700;font-variant-numeric:tabular-nums}
+  .co-total{display:flex;justify-content:space-between;align-items:baseline;padding-top:16px;border-top:1px solid var(--line)}
+  .co-total b{font-size:22px;font-weight:700}
+  .co-note2{font-size:12px;color:var(--ink-faint);margin:10px 0 0;letter-spacing:0}
+  .co-loading{padding:16px 0;color:var(--ink-soft);font-size:14px}
+  .co-done{margin-top:20px;background:var(--brand-tint);border-radius:var(--r);padding:20px;display:flex;gap:14px;align-items:flex-start}
+  .co-done .tick{width:44px;height:44px;border-radius:50%;background:var(--brand);display:grid;place-items:center;flex:none}
+  .co-done .tick .ico{stroke:#fff;width:24px;height:24px}
+  .co-done b{font-family:var(--serif);font-size:18px;font-weight:600;display:block;margin-bottom:4px}
+  .co-done p{margin:0;color:var(--ink-soft);font-size:14px;letter-spacing:0}
+  @media(prefers-color-scheme:dark){.co-done .tick .ico{stroke:#0A160F}}
+  :root[data-theme="dark"] .co-done .tick .ico{stroke:#0A160F}
+  @media(max-width:1000px){.co-grid{grid-template-columns:1fr;gap:28px}.co-summary{position:static;order:-1}}
   .feats{list-style:none;padding:0;margin:28px 0 0;border-top:1px solid var(--line)}
   .feats li{display:flex;gap:14px;padding:18px 0;border-bottom:1px solid var(--line);font-size:14.5px;align-items:flex-start;letter-spacing:0}
   .feats li .ico{stroke:var(--brand);flex:none;margin-top:1px}
@@ -512,6 +551,41 @@
   <div class="wrap"><p class="disc">Thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Hình ảnh và mô tả mang tính minh hoạ sản phẩm.</p></div>
 </div>
 
+
+<!-- CHECKOUT -->
+<div class="view" id="checkout">
+  <div class="wrap"><p class="crumb" style="padding-top:26px">Trang chủ &middot; Sản phẩm &middot; <b id="coCrumb">Thanh toán</b></p></div>
+  <div class="wrap co-grid">
+    <div class="co-main">
+      <h1>Thông tin đặt hàng</h1>
+      <div class="co-fields">
+        <label>Họ và tên<input id="coName" placeholder="Nguyễn Văn A"></label>
+        <label>Số điện thoại<input id="coPhone" type="tel" inputmode="tel" placeholder="Số điện thoại nhận hàng"></label>
+        <label>Địa chỉ nhận hàng<input id="coAddr" placeholder="Số nhà, đường, phường/xã, quận/huyện, tỉnh/thành"></label>
+        <label>Ghi chú (tuỳ chọn)<textarea id="coNote" placeholder="Ví dụ: giao giờ hành chính, gọi trước khi giao…"></textarea></label>
+        <input type="text" id="coHp" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
+      </div>
+      <h3>Hình thức thanh toán</h3>
+      <div class="co-pay">
+        <label class="pay-opt on" data-pay="cod"><input type="radio" name="copay" value="cod" checked><div><b>Thanh toán khi nhận hàng (COD)</b><span>Nhân viên gọi xác nhận rồi giao, trả tiền khi nhận.</span></div></label>
+        <label class="pay-opt" data-pay="bank"><input type="radio" name="copay" value="bank"><div><b>Chuyển khoản trước (QR)</b><span>Quét QR chuyển khoản, đơn được ưu tiên xử lý.</span></div></label>
+      </div>
+      <button class="btn brand block" id="coSubmit" style="margin-top:24px">Xác nhận đặt hàng</button>
+      <div id="coResult"></div>
+      <p class="co-note2" style="margin-top:14px">Bằng việc đặt hàng, bạn đồng ý để nhân viên IKI liên hệ xác nhận đơn. Sản phẩm là thực phẩm bổ sung, không phải là thuốc.</p>
+    </div>
+    <aside class="co-summary">
+      <div class="co-sum-card">
+        <div class="co-item"><img id="coImg" alt=""><div><b id="coTitle"></b><span id="coUnit"></span></div></div>
+        <div class="co-qty">Số lượng <div class="stepper2"><button id="coMinus" aria-label="Giảm">&minus;</button><span id="coQ">1</span><button id="coPlus" aria-label="Tăng">+</button></div></div>
+        <div class="co-total"><span>Tạm tính</span><b id="coTotal"></b></div>
+        <p class="co-note2">Chưa gồm phí giao hàng — nhân viên báo khi xác nhận đơn.</p>
+      </div>
+      <button class="btn ghost block" id="coBack" style="margin-top:14px">&larr; Quay lại sản phẩm</button>
+    </aside>
+  </div>
+</div>
+
 <footer class="site"><div class="wrap">
   <div class="fgrid">
     <div>
@@ -673,46 +747,101 @@ const phoneSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a11 
 const chatSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
 function renderConsult(){
   document.getElementById('consult').innerHTML =
-    `<div class="consult-label">Đặt hàng nhanh — nhân viên xác nhận &amp; giao COD</div>
+    `<button class="btn brand block" id="buyNow">Đặt mua ngay</button>
+     <div class="consult-or">hoặc để lại số điện thoại để được tư vấn</div>
      <div class="consult-field">
-       <input type="tel" id="leadPhone" placeholder="Số điện thoại của bạn" inputmode="tel" autocomplete="tel">
+       <input type="tel" id="leadPhone" placeholder="Nhập số điện thoại rồi bấm Nhận tư vấn" inputmode="tel" autocomplete="tel">
        <input type="text" id="leadHp" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
      </div>
-     <div class="consult-actions">
-       <button class="btn brand" id="buyNow">Đặt mua ngay</button>
-       <button class="btn ghost" id="leadSubmit">Nhận tư vấn</button>
-     </div>
-     <div class="consult-alt">
-       <a href="tel:0000000000">${phoneSvg}Gọi đặt hàng</a>
-       <a href="#" onclick="return false">${chatSvg}Nhắn Zalo</a>
-     </div>
-     <p class="consult-note">Thanh toán khi nhận hàng (COD) · Nhân viên gọi xác nhận trước khi giao · Không tự động trừ tiền</p>`;
+     <button class="btn ghost block" id="leadSubmit" style="margin-top:10px">Nhận tư vấn</button>
+     <p class="consult-note">Thanh toán khi nhận hàng (COD) · Nhân viên gọi xác nhận · Không tự động trừ tiền</p>`;
   const inp=document.getElementById('leadPhone');
-  const done=(mode)=>{
+  const sendLead=()=>{
     const raw=(inp.value||'').replace(/[^0-9]/g,'');
     if(raw.length<9||raw.length>11){ inp.focus(); inp.style.borderColor='#c0392b'; showToast('Vui lòng nhập số điện thoại để nhân viên liên hệ'); return; }
     const p=currentProduct, nameTxt=p?('“'+p.n+'”'):'sản phẩm';
-    // gửi lead về máy chia lead HOPE (tự chia cho sale + báo Telegram) — fire-and-forget
     try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
-      phone: inp.value.trim(), channel:'website',
-      source: mode==='buy' ? 'shop-mua-ngay' : 'shop-tu-van',
-      product: p?p.n:'',
-      note: (mode==='buy'?'ĐẶT MUA NGAY':'Xin tư vấn')+(p?(' — '+p.n):''),
-      _hp: (document.getElementById('leadHp')||{}).value||''
+      phone: inp.value.trim(), channel:'website', source:'shop-tu-van', product: p?p.n:'',
+      note: 'Xin tư vấn'+(p?(' — '+p.n):''), _hp:(document.getElementById('leadHp')||{}).value||''
     })}).catch(function(){}); }catch(e){}
-    const html = mode==='buy'
-      ? `<b>Đã ghi nhận đơn hàng</b><p>Cảm ơn bạn đã đặt ${nameTxt}! Nhân viên IKI sẽ gọi số <b>${inp.value}</b> trong ít phút để xác nhận địa chỉ và giao hàng — thanh toán khi nhận (COD).</p>`
-      : `<b>Đã nhận yêu cầu tư vấn</b><p>Cảm ơn bạn! Nhân viên IKI sẽ gọi lại số <b>${inp.value}</b> trong ít phút để tư vấn ${nameTxt} và hỗ trợ đặt hàng.</p>`;
     document.getElementById('consult').innerHTML =
-      `<div class="consult-ok"><span class="tick"><svg class="ico" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></span><div>${html}</div></div>`;
-    showToast(mode==='buy'?'Đã đặt hàng — nhân viên sẽ gọi xác nhận':'Đã gửi — nhân viên sẽ gọi lại sớm');
+      `<div class="consult-ok"><span class="tick"><svg class="ico" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></span>
+       <div><b>Đã nhận yêu cầu tư vấn</b><p>Cảm ơn bạn! Nhân viên IKI sẽ gọi lại số <b>${inp.value}</b> trong ít phút để tư vấn ${nameTxt} và hỗ trợ đặt hàng.</p></div></div>`;
+    showToast('Đã gửi — nhân viên sẽ gọi lại sớm');
   };
-  document.getElementById('buyNow').onclick=()=>done('buy');
-  document.getElementById('leadSubmit').onclick=()=>done('consult');
-  inp.addEventListener('keydown',e=>{if(e.key==='Enter')done('buy');});
+  document.getElementById('buyNow').onclick=()=>{ if(currentProduct) openCheckout(currentProduct); };
+  document.getElementById('leadSubmit').onclick=sendLead;
+  inp.addEventListener('keydown',e=>{if(e.key==='Enter')sendLead();});
   inp.addEventListener('input',()=>inp.style.borderColor='');
 }
 document.getElementById('pdpVariants').addEventListener('click',e=>{const v=e.target.closest('.variant');if(!v)return;document.querySelectorAll('#pdpVariants .variant').forEach(x=>x.classList.remove('on'));v.classList.add('on');});
+
+// ===== Trang thanh toán (checkout) =====
+const PAY_CREATE="https://hope-ops-hub.vercel.app/api/quiz-pay/create";
+const PAY_STATUS="https://hope-ops-hub.vercel.app/api/quiz-pay/status";
+let coProduct=null, coQty=1, coPoll=null;
+function coTotalV(){ return (coProduct?coProduct.price:0)*coQty; }
+function coPayMode(){ const r=document.querySelector('input[name="copay"]:checked'); return r?r.value:'cod'; }
+function coRefresh(){
+  document.getElementById('coQ').textContent=coQty;
+  document.getElementById('coTotal').textContent=money(coTotalV());
+  document.getElementById('coSubmit').textContent=(coPayMode()==='bank'?'Đặt hàng & lấy mã QR · ':'Xác nhận đặt hàng · ')+money(coTotalV());
+}
+function openCheckout(p){
+  coProduct=p; coQty=1; if(coPoll){clearInterval(coPoll);coPoll=null;}
+  document.getElementById('coImg').src=p.img;
+  document.getElementById('coTitle').textContent=p.n;
+  document.getElementById('coUnit').textContent=money(p.price)+' / sản phẩm';
+  document.getElementById('coCrumb').textContent=p.n;
+  document.getElementById('coResult').innerHTML='';
+  ['coName','coPhone','coAddr','coNote'].forEach(function(id){var e=document.getElementById(id);if(e){e.value='';e.style.borderColor='';}});
+  var cod=document.querySelector('input[name="copay"][value="cod"]'); if(cod)cod.checked=true;
+  document.querySelectorAll('.pay-opt').forEach(function(o){o.classList.toggle('on',o.dataset.pay==='cod');});
+  coRefresh(); go('checkout');
+}
+document.getElementById('coPlus').onclick=function(){coQty++;coRefresh();};
+document.getElementById('coMinus').onclick=function(){if(coQty>1){coQty--;coRefresh();}};
+document.getElementById('coBack').onclick=function(){ if(coProduct) openDetail(coProduct); else go('collection'); };
+document.querySelectorAll('input[name="copay"]').forEach(function(r){r.addEventListener('change',function(){
+  document.querySelectorAll('.pay-opt').forEach(function(o){o.classList.toggle('on',o.querySelector('input').checked);});
+  coRefresh();
+});});
+function coErr(id){ var e=document.getElementById(id); if(e){e.focus();e.style.borderColor='#c0392b';} }
+document.getElementById('coSubmit').onclick=async function(){
+  var name=(document.getElementById('coName').value||'').trim();
+  var phone=(document.getElementById('coPhone').value||'').trim();
+  var addr=(document.getElementById('coAddr').value||'').trim();
+  var note=(document.getElementById('coNote').value||'').trim();
+  var digits=phone.replace(/[^0-9]/g,'');
+  if(!name){coErr('coName');showToast('Vui lòng nhập họ tên');return;}
+  if(digits.length<9||digits.length>11){coErr('coPhone');showToast('Vui lòng nhập số điện thoại hợp lệ');return;}
+  if(!addr){coErr('coAddr');showToast('Vui lòng nhập địa chỉ nhận hàng');return;}
+  var p=coProduct, total=coTotalV(), mode=coPayMode();
+  var orderNote='ĐƠN /shop · '+p.n+' × '+coQty+' = '+money(total)+' · '+(mode==='bank'?'CK trước':'COD')+' · ĐC: '+addr+(note?(' · '+note):'');
+  try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
+    customer:name, phone:phone, channel:'website', source:(mode==='bank'?'shop-order-ck':'shop-order-cod'),
+    product:p.n, note:orderNote.slice(0,300), _hp:(document.getElementById('coHp')||{}).value||''
+  })}).catch(function(){}); }catch(e){}
+  var res=document.getElementById('coResult');
+  function okBox(title,msg,extra){ res.innerHTML='<div class="co-done"><span class="tick"><svg class="ico" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></span><div><b>'+title+'</b><p>'+msg+'</p>'+(extra||'')+'</div></div>'; res.scrollIntoView({block:'center'}); }
+  if(mode==='bank'){
+    res.innerHTML='<div class="co-loading">Đang tạo mã thanh toán…</div>';
+    try{
+      var r=await fetch(PAY_CREATE,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({amount:total,name:name,phone:phone,pkg:p.n+' × '+coQty})}).then(function(x){return x.json();});
+      if(r&&r.ok&&(r.checkoutUrl||r.orderCode)){
+        var url=r.checkoutUrl||('https://pay.payos.vn/web/'+r.orderCode);
+        okBox('Đơn đã tạo — mời chuyển khoản','Bấm nút bên dưới để mở trang thanh toán và quét QR. Sau khi chuyển khoản, hệ thống tự xác nhận và nhân viên sẽ giao hàng.','<a class="btn brand" style="margin-top:12px" href="'+url+'" target="_blank" rel="noopener">Mở trang thanh toán</a>');
+        if(r.orderCode){ var n=0; coPoll=setInterval(async function(){ n++; if(n>45){clearInterval(coPoll);return;} try{ var s=await fetch(PAY_STATUS+'?orderCode='+r.orderCode).then(function(x){return x.json();}); if(s&&(s.status==='PAID'||s.paid)){ clearInterval(coPoll); okBox('Đã thanh toán thành công','Cảm ơn bạn! Đơn '+p.n+' đã được thanh toán. Nhân viên IKI sẽ liên hệ và giao hàng sớm.'); } }catch(e){} },4000); }
+      } else {
+        okBox('Đã ghi nhận đơn hàng','Nhân viên IKI sẽ gọi '+phone+' để gửi thông tin chuyển khoản và xác nhận đơn '+p.n+'.');
+      }
+    }catch(e){ okBox('Đã ghi nhận đơn hàng','Nhân viên IKI sẽ gọi '+phone+' để xác nhận đơn và hướng dẫn thanh toán.'); }
+    showToast('Đã tạo đơn — mời hoàn tất thanh toán');
+  } else {
+    okBox('Đã ghi nhận đơn hàng','Cảm ơn bạn đã đặt '+p.n+' × '+coQty+'! Nhân viên IKI sẽ gọi '+phone+' để xác nhận và giao hàng — thanh toán khi nhận (COD).');
+    showToast('Đã đặt hàng — nhân viên sẽ gọi xác nhận');
+  }
+};
 
 // theme
 const root=document.documentElement;
