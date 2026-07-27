@@ -149,8 +149,12 @@
   svg.ico{width:18px;height:18px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
   a.brand{text-decoration:none;color:inherit}
   .foot{margin-top:34px;padding:26px 18px 6px;border-top:1px solid var(--line);text-align:center;color:var(--muted)}
-  .foot-brand{font-family:var(--serif);font-weight:700;font-size:1.15rem;color:var(--ink);display:inline-flex;align-items:center;gap:8px;margin-bottom:8px}
-  .foot-brand .m{width:26px;height:26px;border-radius:8px;background:var(--grad);display:grid;place-items:center;color:#fff;font-size:12px;font-weight:800}
+  .foot-logos{display:flex;flex-direction:column;align-items:center;gap:12px;margin-bottom:10px}
+  .foot-logos .iki{width:58px;height:auto;display:block}
+  .foot-hope{display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border-radius:14px;padding:12px 22px 10px}
+  .foot-hope img{width:30px;height:auto;margin-bottom:3px}
+  .foot-hope .w{font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1}
+  .foot-hope .c{font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem}
   .foot p{font-size:.88rem;max-width:470px;margin:0 auto 10px}
   .foot-links{font-size:.92rem;margin-bottom:9px} .foot-links a{color:var(--teal);text-decoration:none;font-weight:600;white-space:nowrap}
   .foot-contact{font-size:.9rem;margin-bottom:11px;color:var(--ink)}
@@ -163,7 +167,10 @@
   <div id="steps" class="steps hidden"></div>
   <div id="app"></div>
   <footer class="foot">
-    <div class="foot-brand"><span class="m">IKI</span> IKI by HOPE CORP</div>
+    <div class="foot-logos">
+      <img class="iki" src="../assets/logo/iki-mark.png" alt="IKI by HOPE CORP" />
+      <div class="foot-hope"><img src="../assets/logo/hope-mark-512.png" alt="HOPE CORP" /><span class="w">HOPE</span><span class="c">CORP</span></div>
+    </div>
     <p>Nền tảng chăm sóc sức khoẻ chủ động cho người Việt, kế thừa tri thức Y học cổ truyền. Cố vấn chuyên môn: TS. Ngô Đức Vượng.</p>
     <div class="foot-links"><a href="https://ikihealing.com" rel="noopener">Trang chủ</a> &nbsp;·&nbsp; <a href="https://ikihealing.com/blog/" rel="noopener">Blog</a> &nbsp;·&nbsp; <a href="https://ikihealing.com/hoc-vien.html" rel="noopener">Học viện</a> &nbsp;·&nbsp; <a href="https://ikihealing.com/cong-dong.html" rel="noopener">Cộng đồng</a></div>
     <div class="foot-contact">Email: contact@ikihealing.com &nbsp;·&nbsp; Tư vấn: 0987.931.551</div>
