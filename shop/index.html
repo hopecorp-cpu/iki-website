@@ -210,11 +210,24 @@
   .giftbox .ico{stroke:var(--brand);margin-top:2px}
   .giftbox b{font-family:var(--serif);font-size:16px;color:var(--brand-deep)}
   .giftbox p{margin:3px 0 0;font-size:13.5px;color:var(--ink-soft);letter-spacing:0}
-  .qty{display:flex;gap:14px;margin:24px 0}
-  .stepper{display:flex;align-items:center;border:1px solid var(--line);border-radius:999px;overflow:hidden}
-  .stepper button{width:46px;height:52px;border:none;background:transparent;color:var(--ink);font-size:19px}
-  .stepper button:hover{background:var(--raise)}
-  .stepper span{width:40px;text-align:center;font-weight:600;font-variant-numeric:tabular-nums}
+  .consult{margin:24px 0;background:var(--raise);border:1px solid var(--line);border-radius:var(--r-lg);padding:22px 22px 18px}
+  .consult-label{font-family:var(--serif);font-size:18px;font-weight:600;margin-bottom:14px}
+  .consult-row{display:flex;gap:10px}
+  .consult-row input{flex:1;border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:15px 20px;font-family:inherit;font-size:15px;color:var(--ink)}
+  .consult-row input:focus{outline:none;border-color:var(--brand)}
+  .consult-row .btn{white-space:nowrap}
+  .consult-note{margin:12px 0 0;font-size:12px;color:var(--ink-soft);letter-spacing:0}
+  .consult-alt{display:flex;gap:10px;margin-top:12px}
+  .consult-alt a{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--line);border-radius:999px;padding:12px;font-size:13px;font-weight:600;color:var(--ink);background:var(--surface)}
+  .consult-alt a:hover{border-color:var(--brand);color:var(--brand-deep)}
+  .consult-alt .ico{width:17px;height:17px;stroke:var(--brand)}
+  .consult-ok{display:flex;gap:14px;align-items:flex-start}
+  .consult-ok .tick{width:44px;height:44px;border-radius:50%;background:var(--brand);display:grid;place-items:center;flex:none}
+  .consult-ok .tick .ico{stroke:#fff;width:24px;height:24px}
+  @media(prefers-color-scheme:dark){.consult-ok .tick .ico{stroke:#0A160F}}
+  :root[data-theme="dark"] .consult-ok .tick .ico{stroke:#0A160F}
+  .consult-ok b{font-family:var(--serif);font-size:18px;font-weight:600;display:block;margin-bottom:4px}
+  .consult-ok p{margin:0;color:var(--ink-soft);font-size:14px;letter-spacing:0}
   .feats{list-style:none;padding:0;margin:28px 0 0;border-top:1px solid var(--line)}
   .feats li{display:flex;gap:14px;padding:18px 0;border-bottom:1px solid var(--line);font-size:14.5px;align-items:flex-start;letter-spacing:0}
   .feats li .ico{stroke:var(--brand);flex:none;margin-top:1px}
@@ -451,10 +464,7 @@
         <svg class="ico" viewBox="0 0 24 24"><path d="M20 12v8H4v-8M2 7h20v5H2zM12 22V7M12 7S9 2 6.5 4 9 7 12 7zM12 7s3-5 5.5-3S15 7 12 7z"/></svg>
         <div><b>Quà tặng kèm đơn</b><p>Tặng bình lắc IKI + cẩm nang thực đơn 21 ngày. Quà thật, không quy đổi.</p></div>
       </div>
-      <div class="qty">
-        <div class="stepper"><button aria-label="Giảm" id="minus">&minus;</button><span id="qv">1</span><button aria-label="Tăng" id="plus">+</button></div>
-        <button class="btn brand block" id="pdpAdd" style="flex:1">Thêm vào giỏ</button>
-      </div>
+      <div class="consult" id="consult"></div>
       <ul class="feats">
         <li><svg class="ico" viewBox="0 0 24 24"><path d="M11 20C6 20 3 16 3 11c5 0 8 3 8 9zM13 20c5 0 8-4 8-9-5 0-8 3-8 9z"/></svg><div><b>Nguyên liệu chọn lọc</b><small>Ưu tiên thực vật, minh bạch nguồn gốc.</small></div></li>
         <li><svg class="ico" viewBox="0 0 24 24"><path d="M3 3v18h18M7 14l3-3 3 3 5-6"/></svg><div><b>Bảng thành phần minh bạch</b><small>In rõ trên bao bì từng sản phẩm.</small></div></li>
@@ -536,7 +546,7 @@ function card(p){
       <div class="pname">${p.n}</div>
       <div class="ptag">${p.t}</div>
       <div class="prow"><div class="price">${money(p.price)}</div>
-        <button class="addbtn" data-add="${p._i}">Thêm</button></div>
+        <button class="addbtn">Tư vấn</button></div>
     </div>
   </article>`;
 }
@@ -573,8 +583,8 @@ function openDetail(p){
   document.getElementById('pdpCerts').innerHTML=(p.certs||[]).map(c=>`<span>${check}${c}</span>`).join('');
   document.getElementById('pdpPrice').textContent=money(p.price);
   document.getElementById('pdpPhoto').src=p.img;
-  document.getElementById('pdpAdd').textContent='Thêm vào giỏ · '+money(p.price);
-  document.getElementById('pdpAdd').dataset.add=p._i;
+  currentProduct=p;
+  renderConsult();
   // biến thể + quà chỉ cho Đạm
   document.getElementById('pdpVariants').style.display = p.cat==='dam'?'flex':'none';
   document.getElementById('pdpGift').style.display = p.cat==='dam'?'flex':'none';
@@ -600,8 +610,6 @@ document.addEventListener('click',e=>{
   if(nav){e.preventDefault(); nav.dataset.go==='detail-flagship'?openDetail(flagship):go(nav.dataset.go); return;}
   const catgo=e.target.closest('[data-cat-go]');
   if(catgo){e.preventDefault(); curCat=catgo.dataset.catGo; syncChips(); renderCol(); go('collection'); return;}
-  const add=e.target.closest('[data-add]');
-  if(add){e.preventDefault();e.stopPropagation(); addToCart(PRODUCTS[+add.dataset.add], +document.getElementById('qv').textContent||1); return;}
   const wish=e.target.closest('[data-wish]');
   if(wish){e.preventDefault();e.stopPropagation(); showToast('Đã lưu vào yêu thích'); return;}
   const cardEl=e.target.closest('[data-prod]');
@@ -619,12 +627,38 @@ const sBar=document.getElementById('searchBar'),sInput=document.getElementById('
 document.getElementById('searchBtn').onclick=()=>{sBar.classList.toggle('open');if(sBar.classList.contains('open'))setTimeout(()=>sInput.focus(),80);};
 document.getElementById('searchClose').onclick=()=>{sBar.classList.remove('open');sInput.value='';curSearch='';renderCol();};
 sInput.addEventListener('input',()=>{curSearch=sInput.value.trim().toLowerCase();curCat='all';syncChips();renderCol();go('collection');sBar.classList.add('open');});
-document.getElementById('cartBtn').onclick=()=>showToast(cart?('Giỏ hàng: '+cart+' sản phẩm'):'Giỏ hàng đang trống');
+document.getElementById('cartBtn').onclick=()=>showToast('Mở một sản phẩm và để lại SĐT — nhân viên sẽ gọi tư vấn & chốt đơn');
 
-// PDP qty + variants + add
-let q=1;const qv=document.getElementById('qv');
-document.getElementById('plus').onclick=()=>{q++;qv.textContent=q;};
-document.getElementById('minus').onclick=()=>{if(q>1){q--;qv.textContent=q;}};
+// PDP: form để lại SĐT nhận tư vấn
+let currentProduct=null;
+const phoneSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>';
+const chatSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
+function renderConsult(){
+  document.getElementById('consult').innerHTML =
+    `<div class="consult-label">Để lại số điện thoại — nhân viên gọi tư vấn &amp; chốt đơn</div>
+     <div class="consult-row">
+       <input type="tel" id="leadPhone" placeholder="Số điện thoại của bạn" inputmode="tel" autocomplete="tel">
+       <button class="btn brand" id="leadSubmit">Nhận tư vấn</button>
+     </div>
+     <div class="consult-alt">
+       <a href="tel:0000000000">${phoneSvg}Gọi tư vấn</a>
+       <a href="#" onclick="return false">${chatSvg}Nhắn Zalo</a>
+     </div>
+     <p class="consult-note">Tư vấn miễn phí · Thanh toán khi nhận hàng (COD) · Không tự động trừ tiền</p>`;
+  const inp=document.getElementById('leadPhone');
+  const submit=()=>{
+    const raw=(inp.value||'').replace(/[^0-9]/g,'');
+    if(raw.length<9||raw.length>11){ inp.focus(); inp.style.borderColor='#c0392b'; showToast('Vui lòng nhập số điện thoại hợp lệ'); return; }
+    const p=currentProduct;
+    document.getElementById('consult').innerHTML =
+      `<div class="consult-ok"><span class="tick"><svg class="ico" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></span>
+       <div><b>Đã nhận yêu cầu tư vấn</b><p>Cảm ơn bạn! Nhân viên IKI sẽ gọi lại số <b>${inp.value}</b> trong ít phút để tư vấn ${p?('“'+p.n+'”'):'sản phẩm'} và chốt đơn. Thanh toán khi nhận hàng (COD).</p></div></div>`;
+    showToast('Đã gửi — nhân viên sẽ gọi lại sớm');
+  };
+  document.getElementById('leadSubmit').onclick=submit;
+  inp.addEventListener('keydown',e=>{if(e.key==='Enter')submit();});
+  inp.addEventListener('input',()=>inp.style.borderColor='');
+}
 document.getElementById('pdpVariants').addEventListener('click',e=>{const v=e.target.closest('.variant');if(!v)return;document.querySelectorAll('#pdpVariants .variant').forEach(x=>x.classList.remove('on'));v.classList.add('on');});
 
 // theme
