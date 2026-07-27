@@ -27,6 +27,7 @@
   <meta name="twitter:image" content="https://ikihealing.com/iki-logo-1024.jpg" />
 
   <link rel="icon" type="image/jpeg" href="../iki-logo-256.jpg" />
+  <script src="qrcode.min.js"></script>
 <style>
   :root{
     --bg:#F5F1E8; --surface:#fff; --ink:#1C2E27; --muted:#6B7B72;
@@ -180,6 +181,8 @@
 
 <script>
 const OPS_ENDPOINT='https://hope-ops-hub.vercel.app/api/quiz-submit';
+const PAY_CREATE='https://hope-ops-hub.vercel.app/api/quiz-pay/create';
+const PAY_STATUS='https://hope-ops-hub.vercel.app/api/quiz-pay/status';
 const LEAD_CONVERSION='AW-18332022859/NzdQCOH0m9YcEMvwsaVE';
 const GIFT='<svg class="ico" viewBox="0 0 24 24"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/><path d="M7.5 8a2.5 2.5 0 0 1 0-5C11 3 12 8 12 8s1-5 4.5-5a2.5 2.5 0 0 1 0 5"/></svg>';
 const CLOCK='<svg class="ico" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
@@ -257,6 +260,7 @@ const PKG=[
 const answers=new Array(Q.length).fill(null);
 const lead={name:'',email:'',phone:''};
 let vatInfo=null, sentGate=false;
+let payInfo=null, paidDone=false, payTimer=null, paying=false;
 let phase='intro', bi=0, deadline=0, selPkg=null;
 const app=document.getElementById('app'), stepsEl=document.getElementById('steps');
 
@@ -288,7 +292,7 @@ function sendQuiz(pkg){
 function fmt(ms){ ms=Math.max(0,ms); const m=Math.floor(ms/60000), s=Math.floor(ms%60000/1000); return (m<10?'0':'')+m+':'+(s<10?'0':'')+s; }
 setInterval(()=>{ if(!deadline)return; const left=deadline-Date.now(); document.querySelectorAll('.cdown').forEach(e=>e.textContent=fmt(left)); },1000);
 
-function render(){ const f={intro,batch,teaser,gate,full,checkout,thankyou}[phase]; if(f)f(); }
+function render(){ const f={intro,batch,teaser,gate,full,checkout,pay,thankyou}[phase]; if(f)f(); }
 function intro(){ steps(-1);
   app.innerHTML=`<div class="card fade">
     <div class="eyebrow">Kiểm tra 90 giây · Miễn phí</div>
@@ -438,7 +442,7 @@ function checkout(){ steps(3); const pk=PKG[selPkg]; const p=PROFILES[profile()]
         <div class="sumrow"><span>Quà tặng kèm</span><span style="color:var(--teal)">${pk.gift}</span></div>
         <div class="sumrow tot"><span>Tổng</span><span class="amt">${pk.amt}</span></div>
       </div>
-      <div class="sol" style="border-left-color:var(--teal-2);margin:6px 0 14px"><span class="ic">${CLOCK}</span><div><b>Bước tiếp theo</b><span>Chuyên gia IKI sẽ liên hệ qua Zalo/điện thoại ngay trong hôm nay để gửi <b>link thanh toán</b>, thực đơn cá nhân hoá theo thể trạng của bạn và xếp lịch buổi tư vấn.</span></div></div>
+      <div class="sol" style="border-left-color:var(--teal-2);margin:6px 0 14px"><span class="ic">${CLOCK}</span><div><b>Bước tiếp theo</b><span>Bấm xác nhận để hiện <b>mã QR thanh toán</b>. Tiền về, hệ thống tự xác nhận và chuyên gia IKI gửi thực đơn cá nhân hoá + xếp lịch tư vấn ngay trong hôm nay.</span></div></div>
       <label class="vatchk"><input type="checkbox" id="vatT" onchange="document.getElementById('vatF').style.display=this.checked?'block':'none'"/> <span>Tôi cần xuất hoá đơn VAT</span></label>
       <div id="vatF" style="display:none">
         <input class="co-in" id="vco" placeholder="Tên công ty"/>
@@ -446,24 +450,67 @@ function checkout(){ steps(3); const pk=PKG[selPkg]; const p=PROFILES[profile()]
         <input class="co-in" id="vem" type="email" placeholder="Email nhận hoá đơn"/>
       </div>
       <p style="text-align:center;color:var(--muted);font-size:.82rem;margin:0 0 12px">Không cần VAT thì bỏ qua — đơn vẫn được xuất hoá đơn bán hàng bình thường.</p>
-      <button class="btn btn-primary btn-wide" onclick="confirmOrder()">Xác nhận đặt gói này →</button>
+      <button class="btn btn-primary btn-wide" id="coBtn" onclick="confirmOrder()">Xác nhận &amp; thanh toán →</button>
       <div class="nav" style="justify-content:center;margin-top:8px"><button class="btn btn-ghost" onclick="go('full')">← Chọn lại lộ trình</button></div>
     </div>
   </div>`;
 }
-function confirmOrder(){
+async function confirmOrder(){
+  if(paying)return;
   const vt=document.getElementById('vatT');
   if(vt&&vt.checked){ vatInfo={ company:(document.getElementById('vco')||{}).value||'', taxCode:(document.getElementById('vtx')||{}).value||'', email:(document.getElementById('vem')||{}).value||'' }; }
   else vatInfo=null;
   sendQuiz(selPkg);
-  go('thankyou');
+  const pk=PKG[selPkg]; const amount=parseInt(String(pk.amt).replace(/\D/g,''),10);
+  const btn=document.getElementById('coBtn'); if(btn){ btn.disabled=true; btn.textContent='Đang tạo mã thanh toán…'; }
+  paying=true;
+  try{
+    const r=await fetch(PAY_CREATE,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({amount,name:lead.name,phone:lead.phone,email:lead.email,pkg:pk.name,profile:profile(),vat:vatInfo})});
+    const j=await r.json();
+    if(j&&j.configured&&j.ok&&j.qrCode){ payInfo={orderCode:j.orderCode,qrCode:j.qrCode,checkoutUrl:j.checkoutUrl,amount:j.amount||amount}; paying=false; go('pay'); return; }
+  }catch(e){}
+  paying=false; go('thankyou');
 }
-function thankyou(){ steps(3); const pk=PKG[selPkg];
+function pay(){ steps(3); const pk=PKG[selPkg]||{name:''}; if(!payInfo){go('checkout');return;}
+  app.innerHTML=`<div class="fade">
+    <div class="urg">${CLOCK}<span>Giữ ưu đãi trong <span class="cdown">15:00</span></span></div>
+    <div class="card" style="text-align:center">
+      <div class="eyebrow">Thanh toán</div>
+      <div class="batchhead">Quét mã để hoàn tất</div>
+      <div style="margin:4px 0 2px;font-size:.96rem">${pk.name} · <b style="color:var(--teal);font-family:var(--serif)">${(payInfo.amount||0).toLocaleString('vi-VN')}đ</b></div>
+      <div id="qrbox" style="width:220px;height:220px;margin:12px auto;display:grid;place-items:center;background:#fff;border:1px solid var(--line);border-radius:16px;padding:8px"></div>
+      <p style="color:var(--muted);font-size:.9rem;margin:0 0 6px">Quét bằng app ngân hàng bất kỳ (VietQR) — tiền về là hệ thống <b>tự xác nhận</b> ngay.</p>
+      <div id="paystate" style="font-weight:700;color:var(--warn);font-size:.95rem;margin:8px 0">Đang chờ thanh toán…</div>
+      ${payInfo.checkoutUrl?`<a class="btn btn-ghost" href="${payInfo.checkoutUrl}" target="_blank" rel="noopener" style="display:inline-block">Mở trang thanh toán PayOS ↗</a>`:''}
+      <div class="nav" style="justify-content:center;margin-top:8px"><button class="btn btn-ghost" onclick="stopPoll();go('checkout')">← Quay lại</button></div>
+    </div>
+    <p class="disc">Cổng thanh toán PayOS · VietQR. Thanh toán xong, chuyên gia IKI sẽ gửi thực đơn cá nhân hoá và xếp lịch tư vấn cho bạn.</p>
+  </div>`;
+  try{ if(typeof qrcode==='function'&&payInfo.qrCode){ var q=qrcode(0,'M'); q.addData(payInfo.qrCode); q.make();
+      var box=document.getElementById('qrbox'); box.innerHTML=q.createSvgTag({cellSize:4,margin:1,scalable:true});
+      var svg=box.querySelector('svg'); if(svg){svg.style.width='100%';svg.style.height='100%';} }
+  }catch(e){ var b=document.getElementById('qrbox'); if(b)b.innerHTML='<span style="font-size:.8rem;color:var(--alert)">Không tạo được mã QR — bấm “Mở trang thanh toán” phía trên.</span>'; }
+  startPoll();
+}
+function startPoll(){ stopPoll(); if(!payInfo)return; var n=0;
+  payTimer=setInterval(async function(){ n++; if(n>150){stopPoll();return;}
+    try{ const r=await fetch(PAY_STATUS+'?orderCode='+encodeURIComponent(payInfo.orderCode)); const j=await r.json();
+      if(j.status==='PAID'){ stopPoll(); paidDone=true; try{if(window.gtag)gtag('event','purchase',{transaction_id:String(payInfo.orderCode),value:payInfo.amount||0,currency:'VND'});}catch(e){} go('thankyou'); }
+      else if(j.status==='CANCELLED'||j.status==='EXPIRED'){ stopPoll(); const s=document.getElementById('paystate'); if(s){s.textContent='Mã đã hết hạn hoặc huỷ — bấm “Quay lại” để tạo mã mới.';s.style.color='var(--alert)';} }
+    }catch(e){}
+  },4000);
+}
+function stopPoll(){ if(payTimer){clearInterval(payTimer);payTimer=null;} }
+function thankyou(){ steps(3); const pk=PKG[selPkg]||{name:'của bạn'};
+  const head = paidDone ? 'Thanh toán thành công!' : 'Cảm ơn bạn!';
+  const lead1 = paidDone
+    ? `Đơn <b style="color:#fff">${pk.name}</b> đã được thanh toán. Chuyên gia IKI sẽ <b style="color:#fff">gửi thực đơn cá nhân hoá và xếp lịch buổi tư vấn ngay trong hôm nay</b>.`
+    : `Đăng ký gói <b style="color:#fff">${pk.name}</b> đã được ghi nhận. Chuyên gia IKI sẽ <b style="color:#fff">liên hệ với bạn qua Zalo/điện thoại ngay trong hôm nay</b> để gửi link thanh toán, thực đơn và xếp lịch buổi tư vấn.`;
   app.innerHTML=`<div class="fade">
     <div class="rhero" style="padding:34px 22px">
       <div style="width:66px;height:66px;border-radius:50%;background:rgba(168,210,84,.22);display:grid;place-items:center;margin:0 auto 14px"><svg class="ico" style="width:34px;height:34px;stroke:var(--lime);stroke-width:2.4" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></div>
-      <h2>Cảm ơn bạn!</h2>
-      <p>Đăng ký gói <b style="color:#fff">${pk.name}</b> đã được ghi nhận. Chuyên gia IKI sẽ <b style="color:#fff">liên hệ với bạn qua Zalo/điện thoại ngay trong hôm nay</b> để gửi link thanh toán, thực đơn và xếp lịch buổi tư vấn.</p>
+      <h2>${head}</h2>
+      <p>${lead1}</p>
     </div>
     <div class="sol" style="margin-top:16px"><span class="ic">✓</span><div><b>Kiểm tra hộp thư của bạn</b><span>Thực đơn mẫu + ebook đang được gửi tự động về email/Zalo bạn vừa nhập.</span></div></div>
     <div class="sol"><span class="ic">✓</span><div><b>Cần hỗ trợ ngay?</b><span>Gọi hoặc nhắn Zalo <b>0987.931.551</b> — đội ngũ IKI luôn sẵn sàng.</span></div></div>
@@ -471,7 +518,8 @@ function thankyou(){ steps(3); const pk=PKG[selPkg];
     <div class="nav" style="justify-content:center;margin-top:14px"><button class="btn btn-ghost" onclick="restart()">↻ Làm lại từ đầu</button></div>
   </div>`;
 }
-function restart(){ answers.fill(null); deadline=0; selPkg=null; go('intro'); }
+function restart(){ stopPoll(); answers.fill(null); deadline=0; selPkg=null; payInfo=null; paidDone=false; paying=false; vatInfo=null; go('intro'); }
+try{ if(new URLSearchParams(location.search).get('paid')==='1'){ paidDone=true; phase='thankyou'; } }catch(e){}
 render();
 </script>
 </body>
