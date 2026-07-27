@@ -277,7 +277,7 @@
   }
 </style>
 
-<div class="promo">Miễn phí giao hàng đơn từ 500.000&#8363; &nbsp;&middot;&nbsp; Tặng quà chăm sóc cho mọi đơn Đạm thực vật</div>
+<div class="promo">Tư vấn miễn phí &nbsp;&middot;&nbsp; Giao toàn quốc, thanh toán khi nhận (COD) &nbsp;&middot;&nbsp; Tặng quà cho mọi đơn Đạm thực vật</div>
 
 <header class="site">
   <div class="wrap bar">
@@ -458,7 +458,7 @@
       <ul class="feats">
         <li><svg class="ico" viewBox="0 0 24 24"><path d="M11 20C6 20 3 16 3 11c5 0 8 3 8 9zM13 20c5 0 8-4 8-9-5 0-8 3-8 9z"/></svg><div><b>Nguyên liệu chọn lọc</b><small>Ưu tiên thực vật, minh bạch nguồn gốc.</small></div></li>
         <li><svg class="ico" viewBox="0 0 24 24"><path d="M3 3v18h18M7 14l3-3 3 3 5-6"/></svg><div><b>Bảng thành phần minh bạch</b><small>In rõ trên bao bì từng sản phẩm.</small></div></li>
-        <li><svg class="ico" viewBox="0 0 24 24"><path d="M5 18a2 2 0 1 0 4 0M15 18a2 2 0 1 0 4 0M3 6h11v9M14 9h4l3 3v3h-3"/></svg><div><b>Giao nhanh toàn quốc</b><small>Miễn phí giao hàng cho đơn từ 500.000&#8363;.</small></div></li>
+        <li><svg class="ico" viewBox="0 0 24 24"><path d="M5 18a2 2 0 1 0 4 0M15 18a2 2 0 1 0 4 0M3 6h11v9M14 9h4l3 3v3h-3"/></svg><div><b>Giao hàng toàn quốc</b><small>Thanh toán khi nhận hàng (COD), phí giao khách trả.</small></div></li>
       </ul>
     </div>
   </div>
@@ -583,7 +583,7 @@ function openDetail(p){
   const hl=(p.highlights||[]).map(h=>`<div class="row">${leaf}<div><b>${h.t}</b><p>${h.d}</p></div></div>`).join('');
   const right=(p.usage?`<div class="pm-block"><h4>Cách dùng</h4><p>${p.usage}</p></div>`:'')
     +(p.storage?`<div class="pm-block"><h4>Bảo quản</h4><p>${p.storage}</p></div>`:'')
-    +`<div class="pm-block"><h4>Cam kết</h4><p>Nguyên liệu minh bạch, đóng gói cẩn thận. Miễn phí giao hàng cho đơn từ 500.000₫, đổi trả theo chính sách cửa hàng.</p></div>`;
+    +`<div class="pm-block"><h4>Đặt hàng &amp; giao nhận</h4><p>Để lại thông tin hoặc nhắn tư vấn, nhân viên sẽ gọi xác nhận trước khi gửi hàng. Giao toàn quốc, thanh toán khi nhận hàng (COD) — phí giao do khách trả. Đổi trả theo chính sách cửa hàng.</p></div>`;
   document.getElementById('pdpMore').innerHTML = (hl?`<div><h3>Điểm nổi bật</h3><div class="pm-hl">${hl}</div></div>`:'')+`<div>${right}</div>`;
   go('detail');
 }
