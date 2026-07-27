@@ -25,7 +25,42 @@ const esc = (s) => String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").
 const escAttr = (s) => esc(s).replace(/"/g, "&quot;");
 const clamp = (s, n) => { s = String(s || ""); return s.length <= n ? s : s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…"; };
 
-function loadPlan() { return JSON.parse(fs.readFileSync(path.join(ROOT, "content-plan.json"), "utf8")); }
+const STRUCTURAL = new Set(["index", "lo-trinh", "moi-quan-tam", "cam-nhan-cong-dong", "mien-tru-trach-nhiem", "cam-on"]);
+function orphanTitle(slug) {
+  try {
+    const h = fs.readFileSync(path.join(ROOT, "blog", `${slug}.html`), "utf8");
+    const m = h.match(/<title>([^<]*)<\/title>/i);
+    let t = m ? m[1].trim() : slug;
+    t = t.replace(/\s*[|–—-]\s*Blog IKI.*$/i, "").replace(/\s*\|\s*IKI.*$/i, "").trim();
+    return t || slug;
+  } catch { return slug; }
+}
+function orphanCategory(slug) {
+  const s = slug.toLowerCase();
+  if (/(dong-y|thao-moc|-tra-|-tra$|tra-|dan-gian)/.test(s)) return "dong-y";
+  if (/(thoi-quen|ngu|giac-ngu|tap|van-dong|stress|thu-gian|loi-song)/.test(s)) return "thoi-quen";
+  if (/(thuc-pham|nguyen-lieu|thanh-phan)/.test(s)) return "thuc-pham";
+  return "dinh-duong";
+}
+// Bài blog/<slug>.html đã có nhưng CHƯA vào content-plan (máy tự viết) → tự gom vào để hiện ở hub danh mục + search + sitemap. Self-heal cho bài tương lai.
+function orphanArticles(plan) {
+  const dir = path.join(ROOT, "blog");
+  if (!fs.existsSync(dir)) return [];
+  const known = new Set((plan.articles || []).map((a) => a.slug));
+  const out = [];
+  for (const f of fs.readdirSync(dir)) {
+    if (!f.endsWith(".html")) continue;
+    const slug = f.replace(/\.html$/, "");
+    if (STRUCTURAL.has(slug) || slug.startsWith("danh-muc-") || known.has(slug)) continue;
+    out.push({ title: orphanTitle(slug), slug, category: orphanCategory(slug), status: "published", _orphan: true });
+  }
+  return out;
+}
+function loadPlan() {
+  const plan = JSON.parse(fs.readFileSync(path.join(ROOT, "content-plan.json"), "utf8"));
+  plan.articles = [...(plan.articles || []), ...orphanArticles(plan)];
+  return plan;
+}
 function draftMeta(slug) {
   const p = path.join(ROOT, "blog-drafts", `${slug}.md`);
   if (!fs.existsSync(p)) return null;
@@ -33,7 +68,7 @@ function draftMeta(slug) {
   if (!m) return null;
   try { return JSON.parse(m[1]); } catch { return null; }
 }
-const isPublished = (slug) => fs.existsSync(path.join(ROOT, "blog-drafts", `${slug}.md`));
+const isPublished = (slug) => fs.existsSync(path.join(ROOT, "blog-drafts", `${slug}.md`)) || fs.existsSync(path.join(ROOT, "blog", `${slug}.html`));
 
 // slug -> title (gộp articles + roadmaps) để render thẻ theo chặng
 function titleMap(plan) {
@@ -432,7 +467,7 @@ function updateSitemap(plan) {
   const url = (loc, pri, freq) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>\n  </url>`;
   const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly"), url(`${SITE}/blog/mien-tru-trach-nhiem.html`, "0.3", "yearly")];
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
-  for (const a of plan.articles) if (isPublished(a.slug)) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly"));
+  for (const a of plan.articles) if (isPublished(a.slug) && !a._orphan) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly"));
   const block = `  <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- BLOG:END -->`;
   if (/<!-- BLOG:START[\s\S]*?BLOG:END -->/.test(xml)) xml = xml.replace(/  <!-- BLOG:START[\s\S]*?BLOG:END -->/, block);
   else xml = xml.replace(/<\/urlset>/, `${block}\n\n</urlset>`);
