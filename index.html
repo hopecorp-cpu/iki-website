@@ -554,5 +554,24 @@
     </div>
   </footer>
 
+  <script>
+  /* Beacon phễu trang chủ: đo lượt vào + click CTA (quiz/sản phẩm/blog). Chỉ gửi số, không dữ liệu cá nhân. */
+  (function(){
+    var EP='https://hope-ops-hub.vercel.app/api/funnel', PAGE='ikihealing', sent={};
+    function fnl(step){ if(sent[step])return; sent[step]=1;
+      try{ navigator.sendBeacon(EP, new Blob([JSON.stringify({page:PAGE,step:step})],{type:'application/json'})); }
+      catch(e){ try{ fetch(EP,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({page:PAGE,step:step}),keepalive:true}); }catch(_){}}
+    }
+    fnl('view');
+    document.addEventListener('click', function(e){
+      var a=e.target.closest && e.target.closest('a'); if(!a)return;
+      var h=(a.getAttribute('href')||'').toLowerCase();
+      if(/quiz/.test(h)) fnl('cta_quiz');
+      else if(/detox|san-pham|product|shop|ebook/.test(h)) fnl('cta_product');
+      else if(/blog/.test(h)) fnl('cta_blog');
+    }, true);
+  })();
+  </script>
+
 </body>
 </html>
