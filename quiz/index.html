@@ -183,6 +183,12 @@ const OPS_ENDPOINT='https://hope-ops-hub.vercel.app/api/quiz-submit';
 const PAY_CREATE='https://hope-ops-hub.vercel.app/api/quiz-pay/create';
 const PAY_STATUS='https://hope-ops-hub.vercel.app/api/quiz-pay/status';
 const LEAD_CONVERSION='AW-18332022859/NzdQCOH0m9YcEMvwsaVE';
+const FUNNEL_ENDPOINT='https://hope-ops-hub.vercel.app/api/funnel';
+const _fired={};
+function fnl(step){ if(_fired[step])return; _fired[step]=1;
+  try{ if(window.gtag) gtag('event','funnel_'+step,{funnel:'quiz'}); }catch(e){}
+  try{ fetch(FUNNEL_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({page:'quiz',step:step}),keepalive:true}).catch(function(){}); }catch(e){}
+}
 const GIFT='<svg class="ico" viewBox="0 0 24 24"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/><path d="M7.5 8a2.5 2.5 0 0 1 0-5C11 3 12 8 12 8s1-5 4.5-5a2.5 2.5 0 0 1 0 5"/></svg>';
 const CLOCK='<svg class="ico" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>';
 const CHEV='<svg class="ico chev" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>';
@@ -297,7 +303,7 @@ function intro(){ steps(-1);
     <div class="eyebrow">Kiểm tra 90 giây · Miễn phí</div>
     <h1>Cơ thể bạn đang cần được chăm sóc điều gì nhất?</h1>
     <p class="lede">12 câu hỏi ngắn, chia 3 bước, theo góc nhìn huấn luyện viên sức khoẻ &amp; Đông y. Cuối bài bạn nhận <b>bản phân tích 6 chỉ số sức khoẻ</b> của riêng mình — kèm giải pháp và một món quà.</p>
-    <div style="margin-top:22px"><button class="btn btn-primary btn-wide" onclick="go('batch',0)">Bắt đầu kiểm tra →</button></div>
+    <div style="margin-top:22px"><button class="btn btn-primary btn-wide" onclick="fnl('start');go('batch',0)">Bắt đầu kiểm tra →</button></div>
     <p class="disc">Bản đồ thói quen &amp; thể trạng để chăm sóc sức khoẻ chủ động, mang tính tham khảo — không nhằm chẩn đoán bệnh hay thay thế tư vấn y khoa.</p>
   </div>`;
 }
@@ -321,7 +327,7 @@ function pick(i,k){ answers[i]=k;
   const done=BATCHES[bi].qs.every(x=>answers[x]!=null);
   const nx=document.getElementById('nx'); if(nx) nx.disabled=!done;
 }
-function startResult(){ if(!deadline) deadline=Date.now()+15*60*1000; go('teaser'); }
+function startResult(){ fnl('q_done'); if(!deadline) deadline=Date.now()+15*60*1000; go('teaser'); }
 function teaser(){ steps(3); const dm=computeDims(); const ov=overall(dm); const order=Object.keys(DIMS).sort((a,b)=>dm[a]-dm[b]);
   const c=2*Math.PI*54, off=c*(1-ov/100), col=ov>=67?'#3FA98C':ov>=40?'#E4A33C':'#DB6B54';
   app.innerHTML=`<div class="fade">
@@ -347,7 +353,7 @@ function teaser(){ steps(3); const dm=computeDims(); const ov=overall(dm); const
   </div>`;
   setTimeout(()=>{document.getElementById('ring').style.transition='stroke-dashoffset 1.1s cubic-bezier(.3,0,.2,1)';document.getElementById('ring').style.strokeDashoffset=off;document.querySelectorAll('.fill').forEach(f=>f.style.width=f.dataset.w+'%');},80);
 }
-function gate(){ steps(3);
+function gate(){ steps(3); fnl('gate_view');
   app.innerHTML=`<div class="fade">
     <div class="urg">${CLOCK}<span>Còn <span class="cdown">15:00</span> để mở kết quả &amp; nhận quà miễn phí</span></div>
     <div class="lead">
@@ -372,7 +378,7 @@ function submitGate(){
   if(!emailOk){ em.classList.add('err'); ok=false; }
   if(!ok){ err.textContent = !nm.value.trim() ? 'Vui lòng nhập tên của bạn.' : 'Email chưa đúng — cần email hợp lệ để gửi quà cho bạn.'; return; }
   lead.name=nm.value.trim(); lead.email=em.value.trim(); lead.phone=(ph.value||'').trim();
-  if(!sentGate){ sendQuiz(null); sentGate=true;
+  if(!sentGate){ sendQuiz(null); sentGate=true; fnl('lead');
     try{ if(window.gtag) gtag('event','conversion',{send_to:LEAD_CONVERSION}); }catch(e){}
     try{ if(window.gtag) gtag('event','generate_lead'); }catch(e){}
   }
@@ -418,7 +424,7 @@ function full(){ steps(3); const dm=computeDims(); const ov=overall(dm); const p
   setTimeout(()=>{const r=document.getElementById('ring'); if(r){r.style.transition='stroke-dashoffset 1.1s cubic-bezier(.3,0,.2,1)';r.style.strokeDashoffset=goff;} document.querySelectorAll('.fill').forEach(f=>f.style.width=f.dataset.w+'%');},80);
 }
 function chooseSlow(){ document.getElementById('offerZone').innerHTML=`<div class="card fade" style="text-align:center;margin-top:12px"><div class="batchhead" style="font-size:1.2rem">Tuyệt vời!</div><p class="lede" style="margin-top:6px">IKI sẽ đồng hành cùng bạn qua email mỗi tuần với những thói quen nhỏ, dễ giữ. Cứ bắt đầu từ 1 việc trong giải pháp phía trên nhé.</p></div>`; document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'nearest'}); }
-function chooseFast(){ selPkg=1; renderOffers(); document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'start'}); }
+function chooseFast(){ fnl('offers'); selPkg=1; renderOffers(); document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'start'}); }
 function renderOffers(){
   document.getElementById('offerZone').innerHTML=`<div class="fade" style="margin-top:12px">
     <div class="urg">${CLOCK}<span>Ưu đãi &amp; suất tư vấn tuần này giữ trong <span class="cdown">15:00</span></span></div>
@@ -429,7 +435,7 @@ function renderOffers(){
     <button class="btn btn-primary btn-wide" style="margin-top:6px" ${selPkg===null?'disabled':''} onclick="go('checkout')">Tiếp tục →</button>
   </div>`;
 }
-function checkout(){ steps(3); const pk=PKG[selPkg]; const p=PROFILES[profile()];
+function checkout(){ steps(3); fnl('checkout'); const pk=PKG[selPkg]; const p=PROFILES[profile()];
   app.innerHTML=`<div class="fade">
     <div class="urg">${CLOCK}<span>Giữ ưu đãi trong <span class="cdown">15:00</span></span></div>
     <div class="card">
@@ -470,7 +476,7 @@ async function confirmOrder(){
   }catch(e){}
   paying=false; go('thankyou');
 }
-function pay(){ steps(3); const pk=PKG[selPkg]||{name:''}; if(!payInfo){go('checkout');return;}
+function pay(){ steps(3); const pk=PKG[selPkg]||{name:''}; if(!payInfo){go('checkout');return;} fnl('pay_qr');
   app.innerHTML=`<div class="fade">
     <div class="urg">${CLOCK}<span>Giữ ưu đãi trong <span class="cdown">15:00</span></span></div>
     <div class="card" style="text-align:center">
@@ -494,7 +500,7 @@ function pay(){ steps(3); const pk=PKG[selPkg]||{name:''}; if(!payInfo){go('chec
 function startPoll(){ stopPoll(); if(!payInfo)return; var n=0;
   payTimer=setInterval(async function(){ n++; if(n>150){stopPoll();return;}
     try{ const r=await fetch(PAY_STATUS+'?orderCode='+encodeURIComponent(payInfo.orderCode)); const j=await r.json();
-      if(j.status==='PAID'){ stopPoll(); paidDone=true; try{if(window.gtag)gtag('event','purchase',{transaction_id:String(payInfo.orderCode),value:payInfo.amount||0,currency:'VND'});}catch(e){} go('thankyou'); }
+      if(j.status==='PAID'){ stopPoll(); paidDone=true; fnl('paid'); try{if(window.gtag)gtag('event','purchase',{transaction_id:String(payInfo.orderCode),value:payInfo.amount||0,currency:'VND'});}catch(e){} go('thankyou'); }
       else if(j.status==='CANCELLED'||j.status==='EXPIRED'){ stopPoll(); const s=document.getElementById('paystate'); if(s){s.textContent='Mã đã hết hạn hoặc huỷ — bấm “Quay lại” để tạo mã mới.';s.style.color='var(--alert)';} }
     }catch(e){}
   },4000);
@@ -519,6 +525,7 @@ function thankyou(){ steps(3); const pk=PKG[selPkg]||{name:'của bạn'};
 }
 function restart(){ stopPoll(); answers.fill(null); deadline=0; selPkg=null; payInfo=null; paidDone=false; paying=false; vatInfo=null; go('intro'); }
 try{ if(new URLSearchParams(location.search).get('paid')==='1'){ paidDone=true; phase='thankyou'; } }catch(e){}
+fnl('view');
 render();
 </script>
 </body>
