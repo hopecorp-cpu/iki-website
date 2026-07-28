@@ -100,7 +100,8 @@ if(hv===2&&Math.abs(han)<=4)patt="dam_thap";else if(Math.abs(han)<=2&&Math.abs(h
 const r=D.pt[patt];document.getElementById("quiz").classList.add("hide");document.getElementById("result").classList.remove("hide");
 document.getElementById("rname").textContent=r.name;document.getElementById("rdesc").textContent=r.desc;
 document.getElementById("rfoods").innerHTML=r.foods.map(f=>'<span class="chip">'+f+'</span>').join("");
-document.getElementById("rtip").textContent=r.tip;window.scrollTo({top:0});try{gtag('event','quiz_codia_result',{pattern:patt})}catch(e){}}
+document.getElementById("rtip").textContent=r.tip;window.scrollTo({top:0});try{gtag('event','quiz_codia_result',{pattern:patt})}catch(e){}
+fetch("https://hope-ops-hub.vercel.app/api/quiz-data",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({pattern:patt,locale:"vi",answers:Object.values(ans),han:han,hu:hu,source:"quiz-codia:vi"}),keepalive:true}).catch(()=>{});}
 function sendLead(){const em=document.getElementById("em").value.trim();if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em))return;
 const r=D.pt[patt]||{};
 fetch("https://hope-ops-hub.vercel.app/api/quiz-submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:"",email:em,profile:patt,profileName:r.name||"",answers:Object.values(ans),consent:true,source:"quiz-codia:vi:"+patt}),keepalive:true}).catch(()=>{});
