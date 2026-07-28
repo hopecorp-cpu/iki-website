@@ -428,13 +428,14 @@ function full(){ steps(3); const dm=computeDims(); const ov=overall(dm); const p
       <button class="choice hot" onclick="chooseFast()"><span class="tagf">Khuyên chọn</span><b>Mình muốn cải thiện nhanh, có người đồng hành</b><span>Xem lộ trình may đo: thực đơn cá nhân hoá + tư vấn 1-1.</span></button>
     </div>
     <div id="offerZone"></div>
+    ${CODIA_CTA}
 
     <p class="disc">Kết quả mang tính tham khảo để chăm sóc sức khoẻ chủ động, không phải chẩn đoán bệnh. Sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc và không thay thế thuốc chữa bệnh. Cảm nhận có thể khác nhau tuỳ cơ địa.</p>
     <div class="nav" style="justify-content:center;margin-top:6px"><button class="btn btn-ghost" onclick="restart()">↻ Làm lại</button></div>
   </div>`;
   setTimeout(()=>{const r=document.getElementById('ring'); if(r){r.style.transition='stroke-dashoffset 1.1s cubic-bezier(.3,0,.2,1)';r.style.strokeDashoffset=goff;} document.querySelectorAll('.fill').forEach(f=>f.style.width=f.dataset.w+'%');},80);
 }
-function chooseSlow(){ document.getElementById('offerZone').innerHTML=`<div class="card fade" style="text-align:center;margin-top:12px"><div class="batchhead" style="font-size:1.2rem">Tuyệt vời!</div><p class="lede" style="margin-top:6px">IKI sẽ đồng hành cùng bạn qua email mỗi tuần với những thói quen nhỏ, dễ giữ. Cứ bắt đầu từ 1 việc trong giải pháp phía trên nhé.</p></div>`; document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'nearest'}); }
+function chooseSlow(){ document.getElementById('offerZone').innerHTML=`<div class="card fade" style="text-align:center;margin-top:12px"><div class="batchhead" style="font-size:1.2rem">Tuyệt vời!</div><p class="lede" style="margin-top:6px">IKI sẽ đồng hành cùng bạn qua email mỗi tuần với những thói quen nhỏ, dễ giữ. Cứ bắt đầu từ 1 việc trong giải pháp phía trên nhé.</p></div>`+CODIA_CTA; document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'nearest'}); }
 function chooseFast(){ fnl('offers'); selPkg=1; renderOffers(); document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'start'}); }
 function renderOffers(){
   document.getElementById('offerZone').innerHTML=`<div class="fade" style="margin-top:12px">
@@ -517,6 +518,13 @@ function startPoll(){ stopPoll(); if(!payInfo)return; var n=0;
   },4000);
 }
 function stopPoll(){ if(payTimer){clearInterval(payTimer);payTimer=null;} }
+
+const CODIA_CTA = `<div style="margin-top:18px;background:#FFF6E8;border:1px solid #F5DDB8;border-radius:18px;padding:18px 16px;text-align:center">
+  <div style="font-weight:800;letter-spacing:.08em;text-transform:uppercase;font-size:.72rem;color:#2E8975">Bước tiếp theo</div>
+  <div style="font-family:Georgia,serif;font-weight:700;font-size:1.25rem;margin:.35rem 0">Bạn thuộc thể Hàn hay Nhiệt?</div>
+  <p style="color:#6B7B72;font-size:.9rem;margin:.2rem 0 .8rem">Làm tiếp quiz CƠ ĐỊA Đông y 2 phút — biết thể trạng của mình và món nên ăn, cá nhân hoá sâu hơn nữa.</p>
+  <a href="/quiz/co-dia/" onclick="try{fnl(&quot;codia_next&quot;)}catch(e){}" style="display:block;background:#F18D00;color:#fff;font-weight:800;border-radius:999px;padding:13px 18px;text-decoration:none;box-shadow:0 8px 22px rgba(241,141,0,.35)">Quiz cơ địa 2 phút →</a>
+</div>`;
 function thankyou(){ steps(3); const pk=PKG[selPkg]||{name:'của bạn'};
   const head = paidDone ? 'Thanh toán thành công!' : 'Cảm ơn bạn!';
   const lead1 = paidDone
@@ -531,6 +539,7 @@ function thankyou(){ steps(3); const pk=PKG[selPkg]||{name:'của bạn'};
     <div class="sol" style="margin-top:16px"><span class="ic">✓</span><div><b>Kiểm tra hộp thư của bạn</b><span>Thực đơn mẫu + ebook đang được gửi tự động về email/Zalo bạn vừa nhập.</span></div></div>
     <div class="sol"><span class="ic">✓</span><div><b>Cần hỗ trợ ngay?</b><span>Gọi hoặc nhắn Zalo <b>0987.931.551</b> — đội ngũ IKI luôn sẵn sàng.</span></div></div>
     <div class="sol"><span class="ic">✓</span><div><b>Trong lúc chờ</b><span>Bạn có thể bắt đầu ngay 1 việc nhỏ trong phần giải pháp miễn phí — cơ thể sẽ cảm ơn bạn.</span></div></div>
+    ${CODIA_CTA}
     <div class="nav" style="justify-content:center;margin-top:14px"><button class="btn btn-ghost" onclick="restart()">↻ Làm lại từ đầu</button></div>
   </div>`;
 }
