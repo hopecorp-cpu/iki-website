@@ -171,7 +171,7 @@ Bạn không cần thay đổi mọi thứ cùng lúc. Hãy thử một nhịp n
 Sau một tuần, hãy để ý xem buổi sáng của bạn có nhẹ nhõm hơn, tinh thần có tỉnh táo hơn không. Những thay đổi nhỏ nhưng đều đặn thường bền hơn nhiều so với các "chiến dịch" rầm rộ rồi bỏ dở. Nếu thấy hợp, bạn có thể giữ nguyên nhịp này và để nó tự nhiên trở thành một phần trong ngày.
 
 :::case Từ cộng đồng IKI
-Trong cộng đồng hơn 100.000 người dùng IKI, "một cốc nước ấm buổi sáng" là một trong những thói quen được nhắc lại nhiều nhất khi mọi người chia sẻ về ngày khởi đầu nhẹ nhõm. Điều thú vị không nằm ở bản thân cốc nước, mà ở chỗ nó trở thành một điểm neo để bắt đầu chăm sóc bản thân đều đặn hơn mỗi ngày.
+Trong cộng đồng hơn 200.000 người dùng IKI, "một cốc nước ấm buổi sáng" là một trong những thói quen được nhắc lại nhiều nhất khi mọi người chia sẻ về ngày khởi đầu nhẹ nhõm. Điều thú vị không nằm ở bản thân cốc nước, mà ở chỗ nó trở thành một điểm neo để bắt đầu chăm sóc bản thân đều đặn hơn mỗi ngày.
 :::
 
 :::case Chị H. (Hải Phòng) — đổi thói quen nước đá xế chiều

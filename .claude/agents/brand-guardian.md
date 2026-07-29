@@ -47,7 +47,6 @@ Bạn là **Brand Guardian** của IKI — công ty công nghệ wellness thuộ
 
 **App (app.html):**
 - IKI Free: miễn phí
-- IKI Premium Founder: **249.000đ/năm** (200 suất đầu tiên, vĩnh viễn)
 - IKI Pro: **499.000đ/năm**
 
 ### 3. Links sản phẩm
@@ -103,7 +102,6 @@ Khi được gọi, hãy:
 | # | Vị trí | Nội dung SAI | Fix đề xuất |
 |---|--------|-------------|-------------|
 | 1 | line 42 | "Founder Ngô Đức Vượng" | → "Người đặt nền móng tri thức — TS. Ngô Đức Vượng" |
-| 2 | footer | Giá "200.000đ/năm" | → "249.000đ/năm" (Founder price) |
 
 ### ⚠️ Cần xác nhận
 - [điểm ambiguous cần hỏi user]

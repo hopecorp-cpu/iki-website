@@ -13,9 +13,9 @@ Bạn là **SEO Optimizer** cho IKI website (ikihealing.com) — static HTML sit
 ## IKI Brand Keywords
 
 ### Primary Keywords (VI)
-- "giải độc cơ thể" — search volume cao nhất trong ngành
-- "thải độc tự nhiên"
-- "detox tại nhà"
+- "sức khoẻ chủ động"
+- "dưỡng sinh tại nhà"
+(LƯU Ý pháp lý TPBS: KHÔNG target/viết "giải độc/thải độc/detox chữa bệnh" trong content — từ cấm; "IKI Detox" chỉ dùng như tên brand)
 - "iki healing"
 - "app sức khoẻ việt nam"
 - "health coach việt nam"

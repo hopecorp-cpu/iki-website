@@ -136,7 +136,7 @@ Bạn không cần thay đổi toàn bộ bữa ăn ngay. Hãy thử ba bước 
 Chỉ sau một thời gian ngắn, bạn sẽ tự vẽ được "bản đồ ăn uống" của riêng mình — thứ mà không một thực đơn chung nào thay thế được.
 
 :::case Từ cộng đồng IKI
-Nhiều thành viên trong cộng đồng hơn 100.000 người dùng IKI chia sẻ rằng bước ngoặt của họ không phải là một "siêu thực phẩm" nào cả, mà là khoảnh khắc bắt đầu để ý xem cơ thể mình phản ứng thế nào với từng món. Khi ăn theo mùa và hợp với cơ địa, bữa cơm trở nên nhẹ nhõm và dễ chịu hơn — một thay đổi nhỏ nhưng bền. (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
+Nhiều thành viên trong cộng đồng hơn 200.000 người dùng IKI chia sẻ rằng bước ngoặt của họ không phải là một "siêu thực phẩm" nào cả, mà là khoảnh khắc bắt đầu để ý xem cơ thể mình phản ứng thế nào với từng món. Khi ăn theo mùa và hợp với cơ địa, bữa cơm trở nên nhẹ nhõm và dễ chịu hơn — một thay đổi nhỏ nhưng bền. (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 
 :::case Chị H. (Hải Phòng) — nghe theo cơ thể thay vì nghe theo trào lưu
