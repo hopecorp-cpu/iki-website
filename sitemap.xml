@@ -224,6 +224,12 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ikihealing.com/blog/bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ikihealing.com/blog/bao-cao-cham-soc-suc-khoe-chu-dong-2026.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -809,6 +815,7 @@
   <url><loc>https://ikihealing.com/blog/chon-thuc-pham-bo-sung-dung-cach.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ikihealing.com/blog/nau-com-nha-nguoi-ban.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ikihealing.com/blog/giu-nep-an-khi-di-xa.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/khao-sat/thuc-khuya.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://ikihealing.com/blog/ngoi-lau-va-suc-khoe.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/chuot-rut-chan-ban-dem.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/dau-lung-duoi-va-van-dong-nhe.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>

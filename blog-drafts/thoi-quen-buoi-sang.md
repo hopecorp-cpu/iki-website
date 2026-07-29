@@ -40,7 +40,7 @@ Cách bạn bắt đầu buổi sáng thường định hình phần lớn năng
 
 Sau một đêm ngủ, cơ thể và tâm trí bước vào một "khởi động" mới. Những gì bạn làm trong 30–60 phút đầu tiên — uống gì, ăn gì, vận động hay ngồi yên, bình tĩnh hay vội vã — sẽ ảnh hưởng đến mức năng lượng, sự tập trung và cảm xúc suốt ngày.
 
-Có một lý do rất dễ hình dung. Sau tám đến mười giờ ngủ, đây là khoảng thời gian dài nhất cơ thể không được nạp nước và thức ăn. Khi thức dậy, cơ thể cần được đánh thức nhẹ nhàng theo đúng nhịp của nó: một chút nước để bù lại lượng đã mất qua hơi thở suốt đêm, một chút vận động để máu lưu thông, một chút ánh sáng để báo hiệu "đã đến lúc bắt đầu ngày mới". Khi bạn cung cấp đúng những tín hiệu này, cơ thể chuyển từ trạng thái nghỉ sang trạng thái hoạt động một cách êm ái.
+Có một lý do rất dễ hình dung. Tính cả giấc ngủ bảy đến chín giờ và khoảng thời gian trước, sau đó, đêm là quãng dài nhất trong ngày cơ thể không được nạp nước và thức ăn. Khi thức dậy, cơ thể cần được đánh thức nhẹ nhàng theo đúng nhịp của nó: một chút nước để bù lại lượng đã mất qua hơi thở suốt đêm, một chút vận động để máu lưu thông, một chút ánh sáng để báo hiệu "đã đến lúc bắt đầu ngày mới". Khi bạn cung cấp đúng những tín hiệu này, cơ thể chuyển từ trạng thái nghỉ sang trạng thái hoạt động một cách êm ái.
 
 Ngược lại, một buổi sáng vội vã, bỏ bữa, lao ngay vào điện thoại và công việc dễ khiến bạn cảm thấy đuối và mất tập trung. Nhiều người mô tả cảm giác đầu ngày như "chạy theo thời gian" — vừa mở mắt đã thấy trễ, vừa ra khỏi nhà đã thấy mệt. Cảm giác đó không chỉ là chuyện tâm lý: khi bạn bỏ qua các bước đánh thức tự nhiên, cơ thể phải gồng lên bù lại, và cái giá thường là một buổi sáng uể oải, đến giữa buổi thì đói cồn cào và với tay lấy đồ ngọt.
 
@@ -77,7 +77,7 @@ Một chuỗi giãn cơ đơn giản trong 3–5 phút bạn có thể thử nga
 - Vươn hai tay lên cao, hít sâu, rồi thả lỏng — lặp lại vài lần.
 - Xoay cổ, xoay vai và cổ tay nhẹ nhàng để giải toả phần thân trên hay bị mỏi.
 - Cúi người chạm tay xuống chân (trong khả năng, không gắng sức) để kéo giãn lưng và chân.
-- Nếu có thời gian, một vòng đi bộ ngắn quanh nhà hoặc khu phố là khởi đầu tuyệt vời — vừa vận động, vừa đón nắng sớm cùng lúc.
+- Nếu có thời gian, một vòng đi bộ ngắn quanh nhà hoặc khu phố là cách khởi đầu rất đáng thử — vừa vận động, vừa đón nắng sớm cùng lúc.
 
 Điều cần nhớ là "nhẹ và đều" quan trọng hơn "nặng và thất thường". Vài phút mỗi sáng, lặp lại đều đặn, có ích hơn nhiều so với một buổi tập kiệt sức rồi bỏ cả tuần. Nếu bạn muốn xây thói quen vận động một cách bài bản, hãy tham khảo thêm bài [Vận động nhẹ mỗi ngày](van-dong-nhe-moi-ngay.html).
 
@@ -164,7 +164,7 @@ Một mốc tham khảo dễ nhớ: hãy cho mỗi thói quen mới khoảng hai
 Hiểu đúng về buổi sáng giúp bạn ra quyết định tự tin hơn, thay vì chạy theo những lời khuyên truyền miệng thiếu cơ sở.
 
 :::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Một thành viên trong cộng đồng chia sẻ rằng trước đây buổi sáng của chị luôn vội vã: thức dậy muộn, lướt điện thoại, bỏ bữa sáng rồi lao đi làm trong trạng thái uể oải. Chị bắt đầu thay đổi bằng đúng một việc nhỏ — uống một cốc nước ấm ngay khi dậy. Vài tuần sau, chị thêm việc giãn cơ vài phút và ăn sáng đơn giản. Chị nói điều quý nhất không phải là một buổi sáng "hoàn hảo", mà là cảm giác chủ động và nhẹ nhõm hơn khi bắt đầu ngày mới. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
+Một thành viên trong cộng đồng — chị giáo viên tiểu học ngoài 30 — chia sẻ rằng trước đây buổi sáng của chị luôn vội vã: thức dậy muộn, lướt điện thoại, bỏ bữa sáng rồi lao đi dạy trong trạng thái uể oải. Chị bắt đầu thay đổi bằng đúng một việc nhỏ — uống một cốc nước ấm ngay khi dậy. Vài tuần sau, chị thêm việc giãn cơ vài phút và ăn sáng đơn giản. Chị nói điều quý nhất không phải là một buổi sáng "hoàn hảo", mà là cảm giác chủ động và nhẹ nhõm hơn khi bắt đầu ngày mới. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 
 :::case Anh T. (Hải Phòng) — đổi buổi sáng "nặng nề" bằng ba việc nhỏ

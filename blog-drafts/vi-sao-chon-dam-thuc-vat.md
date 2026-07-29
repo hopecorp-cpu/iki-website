@@ -28,7 +28,7 @@
     },
     {
       "q": "Người khó tiêu với đạm động vật có nên thử đạm thực vật không?",
-      "a": "Nhiều người thấy đạm thực vật nhẹ nhàng hơn cho cảm giác tiêu hóa vì đi kèm chất xơ và không có cholesterol. Bạn có thể thử tăng dần các nguồn như đậu hũ, sữa đậu, các loại đậu và hạt, quan sát cảm nhận của cơ thể trong vài tuần. Nếu bạn có bệnh nền về tiêu hóa, hãy trao đổi với bác sĩ hoặc chuyên gia dinh dưỡng trước khi thay đổi lớn."
+      "a": "Nhiều người cảm nhận bữa ăn thiên về đạm thực vật nhẹ bụng hơn, một phần nhờ đi kèm chất xơ và thường ít chất béo bão hòa hơn. Bạn có thể thử tăng dần các nguồn như đậu hũ, sữa đậu, các loại đậu và hạt, quan sát cảm nhận của cơ thể trong vài tuần; lưu ý các loại đậu ăn nhiều đột ngột có thể gây đầy hơi, nên tăng từ từ. Nếu bạn có bệnh nền về tiêu hóa, hãy trao đổi với bác sĩ hoặc chuyên gia dinh dưỡng trước khi thay đổi lớn."
     },
     {
       "q": "Chọn bột đạm thực vật nên nhìn vào điều gì trên nhãn?",
@@ -68,7 +68,7 @@ Bài viết này không nhằm thuyết phục bạn rằng đạm thực vật 
 
 Đạm là nguyên liệu để cơ thể xây dựng và tái tạo tế bào, duy trì khối cơ và tham gia vào nhiều hoạt động sống hằng ngày. Đây cũng là thành phần mà nhiều bữa ăn Việt hay bị thiếu, nhất là bữa sáng, vì chúng ta có xu hướng ăn nhiều tinh bột mà quên phần đạm. Một bữa cơm chỉ có cơm trắng và vài món rau xào thì no bụng nhưng nghèo đạm, và cảm giác đói thường quay lại sớm.
 
-Điểm đáng lưu ý là không phải cứ "có đạm" là đủ. Chất lượng và sự đa dạng của nguồn đạm ảnh hưởng đến cảm giác no lâu, độ nhẹ nhàng cho tiêu hóa và cả sự bền của năng lượng trong ngày. Đạm động vật từ thịt, cá, trứng, sữa thường cung cấp đủ các axit amin thiết yếu trong một nguồn, nhưng một số loại đi kèm chất béo bão hòa. Đạm thực vật từ đậu, hạt, ngũ cốc lại nhẹ nhàng cho tiêu hóa, không có cholesterol và đi kèm chất xơ, đổi lại từng loại thường thiếu một vài axit amin nên cần phối đa dạng.
+Điểm đáng lưu ý là không phải cứ "có đạm" là đủ. Chất lượng và sự đa dạng của nguồn đạm ảnh hưởng đến cảm giác no lâu, độ nhẹ nhàng cho tiêu hóa và cả sự bền của năng lượng trong ngày. Đạm động vật từ thịt, cá, trứng, sữa thường cung cấp đủ các axit amin thiết yếu trong một nguồn, nhưng một số loại đi kèm chất béo bão hòa. Đạm thực vật từ đậu, hạt, ngũ cốc không chứa cholesterol, đi kèm chất xơ và thường ít chất béo bão hòa hơn — nhiều người cũng cảm nhận bữa ăn thiên thực vật nhẹ bụng hơn; đổi lại từng loại thường thiếu một vài axit amin nên cần phối đa dạng.
 
 Vì thế, "chọn đúng nguồn đạm" thực chất là chọn được sự kết hợp phù hợp với cơ thể và nếp sống của mình, chứ không phải tìm ra một loại thực phẩm hoàn hảo duy nhất. Khi hiểu điều này, bạn sẽ bớt hoang mang trước những lời quảng cáo tuyệt đối hóa một sản phẩm nào đó.
 
@@ -137,7 +137,7 @@ Một thành viên trong cộng đồng chia sẻ rằng trước đây chị ha
 :::
 
 :::case Anh K. (Hải Phòng, ngoài 40) — một nhịp ngày ổn định
-Anh K. chia sẻ cách anh sắp xếp một ngày ăn uống mà anh thấy hợp với mình: bắt đầu buổi sáng bằng một cốc nước ấm, bữa trưa là bữa chính đủ chất, buổi chiều vận động nhẹ rồi uống một ly đạm thực vật, buổi tối ăn nhẹ với nhiều rau và trái cây. Điều anh nhấn mạnh không phải là một sản phẩm hay một bữa ăn riêng lẻ nào, mà là việc giữ được một nếp sinh hoạt đều đặn khiến anh cảm thấy tinh thần tích cực và sức khỏe ổn định hơn. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, là kết quả của cả một quá trình ăn uống và vận động đều đặn; không phải lời khuyên y khoa, và kết quả có thể khác nhau tùy cơ địa mỗi người.)
+Anh K., ngoài 40 tuổi, làm quản lý kho ở Hải Phòng — công việc đi sớm về muộn, bữa trưa thường ăn vội ở quán gần chỗ làm. Có giai đoạn anh nhận ra mình ăn uống rất thất thường: hôm thì hai bữa dồn một, hôm lại toàn đồ chiên rán, còn phần đạm trong ngày gần như phó mặc cho may rủi. Thay vì đổi hẳn sang một chế độ ăn mới, anh chọn cách sắp xếp lại nhịp ngày sao cho dễ giữ: bắt đầu buổi sáng bằng một cốc nước ấm, bữa trưa là bữa chính đủ chất với một nguồn đạm rõ ràng, buổi chiều vận động nhẹ rồi uống một ly đạm thực vật vào những hôm bữa ăn thiếu hụt, buổi tối ăn nhẹ với nhiều rau và trái cây. Thời gian đầu anh cũng quên lên quên xuống, nên anh để sẵn hộp đạm ngay cạnh ấm nước ở góc bếp như một lời nhắc. Điều anh nhấn mạnh không phải là một sản phẩm hay một bữa ăn riêng lẻ nào, mà là việc giữ được một nếp sinh hoạt đều đặn — thứ trước đây anh nghĩ chỉ dành cho người rảnh rỗi. Anh kể rằng khi nhịp ngày ổn định, anh thấy tinh thần thoải mái hơn và việc ăn uống có chủ đích không còn là gánh nặng. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau tùy cơ địa mỗi người.)
 :::
 
 ## Câu hỏi thường gặp khi chọn mua

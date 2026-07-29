@@ -114,16 +114,16 @@ Nếu bốn nhóm ở trên là "nguyên liệu", thì bảy nguyên tắc dư�
 
 ### Nhóm nhẹ, dưới 200 calo — nhanh và tiết kiệm
 
-- **Yến mạch chuối và hạt chia** — 5 phút · khoảng 195 calo · đạm 8g. Cho 35g yến mạch cán dẹt với 120ml sữa tươi không đường vào tô, quay vi sóng 2 phút (hoặc nấu bếp 3 phút), xếp nửa quả chuối thái lát, rắc một thìa cà phê hạt chia và chút quế. Muốn no lâu hơn, thêm 80g sữa chua Hy Lạp.
+- **Yến mạch chuối và hạt chia** — 5 phút · khoảng 195 calo · đạm 6g. Cho 30g yến mạch cán dẹt vào tô, chế nước sôi xâm xấp mặt và đậy 3 phút (hoặc nấu bếp), xếp nửa quả chuối thái lát, rắc một thìa cà phê hạt chia và chút quế. Muốn no lâu và thêm đạm, thêm 80g sữa chua Hy Lạp (cộng khoảng 50 calo).
 - **Trứng luộc và táo** — 3 phút · khoảng 165 calo · đạm 7g. Một quả trứng luộc sẵn và một quả táo nhỏ. Mẹo nhỏ: ăn trứng trước, trái cây sau để no lâu hơn. Món "cứu nguy" cho những sáng chỉ có đúng ba phút.
 - **Sữa chua Hy Lạp với việt quất** — 3 phút · khoảng 175 calo · đạm 17g. 170g sữa chua Hy Lạp trộn 50g việt quất (hoặc dâu, chuối, kiwi) và một thìa cà phê hạt chia. Không cần bếp mà vẫn có 17g đạm trong một bát.
-- **Bánh mì nguyên cám kẹp trứng** — 8 phút · khoảng 198 calo · đạm 11g. Hai lát bánh mì nguyên cám, một quả trứng áp chảo, thêm xà lách và cà chua.
+- **Bánh mì nguyên cám kẹp trứng** — 8 phút · khoảng 198 calo · đạm 11g. Hai lát bánh mì nguyên cám mỏng (khoảng 25g mỗi lát), một quả trứng áp chảo ít dầu, thêm xà lách và cà chua. Nếu dùng lát bánh dày hơn, bữa này sẽ nhích lên nhóm 250–300 calo.
 - **Khoai lang và trứng luộc** — 10 phút · khoảng 188 calo · đạm 8g. 100g khoai lang luộc hoặc hấp, ăn cùng một quả trứng. Mẹo: hấp nhiều khoai một lần, dùng cho 2–3 ngày.
 - **Salad cá ngừ** — 7 phút · khoảng 182 calo · đạm 22g. 80g cá ngừ ngâm nước trộn xà lách, dưa leo, cà chua, thêm tiêu và chanh — không cần sốt mayonnaise. Đây là món no dai nhất trong nhóm nhẹ.
 
 ### Nhóm vừa, 200–300 calo — cho sáng cần sức
 
-- **Sinh tố chuối protein** — 5 phút · khoảng 198 calo · đạm 18g. Xay nửa quả chuối với 200ml sữa không đường và 100g sữa chua Hy Lạp, uống ngay.
+- **Sinh tố chuối protein** — 5 phút · khoảng 230 calo · đạm 17g. Xay nửa quả chuối với 200ml sữa không đường và 100g sữa chua Hy Lạp, uống ngay.
 - **Sandwich ức gà áp chảo** — cho buổi sáng cần đạm cao, hợp người đi làm cả ngày.
 - **Cháo yến mạch trứng** — một bát ấm bụng, đủ tinh bột tốt và đạm, hợp những sáng se lạnh.
 - **Sữa chua Hy Lạp, chuối và hạnh nhân** — nhanh gọn, cân bằng đủ đạm, tinh bột và chất béo lành.
@@ -134,7 +134,7 @@ Bạn không cần thử hết trong một tuần. Hãy chọn ba đến năm m�
 
 ## Gợi ý bữa sáng lành mạnh kiểu Việt
 
-Điều tuyệt vời là ẩm thực Việt có rất nhiều lựa chọn vừa ngon vừa dễ điều chỉnh cho cân bằng. Bạn không cần từ bỏ món quen, chỉ cần tinh chỉnh một chút.
+Điểm thuận lợi là ẩm thực Việt có rất nhiều lựa chọn vừa ngon vừa dễ điều chỉnh cho cân bằng. Bạn không cần từ bỏ món quen, chỉ cần tinh chỉnh một chút.
 
 - **Cháo yến mạch kiểu Việt**: nấu yến mạch với chút nước dùng, thêm trứng, thịt bằm hoặc đậu hũ, rắc hành lá và tiêu. Một bữa ấm bụng, đủ tinh bột tốt và đạm.
 - **Bánh mì nguyên cám**: chọn bánh mì nguyên cám thay vì bánh mì trắng, kẹp trứng ốp la, vài lát bơ, dưa leo và rau. Nhanh gọn mà đủ chất.
@@ -185,11 +185,11 @@ Quanh chuyện ăn sáng có không ít quan niệm lệch lạc khiến nhiều
 Hiểu đúng về bữa sáng giúp bạn ra quyết định tự tin hơn, thay vì chạy theo những lời khuyên truyền miệng thiếu cơ sở.
 
 :::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị M., một nhân viên văn phòng, từng có thói quen bỏ bữa sáng suốt nhiều năm vì "quen rồi và không thấy đói". Đến giữa buổi, chị thường mệt, khó tập trung và hay với tay lấy bánh ngọt cùng trà sữa để chống đói. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị bắt đầu thử một bữa sáng đơn giản mỗi ngày: yến mạch ngâm qua đêm với sữa chua, chuối và ít hạt, chuẩn bị sẵn từ tối. Vài tuần sau, chị chia sẻ rằng buổi sáng của mình cảm thấy nhẹ nhàng và dễ chịu hơn, ít cồn cào giữa buổi và thói quen ăn vặt tùy tiện cũng giảm bớt. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
+Chị M., 29 tuổi, nhân viên văn phòng ở Hà Nội, từng có thói quen bỏ bữa sáng suốt nhiều năm vì "quen rồi và không thấy đói". Đến giữa buổi, chị thường mệt, khó tập trung và hay với tay lấy bánh ngọt cùng trà sữa để chống đói. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị bắt đầu thử một bữa sáng đơn giản mỗi ngày: yến mạch ngâm qua đêm với sữa chua, chuối và ít hạt, chuẩn bị sẵn từ tối. Vài tuần sau, chị chia sẻ rằng buổi sáng của mình cảm thấy nhẹ nhàng và dễ chịu hơn, ít cồn cào giữa buổi và thói quen ăn vặt tùy tiện cũng giảm bớt. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Chị Th. (Quảng Nam) — kiên trì với một bữa sáng đủ đạm
-Chị Th., một người mẹ ở Quảng Nam, chia sẻ rằng trước đây buổi sáng của chị thường qua loa, hay bỏ bữa vì bận con nhỏ, và đến trưa thì đói cồn cào nên ăn rất nhiều. Chị bắt đầu thay đổi bằng một việc duy nhất: mỗi sáng đều đặn ăn một bữa có đủ đạm — khi thì trứng với khoai lang, khi thì một bát sữa chua Hy Lạp với trái cây, kết hợp uống đủ nước và đi bộ nhẹ. Sau khoảng hai tháng giữ nếp này, điều chị thấy rõ nhất không phải là con số trên cân, mà là cảm giác no lâu hơn tới tận trưa, bớt thèm đồ ngọt giữa buổi và có nhiều năng lượng hơn để chăm con cả ngày. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, là kết quả của cả một quá trình ăn uống đủ chất và vận động đều; không phải lời khuyên y khoa hay cam kết về sức khỏe, và kết quả có thể khác nhau tùy cơ địa và mức độ kiên trì của mỗi người.)
+Chị Th., một người mẹ ở Quảng Nam, chia sẻ rằng trước đây buổi sáng của chị thường qua loa, hay bỏ bữa vì bận con nhỏ, và đến trưa thì đói cồn cào nên ăn rất nhiều. Chị bắt đầu thay đổi bằng một việc duy nhất: mỗi sáng đều đặn ăn một bữa có đủ đạm — khi thì trứng với khoai lang, khi thì một bát sữa chua Hy Lạp với trái cây, kết hợp uống đủ nước và đi bộ nhẹ. Sau khoảng hai tháng giữ nếp này, điều chị thấy rõ nhất là cảm giác no lâu hơn tới tận trưa, bớt thèm đồ ngọt giữa buổi và tinh thần thoải mái hơn khi chăm con cả ngày. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, là kết quả của cả một quá trình ăn uống đủ chất và vận động đều; không phải lời khuyên y khoa hay cam kết về sức khỏe, và kết quả có thể khác nhau tùy cơ địa và mức độ kiên trì của mỗi người.)
 :::
 
 ## Kết

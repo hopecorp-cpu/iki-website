@@ -67,7 +67,7 @@ Giấc ngủ không phải là khoảng thời gian cơ thể "tắt máy" một
 
 Ngược lại, khi giấc ngủ liên tục bị cắt ngắn hoặc chập chờn, chúng ta dễ nhận ra ngay: khó tập trung, dễ cáu, thèm đồ ngọt, và cảm giác mệt mỏi cứ đeo bám. Một hai đêm thiếu ngủ thì cơ thể còn xoay xở được, nhưng nếu tình trạng kéo dài thành nếp, nó ảnh hưởng đến cảm giác dễ chịu chung của cả ngày dài.
 
-Vì vậy, chăm sóc giấc ngủ chính là một cách chăm sóc sức khỏe chủ động rất căn bản. Thay vì chỉ tìm cách "chữa cháy" khi đã quá mệt, bạn có thể xây dựng nền tảng vững chắc từ những thói quen đều đặn. Và điều tuyệt vời là gần như ai cũng có thể bắt đầu ngay, không cần dụng cụ đắt tiền hay thay đổi lớn.
+Vì vậy, chăm sóc giấc ngủ chính là một cách chăm sóc sức khỏe chủ động rất căn bản. Thay vì chỉ xoay xở vá víu khi đã quá mệt, bạn có thể xây dựng nền tảng vững chắc từ những thói quen đều đặn. Và điều đáng mừng là gần như ai cũng có thể bắt đầu ngay, không cần dụng cụ đắt tiền hay thay đổi lớn.
 
 > Giấc ngủ chất lượng không đến từ một đêm cố gắng, mà từ nhiều ngày sống có nhịp điệu.
 

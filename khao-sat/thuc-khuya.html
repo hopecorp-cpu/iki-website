@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <!-- Google tag: GA4 + Google Ads -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-9X3LTTL2N3"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-9X3LTTL2N3');gtag('config','AW-18332022859');</script>
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://hope-ops-hub.vercel.app;" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Khảo sát: Người Việt thức khuya — 8 câu, 60 giây | IKI by HOPE CORP</title>
+  <meta name="description" content="Khảo sát ẩn danh 8 câu về thói quen ngủ của người Việt. Kết quả tổng hợp sẽ công bố miễn phí cho cộng đồng và báo chí. Tặng cẩm nang chăm sóc sức khoẻ chủ động cho người tham gia để lại email." />
+  <link rel="canonical" href="https://ikihealing.com/khao-sat/thuc-khuya.html" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="vi_VN" />
+  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:url" content="https://ikihealing.com/khao-sat/thuc-khuya.html" />
+  <meta property="og:title" content="Bạn ngủ lúc mấy giờ? Khảo sát 60 giây về người Việt thức khuya" />
+  <meta property="og:description" content="8 câu ẩn danh. Kết quả tổng hợp công bố miễn phí. Tặng cẩm nang sức khoẻ chủ động cho người tham gia." />
+  <meta property="og:image" content="https://ikihealing.com/iki-logo-1024.jpg" />
+  <link rel="icon" type="image/jpeg" href="../iki-logo-256.jpg" />
+  <style>
+    :root{--bg:#F5F1E8;--surface:#fff;--ink:#1C2E27;--muted:#6B7B72;--teal:#2E8975;--teal2:#4BC0AB;--tealsoft:#E9F3EF;--lime:#A8D254;--line:#E7E1D4;--deepa:#12261F;--deepb:#1C3A30}
+    *{box-sizing:border-box;margin:0;padding:0}
+    body{font-family:'Be Vietnam Pro',-apple-system,system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+    .wrap{max-width:640px;margin:0 auto;padding:20px 16px 60px}
+    .brand{display:flex;align-items:center;gap:10px;padding:6px 0 18px}
+    .brand img{width:38px;height:38px;border-radius:9px}
+    .brand a{text-decoration:none;color:var(--ink);font-weight:700}
+    .hero{background:linear-gradient(135deg,var(--deepa),var(--deepb));color:#fff;border-radius:20px;padding:28px 24px;margin-bottom:18px}
+    .hero .tag{display:inline-block;background:rgba(168,210,84,.18);color:var(--lime);font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;padding:5px 12px;border-radius:999px}
+    .hero h1{font-size:1.55rem;line-height:1.25;margin:12px 0 8px}
+    .hero p{color:#cfe0d8;font-size:.95rem}
+    .card{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:20px 18px;margin-bottom:14px}
+    .q{font-weight:700;margin-bottom:10px}
+    .q small{color:var(--muted);font-weight:400}
+    label.opt{display:flex;align-items:center;gap:10px;border:1.5px solid var(--line);border-radius:12px;padding:11px 13px;margin-bottom:8px;cursor:pointer;font-size:.95rem;transition:border-color .15s,background .15s}
+    label.opt:hover{border-color:var(--teal2)}
+    label.opt.on{border-color:var(--teal);background:var(--tealsoft)}
+    label.opt input{accent-color:var(--teal)}
+    .email-card{background:var(--tealsoft);border:1.5px dashed var(--teal2)}
+    .email-card input[type=email]{width:100%;border:1.5px solid var(--line);border-radius:12px;padding:13px 14px;font-size:1rem;font-family:inherit;margin-top:8px}
+    .email-card .note{color:var(--muted);font-size:.8rem;margin-top:8px}
+    .btn{display:block;width:100%;border:none;border-radius:14px;padding:16px;font-size:1.05rem;font-weight:700;color:#fff;background:linear-gradient(135deg,var(--teal),var(--teal2));cursor:pointer;font-family:inherit;margin-top:6px}
+    .btn:disabled{opacity:.55;cursor:default}
+    .err{color:#C0392B;font-weight:600;font-size:.9rem;margin-top:10px;display:none}
+    .done{display:none;text-align:center;padding:34px 20px}
+    .done h2{font-size:1.5rem;margin-bottom:10px}
+    .done p{color:var(--muted);margin-bottom:14px}
+    .done a.cta{display:inline-block;background:linear-gradient(135deg,var(--teal),var(--teal2));color:#fff;font-weight:700;text-decoration:none;padding:13px 24px;border-radius:12px;margin-top:6px}
+    .foot{color:var(--muted);font-size:.75rem;text-align:center;margin-top:26px;line-height:1.5}
+    .honey{display:none}
+    .progress{position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:5}
+    .bar{height:6px;background:var(--line);border-radius:99px;overflow:hidden}
+    .bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--lime),var(--teal2));transition:width .2s}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <div class="brand"><a href="https://ikihealing.com/"><img src="../assets/logo/iki-mark.png" alt="IKI" onerror="this.style.display='none'"/></a><a href="https://ikihealing.com/">IKI by HOPE CORP</a></div>
+
+  <div id="formView">
+    <div class="hero">
+      <span class="tag">Khảo sát cộng đồng · ẩn danh</span>
+      <h1>Người Việt đang ngủ lúc mấy giờ?</h1>
+      <p>8 câu, khoảng 60 giây. Câu trả lời của bạn là ẩn danh và chỉ dùng ở dạng số tổng hợp — kết quả sẽ công bố miễn phí cho cộng đồng và báo chí trong chuyên mục Báo cáo &amp; Số liệu của IKI.</p>
+    </div>
+
+    <div class="progress"><div class="bar"><i id="barFill"></i></div></div>
+
+    <form id="svForm" novalidate>
+      <div class="card"><div class="q">1. Bạn thuộc nhóm tuổi nào?</div>
+        <label class="opt"><input type="radio" name="tuoi" value="duoi-22"/> Dưới 22</label>
+        <label class="opt"><input type="radio" name="tuoi" value="22-30"/> 22–30</label>
+        <label class="opt"><input type="radio" name="tuoi" value="31-45"/> 31–45</label>
+        <label class="opt"><input type="radio" name="tuoi" value="tren-45"/> Trên 45</label>
+      </div>
+      <div class="card"><div class="q">2. Bạn thường tắt đèn đi ngủ lúc mấy giờ?</div>
+        <label class="opt"><input type="radio" name="gio_ngu" value="truoc-22h"/> Trước 22h</label>
+        <label class="opt"><input type="radio" name="gio_ngu" value="22-23h"/> 22h – 23h</label>
+        <label class="opt"><input type="radio" name="gio_ngu" value="23-0h"/> 23h – 0h</label>
+        <label class="opt"><input type="radio" name="gio_ngu" value="0-1h"/> 0h – 1h</label>
+        <label class="opt"><input type="radio" name="gio_ngu" value="sau-1h"/> Sau 1h sáng</label>
+      </div>
+      <div class="card"><div class="q">3. Lý do CHÍNH khiến bạn ngủ muộn?</div>
+        <label class="opt"><input type="radio" name="ly_do" value="dien-thoai"/> Lướt điện thoại, mạng xã hội</label>
+        <label class="opt"><input type="radio" name="ly_do" value="cong-viec"/> Công việc, học hành</label>
+        <label class="opt"><input type="radio" name="ly_do" value="gia-dinh"/> Chăm con, việc nhà</label>
+        <label class="opt"><input type="radio" name="ly_do" value="kho-ngu"/> Muốn ngủ mà nằm mãi không ngủ được</label>
+        <label class="opt"><input type="radio" name="ly_do" value="cu-dem"/> Quen nếp "cú đêm" rồi</label>
+      </div>
+      <div class="card"><div class="q">4. 30 phút trước khi ngủ bạn thường làm gì nhất?</div>
+        <label class="opt"><input type="radio" name="truoc_ngu" value="dien-thoai"/> Điện thoại / mạng xã hội</label>
+        <label class="opt"><input type="radio" name="truoc_ngu" value="phim"/> Xem phim, video</label>
+        <label class="opt"><input type="radio" name="truoc_ngu" value="doc-sach"/> Đọc sách</label>
+        <label class="opt"><input type="radio" name="truoc_ngu" value="tro-chuyen"/> Trò chuyện với gia đình</label>
+        <label class="opt"><input type="radio" name="truoc_ngu" value="tran-troc"/> Nằm trằn trọc</label>
+      </div>
+      <div class="card"><div class="q">5. Buổi sáng thức dậy, bạn thường thấy thế nào?</div>
+        <label class="opt"><input type="radio" name="sang_day" value="tinh-tao"/> Tỉnh táo, sẵn sàng</label>
+        <label class="opt"><input type="radio" name="sang_day" value="hoi-ue-oai"/> Hơi uể oải, cần một lúc mới tỉnh</label>
+        <label class="opt"><input type="radio" name="sang_day" value="rat-met"/> Rất mệt, phải có cà phê ngay</label>
+      </div>
+      <div class="card"><div class="q">6. Bạn có ngủ trưa không?</div>
+        <label class="opt"><input type="radio" name="ngu_trua" value="deu"/> Có, gần như mỗi ngày</label>
+        <label class="opt"><input type="radio" name="ngu_trua" value="thinh-thoang"/> Thỉnh thoảng</label>
+        <label class="opt"><input type="radio" name="ngu_trua" value="khong"/> Không</label>
+      </div>
+      <div class="card"><div class="q">7. Bạn đã thử cách nào để đi ngủ sớm hơn?</div>
+        <label class="opt"><input type="radio" name="da_thu" value="chua-thu"/> Chưa thử cách nào</label>
+        <label class="opt"><input type="radio" name="da_thu" value="gio-tat-may"/> Đặt giờ cất điện thoại</label>
+        <label class="opt"><input type="radio" name="da_thu" value="do-uong-am"/> Uống ấm buổi tối (trà thảo mộc, sữa hạt...)</label>
+        <label class="opt"><input type="radio" name="da_thu" value="van-dong"/> Vận động ban ngày nhiều hơn</label>
+        <label class="opt"><input type="radio" name="da_thu" value="khac"/> Cách khác</label>
+      </div>
+      <div class="card"><div class="q">8. Nơi bạn đang sống?</div>
+        <label class="opt"><input type="radio" name="noi_song" value="ha-noi"/> Hà Nội</label>
+        <label class="opt"><input type="radio" name="noi_song" value="hcm"/> TP.HCM</label>
+        <label class="opt"><input type="radio" name="noi_song" value="tp-khac"/> Thành phố khác</label>
+        <label class="opt"><input type="radio" name="noi_song" value="tinh"/> Tỉnh / nông thôn</label>
+      </div>
+
+      <div class="card email-card">
+        <div class="q">Nhận quà cảm ơn <small>(tuỳ chọn — bỏ trống vẫn gửi được khảo sát)</small></div>
+        <p style="font-size:.9rem">Để lại email nếu bạn muốn nhận <strong>cẩm nang Chăm sóc sức khoẻ chủ động (PDF)</strong> và bản kết quả tổng hợp của khảo sát này khi công bố.</p>
+        <input type="email" id="svEmail" placeholder="Email của bạn (không bắt buộc)" autocomplete="email" />
+        <input type="text" class="honey" id="svHoney" tabindex="-1" autocomplete="off" />
+        <p class="note">Không spam · Huỷ nhận bất cứ lúc nào. Phiếu khảo sát luôn ẩn danh — email không gắn với câu trả lời của bạn.</p>
+      </div>
+
+      <button type="submit" class="btn" id="svBtn">Gửi khảo sát →</button>
+      <p class="err" id="svErr">Bạn còn câu chưa trả lời — kéo lên xem lại giúp mình nhé.</p>
+    </form>
+  </div>
+
+  <div class="done" id="doneView">
+    <h2>Cảm ơn bạn đã góp một mảnh dữ liệu</h2>
+    <p id="doneGift">Kết quả tổng hợp sẽ được công bố trong chuyên mục Báo cáo &amp; Số liệu của IKI.</p>
+    <a class="cta" href="https://ikihealing.com/quiz/">Làm tiếp bài kiểm tra thể trạng 2 phút →</a>
+    <p style="margin-top:14px"><a href="https://ikihealing.com/blog/danh-muc-bao-cao.html" style="color:var(--teal)">Xem các báo cáo đã công bố</a></p>
+  </div>
+
+  <p class="foot">Khảo sát do IKI by HOPE CORP (Công ty Cổ phần TMDV HOPE, MST 0801404967) thực hiện phục vụ báo cáo cộng đồng. Nội dung mang tính tham khảo lối sống, không thay thế chẩn đoán hoặc tư vấn y khoa.</p>
+</div>
+
+<script>
+(function(){
+  var QS=["tuoi","gio_ngu","ly_do","truoc_ngu","sang_day","ngu_trua","da_thu","noi_song"];
+  var form=document.getElementById("svForm"), bar=document.getElementById("barFill");
+  function fnl(step){try{var d=JSON.stringify({funnel:"khaosat-thuckhuya",step:step});
+    if(!(navigator.sendBeacon&&navigator.sendBeacon("https://hope-ops-hub.vercel.app/api/funnel",new Blob([d],{type:"application/json"}))))
+      fetch("https://hope-ops-hub.vercel.app/api/funnel",{method:"POST",headers:{"Content-Type":"application/json"},body:d,keepalive:true}).catch(function(){});}catch(e){}}
+  fnl("view");
+  function answered(){return QS.filter(function(n){return form.querySelector("input[name="+n+"]:checked");}).length;}
+  form.addEventListener("change",function(e){
+    if(e.target&&e.target.type==="radio"){
+      var name=e.target.name;
+      form.querySelectorAll("input[name="+name+"]").forEach(function(r){r.closest("label").classList.toggle("on",r.checked);});
+      bar.style.width=Math.round(100*answered()/QS.length)+"%";
+      if(answered()===1)fnl("start");
+    }
+  });
+  form.addEventListener("submit",function(ev){
+    ev.preventDefault();
+    var err=document.getElementById("svErr");
+    if(answered()<QS.length){err.style.display="block";return;}
+    err.style.display="none";
+    var btn=document.getElementById("svBtn");btn.disabled=true;btn.textContent="Đang gửi...";
+    var answers={};QS.forEach(function(n){answers[n]=form.querySelector("input[name="+n+"]:checked").value;});
+    var email=(document.getElementById("svEmail").value||"").trim();
+    fetch("https://hope-ops-hub.vercel.app/api/survey-submit",{
+      method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({survey:"thuc-khuya",answers:answers,email:email,_honey:document.getElementById("svHoney").value})
+    }).then(function(r){return r.json();}).then(function(j){
+      if(!j.ok)throw new Error(j.error||"lỗi");
+      fnl("submit");
+      if(email){try{gtag('event','conversion',{send_to:'AW-18332022859/NzdQCOH0m9YcEMvwsaVE',value:1.0,currency:'VND'});gtag('event','generate_lead');}catch(e){}
+        try{localStorage.setItem('iki_lead_ok','1');}catch(e){}
+        document.getElementById("doneGift").textContent="Cẩm nang PDF đang bay vào email của bạn (1–3 phút, nhớ xem cả mục Quảng cáo/Spam). Kết quả tổng hợp khảo sát sẽ gửi tới bạn khi công bố.";}
+      document.getElementById("formView").style.display="none";
+      document.getElementById("doneView").style.display="block";
+      window.scrollTo({top:0});
+    }).catch(function(){
+      btn.disabled=false;btn.textContent="Gửi khảo sát →";
+      err.textContent="Gửi chưa được — bạn thử lại giúp mình nhé.";err.style.display="block";
+    });
+  });
+})();
+</script>
+</body>
+</html>

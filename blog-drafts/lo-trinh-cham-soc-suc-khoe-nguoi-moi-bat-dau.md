@@ -114,7 +114,7 @@ Giấc ngủ là chặng thường bị bỏ quên nhất, nhưng lại là nề
 - Giảm ánh sáng xanh (điện thoại, máy tính) khoảng một giờ trước khi ngủ.
 - Tạo một nghi thức nhẹ trước khi ngủ: đọc sách, giãn cơ, hít thở sâu.
 
-Khi giấc ngủ ổn định, bạn sẽ ngạc nhiên vì phần lớn cảm giác mệt mỏi vô cớ trong ngày cũng giảm theo.
+Khi giấc ngủ ổn định, nhiều người nhận thấy cảm giác mệt mỏi vô cớ trong ngày cũng dần bớt đi — dù mức độ ở mỗi người mỗi khác.
 
 Một khởi đầu dễ nhất là chọn **một giờ thức dậy cố định** và giữ nó mỗi ngày, kể cả cuối tuần — vì giờ dậy đều đặn giúp nhịp sinh học ổn định nhanh hơn cả giờ đi ngủ. Sau đó, thiết kế một "nghi thức hạ nhiệt" khoảng 20–30 phút cuối ngày: giảm đèn sáng, cất điện thoại xa giường, làm vài việc êm dịu như tắm nước ấm, đọc vài trang sách hay hít thở chậm. Não cần một tín hiệu rõ ràng rằng ngày đã khép lại và đây là lúc nghỉ.
 
@@ -150,7 +150,7 @@ Nếu bạn thích một khung thời gian cụ thể để bám theo, đây là
 - **Tuần 3 — Thêm vận động nhẹ.** Giữ nguyên phép đổi ở tuần 2, cộng thêm đi bộ 10–15 phút mỗi ngày.
 - **Tuần 4 — Ổn định giấc ngủ.** Giữ hai thói quen trước, đồng thời cố định giờ thức dậy và thêm một nghi thức hạ nhiệt buổi tối.
 
-Sau bốn tuần, bạn sẽ có ba đến bốn thói quen nhỏ đang chạy song song, một cách nhẹ nhàng và bền — nền móng vững để bước tiếp vào Chặng 5 và 6. Điều tuyệt nhất là không tuần nào đòi bạn phải "đại tu" cuộc sống; mỗi tuần chỉ thêm một viên gạch.
+Sau bốn tuần, bạn sẽ có ba đến bốn thói quen nhỏ đang chạy song song, một cách nhẹ nhàng và bền — nền móng vững để bước tiếp vào Chặng 5 và 6. Điều đáng quý là không tuần nào đòi bạn phải "đại tu" cuộc sống; mỗi tuần chỉ thêm một viên gạch.
 
 ## Những hiểu lầm thường gặp
 
@@ -171,13 +171,13 @@ Trên đường bắt đầu, có vài quan niệm lệch khiến nhiều ngư�
 Sáu chặng ở trên là nền tảng chung, hợp với hầu hết mọi người mới bắt đầu. Khi đã quen, bạn có thể điều chỉnh chi tiết cho phù hợp với giai đoạn của mình. Cơ thể ở mỗi độ tuổi có nhu cầu riêng, và IKI có sẵn ba lộ trình đi sâu hơn:
 
 - Nếu bạn trong độ tuổi 20–35, bận rộn với công việc và hay thức khuya, hãy xem [Lộ trình chăm sóc sức khoẻ cho người trẻ](lo-trinh-nguoi-tre.html) — tập trung vào ăn ngoài khôn ngoan, lồng vận động vào ngày làm và giảm màn hình.
-- Nếu bạn trong độ tuổi 35–55, khi chuyển hoá bắt đầu chậm lại, [Lộ trình chăm sóc sức khoẻ cho người trung niên](lo-trinh-nguoi-trung-nien.html) nói kỹ về dinh dưỡng theo nhịp mới, giữ khối cơ và khám sức khoẻ định kỳ.
+- Nếu bạn trong độ tuổi 35–55, khi nhịp trao đổi chất của cơ thể dần thay đổi, [Lộ trình chăm sóc sức khoẻ cho người trung niên](lo-trinh-nguoi-trung-nien.html) nói kỹ về dinh dưỡng theo nhịp mới, giữ khối cơ và khám sức khoẻ định kỳ.
 - Nếu bạn hoặc người thân từ 55 tuổi trở lên, [Lộ trình chăm sóc sức khoẻ cho người cao tuổi](lo-trinh-nguoi-cao-tuoi.html) đi từng bước nhẹ nhàng về tiêu hoá, ăn mềm đủ chất, xương khớp và kết nối tinh thần.
 
 Dù ở giai đoạn nào, nguyên tắc cốt lõi vẫn không đổi: bắt đầu nhỏ, giữ đều, và lắng nghe cơ thể.
 
 :::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Một thành viên trong cộng đồng IKI chia sẻ rằng khi mới bắt đầu, chị từng thử rất nhiều "chế độ" khắt khe rồi bỏ dở sau vài ngày. Thay đổi thật sự chỉ đến khi chị bắt đầu từ những việc nhỏ nhất: uống nước ấm buổi sáng, đi bộ sau bữa tối, ngủ sớm hơn. Sau một thời gian duy trì, chị chia sẻ rằng điều quý nhất không phải là một con số cụ thể, mà là cảm giác chủ động và nhẹ nhõm hơn với chính cơ thể mình. *(Câu chuyện được kể lại ẩn danh, mang tính chia sẻ trải nghiệm lối sống, không phải cam kết kết quả sức khoẻ.)*
+Một thành viên trong cộng đồng IKI — chị làm kế toán, ngoài 30 tuổi, có hai con nhỏ — chia sẻ rằng khi mới bắt đầu, chị từng thử rất nhiều "chế độ" khắt khe: cắt hẳn tinh bột, đặt lịch tập mỗi sáng, mua đủ loại nguyên liệu về ép nước. Mỗi đợt như vậy thường chỉ kéo dài vài ngày, vì cứ đến kỳ chốt sổ cuối tháng hay khi con ốm là mọi kế hoạch đổ vỡ, và chị lại tự trách mình "không đủ ý chí". Thay đổi thật sự chỉ đến khi chị buông tham vọng đại tu, bắt đầu từ những việc nhỏ nhất: đặt sẵn cốc nước ấm cạnh máy pha cà phê để uống ngay sau khi thức dậy, đi bộ một vòng quanh khu nhà sau bữa tối cùng con, tắt điện thoại sớm hơn nửa tiếng. Những việc này nhỏ đến mức chị khó tìm được lý do để bỏ, kể cả trong tuần bận nhất. Có tuần chị vẫn lỡ nhịp vài hôm, nhưng thay vì bỏ hẳn như trước, chị chỉ đơn giản quay lại vào ngày hôm sau. Sau vài tháng duy trì, chị chia sẻ rằng điều quý nhất không phải là một con số cụ thể, mà là cảm giác chủ động và nhẹ nhõm hơn với chính cơ thể mình — lần đầu tiên việc chăm sóc bản thân không còn giống một cuộc chiến. *(Câu chuyện được kể lại ẩn danh, mang tính chia sẻ trải nghiệm lối sống, không phải cam kết kết quả sức khoẻ.)*
 :::
 
 :::case Anh N. (28 tuổi) — bắt đầu từ đúng một thói quen
