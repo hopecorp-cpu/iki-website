@@ -207,7 +207,7 @@ function render(fm, body) {
       sameAs: [
         "https://www.facebook.com/ikihealing/",
         "https://www.facebook.com/thanhtamguru/",
-        "https://www.ikihealingdetox.com",
+        "https://ikihealing.com/shop",
         "https://tra.ikihealing.com",
         "https://thanhhuongtra.ikihealing.com",
         "https://trueveganprotein.com",

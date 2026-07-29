@@ -451,7 +451,7 @@ function buildLlms(plan) {
   L.push("- [Trà Tuệ Minh](https://tra.ikihealing.com)");
   L.push("- [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com)");
   L.push("- [Đạm thực vật True Vegan Protein](https://trueveganprotein.com)");
-  L.push("- [Cửa hàng IKI](https://www.ikihealingdetox.com)");
+  L.push("- [Cửa hàng IKI](https://ikihealing.com/shop)");
   L.push("", "## Liên hệ");
   L.push("- Email: contact@ikihealing.com");
   L.push("- Điện thoại: 0987.931.551");

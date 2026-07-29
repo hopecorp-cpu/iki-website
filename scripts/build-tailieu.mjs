@@ -129,7 +129,7 @@ function header() {
         <li><a href="/hoc-vien.html">Học Viện</a></li>
         <li><a href="/blog/index.html">Blog</a></li>
         <li><a href="/cong-dong.html">Cộng đồng</a></li>
-        <li><a href="https://www.ikihealingdetox.com" target="_blank" rel="noopener noreferrer">Sản phẩm ↗</a></li>
+        <li><a href="https://ikihealing.com/shop" target="_blank" rel="noopener noreferrer">Sản phẩm ↗</a></li>
         <li><a href="/app.html">Ứng dụng</a></li>
       </ul>
     </nav>
