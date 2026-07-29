@@ -144,6 +144,12 @@ function mdToHtml(md) {
       out.push(`<aside class="info-box ib-${kind}">${title}${mdToHtml(inner.join("\n")).html}</aside>`);
       continue;
     }
+    // ảnh đứng riêng 1 dòng: ![alt](src) → figure có caption
+    const img = ln.trim().match(/^!\[([^\]]*)\]\(([^)\s]+)\)$/);
+    if (img) {
+      out.push(`<figure class="post-fig"><img loading="lazy" src="${escAttr(img[2])}" alt="${escAttr(img[1])}" />${img[1] ? `<figcaption>${esc(img[1])}</figcaption>` : ""}</figure>`);
+      i++; continue;
+    }
     if (/^###\s+/.test(ln)) { out.push(`<h3>${inline(ln.replace(/^###\s+/, ""))}</h3>`); i++; continue; }
     if (/^##\s+/.test(ln)) {
       const txt = ln.replace(/^##\s+/, "").trim();
@@ -331,6 +337,9 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
     .post-cta{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));border-radius:18px;padding:30px 26px;margin:34px 0;text-align:center;color:#fff}
     .post-cta h3{font-family:var(--font-display,'Cormorant Garamond');font-size:1.6rem;margin:0 0 8px;color:#fff}
     .post-cta p{margin:0 0 16px;opacity:.95}
+    .post-fig{margin:26px auto;text-align:center}
+    .post-fig img{max-width:min(420px,100%);border-radius:18px;box-shadow:0 10px 34px rgba(16,24,40,.14)}
+    .post-fig figcaption{color:#98a2b3;font-size:.82rem;margin-top:10px}
     .post-faq{margin:34px 0} .post-faq h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.7rem;margin-bottom:12px}
     .post-related{margin:30px 0;border-top:1px solid #eef0f3;padding-top:22px} .post-related ul{padding-left:20px}
     .journey{margin:26px 0;background:#fafbfc;border:1px solid #eef0f3;border-radius:16px;padding:20px 24px}

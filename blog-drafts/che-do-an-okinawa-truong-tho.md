@@ -88,7 +88,7 @@ Khoai lang là một nét đặc trưng của Okinawa, được dùng như ngu�
 
 ### Đậu và đậu nành có mặt thường xuyên
 
-Các loại đậu và sản phẩm từ đậu nành như đậu phụ là nguồn đạm thực vật quen thuộc trong bữa ăn Okinawa. Chúng cung cấp đạm mà không kèm theo nhiều chất béo bão hoà như một số loại thịt, đồng thời mang lại chất xơ và cảm giác no dễ chịu. Đậu phụ, đậu đen, đậu xanh, đậu đỏ đều là những nguyên liệu bình dân, dễ tìm ở chợ Việt.
+Các loại đậu và sản phẩm từ đậu nành như đậu phụ là nguồn [đạm thực vật](https://trueveganprotein.com) quen thuộc trong bữa ăn Okinawa. Chúng cung cấp đạm mà không kèm theo nhiều chất béo bão hoà như một số loại thịt, đồng thời mang lại chất xơ và cảm giác no dễ chịu. Đậu phụ, đậu đen, đậu xanh, đậu đỏ đều là những nguyên liệu bình dân, dễ tìm ở chợ Việt.
 
 ### Rong biển và thực phẩm từ biển
 

@@ -80,7 +80,7 @@ Thay vì săn tìm một "siêu thực phẩm" thần kỳ, hãy nghĩ theo hư�
 
 ### Đạm: nền tảng để cơ thể tạo collagen
 
-Collagen là thành phần giúp da căng và đàn hồi, và cơ thể cần đủ đạm để tự tạo ra nó. Đây là lý do một chế độ ăn thiếu đạm thường đi kèm cảm giác da kém săn chắc. Nguồn đạm rất phong phú: trứng, cá, thịt nạc, tôm, cùng nhóm đạm thực vật như các loại đậu, đậu phụ, đậu lăng và ngũ cốc nguyên hạt.
+Collagen là thành phần giúp da căng và đàn hồi, và cơ thể cần đủ đạm để tự tạo ra nó. Đây là lý do một chế độ ăn thiếu đạm thường đi kèm cảm giác da kém săn chắc. Nguồn đạm rất phong phú: trứng, cá, thịt nạc, tôm, cùng nhóm [đạm thực vật](https://trueveganprotein.com) như các loại đậu, đậu phụ, đậu lăng và ngũ cốc nguyên hạt.
 
 Với người ăn chay hoặc muốn giảm đạm động vật, việc phối hợp nhiều nguồn đạm thực vật trong ngày là chìa khoá để đủ chất. Một nguồn đạm thực vật tiện lợi và dễ bổ sung vào bữa sáng bận rộn là bột đạm thực vật như [True Vegan Protein](../san-pham.html); bạn có thể thêm vào ly sinh tố hoặc cháo yến mạch, xem nó như một cách làm giàu bữa ăn chứ không phải thứ thay thế bữa chính. Muốn hiểu sâu hơn cách ăn chay vẫn đủ đạm và cân bằng, bạn có thể tham khảo bài [Ăn chay đủ chất và cân bằng](an-chay-du-chat-can-bang.html).
 

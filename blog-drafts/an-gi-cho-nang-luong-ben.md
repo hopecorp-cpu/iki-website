@@ -114,7 +114,7 @@ Bữa tối nên nhẹ nhàng và không quá muộn, để không ảnh hưởn
 
 Thiếu nước là một nguyên nhân âm thầm khiến nhiều người mệt và mất tập trung mà không nhận ra. Đôi khi cảm giác uể oải giữa buổi không phải vì đói, mà vì cơ thể đang thiếu nước nhẹ. Giữ một chai nước bên bàn làm việc và nhấp đều trong ngày là một thói quen đơn giản nhưng hữu ích. Bạn có thể xem thêm bài [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html) để cân đối lượng nước hợp với mình.
 
-Ngược lại, hãy để ý những thứ bạn "uống mà không hay biết". Một ly trà sữa cỡ lớn đủ topping có thể mang tới 300-500 kcal, gần bằng một bữa ăn nhẹ; cà phê sữa nhiều đường hay nước ngọt cũng cộng thêm đường đáng kể, cho cú tỉnh táo ngắn rồi tụt xuống, khiến bạn càng mệt và thèm ngọt. Ưu tiên nước lọc, trà xanh không đường, cà phê đen điều độ, hoặc một tách trà thảo mộc nhẹ sẽ giúp bạn giữ năng lượng phẳng hơn mà không nạp thêm đường thừa.
+Ngược lại, hãy để ý những thứ bạn "uống mà không hay biết". Một ly trà sữa cỡ lớn đủ topping có thể mang tới 300-500 kcal, gần bằng một bữa ăn nhẹ; cà phê sữa nhiều đường hay nước ngọt cũng cộng thêm đường đáng kể, cho cú tỉnh táo ngắn rồi tụt xuống, khiến bạn càng mệt và thèm ngọt. Ưu tiên nước lọc, trà xanh không đường, cà phê đen điều độ, hoặc một tách [trà thảo mộc](https://tra.ikihealing.com) nhẹ sẽ giúp bạn giữ năng lượng phẳng hơn mà không nạp thêm đường thừa.
 
 Cà phê xứng đáng được nói riêng. Nó có thể giúp tỉnh táo tạm thời, nhưng không phải nguồn năng lượng thật từ thức ăn. Uống quá nhiều hoặc quá muộn trong ngày dễ ảnh hưởng đến giấc ngủ, khiến hôm sau càng đuối. Hãy xem cà phê là phần bổ trợ điều độ, đặt nền tảng năng lượng ở bữa ăn cân bằng và giấc ngủ đủ.
 

@@ -67,7 +67,7 @@ Gọi hạt là "siêu thực phẩm nhỏ" không phải nói quá. Trong một
 
 Trước hết là **chất béo tốt**. Phần lớn năng lượng trong hạt đến từ chất béo không bão hòa, gồm cả nhóm omega-3 thực vật có trong óc chó, hạt lanh, hạt chia. Đây là loại chất béo được các khuyến nghị dinh dưỡng đánh giá cao hơn so với chất béo bão hòa và chất béo trans thường gặp trong đồ chiên rán, bánh kẹo công nghiệp.
 
-Thứ hai là **đạm thực vật và chất xơ**. Hạt là nguồn đạm gọn nhẹ cho người ăn chay hoặc người muốn đa dạng nguồn đạm. Chất xơ trong hạt góp phần tạo cảm giác no và hỗ trợ tiêu hóa hoạt động đều đặn hơn.
+Thứ hai là **[đạm thực vật](https://trueveganprotein.com) và chất xơ**. Hạt là nguồn đạm gọn nhẹ cho người ăn chay hoặc người muốn đa dạng nguồn đạm. Chất xơ trong hạt góp phần tạo cảm giác no và hỗ trợ tiêu hóa hoạt động đều đặn hơn.
 
 Thứ ba là **vitamin và khoáng chất**. Nhiều loại hạt giàu vitamin E, magie, kẽm, đồng, mangan, phốt pho và một lượng sắt thực vật. Vitamin E là chất chống oxy hóa, còn magie tham gia vào rất nhiều quá trình của cơ thể, từ hoạt động cơ bắp đến việc tạo năng lượng cho tế bào.
 

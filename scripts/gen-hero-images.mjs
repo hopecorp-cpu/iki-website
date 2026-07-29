@@ -96,6 +96,9 @@ function ensureHero(slug, alt) {
 
 // Bài mới cần generate {slug: [prompt, alt]}
 const NEW = {
+  "app-iki-quet-bua-an-cham-am-duong": ["smartphone lying on a wooden table next to a fresh vietnamese meal bowl with vegetables and herbs, soft natural window light, calm tech wellness still life, no people, no text on screen", "Dien thoai dat canh bua an tuoi"],
+  "app-iki-lao-dong-hanh-tiet-khi": ["smartphone beside a warm cup of lotus leaf tea and a small paper calendar on a wooden desk, morning sunlight, vietnamese seasonal wellness still life, no people", "Dien thoai canh tach tra la sen va to lich"],
+  "app-iki-nhat-ky-30-giay-phan-tich": ["smartphone and a small open notebook with a pen on a bedside table, warm evening lamp light, calm journaling still life, no people", "Dien thoai va so tay nho ben den ngu"],
   "bao-cao-san-pham-giu-thoi-quen-2026": ["morning breakfast table with plant protein shake, oats and fruit beside a small habit tracker notebook with checkmarks, warm daily routine still life, soft light, no people", "Ban an sang voi dam thuc vat va so tay theo doi thoi quen"],
   "bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026": ["vietnam map outline made of fresh green leaves and herbs on a clean wooden table beside a printed chart and a cup of tea, data still life, soft daylight, no people", "Ban do Viet Nam xep tu la xanh canh bieu do va tach tra"],
   "bao-cao-cham-soc-suc-khoe-chu-dong-2026": ["printed data report with bar charts on a clean wooden desk beside a cup of green tea and fresh fruit, business analytics still life, soft daylight, no people", "Bản báo cáo số liệu in trên bàn làm việc cạnh tách trà xanh"],

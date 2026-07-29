@@ -89,7 +89,7 @@ Chất đạm giúp xây dựng cơ bắp, sản xuất enzyme, hormone và duy 
 
 **Ví dụ dễ tìm:** các loại đậu và chế phẩm từ đậu như đậu phụ, đậu nành, đậu lăng, đậu gà; cá; trứng; thịt gia cầm bỏ da; thịt nạc. Với người ăn thực vật, đậu và các loại hạt là nguồn đạm nền tảng, đặc biệt là đạm từ đậu nành.
 
-**Lưu ý khi dùng:** nên đa dạng nguồn đạm trong tuần thay vì chỉ ăn một loại. Ưu tiên cách chế biến hấp, luộc, kho nhạt thay cho chiên ngập dầu. Hạn chế các loại thịt chế biến sẵn nhiều muối như xúc xích, thịt xông khói. Kết hợp đạm thực vật và đạm động vật (hoặc nhiều nguồn đạm thực vật) giúp bữa ăn đủ chất hơn.
+**Lưu ý khi dùng:** nên đa dạng nguồn đạm trong tuần thay vì chỉ ăn một loại. Ưu tiên cách chế biến hấp, luộc, kho nhạt thay cho chiên ngập dầu. Hạn chế các loại thịt chế biến sẵn nhiều muối như xúc xích, thịt xông khói. Kết hợp [đạm thực vật](https://trueveganprotein.com) và đạm động vật (hoặc nhiều nguồn đạm thực vật) giúp bữa ăn đủ chất hơn.
 
 ## Nhóm 3: Chất béo tốt
 

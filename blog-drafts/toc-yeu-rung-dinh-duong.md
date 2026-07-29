@@ -80,7 +80,7 @@ Không có một dưỡng chất đơn lẻ nào là "chìa khoá vạn năng" c
 
 ### Đạm chất lượng
 
-Vì tóc chính là đạm, đây là nhóm nền tảng đầu tiên cần bảo đảm. Khi khẩu phần thiếu đạm kéo dài, cơ thể có xu hướng đẩy nhiều nang tóc vào giai đoạn nghỉ, khiến tóc rụng nhiều hơn sau đó vài tháng. Nguồn đạm tốt cho tóc rất phong phú: trứng, cá, thịt nạc, hải sản, các loại đậu và đậu phụ, sữa chua, cùng đạm thực vật từ đậu và hạt. Một mục tiêu dễ nhớ là mỗi bữa chính đều có một phần đạm rõ ràng, thay vì bữa toàn tinh bột.
+Vì tóc chính là đạm, đây là nhóm nền tảng đầu tiên cần bảo đảm. Khi khẩu phần thiếu đạm kéo dài, cơ thể có xu hướng đẩy nhiều nang tóc vào giai đoạn nghỉ, khiến tóc rụng nhiều hơn sau đó vài tháng. Nguồn đạm tốt cho tóc rất phong phú: trứng, cá, thịt nạc, hải sản, các loại đậu và đậu phụ, sữa chua, cùng [đạm thực vật](https://trueveganprotein.com) từ đậu và hạt. Một mục tiêu dễ nhớ là mỗi bữa chính đều có một phần đạm rõ ràng, thay vì bữa toàn tinh bột.
 
 ### Sắt và kẽm
 

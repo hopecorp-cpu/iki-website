@@ -153,7 +153,7 @@ Với bữa trưa, cơn buồn ngủ đầu giờ chiều thường nặng hơn 
 - **Giảm cơm trắng đầy ắp và đồ chiên ngập dầu**, đổi nước ngọt sang nước lọc hoặc trà không đường.
 - **Ăn vừa đủ no**, ăn chậm một chút thay vì ăn cho hết vì tiếc.
 
-Buổi chiều, nếu cần một thức uống ấm để dịu lại giữa giờ làm, bạn có thể chọn một tách trà thảo mộc ấm thay cho ly trà sữa thứ hai. Đây là một lựa chọn nhẹ nhàng cho nhịp làm việc, không phải một giải pháp thay cho ăn uống cân bằng.
+Buổi chiều, nếu cần một thức uống ấm để dịu lại giữa giờ làm, bạn có thể chọn một tách [trà thảo mộc](https://tra.ikihealing.com) ấm thay cho ly trà sữa thứ hai. Đây là một lựa chọn nhẹ nhàng cho nhịp làm việc, không phải một giải pháp thay cho ăn uống cân bằng.
 
 ## Vận động vi mô: đánh thức cơ thể ngay tại bàn làm
 

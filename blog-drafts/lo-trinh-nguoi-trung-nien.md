@@ -69,7 +69,7 @@ Vì cơ thể tiêu hao năng lượng chậm hơn, dinh dưỡng ở tuổi tru
 
 Một vài nguyên tắc dễ áp dụng:
 
-1. **Đủ đạm trong mỗi bữa.** Khi khối cơ có xu hướng giảm theo tuổi, việc bổ sung đủ đạm từ các nguồn như đậu, cá, trứng, thịt nạc hay đạm thực vật giúp cơ thể duy trì sự săn chắc và cảm giác no lâu hơn.
+1. **Đủ đạm trong mỗi bữa.** Khi khối cơ có xu hướng giảm theo tuổi, việc bổ sung đủ đạm từ các nguồn như đậu, cá, trứng, thịt nạc hay [đạm thực vật](https://trueveganprotein.com) giúp cơ thể duy trì sự săn chắc và cảm giác no lâu hơn.
 2. **Nhiều rau xanh và chất xơ.** Rau củ, trái cây ít ngọt và ngũ cốc nguyên hạt giúp bữa ăn cân bằng và tạo cảm giác dễ chịu cho hệ tiêu hoá.
 3. **Giảm đường tinh luyện và thực phẩm chế biến sẵn.** Không cần kiêng khem cực đoan, chỉ cần đưa chúng về mức thỉnh thoảng thay vì hằng ngày.
 4. **Ăn điều độ, đúng nhịp.** Ăn chậm, dừng khi vừa đủ, và cố gắng giữ giờ ăn tương đối đều đặn để cơ thể quen với một nhịp ổn định.

@@ -150,7 +150,7 @@ Sức khoẻ của giáo viên không được quyết định bởi một kỳ 
 
 Bạn không cần làm hết cùng lúc. Hãy chọn một hoặc hai việc dễ nhất, thường là để chai nước trên bàn và giữ vài phút yên lặng cho giọng, làm cho tới khi thành phản xạ tự nhiên, rồi mới thêm việc tiếp theo. Chăm cho chính mình không phải là ích kỷ; một người thầy khoẻ giọng, đủ năng lượng và giữ được tinh thần cân bằng sẽ mang tới lớp học nhiều hơn một người đang gắng gượng qua ngày.
 
-Ở IKI, chúng tôi tin rằng những thói quen nhỏ nhưng bền bỉ là nền tảng của một lối sống dễ chịu. Các sản phẩm như trà thảo mộc hay đạm thực vật chỉ là những gợi ý nhẹ nhàng đi kèm để hỗ trợ hành trình đó, không phải cách thay thế cho việc chăm sóc y tế. Điều quan trọng nhất vẫn luôn là lắng nghe cơ thể mình mỗi ngày, và tìm tới chuyên gia khi cần.
+Ở IKI, chúng tôi tin rằng những thói quen nhỏ nhưng bền bỉ là nền tảng của một lối sống dễ chịu. Các sản phẩm như trà thảo mộc hay [đạm thực vật](https://trueveganprotein.com) chỉ là những gợi ý nhẹ nhàng đi kèm để hỗ trợ hành trình đó, không phải cách thay thế cho việc chăm sóc y tế. Điều quan trọng nhất vẫn luôn là lắng nghe cơ thể mình mỗi ngày, và tìm tới chuyên gia khi cần.
 
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có bệnh lý nền hoặc triệu chứng kéo dài, hãy hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.
 

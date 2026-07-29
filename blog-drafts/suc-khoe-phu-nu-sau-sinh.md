@@ -130,7 +130,7 @@ Một số gợi ý quen thuộc, dễ tìm:
 - **Các loại hạt**: hạnh nhân, óc chó, hạt bí, hạt chia, hạt lanh.
 - **Ngũ cốc nguyên cám**: yến mạch, gạo lứt, quinoa.
 
-Điểm cộng của nhóm đạm thực vật là thường đi kèm chất xơ và ít gây cảm giác nặng bụng, nên khá hợp với những ngày mẹ ăn thành nhiều bữa nhỏ. Mẹ có thể **xen kẽ đạm thực vật với các nguồn đạm khác** để bữa ăn đa dạng, thay vì loại bỏ hẳn một nhóm nào.
+Điểm cộng của nhóm [đạm thực vật](https://trueveganprotein.com) là thường đi kèm chất xơ và ít gây cảm giác nặng bụng, nên khá hợp với những ngày mẹ ăn thành nhiều bữa nhỏ. Mẹ có thể **xen kẽ đạm thực vật với các nguồn đạm khác** để bữa ăn đa dạng, thay vì loại bỏ hẳn một nhóm nào.
 
 Với những buổi sáng vội hoặc lúc đêm khuya cần một bữa phụ nhanh, một ly **đạm thực vật pha sẵn** có thể là cách tiện lợi để bổ sung dưỡng chất mà không phải đứng bếp lâu. Đây chỉ là một gợi ý hỗ trợ lối sống, không thay thế bữa ăn chính đa dạng và càng không thay thế việc thăm khám khi mẹ có nhu cầu dinh dưỡng đặc biệt. Vì mọi thứ mẹ ăn uống trong giai đoạn cho con bú đều liên quan đến bé, trước khi thêm bất kỳ sản phẩm bổ sung nào vào thực đơn, mẹ nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng. Nếu mẹ đang phân vân giữa các nguồn đạm, bài [ăn chay đủ chất và cân bằng](an-chay-du-chat-can-bang.html) sẽ giúp mẹ sắp xếp thực đơn hợp lý hơn.
 

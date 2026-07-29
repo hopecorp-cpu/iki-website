@@ -30,7 +30,7 @@
   ]
 }
 ---
-Rất nhiều người chần chừ với việc ăn chay vì một nỗi lo quen thuộc: *liệu ăn thực vật có đủ chất không?* Đây là câu hỏi chính đáng. Nhưng tin vui là **ăn chay đủ chất hoàn toàn khả thi** — điều kiện là bạn xây khẩu phần một cách có chủ đích, thay vì chỉ đơn giản bỏ thịt cá ra khỏi bữa ăn. Bài viết này sẽ đi qua từng phần: đạm thực vật lấy từ đâu, những vi chất nào cần chú ý, và cách ghép chúng lại thành một khẩu phần cân bằng, dễ áp dụng cho cả người mới bắt đầu.
+Rất nhiều người chần chừ với việc ăn chay vì một nỗi lo quen thuộc: *liệu ăn thực vật có đủ chất không?* Đây là câu hỏi chính đáng. Nhưng tin vui là **ăn chay đủ chất hoàn toàn khả thi** — điều kiện là bạn xây khẩu phần một cách có chủ đích, thay vì chỉ đơn giản bỏ thịt cá ra khỏi bữa ăn. Bài viết này sẽ đi qua từng phần: [đạm thực vật](https://trueveganprotein.com) lấy từ đâu, những vi chất nào cần chú ý, và cách ghép chúng lại thành một khẩu phần cân bằng, dễ áp dụng cho cả người mới bắt đầu.
 
 ## Ăn chay có lo thiếu chất không
 
