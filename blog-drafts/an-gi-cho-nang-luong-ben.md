@@ -165,3 +165,7 @@ Anh T., làm kinh doanh ở Hải Phòng, chia sẻ rằng anh thường ăn tr�
 Năng lượng bền cả ngày không đến từ một siêu thực phẩm hay một cú tỉnh táo thần kỳ, mà đến từ cách bạn phối bữa ăn và sắp xếp nhịp ăn uống mỗi ngày. Ghép đủ bốn phần gồm đạm, tinh bột tốt, chất béo lành và rau quả, ăn đều đặn không bỏ bữa, chọn bữa trưa vừa phải, uống đủ nước và cho mình những khoảng nghỉ nhỏ để vận động, đó là những viên gạch tạo nên sức bền.
 
 Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là thêm một nguồn đạm vào bữa sáng, ăn trưa vừa phải hơn, hay thay ly nước ngọt chiều bằng một bữa phụ có cấu trúc. Những bước nhỏ đều đặn này, cộng với giấc ngủ đủ và thói quen uống đủ nước, chính là cách bạn giữ cho mình tỉnh táo và dẻo dai qua những ngày làm việc dài. Muốn tìm hiểu thêm các nguồn thực phẩm cho bữa phụ lành mạnh, bạn có thể xem bài [Các loại hạt dinh dưỡng và cách ăn](cac-loai-hat-dinh-duong.html). Năng lượng ổn định không đến từ một ngày ăn hoàn hảo, mà từ những bữa ăn "đủ tốt" được lặp lại đều đặn.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP, **đạm thực vật chiếm 63,7% giá trị giỏ hàng** — là "cửa ngõ" phổ biến nhất khi người Việt bắt đầu lối sống sức khoẻ chủ động. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

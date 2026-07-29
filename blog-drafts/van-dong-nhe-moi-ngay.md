@@ -223,3 +223,7 @@ Chăm sóc sức khoẻ chủ động không bắt đầu bằng một quyết t
 Hãy bắt đầu nhỏ, đi với nhịp thoải mái, gắn nó vào một mốc quen thuộc trong ngày, và cho phép mình quay lại mỗi khi lỡ nhịp. Nếu bạn muốn có một lộ trình rõ ràng hơn cho chặng đầu, hãy tham khảo thêm [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html), và đừng quên rằng vận động sẽ dễ chịu hơn khi bạn [uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html) để cơ thể luôn đủ nước.
 
 Từng bước một, mỗi ngày một chút. Đó là cách một thói quen nhỏ trở thành một phần tự nhiên của cuộc sống. Chúc bạn có những vòng đi bộ thật thư thái.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

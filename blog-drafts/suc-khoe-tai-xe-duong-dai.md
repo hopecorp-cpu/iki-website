@@ -121,3 +121,7 @@ Những con số nền tảng như huyết áp, đường huyết cũng nên đ�
 Nghề lái xe đường dài đòi hỏi sự bền bỉ, và chính sức khoẻ mới là thứ giúp bạn đi được đường xa. Những thói quen nhỏ như ngủ đủ trước chuyến, dừng nghỉ đúng lúc khi buồn ngủ, ăn uống điều độ, uống đủ nước, chỉnh tư thế ngồi và vận động giữa chặng, cộng lại sẽ tạo nên khác biệt lớn cho từng ngày cầm vô lăng của bạn. Chăm sóc bản thân không phải là điều gì to tát, mà là chuỗi những lựa chọn tử tế bạn dành cho chính mình mỗi ngày.
 
 Tại IKI by HOPE CORP, chúng tôi tin rằng sức khoẻ bền vững đến từ những thói quen lành mạnh được duy trì đều đặn. Nếu bạn đang tìm cách bổ sung dinh dưỡng nhẹ nhàng, tiện lợi cho lịch trình bận rộn, các sản phẩm đạm thực vật và trà thảo mộc của IKI có thể là một gợi ý hỗ trợ cho lối sống của bạn, bên cạnh việc ăn uống cân bằng và nghỉ ngơi hợp lý. Hãy giữ gìn sức khoẻ để mỗi chuyến đi đều bình an, và luôn trở về nhà an toàn.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

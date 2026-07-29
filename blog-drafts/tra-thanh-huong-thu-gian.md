@@ -153,3 +153,7 @@ Trước khi chọn một loại trà cho nghi thức buổi tối, nhiều ngư
 Một thức uống thảo mộc ấm, thơm dịu vào buổi tối có thể trở thành một nghi thức thư giãn nhỏ mà đáng quý, giúp bạn khép lại ngày dài một cách nhẹ nhàng. Bí quyết nằm ở việc chọn đúng loại hợp với mình: ít caffeine, hương vị êm dịu, nguyên liệu rõ ràng, và quan trọng nhất là được đặt trong một khoảnh khắc bạn thật sự cho phép mình chậm lại.
 
 Nếu bạn yêu hương thơm và muốn thử một tách trà êm ái cho buổi tối, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) với hương hoa quế là một gợi ý đáng cân nhắc. Nhưng dù chọn loại nào, hãy nhớ rằng giá trị lớn nhất không nằm ở tách trà, mà ở chính quãng nghỉ mà bạn dành cho mình mỗi tối. Đó là một cách giản dị và tử tế để chăm sóc tinh thần của chính mình.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

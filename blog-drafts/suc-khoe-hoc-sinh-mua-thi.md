@@ -107,3 +107,7 @@ Cuối cùng, cha mẹ hãy làm gương về một lối sống cân bằng. Kh
 Không có bí quyết thần kỳ nào cho mùa thi. Điều bền vững nhất luôn là những nguyên tắc giản dị: ăn cân bằng, ngủ đủ, nghỉ mắt và vận động, giữ tinh thần thoải mái, và một gia đình biết đồng hành. Khi bốn trụ cột này được chăm sóc mỗi ngày, con sẽ có đủ sức khoẻ và sự minh mẫn để làm tốt nhất khả năng của mình.
 
 Nếu bạn đang tìm một lựa chọn bữa phụ tiện lợi cho con giữa những buổi ôn dày đặc, sữa đạm thực vật của IKI có thể là một gợi ý nhẹ nhàng để bổ sung đạm vào khẩu phần hằng ngày, bên cạnh những bữa ăn chính đầy đủ. Đây là thực phẩm bổ sung dinh dưỡng, phù hợp như một phần của chế độ ăn cân bằng và không thay thế cho bữa ăn chính hay cho việc thăm khám y khoa khi con cần. Chúc con và gia đình một mùa thi khoẻ mạnh, vững vàng và nhẹ nhõm.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

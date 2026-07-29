@@ -161,3 +161,7 @@ Anh T., làm kinh doanh ở Hải Phòng, chia sẻ rằng anh từng có thói 
 Khó ngủ và trằn trọc là điều rất nhiều người gặp phải, và trong phần lớn trường hợp, chìa khóa không nằm ở việc cố ép mình ngủ mà ở việc chăm sóc khoảng thời gian trước khi ngủ. Một nếp buổi tối đều đặn, nhẹ nhàng, được lặp lại mỗi ngày sẽ dần giúp cơ thể hiểu tín hiệu "sắp nghỉ" và vào giấc dễ hơn.
 
 Hãy bắt đầu từ một thay đổi nhỏ ngay tối nay. Có thể là đặt điện thoại ra xa giường, giảm đèn sớm hơn một chút, ngâm chân nước ấm, hay viết vài dòng cho đầu óc nhẹ đi. Những bước nhỏ đều đặn này, cộng với giờ giấc ổn định và một buổi sáng đón nắng, chính là cách bạn chăm sóc giấc ngủ và sức khỏe của mình. Nếu muốn đi sâu hơn vào việc xây thói quen cho một đêm ngon và một ngày tỉnh táo, bạn có thể xem thêm bài [Giấc ngủ chất lượng: thói quen cho đêm ngon, ngày tỉnh táo](giac-ngu-chat-luong.html). Một giấc ngủ dễ chịu không đến từ một đêm hoàn hảo, mà từ một nếp tối "đủ tốt" được giữ đều đặn.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

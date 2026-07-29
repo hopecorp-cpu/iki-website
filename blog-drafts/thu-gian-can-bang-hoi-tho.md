@@ -167,3 +167,7 @@ Thư giãn không phải là một điều xa xỉ dành cho lúc rảnh rỗi, 
 Hãy bắt đầu từ một điều nhỏ ngay hôm nay: một phút thở chậm trước khi vào việc, một quãng đi bộ không điện thoại giữa buổi, hay một tách trà ấm và khoảng lặng vào buổi tối. Những khoảng nghỉ nhỏ được lặp lại đều đặn sẽ dần tích luỹ thành một tinh thần thư thái và một nhịp sống cân bằng hơn.
 
 Cuối cùng, xin nhắc rằng những gợi ý trên phù hợp cho việc chăm sóc tinh thần hằng ngày. Nếu bạn thấy lo âu, căng thẳng hay mất ngủ kéo dài, ảnh hưởng đến cuộc sống, hãy tìm đến chuyên gia tâm lý hoặc bác sĩ. Chủ động tìm sự hỗ trợ khi cần là một biểu hiện đẹp của việc chăm sóc chính mình.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

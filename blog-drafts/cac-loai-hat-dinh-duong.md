@@ -222,3 +222,7 @@ Các loại hạt dinh dưỡng là minh chứng đẹp cho câu "nhỏ mà ch�
 Bạn có thể bắt đầu rất đơn giản: chọn 2-3 loại hạt hợp khẩu vị, trộn sẵn một hũ, mỗi ngày dùng một nắm nhỏ như bữa phụ hoặc rắc lên bữa chính. Xem hạt là một mảnh ghép trong lối sống chăm sóc sức khỏe chủ động, đi cùng rau xanh, đủ nước, vận động và nghỉ ngơi hợp lý.
 
 Cuối cùng, hãy nhớ đây là thông tin dinh dưỡng chung mang tính tham khảo. Nếu bạn có cơ địa dị ứng, đang mang thai, có bệnh lý nền hoặc đang theo một chế độ ăn đặc biệt, hãy trao đổi thêm với bác sĩ hoặc chuyên gia dinh dưỡng để có lời khuyên phù hợp với riêng mình.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

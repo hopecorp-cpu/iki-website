@@ -168,3 +168,7 @@ Chăm sóc sức khoẻ chủ động cho người cao tuổi không nằm ở n
 Bạn không cần đi hết bảy chặng ngay hôm nay. Hãy bắt đầu từ chặng nào thấy dễ nhất, rồi từ từ thêm vào. Nếu mới làm quen với việc xây dựng thói quen lành mạnh, bạn có thể tham khảo thêm [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) để có nền tảng vững vàng. Nếu con cháu trong nhà đang ở tuổi trung niên và muốn chủ động phòng ngừa cho chính mình, [Lộ trình cho người trung niên (35–55)](lo-trinh-nguoi-trung-nien.html) là bài đáng chia sẻ để cả nhà cùng khoẻ.
 
 Tuổi tác là điều tự nhiên, và mỗi giai đoạn đều có vẻ đẹp riêng. Khi ta biết lắng nghe và nâng niu cơ thể, những năm tháng phía trước sẽ nhẹ nhàng và trọn vẹn hơn. Và đừng quên, bên cạnh mọi lộ trình chăm sóc, bác sĩ luôn là người đồng hành đáng tin cậy khi sức khoẻ có điều cần lưu tâm.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

@@ -96,6 +96,7 @@ function ensureHero(slug, alt) {
 
 // Bài mới cần generate {slug: [prompt, alt]}
 const NEW = {
+  "bao-cao-cham-soc-suc-khoe-chu-dong-2026": ["printed data report with bar charts on a clean wooden desk beside a cup of green tea and fresh fruit, business analytics still life, soft daylight, no people", "Bản báo cáo số liệu in trên bàn làm việc cạnh tách trà xanh"],
   "suc-khoe-phu-nu-sau-sinh": ["nourishing balanced meal with warm soup, vegetables and fruit beside a cup of tea, cozy home still life, no people", "Bữa ăn cân bằng phục hồi cho mẹ sau sinh"],
   "suc-khoe-tai-xe-duong-dai": ["water bottle and healthy snacks, nuts and fruit in a car cup holder on a long road trip, no people", "Nước và đồ ăn nhẹ lành mạnh cho chuyến đi dài"],
   "suc-khoe-giao-vien": ["warm herbal tea cup and a water bottle on a wooden desk with books, cozy calm still life, no people", "Trà thảo mộc ấm và nước bên bàn làm việc"],

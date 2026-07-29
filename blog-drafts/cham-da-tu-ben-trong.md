@@ -177,3 +177,7 @@ Giữ những bước này cho quen rồi mới thêm điều mới. Chính sự
 Chăm da từ bên trong không phải một chiến dịch ngắn hạn hay một danh sách kiêng khem khắc nghiệt. Đó là việc mỗi ngày chọn cho mình một bữa ăn cân bằng hơn: đủ đạm để cơ thể tạo collagen, nhiều rau xanh và trái cây cho vitamin và chất chống oxy hoá, một chút chất béo lành từ hạt và cá, đủ nước, cùng giấc ngủ ngon và tinh thần thư thái.
 
 Làn da không thay đổi sau một bữa ăn, nhưng nó phản chiếu trung thực cả một nếp sống được lặp lại. Hãy bắt đầu từ một thay đổi nhỏ ngay hôm nay, thêm một nắm rau, một nguồn đạm, một ly nước, và kiên trì với nó. Đó là cách chăm sóc bản thân chủ động, dịu dàng và bền lâu. Và xin nhắc lại một lần nữa: dinh dưỡng là nền tảng đáng quý, nhưng nếu làn da của bạn có tình trạng kéo dài hoặc khiến bạn lo lắng, hãy tìm đến bác sĩ da liễu để được tư vấn phù hợp với riêng mình.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

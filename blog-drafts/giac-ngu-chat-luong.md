@@ -237,3 +237,7 @@ Giấc ngủ chất lượng không phải là món quà may rủi mà bạn ch�
 Chăm sóc giấc ngủ chính là một phần rất thực tế của việc chăm sóc sức khỏe chủ động. Khi đêm ngon giấc trở thành nếp quen, bạn sẽ thấy ngày dài cũng nhẹ nhàng và tỉnh táo hơn. Nếu tình trạng khó ngủ kéo dài và ảnh hưởng nhiều đến sinh hoạt, đừng ngần ngại tìm đến bác sĩ hoặc chuyên gia để được lắng nghe và tư vấn phù hợp với bạn.
 
 Nếu bạn đang muốn xây dựng lối sống lành mạnh một cách bài bản, có thể tham khảo thêm [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) để có cái nhìn tổng thể, và [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html) để chăm sóc thêm những thói quen căn bản khác trong ngày. Từng bước nhỏ, đều đặn và kiên nhẫn, chính là con đường bền vững nhất để đêm ngon và ngày tỉnh táo.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

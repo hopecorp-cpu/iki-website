@@ -208,3 +208,7 @@ Bạn không cần làm hết cùng lúc. Hãy chọn một hoặc hai việc d�
 Nếu công việc của bạn còn đặc thù hơn cả bàn giấy thông thường, chẳng hạn ngồi trước màn hình gần như cả ngày với cường độ cao, bạn sẽ thấy một số vấn đề đậm hơn. Bài [Chăm sóc sức khoẻ cho lập trình viên và dân IT](suc-khoe-cho-coder-it.html) đi sâu vào những đặc thù đó. Và nếu bạn đang ở độ tuổi 20–35 và muốn một lộ trình rộng hơn cho cả nhịp sống, [Lộ trình chăm sóc sức khoẻ cho người trẻ](lo-trinh-nguoi-tre.html) là điểm khởi hành hợp lý.
 
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có bệnh lý nền hoặc triệu chứng kéo dài, hãy hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

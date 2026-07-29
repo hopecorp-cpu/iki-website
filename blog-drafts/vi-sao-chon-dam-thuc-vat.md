@@ -157,3 +157,7 @@ Trước khi xuống tiền cho một sản phẩm đạm, nhiều người phâ
 Chọn nguồn đạm thực vật đúng không phải là tìm ra một sản phẩm thần kỳ, mà là xây cho mình một bộ tiêu chí tỉnh táo: nguồn gốc rõ ràng, thành phần sạch và dễ tiêu, đủ đa dạng để bù đắp cho nhau, và phù hợp với nếp sống thật của bạn. Khi có bộ lọc này, bạn sẽ bớt bị cuốn theo quảng cáo và tự tin hơn khi đứng trước kệ hàng.
 
 Hãy bắt đầu từ nền tảng là thực phẩm nguyên bản, phối đậu với ngũ cốc, thêm hạt vào bữa phụ, và dùng một loại bột đạm thực vật tiện lợi như [True Vegan Protein](https://trueveganprotein.com) cho những ngày bận rộn nếu bạn thấy phù hợp. Quan trọng hơn cả một lựa chọn đơn lẻ là sự đều đặn: đủ đạm mỗi ngày, ăn đa dạng và lắng nghe cơ thể chính là cách chăm sóc sức khỏe chủ động bền vững. Nếu bạn mới bắt đầu và muốn xây khẩu phần chay cân bằng, hãy tham khảo thêm bài [Ăn chay đủ chất và cân bằng](an-chay-du-chat-can-bang.html) để đi từng bước một cách nhẹ nhàng.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP, **đạm thực vật chiếm 63,7% giá trị giỏ hàng** — là "cửa ngõ" phổ biến nhất khi người Việt bắt đầu lối sống sức khoẻ chủ động. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

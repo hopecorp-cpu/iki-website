@@ -167,3 +167,7 @@ Anh T., làm nghề kinh doanh ở Hải Phòng, kể rằng buổi tối của 
 Một nếp uống ấm mỗi ngày và một tách trà thảo mộc nhẹ là những điều rất nhỏ, nhưng chính sự nhỏ bé và dễ làm ấy khiến chúng bền. Bạn không cần đầu tư nhiều tiền hay học kỹ thuật phức tạp: một cốc nước ấm khi thức dậy, một tách trà thanh nhạt sau bữa ăn hay vào buổi tối, uống từ tốn khi còn ấm, giữ điều độ và lắng nghe cơ thể mình.
 
 Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là rót một cốc nước ấm thay vì với ngay điện thoại buổi sáng, hoặc thay ly nước ngọt chiều bằng một tách trà thảo mộc không đường. Những bước nhỏ đều đặn này, cộng với thói quen ăn uống cân bằng và ngủ đủ, chính là cách bạn chăm sóc bản thân mỗi ngày. Nếu muốn đặt nếp uống này vào một buổi tối trọn vẹn hơn, bạn có thể xem thêm bài [Giấc ngủ chất lượng: thói quen cho đêm ngon, ngày tỉnh táo](giac-ngu-chat-luong.html) để một tách trà ấm trở thành phần mở đầu cho giấc ngủ dễ chịu.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

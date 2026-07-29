@@ -184,3 +184,7 @@ Cảm giác đầy bụng, khó tiêu sau khi ăn hiếm khi đến từ một n
 Hãy bắt đầu từ một thay đổi dễ nhất ngay bữa ăn tới: có thể là ăn chậm lại và nhai kỹ hơn, dừng đũa khi thấy vừa đủ, đi bộ vài phút thay vì nằm ngay, hay kết thúc bằng một ly nước ấm. Những bước nhỏ, đều đặn và kiên nhẫn này, cộng với việc lắng nghe cơ thể mình, chính là cách bạn chăm sóc sức khỏe chủ động. Và nếu tình trạng kéo dài hay có dấu hiệu bất thường, đừng ngần ngại tìm đến bác sĩ để được lắng nghe và tư vấn phù hợp.
 
 Nếu bạn muốn xây dựng một nền tảng ăn uống nhẹ nhàng hơn cho cả ngày, hãy tham khảo thêm [Ăn sáng thế nào cho một ngày tràn năng lượng](an-sang-tran-nang-luong.html) để mở đầu ngày mới cân bằng, và [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html) để chăm sóc thêm một thói quen căn bản khác. Từng bước nhỏ, đều đặn, chính là con đường bền vững nhất để chiếc bụng của bạn nhẹ nhõm hơn mỗi ngày.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

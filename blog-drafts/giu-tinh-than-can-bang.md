@@ -187,3 +187,7 @@ Giữ tinh thần cân bằng không có nghĩa là ép mình luôn vui vẻ hay
 Bạn không cần thay đổi tất cả cùng một lúc. Hãy bắt đầu từ một thói quen nhỏ ngay hôm nay: có thể là thở chậm vài phút sau khi ngồi vào bàn làm việc, một buổi đi bộ ngắn giữa chiều, hay một tách trà ấm và khoảng lặng trước giờ ngủ. Những bước nhỏ đều đặn này, cộng với nền tảng ngủ đủ, ăn điều độ và vận động nhẹ, chính là cách bạn nuôi dưỡng một tinh thần vững vàng và thư thái hơn mỗi ngày.
 
 Nếu bạn muốn đặt những thói quen này vào một nhịp sống trọn vẹn, hãy tham khảo thêm [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) để khởi đầu ngày nhẹ nhõm, hoặc [Giấc ngủ chất lượng](giac-ngu-chat-luong.html) để khép lại ngày trong sự nghỉ ngơi đúng nghĩa. Một tâm trí cân bằng không đến từ một khoảnh khắc hoàn hảo, mà từ vô số những lựa chọn nhỏ, tử tế, mà bạn dành cho chính mình, lặp lại đều đặn qua thời gian.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

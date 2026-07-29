@@ -225,3 +225,7 @@ Nghề kinh doanh, sale đòi hỏi bạn luôn ở trạng thái sẵn sàng, v
 Hãy chọn một việc dễ nhất để bắt đầu ngay tuần này — thường là chuẩn bị sẵn đồ ăn nhẹ hoặc uống đủ nước — làm cho tới khi nó thành phản xạ tự nhiên, rồi mới thêm việc tiếp theo. Đi chậm mà chắc, mỗi tháng vững thêm một thói quen, một năm sau bạn sẽ thấy mình vẫn giữ được phong độ mà nghề đòi hỏi. Ứng dụng IKI có thể là một người bạn đồng hành nhắc bạn giữ những thói quen nhỏ ấy giữa ngày bận, nhưng thứ tạo ra khác biệt vẫn là chính những lựa chọn đều đặn của bạn mỗi ngày.
 
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có dấu hiệu bất thường kéo dài hoặc bệnh lý nền, hãy đi khám và hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

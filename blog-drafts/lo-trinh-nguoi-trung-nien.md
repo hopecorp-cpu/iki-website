@@ -165,3 +165,7 @@ Lộ trình sáu chặng ở trên không đòi hỏi bạn phải hoàn hảo. 
 Nếu bạn mới đặt những viên gạch đầu tiên cho hành trình sức khoẻ của mình, bài [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) có thể là bước tiếp theo hữu ích. Nếu con cái bạn đang ở tuổi lập nghiệp, [Lộ trình cho người trẻ (20–35 tuổi)](lo-trinh-nguoi-tre.html) là thứ đáng chia sẻ để họ xây thói quen tốt từ sớm; còn nếu bạn đang chăm sóc cha mẹ lớn tuổi, [Lộ trình cho người cao tuổi (55+)](lo-trinh-nguoi-cao-tuoi.html) đi từng bước nhẹ nhàng về tiêu hoá, ăn mềm và xương khớp. Dù bạn ở đâu trên hành trình này, hãy nhớ rằng chăm sóc sức khoẻ chủ động, đều đặn và nhẹ nhàng, chính là món quà bền bỉ nhất mà bạn có thể dành cho bản thân trong nhiều năm tới.
 
 > Nội dung trong bài chỉ mang tính tham khảo cho lối sống lành mạnh, không thay thế cho tư vấn, thăm khám của bác sĩ hoặc chuyên gia y tế. Thực phẩm bổ sung không thay thế thuốc chữa bệnh, cũng không thay thế chế độ ăn cân bằng và lối sống lành mạnh.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

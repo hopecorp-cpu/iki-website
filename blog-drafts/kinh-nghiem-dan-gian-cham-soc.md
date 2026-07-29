@@ -160,3 +160,7 @@ Kho kinh nghiệm dân gian Việt trong chăm sóc sức khoẻ là một di s�
 Điều quan trọng khi tiếp nhận là giữ một tinh thần cân bằng: trân trọng phần khôn ngoan, chọn lọc bằng tư duy tỉnh táo, hiểu rõ giới hạn, và luôn nhớ rằng chúng bổ sung chứ không thay thế cho việc thăm khám y tế khi cần. Bạn có thể bắt đầu ngay hôm nay bằng một thay đổi rất nhỏ, một ly nước ấm buổi sáng chẳng hạn, và để những viên gạch nhỏ ấy tích luỹ dần thành một nếp sống lành mạnh, đậm chất Việt và bền lâu.
 
 Xin nhắc lại rằng đây là những chia sẻ mang tính tham khảo về ăn uống và sinh hoạt. Nếu bạn có bệnh nền, đang mang thai, đang dùng dược phẩm kê đơn hay có dấu hiệu sức khoẻ bất thường, hãy trao đổi với bác sĩ hoặc người có chuyên môn để được tư vấn phù hợp với riêng mình.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

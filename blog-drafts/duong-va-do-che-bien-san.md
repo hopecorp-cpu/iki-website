@@ -151,3 +151,7 @@ Hiểu về đường và đồ chế biến sẵn không phải để sợ hãi
 Hãy bắt đầu từ một bước nhỏ ngay hôm nay: đổi một ly đồ uống có đường sang nước lọc hoặc trà không đường, hoặc dành ba mươi giây đọc nhãn món bạn sắp mua. Cùng với việc ăn bữa chính cân bằng, ngủ đủ và chuẩn bị sẵn bữa phụ lành mạnh, những lựa chọn "đủ tốt" lặp lại đều đặn ấy sẽ dần đưa bạn tới một cách ăn điều độ và bền vững, mà không cần kiêng khem khổ sở.
 
 Cuối cùng, xin nhắc rằng đây là thông tin dinh dưỡng chung mang tính tham khảo. Nếu bạn có bệnh nền liên quan đến đường huyết hay chuyển hoá, đang mang thai hoặc theo một chế độ ăn đặc biệt, hãy trao đổi với bác sĩ hoặc chuyên gia dinh dưỡng để có hướng dẫn phù hợp với riêng mình.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

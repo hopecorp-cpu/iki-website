@@ -198,3 +198,7 @@ Anh T., một người làm văn phòng, chia sẻ rằng trước đây bữa t
 Hãy bắt đầu từ một thay đổi nhỏ hôm nay: thêm một nắm rau, đổi một phần cơm trắng sang ngũ cốc nguyên hạt, hoặc chuẩn bị sẵn hạt cho bữa phụ. Nếu muốn đi xa hơn, bạn có thể tham khảo cách [ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html) để chọn thực phẩm phù hợp với cơ địa, và xem [lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) để xây thói quen ăn uống cân bằng một cách bền vững.
 
 > Chăm sóc sức khỏe chủ động là hành trình dài của những lựa chọn nhỏ mỗi ngày. Một bữa ăn cân bằng hôm nay là một viên gạch cho thói quen tốt của bạn.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

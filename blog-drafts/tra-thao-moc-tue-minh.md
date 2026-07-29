@@ -147,3 +147,7 @@ Trước khi chọn một loại trà để uống đều, nhiều người băn
 Chọn một loại trà thảo mộc để uống đều mỗi ngày, suy cho cùng, là chọn một thói quen dễ chịu hợp với mình: nguyên liệu rõ ràng, hương vị bạn thích, thời điểm uống phù hợp và cách pha vừa sức. Khi có những tiêu chí này, bạn sẽ chọn được thứ mình gắn bó lâu dài thay vì mua theo phong trào rồi bỏ dở.
 
 Nếu bạn thích một thức uống thảo mộc ấm với các vị Việt truyền thống, [Trà Tuệ Minh](https://tra.ikihealing.com) là một lựa chọn đáng thử cho nếp uống ấm thư thái. Nhưng dù chọn loại nào, hãy nhớ điều quan trọng nhất nằm ở chính khoảnh khắc bạn dừng lại, pha một tách trà và cho mình vài phút chậm lại. Đó là một cách giản dị để chăm sóc bản thân giữa nhịp sống bận rộn. Muốn hiểu thêm về thói quen uống ấm nói chung, bạn có thể đọc bài [Thức uống ấm mỗi ngày và trà thảo mộc](thuc-uong-am-tra-thao-moc.html).
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

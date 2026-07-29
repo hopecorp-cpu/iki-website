@@ -170,3 +170,7 @@ Hãy chọn những thay đổi hợp khẩu vị gia đình và nhịp sống c
 Chế độ ăn Okinawa dạy chúng ta một bài học giản dị mà sâu sắc: sức khoẻ bền vững thường đến từ sự điều độ và những nguyên liệu mộc mạc, chứ không phải từ điều gì cầu kỳ hay đắt đỏ. Ăn nhiều thực vật, thêm đậu và khoai, ưu tiên món tươi ít qua chế biến, và ăn chừng mực, đó là những nguyên tắc mà bất kỳ ai cũng có thể học theo với thực phẩm quen thuộc quanh mình.
 
 Đây cũng là tinh thần mà IKI theo đuổi trong hành trình ăn uống cân bằng: chăm sóc bản thân bằng những thói quen nhỏ, tự nhiên và bền bỉ, thay vì chạy theo trào lưu nhất thời. Bạn có thể bắt đầu ngay từ bữa cơm sắp tới, chỉ với một việc: thêm rau và bớt dầu mỡ. Để có một khung nhìn đầy đủ hơn về cách cân bằng bữa ăn, hãy đọc thêm bài [8 nhóm thực phẩm lành mạnh](8-nhom-thuc-pham-lanh-manh.html). Và nếu bạn có bệnh nền hay chế độ ăn đặc biệt, hãy trao đổi với chuyên gia dinh dưỡng để có gợi ý phù hợp với riêng mình.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

@@ -37,6 +37,11 @@
       "slug": "cam-nang-suc-khoe",
       "name": "Cẩm nang sức khoẻ",
       "desc": "Kiến thức tham khảo về các vấn đề sức khoẻ thường gặp: dấu hiệu, nguyên nhân và khi nào cần đi khám bác sĩ. Không thay thế thăm khám y khoa."
+    },
+    {
+      "slug": "bao-cao",
+      "name": "Báo cáo & Số liệu",
+      "desc": "Báo cáo dữ liệu độc quyền từ hoạt động thực tế của IKI by HOPE CORP — số liệu hành vi chăm sóc sức khoẻ chủ động của người Việt, mở cho báo chí và cộng đồng trích dẫn."
     }
   ],
   "chapters": [
@@ -174,6 +179,12 @@
     }
   ],
   "articles": [
+    {
+      "title": "Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026 — dữ liệu từ 1.540 đơn hàng thực tế",
+      "slug": "bao-cao-cham-soc-suc-khoe-chu-dong-2026",
+      "category": "bao-cao",
+      "status": "published"
+    },
     {
       "title": "Lộ trình chăm sóc sức khoẻ chủ động cho người mới bắt đầu (6 chặng)",
       "slug": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau",

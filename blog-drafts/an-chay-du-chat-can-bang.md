@@ -231,3 +231,7 @@ Trong cộng đồng chăm sóc sức khoẻ chủ động, không ít cô chú 
 Nếu bạn mới bắt đầu, đừng đặt áp lực phải hoàn hảo ngay. Hãy thay thế thay vì chỉ loại bỏ, ăn đủ năng lượng, quan sát phản ứng của cơ thể trong vài tuần đầu, và điều chỉnh dần. Với những ai đang mang thai, cho con bú, có bệnh nền hoặc đang dùng thuốc, một buổi trao đổi với chuyên gia dinh dưỡng hoặc bác sĩ sẽ giúp cá nhân hoá khẩu phần an toàn hơn.
 
 Ăn thực vật là một hành trình đáng khích lệ — vừa lành, vừa gần gũi với thiên nhiên, vừa dạy ta lắng nghe cơ thể mình nhiều hơn. Và như mọi thói quen chăm sóc sức khoẻ chủ động, mỗi bước nhỏ đều có giá trị. Nếu muốn đi từ đầu một cách bài bản, bạn có thể tham khảo [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) để xây nền tảng vững vàng.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP, **đạm thực vật chiếm 63,7% giá trị giỏ hàng** — là "cửa ngõ" phổ biến nhất khi người Việt bắt đầu lối sống sức khoẻ chủ động. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

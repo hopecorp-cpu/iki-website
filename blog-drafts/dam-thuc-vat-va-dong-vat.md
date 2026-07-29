@@ -153,3 +153,7 @@ Anh T., làm kinh doanh ở Hải Phòng, chia sẻ rằng anh vốn ăn rất n
 Câu chuyện đạm thực vật và đạm động vật không phải là chuyện chọn phe, mà là chuyện hiểu rõ từng nguồn để phối hợp cho cân bằng. Đạm động vật tiện lợi và đầy đủ trong một nguồn; đạm thực vật nhẹ nhàng cho tiêu hóa và đi kèm chất xơ. Với phần lớn mọi người, đa dạng cả hai trong tuần, ăn đủ đạm mỗi bữa để no lâu và giữ khối cơ, là con đường bền vững nhất.
 
 Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là thêm một nguồn đạm vào bữa sáng vốn hay thiếu, luân phiên cá, trứng và đậu trong tuần, hay đặt câu hỏi "đạm ở đâu?" cho mỗi bữa ăn của mình. Những bước nhỏ đều đặn này, cộng với thói quen ăn đủ rau và vận động nhẹ, chính là cách bạn chăm sóc cơ thể mỗi ngày. Muốn phối các nhóm thực phẩm đa dạng hơn, bạn có thể xem thêm bài [8 nhóm thực phẩm lành mạnh](8-nhom-thuc-pham-lanh-manh.html). Một chế độ ăn cân bằng không đến từ một nguyên tắc cứng nhắc, mà từ những lựa chọn "đủ tốt" được lặp lại đều đặn.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP, **đạm thực vật chiếm 63,7% giá trị giỏ hàng** — là "cửa ngõ" phổ biến nhất khi người Việt bắt đầu lối sống sức khoẻ chủ động. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

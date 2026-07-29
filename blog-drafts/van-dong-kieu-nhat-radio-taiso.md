@@ -149,3 +149,7 @@ Chị N., một nhân viên văn phòng ngồi máy tính gần như cả ngày,
 Radio taiso và cách người Nhật vận động nhẹ mỗi ngày mang đến một bài học giản dị mà sâu sắc: chăm sóc cơ thể không cần phải nặng nề, tốn kém hay cực khổ. Chỉ cần vài phút cử động thân thể mỗi ngày, đều đặn và vừa sức, hoà vào nhịp sống tự nhiên, là bạn đã và đang chăm sóc chính mình theo cách bền vững nhất.
 
 Hãy bắt đầu từ một thay đổi nhỏ ngay sáng mai. Có thể là dành ba phút vươn vai, xoay khớp và hít thở sâu ngay khi thức dậy, hoặc đứng dậy giãn người mỗi giờ ngồi làm việc, hoặc rủ một người thân cùng đi bộ buổi tối. Những vận động nhỏ đều đặn ấy, cộng với giấc ngủ đủ, bữa ăn cân bằng và một tinh thần thư thái, chính là cách bạn xây một nền sức khoẻ dài lâu. Nếu muốn đi sâu hơn vào việc dựng một nếp vận động phù hợp với mình, bạn có thể đọc thêm bài [Vận động nhẹ mỗi ngày cho cơ thể dẻo dai](van-dong-nhe-moi-ngay.html) như một bước tiếp theo trên hành trình chăm sóc bản thân.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::

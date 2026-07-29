@@ -165,3 +165,7 @@ Bạn không cần làm hết cùng một lúc. Hãy chọn một chặng dễ n
 Nếu bạn hoàn toàn mới với việc xây thói quen, [Lộ trình cho người mới bắt đầu](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) là điểm khởi hành nhẹ nhàng. Và khi nghĩ về đường dài, bạn có thể tham khảo trước [Lộ trình cho người trung niên](lo-trinh-nguoi-trung-nien.html) để hình dung những gì cơ thể sẽ cần ở giai đoạn kế tiếp, hoặc [Lộ trình cho người cao tuổi](lo-trinh-nguoi-cao-tuoi.html) nếu bạn đang muốn đồng hành chăm sóc cha mẹ, ông bà trong nhà.
 
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có bệnh lý nền, hãy hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::
