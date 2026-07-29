@@ -36,7 +36,7 @@
     },
     {
       "q": "Người có vấn đề về đường huyết nên lưu ý gì?",
-      "a": "Đây là bài viết dinh dưỡng chung, không thay cho tư vấn y tế. Nếu bạn có bệnh nền liên quan đến đường huyết hay chuyển hoá, cách ăn uống cần được cá nhân hoá và theo dõi bởi bác sĩ hoặc chuyên gia dinh dưỡng. Hãy tuân theo hướng dẫn chuyên môn dành riêng cho bạn thay vì áp dụng lời khuyên chung một cách máy móc."
+      "a": "Đây là bài viết dinh dưỡng chung, không thay cho tư vấn y tế. Nếu bạn có bệnh nền liên quan đến đường huyết, cách ăn uống cần được cá nhân hoá và theo dõi bởi bác sĩ hoặc chuyên gia dinh dưỡng. Hãy tuân theo hướng dẫn chuyên môn dành riêng cho bạn thay vì áp dụng lời khuyên chung một cách máy móc."
     }
   ],
   "related": [
@@ -134,14 +134,14 @@ Chủ đề này có nhiều quan niệm cực đoan theo cả hai hướng. Cù
 
 **"Đường nâu, mật ong, si rô 'tự nhiên' thì thoải mái dùng."** Dù có thể mang thêm chút khoáng chất hay hương vị, đây vẫn là các dạng đường thêm và vẫn nên dùng có chừng mực. Đừng để mác "tự nhiên" khiến ta chủ quan về lượng.
 
-**"Cứ dán nhãn ít béo, healthy, ăn kiêng là yên tâm."** Nhiều sản phẩm giảm béo lại tăng đường để bù vị, và không ít món gắn mác "lành mạnh" vẫn nhiều đường. Đọc nhãn vẫn là cách đáng tin hơn là tin vào lời quảng cáo trên bao bì.
+**"Cứ dán nhãn ít béo, healthy, ăn kiêng là yên tâm."** Nhiều sản phẩm gắn mác ít béo lại tăng đường để bù vị, và không ít món gắn mác "lành mạnh" vẫn nhiều đường. Đọc nhãn vẫn là cách đáng tin hơn là tin vào lời quảng cáo trên bao bì.
 
 **"Nước ép trái cây thì bao nhiêu cũng tốt."** Nước ép, đặc biệt loại đóng hộp, thường mất phần lớn chất xơ và có thể chứa nhiều đường tập trung. Ăn nguyên quả gần như luôn là lựa chọn tốt hơn uống nước ép.
 
 **"Đồ chế biến sẵn đều là xấu."** Không hẳn. Rau củ đông lạnh, cá đóng hộp, các loại đậu đóng lon là những lựa chọn tiện lợi và vẫn tốt. Điều quan trọng là phân biệt mức độ chế biến và ưu tiên nhóm nguyên bản hơn nhóm chế biến kỹ.
 
 :::case Chị M. và một hộp hạt thay ly trà sữa chiều
-Chị M., một nhân viên văn phòng trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng buổi chiều chị hay ghé mua trà sữa hoặc bánh ngọt cho đỡ buồn miệng, rồi lại nhanh thấy uể oải và bữa tối thường ăn vội. Sau khi tìm hiểu về đường ẩn và cách ăn điều độ, chị thay đổi dần: bữa trưa cố gắng có đủ đạm và rau, chuẩn bị sẵn một hộp nhỏ hạt và một phần trái cây cho bữa xế, và đổi ly trà sữa quen thuộc sang trà không đường hoặc nước lọc. Chị kể rằng sau một thời gian giữ nếp này, điều chị thấy rõ nhất là buổi chiều bớt cảm giác thèm ngọt, tinh thần dễ chịu hơn và bữa tối cũng thong thả hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
+Chị M., 30 tuổi, nhân viên văn phòng trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, kể rằng ly trà sữa lúc ba giờ chiều từng là "nghi thức" gần như cố định của cả nhóm làm cùng tầng. Buồn miệng là đặt, có hôm hai ly, rồi chỉ một lúc sau chị lại thấy uể oải, tối về ăn vội và hay cáu vặt. Đến khi ngồi cộng thử lượng đường của một ngày, chị mới giật mình vì phần lớn đến từ những thứ "uống vào mà không nhớ". Chị không cắt phăng tất cả, mà đổi dần từng thứ một: bữa trưa cố gắng gọi suất có đủ đạm và rau, để sẵn trong ngăn bàn một hộp nhỏ hạt và một phần trái cây cho bữa xế, và giao hẹn với bản thân trà sữa chỉ còn là món của chiều thứ Sáu. Những ngày đầu chị vẫn đặt theo nhóm cho vui, chỉ đổi sang trà không đường hoặc xin bớt ngọt. Khoảng một tháng sau, điều chị thấy rõ nhất là buổi chiều bớt hẳn cảm giác thèm ngọt, tinh thần dễ chịu hơn và bữa tối cũng thong thả hơn trước. Chị bảo vui nhất là vẫn giữ được "nghi thức" tụ tập với đồng nghiệp, chỉ là ly nước trên tay đã khác. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết
@@ -150,7 +150,7 @@ Hiểu về đường và đồ chế biến sẵn không phải để sợ hãi
 
 Hãy bắt đầu từ một bước nhỏ ngay hôm nay: đổi một ly đồ uống có đường sang nước lọc hoặc trà không đường, hoặc dành ba mươi giây đọc nhãn món bạn sắp mua. Cùng với việc ăn bữa chính cân bằng, ngủ đủ và chuẩn bị sẵn bữa phụ lành mạnh, những lựa chọn "đủ tốt" lặp lại đều đặn ấy sẽ dần đưa bạn tới một cách ăn điều độ và bền vững, mà không cần kiêng khem khổ sở.
 
-Cuối cùng, xin nhắc rằng đây là thông tin dinh dưỡng chung mang tính tham khảo. Nếu bạn có bệnh nền liên quan đến đường huyết hay chuyển hoá, đang mang thai hoặc theo một chế độ ăn đặc biệt, hãy trao đổi với bác sĩ hoặc chuyên gia dinh dưỡng để có hướng dẫn phù hợp với riêng mình.
+Cuối cùng, xin nhắc rằng đây là thông tin dinh dưỡng chung mang tính tham khảo. Nếu bạn có bệnh nền liên quan đến đường huyết, đang mang thai hoặc theo một chế độ ăn đặc biệt, hãy trao đổi với bác sĩ hoặc chuyên gia dinh dưỡng để có hướng dẫn phù hợp với riêng mình.
 
 :::note Số liệu thực tế từ cộng đồng IKI
 Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).

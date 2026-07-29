@@ -86,7 +86,7 @@ Với người ăn chay hoặc muốn giảm đạm động vật, việc phối
 
 ### Rau lá xanh và trái cây nhiều màu
 
-Đây là kho vitamin và chất chống oxy hoá tự nhiên cho làn da. Rau lá xanh đậm như cải bó xôi, cải xoăn, rau ngót, mồng tơi giàu vitamin nhóm A, C và nhiều khoáng chất. Trái cây nhiều màu như cam, bưởi, ổi, đu đủ, cà chua, các loại quả mọng bổ sung vitamin C, thứ mà cơ thể cần để tạo collagen, cùng nhiều hợp chất thực vật giúp bảo vệ tế bào khỏi tổn thương do gốc tự do.
+Đây là kho vitamin và chất chống oxy hoá tự nhiên cho làn da. Rau lá xanh đậm như cải bó xôi, cải xoăn, rau ngót, mồng tơi giàu tiền vitamin A (beta-caroten), vitamin C, folate và nhiều khoáng chất. Trái cây nhiều màu như cam, bưởi, ổi, đu đủ, cà chua, các loại quả mọng bổ sung vitamin C, thứ mà cơ thể cần để tạo collagen, cùng nhiều hợp chất thực vật giúp bảo vệ tế bào khỏi tổn thương do gốc tự do.
 
 Nguyên tắc dễ nhớ nhất là "ăn cầu vồng": càng nhiều màu sắc rau quả trong tuần, bạn càng nhận đủ dải dưỡng chất khác nhau. Một đĩa ăn chỉ toàn tinh bột trắng và thịt, vắng bóng rau xanh, là kiểu ăn khiến làn da thiệt thòi nhất. Bài [Rau lá xanh: vì sao nên có trong bữa ăn hằng ngày](rau-la-xanh-moi-ngay.html) đi sâu hơn vào cách đưa rau vào từng bữa một cách dễ chịu.
 
@@ -94,7 +94,7 @@ Nguyên tắc dễ nhớ nhất là "ăn cầu vồng": càng nhiều màu sắc
 
 Chất béo lành, đặc biệt là nhóm omega-3, tham gia giữ cho lớp màng bảo vệ của da đủ ẩm, giúp da bớt khô và căng mọng hơn. Nguồn tốt gồm cá béo như cá hồi, cá thu, cá trích, cùng các loại hạt và quả bơ. Hạt óc chó, hạt lanh, hạt chia là những nguồn omega-3 thực vật quen thuộc, dễ rắc lên bữa sáng hay salad.
 
-Một nắm nhỏ hạt mỗi ngày, khoảng hai đến ba mươi gam, là cách đơn giản để bổ sung chất béo lành cùng vitamin E, một dưỡng chất thường được nhắc đến khi nói về làn da. Bạn có thể tìm hiểu cách chọn, rang và bảo quản hạt đúng cách trong bài [Các loại hạt: nguồn dinh dưỡng nhỏ mà chất](cac-loai-hat-dinh-duong.html) để đưa nhóm này vào thói quen mà không bị ngán.
+Một nắm nhỏ hạt mỗi ngày, khoảng 20-30g, là cách đơn giản để bổ sung chất béo lành cùng vitamin E, một dưỡng chất thường được nhắc đến khi nói về làn da. Bạn có thể tìm hiểu cách chọn, rang và bảo quản hạt đúng cách trong bài [Các loại hạt: nguồn dinh dưỡng nhỏ mà chất](cac-loai-hat-dinh-duong.html) để đưa nhóm này vào thói quen mà không bị ngán.
 
 ### Kẽm và các khoáng chất
 
@@ -156,8 +156,8 @@ Quanh chuyện ăn uống và làn da có không ít quan niệm khiến nhiều
 
 Hiểu đúng giúp bạn chăm da một cách bình tĩnh và bền vững, thay vì chạy theo lời mách bảo truyền miệng rồi thất vọng.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị L., một nhân viên văn phòng ngoài ba mươi, chia sẻ rằng chị từng có nếp ăn khá thất thường: sáng bỏ bữa, trưa ăn vội, chiều tối hay dằn bụng bằng trà sữa và đồ ngọt vì cho rằng như vậy "đỡ tốn thời gian". Chị cảm thấy làn da của mình thời gian đó kém tươi, hay khô và thiếu sức sống. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị thử một thay đổi đơn giản: mỗi bữa đều có một nguồn đạm, thêm rau xanh, đổi món tráng miệng ngọt sang trái cây tươi và một nắm hạt, đồng thời để chai nước bên bàn làm việc để uống đều hơn. Sau vài tuần giữ nếp này, chị nói điều chị thấy rõ nhất là bản thân ăn uống điều độ hơn, người nhẹ nhõm hơn và làn da có cảm giác dễ chịu, bớt khô hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống và sinh hoạt, không phải lời khuyên y khoa hay cam kết về làn da; mỗi người có thể cảm nhận khác nhau tuỳ cơ địa, và nếu da có vấn đề kéo dài nên gặp bác sĩ da liễu.)
+:::case Chị Trâm (32 tuổi, thiết kế đồ hoạ, Hà Nội) — chăm da bắt đầu từ đĩa cơm
+Chị Trâm, 32 tuổi, làm thiết kế đồ hoạ tự do ở Hà Nội, quen làm việc khuya theo deadline của khách. Chị chia sẻ rằng mình từng có nếp ăn khá thất thường: sáng bỏ bữa vì dậy muộn, trưa ăn vội trước màn hình, chiều tối hay dằn bụng bằng trà sữa và đồ ngọt vì cho rằng như vậy "đỡ tốn thời gian". Trớ trêu là chị đầu tư không ít cho mỹ phẩm — kệ đồ dưỡng da của chị đủ các bước — nhưng vẫn cảm thấy làn da thời gian đó kém tươi, hay khô và thiếu sức sống. Một người bạn hỏi đùa "thế bữa ăn của cậu có bước dưỡng nào chưa", câu nói làm chị nghĩ mãi. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị thử một thay đổi đơn giản: mỗi bữa đều có một nguồn đạm, thêm rau xanh, đổi món tráng miệng ngọt sang trái cây tươi và một nắm hạt, đồng thời để chai nước bên bàn làm việc để uống đều hơn. Những hôm chạy deadline, chị vẫn giữ được tối thiểu là quả trứng luộc và ít trái cây cắt sẵn trong tủ lạnh. Chị cũng tập đi ngủ sớm hơn được chừng một tiếng vào những ngày không gấp. Sau vài tuần giữ nếp này, chị nói điều chị thấy rõ nhất là bản thân ăn uống điều độ hơn, người nhẹ nhõm hơn và làn da có cảm giác dễ chịu, bớt khô hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống và sinh hoạt, không phải lời khuyên y khoa hay cam kết về làn da; mỗi người có thể cảm nhận khác nhau tuỳ cơ địa, và nếu da có vấn đề kéo dài nên gặp bác sĩ da liễu.)
 :::
 
 ## Một tuần ăn uống chăm da, bắt đầu từ đâu

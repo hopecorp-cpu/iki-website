@@ -75,7 +75,7 @@ Một vài cách đơn giản để mẹ giữ thói quen uống nước đều 
 
 - **Đặt sẵn một bình nước** ở nơi mẹ hay ngồi cho con bú, để chỉ cần với tay là uống được.
 - **Uống từng ngụm nhỏ, đều trong ngày** thay vì uống dồn một lúc.
-- **Xen kẽ các dạng nước lành mạnh**: nước lọc, nước canh, sữa, hoặc một tách trà thảo mộc ấm không chứa nhiều caffeine.
+- **Xen kẽ các dạng nước lành mạnh**: nước lọc, nước canh, sữa. Với trà và cà phê, mẹ đang cho con bú nên giữ lượng caffeine ở mức thấp; riêng các loại trà thảo mộc, không phải loại nào cũng phù hợp trong giai đoạn cho bú, nên hãy hỏi ý kiến bác sĩ trước khi uống một loại thảo mộc nào đó đều đặn.
 
 Mẹ không cần phải đếm ly một cách căng thẳng. Hai tín hiệu quen thuộc để tự quan sát là **màu nước tiểu nhạt** và cảm giác không bị khô miệng, mệt lả. Trường hợp mẹ có bệnh lý cần kiểm soát lượng nước đưa vào cơ thể, hãy làm theo hướng dẫn của bác sĩ thay vì áp dụng con số chung.
 
@@ -132,7 +132,11 @@ Một số gợi ý quen thuộc, dễ tìm:
 
 Điểm cộng của nhóm đạm thực vật là thường đi kèm chất xơ và ít gây cảm giác nặng bụng, nên khá hợp với những ngày mẹ ăn thành nhiều bữa nhỏ. Mẹ có thể **xen kẽ đạm thực vật với các nguồn đạm khác** để bữa ăn đa dạng, thay vì loại bỏ hẳn một nhóm nào.
 
-Với những buổi sáng vội hoặc lúc đêm khuya cần một bữa phụ nhanh, một ly **đạm thực vật pha sẵn** có thể là cách tiện lợi để bổ sung dưỡng chất mà không phải đứng bếp lâu. Đây chỉ là một gợi ý hỗ trợ lối sống, không thay thế bữa ăn chính đa dạng và càng không thay thế việc thăm khám khi mẹ có nhu cầu dinh dưỡng đặc biệt. Nếu mẹ đang phân vân giữa các nguồn đạm, bài [ăn chay đủ chất và cân bằng](an-chay-du-chat-can-bang.html) sẽ giúp mẹ sắp xếp thực đơn hợp lý hơn.
+Với những buổi sáng vội hoặc lúc đêm khuya cần một bữa phụ nhanh, một ly **đạm thực vật pha sẵn** có thể là cách tiện lợi để bổ sung dưỡng chất mà không phải đứng bếp lâu. Đây chỉ là một gợi ý hỗ trợ lối sống, không thay thế bữa ăn chính đa dạng và càng không thay thế việc thăm khám khi mẹ có nhu cầu dinh dưỡng đặc biệt. Vì mọi thứ mẹ ăn uống trong giai đoạn cho con bú đều liên quan đến bé, trước khi thêm bất kỳ sản phẩm bổ sung nào vào thực đơn, mẹ nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng. Nếu mẹ đang phân vân giữa các nguồn đạm, bài [ăn chay đủ chất và cân bằng](an-chay-du-chat-can-bang.html) sẽ giúp mẹ sắp xếp thực đơn hợp lý hơn.
+
+:::case Chị P. (Hải Dương) — học cách xếp mình vào danh sách ưu tiên
+Chị P., 29 tuổi, nhân viên ngân hàng đang nghỉ thai sản với bé đầu lòng, chia sẻ trong cộng đồng chăm sóc sức khoẻ chủ động của IKI rằng tháng đầu sau sinh chị gần như quên mất bản thân: có hôm đến ba giờ chiều mới nhớ ra mình chưa ăn trưa, tóc chưa kịp chải, còn điện thoại thì đầy những ghi chú về cữ bú của con. Bước ngoặt đến từ một việc rất nhỏ do mẹ đẻ chị gợi ý: đặt một bình nước một lít và một hộp hạt ngay cạnh ghế cho con bú, để cứ ngồi xuống là với tay tới được. Rồi chị nhờ chồng nhận ca trông con từ tám giờ đến mười giờ tối để chị được ngủ trước một giấc liền mạch. Mỗi chiều, khi bé ngủ, chị đi bộ chậm mươi phút quanh sân, coi đó là "cuộc hẹn với chính mình". Việc nhà chị hạ tiêu chuẩn xuống mức "gọn vừa đủ", quần áo gấp sau cũng được. Trước khi thêm bất cứ món gì mới vào thực đơn, kể cả trà hay sản phẩm bổ sung, chị đều hỏi bác sĩ ở lần tái khám. Sau vài tuần giữ nếp này, chị kể điều thay đổi rõ nhất là tâm trạng: chị bớt cáu với chồng, bớt tủi thân lúc nửa đêm, và bắt đầu thấy hành trình làm mẹ dễ thở hơn. (Đây là trải nghiệm cá nhân về sắp xếp sinh hoạt sau sinh, đã được ẩn danh, mang tính tham khảo; không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào, và mỗi mẹ có một hoàn cảnh khác nhau.)
+:::
 
 ## Khi nào mẹ nên chủ động đi khám
 
@@ -151,7 +155,7 @@ Chăm sóc chủ động không có nghĩa là tự xoay xở với mọi thứ.
 
 Không có người mẹ nào là hoàn hảo, và cũng không có một công thức chung nào đúng cho tất cả. Điều mẹ có thể làm mỗi ngày rất giản dị: **ăn đủ, uống đủ, nghỉ khi có thể, cử động nhẹ nhàng và cho phép mình được chăm sóc**. Từng bước nhỏ ấy, gộp lại qua thời gian, chính là cách mẹ xây nền tảng vững vàng để đồng hành cùng con.
 
-Hãy đối xử với bản thân bằng sự dịu dàng mà mẹ vẫn dành cho em bé. Cơ thể mẹ đã làm được điều phi thường, và nó xứng đáng được nghỉ ngơi, được nuôi dưỡng đúng cách, được thời gian để trở lại nhịp của mình.
+Hãy đối xử với bản thân bằng sự dịu dàng mà mẹ vẫn dành cho em bé. Cơ thể mẹ vừa đi qua một hành trình lớn, và nó xứng đáng được nghỉ ngơi, được nuôi dưỡng đúng cách, được thời gian để trở lại nhịp của mình.
 
 ---
 

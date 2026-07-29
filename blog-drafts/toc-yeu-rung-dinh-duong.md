@@ -88,7 +88,7 @@ Sắt tham gia vận chuyển oxy tới nang tóc, còn kẽm hỗ trợ quá tr
 
 ### Vitamin nhóm B
 
-Nhóm vitamin B, đặc biệt là biotin (B7), thường được nhắc đến trong câu chuyện chăm tóc. Biotin tham gia vào quá trình chuyển hoá và tạo keratin. Tin vui là biotin có mặt trong nhiều thực phẩm quen thuộc như trứng, các loại hạt, ngũ cốc nguyên cám, khoai lang, nên tình trạng thiếu hụt nặng khá hiếm ở người ăn uống cân bằng. Các vitamin B khác cũng góp phần vào việc nuôi dưỡng nang tóc và duy trì năng lượng cho các tế bào hoạt động mạnh.
+Nhóm vitamin B, đặc biệt là biotin (B7), thường được nhắc đến trong câu chuyện chăm tóc. Biotin góp mặt trong quá trình cơ thể tạo keratin cho sợi tóc. Tin vui là biotin có mặt trong nhiều thực phẩm quen thuộc như trứng, các loại hạt, ngũ cốc nguyên cám, khoai lang, nên tình trạng thiếu hụt nặng khá hiếm ở người ăn uống cân bằng. Các vitamin B khác cũng góp phần vào việc nuôi dưỡng nang tóc và duy trì năng lượng cho các tế bào hoạt động mạnh.
 
 ### Chất béo tốt và omega-3
 
@@ -153,7 +153,7 @@ Xoay quanh chuyện chăm tóc từ bên trong có không ít quan niệm chưa 
 **"Thực phẩm bổ sung cho tóc là bắt buộc."** Với người ăn cân bằng, phần lớn dưỡng chất cho tóc có thể lấy từ thức ăn. Thực phẩm bổ sung chỉ nên là phương án khi có thiếu hụt cụ thể, và tốt nhất dùng theo tư vấn của bác sĩ.
 
 :::case Chị H. (Hải Phòng) và một hộp hạt cho bữa xế
-Chị H., một thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng chị vốn hay bỏ bữa và ăn uống thất thường vì công việc bận rộn, bữa phụ thường là bánh ngọt cho nhanh. Sau khi tìm hiểu về việc chăm sóc cơ thể từ dinh dưỡng, chị điều chỉnh dần: bữa sáng cố gắng có một quả trứng, bữa xế đổi sang một hộp nhỏ mix hạt bí, óc chó và hạnh nhân, tăng thêm rau xanh trong các bữa và ngủ sớm hơn. Sau một thời gian giữ nếp này, điều chị thấy rõ nhất không phải là một thay đổi thần kỳ nào, mà là cảm giác cơ thể nhẹ nhõm hơn, ăn uống có nề nếp hơn và bản thân bớt lo lắng vặt về chuyện chăm sóc mình. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
+Chị H., 38 tuổi, phụ trách hành chính nhân sự cho một doanh nghiệp ở Hải Phòng và là thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng chị vốn hay bỏ bữa và ăn uống thất thường: sáng thường chỉ kịp một chiếc bánh mì ăn dở trên xe, trưa ăn qua loa theo lịch họp, bữa phụ là bánh ngọt để sẵn trong ngăn kéo cho nhanh. Chị để ý mái tóc mỏng dần theo những mùa bận, nhưng phản xạ đầu tiên vẫn là đổi dầu gội hết loại này sang loại khác. Sau khi tìm hiểu về việc chăm sóc cơ thể từ dinh dưỡng, chị mới nhận ra mình chăm phần ngọn mà quên phần gốc, và bắt đầu điều chỉnh dần. Bữa sáng chị cố gắng có một quả trứng luộc chuẩn bị từ tối hôm trước; bữa xế đổi sang một hộp nhỏ mix hạt bí, óc chó và hạnh nhân chị chia sẵn cho cả tuần vào tối Chủ nhật; các bữa chính thêm một đĩa rau xanh đậm. Chị cũng tập ngủ sớm hơn và bớt mang việc về nhà. Sau một thời gian giữ nếp này, điều chị thấy rõ nhất không phải là một thay đổi lớn lao nào, mà là cảm giác cơ thể nhẹ nhõm hơn, ăn uống có nề nếp hơn và bản thân bớt lo lắng vặt về chuyện chăm sóc mình. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết

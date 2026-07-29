@@ -65,11 +65,11 @@ Nhưng quanh chuyện ăn hạt cũng có không ít băn khoăn rất thật: �
 
 Gọi hạt là "siêu thực phẩm nhỏ" không phải nói quá. Trong một khối lượng rất khiêm tốn, hạt tập trung nhiều nhóm dưỡng chất mà chế độ ăn hiện đại của nhiều người đang thiếu.
 
-Trước hết là **chất béo tốt**. Phần lớn năng lượng trong hạt đến từ chất béo không bão hòa, gồm cả nhóm omega-3 thực vật có trong óc chó, hạt lanh, hạt chia. Đây là loại chất béo được các khuyến nghị dinh dưỡng đánh giá cao hơn so với chất béo bão hòa và chất béo chuyển hóa thường gặp trong đồ chiên rán, bánh kẹo công nghiệp.
+Trước hết là **chất béo tốt**. Phần lớn năng lượng trong hạt đến từ chất béo không bão hòa, gồm cả nhóm omega-3 thực vật có trong óc chó, hạt lanh, hạt chia. Đây là loại chất béo được các khuyến nghị dinh dưỡng đánh giá cao hơn so với chất béo bão hòa và chất béo trans thường gặp trong đồ chiên rán, bánh kẹo công nghiệp.
 
 Thứ hai là **đạm thực vật và chất xơ**. Hạt là nguồn đạm gọn nhẹ cho người ăn chay hoặc người muốn đa dạng nguồn đạm. Chất xơ trong hạt góp phần tạo cảm giác no và hỗ trợ tiêu hóa hoạt động đều đặn hơn.
 
-Thứ ba là **vitamin và khoáng chất**. Nhiều loại hạt giàu vitamin E, magie, kẽm, đồng, mangan, phốt pho và một lượng sắt thực vật. Vitamin E là chất chống oxy hóa, còn magie tham gia vào rất nhiều quá trình của cơ thể, từ hoạt động cơ bắp đến chuyển hóa năng lượng.
+Thứ ba là **vitamin và khoáng chất**. Nhiều loại hạt giàu vitamin E, magie, kẽm, đồng, mangan, phốt pho và một lượng sắt thực vật. Vitamin E là chất chống oxy hóa, còn magie tham gia vào rất nhiều quá trình của cơ thể, từ hoạt động cơ bắp đến việc tạo năng lượng cho tế bào.
 
 Cuối cùng, hạt còn chứa các **hợp chất thực vật có lợi** như polyphenol, phytosterol. Những chất này góp phần vào một chế độ ăn cân bằng theo hướng chăm sóc sức khỏe chủ động.
 
@@ -91,21 +91,19 @@ Mỗi loại hạt có một "thế mạnh" riêng. Bạn không cần ăn đủ
 
 Danh sách còn có thể kéo dài với hạt thông, hạt phỉ, hạt gai dầu... Ý tưởng chung là: mỗi loại một thế mạnh, ăn luân phiên sẽ tự nhiên phong phú hơn là chỉ trung thành một loại.
 
-Để bạn dễ nhớ, đây là bảng tóm tắt "thế mạnh" của từng loại hạt phổ biến. Bạn có thể dựa vào đó để phối một hũ mix cân đối, thay vì chọn theo cảm tính:
+Để bạn dễ nhớ khi phối một hũ mix cân đối, có thể tóm gọn "thế mạnh" và cách dùng hợp nhất của từng loại như sau:
 
-| Loại hạt | Điểm mạnh nổi bật | Hợp dùng thế nào |
-|---|---|---|
-| Hạnh nhân | Vitamin E, magie, chất xơ, đạm | Ăn vặt, rắc sữa chua/ngũ cốc |
-| Óc chó | Omega-3 thực vật (ALA) | Bữa phụ, trộn salad, cháo yến mạch |
-| Hạt điều | Đồng, magie, kẽm, vị béo dễ ăn | Ăn vặt (để ý khẩu phần), món xào |
-| Hạt bí | Kẽm, magie, sắt thực vật, giàu đạm | Rắc salad, ăn giòn, trộn cơm |
-| Hạt hướng dương | Vitamin E, bình dân dễ mua | Ăn vặt, rắc món trộn |
-| Hạt chia | Chất xơ, omega-3, tạo gel khi gặp nước | Pha nước, sữa hạt, sữa chua |
-| Hạt lanh (xay) | Omega-3, chất xơ | Rắc cháo, trộn bột bánh, sinh tố |
-| Hạt dẻ cười | Đạm, kali, chất chống oxy hóa | Ăn vặt, tự tách vỏ ăn chậm |
-| Hạt mắc ca | Chất béo không bão hòa đơn, béo ngậy | Vài hạt là đủ, ăn vặt cao cấp |
+- **Hạnh nhân** — vitamin E, magie, chất xơ, đạm; hợp ăn vặt, rắc sữa chua và ngũ cốc.
+- **Óc chó** — omega-3 thực vật (ALA); hợp bữa phụ, trộn salad, cháo yến mạch.
+- **Hạt điều** — đồng, magie, kẽm, vị béo dễ ăn; hợp ăn vặt (để ý khẩu phần) và món xào.
+- **Hạt bí** — kẽm, magie, sắt thực vật, giàu đạm; hợp rắc salad, ăn giòn, trộn cơm.
+- **Hạt hướng dương** — vitamin E, bình dân dễ mua; hợp ăn vặt, rắc món trộn.
+- **Hạt chia** — chất xơ, omega-3, tạo gel khi gặp nước; hợp pha nước, sữa hạt, sữa chua.
+- **Hạt lanh (xay)** — omega-3, chất xơ; hợp rắc cháo, trộn bột bánh, sinh tố.
+- **Hạt dẻ cười** — đạm, kali, chất chống oxy hóa; hợp ăn vặt, tự tách vỏ để ăn chậm.
+- **Hạt mắc ca** — chất béo không bão hòa đơn, béo ngậy; vài hạt là đủ cho một lần ăn vặt.
 
-Bảng này chỉ để tham khảo tương đối; không loại nào "toàn năng" và cũng không loại nào là bắt buộc. Cứ chọn vài loại hợp túi tiền và khẩu vị, rồi đổi qua đổi lại là bữa ăn đã đủ phong phú.
+Danh sách này chỉ để tham khảo tương đối; không loại nào "toàn năng" và cũng không loại nào là bắt buộc. Cứ chọn vài loại hợp túi tiền và khẩu vị, rồi đổi qua đổi lại là bữa ăn đã đủ phong phú.
 
 > Một mẹo nhỏ: trộn sẵn một hũ "mix" gồm 3-4 loại hạt yêu thích. Mỗi sáng bốc một nắm cho vào hộp mang theo, vừa tiện vừa đa dạng.
 
@@ -125,15 +123,13 @@ Cần nói thẳng: những điểm cộng này đến từ **thói quen ăn u�
 
 Đây là câu hỏi được hỏi nhiều nhất, và câu trả lời đơn giản hơn bạn tưởng.
 
-**Về lượng:** một nắm nhỏ khoảng **20-30g mỗi ngày** là mức thường được xem là hợp lý cho người trưởng thành khỏe mạnh. Để dễ hình dung:
+**Về lượng:** một nắm nhỏ khoảng **20-30g mỗi ngày** là mức thường được xem là hợp lý cho người trưởng thành khỏe mạnh. Để dễ hình dung, một khẩu phần khoảng 28-30g tương đương:
 
-| Loại hạt | Một khẩu phần ~28-30g |
-|---|---|
-| Hạnh nhân | khoảng 20-25 hạt |
-| Óc chó | khoảng 5-7 quả (đã tách) |
-| Hạt điều | khoảng 16-18 hạt |
-| Hạt bí | khoảng 2 thìa canh |
-| Hạt chia | khoảng 2 thìa canh |
+- **Hạnh nhân:** khoảng 20-25 hạt.
+- **Óc chó:** khoảng 5-7 quả (đã tách vỏ).
+- **Hạt điều:** khoảng 16-18 hạt.
+- **Hạt bí:** khoảng 2 thìa canh.
+- **Hạt chia:** khoảng 2 thìa canh.
 
 Hạt giàu năng lượng, nên "nhiều hơn" không đồng nghĩa với "tốt hơn". Cách dễ nhất để không ăn quá đà là **lấy sẵn một phần ra chén nhỏ** rồi cất túi đi, thay vì vừa làm việc vừa bốc trực tiếp từ túi lớn, ăn lúc nào không hay.
 
@@ -207,12 +203,12 @@ Có vài quan niệm phổ biến khiến nhiều người ngần ngại ăn h�
 
 **"Muối, mật ong phủ ngoài cho ngon miệng thì vô hại."** Lớp phủ này là nơi âm thầm thêm vào nhiều natri và đường. Nếu thích vị đậm đà, hãy tự rang nhẹ ở nhà và nêm rất ít, bạn kiểm soát được nhiều hơn.
 
-:::case Chị M. (38 tuổi) đổi bữa xế bằng một hộp hạt
-Chị M., nhân viên văn phòng, chia sẻ rằng trước đây buổi chiều chị hay ghé máy bán hàng tự động mua bánh ngọt cho đỡ đói, xong lại nhanh mệt và uể oải. Sau khi nghe tư vấn dinh dưỡng chung, chị đổi thói quen: mỗi sáng chuẩn bị một hộp nhỏ mix hạnh nhân, hạt bí và vài quả óc chó mang theo, chiều ăn một nắm cùng ly nước. Chị nói mình thấy dễ chịu hơn khi bữa xế nhẹ nhàng mà vẫn đỡ đói, và bữa tối cũng bớt ăn vội. (Đây là chia sẻ cá nhân về thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải là cam kết về bất kỳ kết quả sức khỏe nào cho mọi người.)
+:::case Chị Diệp (38 tuổi, giáo viên tiểu học, Biên Hoà) — đổi bữa xế bằng một hộp hạt
+Chị Diệp, 38 tuổi, dạy tiểu học ở Biên Hoà, mỗi ngày đứng lớp gần như liên tục từ sáng tới chiều. Chị chia sẻ rằng trước đây cứ tan tiết ba là chị ghé căng tin mua bánh ngọt cho đỡ đói, ăn xong tỉnh được một lúc rồi lại nhanh mệt và uể oải, tiết cuối giọng nói cũng đuối hẳn. Có tuần chị nhẩm tính tiền bánh kẹo vặt còn nhiều hơn tiền ăn sáng. Sau khi nghe tư vấn dinh dưỡng chung, chị đổi thói quen: tối Chủ nhật trộn sẵn một hũ mix hạnh nhân, hạt bí và óc chó, mỗi sáng san một hộp nhỏ bỏ vào cặp giáo án mang theo, chiều ăn một nắm cùng ly nước. Ban đầu chị vẫn thấy "thiêu thiếu" vị ngọt, nên kèm thêm một quả chuối mua ở chợ cổng trường. Khoảng ba tuần sau, cơn thèm bánh ngọt giữa chiều thưa dần lúc nào không hay. Vài cô giáo cùng tổ thấy vậy cũng nhờ chị trộn hộ, giờ phòng hội đồng có hẳn một "góc hạt" chung. Chị nói mình thấy dễ chịu hơn khi bữa xế nhẹ nhàng mà vẫn đỡ đói, và bữa tối cũng bớt ăn vội. (Đây là chia sẻ cá nhân về thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải là cam kết về bất kỳ kết quả sức khỏe nào cho mọi người.)
 :::
 
-:::case Cô H. (Hải Phòng) và hũ hạt bí "rẻ tiền"
-Cô H., một thành viên lớn tuổi trong cộng đồng, kể rằng cô từng nghĩ mấy loại hạt bổ dưỡng "chắc phải đắt tiền lắm", nên ngại mua. Đến khi được gợi ý bắt đầu từ những loại bình dân như hạt bí, hạt hướng dương, mè, cô mới thấy chỉ một hũ nhỏ mua ngoài chợ đã dùng được cả tuần. Cô tập thói quen mỗi sáng rắc một thìa hạt bí lên bát cháo hoặc đĩa rau luộc, và thi thoảng nhâm nhi một nắm khi xem tivi buổi tối thay cho bánh kẹo. Cô chia sẻ rằng điều cô thích không phải là "món gì thần kỳ", mà là cảm giác bữa ăn đầy đặn, ngon miệng hơn mà lại giản dị, hợp túi tiền. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, mang tính tham khảo, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
+:::case Cô Sáu (62 tuổi, bán tạp hoá, Cần Thơ) — hũ hạt bí "rẻ tiền" mà bền
+Cô Sáu, 62 tuổi, bán tạp hoá tại nhà ở Cần Thơ, cả ngày quanh quẩn bên quầy hàng nên bữa ăn thường tranh thủ và hay nhón bánh kẹo ngay trên kệ mình bán. Cô kể rằng mình từng nghĩ mấy loại hạt bổ dưỡng "chắc phải đắt tiền lắm", thấy con gái mua hộp hạt nhập khẩu mấy trăm nghìn là cô lắc đầu ngại. Đến khi được con gái gợi ý bắt đầu từ những loại bình dân như hạt bí, hạt hướng dương, mè, cô mới thấy chỉ một hũ nhỏ mua ngoài chợ đã dùng được cả tuần, tiền chưa bằng hai gói bánh. Cô tập thói quen mỗi sáng rắc một thìa hạt bí lên bát cháo hoặc đĩa rau luộc, và thi thoảng nhâm nhi một nắm khi xem cải lương buổi tối thay cho bánh kẹo. Thời gian đầu cô hay quên, nên để hẳn hũ hạt cạnh bình trà — chỗ ngày nào cũng đụng tay vào. Mấy bà bạn sang chơi thấy lạ, giờ cũng học theo, có người còn mang mè rang qua đổi hạt bí của cô. Cô chia sẻ rằng điều cô thích không phải là "món gì ghê gớm", mà là cảm giác bữa ăn đầy đặn, ngon miệng hơn mà lại giản dị, hợp túi tiền. Với cô, món quà lớn nhất là bớt được thói quen nhón kẹo bán hàng đã theo mình mấy chục năm. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, mang tính tham khảo, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 
 ## Kết

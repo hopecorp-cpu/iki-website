@@ -81,19 +81,17 @@ Bên cạnh bộ ba gừng – nghệ – sả, bếp Việt còn nhiều gia v�
 
 Mỗi gia vị một vai trò, phối hợp khéo léo sẽ làm bữa cơm vừa ngon vừa hài hoà. Bí quyết không nằm ở việc dùng thật nhiều loại, mà ở việc dùng đúng loại, đúng lượng, đúng lúc.
 
-## Bảng gợi ý: dùng gia vị nào cho món nào
+## Gợi ý nhanh: dùng gia vị nào cho món nào
 
-Để dễ hình dung, đây là bảng tham khảo nhanh cho những căn bếp bận rộn. Bảng chỉ mang tính gợi ý theo kinh nghiệm nấu ăn, bạn hoàn toàn có thể linh hoạt theo khẩu vị gia đình:
+Để dễ hình dung, đây là gợi ý tham khảo nhanh cho những căn bếp bận rộn, theo kinh nghiệm nấu ăn — bạn hoàn toàn có thể linh hoạt theo khẩu vị gia đình:
 
-| Gia vị | Hợp với món | Thời điểm cho vào | Mẹo nhỏ |
-|---|---|---|---|
-| Gừng | Canh, cá hấp, thịt kho, trà ấm | Từ đầu để thấm; trà thì hãm 5–7 phút | Đập dập cho hương mạnh; để vỏ khi nấu canh |
-| Nghệ | Cá kho, cà ri, món rang, đồ xào | Ướp từ đầu, phi cùng dầu | Kết hợp chất béo để lên màu đẹp |
-| Sả | Nướng, kho, lẩu, nước uống | Ướp từ đầu; đập dập cho vào nồi | Dùng gốc trắng; băm xong dùng ngay |
-| Tỏi | Xào, ướp, nước chấm | Phi đầu tiên, lửa vừa | Đừng để cháy kẻo đắng |
-| Hành lá | Canh, cháo, món rắc | Cho vào cuối, sau khi tắt bếp | Giữ màu xanh và mùi tươi |
-| Tiêu | Món mặn, súp, đồ ướp | Rắc cuối cùng | Xay tại chỗ thơm hơn |
-| Quế | Kho, nước phở, đồ uống ấm | Cho từ đầu khi ninh | Dùng ít, một thanh nhỏ là đủ |
+- **Gừng** — hợp với canh, cá hấp, thịt kho, trà ấm. Cho từ đầu để thấm; pha trà thì hãm 5–7 phút. Mẹo: đập dập cho hương mạnh, để vỏ khi nấu canh.
+- **Nghệ** — hợp với cá kho, cà ri, món rang, đồ xào. Ướp từ đầu, phi cùng dầu. Mẹo: kết hợp chất béo để lên màu đẹp.
+- **Sả** — hợp với món nướng, kho, lẩu, nước uống. Ướp từ đầu hoặc đập dập cho vào nồi. Mẹo: dùng gốc trắng, băm xong dùng ngay.
+- **Tỏi** — hợp với món xào, đồ ướp, nước chấm. Phi đầu tiên, lửa vừa. Mẹo: đừng để cháy kẻo đắng.
+- **Hành lá** — hợp với canh, cháo, món rắc. Cho vào cuối, sau khi tắt bếp. Mẹo: giữ màu xanh và mùi tươi.
+- **Tiêu** — hợp với món mặn, súp, đồ ướp. Rắc cuối cùng. Mẹo: xay tại chỗ thơm hơn.
+- **Quế** — hợp với món kho, nước phở, đồ uống ấm. Cho từ đầu khi ninh. Mẹo: dùng ít, một thanh nhỏ là đủ.
 
 ## Cách dùng gia vị hợp lý
 
@@ -115,14 +113,12 @@ Kinh nghiệm cân bằng là: ưu tiên gia vị tươi tự nhiên làm nền 
 
 Một trong những nét tinh tế của bếp Việt là biết đổi gia vị theo mùa và theo người ăn. Cùng một món, mùa đông có thể nghiêng về gia vị ấm, mùa hè lại thanh nhẹ hơn. Điều này gắn liền với cách nhìn về [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) — mỗi người có một xu hướng cơ địa riêng, và gia vị là cách điều chỉnh nhẹ nhàng cho hợp.
 
-Bảng dưới đây là gợi ý theo kinh nghiệm dân gian, không phải quy tắc cứng. Hãy xem như điểm khởi đầu để bạn quan sát và điều chỉnh theo cảm nhận của chính mình:
+Dưới đây là gợi ý theo kinh nghiệm dân gian, không phải quy tắc cứng. Hãy xem như điểm khởi đầu để bạn quan sát và điều chỉnh theo cảm nhận của chính mình:
 
-| Xu hướng cơ thể / mùa | Gia vị nên nghiêng về | Nên tiết chế | Ghi chú |
-|---|---|---|---|
-| Hay lạnh bụng, lạnh tay chân | Gừng, sả, quế, tỏi, tiêu (vừa phải) | Đồ sống lạnh, quá nhiều rau sống | Ưu tiên món nấu ấm, chín kỹ |
-| Hay nóng trong, dễ bứt rứt | Rau thơm mát, chanh, một chút gừng khử tanh | Dùng dồn dập đồ cay nóng, nướng cháy | Thêm canh rau, cách nấu luộc/hấp |
-| Ngày đông, trời lạnh | Gừng, quế, sả, hành, tiêu | — | Món hầm, kho, canh gừng ấm bụng |
-| Ngày hè, oi nóng | Rau thơm, chanh, sả pha nước mát | Quá nhiều đồ cay nóng | Nghiêng về món thanh, nhiều rau |
+- **Hay lạnh bụng, lạnh tay chân:** nghiêng về gừng, sả, quế, tỏi, tiêu (vừa phải); tiết chế đồ sống lạnh và quá nhiều rau sống; ưu tiên món nấu ấm, chín kỹ.
+- **Hay nóng trong, dễ bứt rứt:** nghiêng về rau thơm mát, chanh, một chút gừng khử tanh; tiết chế việc dùng dồn dập đồ cay nóng, đồ nướng cháy; thêm canh rau và cách nấu luộc, hấp.
+- **Ngày đông, trời lạnh:** nghiêng về gừng, quế, sả, hành, tiêu; hợp với món hầm, kho, canh gừng ấm bụng.
+- **Ngày hè, oi nóng:** nghiêng về rau thơm, chanh, sả pha nước mát; tiết chế đồ cay nóng; nghiêng về món thanh, nhiều rau.
 
 Tinh thần chung không phải là "kiêng" hay "phải ăn", mà là **lắng nghe cơ thể**. Nếu một món khiến bạn thấy dễ chịu, ấm bụng, ngon miệng — đó là dấu hiệu tốt. Nếu một gia vị khiến bạn nóng bứt rứt hay khó chịu, hãy giảm bớt. Bạn có thể tìm hiểu sâu hơn về cách phối món theo nóng – mát trong bài [minh triết ăn uống phương Đông](minh-triet-an-uong-am-duong.html).
 
@@ -146,12 +142,12 @@ Dù quen thuộc và lành trong nấu ăn, bạn vẫn nên nhớ:
 - Lắng nghe cơ thể: nếu một gia vị khiến bạn khó chịu, hãy điều chỉnh cho phù hợp. Cơ thể mỗi người phản ứng khác nhau với gia vị cay nóng.
 - Đa dạng là tốt: đừng chỉ dựa vào một hai loại. Luân phiên các gia vị trong tuần vừa đỡ ngán, vừa làm bữa ăn phong phú hơn.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Một thành viên trong cộng đồng chia sẻ rằng từ khi để ý dùng gia vị Việt một cách có chủ ý hơn — thêm lát gừng vào bát canh ngày lạnh, ướp sả cho món nướng cuối tuần, dùng nghệ cho món cá kho — bữa cơm gia đình chị trở nên thơm ngon và ấm cúng hơn hẳn. Điều chị thích không chỉ là hương vị, mà là cảm giác kết nối với căn bếp và thói quen nấu nướng của bà, của mẹ. *(Đây là trải nghiệm cá nhân về thói quen nấu ăn, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)*
+:::case Chị D. — học lại giỏ gia vị của mẹ sau nhiều năm nấu vội
+Chị D., 34 tuổi, làm kế toán, kể rằng nhiều năm đi làm chị nấu ăn kiểu "cho nhanh": mọi món đều trông cậy vào bột nêm và nước sốt pha sẵn, giỏ gia vị tươi trong bếp gần như chỉ có hành khô. Một lần về quê, đứng xem mẹ đập gừng, bóc sả cho nồi cá kho, chị chợt nhận ra bếp nhà mình thiếu hẳn thứ mùi thơm ấy. Chị bắt đầu tập lại từ những việc rất nhỏ: cuối tuần mua sẵn gừng, sả, nghệ tươi, băm và chia hộp nhỏ cấp đông để ngày bận chỉ việc lấy ra. Ngày lạnh chị thả vài lát gừng vào bát canh, cuối tuần ướp sả cho món nướng, món cá kho thì thêm chút nghệ như cách mẹ vẫn làm. Chị cũng tập nêm nhạt lại, để phần "thơm" cho gia vị tươi gánh thay vì dựa cả vào bột nêm. Vài tháng sau, chị kể bữa cơm nhà thơm và ấm cúng hơn hẳn, hai đứa nhỏ bắt đầu nhận ra "mùi món bà ngoại nấu". Với chị, điều quý nhất không chỉ là hương vị, mà là cảm giác được kết nối lại với căn bếp và thói quen nấu nướng của bà, của mẹ. *(Đây là trải nghiệm cá nhân về thói quen nấu ăn, không phải lời khuyên y khoa và cảm nhận có thể khác nhau ở mỗi người.)*
 :::
 
 :::case Thói quen tách trà gừng ấm buổi sáng của cô H. (Hải Phòng)
-Cô H., một người nội trợ ở Hải Phòng, kể rằng những ngày trở gió cô hay thấy tay chân lạnh và bụng không được ấm bụng như ý. Cô bắt đầu giữ một thói quen nhỏ: mỗi sáng trước khi ăn, cô hãm vài lát gừng tươi đập dập với nước nóng, chờ nguội bớt rồi thêm chút mật ong, uống chậm từng ngụm bên bậu cửa. Cô nói điều mình quý không hẳn là một thay đổi cụ thể nào trong người, mà là cảm giác dễ chịu, ấm áp khi bắt đầu ngày mới, và khoảng lặng vài phút cho riêng mình trước khi cả nhà thức giấc. Dần dần thói quen ấy trở thành một phần nếp sáng của cô. *(Đây là trải nghiệm cá nhân về thói quen ẩm thực, mang tính chia sẻ kinh nghiệm dân gian, không phải lời khuyên y khoa hay cam kết về sức khoẻ; cảm nhận có thể khác nhau ở mỗi người.)*
+Cô H., một người nội trợ ở Hải Phòng, kể rằng những ngày trở gió cô hay thấy tay chân lạnh và bụng dạ không được ấm áp như ý. Cô bắt đầu giữ một thói quen nhỏ: mỗi sáng trước khi ăn, cô hãm vài lát gừng tươi đập dập với nước nóng, chờ nguội bớt rồi thêm chút mật ong, uống chậm từng ngụm bên bậu cửa. Cô nói điều mình quý không hẳn là một thay đổi cụ thể nào trong người, mà là cảm giác dễ chịu, ấm áp khi bắt đầu ngày mới, và khoảng lặng vài phút cho riêng mình trước khi cả nhà thức giấc. Dần dần thói quen ấy trở thành một phần nếp sáng của cô. *(Đây là trải nghiệm cá nhân về thói quen ẩm thực, mang tính chia sẻ kinh nghiệm dân gian, không phải lời khuyên y khoa hay cam kết về sức khoẻ; cảm nhận có thể khác nhau ở mỗi người.)*
 :::
 
 ## Kết: gia vị là linh hồn của bữa cơm Việt

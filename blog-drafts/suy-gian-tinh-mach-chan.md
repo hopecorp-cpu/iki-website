@@ -100,11 +100,11 @@ Khi thăm khám, bác sĩ có thể chỉ định siêu âm mạch máu để đ
 
 ## Chăm sóc và phòng ngừa qua lối sống
 
-Bên cạnh việc thăm khám khi cần, một lối sống chú ý đến đôi chân có thể giúp giảm bớt cảm giác khó chịu hằng ngày và hạn chế các yếu tố khiến máu ứ đọng. Những gợi ý dưới đây là thói quen chăm sóc chung, không phải cách xử trí thay cho tư vấn của bác sĩ.
+Bên cạnh việc thăm khám khi cần, một lối sống chú ý đến đôi chân có thể hỗ trợ hạn chế các yếu tố khiến máu ứ đọng, đồng hành cùng việc theo dõi của bác sĩ. Những gợi ý dưới đây là thói quen chăm sóc chung, không phải cách xử trí thay cho tư vấn của bác sĩ.
 
 **Vận động đều và tránh giữ nguyên một tư thế quá lâu.** Cơ bắp chân chính là chiếc bơm tự nhiên đẩy máu về tim. Nếu công việc buộc bạn đứng hoặc ngồi nhiều, hãy tranh thủ đứng dậy đi lại vài phút mỗi giờ, nhón gót chân lên xuống tại chỗ, hoặc xoay cổ chân. Đi bộ nhẹ nhàng mỗi ngày là một trong những thói quen được khuyến khích rộng rãi cho sức khỏe tĩnh mạch.
 
-**Kê cao chân khi nghỉ.** Vào cuối ngày, nằm và kê hai chân cao hơn mức tim khoảng mười lăm đến hai mươi phút giúp máu về tim dễ hơn và giảm cảm giác nặng chân. Nhiều người thấy dễ chịu khi làm điều này trước khi ngủ.
+**Kê cao chân khi nghỉ.** Vào cuối ngày, nằm và kê hai chân cao hơn mức tim khoảng mười lăm đến hai mươi phút giúp máu về tim thuận lợi hơn. Nhiều người thấy đôi chân dễ chịu khi làm điều này trước khi ngủ.
 
 **Chú ý cân nặng và trang phục.** Duy trì cân nặng hợp lý giúp giảm áp lực lên hệ tĩnh mạch. Hạn chế mặc quần áo quá bó vùng eo, bẹn và đùi, cũng như đi giày cao gót liên tục trong thời gian dài.
 

@@ -11,23 +11,23 @@
   "hero_local": "assets/blog/lo-trinh-nguoi-trung-nien-hero.jpg",
   "hero_alt": "Người trung niên chuẩn bị bữa ăn cân bằng và đi bộ nhẹ nhàng trong buổi sáng",
   "reading_min": 15,
-  "answer": "Tuổi 35–55 là giai đoạn cơ thể chuyển hoá chậm lại và nội tiết thay đổi, nên cách chăm sóc cần chuyển từ bị động sang chủ động. Lộ trình gồm sáu chặng: điều chỉnh dinh dưỡng theo nhịp chuyển hoá mới, duy trì vận động đều đặn vừa sức, coi trọng giấc ngủ, quản lý căng thẳng, hiểu thể tạng của mình, và biến việc khám sức khoẻ định kỳ thành thói quen. Điều quan trọng không phải làm thật nhiều một lúc, mà là giữ đều những thói quen nhỏ trong nhiều năm.",
+  "answer": "Tuổi 35–55 là giai đoạn cơ thể trao đổi chất chậm lại và nội tiết thay đổi, nên cách chăm sóc cần chuyển từ bị động sang chủ động. Lộ trình gồm sáu chặng: điều chỉnh dinh dưỡng theo nhịp trao đổi chất mới, duy trì vận động đều đặn vừa sức, coi trọng giấc ngủ, quản lý căng thẳng, hiểu thể tạng của mình, và biến việc khám sức khoẻ định kỳ thành thói quen. Điều quan trọng không phải làm thật nhiều một lúc, mà là giữ đều những thói quen nhỏ trong nhiều năm.",
   "journey": [
-    {"title":"Chặng 1 — Hiểu điều đang thay đổi ở tuổi trung niên","note":"Nhận ra chuyển hoá chậm hơn và nội tiết đổi nhịp là chuyện tự nhiên, để chăm sóc đúng thay vì lo lắng."},
-    {"title":"Chặng 2 — Cân bằng dinh dưỡng khi chuyển hoá chậm lại","note":"Ăn đủ đạm, nhiều rau, giảm đường tinh luyện và ăn điều độ theo nhu cầu mới của cơ thể."},
+    {"title":"Chặng 1 — Hiểu điều đang thay đổi ở tuổi trung niên","note":"Nhận ra trao đổi chất chậm hơn và nội tiết đổi nhịp là chuyện tự nhiên, để chăm sóc đúng thay vì lo lắng."},
+    {"title":"Chặng 2 — Cân bằng dinh dưỡng khi trao đổi chất chậm lại","note":"Ăn đủ đạm, nhiều rau, giảm đường tinh luyện và ăn điều độ theo nhu cầu mới của cơ thể."},
     {"title":"Chặng 3 — Vận động duy trì, không cần cực đoan","note":"Kết hợp đi bộ, bài tập sức mạnh nhẹ và giãn cơ đều đặn để giữ khối cơ và sự dẻo dai."},
     {"title":"Chặng 4 — Giấc ngủ và quản lý căng thẳng","note":"Coi giấc ngủ sâu và tinh thần thư thái là nền tảng, không phải thứ xa xỉ."},
     {"title":"Chặng 5 — Hiểu thể tạng và lắng nghe cơ thể","note":"Biết mình thuộc kiểu cơ thể nào để chọn thực phẩm và nhịp sống phù hợp."},
     {"title":"Chặng 6 — Khám sức khoẻ định kỳ như một thói quen chủ động","note":"Đưa việc kiểm tra sức khoẻ vào lịch hằng năm để nắm rõ tình trạng của mình."}
   ],
   "faq": [
-    {"q":"Bao nhiêu tuổi thì nên bắt đầu chăm sóc sức khoẻ chủ động?","a":"Càng sớm càng tốt, nhưng tuổi 35 trở đi là mốc đáng chú ý vì chuyển hoá bắt đầu chậm lại và cơ thể phản ứng khác với lối sống cũ. Bắt đầu ở tuổi này giúp bạn xây thói quen bền vững cho những năm sau."},
-    {"q":"Chuyển hoá chậm lại ở tuổi trung niên có nghĩa là gì?","a":"Nói đơn giản, cơ thể tiêu hao năng lượng chậm hơn thời trẻ, nên cùng một chế độ ăn cũ có thể khiến bạn cảm thấy nặng nề hơn. Điều chỉnh khẩu phần và vận động đều đặn giúp cơ thể thích nghi với nhịp mới."},
+    {"q":"Bao nhiêu tuổi thì nên bắt đầu chăm sóc sức khoẻ chủ động?","a":"Càng sớm càng tốt, nhưng tuổi 35 trở đi là mốc đáng chú ý vì trao đổi chất bắt đầu chậm lại và cơ thể phản ứng khác với lối sống cũ. Bắt đầu ở tuổi này giúp bạn xây thói quen bền vững cho những năm sau."},
+    {"q":"Trao đổi chất chậm lại ở tuổi trung niên có nghĩa là gì?","a":"Nói đơn giản, cơ thể tiêu hao năng lượng chậm hơn thời trẻ, nên cùng một chế độ ăn cũ có thể khiến bạn cảm thấy nặng nề hơn. Điều chỉnh khẩu phần và vận động đều đặn giúp cơ thể thích nghi với nhịp mới."},
     {"q":"Người trung niên nên ưu tiên loại vận động nào?","a":"Sự kết hợp đều đặn giữa đi bộ, bài tập sức mạnh vừa sức và giãn cơ thường phù hợp hơn là tập nặng dồn dập. Mục tiêu là duy trì khối cơ, sự linh hoạt và cảm giác dễ chịu trong sinh hoạt hằng ngày."},
     {"q":"Thực phẩm bổ sung có cần thiết cho người tuổi này không?","a":"Thực phẩm bổ sung chỉ đóng vai trò hỗ trợ, không thay thế bữa ăn cân bằng và lối sống lành mạnh. Nếu cân nhắc dùng, nên chọn sản phẩm phù hợp với nhu cầu cá nhân và tham khảo ý kiến chuyên gia y tế."},
     {"q":"Làm sao để giữ được thói quen chăm sóc sức khoẻ lâu dài?","a":"Bắt đầu nhỏ và giữ đều còn hơn làm nhiều rồi bỏ. Chọn một hoặc hai thay đổi dễ duy trì mỗi tuần, ghi nhận cảm giác của cơ thể, và cho phép mình linh hoạt thay vì cầu toàn."},
     {"q":"Tuổi trung niên hay mất ngủ, nên bắt đầu chỉnh từ đâu?","a":"Hãy bắt đầu từ sự đều đặn của giờ giấc: cố định giờ đi ngủ và giờ thức dậy, kể cả cuối tuần. Kế đó là giảm ánh sáng màn hình khoảng một giờ trước khi ngủ, giữ phòng mát và tối, tránh cà phê cùng bữa quá no vào tối muộn. Nếu tình trạng khó ngủ kéo dài nhiều tuần, nên trao đổi với bác sĩ."},
-    {"q":"Ăn ít đi có phải cách tốt để hợp với chuyển hoá chậm không?","a":"Không hẳn. Điều cơ thể cần ở tuổi này là ăn đúng chất hơn là ăn ít đi một cách cực đoan. Ưu tiên đủ đạm, nhiều rau và ngũ cốc nguyên hạt, giảm đường tinh luyện và đồ chế biến sẵn. Kiêng khem quá mức dễ khiến cơ thể thiếu chất và khó duy trì lâu dài."},
+    {"q":"Ăn ít đi có phải cách tốt để hợp với trao đổi chất chậm không?","a":"Không hẳn. Điều cơ thể cần ở tuổi này là ăn đúng chất hơn là ăn ít đi một cách cực đoan. Ưu tiên đủ đạm, nhiều rau và ngũ cốc nguyên hạt, giảm đường tinh luyện và đồ chế biến sẵn. Kiêng khem quá mức dễ khiến cơ thể thiếu chất và khó duy trì lâu dài."},
     {"q":"Tuổi trung niên có cần đo các chỉ số sức khoẻ định kỳ không?","a":"Nên. Việc nắm rõ các chỉ số nền tảng một cách đều đặn giúp bạn hiểu mình đang ở đâu và điều chỉnh lối sống kịp thời, thay vì chỉ kiểm tra khi cơ thể đã có dấu hiệu bất thường. Hãy chọn một thời điểm cố định trong năm để dễ nhớ và trao đổi cởi mở với chuyên gia y tế."}
   ],
   "related": [
@@ -51,7 +51,7 @@ Bài viết này chia sẻ một lộ trình sáu chặng, điềm đạm và th
 
 Bước đầu tiên luôn là hiểu. Khi biết điều gì đang diễn ra trong cơ thể, bạn sẽ bớt lo lắng và chọn được cách chăm sóc đúng.
 
-Ở tuổi trung niên, có hai thay đổi lớn thường được nhắc đến. Thứ nhất, **chuyển hoá chậm lại**: cơ thể tiêu hao năng lượng ở mức thấp hơn so với thời trẻ, một phần vì khối cơ có xu hướng giảm dần theo tuổi. Thứ hai, **nội tiết thay đổi**: cả nam và nữ đều trải qua những biến động về hormone, ảnh hưởng đến năng lượng, tâm trạng và giấc ngủ.
+Ở tuổi trung niên, có hai thay đổi lớn thường được nhắc đến. Thứ nhất, **trao đổi chất chậm lại**: cơ thể tiêu hao năng lượng ở mức thấp hơn so với thời trẻ, một phần vì khối cơ có xu hướng giảm dần theo tuổi. Thứ hai, **nội tiết thay đổi**: cả nam và nữ đều trải qua những biến động về hormone, ảnh hưởng đến năng lượng, tâm trạng và giấc ngủ.
 
 Kết quả là bạn có thể cảm thấy dễ mệt hơn, cần nhiều thời gian hồi phục hơn sau khi gắng sức, và nhạy cảm hơn với những thói quen cũ. Đây không phải là "xuống dốc", mà là cơ thể đang gửi tín hiệu rằng nó cần được đối xử khác đi.
 
@@ -63,7 +63,7 @@ Cách phản ứng lành mạnh nhất không phải là phủ nhận hay lo s�
 
 Khi đã hiểu và chấp nhận, những chặng tiếp theo sẽ trở nên nhẹ nhàng hơn nhiều.
 
-## Chặng 2 — Cân bằng dinh dưỡng khi chuyển hoá chậm lại
+## Chặng 2 — Cân bằng dinh dưỡng khi trao đổi chất chậm lại
 
 Vì cơ thể tiêu hao năng lượng chậm hơn, dinh dưỡng ở tuổi trung niên cần chú trọng vào **chất lượng** hơn là số lượng. Ý tưởng cốt lõi rất giản dị: ăn đủ chất, ăn điều độ, và ưu tiên thực phẩm gần với tự nhiên.
 
@@ -149,7 +149,7 @@ Trên hành trình chăm sóc sức khoẻ tuổi trung niên, có vài hiểu l
 Hiểu đúng ngay từ đầu giúp bạn đi đường dài mà không mất sức vào những kỳ vọng sai lệch.
 
 :::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Một thành viên trong cộng đồng chia sẻ rằng bước sang tuổi bốn mươi, chị thấy mình dễ mệt và ăn uống thất thường hơn trước. Thay vì tìm một giải pháp cấp tốc, chị chọn thay đổi từng chút: đi ngủ sớm hơn nửa tiếng, thêm rau vào mỗi bữa, và đi bộ quanh khu nhà mỗi sáng. Sau vài tháng giữ đều những thói quen nhỏ ấy, chị nói mình cảm thấy nhẹ nhõm và có nhịp sinh hoạt ổn định hơn, dù không đặt ra mục tiêu gì to tát. Điều chị tâm đắc nhất là cảm giác được chủ động chăm sóc bản thân. (Đây là chia sẻ cá nhân về thay đổi thói quen sống, không phản ánh kết quả sức khoẻ cụ thể và không thay thế tư vấn của chuyên gia y tế.)
+Một thành viên trong cộng đồng, ngoài bốn mươi tuổi, làm nghề buôn bán tạp hoá và gần như đứng quầy cả ngày, chia sẻ rằng bước sang tuổi này chị thấy mình dễ mệt và ăn uống thất thường hơn trước. Bữa trưa của chị nhiều hôm là hộp xôi hay ổ bánh mì ăn vội giữa hai lượt khách, tối về lại ăn muộn rồi thức xem điện thoại tới khuya. Thay vì tìm một giải pháp cấp tốc, chị chọn thay đổi từng chút: đi ngủ sớm hơn nửa tiếng, nhờ con gái chuẩn bị thêm một hộp rau luộc cho bữa trưa ở quầy, và đi bộ quanh khu nhà mỗi sáng trước khi mở cửa hàng. Có tuần bận nhập hàng chị bỏ lỡ vài buổi đi bộ, nhưng chị không bỏ hẳn mà quay lại nhịp cũ ngay tuần sau. Sau vài tháng giữ đều những thói quen nhỏ ấy, chị nói mình cảm thấy nhẹ nhõm và có nhịp sinh hoạt ổn định hơn, dù không đặt ra mục tiêu gì to tát. Điều chị tâm đắc nhất là cảm giác được chủ động chăm sóc bản thân, thay vì để cả ngày trôi theo quầy hàng. (Đây là chia sẻ cá nhân về thay đổi thói quen sống, không phản ánh kết quả sức khoẻ cụ thể và không thay thế tư vấn của chuyên gia y tế.)
 :::
 
 :::case Anh H. (48 tuổi) — đưa việc khám định kỳ vào lịch

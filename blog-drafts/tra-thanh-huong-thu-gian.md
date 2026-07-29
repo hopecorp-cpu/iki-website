@@ -32,7 +32,7 @@
     },
     {
       "q": "Trà Thanh Hương là loại trà thế nào?",
-      "a": "Trà Thanh Hương là một thức uống thảo mộc lấy hoa quế làm điểm nhấn hương thơm, hướng tới một nếp uống ấm thơm dịu, phù hợp cho khoảnh khắc thư giãn buổi tối. Bạn có thể tìm hiểu thêm về cách phối vị và cách pha tại trang sản phẩm, rồi tự cân nhắc xem hương vị này có hợp với mình không."
+      "a": "Trà Thanh Hương là một thức uống thảo mộc phối từ bốn nguyên liệu quen thuộc trong nếp uống phương Đông: hoa nhài, phục linh, hoa quế và trần bì, trong đó hoa quế và hoa nhài tạo nên điểm nhấn hương thơm. Sản phẩm hướng tới một nếp uống ấm thơm dịu, phù hợp cho khoảnh khắc thư giãn buổi tối. Bạn có thể tìm hiểu thêm về cách phối vị và cách pha tại trang sản phẩm, rồi tự cân nhắc xem hương vị này có hợp với mình không."
     },
     {
       "q": "Uống trà thảo mộc buổi tối vào lúc nào là hợp lý?",
@@ -116,7 +116,7 @@ Một cách chọn thú vị nữa là để ý tới mùa và tâm trạng củ
 
 Nếu bạn là người yêu hương thơm và muốn một tách trà êm ái để chậm lại vào buổi tối, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là một gợi ý đáng cân nhắc. Hãy soi nó qua các tiêu chí ở trên.
 
-Điểm nhấn của Trà Thanh Hương nằm ở hoa quế, một loại hoa có hương thơm tự nhiên thanh và dịu, vốn được người xưa yêu thích để hãm trà. Chính hương thơm êm ái này là điều tạo nên sự khác biệt và mang lại cảm giác dễ chịu, thư thái khi thưởng thức. Với người đặt nặng tiêu chí hương vị êm dịu cho buổi tối, đây là một lợi thế rõ.
+Về nguyên liệu, Trà Thanh Hương phối từ bốn vị quen thuộc trong nếp uống phương Đông: hoa nhài, phục linh, hoa quế và trần bì. Điểm nhấn hương thơm nằm ở hoa quế và hoa nhài — hai loại hoa có hương tự nhiên thanh và dịu, vốn được người xưa yêu thích để hãm trà; phục linh và trần bì góp phần làm tròn vị. Thành phần được ghi rõ ràng như vậy cũng đáp ứng tiêu chí minh bạch nguyên liệu đã nói ở trên. Với người đặt nặng tiêu chí hương vị êm dịu cho buổi tối, đây là một lợi thế rõ.
 
 Về cách dùng, đây là một thức uống thảo mộc ấm, hướng tới nếp uống ấm thơm dịu, phù hợp cho khoảnh khắc thư giãn cuối ngày. Bạn có thể pha một tách nhạt, ngồi xuống và uống từ tốn như một nghi thức nhỏ để khép lại ngày dài. Là trà thảo mộc, phần lớn không hoặc rất ít caffeine, nên hợp cho buổi tối hơn các loại trà chứa caffeine.
 
@@ -132,8 +132,8 @@ Một tách trà chỉ phát huy hết sự dễ chịu khi nó nằm trong mộ
 4. **Kết hợp với hoạt động nhẹ nhàng.** Có thể vừa uống trà vừa đọc vài trang sách, viết đôi dòng nhật ký, hay chỉ đơn giản ngồi yên. Điều quan trọng là tránh những việc gây căng thẳng.
 5. **Lắng nghe cơ thể.** Mỗi người hợp một kiểu khác nhau. Nếu một loại trà không dễ chịu với bạn, hãy đổi loại khác; và nếu có bệnh nền, đang mang thai hay cho con bú, hãy hỏi ý kiến bác sĩ trước khi dùng đều đặn.
 
-:::case Cảm nhận từ cộng đồng IKI (ẩn danh)
-Một thành viên chia sẻ rằng chị vốn hay bận rộn tới tận tối, và trước đây thường mang cả những lo toan trong ngày lên giường. Sau này chị tập cho mình một nếp nhỏ trước giờ nghỉ: pha một tách trà thảo mộc ấm, tắt bớt đèn, ngồi yên vài phút hít hà mùi hương rồi mới đi ngủ. Chị kể điều mình trân trọng nhất không phải là loại trà nào, mà là khoảnh khắc chậm lại có chủ đích ấy, khi chị cho phép mình gác việc và thư thái đôi chút. Nếp này giúp buổi tối của chị cảm thấy nhẹ nhàng và dễ chịu hơn. (Đây là trải nghiệm cá nhân về thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau ở mỗi người.)
+:::case Chị D. (Hà Nội) — mười phút thơm dịu trước giờ nghỉ
+Chị D., 36 tuổi, chủ một tiệm may nhỏ ở Hà Nội và là thành viên cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng nghề của chị bận nhất vào buổi tối, khi khách tan làm ghé lấy đồ và những đơn sửa gấp dồn về cuối ngày. Đóng cửa tiệm xong, chị thường mang cả những lo toan về vải vóc, hẹn trả đồ lên giường, nằm rồi mà đầu vẫn tính việc ngày mai. Sau này chị tập cho mình một nếp nhỏ trước giờ nghỉ: pha một tách trà thảo mộc ấm, tắt bớt đèn tiệm và đèn phòng khách, ngồi yên vài phút hít hà mùi hương rồi mới đi ngủ. Chị chọn loại trà có hương hoa vì vốn thích mùi thơm dịu, và cố tình để hộp trà ngay cạnh ấm nước như một lời nhắc. Những hôm quá mệt, chị rút gọn còn dăm phút, nhưng không bỏ hẳn. Điều chị trân trọng nhất, như chị kể, không phải là loại trà nào, mà là khoảnh khắc chậm lại có chủ đích ấy, khi chị cho phép mình gác kéo, gác thước và thư thái đôi chút. Nếp này giúp buổi tối của chị cảm thấy nhẹ nhàng và dễ chịu hơn, ranh giới giữa giờ làm và giờ nghỉ rõ ràng hơn trước. (Đây là trải nghiệm cá nhân về thói quen sinh hoạt, đã được ẩn danh, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau ở mỗi người.)
 :::
 
 ## Câu hỏi thường gặp khi chọn trà buổi tối

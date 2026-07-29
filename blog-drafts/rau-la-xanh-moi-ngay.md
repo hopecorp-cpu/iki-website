@@ -179,17 +179,15 @@ Gợi ý thực tế: hãy thử **mỗi bữa một cách chế biến khác nh
 
 Nếu bạn thấy khó hình dung việc "luân phiên rau" trong thực tế, đây là một gợi ý khung cho cả tuần. Đừng xem nó là quy tắc cứng, mà chỉ là ví dụ để bạn thấy việc đổi loại và đổi cách nấu dễ hơn mình tưởng. Cứ dựa vào rau đang có ngoài chợ mà thay:
 
-| Ngày | Món rau gợi ý | Cách chế biến |
-|---|---|---|
-| Thứ Hai | Rau muống | Luộc chấm kho quẹt, nước luộc dầm sấu |
-| Thứ Ba | Cải ngọt | Xào nhanh với tỏi |
-| Thứ Tư | Mồng tơi | Nấu canh cua hoặc canh tôm |
-| Thứ Năm | Cải bó xôi | Xào nhanh, hoặc trộn salad phần lá non |
-| Thứ Sáu | Rau ngót | Canh rau ngót thịt băm |
-| Thứ Bảy | Rau lang | Luộc hoặc xào tỏi |
-| Chủ Nhật | Rau dền | Canh rau dền, hoặc luộc |
+- **Thứ Hai — rau muống:** luộc chấm kho quẹt, nước luộc dầm sấu.
+- **Thứ Ba — cải ngọt:** xào nhanh với tỏi.
+- **Thứ Tư — mồng tơi:** nấu canh cua hoặc canh tôm.
+- **Thứ Năm — cải bó xôi:** xào nhanh, hoặc trộn salad phần lá non.
+- **Thứ Sáu — rau ngót:** canh rau ngót thịt băm.
+- **Thứ Bảy — rau lang:** luộc hoặc xào tỏi.
+- **Chủ Nhật — rau dền:** canh rau dền, hoặc luộc.
 
-Cách dùng bảng này rất đơn giản: mỗi ngày chọn một loại rau khác nhau, ưu tiên loại đang vào mùa và tươi ngon ngoài chợ. Bạn không cần theo đúng thứ tự, cũng không cần đủ bảy loại; điều cốt lõi là **bữa nào cũng có rau và trong tuần có đổi loại**. Chỉ cần vậy, khẩu phần vi chất của bạn đã tự nhiên phong phú hơn nhiều so với việc ăn mãi một món quen.
+Cách dùng gợi ý này rất đơn giản: mỗi ngày chọn một loại rau khác nhau, ưu tiên loại đang vào mùa và tươi ngon ngoài chợ. Bạn không cần theo đúng thứ tự, cũng không cần đủ bảy loại; điều cốt lõi là **bữa nào cũng có rau và trong tuần có đổi loại**. Chỉ cần vậy, khẩu phần vi chất của bạn đã tự nhiên phong phú hơn nhiều so với việc ăn mãi một món quen.
 
 Một mẹo giúp việc này bền hơn: khi đi chợ đầu tuần, mua vài loại rau khác nhau thay vì một loại thật nhiều. Rau lá xanh không để được lâu, nên mua đa dạng lượng vừa phải vừa đỡ héo hỏng, vừa buộc bàn ăn phải đổi món.
 
@@ -208,7 +206,7 @@ Quanh chuyện ăn rau cũng có không ít lời đồn. Cùng gỡ vài hiểu
 **"Rau đông lạnh thì mất hết chất."** Rau đông lạnh đúng cách thường giữ được phần lớn dưỡng chất và là lựa chọn tiện lợi khi không có rau tươi. Rau tươi đúng mùa vẫn lý tưởng, nhưng rau đông lạnh không phải là thứ "vô giá trị".
 
 :::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Một thành viên trong cộng đồng chia sẻ rằng trước đây bữa cơm nhà anh gần như chỉ có cơm và món mặn, rau thì "có cũng được, không có cũng xong". Sau khi tập thói quen mỗi bữa thêm một món rau và đổi loại theo mùa, anh thấy bữa ăn nhẹ nhàng, đầy đặn và dễ chịu hơn, đồng thời cả nhà cũng ăn rau nhiều hơn tự nhiên. (Đây là trải nghiệm cá nhân được chia sẻ để tham khảo, không phải lời khuyên y tế và không đại diện cho kết quả của mọi người; nhu cầu dinh dưỡng của mỗi người mỗi khác, khi có vấn đề sức khỏe cụ thể bạn nên hỏi ý kiến chuyên gia dinh dưỡng hoặc bác sĩ.)
+Một thành viên nam trong cộng đồng, ngoài ba mươi tuổi, làm kỹ sư công trình và thường ăn cơm quán theo ca làm, chia sẻ rằng trước đây bữa cơm của anh gần như chỉ có cơm và món mặn, rau thì "có cũng được, không có cũng xong". Về nhà cuối tuần, mâm cơm gia đình anh cũng quen nếp cũ: đĩa thịt rán, nồi cá kho, còn rau chỉ thỉnh thoảng mới xuất hiện. Anh bắt đầu từ một thay đổi rất nhỏ: ăn quán thì gọi thêm đĩa rau luộc, còn cuối tuần thì tự tay mua vài loại rau theo mùa để cả nhà nấu canh, xào tỏi đổi vị. Vợ anh sau đó cũng hưởng ứng, mỗi lần đi chợ mua hai ba loại rau khác nhau thay vì một loại thật nhiều. Sau vài tháng, anh thấy bữa ăn nhẹ nhàng, đầy đặn và dễ chịu hơn, đồng thời cả nhà ăn rau nhiều hơn một cách tự nhiên, không ai phải nhắc ai. Điều anh thích nhất là chuyện thêm rau hoá ra chẳng tốn kém hay cầu kỳ gì — chỉ là nhớ gọi thêm một đĩa. (Đây là trải nghiệm cá nhân được chia sẻ để tham khảo, không phải lời khuyên y tế và không đại diện cho kết quả của mọi người; nhu cầu dinh dưỡng của mỗi người mỗi khác, khi có vấn đề sức khỏe cụ thể bạn nên hỏi ý kiến chuyên gia dinh dưỡng hoặc bác sĩ.)
 :::
 
 :::case Chị M. (Hà Nội) và bát rau "quen mà lạ"

@@ -98,7 +98,7 @@ Khi thăm khám, bác sĩ chuyên khoa thần kinh sẽ hỏi bệnh kỹ lưỡ
 
 ## Chăm sóc và phòng ngừa qua lối sống
 
-Với người có cơ địa migraine, một lối sống ổn định và biết tránh các yếu tố kích hoạt có thể giúp giảm tần suất và mức độ cơn đau. Những gợi ý dưới đây là cách chăm sóc chung, không phải phương pháp xử trí thay cho chỉ định của bác sĩ.
+Với người có cơ địa migraine, một lối sống ổn định và biết tránh các yếu tố kích hoạt là cách hỗ trợ hữu ích, đồng hành cùng việc theo dõi của bác sĩ. Những gợi ý dưới đây là cách chăm sóc chung, không phải phương pháp xử trí thay cho chỉ định của bác sĩ.
 
 **Giữ nhịp sinh hoạt đều đặn.** Migraine rất nhạy với sự thay đổi. Cố gắng đi ngủ và thức dậy vào khung giờ ổn định, ngủ đủ nhưng không quá nhiều, ăn uống đúng bữa và không để đói. Một nhịp sống đều giúp giảm bớt những "cú sốc" dễ châm ngòi cơn đau.
 

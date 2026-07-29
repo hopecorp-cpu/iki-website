@@ -53,15 +53,13 @@ Ba yếu tố chính quyết định một món ăn thiên nóng hay thiên mát
 - **Cách chế biến:** cùng một nguyên liệu, luộc và hấp giữ tính mát hơn; còn chiên, nướng, kho, rang lại làm món ăn ngả về phía ấm nóng. Một miếng khoai luộc và một đĩa khoai chiên mang hai "sắc thái" khác nhau.
 - **Gia vị đi kèm:** thêm gừng, sả, tiêu vào một món mát có thể làm dịu bớt tính hàn của nó — đó là lý do người ta hay ăn ốc (tính mát) với lá tía tô và gừng (tính ấm).
 
-Dưới đây là một bảng gợi ý đơn giản để bạn hình dung, nhớ rằng đây là mô tả xu hướng theo kinh nghiệm dân gian, không phải quy chuẩn tuyệt đối:
+Dưới đây là vài gợi ý đơn giản để bạn hình dung, nhớ rằng đây là mô tả xu hướng theo kinh nghiệm dân gian, không phải quy chuẩn tuyệt đối:
 
-| Xu hướng | Ví dụ thực phẩm | Cảm nhận thường gặp |
-|---|---|---|
-| Thiên mát (âm) | Rau lá xanh, dưa chuột, đậu xanh, mướp, rau má, lê | Thanh, dịu, giải cảm giác bức bối |
-| Trung tính (bình) | Gạo, khoai lang, cà rốt, đa số các loại đậu | Dễ ăn, hợp với hầu hết mọi người |
-| Thiên ấm nóng (dương) | Gừng, tỏi, hành, tiêu, ớt, thịt kho, đồ nướng | Ấm bụng, sinh nhiệt, tạo cảm giác "chắc dạ" |
+- **Thiên mát (âm):** rau lá xanh, dưa chuột, đậu xanh, mướp, rau má, lê — ăn vào thường thấy thanh, dịu, giải cảm giác bức bối.
+- **Trung tính (bình):** gạo, khoai lang, cà rốt, đa số các loại đậu — dễ ăn, hợp với hầu hết mọi người.
+- **Thiên ấm nóng (dương):** gừng, tỏi, hành, tiêu, ớt, thịt kho, đồ nướng — ấm bụng, sinh nhiệt, tạo cảm giác "chắc dạ".
 
-Điều thú vị là ông bà ta đã ứng dụng bảng này một cách tự nhiên từ rất lâu, trước khi có bất kỳ tài liệu nào ghi chép. Bát nước rau muống luộc dầm sấu ngày hè, chén trà gừng ngày lạnh — tất cả đều là cách điều chỉnh tính chất bữa ăn cho hợp thời tiết.
+Điều thú vị là ông bà ta đã ứng dụng cách phân loại này một cách tự nhiên qua nhiều thế hệ, không cần sách vở. Bát nước rau muống luộc dầm sấu ngày hè, chén trà gừng ngày lạnh — tất cả đều là cách điều chỉnh tính chất bữa ăn cho hợp thời tiết.
 
 ## Mười quan sát nhỏ về âm dương trong đời sống
 
@@ -116,7 +114,7 @@ Lý thuyết chỉ có ý nghĩa khi bước vào căn bếp. Tin vui là bạn 
 
 **Nhìn lại mâm cơm như một tổng thể.** Trước khi dọn ăn, thử tự hỏi: bữa này đã có cả món mát lẫn món ấm chưa? Nếu toàn đồ kho, chiên, nướng, hãy thêm một bát canh rau hoặc đĩa rau luộc. Nếu toàn đồ mát mà trời đang lạnh, hãy thêm chút gừng, tiêu.
 
-**Dùng gia vị như "nút chỉnh".** Gừng, sả, tiêu, tỏi là những công cụ tuyệt vời để làm ấm một món thiên mát. Chanh, rau thơm, dưa góp lại giúp làm dịu một món thiên nóng. Bạn không cần đổi nguyên liệu, chỉ cần điều chỉnh gia vị. Nếu muốn hiểu sâu hơn cách từng gia vị Việt góp phần cân bằng bữa ăn, bài [Gia vị Việt (gừng, nghệ, sả): hương vị và giá trị](gia-vi-viet-gung-nghe-sa.html) là phần bổ trợ tự nhiên cho nguyên tắc này.
+**Dùng gia vị như "nút chỉnh".** Gừng, sả, tiêu, tỏi giúp làm ấm một món thiên mát rất tiện mà không phải đổi món. Chanh, rau thơm, dưa góp lại giúp làm dịu một món thiên nóng. Bạn không cần đổi nguyên liệu, chỉ cần điều chỉnh gia vị. Nếu muốn hiểu sâu hơn cách từng gia vị Việt góp phần cân bằng bữa ăn, bài [Gia vị Việt (gừng, nghệ, sả): hương vị và giá trị](gia-vi-viet-gung-nghe-sa.html) là phần bổ trợ tự nhiên cho nguyên tắc này.
 
 **Chọn cách nấu theo thời tiết và cơ thể.** Ngày oi bức hoặc khi thấy nóng trong, ưu tiên luộc, hấp, nấu canh. Ngày lạnh hoặc khi thấy uể oải, mệt, nghiêng về món hầm, kho ấm nóng.
 
@@ -135,11 +133,11 @@ Với nhịp sống hiện đại bận rộn, việc ghi nhớ tất cả có t
 **"Ăn cân bằng âm dương sẽ cho kết quả tức thì."** Chăm sóc sức khoẻ chủ động là chuyện của thói quen bền bỉ, không phải phép màu ngắn hạn. Giá trị của minh triết này nằm ở sự đều đặn và hài hoà mỗi ngày, tích luỹ theo thời gian.
 
 :::case Từ cộng đồng IKI
-Một thành viên trong cộng đồng người dùng IKI chia sẻ rằng chị vốn quen ăn nhiều đồ chiên rán, cay nóng và thường thấy bức bối, khó chịu, nhất là vào mùa hè. Sau khi tìm hiểu nguyên tắc âm dương, chị không kiêng khem cực đoan mà chỉ điều chỉnh nhẹ: thêm bát canh rau vào mỗi bữa, bớt đồ chiên vào ngày nóng, uống nhiều nước mát hơn. Chị kể rằng bữa cơm trở nên nhẹ nhõm và dễ chịu hơn hẳn, và điều chị tâm đắc nhất là cảm giác được "hiểu" cơ thể mình thay vì chạy theo một thực đơn chung. *(Đây là trải nghiệm cá nhân mang tính tham khảo, không phải lời khuyên y tế và không phản ánh kết quả ở mọi người; nếu bạn có vấn đề sức khoẻ, hãy tham vấn bác sĩ hoặc chuyên gia y tế.)*
+Một thành viên trong cộng đồng người dùng IKI, ngoài bốn mươi tuổi, làm nghề buôn bán ở chợ, chia sẻ rằng chị vốn quen ăn nhiều đồ chiên rán, cay nóng — phần vì hàng quán quanh chợ toàn những món như vậy, phần vì ăn vội cho xong bữa. Chị thường thấy bức bối, khó chịu trong người, nhất là vào những trưa hè đứng bán giữa trời nóng. Sau khi tìm hiểu nguyên tắc âm dương, chị không kiêng khem cực đoan mà chỉ điều chỉnh nhẹ: dặn nhà nấu thêm bát canh rau vào mỗi bữa tối, bớt đồ chiên vào ngày nóng, mang theo chai nước thay vì mua nước ngọt ở chợ. Ngày nào trời oi, chị đổi món trưa sang bún với nhiều rau sống thay cho cơm rang. Chị kể rằng bữa cơm trở nên nhẹ nhõm và dễ chịu hơn hẳn, và điều chị tâm đắc nhất là cảm giác được "hiểu" cơ thể mình thay vì chạy theo một thực đơn chung. Giờ chị còn hay nhắc mấy chị em cùng sạp hàng để ý phối món mát món ấm trong bữa. *(Đây là trải nghiệm cá nhân mang tính tham khảo, không phải lời khuyên y tế và không phản ánh kết quả ở mọi người; nếu bạn có vấn đề sức khoẻ, hãy tham vấn bác sĩ hoặc chuyên gia y tế.)*
 :::
 
-:::case Anh T. (Hà Nội) — chuyện tách trà ấm thay ly nước đá sau bữa trưa
-Anh T., một nhân viên văn phòng ở Hà Nội, kể rằng anh vốn có thói quen làm ngay một ly nước đá thật lớn sau bữa trưa cho "đã khát", rồi buổi chiều thường thấy bụng ấm ách, người uể oải. Sau khi tìm hiểu cách nhìn âm dương, anh không kiêng khem gì cầu kỳ, chỉ đổi một thói quen nhỏ: thay ly nước đá bằng một tách trà ấm nhấp chậm sau khi ăn, và bớt đồ chiên rán vào bữa trưa những hôm nhiều việc. Anh chia sẻ rằng buổi chiều của mình cảm giác nhẹ nhõm và dễ tập trung hơn, và anh thấy thú vị vì một thay đổi rất nhỏ trong cách ăn lại tạo ra sự khác biệt trong cảm nhận. *(Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)*
+:::case Anh B. (Hà Nội) — chuyện tách trà ấm thay ly nước đá sau bữa trưa
+Anh B., một nhân viên văn phòng ở Hà Nội, kể rằng anh vốn có thói quen làm ngay một ly nước đá thật lớn sau bữa trưa cho "đã khát", rồi buổi chiều thường thấy bụng ấm ách, người uể oải. Sau khi tìm hiểu cách nhìn âm dương, anh không kiêng khem gì cầu kỳ, chỉ đổi một thói quen nhỏ: thay ly nước đá bằng một tách trà ấm nhấp chậm sau khi ăn, và bớt đồ chiên rán vào bữa trưa những hôm nhiều việc. Anh chia sẻ rằng buổi chiều của mình cảm giác nhẹ nhõm và dễ tập trung hơn, và anh thấy thú vị vì một thay đổi rất nhỏ trong cách ăn lại tạo ra sự khác biệt trong cảm nhận. *(Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)*
 :::
 
 ## Kết

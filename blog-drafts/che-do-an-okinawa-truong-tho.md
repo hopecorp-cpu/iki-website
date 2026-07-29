@@ -104,7 +104,7 @@ Bên cạnh việc ăn gì, người Okinawa còn chú ý tới mức độ ăn.
 
 ## Vận dụng tinh thần Okinawa vào mâm cơm Việt
 
-Điều tuyệt vời là bạn không cần đổi sang ăn món Nhật hay mua nguyên liệu ngoại nhập để học theo cách ăn Okinawa. Tinh thần cốt lõi hoàn toàn có thể thực hiện với thực phẩm Việt quen thuộc. Dưới đây là những cách cụ thể.
+Điều đáng mừng là bạn không cần đổi sang ăn món Nhật hay mua nguyên liệu ngoại nhập để học theo cách ăn Okinawa. Tinh thần cốt lõi hoàn toàn có thể thực hiện với thực phẩm Việt quen thuộc. Dưới đây là những cách cụ thể.
 
 ### Tăng rau, xem thịt cá là phần phụ
 
@@ -150,8 +150,8 @@ Khi tìm hiểu về chế độ ăn của những vùng đất trường thọ,
 
 **"Bỏ hẳn thịt là làm đúng Okinawa."** Cách ăn Okinawa dựa nhiều vào thực vật nhưng không loại bỏ hẳn đạm động vật. Cá và thịt vẫn có mặt ở mức vừa phải. Đây là sự cân bằng về tỷ lệ, không phải sự cấm đoán tuyệt đối.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Cô L., một người nội trợ ở tuổi trung niên, chia sẻ rằng mâm cơm nhà cô trước đây thường nặng về thịt và món chiên, rau chỉ có chút ít cho có. Sau khi tìm hiểu về cách ăn nhiều thực vật của những vùng đất trường thọ qua cộng đồng chăm sóc sức khoẻ chủ động của IKI, cô thử điều chỉnh dần: tăng rau luộc và canh, thêm đậu phụ vài bữa mỗi tuần, thỉnh thoảng thay cơm bằng khoai lang. Cô kể rằng cả nhà quen dần và thấy bữa cơm nhẹ nhõm, dễ chịu hơn, bản thân cô cũng thấy thoải mái hơn sau mỗi bữa. (Đây là trải nghiệm cá nhân về việc thay đổi thói quen nấu nướng và ăn uống, mang tính tham khảo, không phải lời khuyên y khoa hay cam kết về sức khoẻ, và cảm nhận có thể khác nhau ở mỗi người.)
+:::case Cô Lành (55 tuổi, nội trợ, Thái Bình) — đưa tinh thần Okinawa vào mâm cơm quê
+Cô Lành, 55 tuổi, là nội trợ ở Thái Bình, nấu ăn cho gia đình năm người gồm cả bố mẹ chồng đã ngoài tám mươi. Cô chia sẻ rằng mâm cơm nhà cô trước đây thường nặng về thịt và món chiên — phần vì các con thích, phần vì cô nghĩ "có thịt mới là bữa cơm tươm tất", rau chỉ có chút ít cho có. Bản thân cô sau bữa tối hay thấy ậm ạch, ngồi xem tivi mà cứ phải nới lỏng cạp quần. Sau khi tìm hiểu về cách ăn nhiều thực vật của những vùng đất trường thọ qua cộng đồng chăm sóc sức khoẻ chủ động của IKI, cô nhận ra những món đó chẳng có gì xa lạ: toàn rau, đậu, khoai — thứ ngoài chợ quê cô bán đầy. Cô thử điều chỉnh dần: tăng rau luộc và canh, thêm đậu phụ vài bữa mỗi tuần, thỉnh thoảng luộc một rá khoai lang thay bớt cơm. Tuần đầu cậu con trai út còn phàn nàn "mâm cơm gì toàn rau", nên cô không bỏ hẳn món mặn mà chỉ nấu ít đi, bày rau ra đĩa to hơn cho đẹp mắt. Ông bà nội thì hợp ngay, vì món hấp luộc mềm dễ nhai hơn đồ chiên. Chừng một tháng sau, cả nhà quen dần và thấy bữa cơm nhẹ nhõm, dễ chịu hơn, bản thân cô cũng thấy thoải mái hơn sau mỗi bữa. Điều cô tâm đắc nhất là tiền chợ không tăng mà mâm cơm lại nhiều màu hơn hẳn. (Đây là trải nghiệm cá nhân về việc thay đổi thói quen nấu nướng và ăn uống, mang tính tham khảo, không phải lời khuyên y khoa hay cam kết về sức khoẻ, và cảm nhận có thể khác nhau ở mỗi người.)
 :::
 
 ## Bắt đầu một cách nhẹ nhàng

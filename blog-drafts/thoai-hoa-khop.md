@@ -92,9 +92,9 @@ Khi thăm khám, bác sĩ sẽ hỏi bệnh, khám khớp và có thể chỉ đ
 
 ## Chăm sóc và phòng ngừa qua lối sống
 
-Thoái hoá khớp gắn với tuổi tác nên không thể ngăn hoàn toàn, nhưng nhiều thói quen sống có thể giúp giảm gánh nặng lên khớp, hạn chế đau và giữ khớp vận động tốt lâu hơn. Những gợi ý dưới đây là cách chăm sóc chung, không phải phương pháp xử trí thay cho chỉ định của bác sĩ.
+Thoái hoá khớp gắn với tuổi tác nên không thể ngăn hoàn toàn, nhưng nhiều thói quen sống có thể hỗ trợ giảm gánh nặng lên khớp và giữ khớp vận động linh hoạt lâu hơn, đồng hành cùng việc theo dõi của bác sĩ. Những gợi ý dưới đây là cách chăm sóc chung, không phải phương pháp xử trí thay cho chỉ định của bác sĩ.
 
-**Giữ cân nặng hợp lý.** Đây là một trong những điều có ảnh hưởng lớn nhất đến khớp gối và háng. Cân nặng vừa phải giúp giảm rõ áp lực đè lên các khớp chịu tải, từ đó giảm bớt cảm giác đau. Việc kiểm soát cân nặng nên thực hiện qua ăn uống cân bằng và vận động đều đặn.
+**Giữ cân nặng hợp lý.** Đây là một trong những điều có ảnh hưởng lớn nhất đến khớp gối và háng. Cân nặng vừa phải giúp giảm rõ áp lực đè lên các khớp chịu tải, nhờ đó khớp đỡ phải làm việc quá sức mỗi ngày. Việc kiểm soát cân nặng nên thực hiện qua ăn uống cân bằng và vận động đều đặn.
 
 **Vận động phù hợp, đều đặn và nhẹ nhàng.** Nghỉ hoàn toàn không tốt cho khớp, vì cơ quanh khớp sẽ yếu đi. Các hình thức vận động ít gây sốc lên khớp như đi bộ, bơi lội, đạp xe, thái cực quyền hay các bài tập kéo giãn được nhiều chuyên gia khuyến khích. Vận động giúp cơ quanh khớp khoẻ hơn, nâng đỡ khớp tốt hơn và duy trì độ linh hoạt. Hãy bắt đầu từ từ và tăng dần, tránh những động tác gây đau nhói.
 
@@ -116,7 +116,7 @@ Tiếng kêu ở khớp không phải lúc nào cũng là bệnh; nhiều ngư�
 Nghỉ hoàn toàn trong thời gian dài thường khiến cơ yếu và khớp cứng thêm. Ngược lại, vận động nhẹ nhàng phù hợp lại có lợi cho khớp. Nguyên tắc là chọn các bài ít gây sốc, tập vừa sức và tránh động tác làm đau tăng. Nếu chưa rõ mức độ nào phù hợp, hãy hỏi bác sĩ hoặc chuyên viên vật lý trị liệu.
 
 **Duy trì cân nặng hợp lý giúp ích thế nào cho khớp?**
-Với các khớp chịu tải như gối và háng, mỗi phần trọng lượng dư đều làm tăng áp lực lên khớp khi đi lại. Giữ cân nặng ở mức hợp lý giúp giảm bớt lực đè này, nhờ đó nhiều người thấy đỡ đau và vận động dễ hơn. Đây là một trong những thay đổi lối sống được khuyến khích nhiều nhất.
+Với các khớp chịu tải như gối và háng, mỗi phần trọng lượng dư đều làm tăng áp lực lên khớp khi đi lại. Giữ cân nặng ở mức hợp lý giúp giảm bớt lực đè này, nhờ đó việc đi lại của nhiều người trở nên nhẹ nhàng hơn. Đây là một trong những thay đổi lối sống được khuyến khích nhiều nhất, và nên đồng hành cùng hướng dẫn của bác sĩ nếu bạn đã được chẩn đoán bệnh khớp.
 
 **Thời tiết thay đổi có làm khớp đau hơn không?**
 Một số người cảm thấy khớp nhức hơn khi trời trở lạnh hoặc ẩm. Cảm nhận này có thật với nhiều người, dù cơ chế chưa hoàn toàn rõ ràng. Giữ ấm khớp, vận động nhẹ và mặc đủ ấm khi trời lạnh có thể giúp dễ chịu hơn.

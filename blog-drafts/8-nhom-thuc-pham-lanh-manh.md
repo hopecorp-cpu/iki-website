@@ -97,7 +97,7 @@ Chất béo không phải kẻ xấu. Cơ thể cần chất béo để hấp th
 
 **Ví dụ dễ tìm:** dầu ô liu, dầu ăn từ thực vật ép lạnh, quả bơ, các loại cá béo như cá hồi, cá thu, cá trích, cùng chất béo tự nhiên trong hạt. Đây là nhóm giàu chất béo không bão hòa, được các khuyến nghị dinh dưỡng đánh giá tích cực khi dùng thay cho chất béo bão hòa.
 
-**Lưu ý khi dùng:** chất béo tốt vẫn đậm năng lượng, nên dùng vừa phải. Hạn chế mỡ động vật ở lượng lớn và tránh chất béo chuyển hóa trong đồ chiên đi chiên lại, bánh kẹo công nghiệp. Một mẹo thực tế là dùng dầu tốt để trộn salad hoặc rưới lên món đã nấu, vừa giữ hương vị vừa kiểm soát lượng.
+**Lưu ý khi dùng:** chất béo tốt vẫn đậm năng lượng, nên dùng vừa phải. Hạn chế mỡ động vật ở lượng lớn và tránh chất béo trans trong đồ chiên đi chiên lại, bánh kẹo công nghiệp. Một mẹo thực tế là dùng dầu tốt để trộn salad hoặc rưới lên món đã nấu, vừa giữ hương vị vừa kiểm soát lượng.
 
 ## Nhóm 4: Rau
 
@@ -162,12 +162,9 @@ Vài gợi ý áp dụng thực tế:
 
 Nếu bạn thích hình dung cụ thể, đây là ba ngày ăn mẫu áp dụng quy tắc chia đĩa và xoay vòng đủ tám nhóm trong tuần. Đây chỉ là gợi ý để bạn thấy cách các nhóm ghép lại, không phải thực đơn bắt buộc — cứ hoán đổi theo mùa, sở thích và túi tiền.
 
-| Bữa | Ngày 1 | Ngày 2 | Ngày 3 |
-|---|---|---|---|
-| Sáng | Cháo yến mạch rắc hạt, chuối | Bánh mì nguyên cám, trứng, bơ, rau | Sữa chua không đường, trái cây, hạt |
-| Trưa | Cơm gạo lứt, cá kho nhạt, rau muống luộc, canh củ | Cơm trắng trộn gạo lứt, đậu hũ sốt cà, cải xào, canh bí | Cơm gạo lứt, thịt nạc luộc, salad rau củ nhiều màu |
-| Phụ chiều | Một nắm hạnh nhân, một quả cam | Một hộp sữa chua, vài lát táo | Sữa hạt và một nắm hạt bí |
-| Tối | Nhiều rau luộc, đậu hũ, ít cơm, chút dưa muối nhạt | Canh rau, cá hấp, một phần khoai lang | Súp rau củ, trứng, rau trộn dầu ô liu |
+- **Ngày 1:** sáng — cháo yến mạch rắc hạt, một quả chuối; trưa — cơm gạo lứt, cá kho nhạt, rau muống luộc, canh củ; phụ chiều — một nắm hạnh nhân, một quả cam; tối — nhiều rau luộc, đậu hũ, ít cơm, chút dưa muối nhạt.
+- **Ngày 2:** sáng — bánh mì nguyên cám, trứng, bơ, rau; trưa — cơm trắng trộn gạo lứt, đậu hũ sốt cà, cải xào, canh bí; phụ chiều — một hộp sữa chua, vài lát táo; tối — canh rau, cá hấp, một phần khoai lang.
+- **Ngày 3:** sáng — sữa chua không đường, trái cây, hạt; trưa — cơm gạo lứt, thịt nạc luộc, salad rau củ nhiều màu; phụ chiều — sữa hạt và một nắm hạt bí; tối — súp rau củ, trứng, rau trộn dầu ô liu.
 
 Nhìn xuyên suốt ba ngày, bạn sẽ thấy đủ tám nhóm được rải đều: tinh bột tốt và đạm lành có mặt mỗi bữa chính; rau và củ chiếm phần lớn; trái cây, hạt và món lên men xen vào các bữa phụ và bữa tối; chất béo tốt đến từ cá, dầu ô liu, bơ và hạt. Không bữa nào phải "gánh" đủ cả tám nhóm, nhưng cả tuần cộng lại thì cân đối.
 
@@ -175,7 +172,7 @@ Nhìn xuyên suốt ba ngày, bạn sẽ thấy đủ tám nhóm được rải 
 
 **"Ăn lành mạnh là phải kiêng tinh bột."** Tinh bột là nguồn năng lượng cần thiết. Vấn đề nằm ở loại và lượng, chứ không phải ở việc loại bỏ hoàn toàn. Chọn tinh bột nguyên hạt và ăn vừa với nhu cầu là đủ.
 
-**"Chất béo luôn có hại."** Cơ thể cần chất béo để hoạt động bình thường. Thay vì sợ mọi chất béo, hãy ưu tiên chất béo tốt và hạn chế chất béo chuyển hóa cùng mỡ bão hòa ở lượng lớn.
+**"Chất béo luôn có hại."** Cơ thể cần chất béo để hoạt động bình thường. Thay vì sợ mọi chất béo, hãy ưu tiên chất béo tốt và hạn chế chất béo trans cùng mỡ bão hòa ở lượng lớn.
 
 **"Ăn càng nhiều thực phẩm bổ càng tốt."** Ngay cả thực phẩm lành mạnh cũng cần khẩu phần hợp lý. Bơ, hạt hay dầu tốt đều giàu năng lượng; ăn quá đà mà không cân đối phần còn lại thì tổng năng lượng vẫn dư.
 
@@ -183,12 +180,12 @@ Nhìn xuyên suốt ba ngày, bạn sẽ thấy đủ tám nhóm được rải 
 
 **"Thực phẩm bổ sung có thể thay bữa ăn."** Thực phẩm bổ sung chỉ đóng vai trò bổ sung khi cần, không thay thế được sự đa dạng của một bữa ăn thật. Nền tảng vẫn luôn là chế độ ăn cân bằng hằng ngày.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị M., một thành viên trong cộng đồng, từng chia sẻ rằng bữa ăn của gia đình chị nhiều năm xoay quanh cơm trắng và thịt kho, rất ít rau và gần như không có hạt hay món lên men. Sau khi tìm hiểu về cách chia nhóm thực phẩm, chị bắt đầu thay đổi từ những việc nhỏ: trộn thêm gạo lứt vào cơm, để một đĩa rau luộc cố định mỗi bữa, chuẩn bị sẵn hũ hạt và sữa chua cho bữa phụ. Chị kể rằng bữa ăn trở nên nhiều màu sắc và bản thân thấy hào hứng nấu nướng hơn, cả nhà cũng ăn rau nhiều hơn trước. (Đây là chia sẻ về việc thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y tế và không phản ánh kết quả sức khỏe cụ thể ở mỗi người.)
+:::case Chị Vân (34 tuổi, kế toán, Nam Định) — sắp lại mâm cơm từ những việc nhỏ
+Chị Vân, 34 tuổi, làm kế toán cho một công ty vật liệu ở Nam Định, chia sẻ rằng bữa ăn của gia đình chị nhiều năm xoay quanh cơm trắng và thịt kho, rất ít rau và gần như không có hạt hay món lên men. Cuối tháng chạy sổ sách, chị thường về muộn, nên bữa tối hay là món gì nhanh nhất có thể dọn ra. Khó khăn lớn nhất của chị không phải là thiếu kiến thức, mà là cảm giác "đổi cách ăn thì phải nấu cầu kỳ hơn", trong khi quỹ thời gian buổi tối chỉ có chừng ấy. Sau khi tìm hiểu về cách chia nhóm thực phẩm, chị chọn cách thay đổi không tốn thêm phút nào: trộn sẵn gạo lứt vào thùng gạo theo tỉ lệ một phần ba, và luộc rau ngay trong lúc chờ nồi cơm. Chị cũng để một hũ hạt cạnh lọ trà ở bàn uống nước, chỗ mà cả nhà kiểu gì cũng đi qua, và mua sữa chua theo lốc mỗi lần đi siêu thị cuối tuần. Tuần đầu, chồng chị còn thắc mắc cơm "sao lạ miệng", nhưng đến tuần thứ ba thì không ai nhắc nữa. Chị kể rằng bữa ăn trở nên nhiều màu sắc hơn, bản thân thấy hào hứng nấu nướng hơn, và điều chị thích nhất là cậu con trai học lớp hai bắt đầu tự bốc hạt thay vì đòi bánh kẹo. Với chị, thay đổi bền được là vì nó nhỏ đến mức không cần cố. (Đây là chia sẻ về việc thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y tế và không phản ánh kết quả sức khỏe cụ thể ở mỗi người.)
 :::
 
-:::case Anh T. (Hải Phòng) — bắt đầu từ "một nắm rau và một nắm hạt"
-Anh T., một người làm văn phòng, chia sẻ rằng trước đây bữa trưa của anh thường là cơm hộp nhiều thịt, ít rau, chiều hay uể oải và với tay lấy đồ ngọt. Anh không đổi mọi thứ cùng lúc, mà bắt đầu bằng hai việc rất nhỏ: bữa nào cũng thêm một phần rau, và để sẵn một hũ hạt ở bàn làm việc thay cho bánh kẹo. Vài tuần sau, anh kể rằng buổi chiều thấy đỡ mệt và bớt thèm đồ ngọt hơn, rồi từ đó mới dần thêm gạo lứt và món lên men vào bữa ăn. Điều khiến anh giữ được thói quen, theo lời anh, là vì mỗi thay đổi đều nhỏ và dễ, không tạo cảm giác "phải kiêng khem". (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
+:::case Anh Khoa (29 tuổi, kỹ sư phần mềm, Đà Nẵng) — bắt đầu từ "một nắm rau và một nắm hạt"
+Anh Khoa, 29 tuổi, là kỹ sư phần mềm ở Đà Nẵng, sống một mình và gần như không nấu ăn. Bữa trưa của anh nhiều năm liền là cơm hộp đặt qua ứng dụng, thường nhiều thịt chiên và rất ít rau, chiều hay uể oải và với tay lấy đồ ngọt trong ngăn kéo. Anh từng thử "ăn sạch" theo một trào lưu trên mạng, tự ép mình bỏ hẳn cơm, nhưng chỉ trụ được đúng năm ngày rồi bỏ cuộc vì đói và bực bội. Lần này anh không đổi mọi thứ cùng lúc, mà bắt đầu bằng hai việc rất nhỏ: khi đặt cơm trưa luôn chọn thêm một phần rau, và để sẵn một hũ hạt ở bàn làm việc thay cho bánh kẹo. Đặt món có rau hoá ra chỉ tốn thêm vài nghìn đồng và một cú chạm, nên anh làm được đều mà không cần "quyết tâm". Vài tuần sau, anh kể rằng buổi chiều thấy đỡ mệt và bớt thèm đồ ngọt hơn, rồi từ đó mới dần thêm gạo lứt vào những hôm tự nấu cuối tuần và tập ăn thêm sữa chua sau bữa tối. Giờ mỗi lần về quê, anh còn xách theo hũ hạt tự trộn để mẹ ăn thử. Điều khiến anh giữ được thói quen, theo lời anh, là vì mỗi thay đổi đều nhỏ và dễ, không tạo cảm giác "phải kiêng khem". (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 
 ## Kết

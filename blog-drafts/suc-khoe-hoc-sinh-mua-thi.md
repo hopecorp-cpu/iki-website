@@ -12,10 +12,10 @@
   "hero_local": "assets/blog/suc-khoe-hoc-sinh-mua-thi-hero.jpg",
   "hero_alt": "Bàn học gọn gàng với bữa phụ lành mạnh và ly nước cho mùa thi",
   "reading_min": 13,
-  "answer": "Trong mùa thi, sức khoẻ và khả năng tập trung của học sinh phụ thuộc vào bốn nền tảng: ăn cân bằng, ngủ đủ, nghỉ mắt vận động và giữ tinh thần thoải mái. Hãy chia nhỏ bữa ăn với đủ tinh bột tốt, đạm, rau xanh và chất béo lành; uống đủ nước và hạn chế lạm dụng cà phê, nước tăng lực. Ngủ đủ 7-9 tiếng giúp trí não sắp xếp lại thông tin đã học. Cứ 45-60 phút học nên nghỉ mắt và vận động ngắn. Đây là gợi ý về lối sống, không thay thế cho thăm khám y khoa khi cần.",
+  "answer": "Trong mùa thi, sức khoẻ và khả năng tập trung của học sinh phụ thuộc vào bốn nền tảng: ăn cân bằng, ngủ đủ, nghỉ mắt vận động và giữ tinh thần thoải mái. Hãy chia nhỏ bữa ăn với đủ tinh bột tốt, đạm, rau xanh và chất béo lành; uống đủ nước và hạn chế lạm dụng cà phê, nước tăng lực. Ngủ đủ 8-10 tiếng giúp trí não sắp xếp lại thông tin đã học. Cứ 45-60 phút học nên nghỉ mắt và vận động ngắn. Đây là gợi ý về lối sống, không thay thế cho thăm khám y khoa khi cần.",
   "faq": [
     {"q": "Học sinh mùa thi nên ăn mấy bữa một ngày?", "a": "Nên duy trì 3 bữa chính và thêm 1-2 bữa phụ nhẹ. Chia nhỏ bữa ăn giúp giữ mức năng lượng ổn định suốt buổi ôn dài, tránh cảm giác quá no gây buồn ngủ hoặc quá đói gây mất tập trung."},
-    {"q": "Uống cà phê hay nước tăng lực để thức khuya ôn bài có nên không?", "a": "Không nên lạm dụng. Một lượng nhỏ có thể giúp tỉnh táo tạm thời, nhưng dùng nhiều gần giờ ngủ dễ làm khó ngủ, tim đập nhanh và mệt hơn hôm sau. Ưu tiên uống đủ nước lọc và ngủ đủ giấc."},
+    {"q": "Uống cà phê hay nước tăng lực để thức khuya ôn bài có nên không?", "a": "Không nên. Nước tăng lực chứa caffeine liều cao kèm nhiều đường, không được khuyến khích cho trẻ em và trẻ vị thành niên. Cà phê nếu con đã quen dùng thì chỉ nên rất ít và tránh sau buổi trưa, vì caffeine gần giờ ngủ dễ gây khó ngủ, tim đập nhanh, bồn chồn và mệt hơn hôm sau. Ưu tiên uống đủ nước lọc và ngủ đủ giấc."},
     {"q": "Ngủ ít để có thêm giờ ôn bài có lợi không?", "a": "Thường là phản tác dụng. Giấc ngủ là lúc não bộ củng cố những gì đã học trong ngày. Thiếu ngủ làm giảm khả năng ghi nhớ và tập trung, nên ôn thêm mà thiếu ngủ đôi khi kém hiệu quả hơn ngủ đủ."},
     {"q": "Bữa phụ lành mạnh cho mùa thi gồm những gì?", "a": "Có thể chọn trái cây tươi, sữa chua không đường, các loại hạt, trứng luộc, hoặc một ly sữa đạm thực vật. Đây là lựa chọn nhẹ bụng, thay cho bánh kẹo và nước ngọt nhiều đường vốn gây tụt năng lượng nhanh."},
     {"q": "Làm sao giúp con giảm căng thẳng trong mùa thi?", "a": "Lắng nghe, trò chuyện nhẹ nhàng, giữ nếp sinh hoạt ổn định và tránh gây thêm áp lực về điểm số. Khuyến khích con nghỉ ngơi, vận động và duy trì giấc ngủ. Nếu con lo âu kéo dài, hãy tìm đến chuyên gia tâm lý hoặc bác sĩ."},
@@ -60,7 +60,7 @@ Nước lọc vẫn là lựa chọn tốt nhất. Bên cạnh đó, con có th�
 
 Riêng với cà phê và nước tăng lực, đây là điểm phụ huynh cần đặc biệt lưu ý. Nhiều học sinh tìm đến chúng để thức khuya ôn bài. Một lượng nhỏ caffeine có thể giúp tỉnh táo tạm thời, nhưng lạm dụng lại phản tác dụng: tim đập nhanh, bồn chồn, lo lắng, và quan trọng nhất là phá vỡ giấc ngủ. Uống cà phê hay nước tăng lực vào buổi chiều muộn và buổi tối khiến con khó vào giấc, ngủ chập chờn, rồi sáng hôm sau lại càng mệt và lại cần thêm chất kích thích, tạo thành vòng luẩn quẩn.
 
-Nước tăng lực còn thường chứa nhiều đường và caffeine liều cao, không phù hợp với lứa tuổi học sinh nếu dùng thường xuyên. Thay vì dựa vào chúng để "cày" xuyên đêm, hãy hướng con tới một lịch học hợp lý và một giấc ngủ đủ, đó mới là nguồn năng lượng bền vững thật sự.
+Nước tăng lực thường chứa caffeine liều cao kèm rất nhiều đường; các khuyến nghị nhi khoa phổ biến cho rằng trẻ em và trẻ vị thành niên không nên dùng loại đồ uống này, kể cả thỉnh thoảng. Với cà phê, nếu con đã quen dùng, hãy giữ ở mức ít, uống vào buổi sáng và tránh hẳn sau buổi trưa. Thay vì dựa vào chất kích thích để "cày" xuyên đêm, hãy hướng con tới một lịch học hợp lý và một giấc ngủ đủ — đó mới là nguồn năng lượng bền vững thật sự.
 
 ## Ngủ đủ giấc: nền tảng thầm lặng của khả năng ghi nhớ
 
@@ -68,7 +68,7 @@ Nếu chỉ được chọn một điều để ưu tiên trong mùa thi, nhiề
 
 Giấc ngủ không phải là khoảng thời gian "chết". Khi con ngủ, não bộ bận rộn sắp xếp và củng cố những thông tin đã tiếp nhận trong ngày, chuyển chúng từ trí nhớ ngắn hạn sang trí nhớ dài hạn. Nói cách khác, một phần quan trọng của việc "thuộc bài" thực sự diễn ra trong lúc con ngủ, chứ không chỉ lúc ngồi vào bàn. Thiếu ngủ làm quá trình này bị gián đoạn, khiến con khó nhớ lại kiến thức, phản xạ chậm và dễ mắc lỗi bất cẩn khi làm bài.
 
-Học sinh trong độ tuổi này thường cần khoảng bảy đến chín tiếng ngủ mỗi đêm. Để giúp con ngủ ngon hơn trong mùa cao điểm, hãy cùng con giữ giờ đi ngủ và thức dậy tương đối cố định, kể cả cuối tuần. Trước khi ngủ khoảng một giờ, nên giảm ánh sáng xanh từ điện thoại, máy tính; không ôn bài quá gắng sức sát giờ ngủ; và tránh ăn quá no hay uống đồ có caffeine vào buổi tối. Một không gian ngủ yên tĩnh, tối và mát mẻ cũng góp phần đáng kể.
+Học sinh ở tuổi thiếu niên thường cần khoảng tám đến mười tiếng ngủ mỗi đêm — nhiều hơn người trưởng thành, vì cơ thể và não bộ vẫn đang phát triển. Để giúp con ngủ ngon hơn trong mùa cao điểm, hãy cùng con giữ giờ đi ngủ và thức dậy tương đối cố định, kể cả cuối tuần. Trước khi ngủ khoảng một giờ, nên giảm ánh sáng xanh từ điện thoại, máy tính; không ôn bài quá gắng sức sát giờ ngủ; và tránh ăn quá no hay uống đồ có caffeine vào buổi tối. Một không gian ngủ yên tĩnh, tối và mát mẻ cũng góp phần đáng kể.
 
 Nếu con quá lo lắng đến mức trằn trọc không ngủ được, đó là tín hiệu cần lưu tâm. Bạn có thể tìm hiểu thêm những thói quen giúp con dễ vào giấc trong bài [Giấc ngủ chất lượng](giac-ngu-chat-luong.html). Một giấc ngủ ngon còn quý hơn nhiều so với vài tiếng ôn bài trong trạng thái vật vờ.
 
@@ -101,6 +101,10 @@ Về mặt thực tế, cha mẹ có thể giúp con rất nhiều bằng nhữn
 Về mặt tinh thần, hãy lắng nghe nhiều hơn là giảng giải. Hỏi han con một cách nhẹ nhàng, ghi nhận nỗ lực của con thay vì chỉ nhìn vào kết quả, và tránh so sánh con với bạn bè hay anh chị. Những câu nói vô tình như "con phải cố lên nữa" đôi khi lại làm con thêm nặng nề. Thay vào đó, hãy để con biết rằng dù kết quả thế nào, con vẫn được yêu thương và có gia đình bên cạnh.
 
 Cuối cùng, cha mẹ hãy làm gương về một lối sống cân bằng. Khi cả nhà cùng ăn uống điều độ, ngủ nghỉ hợp lý và giữ tinh thần thoải mái, con sẽ cảm nhận được sự an toàn và học theo một cách tự nhiên. Mùa thi rồi sẽ qua, nhưng những thói quen chăm sóc sức khoẻ và cách gia đình cùng nhau vượt qua thử thách sẽ ở lại với con rất lâu.
+
+:::case Chị N. (Đà Nẵng) — mẹ của một sĩ tử lớp 12
+Chị N., ngoài bốn mươi tuổi, làm kế toán và có con trai năm nay thi tốt nghiệp, kể rằng đầu mùa ôn thi không khí trong nhà lúc nào cũng căng như dây đàn. Con chị thức tới một, hai giờ sáng với lon nước tăng lực bên cạnh, sáng dậy muộn nên bỏ luôn bữa sáng, còn chị thì cứ vài hôm lại hỏi "hôm nay được mấy điểm" khiến hai mẹ con hay to tiếng. Sau khi đọc và trò chuyện với vài phụ huynh khác, chị quyết định đổi cách đồng hành thay vì đổi con. Chị dừng hẳn việc hỏi điểm mỗi tối, thay bằng một câu hỏi han nhẹ nhàng lúc con nghỉ giải lao; trong nhà, chị để sẵn hộp hạt, sữa chua không đường và trái cây thay cho snack, và không mua nước tăng lực nữa. Chị cũng thoả thuận với con một giờ "tắt đèn" cố định, đủ để con ngủ trọn giấc, và cả nhà cùng giữ nếp đó thay vì chỉ bắt riêng con. Có hôm con vẫn thức quá giờ vì bài chưa xong, chị không trách mà chỉ nhắc con bù lại giấc hôm sau. Chị chia sẻ rằng sau vài tuần, điều thấy rõ nhất là bữa cơm tối bớt nặng nề, con chịu kể chuyện trường lớp trở lại và bản thân chị cũng đỡ thấp thỏm hơn hẳn. Với chị, mùa thi vẫn vất vả, nhưng cả nhà đi qua nó với tâm thế nhẹ hơn nhiều. (Đây là chia sẻ cá nhân về thay đổi thói quen sinh hoạt trong gia đình, không phải lời khuyên y khoa hay cam kết về kết quả học tập, sức khoẻ; mỗi gia đình có thể có trải nghiệm khác nhau.)
+:::
 
 ## Lời kết
 

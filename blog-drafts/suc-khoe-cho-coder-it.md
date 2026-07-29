@@ -136,7 +136,7 @@ Về **bữa ăn ban ngày**, cái bẫy lớn nhất là bỏ bữa vì đang d
 - **Với bữa chính, ưu tiên suất có rau và một nguồn đạm rõ ràng** như thịt, cá, trứng, đậu; giảm cơm trắng đầy ắp và đồ chiên ngập dầu, đổi nước ngọt sang nước lọc hoặc trà không đường.
 - **Đặt một mốc ăn cố định** thay vì "xong việc mới ăn", vì việc lập trình thì gần như không bao giờ "xong" hẳn.
 
-Bữa sáng cũng đáng chú ý với người hay thức khuya và dậy muộn: một bữa sáng có đủ tinh bột tốt và đạm giữ năng lượng bền hơn hẳn một ly cà phê suông. Nếu bạn hay bỏ bữa sáng, bài [Vận động nhẹ mỗi ngày](van-dong-nhe-moi-ngay.html) và các bài về thói quen buổi sáng trong chuyên mục có thể gợi ý cách sắp xếp buổi đầu ngày gọn gàng hơn.
+Bữa sáng cũng đáng chú ý với người hay thức khuya và dậy muộn: một bữa sáng có đủ tinh bột tốt và đạm giữ năng lượng bền hơn hẳn một ly cà phê suông. Nếu bạn hay bỏ bữa sáng vì dậy muộn, hãy chuẩn bị sẵn thứ gì đơn giản từ tối hôm trước — trứng luộc, sữa chua, chuối; còn khi muốn buổi đầu ngày có thêm chút chuyển động, bài [Vận động nhẹ mỗi ngày](van-dong-nhe-moi-ngay.html) là gợi ý phù hợp.
 
 Riêng chuyện **ăn khuya khi làm đêm**: nếu buộc phải làm khuya và thấy đói, hãy ưu tiên phần ăn nhẹ, dễ tiêu như một hộp sữa chua, ít trái cây, một nắm hạt, hoặc một bát nhỏ có đạm và rau, thay vì mì gói kèm đồ chiên và nước ngọt sát giờ ngủ. Ăn quá no và nhiều dầu mỡ ngay trước khi ngủ dễ gây nặng bụng và làm giấc ngủ chập chờn. Nếu cần một thức uống ấm để tỉnh táo nhẹ nhàng thay cho ly cà phê thứ ba lúc nửa đêm, một tách trà thảo mộc ấm là lựa chọn dịu hơn; đây là một thói quen nhỏ cho nhịp làm việc, không phải giải pháp thay cho việc ngủ đủ.
 

@@ -98,9 +98,9 @@ Khi thăm khám, bác sĩ sẽ hỏi bệnh, khám thần kinh và có thể ch�
 
 ## Chăm sóc và phòng ngừa qua lối sống
 
-Với những cơn tê bì thoáng qua và để giảm nguy cơ nói chung, một vài thói quen sống giúp hệ thần kinh và tuần hoàn hoạt động tốt hơn. Đây là gợi ý chăm sóc chung, không phải cách xử trí thay cho tư vấn của bác sĩ, nhất là khi tê bì đã kéo dài.
+Với những cơn tê bì thoáng qua và để giảm nguy cơ nói chung, một vài thói quen sống có thể hỗ trợ hệ thần kinh và tuần hoàn hoạt động thuận lợi. Đây là gợi ý chăm sóc chung, không phải cách xử trí thay cho tư vấn của bác sĩ, nhất là khi tê bì đã kéo dài.
 
-**Tránh giữ nguyên một tư thế quá lâu.** Đây là điều đơn giản nhưng hiệu quả với tê bì cơ học. Nếu công việc buộc bạn ngồi hoặc đứng nhiều, hãy thay đổi tư thế và vận động vài phút mỗi giờ. Với người làm việc bên máy tính, chú ý tư thế cổ tay và nghỉ ngắn giữa giờ giúp giảm áp lực lên dây thần kinh.
+**Tránh giữ nguyên một tư thế quá lâu.** Đây là điều đơn giản nhưng hữu ích với tê bì cơ học. Nếu công việc buộc bạn ngồi hoặc đứng nhiều, hãy thay đổi tư thế và vận động vài phút mỗi giờ. Với người làm việc bên máy tính, chú ý tư thế cổ tay và nghỉ ngắn giữa giờ giúp giảm áp lực lên dây thần kinh.
 
 **Vận động đều đặn.** Đi bộ, các bài kéo giãn nhẹ nhàng và vận động vừa sức giúp máu lưu thông tốt và giữ cơ khớp linh hoạt. Vận động cũng có lợi cho việc kiểm soát đường huyết và cân nặng, hai yếu tố liên quan đến sức khoẻ thần kinh.
 

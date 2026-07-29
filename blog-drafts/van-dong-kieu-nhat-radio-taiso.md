@@ -16,7 +16,7 @@
   "faq": [
     {
       "q": "Radio taiso là gì?",
-      "a": "Radio taiso là một bài thể dục nhịp điệu ngắn của Nhật Bản, tên gọi có nghĩa là bài tập thể dục phát qua đài. Ra đời từ đầu thế kỷ 20, nó gồm một chuỗi động tác vươn, xoay, gập duỗi và bật nhẹ, thực hiện theo một bản nhạc quen thuộc, thường chỉ khoảng ba phút cho mỗi bài. Đây là hoạt động phổ biến ở trường học, công ty, khu dân cư và viện dưỡng lão khắp Nhật Bản, hợp với mọi lứa tuổi."
+      "a": "Radio taiso là một bài thể dục nhịp điệu ngắn của Nhật Bản, tên gọi có nghĩa là bài tập thể dục phát qua đài. Ra đời từ năm 1928, nó gồm một chuỗi động tác vươn, xoay, gập duỗi và bật nhẹ, thực hiện theo một bản nhạc quen thuộc, thường chỉ khoảng ba phút cho mỗi bài. Đây là hoạt động phổ biến ở trường học, công ty, khu dân cư và viện dưỡng lão khắp Nhật Bản, hợp với mọi lứa tuổi."
     },
     {
       "q": "Radio taiso có phù hợp với người lớn tuổi và người ít vận động không?",
@@ -66,7 +66,7 @@ Hãy hình dung một buổi sáng ở Nhật Bản. Trong sân trường, các 
 
 ## Radio taiso là gì
 
-Radio taiso, tạm dịch là bài thể dục phát qua đài, là một chuỗi động tác thể dục nhịp điệu ngắn của Nhật Bản. Nó ra đời từ những năm đầu thế kỷ 20 và nhanh chóng trở thành một phần quen thuộc của đời sống toàn dân. Cái tên bắt nguồn từ việc bài tập được phát trên sóng phát thanh, để mọi người ở khắp nơi có thể cùng tập theo một giai điệu và nhịp điệu chung.
+Radio taiso, tạm dịch là bài thể dục phát qua đài, là một chuỗi động tác thể dục nhịp điệu ngắn của Nhật Bản. Nó ra đời năm 1928 và dần trở thành một phần quen thuộc của đời sống toàn dân. Cái tên bắt nguồn từ việc bài tập được phát trên sóng phát thanh, để mọi người ở khắp nơi có thể cùng tập theo một giai điệu và nhịp điệu chung.
 
 Một bài radio taiso điển hình chỉ kéo dài khoảng ba phút, gồm hơn chục động tác nối tiếp nhau: vươn tay lên cao, xoay cánh tay, gập người sang hai bên, xoay hông, gập lưng nhẹ, duỗi chân, bật nhảy nhẹ tại chỗ, rồi hít thở sâu để kết thúc. Mỗi động tác đều được thiết kế để cử động một nhóm cơ hoặc khớp khác nhau, sao cho chỉ trong vài phút, gần như toàn bộ cơ thể đều được vận động và giãn ra một cách nhịp nhàng.
 
@@ -137,7 +137,7 @@ Quanh chuyện vận động có không ít quan niệm khiến nhiều người
 Hiểu đúng về vận động giúp bạn tiếp cận nó một cách nhẹ nhõm và bền bỉ, thay vì áp lực rồi bỏ cuộc.
 
 :::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị N., một nhân viên văn phòng ngồi máy tính gần như cả ngày, chia sẻ rằng chị thường thấy vai gáy cứng mỏi và người uể oải, nhưng cứ nghĩ đến việc "phải đi tập gym" là lại ngại và trì hoãn. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI và biết đến tinh thần vận động nhẹ kiểu Nhật, chị thử một việc rất nhỏ: mỗi sáng dành ba phút vươn vai, xoay cổ và xoay hông theo một video hướng dẫn, cộng với việc đứng dậy giãn người mỗi giờ ngồi làm. Sau vài tuần giữ nếp này, chị chia sẻ rằng mình cảm thấy vai gáy dễ chịu hơn, người bớt ì ạch và tinh thần trong ngày cũng nhẹ nhõm hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen vận động, không phải lời khuyên y tế hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
+Chị N., 32 tuổi, làm thiết kế đồ hoạ và ngồi máy tính gần như cả ngày, chia sẻ rằng chị thường thấy vai gáy cứng mỏi và người uể oải, nhưng cứ nghĩ đến việc "phải đi tập gym" là lại ngại và trì hoãn — chị từng đóng tiền ba tháng phòng tập mà chỉ đi được bốn buổi. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI và biết đến tinh thần vận động nhẹ kiểu Nhật, chị thử một việc rất nhỏ: mỗi sáng dành ba phút vươn vai, xoay cổ và xoay hông theo một video hướng dẫn, cộng với việc đặt hẹn giờ đứng dậy giãn người mỗi giờ ngồi làm. Sau vài tuần giữ nếp này, chị chia sẻ rằng mình cảm thấy vai gáy dễ chịu hơn, người bớt ì ạch và tinh thần trong ngày cũng nhẹ nhõm hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen vận động, không phải lời khuyên y tế hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Ông S. (Thái Bình) — vài phút vận động sáng cùng nhóm hàng xóm

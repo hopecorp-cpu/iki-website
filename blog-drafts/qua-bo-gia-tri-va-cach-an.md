@@ -77,16 +77,14 @@ Một điểm đáng chú ý: bơ gần như không chứa đường và rất �
 
 Tóm lại, giá trị của bơ không nằm ở một "siêu chất" nào, mà ở sự kết hợp cân đối giữa chất béo tốt, chất xơ và khoáng chất trong một loại quả tự nhiên, ít qua chế biến.
 
-Để dễ hình dung, đây là bảng tóm tắt các thành phần đáng chú ý trong khoảng nửa quả bơ cỡ vừa. Các con số chỉ mang tính **ước tính**, thay đổi theo giống bơ và độ chín:
+Để dễ hình dung, đây là tóm tắt các thành phần đáng chú ý trong khoảng nửa quả bơ cỡ vừa. Các con số chỉ mang tính **ước tính**, thay đổi theo giống bơ và độ chín:
 
-| Thành phần | Nét nổi bật |
-|---|---|
-| Chất béo | Chủ yếu là chất béo không bão hòa đơn (axit oleic) |
-| Chất xơ | Khoảng 5-7g cho nửa quả, cả loại hòa tan và không hòa tan |
-| Kali | Cao, tính theo khối lượng thường nhiều hơn chuối |
-| Vitamin | K, E, folate, một phần vitamin C và nhóm B |
-| Chất chống oxy hóa | Carotenoid như lutein, zeaxanthin |
-| Đường | Gần như không có, rất ít tinh bột |
+- **Chất béo:** chủ yếu là chất béo không bão hòa đơn (axit oleic).
+- **Chất xơ:** khoảng 5-7g cho nửa quả, gồm cả loại hòa tan và không hòa tan.
+- **Kali:** cao, tính theo cùng khối lượng thường nhiều hơn chuối.
+- **Vitamin:** K, E, folate, một phần vitamin C và nhóm B.
+- **Chất chống oxy hóa:** carotenoid như lutein, zeaxanthin.
+- **Đường:** gần như không có, rất ít tinh bột.
 
 Chính vì bảng thành phần "nghiêng về chất béo và chất xơ, gần như không đường" này mà bơ vừa quý vừa cần ăn có chừng mực.
 
@@ -173,7 +171,7 @@ Cả ba đều dựa trên cùng một nguyên tắc: giữ khẩu phần bơ v�
 
 Quanh quả bơ có khá nhiều lời đồn. Cùng gỡ vài hiểu lầm phổ biến nhất.
 
-**"Bơ gây tăng cân."** Đây là hiểu lầm dai dẳng nhất. Không có một loại thực phẩm đơn lẻ nào tự gây tăng cân; điều quyết định là **tổng năng lượng nạp vào so với tiêu hao trong cả ngày**. Bơ giàu năng lượng nên nếu ăn quá nhiều mà không điều chỉnh phần còn lại của bữa ăn thì calo có thể dư. Nhưng ăn bơ với khẩu phần hợp lý, và dùng thay cho một phần chất béo khác, thì bơ hoàn toàn nằm gọn trong một thực đơn cân đối và hỗ trợ vóc dáng.
+**"Bơ gây tăng cân."** Đây là hiểu lầm dai dẳng nhất. Không có một loại thực phẩm đơn lẻ nào tự gây tăng cân; điều quyết định là **tổng năng lượng nạp vào so với tiêu hao trong cả ngày**. Bơ giàu năng lượng nên nếu ăn quá nhiều mà không điều chỉnh phần còn lại của bữa ăn thì calo có thể dư. Nhưng ăn bơ với khẩu phần hợp lý, và dùng thay cho một phần chất béo khác, thì bơ hoàn toàn nằm gọn trong một thực đơn cân đối.
 
 **"Bơ nhiều chất béo nên là thực phẩm xấu."** Chất béo trong bơ chủ yếu là chất béo không bão hòa đơn, nhóm chất béo được các khuyến nghị dinh dưỡng nhìn nhận tích cực khi thay cho chất béo bão hòa. "Nhiều chất béo" không đồng nghĩa với "xấu"; quan trọng là loại chất béo và khẩu phần.
 
@@ -184,11 +182,11 @@ Quanh quả bơ có khá nhiều lời đồn. Cùng gỡ vài hiểu lầm ph�
 **"Dầu bơ và quả bơ là một."** Dầu bơ là sản phẩm chiết xuất, đã qua chế biến và cô đặc năng lượng, khác với ăn nguyên quả bơ vốn còn giữ chất xơ và cảm giác no. Ăn nguyên quả thường là lựa chọn gần với tự nhiên hơn.
 
 :::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Một thành viên trong cộng đồng chia sẻ rằng trước đây chị luôn né quả bơ vì sợ "ăn vào là mập". Sau khi hiểu ra vấn đề nằm ở khẩu phần chứ không phải bản thân quả bơ, chị chuyển sang ăn khoảng nửa quả vào bữa sáng thay cho phần phô mai béo trước kia, và thấy bữa sáng no lâu, dễ chịu hơn. (Đây là trải nghiệm cá nhân được chia sẻ để tham khảo, không phải lời khuyên y tế và không đại diện cho kết quả của mọi người; nhu cầu dinh dưỡng của mỗi người mỗi khác, khi có vấn đề sức khỏe cụ thể bạn nên hỏi ý kiến chuyên gia dinh dưỡng hoặc bác sĩ.)
+Chị P., ngoài ba mươi tuổi, làm hành chính ở TP.HCM, chia sẻ rằng suốt nhiều năm chị luôn né quả bơ vì nghe bạn bè bảo "ăn vào là mập", dù rất thích vị béo bùi của nó. Bữa sáng của chị trước kia thường là bánh mì phết phô mai béo hoặc ổ bánh ngọt mua vội trước cổng công ty, ăn xong đến giữa buổi lại đói và với tay lấy bánh kẹo ở văn phòng. Sau khi hiểu ra vấn đề nằm ở khẩu phần chứ không phải bản thân quả bơ, chị thử đổi cách: mua vài quả bơ sáp để chín dần trên bàn bếp, mỗi sáng dằm khoảng nửa quả với chút muối, tiêu và vài giọt chanh, phết lên bánh mì nguyên cám thay cho lớp phô mai cũ. Chị cũng tự dặn mình không ăn thêm bơ sau bữa tối đã đủ no. Mấy tuần giữ nếp này, chị kể rằng bữa sáng của mình no lâu hơn, giữa buổi ít khi phải ăn vặt, và chị được ăn món mình thích mà không còn cảm giác dè chừng. Điều chị tâm đắc là hiểu được "ăn thay" khác với "ăn thêm" — một thay đổi nhỏ trong cách nghĩ nhưng làm bữa ăn nhẹ nhõm đi nhiều. (Đây là trải nghiệm cá nhân được chia sẻ để tham khảo, không phải lời khuyên y tế và không đại diện cho kết quả của mọi người; nhu cầu dinh dưỡng của mỗi người mỗi khác, khi có vấn đề sức khỏe cụ thể bạn nên hỏi ý kiến chuyên gia dinh dưỡng hoặc bác sĩ.)
 :::
 
-:::case Anh T. (Đắk Lắk) — mùa bơ và chuyện "ăn đúng cách"
-Anh T. sống ở vùng trồng bơ, kể rằng mỗi mùa bơ nhà anh có rất nhiều, nhưng vợ anh thì e dè vì nghe nói bơ béo, sợ tăng cân, còn anh thì tiện đâu ăn đó, có hôm ăn liền hai quả sau bữa cơm đã no. Khi hiểu rằng cùng một quả bơ mà "ăn thêm" khác hẳn "ăn thay", cả nhà điều chỉnh lại: mỗi người ăn khoảng nửa quả, dùng bơ nghiền thay cho phần sốt béo trong bữa sáng, và không ăn dồn sau khi đã no. Anh chia sẻ rằng nhờ vậy nhà anh vẫn tận hưởng được mùa bơ mà bữa ăn cảm giác nhẹ nhàng, không nặng bụng như trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, mang tính tham khảo, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
+:::case Anh V. (Đắk Lắk) — mùa bơ và chuyện "ăn đúng cách"
+Anh V. sống ở vùng trồng bơ, kể rằng mỗi mùa bơ nhà anh có rất nhiều, nhưng vợ anh thì e dè vì nghe nói bơ béo, sợ tăng cân, còn anh thì tiện đâu ăn đó, có hôm ăn liền hai quả sau bữa cơm đã no. Khi hiểu rằng cùng một quả bơ mà "ăn thêm" khác hẳn "ăn thay", cả nhà điều chỉnh lại: mỗi người ăn khoảng nửa quả, dùng bơ nghiền thay cho phần sốt béo trong bữa sáng, và không ăn dồn sau khi đã no. Anh chia sẻ rằng nhờ vậy nhà anh vẫn tận hưởng được mùa bơ mà bữa ăn cảm giác nhẹ nhàng, không nặng bụng như trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, mang tính tham khảo, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 
 ## Ai nên lưu ý

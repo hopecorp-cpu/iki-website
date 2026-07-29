@@ -84,7 +84,7 @@ Nói cách khác, đạm động vật là một nguồn đạm giá trị và t
 
 ## Đạm thực vật: điểm mạnh và điểm cần lưu ý
 
-Đạm thực vật đến từ các loại đậu như đậu nành, đậu xanh, đậu đen, đậu lăng, cùng đậu phụ, các loại hạt, ngũ cốc nguyên hạt và một số siêu thực phẩm. Đây là nhóm ngày càng được nhiều người quan tâm khi tìm một nguồn đạm nhẹ nhàng hơn.
+Đạm thực vật đến từ các loại đậu như đậu nành, đậu xanh, đậu đen, đậu lăng, cùng đậu phụ, các loại hạt và ngũ cốc nguyên hạt. Đây là nhóm ngày càng được nhiều người quan tâm khi tìm một nguồn đạm nhẹ nhàng hơn.
 
 Điểm mạnh của đạm thực vật là nó thường nhẹ nhàng cho hệ tiêu hóa, không chứa cholesterol và đi kèm chất xơ, vitamin cùng khoáng chất tự nhiên. Chất xơ này vừa hỗ trợ tiêu hóa vừa góp phần vào cảm giác no lâu dễ chịu. Nhiều người chọn đạm thực vật vì cảm thấy nhẹ bụng hơn sau khi ăn, đặc biệt là những ai có hệ tiêu hóa nhạy cảm hoặc muốn hạn chế đạm động vật.
 
@@ -104,7 +104,7 @@ Vì vậy, với phần lớn mọi người không theo chế độ chay, cách
 
 ## Cách phối đạm trong bữa ăn Việt
 
-Điều tuyệt vời là ẩm thực Việt vốn đã có sẵn nhiều cách phối đạm hài hòa, chỉ cần bạn để ý một chút.
+Điều thuận lợi là ẩm thực Việt vốn đã có sẵn nhiều cách phối đạm hài hòa, chỉ cần bạn để ý một chút.
 
 Với bữa sáng, đây là bữa hay thiếu đạm nhất, nên hãy chủ động thêm một nguồn: một quả trứng cho bát cháo hoặc ổ bánh mì, một hộp sữa chua không đường với hạt, hay một ly đạm thực vật pha cùng trái cây. Bạn có thể xem thêm bài [Ăn sáng thế nào cho một ngày tràn năng lượng](an-sang-tran-nang-luong.html) để dựng bữa sáng đủ đạm mà nhanh gọn.
 
@@ -140,12 +140,12 @@ Quanh chuyện đạm có không ít quan niệm lệch lạc khiến nhiều ng
 
 Hiểu đúng về đạm giúp bạn ăn cân bằng và tự tin hơn, thay vì chạy theo những quan niệm cực đoan về một nhóm thực phẩm.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị M., một nhân viên văn phòng, kể rằng chị từng nghĩ ăn ít lại và cắt bớt thịt là cách để nhẹ người, nên nhiều bữa chị chỉ ăn cơm với rau mà gần như không có đạm. Kết quả là chị hay đói giữa buổi, thèm đồ ngọt và cảm thấy thiếu sức. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị học cách để ý "đạm ở đâu" trong mỗi bữa: thêm đậu phụ, trứng, một ly đạm thực vật cho bữa sáng và các món đậu cho bữa chính. Vài tuần sau, chị chia sẻ rằng mình thấy no lâu hơn, bớt thèm ăn vặt và có cảm giác nhiều sức hơn trong ngày. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
+:::case Chị Uyên (27 tuổi, nhân viên hành chính, Vinh) — cắt thịt nhầm thành cắt cả đạm
+Chị Uyên, 27 tuổi, làm hành chính cho một công ty xây dựng ở Vinh, sống cùng bố mẹ và thường ăn theo mâm cơm gia đình. Chị kể rằng mình từng nghĩ ăn ít lại và cắt bớt thịt là cách để nhẹ người, nên nhiều bữa chị chỉ xới lưng cơm ăn với rau, gần như không đụng tới món đạm nào, bữa sáng thì thường chỉ là gói xôi trắng hoặc nhịn luôn. Kết quả là mới chín, mười giờ sáng chị đã đói cồn cào, ngăn bàn lúc nào cũng phải có bánh quy, và người cứ thiếu sức kiểu là lạ dù ăn "thanh đạm". Mẹ chị sốt ruột, còn tưởng con gái ăn kiêng khắc nghiệt theo mạng. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị mới vỡ ra rằng mình không cần ăn nhiều thịt, nhưng không được bỏ đạm: chị học cách để ý "đạm ở đâu" trong mỗi bữa — thêm đậu phụ, trứng, một ly đạm thực vật cho bữa sáng và các món đậu cho bữa chính. Hoá ra mâm cơm nhà chị vốn có sẵn đậu phụ và lạc rang, chỉ là trước đây chị gạt ra vì tưởng "ăn vào nặng bụng". Vài tuần sau, chị chia sẻ rằng mình thấy no lâu hơn, bớt thèm ăn vặt và có cảm giác nhiều sức hơn trong ngày. Hộp bánh quy trong ngăn bàn giờ đổi thành hũ đậu phộng và hạt điều. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
 :::
 
-:::case Anh T. (Hải Phòng) — phối cả hai nguồn đạm cho nhẹ bụng
-Anh T., làm kinh doanh ở Hải Phòng, chia sẻ rằng anh vốn ăn rất nhiều thịt trong mỗi bữa vì nghĩ như vậy mới có sức, nhưng lại thường thấy nặng bụng và ì ạch sau ăn. Anh bắt đầu thay đổi bằng cách cân lại: giảm bớt phần thịt mỡ, tăng cá và các món đậu, thêm một ly đạm thực vật cho bữa phụ, và luôn ăn kèm nhiều rau. Sau khoảng hai tháng giữ nếp phối cả hai nguồn đạm này, điều anh thấy rõ nhất là bụng nhẹ hơn sau bữa ăn, no lâu dễ chịu và người vẫn đủ sức cho ngày làm việc dài. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, là kết quả của cả một quá trình ăn cân bằng hơn; không phải lời khuyên y khoa hay cam kết về sức khỏe, và cảm nhận có thể khác nhau tùy mỗi người.)
+:::case Anh Toàn (44 tuổi, thợ cơ khí, Hải Dương) — phối cả hai nguồn đạm cho nhẹ bụng
+Anh Toàn, 44 tuổi, làm thợ cơ khí tại một xưởng gia công ở Hải Dương, công việc đứng máy và bê vác cả ngày nên rất tốn sức. Anh chia sẻ rằng mình vốn ăn rất nhiều thịt trong mỗi bữa — có bữa hai, ba món mặn toàn thịt kho, thịt rán — vì nghĩ làm nghề nặng thì "phải ăn thế mới có sức", nhưng lại thường thấy nặng bụng và ì ạch sau ăn, trưa nào cũng phải nằm dài mới dậy làm tiếp nổi. Cái khó của anh là bữa cơm xưởng do mọi người góp nấu, món mặn nhiều mà rau thì ít. Anh bắt đầu thay đổi bằng cách cân lại phần của mình: giảm bớt thịt mỡ, gắp nhiều cá và các món đậu hơn khi mâm có, đề xuất thêm đĩa rau luộc vào tiền góp chợ, và thêm một ly đạm thực vật cho bữa phụ giữa chiều thay vì bánh mì ngọt. Anh em trong xưởng ban đầu cười "ăn thế lấy đâu sức bê máy", nhưng anh vẫn làm việc đều, chẳng hụt đi đâu. Sau khoảng hai tháng giữ nếp phối cả hai nguồn đạm này, điều anh thấy rõ nhất là bụng nhẹ hơn sau bữa ăn, no lâu dễ chịu và người vẫn đủ sức cho ngày làm việc dài. Giờ đĩa rau luộc thành món mặc định của mâm cơm xưởng, và vài người bắt đầu gắp đậu trước khi gắp thịt giống anh. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, là kết quả của cả một quá trình ăn cân bằng hơn; không phải lời khuyên y khoa hay cam kết về sức khỏe, và cảm nhận có thể khác nhau tùy mỗi người.)
 :::
 
 ## Kết
