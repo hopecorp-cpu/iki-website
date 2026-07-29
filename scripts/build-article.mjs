@@ -257,10 +257,10 @@ function render(fm, body) {
   const brandBoxHtml = `<section class="brand-box" aria-label="Sản phẩm và công cụ IKI">
           <h2>Sản phẩm &amp; công cụ IKI by HOPE CORP</h2>
           <ul>
-            <li><a href="../app.html">App IKI</a> — AI Coach Đông y cá nhân hoá theo thể tạng, nhật ký sức khoẻ 30 giây mỗi ngày.</li>
-            <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động (3 Ngày Reset · 7 Ngày Detox).</li>
+            <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số lối sống theo Đông y, miễn phí.</li>
-            <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF).</li>
+            <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động (3 Ngày Reset · 7 Ngày Detox).</li>
+            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
             <li><strong>Thực phẩm bổ sung IKI:</strong> <a href="https://tra.ikihealing.com" target="_blank" rel="noopener noreferrer">Trà Tuệ Minh</a> · <a href="https://thanhhuongtra.ikihealing.com" target="_blank" rel="noopener noreferrer">Trà Thanh Hương</a> · <a href="https://trueveganprotein.com" target="_blank" rel="noopener noreferrer">Đạm thực vật True Vegan Protein</a>.</li>
           </ul>
         </section>`;
@@ -359,7 +359,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
 </head>
 <body>
   <div class="announcement-bar">
-    App IKI — <a href="../app.html">iOS &amp; Android</a>. AI Coach Đông Y cá nhân hoá theo thể tạng.
+    Nhận <a href="../tai-lieu/">cẩm nang chăm sóc sức khoẻ (PDF)</a> miễn phí — gửi thẳng vào email của bạn.
   </div>
 
   <header class="site-header" id="site-header">
@@ -408,9 +408,9 @@ ${article}
         </div>
 
         ${fm.no_product ? "" : `<div class="post-cta">
-          <h3>Chăm sóc sức khoẻ chủ động cùng IKI</h3>
-          <p>AI Coach Đông Y cá nhân hoá theo thể tạng — nhật ký 30 giây mỗi ngày. Miễn phí.</p>
-          <a class="btn btn-primary" href="../app.html">Tải App IKI miễn phí →</a>
+          <h3>Nhận cẩm nang chăm sóc sức khoẻ chủ động — miễn phí</h3>
+          <p>Để lại email, chúng tôi gửi ngay cẩm nang PDF theo thể trạng của bạn. Hoặc <a href="../quiz/">kiểm tra thể trạng 90 giây</a> để nhận bản phân tích cá nhân hoá.</p>
+          <a class="btn btn-primary" href="../tai-lieu/">Nhận cẩm nang miễn phí →</a>
         </div>`}
 
         ${faqHtml}

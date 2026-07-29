@@ -228,7 +228,7 @@ ${ldExtra ? `  <script type="application/ld+json">\n${JSON.stringify(ldExtra, nu
 
 function header() {
   return `
-  <div class="announcement-bar">App IKI — <a href="../app.html">iOS &amp; Android</a>. AI Coach Đông Y cá nhân hoá theo thể tạng.</div>
+  <div class="announcement-bar">Nhận <a href="../tai-lieu/">cẩm nang chăm sóc sức khoẻ (PDF)</a> miễn phí — gửi thẳng vào email của bạn.</div>
   <header class="site-header" id="site-header">
     <nav class="nav">
       <a class="brand" href="../index.html" aria-label="IKI Trang chủ"><img class="brand-logo" src="../iki-logo-256.jpg" alt="IKI logo" /><span>IKI <span class="brand-sub">By HOPE CORP</span></span></a>
@@ -294,7 +294,7 @@ export function buildStructure() {
   ).join("");
   const sidebar = `<aside class="blog-side">
       <div class="side-box side-cats"><div class="side-title">Danh mục</div><ul>${plan.categories.map((c) => `<li><a href="${c.slug === "lo-trinh" ? "lo-trinh.html" : `danh-muc-${c.slug}.html`}">${esc(c.name)}</a><span>${catCount(c.slug)}</span></li>`).join("")}</ul></div>
-      <div class="side-box side-app"><div class="side-tag">App IKI</div><div class="side-h">AI Coach Đông y cá nhân hoá</div><p>Nhật ký 30 giây mỗi ngày, gợi ý theo thể tạng của riêng bạn.</p><a class="btn btn-primary" href="../app.html">Tải miễn phí →</a></div>
+      <div class="side-box side-app"><div class="side-tag">Miễn phí</div><div class="side-h">Cẩm nang chăm sóc sức khoẻ chủ động</div><p>Để lại email, nhận ngay cẩm nang PDF + lộ trình chăm sóc theo thể trạng của bạn.</p><a class="btn btn-primary" href="../tai-lieu/">Nhận cẩm nang →</a></div>
     </aside>`;
   // Khối "Chăm sóc theo độ tuổi" (nổi bật) — từ nhóm roadmap "Theo độ tuổi"
   const AGE = {
