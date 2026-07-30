@@ -625,6 +625,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-gi-de-tap-trung-lam-viec.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/tap-the-duc-buoi-sang-hay-buoi-toi.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-uong-khi-di-tiec-lien-hoan.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <url><loc>https://ikihealing.com/en/blog/</loc><lastmod>2026-07-22</lastmod></url>
@@ -877,8 +901,4 @@
 <url><loc>https://ikihealing.com/blog/thuc-pham-giau-kali.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/do-uong-co-gas-va-suc-khoe.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/cham-soc-da-mua-hanh-kho.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://ikihealing.com/blog/an-gi-de-tap-trung-lam-viec.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://ikihealing.com/blog/tap-the-duc-buoi-sang-hay-buoi-toi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://ikihealing.com/blog/chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://ikihealing.com/blog/an-uong-khi-di-tiec-lien-hoan.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
