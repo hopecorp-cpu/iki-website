@@ -65,6 +65,7 @@ Vì sao lại là nước ấm chứ không phải nước đá? Theo góc nhìn
 - Chuẩn bị sẵn cốc và bình nước ấm từ tối hôm trước, đặt ngay cạnh giường hoặc bồn rửa mặt.
 - Uống từ từ từng ngụm, khoảng 200–300ml, thay vì uống ực một hơi.
 - Nếu thích, có thể vắt vài giọt chanh vào nước ấm cho dễ uống — nhưng nước ấm không thôi đã đủ tốt.
+- Muốn đổi vị, đôi khi bạn có thể thay bằng một tách trà thảo mộc ấm nhẹ như [Trà Tuệ Minh](https://tra.ikihealing.com), thưởng từ tốn như một điểm neo dễ chịu để bắt đầu ngày.
 
 Bạn có thể đọc kỹ hơn về cách uống nước phù hợp với cơ địa trong bài [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html).
 
@@ -134,7 +135,7 @@ Không có một buổi sáng "chuẩn" cho tất cả mọi người. Cơ thể
 - **Người hay thấy nặng nề, uể oải buổi sáng:** tập trung vào bước đánh thức — nước ấm, ánh sáng, vận động nhẹ — và tránh ăn tối quá muộn hoặc quá no đêm hôm trước, vì bữa tối nặng thường kéo theo buổi sáng ì ạch.
 - **Người làm việc trí óc, cần tập trung sớm:** đừng bỏ đạm trong bữa sáng và giữ khoảng lặng hít thở trước khi vào việc, vì cả hai đều giúp năng lượng và sự tập trung ổn định hơn.
 
-Cách chọn theo thể tạng không phải là quy tắc cứng, mà là một cách quan sát và điều chỉnh. Nếu bạn có bệnh nền hoặc đang trong chế độ chăm sóc đặc biệt, hãy trao đổi với bác sĩ hoặc chuyên gia để có gợi ý phù hợp riêng.
+Cách chọn theo thể tạng không phải là quy tắc cứng, mà là một cách quan sát và điều chỉnh. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết thói quen buổi sáng nào hợp với mình. Nếu bạn có bệnh nền hoặc đang trong chế độ chăm sóc đặc biệt, hãy trao đổi với bác sĩ hoặc chuyên gia để có gợi ý phù hợp riêng.
 
 ## Cách xây thói quen buổi sáng bền vững
 

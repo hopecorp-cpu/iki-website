@@ -134,7 +134,7 @@ Người lao động chân tay, vận động nhiều cần nhiều năng lượ
 
 Người có hệ tiêu hóa nhạy cảm nên ưu tiên các món dễ tiêu, ăn từ tốn và chia phần vừa phải, tránh ăn quá no một lúc. Đạm thực vật và các món nấu chín kỹ thường nhẹ nhàng hơn với nhóm này.
 
-Việc ăn theo thể tạng không phải quy tắc cứng nhắc, mà là một cách quan sát và tinh chỉnh dần. Nếu bạn có bệnh nền hoặc chế độ ăn đặc biệt, hãy trao đổi với chuyên gia dinh dưỡng hoặc bác sĩ để có gợi ý phù hợp riêng. Nếu bạn muốn một công cụ nhắc nhở nếp ăn uống và ghi lại thói quen mỗi ngày, [App IKI](../app.html) có thể giúp bạn duy trì đều đặn hơn.
+Việc ăn theo thể tạng không phải quy tắc cứng nhắc, mà là một cách quan sát và tinh chỉnh dần. Nếu bạn có bệnh nền hoặc chế độ ăn đặc biệt, hãy trao đổi với chuyên gia dinh dưỡng hoặc bác sĩ để có gợi ý phù hợp riêng. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp ăn giữ sức nào hợp với mình. Nếu bạn muốn một công cụ nhắc nhở nếp ăn uống và ghi lại thói quen mỗi ngày, [App IKI](../app.html) có thể giúp bạn duy trì đều đặn hơn.
 
 ## Những hiểu lầm về năng lượng và ăn uống
 

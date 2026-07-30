@@ -120,7 +120,7 @@ Người ăn chay hoàn toàn có thể ăn đủ đạm, miễn là biết các
 
 Người lớn tuổi cần đặc biệt chú ý đến đạm, vì khối cơ có xu hướng giảm dần theo tuổi. Ăn đủ đạm đều đặn trong ngày, kết hợp vận động nhẹ, giúp duy trì sự dẻo dai. Với nhóm này, các nguồn đạm dễ tiêu như cá, trứng, đậu phụ, sữa chua và đạm thực vật pha loãng thường phù hợp.
 
-Người vận động nhiều hoặc muốn giữ và xây khối cơ cần đảm bảo tổng lượng đạm đủ trong ngày, chia đều ra các bữa thay vì dồn vào một bữa. Việc phối cả đạm động vật và thực vật giúp đạt lượng đạm mục tiêu một cách đa dạng và dễ chịu.
+Người vận động nhiều hoặc muốn giữ và xây khối cơ cần đảm bảo tổng lượng đạm đủ trong ngày, chia đều ra các bữa thay vì dồn vào một bữa. Việc phối cả đạm động vật và thực vật giúp đạt lượng đạm mục tiêu một cách đa dạng và dễ chịu. Vì nhu cầu đạm mỗi người mỗi khác theo thể trạng, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết cách phối đạm nào hợp với mình.
 
 Người có bệnh nền, đặc biệt là bệnh thận, cần thận trọng với lượng đạm và nên tuân theo hướng dẫn của bác sĩ hoặc chuyên gia dinh dưỡng, vì nhu cầu đạm của họ có thể khác biệt. Đây là điều quan trọng, không nên tự áp dụng các nguyên tắc chung một cách máy móc.
 

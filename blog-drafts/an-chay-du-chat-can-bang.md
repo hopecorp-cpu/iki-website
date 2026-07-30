@@ -162,7 +162,7 @@ Kèm theo đó là vài **thói quen nền** giúp khẩu phần luôn đủ ch�
 - **Ăn đủ năng lượng.** Nếu khẩu phần chay quá ít calo, cơ thể sẽ "đốt" đạm để lấy năng lượng thay vì dùng đạm để duy trì cơ bắp.
 - **Uống đủ nước** và ăn đủ chất xơ để tiêu hoá nhẹ nhàng.
 
-Trong bức tranh lớn hơn về cách phối hợp các nhóm thực phẩm mỗi ngày, bạn có thể tham khảo thêm bài [8 nhóm thực phẩm lành mạnh](8-nhom-thuc-pham-lanh-manh.html) để hình dung một khẩu phần đa dạng nói chung.
+Trong bức tranh lớn hơn về cách phối hợp các nhóm thực phẩm mỗi ngày, bạn có thể tham khảo thêm bài [8 nhóm thực phẩm lành mạnh](8-nhom-thuc-pham-lanh-manh.html) để hình dung một khẩu phần đa dạng nói chung. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết khẩu phần chay nào hợp với mình.
 
 ## Gợi ý thực đơn chay đơn giản
 

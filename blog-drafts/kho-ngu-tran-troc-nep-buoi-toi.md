@@ -126,13 +126,13 @@ Không có một nếp buổi tối duy nhất đúng cho tất cả mọi ngư�
 
 Người hay lo nghĩ, đầu óc khó dừng nên ưu tiên các hoạt động giúp "dọn dẹp tâm trí" trước khi ngủ, như viết nhật ký, liệt kê việc ngày mai, hoặc hít thở chậm. Với nhóm này, việc rời màn hình sớm đặc biệt quan trọng vì thông tin liên tục càng khiến đầu óc khó lắng.
 
-Người hay cảm thấy lạnh, tay chân lạnh vào buổi tối thường dễ chịu với hơi ấm: ngâm chân nước ấm, mặc đồ ngủ thoáng nhưng đủ ấm, đắp chăn phù hợp. Một tách thức uống ấm nhẹ trước giờ ngủ cũng hợp với nhóm này.
+Người hay cảm thấy lạnh, tay chân lạnh vào buổi tối thường dễ chịu với hơi ấm: ngâm chân nước ấm, mặc đồ ngủ thoáng nhưng đủ ấm, đắp chăn phù hợp. Một tách thức uống ấm nhẹ trước giờ ngủ, chẳng hạn một loại trà thảo mộc không caffeine như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), cũng hợp với nhóm này.
 
 Người làm việc theo ca hoặc giờ giấc thất thường sẽ khó cố định giờ ngủ tuyệt đối, nhưng vẫn có thể giữ một nghi thức thư giãn quen thuộc ở mỗi lần chuẩn bị ngủ, dù giờ giấc thay đổi. Chính nghi thức lặp lại đó là tín hiệu ổn định mà cơ thể bám vào.
 
 Người lớn tuổi thường có giấc ngủ nông hơn và dễ tỉnh giấc hơn một cách tự nhiên. Điều này không có nghĩa là cần ít ngủ hơn, mà là cơ thể cần được chăm chút thói quen kỹ hơn: giữ giờ giấc đều, đón nắng sớm, vận động nhẹ ban ngày và một buổi tối thư giãn. Nếu giấc ngủ suy giảm rõ rệt và gây mệt mỏi kéo dài, nên tham khảo ý kiến bác sĩ.
 
-Việc điều chỉnh theo thể tạng không phải quy tắc cứng nhắc, mà là một cách lắng nghe và tinh chỉnh dần. Nếu bạn khó ngủ nghiêm trọng, kéo dài nhiều tuần và ảnh hưởng rõ đến sinh hoạt, hãy trao đổi với bác sĩ hoặc chuyên gia về giấc ngủ để được hỗ trợ phù hợp.
+Việc điều chỉnh theo thể tạng không phải quy tắc cứng nhắc, mà là một cách lắng nghe và tinh chỉnh dần. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp buổi tối nào hợp với mình. Nếu bạn khó ngủ nghiêm trọng, kéo dài nhiều tuần và ảnh hưởng rõ đến sinh hoạt, hãy trao đổi với bác sĩ hoặc chuyên gia về giấc ngủ để được hỗ trợ phù hợp.
 
 ## Những hiểu lầm về giấc ngủ
 

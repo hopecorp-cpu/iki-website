@@ -129,7 +129,7 @@ Nếu bạn quyết định thêm một loại bột đạm thực vật vào n�
 1. **Coi là bổ sung, không phải thay thế.** Bữa ăn thật với thực phẩm nguyên bản vẫn nên là nền tảng. Bột đạm lấp vào chỗ trống của những lúc bận, chứ không phải cái cớ để bỏ bữa.
 2. **Chú ý tổng đạm cả ngày.** Một cách hình dung đơn giản là mỗi bữa chính có một nguồn đạm rõ ràng, thêm đạm ở bữa phụ qua sữa hạt, một nắm hạt hoặc một ly bột đạm khi cần. Ăn đa dạng và đủ năng lượng cả ngày quan trọng hơn việc đếm chính xác từng gam.
 3. **Pha vừa miệng, ít đường thêm.** Nếu tự thêm nguyên liệu, hãy hạn chế cho nhiều đường hay sữa đặc, để giữ vị thanh và tránh nạp năng lượng thừa không cần thiết.
-4. **Nghe cơ thể trong vài tuần đầu.** Khi thêm nhiều đạm thực vật và chất xơ, một số người cần thời gian để tiêu hóa quen dần, nên tăng từ từ là hợp lý.
+4. **Nghe cơ thể trong vài tuần đầu.** Khi thêm nhiều đạm thực vật và chất xơ, một số người cần thời gian để tiêu hóa quen dần, nên tăng từ từ là hợp lý. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp bổ sung đạm nào hợp với mình.
 5. **Hỏi chuyên gia nếu có nhu cầu đặc biệt.** Người mang thai, cho con bú, có bệnh nền như bệnh thận, hoặc đang theo chế độ ăn riêng nên trao đổi với bác sĩ hay chuyên gia dinh dưỡng để cá nhân hóa khẩu phần.
 
 :::case Cảm nhận từ cộng đồng IKI (ẩn danh)

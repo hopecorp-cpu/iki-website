@@ -142,6 +142,7 @@ Nghi thức này không cần cầu kỳ. Điều quan trọng là sự lặp l�
 - Đọc vài trang sách giấy nhẹ nhàng, tránh những nội dung quá kích thích hay căng thẳng.
 - Viết ra giấy vài dòng về những việc còn dang dở hoặc những điều bạn thấy biết ơn trong ngày, để "gửi tạm" chúng ra khỏi đầu.
 - Giãn cơ nhẹ nhàng hoặc nghe một bản nhạc êm dịu.
+- Pha một tách trà thảo mộc ấm không caffeine như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) và thưởng từ tốn như một tín hiệu nhẹ nhàng khép lại ngày.
 
 Trong số này, hít thở chậm là công cụ tiện lợi nhất vì bạn có thể làm ngay trên giường mà không cần dụng cụ gì. Một cách dễ nhớ: hít vào bằng mũi trong khi đếm thầm đến bốn, giữ nhẹ một hai nhịp, rồi thở ra bằng miệng thật chậm và dài hơn hơi hít vào, buông vai và hàm cho mềm. Lặp lại chừng năm đến mười vòng, chú tâm vào cảm giác không khí đi ra đi vào. Việc kéo dài hơi thở ra một cách nhẹ nhàng giúp cơ thể chuyển dần sang trạng thái nghỉ. Nếu tâm trí lại lang thang sang chuyện khác, đó là chuyện bình thường — chỉ cần nhẹ nhàng đưa sự chú ý quay về hơi thở, không cần tự trách.
 
@@ -159,7 +160,7 @@ Lý thuyết dễ hiểu, nhưng nhiều người vẫn lúng túng không biế
 - **Khoảng 22h00:** nghi thức thư giãn thật sự — đọc vài trang sách giấy, viết vài dòng cho ngày mai để đầu óc nhẹ đi, hoặc giãn cơ nhẹ.
 - **Khoảng 22h30:** lên giường, tắt đèn, hít thở chậm vài vòng và để cơ thể tự chìm vào giấc.
 
-Bạn không cần làm đủ mọi bước ngay đêm đầu. Hãy chọn hai ba việc dễ nhất, giữ đúng khung giờ trong vài ngày, rồi thêm dần. Chính sự lặp lại đều đặn ở những mốc giờ quen thuộc mới là thứ khiến cơ thể "học" được nhịp nghỉ.
+Bạn không cần làm đủ mọi bước ngay đêm đầu. Hãy chọn hai ba việc dễ nhất, giữ đúng khung giờ trong vài ngày, rồi thêm dần. Chính sự lặp lại đều đặn ở những mốc giờ quen thuộc mới là thứ khiến cơ thể "học" được nhịp nghỉ. Mỗi người hợp một nếp buổi tối khác nhau; bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết cách chăm giấc ngủ nào hợp với mình.
 
 ## Vận động ban ngày để đêm dễ vào giấc
 

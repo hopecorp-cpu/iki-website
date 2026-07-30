@@ -155,7 +155,7 @@ Lý do phổ biến nhất khiến nhiều người bỏ bữa sáng là "không
 4. **Bữa sáng mang theo**: nếu thực sự không kịp ăn ở nhà, hãy mang theo một hộp gồm bánh mì nguyên cám, trứng và trái cây để ăn khi đến nơi làm, thay vì tạt vào mua đồ ngọt tiện đường.
 5. **Đơn giản hóa**: bữa sáng không nhất thiết phải cầu kỳ. Một ly sữa, một quả chuối và một nắm hạt cũng đã là bữa sáng có cấu trúc, tốt hơn nhiều so với việc nhịn.
 
-Điều quan trọng là đừng để sự cầu toàn cản trở. Một bữa sáng đơn giản nhưng có đủ tinh bột tốt và đạm luôn tốt hơn không có gì.
+Điều quan trọng là đừng để sự cầu toàn cản trở. Một bữa sáng đơn giản nhưng có đủ tinh bột tốt và đạm luôn tốt hơn không có gì. Nếu buổi sáng bạn quen với cà phê, thi thoảng đổi sang một tách trà thảo mộc ấm như [Trà Tuệ Minh](https://tra.ikihealing.com) cũng là một cách nhẹ nhàng để khởi động ngày.
 
 ## Ăn sáng theo thể tạng
 
@@ -166,7 +166,7 @@ Không có một công thức bữa sáng duy nhất đúng cho tất cả mọi
 - **Người vận động nhiều, cần nhiều năng lượng**: có thể tăng phần tinh bột tốt và đạm, ví dụ khoai lang kèm trứng và thêm một phần trái cây, để đủ nhiên liệu cho hoạt động.
 - **Người làm việc trí óc, cần tập trung**: cân bằng đủ bốn nhóm là quan trọng, đặc biệt đừng thiếu đạm và chất béo lành, vì chúng giúp giữ năng lượng ổn định qua buổi sáng dài.
 
-Việc ăn theo thể tạng không phải là quy tắc cứng, mà là một cách quan sát và điều chỉnh. Uống nước cũng nên được cá nhân hóa tương tự; bạn có thể xem thêm bài [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html) để bổ sung thói quen buổi sáng của mình. Nếu bạn có bệnh nền hoặc chế độ ăn đặc biệt, hãy trao đổi với chuyên gia dinh dưỡng hoặc bác sĩ để có gợi ý phù hợp riêng.
+Việc ăn theo thể tạng không phải là quy tắc cứng, mà là một cách quan sát và điều chỉnh. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết bữa sáng và nếp sinh hoạt nào hợp với mình. Uống nước cũng nên được cá nhân hóa tương tự; bạn có thể xem thêm bài [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html) để bổ sung thói quen buổi sáng của mình. Nếu bạn có bệnh nền hoặc chế độ ăn đặc biệt, hãy trao đổi với chuyên gia dinh dưỡng hoặc bác sĩ để có gợi ý phù hợp riêng.
 
 ## Những hiểu lầm về bữa sáng
 

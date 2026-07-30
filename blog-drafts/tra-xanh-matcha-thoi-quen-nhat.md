@@ -130,7 +130,7 @@ Người có hệ tiêu hoá nhạy cảm, hay cồn cào khi đói, nên tránh
 
 Người bận rộn, làm việc trí óc cả ngày có thể tận dụng một tách trà xanh giữa giờ như một cách nghỉ ngắn có chủ đích: vừa có chút tỉnh táo, vừa có một khoảnh khắc thở chậm. Chính khoảng nghỉ nhỏ này mới là điều nuôi dưỡng tinh thần, đôi khi còn hơn cả tác động của tách trà.
 
-Việc uống trà theo cảm nhận không phải quy tắc cứng nhắc, mà là một cách lắng nghe và điều chỉnh. Nếu bạn đang mang thai, cho con bú, có bệnh nền hoặc đang được bác sĩ theo dõi sức khoẻ, hãy trao đổi với chuyên gia y tế về lượng trà và caffeine phù hợp trước khi đưa vào nếp uống đều đặn.
+Việc uống trà theo cảm nhận không phải quy tắc cứng nhắc, mà là một cách lắng nghe và điều chỉnh. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp uống trà nào hợp với mình. Nếu bạn đang mang thai, cho con bú, có bệnh nền hoặc đang được bác sĩ theo dõi sức khoẻ, hãy trao đổi với chuyên gia y tế về lượng trà và caffeine phù hợp trước khi đưa vào nếp uống đều đặn.
 
 ## Những hiểu lầm về trà xanh và matcha
 

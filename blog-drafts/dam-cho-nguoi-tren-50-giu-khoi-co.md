@@ -166,7 +166,7 @@ Với những ngày bận rộn hoặc khi khẩu vị kém khiến bạn khó �
 
 ## Đạm thực vật và đạm động vật cho tuổi 50+
 
-Câu hỏi "nên ăn đạm động vật hay đạm thực vật" thường được đặt ra như một lựa chọn phải chọn một, trong khi thực tế câu trả lời hợp lý nhất với hầu hết mọi người là phối cả hai.
+Câu hỏi "nên ăn đạm động vật hay đạm thực vật" thường được đặt ra như một lựa chọn phải chọn một, trong khi thực tế câu trả lời hợp lý nhất với hầu hết mọi người là phối cả hai. Vì thể trạng và nhu cầu mỗi người mỗi khác, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết cách phối đạm nào hợp với mình.
 
 Đạm động vật có lợi thế rõ ở chỗ cung cấp đầy đủ các axit amin thiết yếu trong một nguồn, và thường giàu leucine, một axit amin đóng vai trò như công tắc khởi động quá trình tổng hợp cơ. Đây là điểm đáng lưu ý với người lớn tuổi, khi cơ thể vốn đã kém nhạy hơn với tín hiệu này.
 

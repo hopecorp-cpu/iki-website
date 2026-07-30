@@ -136,7 +136,7 @@ Khoảng cách giữa các bữa quá xa dễ khiến bạn đói dữ dội r�
 
 ## Một ngày ăn mẫu giữ năng lượng ổn định
 
-Để mọi thứ bớt trừu tượng, đây là một ngày mẫu bạn có thể tham khảo và chỉnh theo khẩu vị. Các gợi ý đều dùng nguyên liệu quen thuộc, dễ mua và dễ làm.
+Để mọi thứ bớt trừu tượng, đây là một ngày mẫu bạn có thể tham khảo và chỉnh theo khẩu vị. Các gợi ý đều dùng nguyên liệu quen thuộc, dễ mua và dễ làm. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp ăn giữ sức nào hợp với mình.
 
 **Bữa sáng** (đủ đạm để trụ tới trưa): một bát yến mạch nấu với sữa không đường, thêm nửa quả chuối, một thìa hạt chia và một quả trứng luộc bên cạnh. Hoặc bánh mì nguyên cám kẹp trứng và rau, kèm một hộp sữa chua.
 

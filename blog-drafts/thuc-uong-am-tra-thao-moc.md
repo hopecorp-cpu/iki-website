@@ -138,7 +138,7 @@ Người dễ nóng trong, hay khát, khô miệng có thể ưu tiên các lo�
 
 Người bận rộn, làm việc trí óc cả ngày có thể tận dụng trà thảo mộc túi lọc như một cách nghỉ ngắn giữa giờ: dừng tay vài phút, hãm một tách trà, hít hà hương thơm và thở chậm lại. Khoảng nghỉ nhỏ này vừa bù nước vừa giúp đầu óc thư giãn.
 
-Việc uống theo thể tạng không phải quy tắc cứng nhắc, mà là một cách lắng nghe và điều chỉnh. Nếu bạn có bệnh nền, đang mang thai, cho con bú hoặc đang được bác sĩ theo dõi sức khỏe, hãy trao đổi với chuyên gia y tế trước khi đưa một loại thảo mộc mới vào nếp uống đều đặn, để có gợi ý phù hợp riêng cho mình.
+Việc uống theo thể tạng không phải quy tắc cứng nhắc, mà là một cách lắng nghe và điều chỉnh. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp uống nào hợp với mình. Nếu bạn có bệnh nền, đang mang thai, cho con bú hoặc đang được bác sĩ theo dõi sức khỏe, hãy trao đổi với chuyên gia y tế trước khi đưa một loại thảo mộc mới vào nếp uống đều đặn, để có gợi ý phù hợp riêng cho mình.
 
 ## Những hiểu lầm về trà thảo mộc
 
