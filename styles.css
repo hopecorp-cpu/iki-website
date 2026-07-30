@@ -6130,6 +6130,24 @@ h3 {
   margin-bottom: 28px;
 }
 .callout-section.section-black .callout-text h2 { color: white; }
+.callout-lead {
+  font-size: 1.02rem;
+  line-height: 1.65;
+  color: #475467;
+  margin: 0 0 26px;
+  max-width: 52ch;
+}
+.callout-section.section-black .callout-lead { color: rgba(255,255,255,0.72); }
+.callout-lead strong { color: #2E8975; font-weight: 700; }
+.callout-section.section-black .callout-lead strong { color: #A8D254; }
+.callout-note {
+  font-size: 0.84rem;
+  line-height: 1.55;
+  color: #98a2b3;
+  margin: -22px 0 26px;
+  max-width: 52ch;
+}
+.callout-section.section-black .callout-note { color: rgba(255,255,255,0.46); }
 .callout-list {
   list-style: none;
   padding: 0;
