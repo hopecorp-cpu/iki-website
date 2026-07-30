@@ -185,5 +185,5 @@ Uống nước đúng cách không phải là một bí quyết phức tạp. Đ
 Đó cũng là tinh thần chăm sóc sức khoẻ chủ động mà IKI theo đuổi: không áp công thức chung, mà đồng hành cùng bạn hiểu đúng cơ thể mình để chọn điều phù hợp nhất. Nếu bạn muốn xây trọn một buổi sáng lành mạnh quanh cốc nước ấm này, hãy xem thêm [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) và [Ăn sáng thế nào cho một ngày tràn năng lượng](an-sang-tran-nang-luong.html).
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

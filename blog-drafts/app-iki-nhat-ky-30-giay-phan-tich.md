@@ -7,7 +7,7 @@
   "keyword": "nhật ký sức khoẻ hàng ngày",
   "category": "thoi-quen",
   "date": "2026-07-29",
-  "author": "Đội ngũ IKI by HOPE CORP",
+  "author": "Đội ngũ IKI Healing",
   "hero_local": "assets/blog/app-iki-nhat-ky-30-giay-phan-tich-hero.jpg",
   "hero_alt": "Điện thoại và sổ tay nhỏ bên đèn ngủ",
   "reading_min": 6,

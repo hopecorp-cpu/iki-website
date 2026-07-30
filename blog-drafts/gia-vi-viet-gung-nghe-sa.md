@@ -157,5 +157,5 @@ Gừng, nghệ, sả cùng tỏi, hành, tiêu, quế không chỉ tạo nên h�
 Hãy thử để ý hơn đến giỏ gia vị trong bếp nhà mình — đôi khi, chăm sóc sức khoẻ chủ động bắt đầu từ chính căn bếp và những bữa cơm tự tay nấu. Bạn có thể đọc thêm về cách ăn cân bằng trong bài [8 nhóm thực phẩm lành mạnh](8-nhom-thuc-pham-lanh-manh.html), hoặc tìm hiểu cách phối món nóng – mát trong bài [minh triết ăn uống phương Đông: nguyên tắc âm dương trong bữa cơm](minh-triet-an-uong-am-duong.html) để mỗi bữa ăn thêm hài hoà.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI Healing: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

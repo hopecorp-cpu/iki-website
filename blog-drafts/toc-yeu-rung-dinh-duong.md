@@ -165,5 +165,5 @@ Hãy bắt đầu từ một thay đổi nhỏ ngay tuần này: thêm một ph�
 Cuối cùng, xin nhắc lại rằng đây là thông tin dinh dưỡng chung mang tính tham khảo. Nếu bạn bị rụng tóc nhiều bất thường, tóc thưa rõ hay rụng thành mảng, hoặc đang mang thai, có bệnh nền, hãy đi khám bác sĩ da liễu hoặc trao đổi với chuyên gia dinh dưỡng để được đánh giá và tư vấn phù hợp với riêng mình.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI Healing: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

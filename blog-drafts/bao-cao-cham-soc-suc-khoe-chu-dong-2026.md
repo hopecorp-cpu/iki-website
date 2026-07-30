@@ -3,15 +3,15 @@
   "title": "Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026 — dữ liệu từ 1.540 đơn hàng thực tế",
   "seo_title": "Báo cáo sức khoẻ chủ động 2026: số liệu người Việt mua gì, ở đâu",
   "slug": "bao-cao-cham-soc-suc-khoe-chu-dong-2026",
-  "description": "Báo cáo dữ liệu độc quyền từ 1.540 đơn hàng, 1.064 khách hàng và cộng đồng 200.000+ thành viên IKI by HOPE CORP: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì. Mở cho báo chí trích dẫn.",
+  "description": "Báo cáo dữ liệu độc quyền từ 1.540 đơn hàng, 1.064 khách hàng và cộng đồng 200.000+ thành viên IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì. Mở cho báo chí trích dẫn.",
   "keyword": "báo cáo sức khoẻ chủ động 2026",
   "category": "bao-cao",
   "date": "2026-07-29",
-  "author": "Đội ngũ IKI by HOPE CORP",
+  "author": "Đội ngũ IKI Healing",
   "hero_local": "assets/blog/bao-cao-cham-soc-suc-khoe-chu-dong-2026-hero.jpg",
   "hero_alt": "Bản báo cáo số liệu in trên bàn làm việc cạnh tách trà xanh",
   "reading_min": 9,
-  "answer": "Báo cáo tổng hợp dữ liệu vận hành thực tế của IKI by HOPE CORP kỳ 03–07/2026: đạm thực vật chiếm 63,7% giá trị giỏ hàng sức khoẻ; 29,1% khách quay lại mua tiếp trong vòng 5 tháng; 64% đơn hàng đến từ ngoài Hà Nội và TP.HCM; 68% giao dịch vẫn chọn thanh toán khi nhận hàng (COD); và 80–85% doanh thu đi qua kênh nhắn tin Zalo thay vì giỏ hàng thương mại điện tử. Số liệu mở cho báo chí và nhà nghiên cứu trích dẫn kèm nguồn.",
+  "answer": "Báo cáo tổng hợp dữ liệu vận hành thực tế của IKI Healing kỳ 03–07/2026: đạm thực vật chiếm 63,7% giá trị giỏ hàng sức khoẻ; 29,1% khách quay lại mua tiếp trong vòng 5 tháng; 64% đơn hàng đến từ ngoài Hà Nội và TP.HCM; 68% giao dịch vẫn chọn thanh toán khi nhận hàng (COD); và 80–85% doanh thu đi qua kênh nhắn tin Zalo thay vì giỏ hàng thương mại điện tử. Số liệu mở cho báo chí và nhà nghiên cứu trích dẫn kèm nguồn.",
   "faq": [
     {
       "q": "Số liệu trong báo cáo này lấy từ đâu?",
@@ -19,15 +19,15 @@
     },
     {
       "q": "Báo chí có được trích dẫn số liệu này không?",
-      "a": "Có. Báo cáo mở cho báo chí, nhà nghiên cứu và người làm nội dung trích dẫn miễn phí, kèm ghi nguồn 'Báo cáo IKI by HOPE CORP, 2026' và liên kết về trang này. Cần bảng số chi tiết hơn hoặc phỏng vấn, liên hệ contact@ikihealing.com."
+      "a": "Có. Báo cáo mở cho báo chí, nhà nghiên cứu và người làm nội dung trích dẫn miễn phí, kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Cần bảng số chi tiết hơn hoặc phỏng vấn, liên hệ contact@ikihealing.com."
     },
     {
       "q": "Dữ liệu có đại diện cho toàn bộ người Việt không?",
-      "a": "Không. Đây là dữ liệu từ tệp khách hàng và cộng đồng của IKI by HOPE CORP — những người đã quan tâm đến lối sống lành mạnh — nên phản ánh hành vi của nhóm chủ động chăm sóc sức khoẻ, không phải mẫu đại diện dân số. Báo cáo ghi rõ phương pháp và giới hạn ở phần cuối."
+      "a": "Không. Đây là dữ liệu từ tệp khách hàng và cộng đồng của IKI Healing — những người đã quan tâm đến lối sống lành mạnh — nên phản ánh hành vi của nhóm chủ động chăm sóc sức khoẻ, không phải mẫu đại diện dân số. Báo cáo ghi rõ phương pháp và giới hạn ở phần cuối."
     },
     {
       "q": "Báo cáo có được cập nhật không?",
-      "a": "Có. IKI by HOPE CORP dự kiến phát hành báo cáo định kỳ khi có thêm dữ liệu mới, gồm cả dữ liệu khảo sát thể tạng từ cộng đồng. Bản mới nhất luôn nằm trong chuyên mục Báo cáo & Số liệu của blog."
+      "a": "Có. IKI Healing dự kiến phát hành báo cáo định kỳ khi có thêm dữ liệu mới, gồm cả dữ liệu khảo sát thể tạng từ cộng đồng. Bản mới nhất luôn nằm trong chuyên mục Báo cáo & Số liệu của blog."
     }
   ]
 }
@@ -35,7 +35,7 @@
 
 Chăm sóc sức khoẻ chủ động — chăm cơ thể trước khi nó lên tiếng — được nói đến rất nhiều, nhưng hầu hết bài viết dừng ở lời khuyên. Câu hỏi ít ai trả lời được bằng số: **người Việt thực sự bắt đầu từ đâu, chi tiêu thế nào, ở những tỉnh nào, và tin vào điều gì khi mua sản phẩm sức khoẻ trên mạng?**
 
-Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKI by HOPE CORP kỳ **tháng 3 – tháng 7/2026**: 1.540 đơn hàng của 1.064 khách hàng, 1.531 vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng hơn 200.000 thành viên. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
+Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKI Healing kỳ **tháng 3 – tháng 7/2026**: 1.540 đơn hàng của 1.064 khách hàng, 1.531 vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng hơn 200.000 thành viên. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
 
 ## Năm con số chính
 
@@ -89,7 +89,7 @@ Hai con số nói lên cùng một câu chuyện:
 
 Với ngành hàng đưa vào cơ thể, người Việt chưa mua bằng nút "Mua ngay" — họ mua bằng **niềm tin được xây qua đối thoại**: hỏi đáp trực tiếp, cộng đồng đông người thật, và quyền được cầm hàng trên tay rồi mới trả tiền.
 
-Đây cũng là lý do IKI by HOPE CORP xây cộng đồng hơn 200.000 thành viên và đội ngũ tư vấn con người trước khi xây bất kỳ giỏ hàng nào.
+Đây cũng là lý do IKI Healing xây cộng đồng hơn 200.000 thành viên và đội ngũ tư vấn con người trước khi xây bất kỳ giỏ hàng nào.
 
 ## 5. Phương pháp và giới hạn của báo cáo
 
@@ -109,7 +109,7 @@ Với ngành hàng đưa vào cơ thể, người Việt chưa mua bằng nút "
 
 ## Dành cho báo chí và người làm nội dung
 
-Toàn bộ số liệu trong báo cáo được **trích dẫn miễn phí** với điều kiện ghi nguồn: *"Báo cáo IKI by HOPE CORP, 2026"* kèm liên kết về trang này.
+Toàn bộ số liệu trong báo cáo được **trích dẫn miễn phí** với điều kiện ghi nguồn: *"Báo cáo IKI Healing, 2026"* kèm liên kết về trang này.
 
 - Tải bản PDF trình bày đầy đủ: [Báo cáo PDF cho báo chí](../assets/bao-cao/bao-cao-cham-soc-suc-khoe-chu-dong-2026.pdf)
 - Cần bảng số chi tiết hơn, góc phân tích riêng cho bài viết của bạn, hoặc phỏng vấn đội ngũ: email **contact@ikihealing.com** — chúng tôi phản hồi trong 48 giờ làm việc.

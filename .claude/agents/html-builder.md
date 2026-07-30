@@ -70,7 +70,7 @@ website/                          ← Git root, deploy root
   <!-- Open Graph -->
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
   <meta property="og:url" content="https://ikihealing.com/[page-slug].html" />
   <meta property="og:title" content="[OG TITLE]" />
   <meta property="og:description" content="[OG DESCRIPTION]" />

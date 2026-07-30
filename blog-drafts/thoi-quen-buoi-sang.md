@@ -179,5 +179,5 @@ Thói quen buổi sáng của người sống khoẻ không phải là một dan
 Khi buổi sáng của bạn có nhịp, cả ngày cũng theo đó mà nhẹ nhõm và chủ động hơn. Đó là cách chăm sóc sức khoẻ chủ động bắt đầu: từ những điều nhỏ, làm đều mỗi ngày. Và như hai câu chuyện ở trên cho thấy, thứ tạo ra khác biệt không phải một buổi sáng "hoàn hảo" trong một ngày, mà là một buổi sáng "đủ tốt" được lặp lại đều đặn. Nếu bạn muốn một lộ trình từng bước, hãy xem [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html), hoặc ghép buổi sáng này với một [giấc ngủ chất lượng](giac-ngu-chat-luong.html) để cả nhịp ngày và nhịp đêm cùng nâng đỡ nhau.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

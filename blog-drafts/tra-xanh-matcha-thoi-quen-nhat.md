@@ -163,5 +163,5 @@ Trà xanh và matcha không chỉ là những thức uống, mà là một cánh
 Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là pha một tách trà xanh đầu giờ chiều thay cho ly nước ngọt, hoặc thử tự đánh một bát matcha vào buổi sáng và uống thật chậm. Những khoảnh khắc nhỏ đều đặn ấy, cùng với thói quen ăn uống cân bằng và ngủ đủ, chính là cách bạn chăm sóc cả cơ thể lẫn tinh thần mỗi ngày. Nếu bạn thích hương vị thảo mộc dịu nhẹ cho những buổi tối không caffeine, một tách trà ấm như [Trà Tuệ Minh](https://tra.ikihealing.com) dạng túi lọc là một lựa chọn tiện lợi để đổi vị; còn nếu muốn hiểu rộng hơn về nếp uống ấm mỗi ngày, bạn có thể đọc thêm bài [Thức uống ấm mỗi ngày và trà thảo mộc](thuc-uong-am-tra-thao-moc.html).
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI by HOPE CORP — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai (10,3% giá trị giỏ hàng) trong dữ liệu 1.540 đơn hàng thực tế kỳ 03–07/2026 của IKI Healing — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

@@ -167,5 +167,5 @@ Nếu bạn mới đặt những viên gạch đầu tiên cho hành trình sứ
 > Nội dung trong bài chỉ mang tính tham khảo cho lối sống lành mạnh, không thay thế cho tư vấn, thăm khám của bác sĩ hoặc chuyên gia y tế. Thực phẩm bổ sung không thay thế thuốc chữa bệnh, cũng không thay thế chế độ ăn cân bằng và lối sống lành mạnh.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

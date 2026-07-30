@@ -208,7 +208,7 @@ function render(fm, body) {
   const ld = [
     {
       "@context": "https://schema.org", "@type": "Organization",
-      name: "IKI by HOPE CORP", alternateName: ["IKI", "ikihealing", "IKI Healing"],
+      name: "IKI Healing — by HOPE CORP", alternateName: ["IKI", "ikihealing", "IKI Healing"],
       url: SITE, logo: `${SITE}/iki-logo-1024.jpg`,
       parentOrganization: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE", taxID: "0801404967" },
       sameAs: [
@@ -227,7 +227,7 @@ function render(fm, body) {
       image: [heroAbs],
       datePublished: fm.date, dateModified: fm.updated || fm.date,
       author: { "@type": "Organization", name: author, url: SITE },
-      publisher: { "@type": "Organization", name: "IKI by HOPE CORP", logo: { "@type": "ImageObject", url: `${SITE}/iki-logo-1024.jpg` } },
+      publisher: { "@type": "Organization", name: "IKI Healing — by HOPE CORP", logo: { "@type": "ImageObject", url: `${SITE}/iki-logo-1024.jpg` } },
       mainEntityOfPage: { "@type": "WebPage", "@id": url },
       inLanguage: "vi-VN",
     },
@@ -262,7 +262,7 @@ function render(fm, body) {
     : "";
   // Box thương hiệu + sản phẩm (SEO: search "iki/ikihealing" → ra IKI + sản phẩm)
   const brandBoxHtml = `<section class="brand-box" aria-label="Sản phẩm và công cụ IKI">
-          <h2>Sản phẩm &amp; công cụ IKI by HOPE CORP</h2>
+          <h2>Sản phẩm &amp; công cụ IKI Healing</h2>
           <ul>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số lối sống theo Đông y, miễn phí.</li>
@@ -290,7 +290,7 @@ function render(fm, body) {
 
   <meta property="og:type" content="article" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
   <meta property="og:url" content="${url}" />
   <meta property="og:title" content="${escAttr(fm.title)}" />
   <meta property="og:description" content="${escAttr(clamp(fm.description, 160))}" />

@@ -7,7 +7,7 @@
   "keyword": "ai đồng hành sức khoẻ",
   "category": "thoi-quen",
   "date": "2026-07-29",
-  "author": "Đội ngũ IKI by HOPE CORP",
+  "author": "Đội ngũ IKI Healing",
   "hero_local": "assets/blog/app-iki-lao-dong-hanh-tiet-khi-hero.jpg",
   "hero_alt": "Điện thoại cạnh tách trà lá sen và tờ lịch",
   "reading_min": 6,

@@ -133,7 +133,7 @@ Giữ nguyên những từ sau trong mọi ngôn ngữ:
 
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
   <!-- ... other OG tags ... -->
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />

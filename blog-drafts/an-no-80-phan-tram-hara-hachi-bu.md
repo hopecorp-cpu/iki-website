@@ -154,5 +154,5 @@ Hara hachi bu là một lời nhắc giản dị nhưng sâu sắc từ văn ho�
 Đây cũng chính là tinh thần mà IKI tin tưởng trong hành trình ăn uống cân bằng: chăm sóc bản thân không phải bằng những thay đổi lớn lao trong chốc lát, mà bằng những thói quen nhỏ, tử tế với chính mình, lặp lại đều đặn mỗi ngày. Bạn có thể bắt đầu ngay bữa cơm tối nay, chỉ với một việc: ăn chậm lại và dừng khi thấy nhẹ nhõm. Nếu muốn đặt thói quen này vào một bức tranh ăn uống rộng hơn, hãy tham khảo thêm bài [Ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html) để điều chỉnh bữa ăn hợp với cơ địa và nhịp sống của riêng bạn. Và nếu bạn có bệnh nền hoặc chế độ ăn đặc biệt, đừng ngần ngại trao đổi với chuyên gia dinh dưỡng để có gợi ý phù hợp.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

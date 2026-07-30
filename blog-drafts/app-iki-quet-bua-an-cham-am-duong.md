@@ -7,7 +7,7 @@
   "keyword": "app chấm điểm bữa ăn",
   "category": "thoi-quen",
   "date": "2026-07-29",
-  "author": "Đội ngũ IKI by HOPE CORP",
+  "author": "Đội ngũ IKI Healing",
   "hero_local": "assets/blog/app-iki-quet-bua-an-cham-am-duong-hero.jpg",
   "hero_alt": "Điện thoại đặt cạnh bữa ăn tươi",
   "reading_min": 6,

@@ -3,15 +3,15 @@
   "title": "Báo cáo: Bản đồ chi tiêu sức khoẻ chủ động theo vùng miền — tỉnh 'chịu chi' hơn thành phố",
   "seo_title": "Chi tiêu sức khoẻ theo vùng miền 2026: tỉnh chi đậm hơn thành phố",
   "slug": "bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026",
-  "description": "Phân tích 1.348 đơn hàng COD thực tế của IKI by HOPE CORP: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền (~1,1 triệu đồng/đơn), và các tỉnh như Lâm Đồng, Thái Bình, Hải Phòng chi đậm hơn cả Hà Nội, TP.HCM. Số liệu mở cho báo chí trích dẫn.",
+  "description": "Phân tích 1.348 đơn hàng COD thực tế của IKI Healing: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền (~1,1 triệu đồng/đơn), và các tỉnh như Lâm Đồng, Thái Bình, Hải Phòng chi đậm hơn cả Hà Nội, TP.HCM. Số liệu mở cho báo chí trích dẫn.",
   "keyword": "chi tiêu sức khoẻ theo vùng miền",
   "category": "bao-cao",
   "date": "2026-07-29",
-  "author": "Đội ngũ IKI by HOPE CORP",
+  "author": "Đội ngũ IKI Healing",
   "hero_local": "assets/blog/bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026-hero.jpg",
   "hero_alt": "Bản đồ Việt Nam xếp từ lá xanh cạnh biểu đồ và tách trà",
   "reading_min": 7,
-  "answer": "Phân tích 1.348 đơn hàng thanh toán khi nhận (COD) kỳ 03–07/2026 của IKI by HOPE CORP cho thấy mức chi cho một đơn hàng sức khoẻ chủ động gần như đồng đều khắp ba miền: miền Bắc bình quân 1,14 triệu đồng, miền Trung 1,07 triệu, miền Nam 1,15 triệu — chênh lệch dưới 8%. Đáng chú ý, nhiều tỉnh chi bình quân mỗi đơn cao hơn hẳn hai đô thị lớn: Thái Bình 1,74 triệu, Lâm Đồng 1,70 triệu, Bình Dương 1,44 triệu — so với Hà Nội 1,10 triệu và TP.HCM 1,11 triệu. Giá trị đơn phổ biến nhất toàn quốc (trung vị) là 668.000đ.",
+  "answer": "Phân tích 1.348 đơn hàng thanh toán khi nhận (COD) kỳ 03–07/2026 của IKI Healing cho thấy mức chi cho một đơn hàng sức khoẻ chủ động gần như đồng đều khắp ba miền: miền Bắc bình quân 1,14 triệu đồng, miền Trung 1,07 triệu, miền Nam 1,15 triệu — chênh lệch dưới 8%. Đáng chú ý, nhiều tỉnh chi bình quân mỗi đơn cao hơn hẳn hai đô thị lớn: Thái Bình 1,74 triệu, Lâm Đồng 1,70 triệu, Bình Dương 1,44 triệu — so với Hà Nội 1,10 triệu và TP.HCM 1,11 triệu. Giá trị đơn phổ biến nhất toàn quốc (trung vị) là 668.000đ.",
   "faq": [
     {
       "q": "Số liệu này lấy từ đâu?",
@@ -23,15 +23,15 @@
     },
     {
       "q": "Báo chí có được trích dẫn không?",
-      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI by HOPE CORP, 2026' và liên kết về trang này. Cần bảng số theo tỉnh đầy đủ hoặc góc phân tích riêng, liên hệ contact@ikihealing.com, phản hồi trong 48 giờ làm việc."
+      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Cần bảng số theo tỉnh đầy đủ hoặc góc phân tích riêng, liên hệ contact@ikihealing.com, phản hồi trong 48 giờ làm việc."
     }
   ]
 }
 ---
 
-Khi nói về thị trường sức khoẻ, phản xạ chung của người làm kinh doanh lẫn báo chí là nhìn về Hà Nội và TP.HCM. Bộ dữ liệu vận đơn thực tế của IKI by HOPE CORP kỳ **tháng 3 – tháng 7/2026** kể một câu chuyện khác: **về mức chi cho mỗi đơn hàng, nhiều tỉnh đang "chịu chi" hơn cả hai đô thị lớn.**
+Khi nói về thị trường sức khoẻ, phản xạ chung của người làm kinh doanh lẫn báo chí là nhìn về Hà Nội và TP.HCM. Bộ dữ liệu vận đơn thực tế của IKI Healing kỳ **tháng 3 – tháng 7/2026** kể một câu chuyện khác: **về mức chi cho mỗi đơn hàng, nhiều tỉnh đang "chịu chi" hơn cả hai đô thị lớn.**
 
-Đây là báo cáo thứ hai trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI by HOPE CORP — số liệu tổng hợp, không chứa thông tin cá nhân, mở cho báo chí trích dẫn miễn phí kèm nguồn. Bản đầu tiên: [Người Việt chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Đây là báo cáo thứ hai trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing — số liệu tổng hợp, không chứa thông tin cá nhân, mở cho báo chí trích dẫn miễn phí kèm nguồn. Bản đầu tiên: [Người Việt chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 
 ## Ba con số chính
 
@@ -86,7 +86,7 @@ Lâm Đồng có trung vị 1,34 triệu đồng/đơn — cao nhất cả nư�
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI by HOPE CORP, 2026"* và liên kết về trang này. Tải [bản PDF trình bày đầy đủ](../assets/bao-cao/bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026.pdf). Cần bảng số theo tỉnh chi tiết hơn hoặc góc phân tích riêng: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Tải [bản PDF trình bày đầy đủ](../assets/bao-cao/bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026.pdf). Cần bảng số theo tỉnh chi tiết hơn hoặc góc phân tích riêng: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
 Báo cáo phản ánh hành vi mua sắm và lối sống, không phải dữ liệu y khoa. Các sản phẩm được nhắc đến là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.

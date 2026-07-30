@@ -227,5 +227,5 @@ Hãy chọn một việc dễ nhất để bắt đầu ngay tuần này — th�
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có dấu hiệu bất thường kéo dài hoặc bệnh lý nền, hãy đi khám và hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

@@ -1,4 +1,4 @@
-# IKI by HOPE CORP — robots.txt
+# IKI Healing — by HOPE CORP — robots.txt
 # https://ikihealing.com
 # GEO: chào đón các bot AI (ChatGPT/Claude/Perplexity/Gemini/...) để nội dung được trích dẫn.
 # Hướng dẫn cho AI: https://ikihealing.com/llms.txt

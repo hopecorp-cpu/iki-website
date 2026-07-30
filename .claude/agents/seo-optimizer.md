@@ -77,7 +77,7 @@ Khoa học, cá nhân hoá, được hàng nghìn người tin dùng."
 ```html
 <meta property="og:type" content="website" />
 <meta property="og:locale" content="vi_VN" />          <!-- vi_VN / en_US / ja_JP -->
-<meta property="og:site_name" content="IKI by HOPE CORP" />
+<meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
 <meta property="og:url" content="https://ikihealing.com/[page].html" />
 <meta property="og:title" content="[OG title — có thể dài hơn meta title 1 chút]" />
 <meta property="og:description" content="[OG description]" />

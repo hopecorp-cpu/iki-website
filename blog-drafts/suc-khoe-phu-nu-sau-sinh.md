@@ -162,5 +162,5 @@ Hãy đối xử với bản thân bằng sự dịu dàng mà mẹ vẫn dành 
 Nếu mẹ muốn theo dõi những thay đổi nhỏ mỗi ngày — bữa ăn, giấc ngủ, tâm trạng, những bước đi bộ đầu tiên — **ứng dụng nhật ký sức khoẻ IKI** có thể là một người bạn đồng hành nhẹ nhàng, giúp mẹ ghi lại và nhìn thấy chính mình đang dần khoẻ hơn qua từng ngày. Và khi cần một bữa phụ nhanh gọn cho những lúc bận rộn, sản phẩm **đạm thực vật IKI** là một gợi ý tiện lợi để làm phong phú thực đơn. Tất cả chỉ nhằm hỗ trợ lối sống lành mạnh của mẹ, và không thay thế cho việc thăm khám cùng bác sĩ khi cần. Chúc mẹ thật nhiều sức khoẻ và bình an trên hành trình làm mẹ.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

@@ -70,7 +70,7 @@ function head(title, desc, canonical) {
   <link rel="canonical" href="${canonical}" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escAttr(title)}" />
   <meta property="og:description" content="${escAttr(desc)}" />
@@ -213,8 +213,8 @@ function indexPage() {
     <p>${esc(d.desc)}</p>
     <span class="tl-go">Nhận tài liệu →</span>
   </a>`).join("\n");
-  return head("Tài liệu chăm sóc sức khoẻ miễn phí | IKI by HOPE CORP",
-    "Tải miễn phí các cẩm nang và ebook chăm sóc sức khoẻ chủ động từ IKI by HOPE CORP.", canonical)
+  return head("Tài liệu chăm sóc sức khoẻ miễn phí | IKI Healing",
+    "Tải miễn phí các cẩm nang và ebook chăm sóc sức khoẻ chủ động từ IKI Healing.", canonical)
     + header()
     + `<main>
   <section class="tl-hero"><span class="eyebrow">Tài liệu miễn phí</span><h1>Tài liệu chăm sóc sức khoẻ chủ động</h1><p>Cẩm nang và ebook do IKI biên soạn — để lại email là nhận được ngay.</p></section>

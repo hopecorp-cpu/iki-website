@@ -3,15 +3,15 @@
   "title": "Báo cáo: Bắt đầu từ đâu thì dễ giữ thói quen sống lành nhất? Dữ liệu giữ chân theo nhóm sản phẩm",
   "seo_title": "Sản phẩm sức khoẻ nào giữ chân người dùng? Số liệu 2026",
   "slug": "bao-cao-san-pham-giu-thoi-quen-2026",
-  "description": "Phân tích 1.534 khách hàng mới của IKI by HOPE CORP: khoảng 1/3 quay lại mua tiếp trong 5 tháng, và nhóm bắt đầu bằng đạm thực vật gắn bó với thói quen nhất — 23,6% mua lại đúng nhóm, gấp đôi thức uống thay cà phê. Số liệu mở cho báo chí trích dẫn.",
+  "description": "Phân tích 1.534 khách hàng mới của IKI Healing: khoảng 1/3 quay lại mua tiếp trong 5 tháng, và nhóm bắt đầu bằng đạm thực vật gắn bó với thói quen nhất — 23,6% mua lại đúng nhóm, gấp đôi thức uống thay cà phê. Số liệu mở cho báo chí trích dẫn.",
   "keyword": "thói quen sức khoẻ bền vững",
   "category": "bao-cao",
   "date": "2026-07-29",
-  "author": "Đội ngũ IKI by HOPE CORP",
+  "author": "Đội ngũ IKI Healing",
   "hero_local": "assets/blog/bao-cao-san-pham-giu-thoi-quen-2026-hero.jpg",
   "hero_alt": "Bàn ăn sáng với đạm thực vật và sổ tay theo dõi thói quen",
   "reading_min": 7,
-  "answer": "Dữ liệu kỳ 03–07/2026 của IKI by HOPE CORP cho thấy khoảng 1/3 khách hàng mới quay lại mua tiếp trong vòng 5 tháng, gần như đồng đều bất kể họ bắt đầu bằng sản phẩm nào (28,5–33,1%). Khác biệt nằm ở việc GIỮ ĐÚNG thói quen ban đầu: nhóm bắt đầu bằng đạm thực vật có 23,6% quay lại mua đúng nhóm đó — cao nhất; trà thảo mộc 17,2%; dầu ăn 13,8%; thức uống thay cà phê 11,3%. Kết luận: bắt đầu hành trình sống lành từ bữa ăn chính (nguồn đạm) dễ thành thói quen bền hơn là từ đồ uống.",
+  "answer": "Dữ liệu kỳ 03–07/2026 của IKI Healing cho thấy khoảng 1/3 khách hàng mới quay lại mua tiếp trong vòng 5 tháng, gần như đồng đều bất kể họ bắt đầu bằng sản phẩm nào (28,5–33,1%). Khác biệt nằm ở việc GIỮ ĐÚNG thói quen ban đầu: nhóm bắt đầu bằng đạm thực vật có 23,6% quay lại mua đúng nhóm đó — cao nhất; trà thảo mộc 17,2%; dầu ăn 13,8%; thức uống thay cà phê 11,3%. Kết luận: bắt đầu hành trình sống lành từ bữa ăn chính (nguồn đạm) dễ thành thói quen bền hơn là từ đồ uống.",
   "faq": [
     {
       "q": "Số liệu này đo như thế nào?",
@@ -23,7 +23,7 @@
     },
     {
       "q": "Báo chí có được trích dẫn không?",
-      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI by HOPE CORP, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
+      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
     }
   ]
 }
@@ -31,7 +31,7 @@
 
 Ai cũng từng bắt đầu một thói quen lành mạnh rồi bỏ dở. Câu hỏi đáng giá cho cả người tiêu dùng lẫn ngành hàng sức khoẻ là: **bắt đầu từ đâu thì dễ giữ được nhất?**
 
-Đây là báo cáo thứ ba trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI by HOPE CORP, trả lời câu hỏi đó bằng dữ liệu mua hàng thực tế của 1.534 khách kỳ **tháng 3 – tháng 7/2026** — không phải bằng khảo sát ý định. Người ta có thể nói "tôi sẽ duy trì"; ví tiền thì không biết nói dối.
+Đây là báo cáo thứ ba trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing, trả lời câu hỏi đó bằng dữ liệu mua hàng thực tế của 1.534 khách kỳ **tháng 3 – tháng 7/2026** — không phải bằng khảo sát ý định. Người ta có thể nói "tôi sẽ duy trì"; ví tiền thì không biết nói dối.
 
 ## Ba con số chính
 
@@ -79,7 +79,7 @@ Nếu bạn chỉ đổi được MỘT thứ, dữ liệu gợi ý: đổi th�
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI by HOPE CORP, 2026"* và liên kết về trang này. Tải [bản PDF trình bày đầy đủ](../assets/bao-cao/bao-cao-san-pham-giu-thoi-quen-2026.pdf). Cần thêm số hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Tải [bản PDF trình bày đầy đủ](../assets/bao-cao/bao-cao-san-pham-giu-thoi-quen-2026.pdf). Cần thêm số hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
 Báo cáo phản ánh hành vi mua sắm và lối sống, không phải dữ liệu y khoa. Các sản phẩm được nhắc đến là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.

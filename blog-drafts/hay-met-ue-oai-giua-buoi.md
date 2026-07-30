@@ -183,5 +183,5 @@ Cảm giác mệt và uể oải giữa buổi hiếm khi là chuyện bạn kh�
 Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là thêm một quả trứng vào bữa sáng, để sẵn một hộp sữa chua cho khung giữa buổi, đặt một chai nước trên bàn, hoặc chỉ đơn giản là đứng dậy đi lại mỗi giờ. Trong nhịp sống bận rộn, khi bạn khó sắp được một bữa đủ đạm, một nguồn đạm thực vật tiện lợi như [True Vegan Protein](https://trueveganprotein.com) có thể là một lựa chọn gọn nhẹ để bổ sung đạm cho lối sống cân bằng, bên cạnh thức ăn tươi hằng ngày. Điều làm nên khác biệt không phải một bữa "hoàn hảo" trong một ngày, mà là những lựa chọn "đủ tốt" được lặp lại đều đặn, như một cách chăm sóc bản thân dài lâu.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI Healing: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

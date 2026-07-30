@@ -170,5 +170,5 @@ Bạn không cần đi hết bảy chặng ngay hôm nay. Hãy bắt đầu từ
 Tuổi tác là điều tự nhiên, và mỗi giai đoạn đều có vẻ đẹp riêng. Khi ta biết lắng nghe và nâng niu cơ thể, những năm tháng phía trước sẽ nhẹ nhàng và trọn vẹn hơn. Và đừng quên, bên cạnh mọi lộ trình chăm sóc, bác sĩ luôn là người đồng hành đáng tin cậy khi sức khoẻ có điều cần lưu tâm.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

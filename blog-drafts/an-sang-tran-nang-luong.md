@@ -201,5 +201,5 @@ Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là th�
 Nếu bạn mới bắt đầu và chưa biết sắp xếp thói quen từ đâu, hãy tham khảo [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) để đi từng bước một cách nhẹ nhàng, hoặc xem thêm [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) để đặt bữa sáng vào một nhịp sáng trọn vẹn. Một buổi sáng cân bằng là điểm khởi đầu tốt cho một ngày tràn năng lượng, và cho một hành trình chăm sóc bản thân dài lâu.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI by HOPE CORP: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI Healing: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

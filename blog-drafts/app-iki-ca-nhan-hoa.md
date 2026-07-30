@@ -155,5 +155,5 @@ Chăm sóc sức khoẻ cá nhân hoá không phải là chạy theo một xu h�
 Khi chọn công cụ, hãy ưu tiên sự dễ dùng, khả năng cho gợi ý phù hợp, cách nhắc nhở nhẹ nhàng và sự minh bạch về vai trò. Nếu bạn quan tâm tới việc chăm sóc theo góc nhìn thể tạng và muốn một nơi gom các thói quen lành mạnh vào một chỗ, [App IKI](../app.html) là một lựa chọn đáng thử. Nhưng dù dùng công cụ nào, hãy nhớ rằng nó chỉ là người đồng hành; người xây nên sức khoẻ của bạn, từng lựa chọn nhỏ mỗi ngày, vẫn luôn là chính bạn. Nếu muốn bắt đầu bằng những thói quen nền tảng, bài [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) là một điểm khởi đầu nhẹ nhàng.
 
 :::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu thực tế của IKI by HOPE CORP kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+Dữ liệu thực tế của IKI Healing kỳ 03–07/2026 cho thấy **29,1% khách hàng quay lại mua tiếp trong vòng 5 tháng** — dấu hiệu chăm sóc sức khoẻ đang trở thành thói quen thay vì trào lưu mua thử. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

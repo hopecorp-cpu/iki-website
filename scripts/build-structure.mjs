@@ -118,7 +118,7 @@ function head(title, desc, canonical, ldExtra, noindex) {
   <link rel="alternate" hreflang="x-default" href="${canonical}" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI by HOPE CORP" />
+  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escAttr(title)}" />
   <meta property="og:description" content="${escAttr(clamp(desc, 160))}" />
@@ -319,7 +319,7 @@ export function buildStructure() {
     head("Blog IKI — Lộ trình chăm sóc sức khoẻ chủ động",
       "Blog IKI — lộ trình chăm sóc sức khoẻ chủ động theo từng chặng: hiểu cơ thể, nền tảng ăn uống, thói quen, tri thức Đông y và kiến thức thực phẩm. Cá nhân hoá theo thể tạng.",
       `${SITE}/blog/`,
-      { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKI", url: `${SITE}/blog/`, description: "Lộ trình chăm sóc sức khoẻ chủ động theo thể tạng.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: "IKI by HOPE CORP" } })
+      { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKI", url: `${SITE}/blog/`, description: "Lộ trình chăm sóc sức khoẻ chủ động theo thể tạng.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: "IKI Healing — by HOPE CORP" } })
     + header()
     + `<main><section class="blog-hero"><span class="eyebrow">Blog IKI · Lộ trình chăm sóc sức khoẻ</span><h1>Chăm sóc sức khoẻ chủ động, theo từng chặng</h1><p>Đi từ hiểu cơ thể mình đến xây thói quen bền vững — mỗi chặng một bước, phủ dần kiến thức để bạn tự chủ sức khoẻ mỗi ngày.</p></section>${searchBox}${ageSection}${catNav}<div class="blog-layout"><div class="blog-main">${chapters}</div>${sidebar}</div>${emailCta(plan, "index")}${searchScript}</main>`
     + footer(), "utf8");
@@ -387,7 +387,7 @@ export function buildStructure() {
   // ---------- MIỄN TRỪ TRÁCH NHIỆM (điều khoản nội dung) ----------
   const legalStyle = `<style>.legal{max-width:760px;margin:0 auto;padding:8px 22px 10px;font-size:1.02rem;color:#344054}.legal h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.4rem;color:#101828;margin:1.7em 0 .4em;scroll-margin-top:90px}.legal h2 .ln{color:var(--iki-teal-deep,#2E8975);font-family:var(--font-sans,'Manrope');font-size:.9rem;font-weight:700;margin-right:8px}.legal p{margin:.7em 0;line-height:1.72}.legal ul{margin:.5em 0;padding-left:1.3em}.legal li{margin:.35em 0;line-height:1.6}.legal strong{color:#101828}.legal .upd{color:#98a2b3;font-size:.88rem}.legal .note{background:#f4f8ff;border:1px solid #d6e4fb;border-radius:12px;padding:14px 18px;color:#334155;font-size:.94rem;margin:16px 0}</style>`;
   const legalBody = `<section class="legal">
-    <p class="upd">Cập nhật: 2026 · Áp dụng cho blog và các kênh nội dung của IKI by HOPE CORP.</p>
+    <p class="upd">Cập nhật: 2026 · Áp dụng cho blog và các kênh nội dung của IKI Healing.</p>
     <div class="note">Văn bản này là điều khoản nội dung &amp; miễn trừ trách nhiệm cho mục đích tham khảo và minh bạch với người đọc. Doanh nghiệp nên để bộ phận pháp chế rà soát trước khi coi là văn bản pháp lý chính thức.</div>
     <h2><span class="ln">1.</span>Mục đích và phạm vi nội dung</h2>
     <p>Toàn bộ nội dung trên blog và các kênh chính thức của IKI (bài viết, hình ảnh, video, bản tin, cẩm nang…) hướng tới mục tiêu <strong>chia sẻ kiến thức chăm sóc sức khoẻ chủ động</strong>: dinh dưỡng, thói quen, vận động, giấc ngủ, tinh thần và kinh nghiệm dân gian được tiếp nhận có chọn lọc. Nội dung mang tính phổ thông, giáo dục cộng đồng, giúp người đọc <strong>hiểu đúng – làm đúng – duy trì lâu dài</strong>.</p>
@@ -408,7 +408,7 @@ export function buildStructure() {
   </section>`;
   fs.writeFileSync(path.join(outDir, "mien-tru-trach-nhiem.html"),
     head("Miễn trừ trách nhiệm &amp; điều khoản nội dung | IKI",
-      "Điều khoản nội dung và miễn trừ trách nhiệm của IKI by HOPE CORP: nội dung mang tính giáo dục, không thay thế tư vấn y khoa; sản phẩm là thực phẩm bổ sung.",
+      "Điều khoản nội dung và miễn trừ trách nhiệm của IKI Healing: nội dung mang tính giáo dục, không thay thế tư vấn y khoa; sản phẩm là thực phẩm bổ sung.",
       `${SITE}/blog/mien-tru-trach-nhiem.html`, null, true)
     + header() + legalStyle
     + `<main><section class="blog-hero" style="padding-bottom:6px"><span class="eyebrow">Điều khoản nội dung</span><h1>Miễn trừ trách nhiệm</h1><p>Cách chúng tôi chia sẻ nội dung sức khoẻ và ranh giới trách nhiệm, để bạn đọc an tâm và đúng cách.</p></section>${legalBody}</main>`
@@ -430,7 +430,7 @@ export function buildStructure() {
 // ---- GEO: tự sinh llms.txt từ content-plan (giữ đầy đủ khi thêm bài) ----
 function buildLlms(plan) {
   const L = [];
-  L.push("# IKI by HOPE CORP", "");
+  L.push("# IKI Healing — by HOPE CORP", "");
   L.push("> IKI là nền tảng công nghệ wellness của Việt Nam, kết hợp AI và dữ liệu sức khoẻ với tri thức Y học Cổ truyền phương Đông để cá nhân hoá lộ trình chăm sóc sức khoẻ chủ động theo thể tạng (Hàn · Nhiệt · Hư · Thực · Đàm thấp). Sản phẩm của Công ty Cổ phần TMDV HOPE (MST 0801404967, Hải Phòng). Cố vấn chuyên môn: TS. Ngô Đức Vượng.", "");
   L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa. Sản phẩm là thực phẩm bổ sung, không phải thuốc.", "");
   L.push("## Blog — Kiến thức chăm sóc sức khoẻ chủ động");
