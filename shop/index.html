@@ -388,6 +388,25 @@
   </div></div>
 </header>
 
+<!-- FLASH QUA — uu dai qua tang co han. Doc tu ops-hub /api/flash-deal, doi uu dai KHONG can build lai trang. -->
+<style>
+#flashBar{display:flex;flex-wrap:wrap;align-items:center;justify-content:center;gap:10px 18px;
+  padding:11px 16px;background:linear-gradient(90deg,#0f766e,#10b981);color:#fff;font-size:14.5px;line-height:1.4}
+#flashBar b{font-weight:700}
+#flashBar .fx-clock{font-variant-numeric:tabular-nums;font-weight:700;background:rgba(255,255,255,.18);
+  padding:3px 10px;border-radius:999px;letter-spacing:.5px}
+#flashBar .fx-slots{background:rgba(0,0,0,.18);padding:3px 10px;border-radius:999px;font-weight:600}
+#flashBar a.fx-cta{color:#fff;text-decoration:underline;font-weight:700;white-space:nowrap}
+@media(max-width:640px){#flashBar{font-size:13px;padding:9px 12px;gap:6px 12px}}
+</style>
+<div id="flashBar" hidden>
+  <span><b id="flashTitle"></b> — <span id="flashGift"></span></span>
+  <span class="fx-slots" id="flashSlots"></span>
+  <span>Kết thúc sau <span class="fx-clock" id="flashClock">--:--:--</span></span>
+  <a class="fx-cta" id="flashCta" href="#products">Xem sản phẩm</a>
+</div>
+
+
 <!-- HOME -->
 <div class="view on" id="home">
   <div class="hero"><div class="wrap grid">
@@ -858,6 +877,8 @@ document.getElementById('coSubmit').onclick=async function(){
   if(!addr){coErr('coAddr');showToast('Vui lòng nhập địa chỉ nhận hàng');return;}
   var p=coProduct, total=coTotalV(), mode=coPayMode();
   var orderNote='ĐƠN /shop · '+p.n+' × '+coQty+' = '+money(total)+' · '+(mode==='bank'?'CK trước':'COD')+' · ĐC: '+addr+(note?(' · '+note):'');
+  // Flash qua: ghi qua vao ghi chu don de sale gui kem, va tru mot suat.
+  try{ if(window.__IKI_FLASH){ orderNote += ' \u00b7 QUA TANG: '+window.__IKI_FLASH.gift; window.__IKI_FLASH_CLAIM(); } }catch(e){}
   try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
     customer:name, phone:phone, channel:'website', source:(mode==='bank'?'shop-order-ck':'shop-order-cod'),
     product:p.n, note:orderNote.slice(0,300), _hp:(document.getElementById('coHp')||{}).value||''
@@ -895,4 +916,33 @@ document.getElementById('coSubmit').onclick=async function(){
 // theme
 const root=document.documentElement;
 document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('data-theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');root.setAttribute('data-theme',cur==='dark'?'light':'dark');};
+
+// FLASH QUA — dong ho dem nguoc chay theo GIO MAY CHU (khach chinh gio may thi van dung).
+(function(){
+  var API="https://hope-ops-hub.vercel.app/api/flash-deal";
+  var bar=document.getElementById('flashBar'); if(!bar) return;
+  var skew=0, endsAt=0, timer=null;
+  function pad(n){return (n<10?'0':'')+n;}
+  function tick(){
+    var left=endsAt-(Date.now()-skew);
+    if(left<=0){ bar.hidden=true; window.__IKI_FLASH=null; if(timer)clearInterval(timer); return; }
+    var s=Math.floor(left/1000),dd=Math.floor(s/86400),h=Math.floor(s%86400/3600),m=Math.floor(s%3600/60);
+    document.getElementById('flashClock').textContent=(dd>0?dd+' ngày ':'')+pad(h)+':'+pad(m)+':'+pad(s%60);
+  }
+  window.__IKI_FLASH_CLAIM=function(){
+    try{ fetch(API,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({claim:1})}).catch(function(){}); }catch(e){}
+  };
+  fetch(API).then(function(r){return r.json();}).then(function(d){
+    if(!d||!d.active) return;
+    window.__IKI_FLASH=d;
+    skew=Date.now()-new Date(d.serverNow).getTime();
+    endsAt=new Date(d.endsAt).getTime();
+    document.getElementById('flashTitle').textContent=d.title||'';
+    document.getElementById('flashGift').textContent=d.gift||'';
+    var sl=document.getElementById('flashSlots');
+    if(d.remaining===null||d.remaining===undefined){ sl.hidden=true; } else { sl.textContent='Còn '+d.remaining+' suất'; }
+    if(d.ctaUrl) document.getElementById('flashCta').href=d.ctaUrl;
+    bar.hidden=false; tick(); timer=setInterval(tick,1000);
+  }).catch(function(){});
+})();
 </script>
