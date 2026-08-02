@@ -16,6 +16,11 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 
+
+/** Dòng có mang nghĩa phủ định/miễn trừ quanh cụm nhạy cảm không. */
+const PHU_DINH = /(không|chẳng|chưa|đừng|tránh|cấm|thay vì|chứ không|không phải|không nhằm|không thay thế|không có tác dụng|không dùng để|miễn trừ|disclaimer)/i;
+function laPhuDinh(ln) { return PHU_DINH.test(ln); }
+
 // HARD — chặn cứng (khớp DETECT + BANNED_REPLACEMENTS của ops-hub)
 const HARD = [
   /thực phẩm chức năng/gi,
@@ -55,7 +60,13 @@ function scan(file) {
   const lines = text.split("\n");
   const hard = [], soft = [];
   lines.forEach((ln, i) => {
-    for (const re of HARD) { const m = ln.match(new RegExp(re.source, re.flags)); if (m) hard.push({ line: i + 1, hit: m.join(", "), ctx: ln.trim().slice(0, 120) }); }
+    for (const re of HARD) {
+      const m = ln.match(new RegExp(re.source, re.flags));
+      // Câu PHỦ ĐỊNH / MIỄN TRỪ là cách viết ĐÚNG luật ("không phải cách chữa bệnh",
+      // "không phải cơ sở khám chữa bệnh") — bắt luôn thì 17/18 báo động là giả, cảnh báo
+      // thật chìm nghỉm và không ai đọc log nữa. Chỉ báo khi KHÔNG có dấu hiệu phủ định.
+      if (m && !laPhuDinh(ln)) hard.push({ line: i + 1, hit: m.join(", "), ctx: ln.trim().slice(0, 120) });
+    }
     for (const re of SOFT) { const m = ln.match(new RegExp(re.source, re.flags)); if (m) soft.push({ line: i + 1, hit: m.join(", "), ctx: ln.trim().slice(0, 120) }); }
   });
   return { hard, soft };
