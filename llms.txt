@@ -77,6 +77,10 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Tập thể dục buổi sáng hay buổi tối tốt hơn: cách chọn khung giờ hợp với cơ thể bạn](https://ikihealing.com/blog/tap-the-duc-buoi-sang-hay-buoi-toi.html): Tập thể dục buổi sáng hay buổi tối tốt hơn? So sánh ưu nhược điểm từng khung giờ, ai hợp buổi sáng, ai hợp chiều tối, tập tối bao lâu trước khi ngủ và cách chọn giờ theo thể trạng.
 - [Chuẩn bị bữa ăn cả tuần cho người đi làm: hướng dẫn meal prep thực tế cho bếp Việt](https://ikihealing.com/blog/chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html): Cách chuẩn bị bữa ăn cả tuần cho người đi làm: chọn món nào để được lâu, sơ chế trong 2 tiếng cuối tuần, bảo quản an toàn, thực đơn mẫu 5 ngày và cách tránh chán món.
 - [Ăn uống khi đi tiệc liên hoan: cách giữ nếp sinh hoạt qua mùa cỗ bàn](https://ikihealing.com/blog/an-uong-khi-di-tiec-lien-hoan.html): Ăn uống khi đi tiệc liên hoan thế nào để không đầy bụng, không mệt hôm sau và không mất nếp sinh hoạt? Hướng dẫn trước, trong và sau bữa tiệc, kèm cách xoay nhịp khi có nhiều tiệc liên tiếp.
+- [Uống đạm thực vật vào lúc nào trong ngày là hợp lý nhất](https://ikihealing.com/blog/uong-dam-thuc-vat-luc-nao-trong-ngay.html): Uống đạm thực vật vào lúc nào trong ngày thì hợp lý? Phân tích bốn khung giờ thường gặp — sáng, quanh buổi tập, xế chiều, buổi tối — cùng cách chia đều đạm, cách pha để dễ tiêu và lịch mẫu cho ba kiểu người.
+- [Ngủ đủ 8 tiếng vẫn mệt: vì sao và nên xem lại điều gì](https://ikihealing.com/blog/ngu-du-8-tieng-van-met.html): Ngủ đủ 8 tiếng vẫn mệt mỏi khi thức dậy là chuyện nhiều người gặp. Bài viết đi qua sự khác nhau giữa đủ giờ và đủ chất, bảy nguyên nhân thường gặp, cách tự kiểm tra trong 7 ngày và nếp buổi tối 90 phút dễ áp dụng.
+- [Người gầy khó tăng cân nên ăn gì: cách ăn để lên cân lành mạnh](https://ikihealing.com/blog/nguoi-gay-kho-tang-can-nen-an-gi.html): Người gầy khó tăng cân nên ăn gì? Vì sao ăn nhiều vẫn không lên cân, cách tạo thặng dư năng lượng vừa phải, danh sách thực phẩm mật độ dinh dưỡng cao quen thuộc và thực đơn mẫu một ngày dễ áp dụng.
+- [Thực đơn 7 ngày cho người ăn chay đủ đạm, dễ nấu tại nhà](https://ikihealing.com/blog/thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html): Thực đơn 7 ngày cho người ăn chay đủ đạm với nguyên liệu quen thuộc ở chợ Việt: cách tính lượng đạm cần, bảng nguồn đạm thực vật, bốn vi chất cần để mắt và danh sách đi chợ cho cả tuần.
 - [Ăn chậm, nhai kỹ: thói quen nhỏ đổi lại rất nhiều](https://ikihealing.com/blog/an-cham-nhai-ky.html)
 - [Ăn giảm muối: vị giác quen dần và mẹo nêm nhạt](https://ikihealing.com/blog/an-giam-muoi.html)
 - [Ăn rau củ nhiều màu sắc: bữa cơm như cầu vồng](https://ikihealing.com/blog/an-rau-cu-nhieu-mau-sac.html)
@@ -97,6 +101,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Cẩm nang chăm sóc sức khoẻ trong những ngày Tết](https://ikihealing.com/blog/cham-soc-suc-khoe-ngay-tet.html)
 - [Chất béo tốt và chất béo xấu: phân biệt để ăn đúng](https://ikihealing.com/blog/chat-beo-tot-xau.html)
 - [Chất xơ và lợi khuẩn đường ruột: nuôi hệ vi sinh mỗi ngày](https://ikihealing.com/blog/chat-xo-loi-khuan-duong-ruot.html)
+- [Chế độ ăn Địa Trung Hải: nguyên tắc và cách áp dụng kiểu Việt](https://ikihealing.com/blog/che-do-an-dia-trung-hai.html)
 - [Chỉ số GI của thực phẩm: hiểu đơn giản để ăn khôn ngoan](https://ikihealing.com/blog/chi-so-duong-huyet-thuc-pham.html)
 - [Chọn và dùng dầu ăn lành mạnh trong bếp Việt](https://ikihealing.com/blog/chon-dau-an-lanh-manh.html)
 - [Chọn thực phẩm bổ sung đúng cách: hỏi gì trước khi mua](https://ikihealing.com/blog/chon-thuc-pham-bo-sung-dung-cach.html)
@@ -106,6 +111,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [10.000 bước mỗi ngày: con số này có bắt buộc không?](https://ikihealing.com/blog/di-bo-10-nghin-buoc-moi-ngay.html)
 - [Đi bộ nhẹ sau bữa ăn: thói quen nhỏ lợi lớn](https://ikihealing.com/blog/di-bo-sau-an.html)
 - [Dị ứng thời tiết lúc giao mùa: hiểu và chăm sóc chủ động](https://ikihealing.com/blog/di-ung-thoi-tiet-giao-mua.html)
+- [Dinh dưỡng cân bằng cho tuổi dậy thì: ăn sao để con phát triển toàn diện](https://ikihealing.com/blog/dinh-duong-can-bang-tuoi-day-thi.html)
 - [Đồ uống có gas và sức khoẻ: hiểu để dùng chừng mực](https://ikihealing.com/blog/do-uong-co-gas-va-suc-khoe.html)
 - [Đọc nhãn dinh dưỡng: hiểu con số trên bao bì thực phẩm](https://ikihealing.com/blog/doc-nhan-dinh-duong-thuc-pham.html)
 - [Đọc nhãn thực phẩm: hiểu bảng thành phần trong hai phút](https://ikihealing.com/blog/doc-nhan-thuc-pham.html)
@@ -123,6 +129,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Nấu ăn tại nhà: nền tảng của một bữa ăn lành](https://ikihealing.com/blog/nau-an-tai-nha.html)
 - [Nấu cơm nhà cho người bận: bữa tối gọn trong ba mươi phút](https://ikihealing.com/blog/nau-com-nha-nguoi-ban.html)
 - [Ngồi lâu và sức khoẻ: đứng dậy mỗi giờ đổi được nhiều thứ](https://ikihealing.com/blog/ngoi-lau-va-suc-khoe.html)
+- [Ngồi thiền 5 phút mỗi ngày: thói quen nhỏ cho tinh thần nhẹ nhõm](https://ikihealing.com/blog/ngoi-thien-5-phut-moi-ngay.html)
 - [Ngũ cốc nguyên cám và gạo lứt: ăn sao cho dễ chịu](https://ikihealing.com/blog/ngu-coc-nguyen-cam-gao-lut.html)
 - [Ngủ trưa đúng cách: 10–20 phút phục hồi năng lượng buổi chiều](https://ikihealing.com/blog/ngu-trua-phuc-hoi-nang-luong.html)
 - [Nhịp sinh học: ánh sáng ban ngày và giấc ngủ ban đêm](https://ikihealing.com/blog/nhip-sinh-hoc-giac-ngu-va-anh-sang.html)
@@ -139,9 +146,12 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Sức khoẻ tuổi mãn kinh: hiểu cơ thể để sống nhẹ nhàng](https://ikihealing.com/blog/suc-khoe-tuoi-man-kinh.html)
 - [Táo bón và tiêu hóa khỏe: chất xơ, nước và thói quen mỗi ngày](https://ikihealing.com/blog/tao-bon-tieu-hoa-khoe.html)
 - [Tập sống chậm giữa nhịp sống vội: bắt đầu từ đâu](https://ikihealing.com/blog/tap-song-cham.html)
+- [Thói quen đọc sách trước khi ngủ giúp tâm trí lắng lại](https://ikihealing.com/blog/thoi-quen-doc-sach-truoc-khi-ngu.html)
 - [Thực phẩm giàu kali: vai trò và cách bổ sung tự nhiên](https://ikihealing.com/blog/thuc-pham-giau-kali.html)
 - [Thực phẩm giàu sắt: ăn gì để bữa ăn thêm cân bằng](https://ikihealing.com/blog/thuc-pham-giau-sat.html)
+- [Thực phẩm lên men truyền thống Việt Nam: dưa muối, mắm, tương](https://ikihealing.com/blog/thuc-pham-len-men-truyen-thong-viet.html)
 - [Thực phẩm mùa lạnh: ăn gì cho ấm bụng, đủ chất](https://ikihealing.com/blog/thuc-pham-mua-lanh.html)
+- [Trái cây theo mùa ở Việt Nam: ăn đúng mùa vừa ngon vừa tươi](https://ikihealing.com/blog/trai-cay-theo-mua-o-viet-nam.html)
 - [Trào ngược dạ dày và thói quen ăn uống: góc nhìn dưỡng sinh](https://ikihealing.com/blog/trao-nguoc-da-day.html)
 - [Trứng gà: giá trị dinh dưỡng và cách ăn hợp lý mỗi tuần](https://ikihealing.com/blog/trung-ga-dinh-duong-va-cach-an-hop-ly.html)
 - [Uống trà đúng cách: thời điểm, liều lượng và điều nên tránh](https://ikihealing.com/blog/uong-tra-dung-cach.html)
