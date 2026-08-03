@@ -250,3 +250,7 @@ Con số cần nhớ khá đơn giản: khoảng 1,0–1,2 g đạm cho mỗi kg
 Không cần thay đổi tất cả trong một ngày. Thêm một quả trứng vào bữa sáng ngày mai đã là một bước đi đúng hướng.
 
 *Nguồn tham khảo: Báo Sức khoẻ & Đời sống (Người trên 50 tuổi cần bao nhiêu protein mỗi ngày để hạn chế mất cơ; Sau tuổi 50, nên ăn bao nhiêu protein sau khi tập để giữ cơ), Tuổi Trẻ Online (Người lớn tuổi cần bao nhiêu chất đạm mỗi ngày). Các mức đạm nêu trong bài là giá trị tham khảo phổ biến dành cho người khoẻ mạnh; nhu cầu cụ thể của từng người do bác sĩ hoặc chuyên gia dinh dưỡng xác định. Nội dung được biên soạn lại phục vụ mục đích cung cấp kiến thức tham khảo.*
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Nếu bạn thấy mình cần hỏi khá nhiều trước khi chọn, đó là chuyện bình thường. Đo trên **2.789 cuộc tư vấn thật** của IKI Healing, một quyết định mua sản phẩm sức khoẻ đi kèm **trung vị 16 lượt tin nhắn** qua lại, và 10% số cuộc vượt 36 lượt tin. Xem đầy đủ trong [Báo cáo hành trình hỏi đáp trước khi mua](bao-cao-hanh-trinh-hoi-dap-2026.html).
+:::

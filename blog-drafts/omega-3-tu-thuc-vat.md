@@ -221,3 +221,7 @@ Ba việc có thể bắt đầu ngay: mua một túi hạt lanh nhỏ và một
 Và nếu bạn theo chế độ chay trường, đặc biệt trong giai đoạn mang thai hoặc cho con bú, hãy trao đổi với chuyên gia dinh dưỡng để có kế hoạch phù hợp với riêng mình.
 
 *Nguồn tham khảo: Báo Sức khoẻ & Đời sống (Những thực phẩm giàu omega-3 tốt nhất cho người ăn chay), Bệnh viện Bạch Mai (Bổ sung Omega-3 thế nào để mang lại hiệu quả cho sức khoẻ), Vinmec (Các loại hạt chứa nhiều omega-3). Các mức khuyến nghị nêu trong bài là giá trị tham khảo phổ biến; nhu cầu cụ thể của từng người do bác sĩ hoặc chuyên gia dinh dưỡng xác định. Nội dung được biên soạn lại phục vụ mục đích cung cấp kiến thức tham khảo.*
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Nếu bạn thấy mình cần hỏi khá nhiều trước khi chọn, đó là chuyện bình thường. Đo trên **2.789 cuộc tư vấn thật** của IKI Healing, một quyết định mua sản phẩm sức khoẻ đi kèm **trung vị 16 lượt tin nhắn** qua lại, và 10% số cuộc vượt 36 lượt tin. Xem đầy đủ trong [Báo cáo hành trình hỏi đáp trước khi mua](bao-cao-hanh-trinh-hoi-dap-2026.html).
+:::

@@ -208,3 +208,7 @@ Hãy bắt đầu bằng câu hỏi đơn giản: trong một ngày của bạn,
 Nếu bạn chưa rõ thể trạng mình nghiêng về hàn hay nhiệt, hợp đồ ấm hay đồ mát, hãy dành 90 giây làm [bài kiểm tra thể trạng](https://ikihealing.com/quiz) — kết quả sẽ giúp bạn chọn cách pha và khung giờ dễ chịu hơn cho riêng cơ thể mình. Bạn cũng có thể đọc thêm [Cần bao nhiêu đạm mỗi ngày là đủ](can-bao-nhieu-dam-moi-ngay.html) và [Đạm thực vật và đạm động vật](dam-thuc-vat-va-dong-vat.html) để có bức tranh đầy đủ hơn.
 
 *Nguồn tham khảo: Báo Dân trí (Cân bằng dinh dưỡng bằng việc bổ sung đạm thực vật vào bữa ăn mỗi ngày), Bệnh viện Đa khoa Quốc tế Vinmec (chuyên mục dinh dưỡng và protein), Nhà thuốc FPT Long Châu (hướng dẫn sử dụng thực phẩm bổ sung đạm). Các mức đạm nêu trong bài là giá trị tham khảo phổ biến dành cho người khoẻ mạnh; nhu cầu cụ thể của từng người do bác sĩ hoặc chuyên gia dinh dưỡng xác định. Nội dung được biên soạn phục vụ mục đích cung cấp kiến thức tham khảo.*
+
+:::note Số liệu thực tế từ cộng đồng IKI
+Nếu bạn thấy mình cần hỏi khá nhiều trước khi chọn, đó là chuyện bình thường. Đo trên **2.789 cuộc tư vấn thật** của IKI Healing, một quyết định mua sản phẩm sức khoẻ đi kèm **trung vị 16 lượt tin nhắn** qua lại, và 10% số cuộc vượt 36 lượt tin. Xem đầy đủ trong [Báo cáo hành trình hỏi đáp trước khi mua](bao-cao-hanh-trinh-hoi-dap-2026.html).
+:::
