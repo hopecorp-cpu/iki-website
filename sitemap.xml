@@ -703,6 +703,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/uong-dam-thuc-vat-co-hai-than-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/dau-nanh-va-noi-tiet-to-nu.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/uong-nuoc-dua-moi-ngay-co-tot-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-yen-mach-buoi-sang-dung-cach.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <url><loc>https://ikihealing.com/en/blog/</loc><lastmod>2026-07-22</lastmod></url>
@@ -961,4 +985,8 @@
   <url><loc>https://ikihealing.com/blog/dinh-duong-can-bang-tuoi-day-thi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ikihealing.com/blog/ngoi-thien-5-phut-moi-ngay.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ikihealing.com/blog/trai-cay-theo-mua-o-viet-nam.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/uong-dam-thuc-vat-co-hai-than-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/dau-nanh-va-noi-tiet-to-nu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/uong-nuoc-dua-moi-ngay-co-tot-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/an-yen-mach-buoi-sang-dung-cach.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
