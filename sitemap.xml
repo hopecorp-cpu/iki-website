@@ -775,6 +775,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-mi-tom-the-nao-cho-do-hai.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-uong-lanh-manh-ma-tiet-kiem.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/hat-chia-dung-the-nao-cho-dung.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/ngoi-dieu-hoa-ca-ngay-nen-an-uong-the-nao.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <url><loc>https://ikihealing.com/en/blog/</loc><lastmod>2026-07-22</lastmod></url>
@@ -1049,4 +1073,8 @@
 <url><loc>https://ikihealing.com/blog/nguoi-an-chay-tap-gym-nen-an-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/thuc-pham-tang-sinh-collagen-tu-nhien.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/hay-bi-nhiet-mieng-nen-an-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/an-mi-tom-the-nao-cho-do-hai.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/an-uong-lanh-manh-ma-tiet-kiem.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/hat-chia-dung-the-nao-cho-dung.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/ngoi-dieu-hoa-ca-ngay-nen-an-uong-the-nao.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
