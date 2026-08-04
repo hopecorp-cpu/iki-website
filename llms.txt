@@ -99,6 +99,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Thực phẩm tốt cho trí nhớ người lớn tuổi: ăn gì để giữ đầu óc minh mẫn](https://ikihealing.com/blog/thuc-pham-tot-cho-tri-nho-nguoi-lon-tuoi.html): Thực phẩm tốt cho trí nhớ người lớn tuổi gồm những gì? Danh sách nhóm thực phẩm nên ăn thường xuyên, thực đơn mẫu một ngày và thói quen đi kèm để giữ đầu óc minh mẫn.
 - [Ăn nấm có tốt không? Giá trị dinh dưỡng các loại nấm quen thuộc và cách ăn an toàn](https://ikihealing.com/blog/an-nam-co-tot-khong.html): Ăn nấm có tốt không, ăn bao nhiêu là vừa và ai cần lưu ý? Giá trị dinh dưỡng của nấm rơm, nấm hương, nấm kim châm, mộc nhĩ cùng cách chọn, bảo quản và chế biến an toàn.
 - [Ăn chậm, nhai kỹ: thói quen nhỏ đổi lại rất nhiều](https://ikihealing.com/blog/an-cham-nhai-ky.html)
+- [Ăn gì trước khi ngủ để ngủ ngon? 12 lựa chọn dễ tìm](https://ikihealing.com/blog/an-gi-truoc-khi-ngu-de-ngu-ngon.html)
 - [Ăn giảm muối: vị giác quen dần và mẹo nêm nhạt](https://ikihealing.com/blog/an-giam-muoi.html)
 - [Ăn rau củ nhiều màu sắc: bữa cơm như cầu vồng](https://ikihealing.com/blog/an-rau-cu-nhieu-mau-sac.html)
 - [Bữa sáng cho trẻ đi học: nhanh, gọn mà đủ chất](https://ikihealing.com/blog/an-sang-cho-tre-di-hoc.html)
@@ -136,6 +137,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Giãn cơ cho dân văn phòng: 5 phút giữa giờ làm](https://ikihealing.com/blog/gian-co-dan-van-phong.html)
 - [Giữ ấm mùa đông: nếp sinh hoạt cho những ngày lạnh](https://ikihealing.com/blog/giu-am-mua-dong.html)
 - [Giữ nếp ăn uống khi đi công tác, du lịch](https://ikihealing.com/blog/giu-nep-an-khi-di-xa.html)
+- [Hay bị nhiệt miệng nên ăn gì? Vi chất và thực đơn dễ ăn](https://ikihealing.com/blog/hay-bi-nhiet-mieng-nen-an-gi.html)
 - [Hơi thở có mùi: nguyên nhân và thói quen chăm sóc](https://ikihealing.com/blog/hoi-mieng-nguyen-nhan-va-thoi-quen-cham-soc.html)
 - [Kẽm trong bữa ăn hằng ngày: những nguồn quen thuộc](https://ikihealing.com/blog/kem-trong-bua-an-hang-ngay.html)
 - [Khoai lang và củ quả giàu tinh bột: ăn sao cho cân bằng](https://ikihealing.com/blog/khoai-lang-va-cu-qua-giau-tinh-bot.html)
@@ -149,6 +151,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Ngồi thiền 5 phút mỗi ngày: thói quen nhỏ cho tinh thần nhẹ nhõm](https://ikihealing.com/blog/ngoi-thien-5-phut-moi-ngay.html)
 - [Ngũ cốc nguyên cám và gạo lứt: ăn sao cho dễ chịu](https://ikihealing.com/blog/ngu-coc-nguyen-cam-gao-lut.html)
 - [Ngủ trưa đúng cách: 10–20 phút phục hồi năng lượng buổi chiều](https://ikihealing.com/blog/ngu-trua-phuc-hoi-nang-luong.html)
+- [Người ăn chay tập gym nên ăn gì? Đủ đạm, đủ vi chất](https://ikihealing.com/blog/nguoi-an-chay-tap-gym-nen-an-gi.html)
 - [Nhịp sinh học: ánh sáng ban ngày và giấc ngủ ban đêm](https://ikihealing.com/blog/nhip-sinh-hoc-giac-ngu-va-anh-sang.html)
 - [Nước ép và sinh tố: uống sao cho lợi](https://ikihealing.com/blog/nuoc-ep-sinh-to-dung-cach.html)
 - [Giữ đường huyết ổn định và giảm cơn thèm ngọt mỗi ngày](https://ikihealing.com/blog/on-dinh-duong-huyet.html)
@@ -168,6 +171,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Thực phẩm giàu sắt: ăn gì để bữa ăn thêm cân bằng](https://ikihealing.com/blog/thuc-pham-giau-sat.html)
 - [Thực phẩm lên men truyền thống Việt Nam: dưa muối, mắm, tương](https://ikihealing.com/blog/thuc-pham-len-men-truyen-thong-viet.html)
 - [Thực phẩm mùa lạnh: ăn gì cho ấm bụng, đủ chất](https://ikihealing.com/blog/thuc-pham-mua-lanh.html)
+- [Thực phẩm giúp tăng sinh collagen tự nhiên: ăn gì mỗi ngày](https://ikihealing.com/blog/thuc-pham-tang-sinh-collagen-tu-nhien.html)
 - [Trái cây theo mùa ở Việt Nam: ăn đúng mùa vừa ngon vừa tươi](https://ikihealing.com/blog/trai-cay-theo-mua-o-viet-nam.html)
 - [Trào ngược dạ dày và thói quen ăn uống: góc nhìn dưỡng sinh](https://ikihealing.com/blog/trao-nguoc-da-day.html)
 - [Trứng gà: giá trị dinh dưỡng và cách ăn hợp lý mỗi tuần](https://ikihealing.com/blog/trung-ga-dinh-duong-va-cach-an-hop-ly.html)
