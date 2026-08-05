@@ -299,7 +299,8 @@ function sendQuiz(pkg){
       overall:overall(dm), dims:dm, answers:answers.slice(),
       pkg: (pkg==null)?null:((PKG[pkg]||{}).name||String(pkg)),
       vat: vatInfo, consent:true,
-      source: (pkg==null)?('quiz:'+code):('quiz-order:'+code) };
+      // Gắn cửa vào để đo cửa nào ra khách — không có cửa nào thắng thì biết mà bỏ, đừng đoán.
+      source: ((pkg==null)?('quiz:'+code):('quiz-order:'+code)) + (cuaVao?(':'+cuaVao):'') };
     fetch(OPS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body),keepalive:true}).catch(function(){});
   }catch(e){}
 }
@@ -309,11 +310,28 @@ function fmt(ms){ ms=Math.max(0,ms); const m=Math.floor(ms/60000), s=Math.floor(
 setInterval(()=>{ if(!deadline)return; const left=deadline-Date.now(); document.querySelectorAll('.cdown').forEach(e=>e.textContent=fmt(left)); },1000);
 
 function render(){ const f={intro,batch,teaser,gate,full,checkout,pay,thankyou}[phase]; if(f)f(); }
+/* CỬA VÀO THEO NHÓM VẤN ĐỀ (?nhom=...) — đo từ 2.822 hội thoại Zalo/Facebook 05/08/2026.
+   Khách vào bằng một câu nói đúng thứ họ đang gặp thì mới thấy "đây chính là mình"; bộ câu hỏi,
+   cách chấm và 6 chỉ số GIỮ NGUYÊN cho mọi cửa — đổi bộ câu hỏi là đổi luôn cách tính thể trạng.
+   Câu chữ ở đây là LỐI SỐNG, không mô tả bệnh và không hứa công dụng. */
+const NHOM={
+  'nang-ne':{ eyebrow:'Dành cho người hay thấy nặng nề',
+    h1:'Người hay thấy nặng nề, ăn nhiều dầu mỡ và bia rượu nên bắt đầu từ đâu?',
+    lede:'Nếu bạn thường thấy cơ thể ì ạch, ăn uống thất thường vì công việc và tiếp khách nhiều — hãy đo trước khi chăm. 12 câu ngắn, cuối bài bạn nhận <b>6 chỉ số lối sống</b> của riêng mình kèm thực đơn 14 ngày phù hợp.' },
+  'tieu-hoa':{ eyebrow:'Dành cho người bụng dạ thất thường',
+    h1:'Bụng hay đầy hơi, ậm ạch sau khi ăn — cơ thể bạn đang thiếu gì?',
+    lede:'Đầy bụng, ăn xong nặng nề, đi ngoài thất thường thường bắt nguồn từ nếp ăn và nhịp sinh hoạt chứ không chỉ từ bữa vừa rồi. 12 câu ngắn để nhìn ra nếp nào đang lệch, kèm <b>6 chỉ số lối sống</b> và thực đơn 14 ngày phù hợp.' },
+  'an-chay':{ eyebrow:'Dành cho người ăn chay, ăn ít đạm',
+    h1:'Ăn chay hoặc ăn ít đạm — làm sao biết mình đang đủ hay thiếu?',
+    lede:'Ăn chay lâu mà hay mệt, sụt cân hoặc thấy yếu sức thường là do khẩu phần chưa cân, không phải do ăn chay. 12 câu ngắn để soi lại nếp ăn của bạn, kèm <b>6 chỉ số lối sống</b> và thực đơn 14 ngày phù hợp.' },
+};
+let nhom=null, cuaVao='';
+try{ const k=new URLSearchParams(location.search).get('nhom'); if(k&&NHOM[k]){ nhom=NHOM[k]; cuaVao=k; } }catch(e){}
 function intro(){ steps(-1);
   app.innerHTML=`<div class="card fade">
-    <div class="eyebrow">Kiểm tra 90 giây · Miễn phí</div>
-    <h1>Cơ thể bạn đang cần được chăm sóc điều gì nhất?</h1>
-    <p class="lede">12 câu hỏi ngắn, chia 3 bước, theo góc nhìn huấn luyện viên sức khoẻ &amp; Đông y. Cuối bài bạn nhận <b>bản phân tích 6 chỉ số sức khoẻ</b> của riêng mình — kèm giải pháp và một món quà.</p>
+    <div class="eyebrow">${nhom?nhom.eyebrow:'Kiểm tra 90 giây · Miễn phí'}</div>
+    <h1>${nhom?nhom.h1:'Cơ thể bạn đang cần được chăm sóc điều gì nhất?'}</h1>
+    <p class="lede">${nhom?nhom.lede:'12 câu hỏi ngắn, chia 3 bước, theo góc nhìn huấn luyện viên sức khoẻ &amp; Đông y. Cuối bài bạn nhận <b>bản phân tích 6 chỉ số sức khoẻ</b> của riêng mình — kèm giải pháp và một món quà.'}</p>
     <div style="margin-top:22px"><button class="btn btn-primary btn-wide" onclick="fnl('start');go('batch',0)">Bắt đầu kiểm tra →</button></div>
     <p class="disc">Bản đồ thói quen &amp; thể trạng để chăm sóc sức khoẻ chủ động, mang tính tham khảo — không nhằm chẩn đoán bệnh hay thay thế tư vấn y khoa.</p>
   </div>`;
