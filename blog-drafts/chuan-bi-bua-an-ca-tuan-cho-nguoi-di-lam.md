@@ -246,6 +246,10 @@ Sau ba tuần làm ở quy mô này, bạn sẽ có một danh sách ngắn các
 
 Cuối cùng, hãy nhớ mục đích thật của việc này: không phải để bữa ăn trông đẹp trên mạng xã hội, mà để những ngày bạn mệt nhất vẫn có một bữa tử tế đang chờ sẵn trong tủ lạnh.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKI Healing, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
+:::
+
 ## Nguồn tham khảo
 
 - [Tạp chí Sức khoẻ+ — Phương pháp meal prep cho người bận rộn](https://suckhoecong.vn/phuong-phap-meal-prep-chuan-bi-thuc-an-ca-tuan-cho-nguoi-ban-ron-d76891.html)

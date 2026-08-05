@@ -180,6 +180,10 @@ Và điều đáng nhớ nhất: khoản chi lớn nhất trong ăn uống của
 
 Nếu bạn muốn một điểm khởi đầu cụ thể để biết nên ưu tiên nhóm thực phẩm nào theo cơ địa của mình, hãy thử [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz).
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKI Healing, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
+:::
+
 ## Nguồn tham khảo
 
 - Nhà thuốc Long Châu — Những cách chuẩn bị bữa ăn lành mạnh dành cho người có ngân sách thấp: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn)

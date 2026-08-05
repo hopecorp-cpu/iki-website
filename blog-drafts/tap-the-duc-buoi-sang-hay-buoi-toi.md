@@ -210,6 +210,10 @@ Ba chỉ số cần ghi rất đơn giản, mỗi cái chấm theo thang 1-10: m
 
 Và nếu kết quả là "cả hai khung đều ổn" — xin chúc mừng, bạn thuộc nhóm linh hoạt nhất. Khi đó hãy chọn khung giờ ít bị lịch sinh hoạt phá vỡ nhất, vì tính đều đặn mới là thứ tạo ra kết quả.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKI Healing, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
+:::
+
 ## Nguồn tham khảo
 
 - [Sức khoẻ & Đời sống (Bộ Y tế) — Tập thể dục buổi sáng hay buổi tối tốt hơn cho sức khoẻ](https://suckhoedoisong.vn/tap-the-duc-buoi-sang-hay-buoi-toi-tot-hon-cho-suc-khoe-169250914155647855.htm)
