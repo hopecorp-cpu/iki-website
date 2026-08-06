@@ -30,7 +30,7 @@
   ]
 }
 ---
-Hạt chia là một trong những nguyên liệu được nhắc tới nhiều nhất trong mấy năm gần đây. Nó xuất hiện trong ly nước detox trên mạng xã hội, trong hũ pudding chụp ảnh rất đẹp, trong lời khuyên của gần như mọi bài viết về ăn uống lành mạnh.
+Hạt chia là một trong những nguyên liệu được nhắc tới nhiều nhất trong mấy năm gần đây. Nó xuất hiện trong ly nước thanh mát trên mạng xã hội, trong hũ pudding chụp ảnh rất đẹp, trong lời khuyên của gần như mọi bài viết về ăn uống lành mạnh.
 
 Nhưng phần lớn những gì được chia sẻ lại dừng ở chỗ "hạt chia tốt lắm", mà rất ít nơi nói rõ **cách dùng hạt chia đúng cách**: dùng bao nhiêu, ngâm thế nào, và ai không nên dùng. Kết quả là nhiều người mua một hũ về, dùng vài lần theo cảm tính rồi để quên trong tủ, hoặc dùng quá tay và thấy bụng khó chịu nên kết luận là mình không hợp.
 
