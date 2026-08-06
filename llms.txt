@@ -115,6 +115,10 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Sương mù não: vì sao bạn hay quên, khó tập trung — và điều chỉnh sinh hoạt từ đâu](https://ikihealing.com/blog/suong-mu-nao-hay-quen-kho-tap-trung.html): Sương mù não là cảm giác đầu óc mù mờ, hay quên, khó tập trung ngày càng phổ biến ở người trẻ. Nguyên nhân đời thường, cách điều chỉnh giấc ngủ, bữa ăn, cà phê, màn hình và khi nào cần đi khám.
 - [Ăn chay ngày rằm và mùng một: mâm cơm đủ chất, nhẹ bụng, không mệt buổi chiều](https://ikihealing.com/blog/an-chay-ngay-ram-mung-mot-du-chat.html): Ăn chay ngày rằm mùng một nhưng đến chiều lại mệt và đói? Bài viết chỉ ra ba lỗi thường gặp của mâm chay Việt, khung mâm chay đủ chất, nguồn đạm chay dễ tìm và thực đơn mẫu cho một ngày.
 - [Làm sao duy trì thói quen ăn uống lành mạnh: 9 cách để không bỏ cuộc sau hai tuần](https://ikihealing.com/blog/duy-tri-thoi-quen-an-uong-lanh-manh.html): Bắt đầu ăn uống lành mạnh thì dễ, giữ được mới khó. Chín cách thiết kế thói quen bền: đổi một thứ mỗi tuần, neo vào việc sẵn có, sắp lại môi trường, kế hoạch cho ngày tệ nhất và lộ trình 30 ngày.
+- [Uống sữa bị đau bụng: vì sao xảy ra và nên uống gì thay thế](https://ikihealing.com/blog/uong-sua-bi-dau-bung-nen-uong-gi-thay-the.html): Uống sữa bị đau bụng, sôi bụng, đi ngoài là chuyện rất phổ biến ở người Việt trưởng thành. Bài viết giải thích cơ chế không dung nạp lactose, cách phân biệt với dị ứng đạm sữa, và các lựa chọn thay thế đủ canxi, đủ đạm.
+- [Ăn theo cảm xúc: vì sao càng căng thẳng càng thèm ăn và làm sao để dừng lại](https://ikihealing.com/blog/an-theo-cam-xuc-lam-sao-de-dung-lai.html): Hay ăn vặt khi buồn chán, căng thẳng, stress dù không hề đói? Bài viết phân biệt đói thể chất với đói cảm xúc, giải thích cơ chế phía sau, và đưa ra cách xử lý theo từng bước thay vì ép mình bằng ý chí.
+- [Sữa hạt cho trẻ mấy tuổi uống được và có thay được sữa bò không](https://ikihealing.com/blog/sua-hat-cho-tre-may-tuoi-uong-duoc.html): Sữa hạt cho trẻ mấy tuổi uống được, có thay thế hoàn toàn sữa công thức hay sữa bò không, loại nào phù hợp theo độ tuổi? Hướng dẫn thực tế cho cha mẹ, kèm những sai lầm thường gặp khi tự làm sữa hạt cho con.
+- [Chế độ ăn cho da mụn: khoa học nói gì về đường, sữa và thói quen ăn uống](https://ikihealing.com/blog/che-do-an-cho-da-mun-khoa-hoc-noi-gi.html): Ăn uống có liên quan đến làn da mụn không, đường và sữa ảnh hưởng thế nào, nên ăn gì và hạn chế gì? Bài viết tổng hợp bằng chứng hiện có một cách thận trọng, kèm khung ăn uống bốn tuần để tự quan sát.
 - [Ăn cá thế nào cho đủ chất mỗi tuần](https://ikihealing.com/blog/an-ca-dung-cach-moi-tuan.html)
 - [Ăn chậm, nhai kỹ: thói quen nhỏ đổi lại rất nhiều](https://ikihealing.com/blog/an-cham-nhai-ky.html)
 - [Ăn gì trước khi ngủ để ngủ ngon? 12 lựa chọn dễ tìm](https://ikihealing.com/blog/an-gi-truoc-khi-ngu-de-ngu-ngon.html)
@@ -124,11 +128,14 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Ăn tối muộn có ảnh hưởng gì đến cơ thể không](https://ikihealing.com/blog/an-toi-muon-co-anh-huong-gi-khong.html)
 - [Ăn uống khi đi du lịch: giữ nhịp mà vẫn tận hưởng](https://ikihealing.com/blog/an-uong-khi-di-du-lich.html)
 - [Ăn uống lành mạnh cho người bận rộn: bữa nhanh vẫn đủ chất](https://ikihealing.com/blog/an-uong-nguoi-ban-ron.html)
+- [Ăn uống trước và sau khi hiến máu sao cho khoẻ](https://ikihealing.com/blog/an-uong-truoc-va-sau-khi-hien-mau.html)
+- [Ăn vặt đêm khuya có ảnh hưởng gì không](https://ikihealing.com/blog/an-vat-dem-khuya-co-anh-huong-gi-khong.html)
 - [Ăn vặt lành mạnh: chọn gì để đỡ đói mà nhẹ bụng](https://ikihealing.com/blog/an-vat-lanh-manh.html)
 - [Bảo quản thực phẩm đúng cách: giữ tươi và giữ an toàn](https://ikihealing.com/blog/bao-quan-thuc-pham-dung-cach.html)
 - [Bảo vệ mắt cho trẻ trong thời đại màn hình](https://ikihealing.com/blog/bao-ve-mat-cho-tre-em.html)
 - [Bữa tối nhẹ, dễ tiêu: ăn gì và ăn lúc mấy giờ](https://ikihealing.com/blog/bua-toi-nhe-de-tieu.html)
 - [Cà phê và sức khỏe: uống sao cho lợi, tránh mất ngủ](https://ikihealing.com/blog/ca-phe-va-suc-khoe.html)
+- [Cách tính nhu cầu năng lượng mỗi ngày cho từng độ tuổi và mức vận động](https://ikihealing.com/blog/cach-tinh-nhu-cau-calo-moi-ngay.html)
 - [Cần bao nhiêu đạm mỗi ngày và lấy từ đâu](https://ikihealing.com/blog/can-bao-nhieu-dam-moi-ngay.html)
 - [Canxi và xương chắc khoẻ: ăn gì để đủ mỗi ngày](https://ikihealing.com/blog/canxi-va-xuong-chac-khoe.html)
 - [Da đầu ngứa và gàu: chăm sóc từ nếp sinh hoạt](https://ikihealing.com/blog/cham-soc-da-dau-va-gau.html)

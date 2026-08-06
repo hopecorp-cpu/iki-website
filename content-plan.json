@@ -832,6 +832,30 @@
       "slug": "duy-tri-thoi-quen-an-uong-lanh-manh",
       "category": "thoi-quen",
       "status": "published"
+    },
+    {
+      "title": "Uống sữa bị đau bụng: vì sao xảy ra và nên uống gì thay thế",
+      "slug": "uong-sua-bi-dau-bung-nen-uong-gi-thay-the",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Ăn theo cảm xúc: vì sao càng căng thẳng càng thèm ăn và làm sao để dừng lại",
+      "slug": "an-theo-cam-xuc-lam-sao-de-dung-lai",
+      "category": "thoi-quen",
+      "status": "published"
+    },
+    {
+      "title": "Sữa hạt cho trẻ mấy tuổi uống được và có thay được sữa bò không",
+      "slug": "sua-hat-cho-tre-may-tuoi-uong-duoc",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Chế độ ăn cho da mụn: khoa học nói gì về đường, sữa và thói quen ăn uống",
+      "slug": "che-do-an-cho-da-mun-khoa-hoc-noi-gi",
+      "category": "dinh-duong",
+      "status": "published"
     }
   ],
   "roadmaps": [
