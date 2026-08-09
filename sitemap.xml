@@ -925,6 +925,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/tang-suc-de-khang-cho-tre-nen-an-gi.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-gi-truoc-khi-tap-gym-buoi-sang.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/mon-an-de-tieu-cho-nguoi-lon-tuoi.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/cach-chia-dia-bua-an-can-bang.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <url><loc>https://ikihealing.com/en/blog/</loc><lastmod>2026-07-22</lastmod></url>
