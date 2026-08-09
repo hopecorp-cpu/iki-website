@@ -48,6 +48,8 @@ Thứ ba là **giảm chất lượng sống**. Bữa ăn không chỉ là dinh 
 
 Vì vậy, khi thấy người nhà lớn tuổi ăn ít đi rõ rệt, đừng chờ. Hãy tìm nguyên nhân sớm.
 
+Cũng cần nói trước: mỗi cụ một thể trạng khác nhau, cùng một món có người ăn thấy vừa miệng, người lại thấy khó nuốt. Nếu bạn muốn có điểm khởi đầu rõ hơn thay vì thử sai, có thể làm giúp cụ [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) rồi đọc tiếp phần dưới với lăng kính đó.
+
 ## Chín nguyên nhân thường gặp và cách xử lý
 
 ### 1. Vị giác và khứu giác giảm theo tuổi
