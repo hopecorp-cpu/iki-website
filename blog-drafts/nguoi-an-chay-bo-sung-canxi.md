@@ -50,6 +50,10 @@ Mức cần của mỗi người cũng khác nhau tuỳ tuổi, thể trạng v�
 
 Điều này dẫn tới nguyên tắc thực hành đầu tiên và quan trọng nhất: **chia canxi ra nhiều bữa trong ngày**. Cơ thể hấp thu canxi tốt hơn ở những lần nạp khoảng 300–500mg so với một lần nạp thật lớn. Ba bữa, mỗi bữa có một món giàu canxi, thường dễ đạt hơn nhiều so với việc dồn tất cả vào bữa tối.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong 660 cuộc tư vấn mà khách chủ động nêu vấn đề, **nhóm ăn chay và nguồn đạm chiếm 8%** (n = 55), còn nhóm được nêu nhiều nhất lại là băn khoăn về giá với 25% (n = 164). Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
+:::
+
 ## Nhóm 1: Đậu nành và chế phẩm — trụ cột đáng tin nhất
 
 Nếu chỉ được chọn một nhóm thực phẩm để giải bài toán canxi cho người ăn chay Việt, đó là đậu nành.

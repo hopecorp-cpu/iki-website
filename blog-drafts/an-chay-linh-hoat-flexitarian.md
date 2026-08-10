@@ -52,6 +52,10 @@ Cách ăn này khác biệt rõ với **ăn chay trường** (loại bỏ hoàn 
 
 Mỗi người có một thể trạng và điều kiện sống khác nhau, nên mức độ linh hoạt phù hợp cũng khác. Nếu chưa biết mình nên bắt đầu từ đâu, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có gợi ý cụ thể hơn theo cơ địa của mình.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Đo trên 660 cuộc tư vấn thật mà khách là bên chủ động nêu vấn đề (kỳ tính đến đầu tháng 8/2026), **ăn chay và nguồn đạm chiếm 8% số cuộc** (n = 55) — ngang với nhóm tiêu hoá và đường ruột. Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
+:::
+
 ## Vì sao nhiều người chọn cách ăn này
 
 ### Dễ duy trì hơn hẳn

@@ -40,6 +40,10 @@ Trong kinh nghiệm dân gian, con người được xem là một phần của 
 
 > Ăn theo mùa không phải là một quy tắc cứng nhắc, mà là lời nhắc nhẹ nhàng để ta ăn tươi hơn, đa dạng hơn và gần với nhịp tự nhiên hơn.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Đo trên 660 cuộc tư vấn thật mà khách là bên chủ động nêu vấn đề, **21% số cuộc được khách mở đầu bằng khái niệm dưỡng Can theo góc nhìn Đông y** (n = 138) — khung tư duy Đông y vẫn là cách nhiều người Việt diễn đạt mối quan tâm sức khoẻ của mình. Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
+:::
+
 ## Thể tạng là gì: năm kiểu cơ địa theo Đông y
 
 Nếu "ăn theo mùa" trả lời câu hỏi *ăn gì theo thời tiết*, thì **thể tạng** trả lời câu hỏi *ai nên ăn thế nào*. Y học Cổ truyền phương Đông mô tả cơ địa mỗi người qua những xu hướng khác nhau. Đây không phải chẩn đoán bệnh, mà là cách quan sát để chăm sóc phù hợp:

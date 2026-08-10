@@ -46,6 +46,10 @@ Nếu tinh bột và chất béo là nhiên liệu, thì đạm là vật liệu
 
 Cơ thể không có kho dự trữ đạm như kho mỡ. Khi khẩu phần thiếu, nó buộc phải lấy từ nơi có sẵn — chủ yếu là cơ bắp — để phục vụ những chức năng sống còn hơn. Đó là lý do các dấu hiệu thiếu đạm xuất hiện ở nhiều nơi cùng lúc và thường bắt đầu từ những chỗ ít cấp thiết nhất: tóc, móng, da.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong 660 cuộc tư vấn mà khách chủ động nêu vấn đề (kỳ tính đến đầu tháng 8/2026), **ăn chay và nguồn đạm là mối quan tâm được nêu ở 8% số cuộc** (n = 55). Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
+:::
+
 ## Mười dấu hiệu cơ thể thiếu đạm
 
 ### 1. Mệt mỏi kéo dài không rõ nguyên nhân
