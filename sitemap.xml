@@ -1105,6 +1105,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/ngam-rau-nuoc-muoi-co-sach-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/uong-nuoc-la-tia-to-co-tot-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/thuc-pham-huu-co-co-thuc-su-tot-hon-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <url><loc>https://ikihealing.com/en/blog/</loc><lastmod>2026-07-22</lastmod></url>
@@ -1428,4 +1452,8 @@
 <url><loc>https://ikihealing.com/blog/hay-tieu-dem-nen-uong-nuoc-the-nao.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/noi-chien-khong-dau-co-hai-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ikihealing.com/blog/an-dam-cho-be-bat-dau-tu-dau.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/ngam-rau-nuoc-muoi-co-sach-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/uong-nuoc-la-tia-to-co-tot-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/thuc-pham-huu-co-co-thuc-su-tot-hon-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
