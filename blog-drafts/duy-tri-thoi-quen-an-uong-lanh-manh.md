@@ -75,6 +75,10 @@ Nhìn thì chậm. Nhưng sau bốn tuần bạn có bốn thói quen còn sốn
 
 **Ưu tiên thay đổi kiểu "thêm" trước thay đổi kiểu "bỏ".** Thêm rau, thêm đạm, thêm nước — não không chống lại việc thêm. Bỏ trà sữa, bỏ đồ chiên, bỏ ăn khuya — não sẽ chống lại quyết liệt. Điều thú vị là khi bạn thêm đủ nhiều, phần cần bỏ tự co lại mà không cần phải chiến đấu với nó.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Dữ liệu 1.541 đơn hàng thực tế của IKI Healing cho thấy **59% số đơn chỉ có một món** — người Việt bước vào lối sống sức khoẻ chủ động bằng cách thử một thứ trước, không sắm cả bộ. Chỉ 16% số đơn có từ ba món trở lên. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
+:::
+
 ## 3. Neo thói quen mới vào việc bạn vốn đã làm
 
 Thói quen mới sống sót tốt nhất khi nó bám vào một thói quen cũ đã vững. Công thức: **sau khi tôi [việc đã làm hằng ngày], tôi sẽ [việc mới].**

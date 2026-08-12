@@ -157,6 +157,10 @@ Vì quy tắc đĩa không dùng con số, nhiều người băn khoăn không b
 
 Ba tín hiệu này đáng tin hơn cân nặng đo hằng ngày, vì cân nặng dao động theo nước và muối trong ngắn hạn. Nếu bạn muốn ghi lại có hệ thống, hãy chụp lại đĩa ăn của mình trong một tuần — nhìn lại bảy tấm ảnh thường cho bạn nhiều thông tin hơn bảy lần đứng lên cân.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Thói quen "thử một thứ trước" không chỉ đúng với bữa ăn. Trong 1.541 đơn hàng thực tế của IKI Healing, **59% số đơn chỉ có một món** và **16% số đơn có từ ba món trở lên** — người mua chọn một thay đổi, làm cho quen, rồi mới tính bước tiếp theo. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
+:::
+
 ## Bảy ngày thực hành quy tắc đĩa
 
 Đừng đổi tất cả cùng lúc. Đây là lộ trình nhỏ, mỗi ngày một việc:

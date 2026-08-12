@@ -219,6 +219,10 @@ Chi tiết cuối cùng quan trọng hơn người ta tưởng: hãy để đồ
 Nếu bạn chỉ được chọn một thay đổi cho tuần đầu tiên, hãy chọn: **thêm rau vào mọi bữa**. Không bỏ gì cả, không cấm gì cả — chỉ thêm. Đây là thay đổi ít gây kháng cự nhất, dễ duy trì nhất, và nó tự động đẩy lùi những phần khác trong bữa mà không cần bạn phải ép mình.
 :::
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Đo trên 1.541 đơn hàng thực tế của IKI Healing: **59% số đơn chỉ có một món**, và chỉ **16% số đơn có từ ba món trở lên**. Nói cách khác, phần lớn người Việt bắt đầu bằng một thay đổi nhỏ rồi mới mở rộng — đúng tinh thần của lộ trình bốn tuần dưới đây. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
+:::
+
 ## Bốn tuần đầu tiên: một lộ trình nhẹ
 
 - **Tuần 1 — Thêm.** Mỗi bữa thêm một phần rau. Không cấm gì.
