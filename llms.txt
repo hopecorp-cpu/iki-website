@@ -175,6 +175,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Ăn giảm muối: vị giác quen dần và mẹo nêm nhạt](https://ikihealing.com/blog/an-giam-muoi.html)
 - [Ăn ít thịt có thiếu đạm không? Cách bù đạm không cần ăn nhiều thịt](https://ikihealing.com/blog/an-it-thit-co-thieu-dam-khong.html)
 - [Ăn rau củ nhiều màu sắc: bữa cơm như cầu vồng](https://ikihealing.com/blog/an-rau-cu-nhieu-mau-sac.html)
+- [Ăn sáng bằng trái cây có tốt không? Cách ăn để không tụt năng lượng](https://ikihealing.com/blog/an-sang-bang-trai-cay-co-tot-khong.html)
 - [Bữa sáng cho trẻ đi học: nhanh, gọn mà đủ chất](https://ikihealing.com/blog/an-sang-cho-tre-di-hoc.html)
 - [Ăn tối muộn có ảnh hưởng gì đến cơ thể không](https://ikihealing.com/blog/an-toi-muon-co-anh-huong-gi-khong.html)
 - [Ăn uống khi đi du lịch: giữ nhịp mà vẫn tận hưởng](https://ikihealing.com/blog/an-uong-khi-di-du-lich.html)
@@ -212,6 +213,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Dị ứng thời tiết lúc giao mùa: hiểu và chăm sóc chủ động](https://ikihealing.com/blog/di-ung-thoi-tiet-giao-mua.html)
 - [Dinh dưỡng cân bằng cho tuổi dậy thì: ăn sao để con phát triển toàn diện](https://ikihealing.com/blog/dinh-duong-can-bang-tuoi-day-thi.html)
 - [Dinh dưỡng cho phụ nữ mang thai: ăn sao cho mẹ khỏe, con phát triển tốt](https://ikihealing.com/blog/dinh-duong-cho-phu-nu-mang-thai.html)
+- [Đổ mồ hôi nhiều nên ăn uống gì để bù nước và khoáng chất](https://ikihealing.com/blog/do-mo-hoi-nhieu-nen-an-uong-gi.html)
 - [Đồ uống có gas và sức khoẻ: hiểu để dùng chừng mực](https://ikihealing.com/blog/do-uong-co-gas-va-suc-khoe.html)
 - [Đọc nhãn dinh dưỡng: hiểu con số trên bao bì thực phẩm](https://ikihealing.com/blog/doc-nhan-dinh-duong-thuc-pham.html)
 - [Đọc nhãn thực phẩm: hiểu bảng thành phần trong hai phút](https://ikihealing.com/blog/doc-nhan-thuc-pham.html)
@@ -229,6 +231,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Huyết áp thấp nên ăn gì? Thực đơn và nếp sinh hoạt cho người hay tụt huyết áp](https://ikihealing.com/blog/huyet-ap-thap-nen-an-gi.html)
 - [Kẽm trong bữa ăn hằng ngày: những nguồn quen thuộc](https://ikihealing.com/blog/kem-trong-bua-an-hang-ngay.html)
 - [Khoai lang và củ quả giàu tinh bột: ăn sao cho cân bằng](https://ikihealing.com/blog/khoai-lang-va-cu-qua-giau-tinh-bot.html)
+- [Không tập gym có nên uống đạm thực vật không? Giải đáp chi tiết](https://ikihealing.com/blog/khong-tap-gym-co-nen-uong-dam-thuc-vat-khong.html)
 - [Kiểm soát cân nặng lành mạnh: chậm mà bền](https://ikihealing.com/blog/kiem-soat-can-nang-lanh-manh.html)
 - [Luộc rau thế nào để không mất chất? 7 lỗi thường gặp](https://ikihealing.com/blog/luoc-rau-the-nao-de-khong-mat-chat.html)
 - [Magie và những thực phẩm giàu magie quen thuộc](https://ikihealing.com/blog/magie-va-thuc-pham-giau-magie.html)
@@ -281,6 +284,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Vitamin B12 cho người ăn chay: điều cần lưu ý](https://ikihealing.com/blog/vitamin-b12-nguoi-an-chay.html)
 - [Vitamin C và sức đề kháng: hiểu đúng để chăm sóc mỗi ngày](https://ikihealing.com/blog/vitamin-c-va-de-khang.html)
 - [Vitamin D và ánh nắng: hiểu đúng để không thiếu](https://ikihealing.com/blog/vitamin-d-va-anh-nang.html)
+- [Vitamin K2 có trong thực phẩm nào? Danh sách và cách ăn cho người Việt](https://ikihealing.com/blog/vitamin-k2-co-trong-thuc-pham-nao.html)
 - [Vitamin nhóm B và năng lượng cho cơ thể mỗi ngày](https://ikihealing.com/blog/vitamin-nhom-b-va-nang-luong-moi-ngay.html)
 
 ## Trụ nội dung
