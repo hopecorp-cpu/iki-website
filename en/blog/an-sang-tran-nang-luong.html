@@ -453,5 +453,18 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </footer>
 <script>(function(){var T='https://hope-ops-hub.vercel.app/api/track';function lid(){try{var u=new URLSearchParams(location.search).get('lid');if(u){sessionStorage.setItem('iki_lid',u);return u;}return sessionStorage.getItem('iki_lid')||'';}catch(e){return '';}}function b(e,m){var id=lid();if(!id)return;var i=new Image();i.src=T+'?lid='+encodeURIComponent(id)+'&e='+e+(m?'&m='+encodeURIComponent(m):'')+'&_='+Date.now();}var s=location.pathname.split('/').pop().replace(/\.html$/,'')||'index';if(lid())b('read',s);document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a');if(!a)return;var h=a.getAttribute('href')||'';if(/\.pdf($|\?)/i.test(h))b('download',(h.split('/').pop()||'pdf').slice(0,60));else if(/ikihealingdetox|trueveganprotein|tra\.ikihealing|thanhhuongtra|app\.html/.test(h))b('click',h.slice(0,80));},true);})();</script>
+<!-- Zalo OA chat widget -->
+<style>
+  .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
+  @media (max-width:880px){.zalo-chat-widget{bottom:92px!important}}
+</style>
+<div class="zalo-chat-widget"
+     data-oaid="599407064751177637"
+     data-welcome-message="Chào bạn, IKI có thể hỗ trợ gì cho bạn?"
+     data-autopopup="0"
+     data-width="350"
+     data-height="420"></div>
+<script src="https://sp.zalo.me/plugins/sdk.js" async defer></script>
+<!-- End Zalo OA chat widget -->
 </body>
 </html>
