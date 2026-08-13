@@ -118,7 +118,11 @@ function head(title, desc, canonical) {
     .tl-note{max-width:640px;margin:0 auto 40px;padding:0 20px;color:#98a2b3;font-size:.82rem;text-align:center;line-height:1.5}
   </style>
 </head>
-<body>`;
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N23BLRJD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->`;
 }
 
 function header() {

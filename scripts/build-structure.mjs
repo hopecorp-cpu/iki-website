@@ -230,7 +230,11 @@ ${ldExtra ? `  <script type="application/ld+json">\n${JSON.stringify(ldExtra, nu
     .rm-list .dot{width:10px;height:10px;border-radius:50%;flex:0 0 auto} .rm-list .dot.pub{background:var(--iki-teal,#4BC0AB)} .rm-list .dot.soon{background:#d0d5dd}
   </style>
 </head>
-<body>`;
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N23BLRJD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->`;
 }
 
 function header() {
