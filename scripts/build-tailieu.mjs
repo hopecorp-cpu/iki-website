@@ -158,6 +158,19 @@ const footer = () => `
     <div class="global-disclaimer"><p>Các sản phẩm là <strong style="color:rgba(255,255,255,0.78);">thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Kết quả có thể khác nhau tuỳ cơ địa.</p></div>
     <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu của HOPE CORP.</span></div>
   </div></footer>
+<!-- Zalo OA chat widget -->
+<style>
+  .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
+  @media (max-width:880px){.zalo-chat-widget{bottom:92px!important}}
+</style>
+<div class="zalo-chat-widget"
+     data-oaid="599407064751177637"
+     data-welcome-message="Chào bạn, IKI có thể hỗ trợ gì cho bạn?"
+     data-autopopup="0"
+     data-width="350"
+     data-height="420"></div>
+<script src="https://sp.zalo.me/plugins/sdk.js" async defer></script>
+<!-- End Zalo OA chat widget -->
 </body>
 </html>`;
 
