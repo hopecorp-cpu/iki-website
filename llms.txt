@@ -169,12 +169,14 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Uống nước lá vối mỗi ngày có tốt không? Cách nấu, liều lượng và những ai nên cẩn trọng](https://ikihealing.com/blog/uong-nuoc-la-voi-co-tot-khong.html): Uống nước lá vối mỗi ngày có tốt không? Bài viết giải thích lá vối là gì, kinh nghiệm dân gian nói gì, cách nấu nước lá vối đúng, uống bao nhiêu là vừa, uống lúc nào và những ai nên cẩn trọng.
 - [Trẻ em uống đạm thực vật được không? Nhu cầu đạm theo tuổi và cách bổ sung an toàn](https://ikihealing.com/blog/tre-em-uong-dam-thuc-vat-duoc-khong.html): Trẻ em uống đạm thực vật được không, từ mấy tuổi, bao nhiêu là đủ? Bảng nhu cầu đạm theo tuổi, danh sách nguồn đạm thực vật quen thuộc và khi nào nên hỏi bác sĩ trước khi dùng bột đạm cho trẻ.
 - [Uống nước gạo lứt rang mỗi ngày có tốt không? Cách rang, cách nấu và ai nên hạn chế](https://ikihealing.com/blog/nuoc-gao-lut-rang-co-tot-khong.html): Uống nước gạo lứt rang mỗi ngày có tốt không? Hướng dẫn rang và nấu đúng cách, uống bao nhiêu là vừa, uống lúc nào, so sánh với nước lọc và trà, cùng những ai nên hạn chế.
+- [Ăn bí đỏ nhiều có bị vàng da không](https://ikihealing.com/blog/an-bi-do-nhieu-co-bi-vang-da-khong.html): Ăn bí đỏ nhiều có bị vàng da không, một tuần nên ăn mấy lần, trẻ nhỏ ăn bao nhiêu là đủ? Giải thích hiện tượng vàng da do beta-caroten và cách đưa bí đỏ vào bữa ăn cân bằng.
 - [Ăn cá thế nào cho đủ chất mỗi tuần](https://ikihealing.com/blog/an-ca-dung-cach-moi-tuan.html)
 - [Ăn cay nhiều có hại không? Cách ăn cay cho êm bụng](https://ikihealing.com/blog/an-cay-nhieu-co-hai-khong.html)
 - [Ăn chậm, nhai kỹ: thói quen nhỏ đổi lại rất nhiều](https://ikihealing.com/blog/an-cham-nhai-ky.html)
 - [Ăn chuối mỗi ngày có tốt không? Góc nhìn dinh dưỡng đời thường](https://ikihealing.com/blog/an-chuoi-moi-ngay-co-tot-khong.html)
 - [Ăn dặm cho bé: bắt đầu từ đâu để bé ăn ngon, mẹ nhẹ lo](https://ikihealing.com/blog/an-dam-cho-be-bat-dau-tu-dau.html)
 - [Ăn đồ nướng thường xuyên có hại không? Cách ăn cho đỡ hại](https://ikihealing.com/blog/an-do-nuong-thuong-xuyen-co-hai-khong.html)
+- [Ăn dứa có tác dụng gì, ăn bao nhiêu là đủ](https://ikihealing.com/blog/an-dua-thom-co-tac-dung-gi.html): Ăn dứa có tác dụng gì, mỗi ngày nên ăn bao nhiêu, ăn lúc nào thì hợp lý và vì sao hay bị rát lưỡi? Hướng dẫn ăn dứa đúng cách theo thể tạng, kèm lưu ý cho người bụng dạ nhạy cảm.
 - [Ăn gì để giảm căng thẳng: nhóm thực phẩm và nếp ăn nên thử](https://ikihealing.com/blog/an-gi-de-giam-cang-thang-lo-au.html)
 - [Ăn gì để tăng chiều cao cho trẻ? Hướng dẫn dinh dưỡng theo từng độ tuổi](https://ikihealing.com/blog/an-gi-de-tang-chieu-cao-cho-tre.html)
 - [Ăn gì trước khi ngủ để ngủ ngon? 12 lựa chọn dễ tìm](https://ikihealing.com/blog/an-gi-truoc-khi-ngu-de-ngu-ngon.html)
@@ -183,6 +185,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Ăn rau củ nhiều màu sắc: bữa cơm như cầu vồng](https://ikihealing.com/blog/an-rau-cu-nhieu-mau-sac.html)
 - [Ăn sáng bằng trái cây có tốt không? Cách ăn để không tụt năng lượng](https://ikihealing.com/blog/an-sang-bang-trai-cay-co-tot-khong.html)
 - [Bữa sáng cho trẻ đi học: nhanh, gọn mà đủ chất](https://ikihealing.com/blog/an-sang-cho-tre-di-hoc.html)
+- [Ăn tỏi mỗi ngày bao nhiêu là đủ, mấy tép](https://ikihealing.com/blog/an-toi-moi-ngay-bao-nhieu-la-du.html): Ăn tỏi mỗi ngày bao nhiêu là đủ, nên ăn mấy tép, ăn sống hay nấu chín tốt hơn, vì sao đập dập rồi để 10 phút, và ai nên thận trọng khi ăn tỏi sống thường xuyên.
 - [Ăn tối muộn có ảnh hưởng gì đến cơ thể không](https://ikihealing.com/blog/an-toi-muon-co-anh-huong-gi-khong.html)
 - [Ăn uống khi đi du lịch: giữ nhịp mà vẫn tận hưởng](https://ikihealing.com/blog/an-uong-khi-di-du-lich.html)
 - [Ăn uống lành mạnh cho người bận rộn: bữa nhanh vẫn đủ chất](https://ikihealing.com/blog/an-uong-nguoi-ban-ron.html)
@@ -195,6 +198,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Bữa tối nhẹ, dễ tiêu: ăn gì và ăn lúc mấy giờ](https://ikihealing.com/blog/bua-toi-nhe-de-tieu.html)
 - [Buồn ngủ sau khi ăn trưa: vì sao và cách ăn để tỉnh táo](https://ikihealing.com/blog/buon-ngu-sau-khi-an-trua.html)
 - [Cà phê và sức khỏe: uống sao cho lợi, tránh mất ngủ](https://ikihealing.com/blog/ca-phe-va-suc-khoe.html)
+- [Cách ghi nhật ký ăn uống trong 7 ngày](https://ikihealing.com/blog/cach-ghi-nhat-ky-an-uong.html): Cách ghi nhật ký ăn uống đơn giản trong 7 ngày: ghi những gì, ghi lúc nào, mẫu ghi cụ thể và cách đọc lại để nhận ra món nào hợp, món nào không hợp với cơ thể bạn.
 - [Cách tính nhu cầu năng lượng mỗi ngày cho từng độ tuổi và mức vận động](https://ikihealing.com/blog/cach-tinh-nhu-cau-calo-moi-ngay.html)
 - [Cần bao nhiêu đạm mỗi ngày và lấy từ đâu](https://ikihealing.com/blog/can-bao-nhieu-dam-moi-ngay.html)
 - [Canxi và xương chắc khoẻ: ăn gì để đủ mỗi ngày](https://ikihealing.com/blog/canxi-va-xuong-chac-khoe.html)
