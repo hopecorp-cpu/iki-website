@@ -521,7 +521,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     var email=(el.querySelector('.ie-email').value||'').trim();
     var honey=(el.querySelector('.ie-honey').value||'').trim();
     var btn=el.querySelector('.ie-btn'), ok=el.querySelector('.ie-ok'), err=el.querySelector('.ie-err'); err.hidden=true;
-    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ err.textContent='Email chưa đúng — kiểm tra lại giúp mình.'; err.hidden=false; return; }
+    if(!/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(email)){ err.textContent='Email chưa đúng — kiểm tra lại giúp mình.'; err.hidden=false; return; }
     btn.disabled=true; btn.textContent='Đang gửi…';
     var src='exit:'+((location.pathname.split('/').pop()||'blog').replace(/\.html$/,''));
     fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,source:src,consent:true,_honey:honey,phone:''})})
@@ -546,5 +546,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
      data-height="420"></div>
 <script src="https://sp.zalo.me/plugins/sdk.js" async defer></script>
 <!-- End Zalo OA chat widget -->
+  <script src="/assets/kiem-form.js" defer></script>
 </body>
 </html>

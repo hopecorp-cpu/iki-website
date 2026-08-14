@@ -415,7 +415,7 @@ function submitGate(){
   const nm=document.getElementById('nm'), em=document.getElementById('em'), ph=document.getElementById('ph'), err=document.getElementById('err');
   let ok=true;
   if(!nm.value.trim()){ nm.classList.add('err'); ok=false; }
-  const emailOk=/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em.value.trim());
+  const emailOk=/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(em.value.trim());
   if(!emailOk){ em.classList.add('err'); ok=false; }
   if(!ok){ err.textContent = !nm.value.trim() ? 'Vui lòng nhập tên của bạn.' : 'Email chưa đúng — cần email hợp lệ để gửi quà cho bạn.'; return; }
   lead.name=nm.value.trim(); lead.email=em.value.trim(); lead.phone=(ph.value||'').trim();
@@ -592,5 +592,6 @@ render();
      data-height="420"></div>
 <script src="https://sp.zalo.me/plugins/sdk.js" async defer></script>
 <!-- End Zalo OA chat widget -->
+  <script src="/assets/kiem-form.js" defer></script>
 </body>
 </html>

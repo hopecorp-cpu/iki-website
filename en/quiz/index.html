@@ -114,7 +114,7 @@ document.getElementById("rname").textContent=r.name;document.getElementById("rde
 document.getElementById("rfoods").innerHTML=r.foods.map(f=>'<span class="chip">'+f+'</span>').join("");
 document.getElementById("rtip").textContent=r.tip;window.scrollTo({top:0});try{gtag('event','quiz_codia_result',{pattern:patt})}catch(e){}
 fetch("https://hope-ops-hub.vercel.app/api/quiz-data",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({pattern:patt,locale:"en",answers:Object.values(ans),han:han,hu:hu,source:"quiz-codia:en"}),keepalive:true}).catch(()=>{});}
-function sendLead(){const em=document.getElementById("em").value.trim();if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em))return;
+function sendLead(){const em=document.getElementById("em").value.trim();if(!/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(em))return;
 const r=D.pt[patt]||{};
 fetch("https://hope-ops-hub.vercel.app/api/quiz-submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:"",email:em,profile:patt,profileName:r.name||"",answers:Object.values(ans),consent:true,source:"quiz-codia:en:"+patt}),keepalive:true}).catch(()=>{});
 document.getElementById("sendb").classList.add("hide");document.getElementById("em").classList.add("hide");document.getElementById("sentmsg").classList.remove("hide");try{gtag('event','quiz_codia_lead')}catch(e){}}
@@ -131,4 +131,5 @@ document.getElementById("sendb").classList.add("hide");document.getElementById("
      data-height="420"></div>
 <script src="https://sp.zalo.me/plugins/sdk.js" async defer></script>
 <!-- End Zalo OA chat widget -->
+  <script src="/assets/kiem-form.js" defer></script>
 </body></html>

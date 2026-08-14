@@ -509,6 +509,7 @@ ${EXIT_POPUP}
      data-height="420"></div>
 <script src="https://sp.zalo.me/plugins/sdk.js" async defer></script>
 <!-- End Zalo OA chat widget -->
+  <script src="/assets/kiem-form.js" defer></script>
 </body>
 </html>
 `;
