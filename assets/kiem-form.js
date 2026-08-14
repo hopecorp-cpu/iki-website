@@ -58,12 +58,18 @@
   function hienLoi(el, msg) {
     if (el.setCustomValidity) el.setCustomValidity(msg ? msg.replace(LOI_SDT_VN, LOI_SDT).replace(LOI_EMAIL_VN, LOI_EMAIL) : '');
     var id = 'loi-' + (el.id || el.name || 'o');
-    var box = el.parentNode && el.parentNode.querySelector('[data-loi-form]');
+    /* Hop loi phai gan RIENG cho tung o. Truoc day tim bang
+       el.parentNode.querySelector('[data-loi-form]') nen moi o trong cung mot khoi
+       dung chung MOT hop: o hop le chay sau se xoa mat loi cua o sai truoc do,
+       thanh ra chan dung ma khach khong thay loi nao. */
+    var box = el.__loiBox;
+    if (box && !box.isConnected) box = el.__loiBox = null;
     if (msg) {
       if (!box) {
         box = document.createElement('div');
         box.setAttribute('data-loi-form', '1');
         box.id = id;
+        el.__loiBox = box;
         box.style.cssText = 'color:#c0392b;font-size:13px;line-height:1.4;margin:6px 0 0;font-weight:600';
         if (el.parentNode) el.parentNode.insertBefore(box, el.nextSibling);
       }
