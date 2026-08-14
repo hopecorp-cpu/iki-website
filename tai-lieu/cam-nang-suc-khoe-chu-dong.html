@@ -115,7 +115,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     e.preventDefault();
     if(form._honey&&form._honey.value.trim()) return;
     var email=(form.email.value||'').trim();
-    if(!/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(email)){ msg.textContent='Email chưa đúng, bạn kiểm tra lại giúp nhé.'; return; }
+    if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ msg.textContent='Email chưa đúng, bạn kiểm tra lại giúp nhé.'; return; }
     var btn=form.querySelector('button'); btn.disabled=true; btn.textContent='Đang gửi...';
     fetch("https://hope-ops-hub.vercel.app/api/blog-lead",{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,phone:(form.phone.value||'').trim(),source:source,consent:true,_honey:''})})
     .then(function(r){return r.json();}).then(function(dd){
