@@ -1225,6 +1225,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/dam-thuc-vat-co-du-axit-amin-thiet-yeu-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-nhieu-rau-van-tao-bon-vi-sao.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-sang-xong-van-doi-truoc-trua.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/nguoi-lon-tuoi-kho-nhai-nuot-nen-an-gi.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <url><loc>https://ikihealing.com/en/blog/</loc><lastmod>2026-07-22</lastmod></url>
@@ -1577,4 +1601,8 @@
   <url><loc>https://ikihealing.com/san-pham/tra-tue-minh.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://ikihealing.com/san-pham/tra-thanh-huong.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
   <url><loc>https://ikihealing.com/blog/dam-thuc-vat-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/dam-thuc-vat-co-du-axit-amin-thiet-yeu-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/an-nhieu-rau-van-tao-bon-vi-sao.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/an-sang-xong-van-doi-truoc-trua.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/nguoi-lon-tuoi-kho-nhai-nuot-nen-an-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
