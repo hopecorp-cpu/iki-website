@@ -1,0 +1,197 @@
+{
+  "_doc": "Dữ liệu 3 trang sản phẩm chủ lực. scripts/build-san-pham.mjs đọc file này dựng san-pham/<slug>.html. Sửa giá hay thành phần thì sửa Ở ĐÂY rồi chạy lại build, KHÔNG sửa thẳng HTML.",
+  "_luat": [
+    "CHỈ ghi thứ đọc được trên bao bì hoặc hồ sơ sản phẩm. Không có số liệu thì BỎ TRỐNG, cấm ước chừng.",
+    "TUYỆT ĐỐI không viết công dụng: cấm chữa/trị/điều trị/khỏi bệnh/thải độc/giải độc/hạ đường huyết/hạ huyết áp, cấm 'hiệu quả sau X ngày', cấm khoe kết quả sức khoẻ của người dùng làm bằng chứng (Nghị định 15/2018 điều 27 khoản 2).",
+    "Bao bì True Vegan có in dòng về người tiểu đường — ĐÓ LÀ CHỮ CỦA NHÀ SẢN XUẤT TRÊN NHÃN, trang web KHÔNG chép lại.",
+    "KHÔNG gắn aggregateRating vào Product schema khi chưa có đánh giá thật: bịa đánh giá là vi phạm chính sách Google và là làm giả bằng chứng.",
+    "Giá do CEO chốt. Máy CẤM tự đặt giá mới, CẤM tự chế khuyến mãi (khuyến mãi luôn là TẶNG QUÀ, không giảm phần trăm)."
+  ],
+  "capNhat": "2026-08-15",
+  "sanPham": [
+    {
+      "slug": "true-vegan-protein",
+      "ten": "True Vegan Protein Pro",
+      "tenDayDu": "Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g",
+      "tuKhoa": "True Vegan Protein",
+      "h1": "True Vegan Protein Pro — bột đạm dinh dưỡng thực vật 500g",
+      "seoTitle": "True Vegan Protein Pro: thành phần, cách pha và giá 500g",
+      "moTa": "True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.",
+      "loai": "Thực phẩm bổ sung — bột đạm thực vật",
+      "anh": "true-vegan-protein.jpg",
+      "anhAlt": "Hộp bột đạm dinh dưỡng thực vật True Vegan Protein Pro 500g của IKI",
+      "gia": 668000,
+      "quyCach": "Hộp 500 g",
+      "danhCho": "Người từ 16 tuổi trở lên",
+      "thongTinNhanh": [
+        ["Loại sản phẩm", "Thực phẩm bổ sung — bột đạm dinh dưỡng thực vật"],
+        ["Quy cách", "Hộp 500 g"],
+        ["Nguồn đạm", "Phối từ nhiều loại hạt và đậu, thuần chay"],
+        ["Trên nhãn ghi", "0 lactose, 0 cholesterol, 0 đạm động vật"],
+        ["Chứng nhận in trên bao bì", "ISO 22000, Vegan"],
+        ["Dành cho", "Người từ 16 tuổi trở lên"],
+        ["Giá niêm yết", "668.000đ"]
+      ],
+      "thanhPhanText": "True Vegan Protein Pro là bột đạm dinh dưỡng có nguồn gốc thực vật, phối từ nhiều loại hạt và đậu thay vì dùng một nguồn đạm duy nhất. Cách phối nhiều nguồn là điều đáng chú ý nhất về mặt dinh dưỡng: mỗi loại hạt hay đậu thường thiếu một vài axit amin thiết yếu, phối lại thì bộ axit amin của sản phẩm đầy đặn hơn so với chỉ dùng một loại. Bao bì cũng ghi rõ sản phẩm không chứa lactose, không cholesterol và không có đạm động vật — đây là ba điểm khiến nhiều người ăn chay, người không hợp sữa hoặc người muốn giảm đạm động vật quan tâm.",
+      "cachDung": [
+        "Đong lượng bột theo hướng dẫn in trên bao bì, cho vào bình lắc hoặc cốc.",
+        "Thêm nước ấm khoảng 40 độ C hoặc nước nguội — không dùng nước đang sôi, vì nước quá nóng làm bột vón cục và khó tan.",
+        "Lắc hoặc khuấy đều khoảng 20 giây cho tới khi bột tan hết.",
+        "Uống ngay sau khi pha. Muốn dễ uống hơn có thể pha cùng chuối chín, sữa hạt hoặc cho vào bát yến mạch."
+      ],
+      "baoQuan": "Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau mỗi lần dùng và luôn dùng muỗng khô — muỗng ướt là nguyên nhân phổ biến nhất khiến bột bị vón trong khí hậu nồm ẩm.",
+      "luuY": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do người có chuyên môn chỉ định nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thêm bột đạm vào khẩu phần hằng ngày.",
+      "faq": [
+        {
+          "q": "True Vegan Protein Pro là gì?",
+          "a": "Đây là bột đạm dinh dưỡng có nguồn gốc thực vật, thuần chay, đóng hộp 500 g, thuộc nhóm thực phẩm bổ sung. Sản phẩm phối đạm từ nhiều loại hạt và đậu, dùng để bổ sung thêm đạm vào khẩu phần ăn hằng ngày chứ không thay thế bữa ăn."
+        },
+        {
+          "q": "Một hộp True Vegan Protein Pro giá bao nhiêu?",
+          "a": "Giá niêm yết của hộp 500 g là 668.000đ. Cách so giá hợp lý giữa các loại bột đạm không phải là so giá mỗi hộp, mà là chia giá hộp cho số khẩu phần rồi chia tiếp cho số gam đạm trong mỗi khẩu phần, để ra giá trên mỗi gam đạm."
+        },
+        {
+          "q": "Pha True Vegan Protein với nước nóng được không?",
+          "a": "Không nên dùng nước đang sôi. Nước quá nóng làm bột dễ vón cục và khó tan. Nên pha với nước ấm khoảng 40 độ C hoặc nước nguội, lắc đều khoảng 20 giây rồi uống ngay."
+        },
+        {
+          "q": "Ai không nên tự ý dùng bột đạm thực vật?",
+          "a": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do bác sĩ chỉ định nên hỏi ý kiến người có chuyên môn trước khi dùng đều đặn."
+        },
+        {
+          "q": "Bột đạm thực vật có khó uống không?",
+          "a": "Bột đạm thực vật có vị hạt rõ hơn và kết cấu hơi dày hơn so với bột đạm từ sữa, đó là đặc điểm của nguyên liệu chứ không phải lỗi sản phẩm. Loại phối nhiều nguồn hạt thường dễ uống hơn loại đơn nguồn. Pha cùng chuối chín, sữa hạt hoặc cà phê nguội sẽ làm dịu vị hạt."
+        }
+      ],
+      "baiLienQuan": [
+        ["vi-sao-chon-dam-thuc-vat", "Chọn nguồn đạm thực vật thế nào cho đúng"],
+        ["dam-thuc-vat-va-dong-vat", "Đạm thực vật và đạm động vật: chọn sao cho cân bằng"],
+        ["uong-dam-thuc-vat-luc-nao-trong-ngay", "Uống đạm thực vật vào lúc nào trong ngày là hợp lý"],
+        ["uong-dam-thuc-vat-bi-day-bung", "Uống đạm thực vật bị đầy bụng: vì sao và cách khắc phục"],
+        ["can-bao-nhieu-dam-moi-ngay", "Cần bao nhiêu đạm mỗi ngày và lấy từ đâu"]
+      ]
+    },
+
+    {
+      "slug": "tra-tue-minh",
+      "ten": "Trà Tuệ Minh",
+      "tenDayDu": "Trà Tuệ Minh — trà thảo mộc túi lọc",
+      "tuKhoa": "Trà Tuệ Minh",
+      "h1": "Trà Tuệ Minh — trà thảo mộc túi lọc, hộp 30 gói",
+      "seoTitle": "Trà Tuệ Minh: thành phần, cách pha và giá hộp 30 gói",
+      "moTa": "Trà Tuệ Minh là trà thảo mộc túi lọc của IKI, hộp 30 gói x 2,6 g, giá niêm yết 162.000đ. Xem nguồn gốc, cách pha đúng nhiệt độ, thời điểm uống và câu hỏi thường gặp.",
+      "loai": "Trà thảo mộc túi lọc",
+      "anh": "tra-tue-minh.jpg",
+      "anhAlt": "Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKI",
+      "gia": 162000,
+      "quyCach": "Hộp 30 gói x 2,6 g",
+      "danhCho": "Người lớn dùng như thức uống hằng ngày",
+      "thongTinNhanh": [
+        ["Loại sản phẩm", "Trà thảo mộc túi lọc"],
+        ["Quy cách", "Hộp 30 gói x 2,6 g"],
+        ["Nguồn nguyên liệu", "HTX Nam Dược Tản Viên Sơn"],
+        ["Ghi trên bao bì", "Vegan"],
+        ["Cách dùng", "Hãm túi lọc với nước nóng, uống khi còn ấm"],
+        ["Giá niêm yết", "162.000đ (đã gồm VAT)"]
+      ],
+      "thanhPhanText": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc, mỗi gói 2,6 g, đóng hộp 30 gói. Nguyên liệu lấy từ HTX Nam Dược Tản Viên Sơn — đây là điểm đáng chú ý khi chọn trà thảo mộc, vì trà mua từ một hợp tác xã có tên tuổi thì truy được nguồn vùng trồng và mùa thu hái, khác với trà đóng gói không rõ xuất xứ. Dạng túi lọc phù hợp với người muốn có một nếp uống ấm mỗi ngày nhưng ngại pha ấm và rửa ấm.",
+      "cachDung": [
+        "Cho một túi lọc vào tách khoảng 200 ml.",
+        "Rót nước nóng khoảng 90 độ C — không dùng nước vừa sôi sùng sục, vì nước quá nóng làm bay hương và khiến nước trà chát hơn.",
+        "Hãm khoảng 3 đến 5 phút rồi lấy túi ra. Để quên túi trong tách là lỗi phổ biến nhất khiến trà bị chát.",
+        "Uống khi còn ấm. Không cần vắt túi lọc — vắt làm nước trà đục và gắt hơn."
+      ],
+      "baoQuan": "Để hộp nơi khô ráo, tránh ánh sáng trực tiếp và tránh để cạnh gia vị nặng mùi. Thảo mộc mất hương nhanh hơn trà chè vì tinh dầu bay hơi, nên đậy kín ngay sau khi lấy túi ra.",
+      "luuY": "Người đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng trà thảo mộc đều đặn hằng ngày.",
+      "faq": [
+        {
+          "q": "Trà Tuệ Minh là gì?",
+          "a": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc của IKI, mỗi gói 2,6 g, đóng hộp 30 gói, nguyên liệu từ HTX Nam Dược Tản Viên Sơn. Đây là thức uống hằng ngày, không phải là thuốc."
+        },
+        {
+          "q": "Một hộp Trà Tuệ Minh giá bao nhiêu?",
+          "a": "Giá niêm yết là 162.000đ một hộp 30 gói, đã gồm VAT. Tính ra khoảng 5.400đ cho mỗi tách trà."
+        },
+        {
+          "q": "Pha Trà Tuệ Minh thế nào cho đúng?",
+          "a": "Cho một túi lọc vào tách khoảng 200 ml, rót nước nóng khoảng 90 độ C, hãm 3 đến 5 phút rồi lấy túi ra. Không nên dùng nước vừa sôi và không nên để quên túi lọc trong tách — đó là hai lý do phổ biến nhất khiến trà túi lọc bị chát."
+        },
+        {
+          "q": "Nên uống Trà Tuệ Minh vào lúc nào trong ngày?",
+          "a": "Tuỳ nếp sinh hoạt của bạn. Nhiều người chọn một tách vào buổi sáng hoặc thay cho một cữ nước ngọt buổi chiều. Nếu bạn nhạy với đồ uống buổi tối thì nên uống cách giờ đi ngủ vài tiếng để không phải dậy đêm."
+        },
+        {
+          "q": "Túi lọc hãm lại lần hai được không?",
+          "a": "Được, nhưng nước lần hai sẽ nhạt hương hơn nhiều vì phần lớn hương đã ra ở lần hãm đầu. Nếu hãm lại, nên hãm lâu hơn một chút và dùng ngay trong ngày."
+        }
+      ],
+      "baiLienQuan": [
+        ["tra-thao-moc-tue-minh", "Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh"],
+        ["thuc-uong-am-tra-thao-moc", "Thức uống ấm và trà thảo mộc mỗi ngày"],
+        ["uong-tra-dung-cach", "Uống trà đúng cách"],
+        ["uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong", "Uống trà thảo mộc buổi tối có mất ngủ không"]
+      ]
+    },
+
+    {
+      "slug": "tra-thanh-huong",
+      "ten": "Trà Thanh Hương",
+      "tenDayDu": "Trà Thanh Hương — trà thảo mộc túi lọc, không caffeine",
+      "tuKhoa": "Trà Thanh Hương",
+      "h1": "Trà Thanh Hương — trà thảo mộc túi lọc không caffeine",
+      "seoTitle": "Trà Thanh Hương: bốn vị thảo mộc, cách pha và giá",
+      "moTa": "Trà Thanh Hương là trà thảo mộc túi lọc không caffeine của IKI, phối hoa nhài, phục linh, hoa quế và trần bì, giá niêm yết 226.000đ. Xem thành phần, cách pha và thời điểm uống.",
+      "loai": "Trà thảo mộc túi lọc",
+      "anh": "tra-thanh-huong.jpg",
+      "anhAlt": "Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKI cùng tách trà và túi lọc",
+      "gia": 226000,
+      "quyCach": "Túi lọc 2,6 g mỗi gói",
+      "danhCho": "Người lớn, hợp cho buổi tối vì không chứa caffeine",
+      "thongTinNhanh": [
+        ["Loại sản phẩm", "Trà thảo mộc túi lọc"],
+        ["Quy cách", "Túi lọc 2,6 g mỗi gói"],
+        ["Bốn vị thảo mộc", "Hoa nhài, phục linh, hoa quế, trần bì"],
+        ["Caffeine", "Không chứa caffeine"],
+        ["Hợp dùng", "Buổi tối, hoặc khi muốn một tách ấm mà không lo tỉnh ngủ"],
+        ["Giá niêm yết", "226.000đ"]
+      ],
+      "thanhPhanText": "Trà Thanh Hương phối bốn vị thảo mộc quen thuộc trong ẩm thực Việt và Đông Á. Hoa nhài cho hương ngọt thanh, là nốt hương nổi rõ nhất khi mở túi. Phục linh cho hậu vị dịu, không sắc. Hoa quế cho nốt hương ấm kiểu mật, chỉ cần một lượng rất nhỏ đã đủ thơm. Trần bì là vỏ quýt phơi khô, thêm một nốt cam hơi the làm nước trà đỡ ngán. Bốn vị này đều không chứa caffeine, nên trà uống được vào buổi tối mà không phải cân nhắc như trà xanh hay trà đen.",
+      "cachDung": [
+        "Cho một túi lọc vào tách khoảng 200 ml.",
+        "Rót nước nóng khoảng 90 độ C. Nước quá nóng làm bay mất phần hương hoa, vốn là điểm đáng giá nhất của loại trà này.",
+        "Hãm khoảng 1 đến 3 phút. Trà nhiều hương hoa nên hãm ngắn hơn trà thảo mộc thông thường.",
+        "Uống khi còn ấm, uống chậm để cảm được lớp hương thay đổi từ lúc còn nóng tới khi nguội bớt."
+      ],
+      "baoQuan": "Đậy kín và để nơi khô ráo, tránh ánh sáng. Trà nhiều hương hoa mất hương nhanh nhất trong các loại thảo mộc, nên tránh để hộp mở lâu hoặc để cạnh gia vị nặng mùi.",
+      "luuY": "Người đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng trà thảo mộc đều đặn hằng ngày.",
+      "faq": [
+        {
+          "q": "Trà Thanh Hương gồm những gì?",
+          "a": "Trà Thanh Hương là trà thảo mộc túi lọc phối bốn vị: hoa nhài, phục linh, hoa quế và trần bì. Trà không chứa caffeine."
+        },
+        {
+          "q": "Trà Thanh Hương giá bao nhiêu?",
+          "a": "Giá niêm yết là 226.000đ."
+        },
+        {
+          "q": "Trà Thanh Hương có caffeine không?",
+          "a": "Không. Bốn vị thảo mộc trong trà đều không chứa caffeine, khác với trà xanh, trà đen hay ô long vốn làm từ cây chè và có caffeine. Vì vậy nhiều người chọn loại này cho buổi tối."
+        },
+        {
+          "q": "Trần bì trong trà là gì?",
+          "a": "Trần bì là vỏ quýt phơi khô. Trong đồ uống, trần bì góp một nốt hương cam hơi the, làm nước trà bớt ngán và cân lại vị ngọt của hoa. Vỏ để càng lâu năm thì hương càng trầm."
+        },
+        {
+          "q": "Nên uống Trà Thanh Hương trước giờ ngủ bao lâu?",
+          "a": "Trà không chứa caffeine nên không phải kiêng vì lý do tỉnh ngủ. Điều đáng cân nhắc chỉ là lượng nước: nên uống trước giờ đi ngủ khoảng một tiếng rưỡi tới hai tiếng để không phải dậy đêm."
+        }
+      ],
+      "baiLienQuan": [
+        ["tra-thanh-huong-thu-gian", "Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương"],
+        ["uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong", "Uống trà thảo mộc buổi tối có mất ngủ không"],
+        ["tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao", "Trà hoa cúc uống lúc nào"],
+        ["kho-ngu-tran-troc-nep-buoi-toi", "Khó ngủ trằn trọc: nếp buổi tối giúp dễ vào giấc"]
+      ]
+    }
+  ]
+}

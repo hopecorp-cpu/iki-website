@@ -51,8 +51,8 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Thiếu kẽm nên ăn gì: thực phẩm giàu kẽm và cách hấp thu tốt hơn](https://ikihealing.com/blog/kem-va-thuc-pham-giau-kem.html): Thiếu kẽm nên ăn gì? Danh sách thực phẩm giàu kẽm quen thuộc, nhu cầu kẽm mỗi ngày, dấu hiệu gợi ý thiếu kẽm và những mẹo giúp cơ thể hấp thu kẽm tốt hơn từ bữa ăn Việt.
 - [Omega-3 từ thực vật: nguồn nào đủ cho người ăn chay](https://ikihealing.com/blog/omega-3-tu-thuc-vat.html): Omega-3 từ thực vật cho người ăn chay lấy ở đâu? Phân biệt ALA, EPA, DHA, vì sao tỉ lệ chuyển đổi thấp, các nguồn hạt lanh hạt chia óc chó và vai trò của dầu tảo.
 - [Cách làm sữa hạt tại nhà: tỉ lệ chuẩn, công thức và lưu ý](https://ikihealing.com/blog/sua-hat-tu-lam-tai-nha.html): Cách làm sữa hạt tại nhà đúng tỉ lệ hạt và nước, quy trình năm bước, năm công thức quen thuộc, cách bảo quản, và câu trả lời thật về hàm lượng đạm trong sữa hạt.
-- [Trà thảo mộc cho thức uống ấm mỗi ngày](https://ikihealing.com/blog/tra-thao-moc-tue-minh.html): Chọn trà thảo mộc cho thức uống ấm mỗi ngày thế nào? Tiêu chí về nguyên liệu, hương vị và thời điểm uống, so sánh các loại trà và gợi ý Trà Tuệ Minh cho nếp uống ấm thư thái.
-- [Gợi ý thức uống thảo mộc để thư giãn](https://ikihealing.com/blog/tra-thanh-huong-thu-gian.html): Gợi ý thức uống thảo mộc để thư giãn buổi tối. Tiêu chí chọn trà thơm dịu, vai trò của hương thơm trong nghi thức nghỉ ngơi và gợi ý Trà Thanh Hương với hoa quế.
+- [Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh](https://ikihealing.com/blog/tra-thao-moc-tue-minh.html): Chọn trà thảo mộc uống ấm mỗi ngày thế nào? Tiêu chí nguyên liệu, hương vị, thời điểm uống, so sánh các nhóm trà thảo mộc và Trà Tuệ Minh - trà túi lọc thảo mộc Việt cho nếp uống hằng ngày.
+- [Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương](https://ikihealing.com/blog/tra-thanh-huong-thu-gian.html): Chọn thức uống thảo mộc thư giãn cho buổi tối: tiêu chí trà thơm dịu, vai trò hương thơm trong nghi thức nghỉ ngơi, và Trà Thanh Hương - trà túi lọc hoa nhài, phục linh, hoa quế, trần bì, không caffeine.
 - [Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI](https://ikihealing.com/blog/app-iki-ca-nhan-hoa.html): Chăm sóc sức khoẻ cá nhân hoá theo thể tạng là gì và chọn công cụ đồng hành thế nào? Tiêu chí chọn app, so sánh cách theo dõi thói quen và gợi ý App IKI với nhật ký, gợi ý theo thể tạng.
 - [Hara hachi bu: bí quyết ăn no 80% của người Nhật](https://ikihealing.com/blog/an-no-80-phan-tram-hara-hachi-bu.html): Hara hachi bu là thói quen ăn dừng lại khi no khoảng 80% của người Nhật. Hiểu ý nghĩa, vì sao nó giúp bữa ăn nhẹ nhàng hơn và cách áp dụng vào mâm cơm Việt.
 - [Chế độ ăn Okinawa: bài học từ vùng đất trường thọ](https://ikihealing.com/blog/che-do-an-okinawa-truong-tho.html): Chế độ ăn Okinawa nổi tiếng với nhiều rau củ, đậu và ăn điều độ. Tìm hiểu đặc điểm cốt lõi và cách vận dụng tinh thần ăn uống này vào mâm cơm Việt hằng ngày.
@@ -84,7 +84,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Uống đạm thực vật vào lúc nào trong ngày là hợp lý nhất](https://ikihealing.com/blog/uong-dam-thuc-vat-luc-nao-trong-ngay.html): Uống đạm thực vật vào lúc nào trong ngày thì hợp lý? Phân tích bốn khung giờ thường gặp — sáng, quanh buổi tập, xế chiều, buổi tối — cùng cách chia đều đạm, cách pha để dễ tiêu và lịch mẫu cho ba kiểu người.
 - [Ngủ đủ 8 tiếng vẫn mệt: vì sao và nên xem lại điều gì](https://ikihealing.com/blog/ngu-du-8-tieng-van-met.html): Ngủ đủ 8 tiếng vẫn mệt mỏi khi thức dậy là chuyện nhiều người gặp. Bài viết đi qua sự khác nhau giữa đủ giờ và đủ chất, bảy nguyên nhân thường gặp, cách tự kiểm tra trong 7 ngày và nếp buổi tối 90 phút dễ áp dụng.
 - [Người gầy khó tăng cân nên ăn gì: cách ăn để lên cân lành mạnh](https://ikihealing.com/blog/nguoi-gay-kho-tang-can-nen-an-gi.html): Người gầy khó tăng cân nên ăn gì? Vì sao ăn nhiều vẫn không lên cân, cách tạo thặng dư năng lượng vừa phải, danh sách thực phẩm mật độ dinh dưỡng cao quen thuộc và thực đơn mẫu một ngày dễ áp dụng.
-- [Thực đơn 7 ngày cho người ăn chay đủ đạm, dễ nấu tại nhà](https://ikihealing.com/blog/thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html): Thực đơn 7 ngày cho người ăn chay đủ đạm với nguyên liệu quen thuộc ở chợ Việt: cách tính lượng đạm cần, bảng nguồn đạm thực vật, bốn vi chất cần để mắt và danh sách đi chợ cho cả tuần.
+- [Thực đơn 7 ngày cho người ăn chay đủ đạm thực vật, dễ nấu tại nhà](https://ikihealing.com/blog/thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html): Thực đơn 7 ngày cho người ăn chay đủ đạm với nguyên liệu quen thuộc ở chợ Việt: cách tính lượng đạm cần, bảng nguồn đạm thực vật, bốn vi chất cần để mắt và danh sách đi chợ cho cả tuần.
 - [Nhịn ăn gián đoạn 16/8 có phù hợp với người Việt không?](https://ikihealing.com/blog/nhin-an-gian-doan-16-8-co-phu-hop-nguoi-viet.html)
 - [Uống nước chanh mật ong buổi sáng có tốt không?](https://ikihealing.com/blog/uong-nuoc-chanh-mat-ong-buoi-sang.html)
 - [Ngâm chân nước ấm trước khi ngủ có tác dụng gì?](https://ikihealing.com/blog/ngam-chan-nuoc-am-truoc-khi-ngu.html)
@@ -185,7 +185,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Ăn gì để tăng chiều cao cho trẻ? Hướng dẫn dinh dưỡng theo từng độ tuổi](https://ikihealing.com/blog/an-gi-de-tang-chieu-cao-cho-tre.html)
 - [Ăn gì trước khi ngủ để ngủ ngon? 12 lựa chọn dễ tìm](https://ikihealing.com/blog/an-gi-truoc-khi-ngu-de-ngu-ngon.html)
 - [Ăn giảm muối: vị giác quen dần và mẹo nêm nhạt](https://ikihealing.com/blog/an-giam-muoi.html)
-- [Ăn ít thịt có thiếu đạm không? Cách bù đạm không cần ăn nhiều thịt](https://ikihealing.com/blog/an-it-thit-co-thieu-dam-khong.html)
+- [Ăn ít thịt có thiếu đạm không? Cách bù bằng đạm thực vật](https://ikihealing.com/blog/an-it-thit-co-thieu-dam-khong.html)
 - [Ăn rau củ nhiều màu sắc: bữa cơm như cầu vồng](https://ikihealing.com/blog/an-rau-cu-nhieu-mau-sac.html)
 - [Ăn sáng bằng trái cây có tốt không? Cách ăn để không tụt năng lượng](https://ikihealing.com/blog/an-sang-bang-trai-cay-co-tot-khong.html)
 - [Bữa sáng cho trẻ đi học: nhanh, gọn mà đủ chất](https://ikihealing.com/blog/an-sang-cho-tre-di-hoc.html)
@@ -319,11 +319,12 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Cộng đồng IKI](https://ikihealing.com/cong-dong.html): cộng đồng hơn 100.000 người dùng.
 - [Ứng dụng IKI](https://ikihealing.com/app.html): app iOS và Android, AI Coach Đông y, nhật ký sức khoẻ 30 giây mỗi ngày.
 
-## Sản phẩm (thực phẩm bổ sung)
-- [Trà Tuệ Minh](https://tra.ikihealing.com)
-- [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com)
-- [Đạm thực vật True Vegan Protein](https://trueveganprotein.com)
-- [Cửa hàng IKI](https://ikihealing.com/shop)
+## Sản phẩm (thực phẩm bổ sung — không phải thuốc)
+- [Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g](https://ikihealing.com/san-pham/true-vegan-protein.html): True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.
+- [Trà Tuệ Minh — trà thảo mộc túi lọc](https://ikihealing.com/san-pham/tra-tue-minh.html): Trà Tuệ Minh là trà thảo mộc túi lọc của IKI, hộp 30 gói x 2,6 g, giá niêm yết 162.000đ. Xem nguồn gốc, cách pha đúng nhiệt độ, thời điểm uống và câu hỏi thường gặp.
+- [Trà Thanh Hương — trà thảo mộc túi lọc, không caffeine](https://ikihealing.com/san-pham/tra-thanh-huong.html): Trà Thanh Hương là trà thảo mộc túi lọc không caffeine của IKI, phối hoa nhài, phục linh, hoa quế và trần bì, giá niêm yết 226.000đ. Xem thành phần, cách pha và thời điểm uống.
+- [Cửa hàng IKI](https://ikihealing.com/shop/): toàn bộ danh mục sản phẩm, giao toàn quốc.
+- Trang bán riêng: [Trà Tuệ Minh](https://tra.ikihealing.com) · [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) · [True Vegan Protein](https://trueveganprotein.com)
 
 ## Liên hệ
 - Email: contact@ikihealing.com

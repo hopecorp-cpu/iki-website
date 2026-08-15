@@ -1,9 +1,9 @@
 ---json
 {
-  "title": "Gợi ý thức uống thảo mộc để thư giãn",
-  "seo_title": "Thức uống thảo mộc thư giãn: gợi ý cho buổi tối",
+  "title": "Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương",
+  "seo_title": "Thức uống thảo mộc thư giãn buổi tối và Trà Thanh Hương",
   "slug": "tra-thanh-huong-thu-gian",
-  "description": "Gợi ý thức uống thảo mộc để thư giãn buổi tối. Tiêu chí chọn trà thơm dịu, vai trò của hương thơm trong nghi thức nghỉ ngơi và gợi ý Trà Thanh Hương với hoa quế.",
+  "description": "Chọn thức uống thảo mộc thư giãn cho buổi tối: tiêu chí trà thơm dịu, vai trò hương thơm trong nghi thức nghỉ ngơi, và Trà Thanh Hương - trà túi lọc hoa nhài, phục linh, hoa quế, trần bì, không caffeine.",
   "keyword": "thức uống thảo mộc thư giãn",
   "category": "thuc-pham",
   "date": "2026-07-22",
@@ -45,7 +45,7 @@
       "url": "thuc-uong-am-tra-thao-moc.html"
     },
     {
-      "title": "Trà thảo mộc cho thức uống ấm mỗi ngày",
+      "title": "Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh",
       "url": "tra-thao-moc-tue-minh.html"
     },
     {
@@ -108,11 +108,16 @@ Có nhiều loại trà thảo mộc hợp cho buổi tối, mỗi loại một 
 
 **Trà thảo mộc phối vị thơm.** Các sản phẩm kết hợp nhiều thảo mộc, thường lấy một vị hoa làm điểm nhấn hương, để tạo trải nghiệm hài hòa và tiện lợi. Ưu điểm là đã cân chỉnh sẵn; điều cần nhìn là thành phần minh bạch và uy tín nhà sản xuất.
 
-Không có loại nào "đúng" cho tất cả mọi người, vì khẩu vị và thể tạng mỗi người mỗi khác. Nếu muốn hiểu thêm về cách điều chỉnh thức uống theo cơ thể mình, bạn có thể tham khảo bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html). Và nếu muốn cái nhìn tổng quát về việc chọn trà thảo mộc nói chung, bài [Trà thảo mộc cho thức uống ấm mỗi ngày](tra-thao-moc-tue-minh.html) sẽ bổ trợ tốt cho bài này.
+Không có loại nào "đúng" cho tất cả mọi người, vì khẩu vị và thể tạng mỗi người mỗi khác. Nếu muốn hiểu thêm về cách điều chỉnh thức uống theo cơ thể mình, bạn có thể tham khảo bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html). Và nếu muốn cái nhìn tổng quát về việc chọn trà thảo mộc nói chung, bài [Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh](tra-thao-moc-tue-minh.html) sẽ bổ trợ tốt cho bài này.
 
 Một cách chọn thú vị nữa là để ý tới mùa và tâm trạng của chính mình. Vào những đêm đông se lạnh, một tách trà có hương ấm nồng thường mang lại cảm giác quây quần, ấm áp hơn. Vào những tối oi bức của mùa hè, bạn có thể thích một hương thanh nhẹ hơn để thấy dịu và thoáng. Ngay cả trong cùng một tuần, có hôm bạn muốn hương đậm để được ôm ấp, có hôm lại thèm sự nhẹ nhõm tinh khôi. Việc lắng nghe mình đang cần gì tối nay, rồi chọn hương trà theo cảm nhận ấy, khiến nghi thức buổi tối trở nên tinh tế và cá nhân hơn. Đây cũng là một cách nhỏ để tập thói quen quan sát bản thân, điều rất có ích cho việc chăm sóc sức khoẻ chủ động nói chung.
 
 ## Trà Thanh Hương — nếp uống ấm thơm dịu cho buổi tối
+
+![Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKI cùng tách trà và túi lọc](../assets/san-pham/tra-thanh-huong.jpg)
+
+Xem [thông tin đầy đủ về Trà Thanh Hương](../san-pham/tra-thanh-huong.html): bốn vị thảo mộc, cách pha và giá niêm yết.
+
 
 Nếu bạn là người yêu hương thơm và muốn một tách trà êm ái để chậm lại vào buổi tối, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là một gợi ý đáng cân nhắc. Hãy soi nó qua các tiêu chí ở trên.
 

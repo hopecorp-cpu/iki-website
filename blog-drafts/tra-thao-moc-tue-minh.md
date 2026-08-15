@@ -1,9 +1,9 @@
 ---json
 {
-  "title": "Trà thảo mộc cho thức uống ấm mỗi ngày",
-  "seo_title": "Trà thảo mộc: chọn thức uống ấm cho mỗi ngày",
+  "title": "Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh",
+  "seo_title": "Trà thảo mộc uống mỗi ngày: cách chọn và Trà Tuệ Minh",
   "slug": "tra-thao-moc-tue-minh",
-  "description": "Chọn trà thảo mộc cho thức uống ấm mỗi ngày thế nào? Tiêu chí về nguyên liệu, hương vị và thời điểm uống, so sánh các loại trà và gợi ý Trà Tuệ Minh cho nếp uống ấm thư thái.",
+  "description": "Chọn trà thảo mộc uống ấm mỗi ngày thế nào? Tiêu chí nguyên liệu, hương vị, thời điểm uống, so sánh các nhóm trà thảo mộc và Trà Tuệ Minh - trà túi lọc thảo mộc Việt cho nếp uống hằng ngày.",
   "keyword": "trà thảo mộc",
   "category": "thuc-pham",
   "date": "2026-07-22",
@@ -107,6 +107,11 @@ Cuối cùng là yếu tố thực tế: bạn có thời gian và sự kiên nh
 Nhìn chung, không có nhóm nào "đúng" cho tất cả mọi người. Lựa chọn tùy thuộc vào khẩu vị, thời điểm uống và cả thể tạng của bạn. Nếu muốn hiểu thêm về việc điều chỉnh thức uống theo cơ thể mình, bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) sẽ cho bạn một góc nhìn thú vị.
 
 ## Trà Tuệ Minh — một lựa chọn thảo mộc Việt cho nếp uống ấm
+
+![Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKI](../assets/san-pham/tra-tue-minh.jpg)
+
+Xem [thông tin đầy đủ về Trà Tuệ Minh](../san-pham/tra-tue-minh.html): thành phần, quy cách, cách pha đúng nhiệt độ và giá niêm yết.
+
 
 Trong nhóm trà thảo mộc phối vị của người Việt, [Trà Tuệ Minh](https://tra.ikihealing.com) là một gợi ý đáng cân nhắc nếu bạn thích một thức uống ấm với các vị thảo mộc truyền thống. Hãy soi nó qua bộ tiêu chí ở trên.
 

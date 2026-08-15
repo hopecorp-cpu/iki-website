@@ -237,7 +237,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->`;
 }
 
-function header() {
+export function header() {
   return `
   <div class="announcement-bar">Nhận <a href="../tai-lieu/">cẩm nang chăm sóc sức khoẻ (PDF)</a> miễn phí — gửi thẳng vào email của bạn.</div>
   <header class="site-header" id="site-header">
@@ -259,7 +259,7 @@ function header() {
   </header>`;
 }
 
-const footer = () => `
+export const footer = () => `
   <footer class="site-footer"><div class="container">
     <div class="footer-grid">
       <div><div class="footer-brand" style="display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:14px;font-size:0"><span style="display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border:1px solid rgba(245,197,24,.22);border-radius:14px;padding:12px 22px 10px"><img src="/assets/logo/hope-mark-512.png" alt="HOPE CORP" style="width:30px;height:auto;margin-bottom:3px" /><span style="font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1">HOPE</span><span style="font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem">CORP</span></span></div><div class="footer-company" style="margin:0 0 16px"><div style="font-weight:800;text-transform:uppercase;color:#FFFFFF;font-size:1.02rem;line-height:1.3;letter-spacing:.005em">Công ty Cổ phần TMDV HOPE</div><div style="margin-top:6px;font-weight:500;text-transform:uppercase;color:rgba(255,255,255,.52);font-size:.7rem;letter-spacing:.22em">From nature, for life</div></div><p>Platform công nghệ wellness cho người Việt — kế thừa tri thức Y học Cổ truyền Việt Nam qua Tuệ Tĩnh và Hải Thượng Lãn Ông. Sản phẩm của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p></div>
@@ -472,11 +472,21 @@ function buildLlms(plan) {
   L.push(`- [Công nghệ IKI](${SITE}/cong-nghe.html): AI cá nhân hoá theo thể tạng.`);
   L.push(`- [Cộng đồng IKI](${SITE}/cong-dong.html): cộng đồng hơn 100.000 người dùng.`);
   L.push(`- [Ứng dụng IKI](${SITE}/app.html): app iOS và Android, AI Coach Đông y, nhật ký sức khoẻ 30 giây mỗi ngày.`);
-  L.push("", "## Sản phẩm (thực phẩm bổ sung)");
-  L.push("- [Trà Tuệ Minh](https://tra.ikihealing.com)");
-  L.push("- [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com)");
-  L.push("- [Đạm thực vật True Vegan Protein](https://trueveganprotein.com)");
-  L.push("- [Cửa hàng IKI](https://ikihealing.com/shop)");
+  // SẢN PHẨM — đọc từ san-pham-data.json để mỗi dòng có ĐỦ mô tả, quy cách và GIÁ.
+  // Bản cũ chỉ liệt kê tên trỏ ra tên miền sale page ngoài, không một chữ mô tả: trợ lý AI đọc
+  // llms.txt xong vẫn không trả lời nổi "Trà Tuệ Minh là gì, giá bao nhiêu" nên nó đi lấy nguồn
+  // khác. Dòng có giá và quy cách mới là dòng trích dẫn được.
+  L.push("", "## Sản phẩm (thực phẩm bổ sung — không phải thuốc)");
+  try {
+    const sp = JSON.parse(fs.readFileSync(path.join(ROOT, "san-pham-data.json"), "utf8"));
+    for (const x of sp.sanPham) {
+      L.push(`- [${x.tenDayDu}](${SITE}/san-pham/${x.slug}.html): ${x.moTa}`);
+    }
+  } catch (e) {
+    console.warn("  ! không đọc được san-pham-data.json cho llms.txt:", e.message);
+  }
+  L.push(`- [Cửa hàng IKI](${SITE}/shop/): toàn bộ danh mục sản phẩm, giao toàn quốc.`);
+  L.push("- Trang bán riêng: [Trà Tuệ Minh](https://tra.ikihealing.com) · [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) · [True Vegan Protein](https://trueveganprotein.com)");
   L.push("", "## Liên hệ");
   L.push("- Email: contact@ikihealing.com");
   L.push("- Điện thoại: 0987.931.551");

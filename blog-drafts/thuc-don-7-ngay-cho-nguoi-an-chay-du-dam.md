@@ -1,7 +1,7 @@
 ---json
 {
-  "title": "Thực đơn 7 ngày cho người ăn chay đủ đạm, dễ nấu tại nhà",
-  "seo_title": "Thực đơn 7 ngày cho người ăn chay đủ đạm, dễ nấu",
+  "title": "Thực đơn 7 ngày cho người ăn chay đủ đạm thực vật, dễ nấu tại nhà",
+  "seo_title": "Thực đơn 7 ngày ăn chay đủ đạm thực vật, dễ nấu",
   "slug": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam",
   "description": "Thực đơn 7 ngày cho người ăn chay đủ đạm với nguyên liệu quen thuộc ở chợ Việt: cách tính lượng đạm cần, bảng nguồn đạm thực vật, bốn vi chất cần để mắt và danh sách đi chợ cho cả tuần.",
   "keyword": "thực đơn 7 ngày cho người ăn chay đủ đạm",
