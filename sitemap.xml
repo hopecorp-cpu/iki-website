@@ -1201,6 +1201,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/ngu-bao-nhieu-tieng-la-du-theo-do-tuoi.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/com-hop-mang-di-lam-du-chat-an-toan.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/suc-khoe-cho-tai-xe-cong-nghe-shipper.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/bua-phu-buoi-chieu-cho-dan-van-phong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <url><loc>https://ikihealing.com/en/blog/</loc><lastmod>2026-07-22</lastmod></url>
@@ -1545,4 +1569,8 @@
 <url><loc>https://ikihealing.com/blog/an-bi-do-nhieu-co-bi-vang-da-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/cach-ghi-nhat-ky-an-uong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/an-toi-moi-ngay-bao-nhieu-la-du.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/ngu-bao-nhieu-tieng-la-du-theo-do-tuoi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/com-hop-mang-di-lam-du-chat-an-toan.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/suc-khoe-cho-tai-xe-cong-nghe-shipper.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/bua-phu-buoi-chieu-cho-dan-van-phong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
