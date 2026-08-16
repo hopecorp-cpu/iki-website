@@ -309,10 +309,11 @@ function sendQuiz(pkg){
     const body={ name:lead.name, email:lead.email, phone:lead.phone||undefined,
       profile:code, profileName:(PROFILES[code]||{}).name||'',
       overall:overall(dm), dims:dm, answers:answers.slice(),
-      pkg: (pkg==null)?null:((PKG[pkg]||{}).name||String(pkg)),
+      pkg: (pkg==null)?null:(pkg==='zalo'?'Thực đơn 3 ngày qua Zalo (miễn phí)':((PKG[pkg]||{}).name||String(pkg))),
       vat: vatInfo, consent:true,
       // Gắn cửa vào để đo cửa nào ra khách — không có cửa nào thắng thì biết mà bỏ, đừng đoán.
-      source: ((pkg==null)?('quiz:'+code):('quiz-order:'+code)) + (cuaVao?(':'+cuaVao):'') };
+      // ?s=<nguồn> (vd zalo-nd2 khi gieo hạt nhóm Zalo) → đo được NGƯỜI BẤM từ nhóm nào, không chỉ người trả lời trong nhóm.
+      source: ((pkg==null)?('quiz:'+code):(pkg==='zalo'?('quiz-zalo:'+code):('quiz-order:'+code))) + (cuaVao?(':'+cuaVao):'') + (nguonS?(':s-'+nguonS):'') };
     fetch(OPS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body),keepalive:true}).catch(function(){});
   }catch(e){}
 }
@@ -337,8 +338,9 @@ const NHOM={
     h1:'Ăn chay hoặc ăn ít đạm — làm sao biết mình đang đủ hay thiếu?',
     lede:'Ăn chay lâu mà hay mệt, sụt cân hoặc thấy yếu sức thường là do khẩu phần chưa cân, không phải do ăn chay. 12 câu ngắn để soi lại nếp ăn của bạn, kèm <b>6 chỉ số lối sống</b> và thực đơn 14 ngày phù hợp.' },
 };
-let nhom=null, cuaVao='';
+let nhom=null, cuaVao='', nguonS='';
 try{ const k=new URLSearchParams(location.search).get('nhom'); if(k&&NHOM[k]){ nhom=NHOM[k]; cuaVao=k; } }catch(e){}
+try{ const v=String(new URLSearchParams(location.search).get('s')||'').toLowerCase().replace(/[^a-z0-9-]/g,'').slice(0,32); if(v) nguonS=v; }catch(e){}
 function intro(){ steps(-1);
   app.innerHTML=`<div class="card fade">
     <div class="eyebrow">${nhom?nhom.eyebrow:'Kiểm tra 90 giây · Miễn phí'}</div>
@@ -404,7 +406,7 @@ function gate(){ steps(3); fnl('gate_view');
       <div class="giftbox"><span style="display:inline-flex;color:var(--lime)">${GIFT}</span><div><b>Ebook “7 thói quen chăm sóc sức khoẻ chủ động”</b><br><span>+ thực đơn mẫu 3 ngày theo thể trạng của bạn</span></div></div>
       <div class="field"><label>Họ tên <span class="req">*</span></label><input id="nm" type="text" autocomplete="name" placeholder="Tên của bạn" oninput="clr('nm')"/></div>
       <div class="field"><label>Email <span class="req">*</span> <span class="hint">(để nhận quà tự động)</span></label><input id="em" type="email" autocomplete="email" placeholder="email@cua-ban.com" oninput="clr('em')"/></div>
-      <div class="field"><label>Số điện thoại / Zalo</label><input id="ph" type="tel" autocomplete="tel" placeholder="09xx xxx xxx"/></div>
+      <div class="field"><label>Số Zalo <span class="hint">(để chuyên viên gửi thực đơn 3 ngày theo thể trạng của bạn)</span></label><input id="ph" type="tel" autocomplete="tel" placeholder="09xx xxx xxx"/></div>
       <div class="errmsg" id="err"></div>
       <button class="btn btn-primary btn-wide" onclick="submitGate()">Mở kết quả + nhận quà →</button>
       <p style="color:rgba(255,255,255,.6);font-size:.78rem;margin:12px 0 0">Chúng tôi chỉ gửi nội dung chăm sóc sức khoẻ, không spam.</p>
@@ -452,12 +454,13 @@ function full(){ steps(3); const dm=computeDims(); const ov=overall(dm); const p
     ${weakList.map(d=>`<div class="sol"><span class="ic">✓</span><div><b>${TIPS[d][0]}</b><span>${TIPS[d][1]}</span></div></div>`).join('')}
     <div class="sol" style="border-left-color:var(--lime)"><span class="ic" style="background:#F2F7E4;color:#7CA22E">${GIFT}</span><div><b>Quà của bạn đã được gửi</b><span>Ebook + thực đơn mẫu 3 ngày — kiểm tra email/Zalo nhé.</span></div></div>
 
-    <div class="sect">Bạn muốn cải thiện theo cách nào?</div>
+    <div class="sect">Bước tiếp theo — miễn phí</div>
     <div class="choose">
+      <button class="choice hot" onclick="chooseZalo()"><span class="tagf">Miễn phí</span><b>Nhận thực đơn 3 ngày theo thể trạng qua Zalo</b><span>Chuyên viên IKI gửi trong hôm nay và trả lời câu hỏi của bạn về kết quả — không mất phí.</span></button>
       <button class="choice" onclick="chooseSlow()"><b>Mình tự áp dụng từ từ</b><span>Nhận thêm gợi ý chăm sóc qua email mỗi tuần — miễn phí.</span></button>
-      <button class="choice hot" onclick="chooseFast()"><span class="tagf">Khuyên chọn</span><b>Mình muốn cải thiện nhanh, có người đồng hành</b><span>Xem lộ trình may đo: thực đơn cá nhân hoá + tư vấn 1-1.</span></button>
     </div>
     <div id="offerZone"></div>
+    <p class="disc" style="text-align:center;margin-top:10px">Muốn lộ trình đầy đủ hơn (thực đơn 21 ngày + tư vấn 1-1)? <a href="#" onclick="chooseFast();return false;" style="color:var(--teal);font-weight:600">Xem lộ trình có phí</a></p>
     ${CODIA_CTA}
 
     <p class="disc">Kết quả mang tính tham khảo để chăm sóc sức khoẻ chủ động, không phải chẩn đoán bệnh. Sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc và không thay thế thuốc chữa bệnh. Cảm nhận có thể khác nhau tuỳ cơ địa.</p>
@@ -467,6 +470,38 @@ function full(){ steps(3); const dm=computeDims(); const ov=overall(dm); const p
 }
 function chooseSlow(){ document.getElementById('offerZone').innerHTML=`<div class="card fade" style="text-align:center;margin-top:12px"><div class="batchhead" style="font-size:1.2rem">Tuyệt vời!</div><p class="lede" style="margin-top:6px">IKI sẽ đồng hành cùng bạn qua email mỗi tuần với những thói quen nhỏ, dễ giữ. Cứ bắt đầu từ 1 việc trong giải pháp phía trên nhé.</p></div>`+CODIA_CTA; document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'nearest'}); }
 function chooseFast(){ fnl('offers'); selPkg=1; renderOffers(); document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'start'}); }
+/* CEO chốt 16/08/2026: quiz lấy SĐT/Zalo/Email làm đích chính, gói trả phí lùi xuống. Chưa có số thì xin
+   ngay tại đây (cửa gate để tuỳ chọn nên ~20% người bỏ trống); có số rồi thì một chạm là xong. */
+function sdtOk(v){ let d=String(v||'').replace(/\D/g,''); if(d.startsWith('84'))d='0'+d.slice(2); return /^0(3|5|7|8|9)\d{8}$/.test(d)?d:''; }
+function chooseZalo(){
+  const z=document.getElementById('offerZone');
+  const ph=sdtOk(lead.phone);
+  if(ph){ lead.phone=ph; zaloXong(); return; }
+  z.innerHTML=`<div class="lead fade" style="margin-top:12px">
+    <div class="tag">Miễn phí</div>
+    <h3>Nhập số Zalo để nhận thực đơn</h3>
+    <p>Chuyên viên IKI sẽ nhắn cho bạn trong hôm nay (giờ hành chính) — thực đơn 3 ngày đúng thể trạng <b style="color:#fff">${(PROFILES[profile()]||{}).name||''}</b> và trả lời thắc mắc của bạn.</p>
+    <div class="field"><label>Số Zalo <span class="req">*</span></label><input id="ph2" type="tel" autocomplete="tel" placeholder="09xx xxx xxx" oninput="clr('ph2')"/></div>
+    <div class="errmsg" id="err2"></div>
+    <button class="btn btn-primary btn-wide" onclick="zaloGui()">Gửi thực đơn cho tôi qua Zalo →</button>
+    <p style="color:rgba(255,255,255,.6);font-size:.78rem;margin:12px 0 0">Chỉ dùng để gửi thực đơn và hỗ trợ, không spam.</p>
+  </div>`;
+  z.scrollIntoView({behavior:'smooth',block:'start'});
+}
+function zaloGui(){
+  const el=document.getElementById('ph2'), err=document.getElementById('err2');
+  const d=sdtOk(el.value); if(!d){ el.classList.add('err'); err.textContent='Số chưa đúng — cần số di động Việt Nam 10 chữ số.'; return; }
+  lead.phone=d; zaloXong();
+}
+function zaloXong(){
+  fnl('zalo_lead'); sendQuiz('zalo');
+  try{ if(window.gtag) gtag('event','conversion',{send_to:LEAD_CONVERSION}); }catch(e){}
+  document.getElementById('offerZone').innerHTML=`<div class="card fade" style="text-align:center;margin-top:12px">
+    <div class="batchhead" style="font-size:1.2rem">Đã ghi nhận!</div>
+    <p class="lede" style="margin-top:6px">Chuyên viên IKI sẽ nhắn Zalo <b>${lead.phone}</b> trong hôm nay để gửi thực đơn 3 ngày và trả lời câu hỏi của bạn. Bạn có thể nhắn trước cho IKI qua nút Zalo góc màn hình.</p>
+  </div>`+CODIA_CTA;
+  document.getElementById('offerZone').scrollIntoView({behavior:'smooth',block:'nearest'});
+}
 function renderOffers(){
   document.getElementById('offerZone').innerHTML=`<div class="fade" style="margin-top:12px">
     <div class="urg">${CLOCK}<span>Ưu đãi &amp; suất tư vấn tuần này giữ trong <span class="cdown">15:00</span></span></div>
