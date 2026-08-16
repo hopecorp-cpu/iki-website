@@ -181,6 +181,10 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Uống men vi sinh lúc nào là tốt nhất? Trước hay sau ăn, và những lưu ý ít người nói](https://ikihealing.com/blog/uong-men-vi-sinh-luc-nao-la-tot-nhat.html): Uống men vi sinh lúc nào là tốt nhất — trước ăn, trong bữa hay sau ăn? Bài viết giải thích vì sao thời điểm quan trọng, cách uống khi đang dùng kháng sinh, khác biệt men vi sinh và men tiêu hoá, cùng những lỗi thường gặp.
 - [Ăn tỏi sống mỗi ngày có tốt không? Ăn mấy tép, ăn lúc nào và ai nên cẩn trọng](https://ikihealing.com/blog/an-toi-song-moi-ngay-co-tot-khong.html): Ăn tỏi sống mỗi ngày có tốt không, nên ăn mấy tép và ăn vào lúc nào? Bài viết nói về cách ăn tỏi sống đúng, mẹo giảm hăng và hôi miệng, cùng những trường hợp nên cẩn trọng.
 - [Uống nước lá đinh lăng có tốt không? Cách nấu, liều lượng và những ai nên cẩn trọng](https://ikihealing.com/blog/uong-nuoc-la-dinh-lang-co-tot-khong.html): Uống nước lá đinh lăng có tốt không, uống hằng ngày được không và bao nhiêu là đủ? Bài viết nói về cách nấu nước lá đinh lăng, liều lượng hợp lý, lý do không nên lạm dụng và những ai cần cẩn trọng.
+- [Ăn cơm chan canh có hại không? Sự thật đằng sau thói quen quen thuộc của mâm cơm Việt](https://ikihealing.com/blog/an-com-chan-canh-co-hai-khong.html)
+- [Ngủ hay nằm mơ nhiều có sao không? Vì sao sáng dậy vẫn mệt và nên điều chỉnh từ đâu](https://ikihealing.com/blog/ngu-hay-nam-mo-nhieu-co-sao-khong.html)
+- [Rã đông thực phẩm đúng cách: ba cách an toàn và năm sai lầm nhiều gia đình đang mắc](https://ikihealing.com/blog/ra-dong-thuc-pham-dung-cach.html)
+- [Mới ăn chay hay đói nhanh và mệt: vì sao xảy ra và cách xây lại bữa ăn cho đủ sức](https://ikihealing.com/blog/moi-an-chay-hay-doi-nhanh-va-met.html)
 - [Ăn bí đỏ nhiều có bị vàng da không](https://ikihealing.com/blog/an-bi-do-nhieu-co-bi-vang-da-khong.html): Ăn bí đỏ nhiều có bị vàng da không, một tuần nên ăn mấy lần, trẻ nhỏ ăn bao nhiêu là đủ? Giải thích hiện tượng vàng da do beta-caroten và cách đưa bí đỏ vào bữa ăn cân bằng.
 - [Ăn cá thế nào cho đủ chất mỗi tuần](https://ikihealing.com/blog/an-ca-dung-cach-moi-tuan.html)
 - [Ăn cay nhiều có hại không? Cách ăn cay cho êm bụng](https://ikihealing.com/blog/an-cay-nhieu-co-hai-khong.html)
@@ -299,6 +303,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Thực phẩm lên men truyền thống Việt Nam: dưa muối, mắm, tương](https://ikihealing.com/blog/thuc-pham-len-men-truyen-thong-viet.html)
 - [Thực phẩm mùa lạnh: ăn gì cho ấm bụng, đủ chất](https://ikihealing.com/blog/thuc-pham-mua-lanh.html)
 - [Thực phẩm giúp tăng sinh collagen tự nhiên: ăn gì mỗi ngày](https://ikihealing.com/blog/thuc-pham-tang-sinh-collagen-tu-nhien.html)
+- [Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng](https://ikihealing.com/blog/tra-tue-minh-la-gi.html)
 - [Trái cây theo mùa ở Việt Nam: ăn đúng mùa vừa ngon vừa tươi](https://ikihealing.com/blog/trai-cay-theo-mua-o-viet-nam.html)
 - [Trào ngược dạ dày và thói quen ăn uống: góc nhìn dưỡng sinh](https://ikihealing.com/blog/trao-nguoc-da-day.html)
 - [Trứng gà: giá trị dinh dưỡng và cách ăn hợp lý mỗi tuần](https://ikihealing.com/blog/trung-ga-dinh-duong-va-cach-an-hop-ly.html)
