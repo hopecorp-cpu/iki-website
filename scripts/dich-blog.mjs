@@ -45,12 +45,31 @@ if (!["en", "ja"].includes(NGON)) { console.error("--ngon chỉ nhận en hoặc
 
 const TEN_NGON = { en: "English", ja: "Japanese (日本語)" }[NGON];
 
-/** Từ cấm — áp cho CẢ bản dịch. Bản Việt sạch không bảo đảm bản dịch sạch. */
-const TU_CAM = {
-  vi: [/\bchữa\b/i, /\btrị\b/i, /điều trị/i, /khỏi bệnh/i, /thải độc/i, /thực phẩm chức năng/i],
-  en: [/\bcure[sd]?\b/i, /\btreats?\b/i, /\btreating\b/i, /\btreatment of\b/i, /\bheals?\b/i, /\bdetox(?:ify|ification)\b/i, /\bcleanse[sd]?\b/i, /\bremed(?:y|ies)\b/i, /\bdiagnos/i],
-  ja: [/治療/, /治す/, /完治/, /解毒/, /デトックス/, /診断/],
+/**
+ * Từ cấm — áp cho CẢ bản dịch. Bản Việt sạch không bảo đảm bản dịch sạch.
+ *
+ * HAI HẠNG, vì tiếng Anh dùng chung động từ cho nghĩa y học và nghĩa đời thường:
+ *   - LUON_CAM: gặp là chặn. "cure", "detoxify", "cleanse" hầu như chỉ có một nghĩa.
+ *   - CAN_BENH: chỉ chặn khi TRONG CÙNG CÂU có tên bệnh hoặc triệu chứng. Đo lô 25 bài tiếng Anh
+ *     đầu tiên: cả 4 bài bị gạt đều oan — "wounds take a long time to heal" (vết thương lành),
+ *     "treat the two as equivalent" (coi hai thứ như nhau), "don't self-diagnose". Không có tên
+ *     bệnh đi kèm thì mấy chữ này là tiếng Anh bình thường, chặn trần là gạt sạch kho bài.
+ * Điều BỊ CẤM thật là hứa CHỮA BỆNH — tức là động từ CỘNG một cái bệnh, nên bắt đúng cặp đó.
+ */
+const LUON_CAM = {
+  vi: [/\bchữa\b/i, /điều trị/i, /khỏi bệnh/i, /thải độc/i, /thực phẩm chức năng/i],
+  en: [/\bcure[sd]?\b/i, /\bcuring\b/i, /\bdetox(?:ify|ification|ifying)\b/i, /\bcleanses?\b/i, /\bmiracle\b/i],
+  ja: [/治療/, /完治/, /解毒/],
 };
+const CAN_BENH = {
+  vi: [/\btrị\b/i],
+  en: [/\btreats?\b/i, /\btreating\b/i, /\btreatment\b/i, /\bheals?\b/i, /\bhealing\b/i, /\bremed(?:y|ies)\b/i, /\bdiagnos\w*/i],
+  // 治す chia đuôi thành 治します / 治した / 治せる — bắt theo thân từ 治[すしせさ], không bắt nguyên dạng
+  // từ điển (đo 17/08: câu "糖尿病を治します" lọt qua vì trong câu không hề có chữ 治す).
+  ja: [/治[すしせさ]/, /診断/],
+};
+/** Tên bệnh và triệu chứng — có mặt trong câu thì mấy động từ ở CAN_BENH mới thành lời hứa y học. */
+const TEN_BENH = /\b(disease|illness|sickness|disorder|syndrome|infection|cancer|tumou?r|diabetes|gout|arthritis|ulcer|hypertension|cholesterol|insomnia|depression|anxiety|liver|kidney|thyroid|patients?|symptoms?|condition)\b|bệnh|bệnh nhân|triệu chứng|ung thư|tiểu đường|gout|gút|viêm|loét|huyết áp|mất ngủ|病気|疾患|症状|患者|がん|糖尿病|痛風/i;
 
 const KEY = (() => {
   const p = path.join(ROOT, ".env.local");
@@ -102,7 +121,7 @@ const boRao = (s) => s.replace(/^```(?:html)?\s*/i, "").replace(/```\s*$/i, "").
  * toàn bộ kho bài, mà thứ bị gạt lại chính là câu BẢO VỆ mình về mặt pháp lý. Cùng bài học với
  * "khoai tây" bị chặn vì dính "tay": từ ngắn phải xét ngữ cảnh, không xét sự có mặt.
  */
-const PHU_DINH = /\b(not|never|no|cannot|can't|does not|doesn't|isn't|is not|instead of|substitute|replacement|rather than)\b|không|chẳng|thay thế|ではあり|ではない|代わ|しません|ません/i;
+const PHU_DINH = /\b(not|never|no|cannot|can't|can not|don'?t|do not|does not|doesn'?t|didn'?t|isn'?t|is not|aren'?t|won'?t|avoid|instead of|substitute|replacement|rather than)\b|không|chẳng|đừng|thay thế|ではあり|ではない|代わ|しません|ません/i;
 
 /**
  * TÊN RIÊNG ĐƯỢC PHÉP MANG TỪ NHẠY CẢM (luật CLAUDE.md: "IKI Detox là tên brand — được; nhưng
@@ -128,10 +147,48 @@ function dinhTuCam(text, ngon) {
   const cau = plain.split(/(?<=[.!?。！？])\s+/);
   const dinh = new Set();
   for (const c of cau) {
-    if (PHU_DINH.test(c)) continue;               // câu miễn trừ — bỏ qua
-    for (const re of TU_CAM[ngon] || []) if (re.test(c)) dinh.add(`${re} @ "${c.trim().slice(0, 70)}"`);
+    if (PHU_DINH.test(c)) continue;               // câu miễn trừ / câu khuyên ĐỪNG làm — bỏ qua
+    for (const re of LUON_CAM[ngon] || []) if (re.test(c)) dinh.add(`${re} @ "${c.trim().slice(0, 70)}"`);
+    // Động từ hai nghĩa: chỉ thành lời hứa y học khi trong câu có tên bệnh/triệu chứng.
+    if (TEN_BENH.test(c)) {
+      for (const re of CAN_BENH[ngon] || []) if (re.test(c)) dinh.add(`${re}+bệnh @ "${c.trim().slice(0, 70)}"`);
+    }
   }
   return [...dinh];
+}
+
+// ── BÀI KIỂM CỔNG TỪ CẤM (node scripts/dich-blog.mjs --kiem) ──────────────────
+//
+// Bám luật CLAUDE.md "test bộ lọc bằng ĐẦU VÀO THẬT": mọi câu dưới đây LẤY TỪ bản dịch thật đã
+// chạy ngày 17/08, không phải câu bịa ra cho dễ đậu. Sửa bộ lọc thì chạy lại cái này trước.
+if (process.argv.includes("--kiem")) {
+  const CA = [
+    // [ngôn ngữ, câu, có phải VI PHẠM không]
+    ["en", "An important note: don't self-diagnose a nutrient deficiency and then buy supplements.", false],
+    ["en", "Getting sick often, small wounds that take a long time to heal.", false],
+    ["en", "Don't treat the two as equivalent, and don't assume that eating lots of pineapple helps.", false],
+    ["en", "This is not a substitute for medical diagnosis or advice.", false],
+    ["en", "Try the 7-Day Detox course at IKI Academy.", false],
+    ["en", "This tea cures liver disease in two weeks.", true],
+    ["en", "Our supplement treats diabetes and gout.", true],
+    ["en", "A daily cleanse flushes toxins from your body.", true],
+    ["ja", "IKIアカデミー — 能動的な健康管理のための講座(3日間リセット・7日間デトックス)。", false],
+    ["ja", "ケアの前に、まず体質チェック — 無料診断は13の質問。", false],
+    ["ja", "医学的な診断や助言に代わるものではありません。", false],
+    ["ja", "このお茶は糖尿病を治します。", true],
+    ["vi", "Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.", false],
+    ["vi", "Sản phẩm này chữa bệnh gout sau 7 ngày.", true],
+  ];
+  let sai = 0;
+  for (const [ng, cau, phaiChan] of CA) {
+    const d = dinhTuCam(cau, ng);
+    const bichan = d.length > 0;
+    const ok = bichan === phaiChan;
+    if (!ok) sai++;
+    console.log(`${ok ? "PASS" : "SAI "} [${ng}] ${phaiChan ? "phải CHẶN" : "phải CHO QUA"} · "${cau.slice(0, 58)}"${bichan ? ` -> ${d[0].slice(0, 60)}` : ""}`);
+  }
+  console.log(sai ? `\n${sai}/${CA.length} ca SAI — sửa bộ lọc rồi chạy lại.` : `\nĐủ ${CA.length}/${CA.length} ca.`);
+  process.exit(sai ? 1 : 0);
 }
 
 // ── Chọn bài cần dịch ─────────────────────────────────────────────────────────
