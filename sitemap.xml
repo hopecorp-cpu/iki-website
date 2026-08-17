@@ -2799,6 +2799,30 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/ngu-bu-cuoi-tuan-co-bu-duoc-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/lech-mui-gio-jet-lag-lay-lai-nhip-ngu.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/bu-nuoc-va-dien-giai-khi-van-dong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/cach-chon-rau-cu-tuoi-sach-ngoai-cho.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
@@ -2839,4 +2863,8 @@
     <priority>0.8</priority>
   </url>
   <url><loc>https://ikihealing.com/blog/bot-dam-thuc-vat-loai-nao-tot.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/ngu-bu-cuoi-tuan-co-bu-duoc-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/lech-mui-gio-jet-lag-lay-lai-nhip-ngu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/bu-nuoc-va-dien-giai-khi-van-dong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/cach-chon-rau-cu-tuoi-sach-ngoai-cho.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>
