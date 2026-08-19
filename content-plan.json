@@ -1444,6 +1444,30 @@
       "slug": "ba-bau-uong-tra-thao-moc-duoc-khong",
       "category": "dong-y",
       "status": "published"
+    },
+    {
+      "title": "Ăn theo nhóm máu có đúng không? Khoa học nói gì và nên cá nhân hoá bữa ăn theo cái gì",
+      "slug": "an-theo-nhom-mau-co-dung-khong",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Ăn yến sào thế nào cho đúng: lúc nào, bao nhiêu và ai nên thận trọng",
+      "slug": "an-yen-sao-the-nao-cho-dung",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Cách phân biệt mật ong nguyên chất và dùng mật ong đúng cách",
+      "slug": "mat-ong-nguyen-chat-phan-biet-va-dung-dung-cach",
+      "category": "thuc-pham",
+      "status": "published"
+    },
+    {
+      "title": "Thực phẩm biến đổi gen có hại không? Bằng chứng đến nay, quy định ở Việt Nam và lựa chọn thực tế",
+      "slug": "thuc-pham-bien-doi-gen-co-hai-khong",
+      "category": "thuc-pham",
+      "status": "published"
     }
   ],
   "roadmaps": [
