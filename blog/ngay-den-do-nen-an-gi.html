@@ -210,6 +210,20 @@
     .post-cta{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));border-radius:18px;padding:30px 26px;margin:34px 0;text-align:center;color:#fff}
     .post-cta h3{font-family:var(--font-display,'Cormorant Garamond');font-size:1.6rem;margin:0 0 8px;color:#fff}
     .post-cta p{margin:0 0 16px;opacity:.95}
+    .cta-sp{display:flex;gap:22px;align-items:center;flex-wrap:wrap;background:#F7F7F2;border:1px solid #E2E7DE;border-left:6px solid #2E6B2D;border-radius:18px;padding:24px 26px;margin:34px 0}
+    .cta-sp-anh img{width:160px;height:160px;object-fit:contain;border-radius:12px;background:#fff}
+    .cta-sp-chu{flex:1 1 320px;min-width:0}
+    .cta-sp-nhan{display:inline-block;font-size:.7rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#2E6B2D;margin-bottom:6px}
+    .cta-sp h3{font-size:1.22rem;margin:0 0 6px;color:#1F4D1F;line-height:1.35}
+    .cta-sp-thongso{margin:0 0 8px;font-weight:700;color:#1F4D1F}
+    .cta-sp-mo{margin:0 0 16px;color:#4A554A;font-size:.95rem;line-height:1.6}
+    .cta-sp-nut{display:flex;gap:10px;flex-wrap:wrap}
+    .cta-sp-chinh,.cta-sp-phu{display:inline-block;border-radius:30px;padding:11px 22px;font-weight:700;font-size:.95rem;text-decoration:none}
+    .cta-sp-chinh{background:#1F4D1F;color:#fff;border:2px solid #1F4D1F}
+    .cta-sp-phu{background:transparent;color:#1F4D1F;border:2px solid rgba(31,77,31,.35)}
+    .cta-sp-chinh:hover{background:#2E6B2D;border-color:#2E6B2D}
+    .cta-sp-phu:hover{border-color:#1F4D1F}
+    @media(max-width:640px){.cta-sp{padding:20px}.cta-sp-anh img{width:110px;height:110px}}
     .post-fig{margin:26px auto;text-align:center}
     .post-fig img{max-width:min(420px,100%);border-radius:18px;box-shadow:0 10px 34px rgba(16,24,40,.14)}
     .post-fig figcaption{color:#98a2b3;font-size:.82rem;margin-top:10px}
@@ -375,6 +389,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <ul><li>Báo Điện tử VOV — Ngày "đèn đỏ" nên ăn gì, kiêng gì để cơ thể dễ chịu hơn: <a href="https://vov.vn">vov.vn</a></li><li>MEDLATEC — Ngày đèn đỏ không nên ăn gì và nên ăn gì để bớt khó chịu: <a href="https://medlatec.vn">medlatec.vn</a></li><li>Viện Dinh dưỡng Quốc gia — Khuyến nghị nhu cầu dinh dưỡng cho người Việt Nam, phần nhu cầu sắt ở phụ nữ tuổi sinh sản: <a href="https://viendinhduong.vn">viendinhduong.vn</a></li></ul>
 <p><em>Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn đau bụng kinh dữ dội, chu kỳ rối loạn kéo dài hoặc đang điều trị bệnh lý phụ khoa, hãy tham khảo ý kiến chuyên môn trước khi thay đổi chế độ ăn.</em></p>
         </div>
+
+        <!-- cta-san-pham -->
+        <aside class="cta-sp" aria-label="Sản phẩm IKI">
+          <div class="cta-sp-anh"><img src="../assets/san-pham/true-vegan-protein.jpg" alt="Hộp bột đạm dinh dưỡng thực vật True Vegan Protein Pro 500g của IKI" loading="lazy" width="160" height="160" /></div>
+          <div class="cta-sp-chu">
+            <span class="cta-sp-nhan">Thực phẩm bổ sung IKI</span>
+            <h3>Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g</h3>
+            <p class="cta-sp-thongso">Hộp 500 g · 668.000đ</p>
+            <p class="cta-sp-mo">True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.</p>
+            <div class="cta-sp-nut">
+              <a class="cta-sp-chinh" href="../san-pham/true-vegan-protein.html">Xem chi tiết sản phẩm</a>
+              <a class="cta-sp-phu" href="../shop/">Đặt hàng tại cửa hàng IKI</a>
+            </div>
+          </div>
+        </aside>
 
         <div class="post-cta">
           <h3>Nhận cẩm nang chăm sóc sức khoẻ chủ động — miễn phí</h3>
