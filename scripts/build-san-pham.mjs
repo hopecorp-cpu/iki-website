@@ -194,7 +194,7 @@ ${header()}
           <div class="sp-gia">${tien(sp.gia)}<small>Giá niêm yết · ${esc(sp.quyCach)}</small></div>
           <p class="sp-mota">${esc(sp.moTa)}</p>
           <div class="sp-cta">
-            <a class="sp-btn chinh" href="../shop/">Xem trong cửa hàng</a>
+            <a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">Xem trong cửa hàng</a>
             <a class="sp-btn phu" href="../quiz/">Làm bài đọc thể trạng miễn phí</a>
           </div>
           <p style="font-size:.86rem;color:#667085;margin:6px 0 0">Giao hàng toàn quốc, nhận hàng trả tiền hoặc chuyển khoản trước.</p>

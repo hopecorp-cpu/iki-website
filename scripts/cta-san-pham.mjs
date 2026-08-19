@@ -53,7 +53,7 @@ export function ctaSanPham(fm = {}, goc = "../") {
             <p class="cta-sp-mo">${p.moTa}</p>
             <div class="cta-sp-nut">
               <a class="cta-sp-chinh" href="${goc}san-pham/${p.slug}.html">Xem chi tiết sản phẩm</a>
-              <a class="cta-sp-phu" href="${goc}shop/">Đặt hàng tại cửa hàng IKI</a>
+              <a class="cta-sp-phu" href="${goc}shop/?sp=${p.slug}">Đặt hàng tại cửa hàng IKI</a>
             </div>
           </div>
         </aside>`;

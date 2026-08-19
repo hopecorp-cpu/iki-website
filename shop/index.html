@@ -746,8 +746,26 @@ function renderCol(){
 }
 renderCol();
 
+// ==== đường dẫn riêng cho từng sản phẩm ====
+// Trước đây mở sản phẩm không đổi URL, nên cả cửa hàng chỉ có đúng một đường dẫn /shop/ —
+// không gửi được link một món cho khách, không gắn được vào bài blog hay quảng cáo.
+function slugHoa(s){return String(s||'').toLowerCase().replace(/đ/g,'d').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
+PRODUCTS.forEach(p=>p._slug=slugHoa(p.n));
+// Tên rút gọn cho ba sản phẩm chủ lực, để link từ blog và trang sản phẩm gõ cho gọn.
+const SP_RUT_GON={'true-vegan-protein':'dam','tra-tue-minh':'tra-tue-minh','tra-thanh-huong':'tra-thanh-huong'};
+function timTheoSlug(sl){
+  if(!sl) return null;
+  const s=slugHoa(sl);
+  if(s==='dam'||s==='true-vegan-protein') return flagship;
+  return PRODUCTS.find(p=>p._slug===s) || PRODUCTS.find(p=>p._slug.includes(s)) || null;
+}
+function datDuongDan(sl){
+  try{history.replaceState(null,'',sl?('?sp='+sl):location.pathname);}catch(e){}
+}
+
 // ==== view switching ====
 function go(v){
+  if(v!=='detail') datDuongDan('');
   document.querySelectorAll('.view').forEach(x=>x.classList.remove('on'));
   document.getElementById(v).classList.add('on');
   document.querySelectorAll('nav.main a').forEach(a=>a.classList.toggle('on',a.dataset.go===v));
@@ -775,6 +793,7 @@ function openDetail(p){
     +`<div class="pm-block"><h4>Đặt hàng &amp; giao nhận</h4><p>Để lại thông tin hoặc nhắn tư vấn, nhân viên sẽ gọi xác nhận trước khi gửi hàng. Giao toàn quốc, thanh toán khi nhận hàng (COD) — phí giao do khách trả. Đổi trả theo chính sách cửa hàng.</p></div>`;
   document.getElementById('pdpMore').innerHTML = (hl?`<div><h3>Điểm nổi bật</h3><div class="pm-hl">${hl}</div></div>`:'')+`<div>${right}</div>`;
   go('detail');
+  datDuongDan(SP_RUT_GON[p._slug]||p._slug);
 }
 // ==== cart + toast ====
 let cart=0; const cartCount=document.getElementById('cartCount');
@@ -984,5 +1003,17 @@ document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('da
 <script src="https://sp.zalo.me/plugins/sdk.js" async defer></script>
 <!-- End Zalo OA chat widget -->
 
+<script>
+// Mở thẳng sản phẩm khi vào bằng đường dẫn ?sp=<tên>. Không khớp tên nào thì đứng ở trang cửa
+// hàng như bình thường — link gõ sai không được phép làm vỡ trang.
+(function(){
+  try{
+    var sl=new URLSearchParams(location.search).get('sp')||location.hash.replace(/^#sp=/,'');
+    if(!sl) return;
+    var p=timTheoSlug(sl);
+    if(p) openDetail(p);
+  }catch(e){}
+})();
+</script>
 <script src="/assets/kiem-form.js" defer></script>
 </html>
