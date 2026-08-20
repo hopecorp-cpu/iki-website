@@ -534,9 +534,46 @@ function updateSitemap(plan) {
     xml = xml.replace(/<urlset([^>]*)>/, '<urlset$1\n        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">')
              .replace(/">\n        xmlns:video/, '"\n        xmlns:video');
   }
+  // Một số bài do máy viết blog tự thêm <url> NGOÀI khối tự sinh (không nằm trong content-plan
+  // nên vòng lặp ở trên không chạm tới). Vá nốt cho chúng, không thì bài có video vẫn thiếu thẻ
+  // mà chẳng có gì báo.
+  xml = xml.replace(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>/g, (khoi) => {
+    if (khoi.includes("<video:video>")) return khoi;
+    const m = khoi.match(/\/blog\/([a-z0-9-]+)\.html/);
+    if (!m || !videoTheoSlug[m[1]]) return khoi;
+    return khoi.replace("</url>", `${theVideo(m[1])}\n  </url>`);
+  });
+
+  // DỌN TRÙNG: sitemap đang có 213/783 địa chỉ lặp hai lần (khối tự sinh ở đây, cộng với <url>
+  // do máy viết blog tự nối thêm ngoài khối). Trùng không làm Google phạt, nhưng nó là tín hiệu
+  // cẩu thả trên đúng cái file mình dùng để nói "đây là toàn bộ trang của tôi" — và giờ còn kéo
+  // theo khai trùng cả thẻ video. Giữ bản DÀI NHẤT cho mỗi địa chỉ để không đánh rơi lastmod,
+  // hreflang hay thẻ video của bản đầy đủ hơn.
+  {
+    const tot = new Map();
+    for (const khoi of xml.match(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>/g) || []) {
+      const m = khoi.match(/<loc>([^<]+)<\/loc>/);
+      if (!m) continue;
+      const cu2 = tot.get(m[1]);
+      if (!cu2 || khoi.length > cu2.length) tot.set(m[1], khoi);
+    }
+    let bo = 0;
+    xml = xml.replace(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>/g, (khoi) => {
+      const m = khoi.match(/<loc>([^<]+)<\/loc>/);
+      if (!m) return khoi;
+      if (tot.get(m[1]) === khoi) { tot.delete(m[1]); return khoi; }
+      bo++; return "";
+    });
+    xml = xml.replace(/\n{3,}/g, "\n\n");
+    if (bo) console.log(`  sitemap: bỏ ${bo} địa chỉ trùng`);
+  }
+
   fs.writeFileSync(sp, xml, "utf8");
-  const soVideo = Object.keys(videoTheoSlug).length;
-  if (soVideo) console.log(`  sitemap: khai ${soVideo} thẻ video`);
+  const soThat = (xml.match(/<video:video>/g) || []).length;
+  const soCo = Object.keys(videoTheoSlug).length;
+  // ĐẾM CÁI THẬT SỰ GHI RA, không đếm kích thước chỉ mục: hai số lệch nhau nghĩa là có bài không
+  // có <url> nào trong sitemap để gắn thẻ vào, và đó là thứ phải biết chứ không phải giấu đi.
+  if (soCo) console.log(`  sitemap: ${soThat}/${soCo} thẻ video đã khai${soThat < soCo ? " — thiếu bài chưa có <url> trong sitemap" : ""}`);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) buildStructure();
