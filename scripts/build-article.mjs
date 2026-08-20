@@ -16,6 +16,7 @@ import { fileURLToPath } from "url";
 import { buildStructure, emailCta } from "./build-structure.mjs";
 import { ctaSanPham, CSS_CTA_SP } from "./cta-san-pham.mjs";
 import { chenVideo, schemaVideo, CSS_VIDEO } from "./video-bai.mjs";
+import { khoiCauNoi, CSS_CAU_NOI } from "./cau-noi-chi-muc.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -352,7 +353,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
     .info-box .ib-title{font-weight:700;color:#101828;margin-bottom:6px}
     .post-cta{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));border-radius:18px;padding:30px 26px;margin:34px 0;text-align:center;color:#fff}
     .post-cta h3{font-family:var(--font-display,'Cormorant Garamond');font-size:1.6rem;margin:0 0 8px;color:#fff}
-    .post-cta p{margin:0 0 16px;opacity:.95}${CSS_CTA_SP}${CSS_VIDEO}
+    .post-cta p{margin:0 0 16px;opacity:.95}${CSS_CTA_SP}${CSS_VIDEO}${CSS_CAU_NOI}
     .post-fig{margin:26px auto;text-align:center}
     .post-fig img{max-width:min(420px,100%);border-radius:18px;box-shadow:0 10px 34px rgba(16,24,40,.14)}
     .post-fig figcaption{color:#98a2b3;font-size:.82rem;margin-top:10px}
@@ -437,6 +438,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 ${articleCoVideo}
         </div>
 
+        ${khoiCauNoi(fm.slug)}
         ${fm.no_product ? "" : ctaSanPham(fm)}
 
         ${fm.no_product ? "" : `<div class="post-cta">
