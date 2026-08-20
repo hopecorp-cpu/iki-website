@@ -36,11 +36,25 @@
   .xong a.tai { display: inline-block; margin: 14px 0 6px; padding: 15px 34px; border-radius: 30px; background: var(--xanh); color: #fff; font-weight: 800; text-decoration: none; font-size: 17px; }
   .xong p.zalo { font-size: 14px; color: #5a6852; }
   .rao { font-size: 12px; color: #8a967f; text-align: center; margin-top: 14px; }
+  .dau { display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 18px; }
+  .dau img { height: 44px; }
+  .dau span { font-weight: 800; color: var(--xanh); letter-spacing: 2px; font-size: 18px; }
+  .buoc { text-align: left; margin-top: 18px; }
+  .buoc h3 { color: var(--xanh); font-size: 16px; margin-bottom: 10px; text-align: center; }
+  .buoc a.the { display: block; background: var(--kem); border: 1px solid #e2e2d8; border-left: 4px solid var(--vang); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; text-decoration: none; color: #23301f; }
+  .buoc a.the b { color: var(--xanh); display: block; margin-bottom: 2px; }
+  .buoc a.the small { color: #5a6852; font-size: 13px; }
+  footer { border-top: 1px solid #e2e2d8; margin-top: 34px; padding: 22px 20px 30px; text-align: center; }
+  footer .lk { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 18px; margin-bottom: 12px; }
+  footer .lk a { color: var(--xanh2); text-decoration: none; font-size: 14px; font-weight: 600; }
+  footer .ba { display: flex; align-items: center; justify-content: center; gap: 8px; color: #8a967f; font-size: 12.5px; margin: 8px 0; }
+  footer .ba img { height: 22px; opacity: 0.85; }
+  footer p { font-size: 12px; color: #8a967f; }
 </style>
 </head>
 <body>
 <div class="khung">
-  <div class="logo">IKI HEALING</div>
+  <a class="dau" href="https://ikihealing.com/" style="text-decoration:none"><img src="/assets/logo/iki-mark.png" alt="IKI"><span>IKI HEALING</span></a>
   <h1>Tặng bạn tuyển tập<br>100 Bữa Ăn Đủ Đạm Không Cần Thịt</h1>
   <div class="gach"></div>
   <p class="mota">Toàn món Việt dễ nấu, nguyên liệu chợ nào cũng có — và mỗi món đều ghi rõ bao nhiêu gram đạm.</p>
@@ -66,9 +80,25 @@
     <p>Bấm nút dưới để tải trọn bộ 100 món về máy.</p>
     <a class="tai" id="tai" href="#" target="_blank" rel="noopener">Tải ebook (PDF)</a>
     <p class="zalo">IKI cũng sẽ nhắn Zalo gửi lại file cho bạn kèm gợi ý ghép bữa theo thể trạng — hoàn toàn miễn phí.</p>
+    <div class="buoc">
+      <h3>Bước tiếp theo cho bạn</h3>
+      <a class="the" href="https://ikihealing.com/quiz/?nhom=an-chay&s=ebook100"><b>Đo thể trạng 2 phút (miễn phí)</b><small>13 câu hỏi, ra 6 chỉ số thể trạng + thực đơn 3 ngày soạn riêng cho bạn — biết mình cần bao nhiêu đạm mỗi ngày.</small></a>
+      <a class="the" href="https://ikihealing.com/blog/"><b>Đọc blog kiến thức của IKI</b><small>Hơn 300 bài về dinh dưỡng, dưỡng sinh và thói quen sống chủ động, có video podcast kèm theo.</small></a>
+    </div>
   </div>
-  <p class="rao">Nội dung chia sẻ kiến thức ẩm thực và dinh dưỡng, không thay thế tư vấn y khoa. IKI chỉ dùng số điện thoại để gửi quà và hỗ trợ bạn, không chia sẻ cho bên thứ ba.</p>
+  <p class="rao">Nội dung chia sẻ kiến thức ẩm thực và dinh dưỡng, không thay thế tư vấn y khoa. IKI chỉ dùng số điện thoại và email để gửi quà và hỗ trợ bạn, không chia sẻ cho bên thứ ba.</p>
 </div>
+<footer>
+  <div class="lk">
+    <a href="https://ikihealing.com/">Trang chủ</a>
+    <a href="https://ikihealing.com/blog/">Blog</a>
+    <a href="https://ikihealing.com/quiz/">Quiz thể trạng</a>
+    <a href="https://ikihealing.com/shop/">Cửa hàng</a>
+    <a href="mailto:contact@ikihealing.com">Liên hệ</a>
+  </div>
+  <div class="ba"><img src="/assets/logo/hope-mark.png" alt="HOPE"> Một thương hiệu của HOPE CORP</div>
+  <p>Tư vấn: 0987931551 · contact@ikihealing.com · ikihealing.com</p>
+</footer>
 <script>
 (function () {
   var API = "https://hope-ops-hub.vercel.app/api/ebook-lead";
