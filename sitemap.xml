@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
   <!-- Quiz sức khoẻ chủ động (phễu chốt) -->
   <url>
@@ -1760,18 +1761,48 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_AowRuo5tKk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Chi tiêu sức khoẻ theo vùng miền 2026: tỉnh chi đậm hơn</video:title>
+      <video:description>Phân tích 1.348 đơn hàng COD thực tế của IKI Healing: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền (~1,1 triệu đồng/đơn), và các tỉnh như Lâm Đồng,…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/_AowRuo5tKk</video:player_loc>
+      <video:duration>203</video:duration>
+      <video:publication_date>2026-08-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/bao-cao-cham-soc-suc-khoe-chu-dong-2026.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/x2f2qf4awLs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Báo cáo sức khoẻ chủ động 2026: số liệu người Việt mua gì</video:title>
+      <video:description>Báo cáo dữ liệu độc quyền từ 1.540 đơn hàng, 1.064 khách hàng và cộng đồng 200.000+ thành viên IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/x2f2qf4awLs</video:player_loc>
+      <video:duration>273</video:duration>
+      <video:publication_date>2026-08-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/bao-cao-hanh-trinh-hoi-dap-2026.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/KzGAjaC4YEA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Cần bao nhiêu tin nhắn để quyết định mua đồ sức khoẻ?</video:title>
+      <video:description>Trung vị 16 lượt tin nhắn cho một quyết định mua, 10% cuộc vượt 36 lượt — đo trên 2.789 cuộc tư vấn thật của IKI Healing. Số liệu mở cho báo chí trích dẫn.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/KzGAjaC4YEA</video:player_loc>
+      <video:duration>270</video:duration>
+      <video:publication_date>2026-08-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/bao-cao-chu-ky-tai-mua-2026.html</loc>
@@ -1784,12 +1815,32 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/sJGhH3I3ZKs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Người Việt chủ động hỏi gì khi tìm mua sản phẩm sức khoẻ?</video:title>
+      <video:description>Băn khoăn về giá đứng đầu với 25% số cuộc, dưỡng Can theo Đông y 21% — đo trên 660 cuộc tư vấn thật mà khách là bên chủ động nêu vấn đề. Số liệu mở cho báo…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/sJGhH3I3ZKs</video:player_loc>
+      <video:duration>260</video:duration>
+      <video:publication_date>2026-08-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/bao-cao-cau-truc-gio-hang-2026.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/CcAibQrljuY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Người Việt mua thử một món hay mua cả bộ sản phẩm sức khoẻ?</video:title>
+      <video:description>59% đơn hàng chỉ có một món, 16% đơn từ ba món trở lên, 6% đơn có món tặng kèm — đo trên 1.541 đơn hàng thật. Chân dung người tiêu dùng thận trọng của ngành…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/CcAibQrljuY</video:player_loc>
+      <video:duration>276</video:duration>
+      <video:publication_date>2026-08-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html</loc>

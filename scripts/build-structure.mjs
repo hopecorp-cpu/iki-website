@@ -499,14 +499,44 @@ function updateSitemap(plan) {
   if (!fs.existsSync(sp)) return;
   let xml = fs.readFileSync(sp, "utf8");
   const today = "2026-07-21";
-  const url = (loc, pri, freq) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>\n  </url>`;
+  // ĐIỀU 9 của bộ quy tắc video: bài nào có video thì khai thẻ <video:video> ngay trong <url> của
+  // nó. Đây là đường Google dò ra video trên trang mình nhanh nhất; thiếu thì phải chờ nó tự đọc
+  // schema trong HTML. Chỉ mục đọc từ video-index.json do nhung-video-blog.mjs ghi — CỐ Ý không
+  // đọc thẳng kho video trên máy CEO, vì bản dựng chạy trên GitHub không thấy thư mục đó.
+  const vp = path.join(ROOT, "video-index.json");
+  const videoTheoSlug = {};
+  if (fs.existsSync(vp)) {
+    try {
+      for (const v of JSON.parse(fs.readFileSync(vp, "utf8"))) if (v.slug && v.videoId) videoTheoSlug[v.slug] = v;
+    } catch (e) { console.warn("  video-index.json hỏng, bỏ qua thẻ video:", e.message); }
+  }
+  const esc = (t) => String(t || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  const theVideo = (slug) => {
+    const v = videoTheoSlug[slug];
+    if (!v) return "";
+    return `\n    <video:video>\n      <video:thumbnail_loc>${esc(v.anh)}</video:thumbnail_loc>\n` +
+      `      <video:title>${esc(v.ten)}</video:title>\n` +
+      `      <video:description>${esc((v.moTa || v.ten).slice(0, 2048))}</video:description>\n` +
+      `      <video:player_loc>https://www.youtube.com/embed/${esc(v.videoId)}</video:player_loc>\n` +
+      (v.giay ? `      <video:duration>${Math.round(v.giay)}</video:duration>\n` : "") +
+      (v.ngay ? `      <video:publication_date>${esc(v.ngay)}</video:publication_date>\n` : "") +
+      `      <video:family_friendly>yes</video:family_friendly>\n      <video:live>no</video:live>\n    </video:video>`;
+  };
+  const url = (loc, pri, freq, slug) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>${slug ? theVideo(slug) : ""}\n  </url>`;
   const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly"), url(`${SITE}/blog/mien-tru-trach-nhiem.html`, "0.3", "yearly")];
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
-  for (const a of plan.articles) if (isPublished(a.slug) && !a._orphan) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly"));
+  for (const a of plan.articles) if (isPublished(a.slug) && !a._orphan) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly", a.slug));
   const block = `  <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- BLOG:END -->`;
   if (/<!-- BLOG:START[\s\S]*?BLOG:END -->/.test(xml)) xml = xml.replace(/  <!-- BLOG:START[\s\S]*?BLOG:END -->/, block);
   else xml = xml.replace(/<\/urlset>/, `${block}\n\n</urlset>`);
+  // Khai namespace video một lần cho cả file, nếu chưa có.
+  if (!xml.includes("xmlns:video=")) {
+    xml = xml.replace(/<urlset([^>]*)>/, '<urlset$1\n        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">')
+             .replace(/">\n        xmlns:video/, '"\n        xmlns:video');
+  }
   fs.writeFileSync(sp, xml, "utf8");
+  const soVideo = Object.keys(videoTheoSlug).length;
+  if (soVideo) console.log(`  sitemap: khai ${soVideo} thẻ video`);
 }
 
 if (import.meta.url === `file://${process.argv[1]}`) buildStructure();
