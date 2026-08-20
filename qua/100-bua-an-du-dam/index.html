@@ -20,21 +20,6 @@
   body { font-family: "Be Vietnam Pro", -apple-system, "Segoe UI", Roboto, sans-serif; background: linear-gradient(180deg, #fff 0%, var(--kem) 26%); color: #23301f; line-height: 1.6; }
   .khung { max-width: 520px; margin: 0 auto; padding: 28px 20px 48px; }
   .anh-desktop { display: none; }
-  /* DESKTOP: hai cột — trái chữ + form, phải mockup đứng cố định (CEO 20/08: "làm phiên bản cho
-     desktop và phone, hiện tại đang hiển thị cho bản phone"). Phone giữ một cột như cũ. */
-  @media (min-width: 920px) {
-    .khung { max-width: 1060px; padding: 36px 32px 64px; }
-    .luoi { display: grid; grid-template-columns: 1fr 400px; gap: 56px; align-items: start; margin-top: 8px; }
-    .anh-desktop { display: block; position: sticky; top: 36px; }
-    .anh-desktop img { width: 100%; border-radius: 16px; box-shadow: 0 18px 48px rgba(31,77,31,0.16); }
-    .anh-mobile { display: none; }
-    .nhan-qua { margin: 0 0 14px; }
-    h1 { text-align: left; font-size: 38px; }
-    .gach { margin: 16px 0; }
-    .mota { text-align: left; font-size: 17px; }
-    .tin-cay { justify-content: flex-start; }
-    .dau { justify-content: flex-start; margin-bottom: 6px; }
-  }
   .nhan-qua { display: block; width: fit-content; margin: 0 auto 12px; background: var(--vang); color: #3d2f10; font-weight: 700; font-size: 12.5px; letter-spacing: 1.5px; padding: 5px 16px; border-radius: 99px; }
   h1 { font-family: "Montserrat", "Be Vietnam Pro", sans-serif; font-weight: 800; color: var(--xanh); font-size: 27px; line-height: 1.3; text-align: center; }
   .tin-cay { display: flex; justify-content: center; gap: 8px 14px; flex-wrap: wrap; margin: 12px 0 2px; font-size: 13px; color: var(--xanh2); font-weight: 700; }
@@ -74,6 +59,22 @@
   footer .ba { display: flex; align-items: center; justify-content: center; gap: 8px; color: #8a967f; font-size: 12.5px; margin: 8px 0; }
   footer .ba img { height: 22px; opacity: 0.85; }
   footer p { font-size: 12px; color: #8a967f; }
+  /* DESKTOP: hai cột — trái chữ + form, phải mockup đứng cố định (CEO 20/08: "làm phiên bản cho
+     desktop và phone"). Khối này phải nằm CUỐI stylesheet — đặt trước các rule gốc là bị đè
+     (đo thật: mockup hiện đúp, chữ vẫn căn giữa). Phone giữ một cột như cũ. */
+  @media (min-width: 920px) {
+    .khung { max-width: 1060px; padding: 36px 32px 64px; }
+    .luoi { display: grid; grid-template-columns: 1fr 400px; gap: 56px; align-items: start; margin-top: 8px; }
+    .anh-desktop { display: block; position: sticky; top: 36px; }
+    .anh-desktop img { width: 100%; border-radius: 16px; box-shadow: 0 18px 48px rgba(31,77,31,0.16); }
+    .mockup.anh-mobile { display: none; }
+    .nhan-qua { margin: 0 0 14px; }
+    h1 { text-align: left; font-size: 38px; }
+    .gach { margin: 16px 0; }
+    .mota { text-align: left; font-size: 17px; }
+    .tin-cay { justify-content: flex-start; }
+    .dau { justify-content: flex-start; margin-bottom: 6px; }
+  }
 </style>
 </head>
 <body>
