@@ -263,7 +263,7 @@ export const footer = () => `
   <footer class="site-footer"><div class="container">
     <div class="footer-grid">
       <div><div class="footer-brand" style="display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:14px;font-size:0"><span style="display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border:1px solid rgba(245,197,24,.22);border-radius:14px;padding:12px 22px 10px"><img src="/assets/logo/hope-mark-512.png" alt="HOPE CORP" style="width:30px;height:auto;margin-bottom:3px" /><span style="font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1">HOPE</span><span style="font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem">CORP</span></span></div><div class="footer-company" style="margin:0 0 16px"><div style="font-weight:800;text-transform:uppercase;color:#FFFFFF;font-size:1.02rem;line-height:1.3;letter-spacing:.005em">Công ty Cổ phần TMDV HOPE</div><div style="margin-top:6px;font-weight:500;text-transform:uppercase;color:rgba(255,255,255,.52);font-size:.7rem;letter-spacing:.22em">From nature, for life</div></div><p>Platform công nghệ wellness cho người Việt — kế thừa tri thức Y học Cổ truyền Việt Nam qua Tuệ Tĩnh và Hải Thượng Lãn Ông. Sản phẩm của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p></div>
-      <div><h4>Hệ sinh thái</h4><ul><li><a href="../hoc-vien.html">Học Viện IKI</a></li><li><a href="index.html">Blog IKI</a></li><li><a href="../cong-dong.html">Cộng đồng IKI</a></li><li><a href="../app.html">Ứng dụng IKI</a></li><li><a href="../ve-hope.html">Về HOPE CORP</a></li></ul></div>
+      <div><h4>Hệ sinh thái</h4><ul><li><a href="../hoc-vien.html">Học Viện IKI</a></li><li><a href="index.html">Blog IKI</a></li><li><a href="tat-ca-bai-viet.html">Tất cả bài viết</a></li><li><a href="../cong-dong.html">Cộng đồng IKI</a></li><li><a href="../app.html">Ứng dụng IKI</a></li><li><a href="../ve-hope.html">Về HOPE CORP</a></li></ul></div>
       <div><h4>Trụ nội dung</h4><ul><li><a href="lo-trinh.html">Lộ trình chăm sóc</a></li><li><a href="danh-muc-dinh-duong.html">Dinh dưỡng &amp; ăn uống</a></li><li><a href="danh-muc-thoi-quen.html">Thói quen &amp; lối sống</a></li><li><a href="danh-muc-dong-y.html">Đông y &amp; dân gian</a></li></ul></div>
       <div><h4>Liên hệ</h4><ul class="contact-list"><li class="contact-item"><span class="contact-label">Email</span><a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></li><li class="contact-item"><span class="contact-label">Tư vấn</span><a href="tel:0987931551">0987.931.551</a></li></ul></div>
     </div>
@@ -313,7 +313,7 @@ export function buildStructure() {
     : plan.articles.filter((a) => a.category === slug).length;
 
   // ---------- INDEX (theo chặng + sidebar + CTA) ----------
-  const catNav = `<nav class="cat-nav"><a href="lo-trinh.html">Lộ trình</a><a href="moi-quan-tam.html">Theo mối quan tâm</a>${plan.categories.filter((c) => c.slug !== "lo-trinh").map((c) => `<a href="danh-muc-${c.slug}.html">${esc(c.name)}</a>`).join("")}<a href="cam-nhan-cong-dong.html">Cảm nhận cộng đồng</a></nav>`;
+  const catNav = `<nav class="cat-nav"><a href="lo-trinh.html">Lộ trình</a><a href="moi-quan-tam.html">Theo mối quan tâm</a>${plan.categories.filter((c) => c.slug !== "lo-trinh").map((c) => `<a href="danh-muc-${c.slug}.html">${esc(c.name)}</a>`).join("")}<a href="cam-nhan-cong-dong.html">Cảm nhận cộng đồng</a><a href="tat-ca-bai-viet.html">Tất cả bài viết</a></nav>`;
   const chapters = (plan.chapters || []).map((ch) =>
     `<section class="chapter"><div class="ch-head"><h2>${esc(ch.title)}</h2>${ch.desc ? `<p>${esc(ch.desc)}</p>` : ""}</div><div class="chip-grid">${ch.items.map((it) => chipCard(it.slug, it.tier, tmap)).join("")}</div></section>`
   ).join("");
@@ -362,6 +362,47 @@ export function buildStructure() {
       + header()
       + `<main><section class="blog-hero"><span class="eyebrow">Trụ nội dung</span><h1>${esc(c.name)}</h1><p>${esc(c.desc)}</p></section>${grid}${soon}${emailCta(plan, `cat:${c.slug}`)}</main>`
       + footer(), "utf8");
+  }
+
+  // ---------- MỤC LỤC TOÀN BỘ BÀI ----------
+  // Vì sao cần trang này: đo 20/08 bằng URL Inspection API — trong 385 bài blog, chỉ 37 bài nằm
+  // trong chỉ mục Google, 251 bài "đã phát hiện — chưa lập chỉ mục", và 96 bài **Google chưa từng
+  // biết tới** dù đã nằm sẵn trong sitemap. Sitemap không đủ: Google đọc nó nhưng không tải hết
+  // địa chỉ trong đó về. Thứ dẫn được Googlebot tới một trang là LINK từ một trang nó chịu bò qua.
+  //
+  // Mà trang mục lục blog (blog/index.html) lúc đó chỉ trỏ tới 37 bài — 348 bài còn lại chỉ được
+  // nhắc ở hub danh mục. Trang này là MỘT trang bò được, trỏ tới TOÀN BỘ bài, chữ neo là tên bài
+  // thật (chữ neo là tín hiệu duy nhất nói cho máy tìm kiếm biết trang đích nói về cái gì).
+  //
+  // CỐ Ý không phân trang: phân trang thì Googlebot phải bò qua nhiều lượt mới thấy hết, mà đúng
+  // thứ đang thiếu là lượt bò. Một trang nặng vài trăm KB rẻ hơn nhiều so với mười trang phân nhỏ.
+  {
+    // Gom slug ĐÃ RENDER chứ không suy lại từ category: bài mồ côi (máy viết blog tự đẻ, chưa vào
+    // content-plan) bị lọc khỏi phần theo nhóm, mà nếu daKhai suy từ category thì chúng cũng bị
+    // coi là "đã khai" và rơi khỏi luôn phần Bài khác — mục lục hụt 146 bài mà vẫn trông đầy đủ.
+    const daRender = new Set();
+    const theoNhom = plan.categories.map((c) => {
+      const ds = plan.articles.filter((a) => a.category === c.slug && isPublished(a.slug) && !a._orphan);
+      ds.forEach((a) => daRender.add(a.slug));
+      if (!ds.length) return "";
+      return `<section class="ml-nhom"><h2 id="ml-${escAttr(c.slug)}">${esc(c.name)} <span class="ml-dem">${ds.length} bài</span></h2><ul class="ml-ds">${
+        ds.map((a) => `<li><a href="${escAttr(a.slug)}.html">${esc(a.title)}</a></li>`).join("")
+      }</ul></section>`;
+    }).join("");
+    const conLai = plan.articles.filter((a) => isPublished(a.slug) && !daRender.has(a.slug));
+    const khac = conLai.length
+      ? `<section class="ml-nhom"><h2 id="ml-khac">Bài khác <span class="ml-dem">${conLai.length} bài</span></h2><ul class="ml-ds">${conLai.map((a) => `<li><a href="${escAttr(a.slug)}.html">${esc(a.title)}</a></li>`).join("")}</ul></section>`
+      : "";
+    const tong = plan.articles.filter((a) => isPublished(a.slug)).length;
+    const cssMl = `<style>.ml-nhom{margin:34px 0}.ml-nhom h2{font-size:1.35rem;margin:0 0 14px;padding-bottom:8px;border-bottom:2px solid #E3EADF}.ml-dem{font-size:.85rem;font-weight:500;color:#6B7A6B;margin-left:8px}.ml-ds{list-style:none;padding:0;margin:0;columns:2;column-gap:34px}.ml-ds li{break-inside:avoid;margin:0 0 9px;line-height:1.45}.ml-ds a{color:#1F4D1F;text-decoration:none}.ml-ds a:hover{text-decoration:underline}@media(max-width:760px){.ml-ds{columns:1}}</style>`;
+    fs.writeFileSync(path.join(outDir, "tat-ca-bai-viet.html"),
+      head("Tất cả bài viết | Blog IKI Healing", `Mục lục đầy đủ ${tong} bài viết về dinh dưỡng, thói quen sống và Đông y ứng dụng trên Blog IKI Healing.`,
+        `${SITE}/blog/tat-ca-bai-viet.html`,
+        { "@context": "https://schema.org", "@type": "CollectionPage", name: "Tất cả bài viết — Blog IKI Healing", url: `${SITE}/blog/tat-ca-bai-viet.html`, inLanguage: "vi-VN" })
+      + cssMl + header()
+      + `<main><section class="blog-hero"><span class="eyebrow">Mục lục</span><h1>Tất cả bài viết</h1><p>Toàn bộ ${tong} bài trên Blog IKI Healing, xếp theo trụ nội dung.</p></section><div class="post-wrap">${theoNhom}${khac}</div>${emailCta(plan, "muc-luc")}</main>`
+      + footer(), "utf8");
+    console.log(`  mục lục: tat-ca-bai-viet.html — ${tong} bài`);
   }
 
   // ---------- ROADMAP HUB ----------
@@ -523,7 +564,7 @@ function updateSitemap(plan) {
       `      <video:family_friendly>yes</video:family_friendly>\n      <video:live>no</video:live>\n    </video:video>`;
   };
   const url = (loc, pri, freq, slug) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>${slug ? theVideo(slug) : ""}\n  </url>`;
-  const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly"), url(`${SITE}/blog/mien-tru-trach-nhiem.html`, "0.3", "yearly")];
+  const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/tat-ca-bai-viet.html`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly"), url(`${SITE}/blog/mien-tru-trach-nhiem.html`, "0.3", "yearly")];
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
   for (const a of plan.articles) if (isPublished(a.slug) && !a._orphan) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly", a.slug));
   const block = `  <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- BLOG:END -->`;

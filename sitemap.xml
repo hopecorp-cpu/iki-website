@@ -1672,6 +1672,12 @@
 <url><loc>https://ikihealing.com/blog/tra-tue-minh-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->
   
+  <url>
+    <loc>https://ikihealing.com/blog/tat-ca-bai-viet.html</loc>
+    <lastmod>2026-08-20</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
   
   
   
@@ -2152,24 +2158,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   <url><loc>https://ikihealing.com/blog/tra-thanh-huong-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
