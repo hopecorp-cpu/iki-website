@@ -1684,6 +1684,30 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://ikihealing.com/blog/khoang-cach-giua-cac-bua-an-bao-lau.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/hop-nhua-dung-do-an-nong-co-hai-khong.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/mon-an-khong-nen-ham-lai-nhieu-lan.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-sang-luc-may-gio-la-tot-nhat.html</loc>
+    <lastmod>2026-07-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://ikihealing.com/blog/an-dau-moi-ngay-co-tot-khong.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -3060,4 +3084,8 @@
 <url><loc>https://ikihealing.com/blog/rung-toc-sau-sinh-nen-an-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ikihealing.com/blog/bot-dam-thuc-vat-gia-bao-nhieu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://ikihealing.com/blog/pha-bot-dam-thuc-vat-voi-gi-cho-de-uong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/an-sang-luc-may-gio-la-tot-nhat.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/mon-an-khong-nen-ham-lai-nhieu-lan.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/hop-nhua-dung-do-an-nong-co-hai-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://ikihealing.com/blog/khoang-cach-giua-cac-bua-an-bao-lau.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 </urlset>

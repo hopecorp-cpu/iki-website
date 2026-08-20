@@ -6,6 +6,10 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 
 ## Blog — Kiến thức chăm sóc sức khoẻ chủ động
 - [Blog IKI](https://ikihealing.com/blog/): lộ trình chăm sóc sức khoẻ chủ động theo từng chặng.
+- [Khoảng cách giữa các bữa ăn bao lâu là hợp lý?](https://ikihealing.com/blog/khoang-cach-giua-cac-bua-an-bao-lau.html): Khoảng cách giữa các bữa ăn bao lâu là hợp lý? Vì sao 4-5 tiếng là mốc dễ theo, khi nào cần bữa phụ, cách xếp lịch ăn cho dân văn phòng, người tập luyện và người làm ca đêm.
+- [Hộp nhựa đựng đồ ăn nóng có hại không? Đọc ký hiệu nhựa và dùng cho đúng](https://ikihealing.com/blog/hop-nhua-dung-do-an-nong-co-hai-khong.html): Hộp nhựa đựng đồ ăn nóng có hại không? Cách đọc ký hiệu nhựa số 1 đến 7, loại nào chịu nhiệt, loại nào nên tránh, khi nào phải thay hộp và cách dùng hộp an toàn cho cơm hộp mang đi làm.
+- [Món ăn không nên hâm lại nhiều lần: danh sách và cách xử lý đồ thừa](https://ikihealing.com/blog/mon-an-khong-nen-ham-lai-nhieu-lan.html): Món ăn không nên hâm lại nhiều lần gồm những gì? Cơm nguội, trứng, rau lá xanh, nấm, hải sản, dầu chiên lại và cách chia phần, bảo quản, hâm đúng để đồ thừa vẫn an toàn và ngon.
+- [Ăn sáng lúc mấy giờ là tốt nhất? Khung giờ hợp lý theo từng nhịp sinh hoạt](https://ikihealing.com/blog/an-sang-luc-may-gio-la-tot-nhat.html): Ăn sáng lúc mấy giờ là tốt nhất? Khung giờ 6-8h, quy tắc một giờ sau khi thức dậy, cách chọn giờ ăn sáng cho dân văn phòng, người dậy sớm, người làm ca đêm và học sinh.
 - [Ăn đậu mỗi ngày có tốt không? Ăn bao nhiêu là đủ](https://ikihealing.com/blog/an-dau-moi-ngay-co-tot-khong.html): Ăn đậu mỗi ngày có tốt không? Lượng đạm của từng loại đậu Việt, mức ăn hợp lý mỗi ngày, cách xử lý đầy hơi khi ăn đậu và gợi ý một tuần có đậu mà không ngán.
 - [Nấu nồi áp suất có mất chất dinh dưỡng không?](https://ikihealing.com/blog/nau-noi-ap-suat-co-mat-chat-khong.html): Nấu nồi áp suất có mất chất dinh dưỡng không? Nhiệt độ, thời gian và lượng nước ảnh hưởng thế nào, món nào hợp, món nào không, và bảy lưu ý an toàn khi dùng.
 - [Nước mát giải nhiệt bán sẵn có tốt không?](https://ikihealing.com/blog/nuoc-mat-giai-nhiet-ban-san-co-tot-khong.html): Nước mát giải nhiệt bán sẵn có tốt không? Lượng đường thật trong một chai, ai nên thận trọng, uống thay nước lọc được không và cách tự nấu nước mát ít đường tại nhà.
@@ -254,6 +258,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Tháng nào người Việt chăm sóc sức khoẻ nhiều nhất?](https://ikihealing.com/blog/bao-cao-nhip-mua-theo-thang-2026.html): Chỉ số nhịp theo tháng: tháng 04 là mốc 100, tháng 05 đạt 99, tháng 06 rơi xuống 56, tháng 07 hồi lên 74 — đo trên 1.804 đơn hàng thật. Số liệu mở cho báo chí trích dẫn.
 - [Bảo quản thực phẩm đúng cách: giữ tươi và giữ an toàn](https://ikihealing.com/blog/bao-quan-thuc-pham-dung-cach.html)
 - [Bảo vệ mắt cho trẻ trong thời đại màn hình](https://ikihealing.com/blog/bao-ve-mat-cho-tre-em.html)
+- [Bột Đạm Thực Vật Giá Bao Nhiêu? Cách Tính Chi Phí Mỗi Ly Đạm](https://ikihealing.com/blog/bot-dam-thuc-vat-gia-bao-nhieu.html)
 - [Bột Đạm Thực Vật Loại Nào Tốt? Sáu Tiêu Chí Đọc Nhãn Trước Khi Mua](https://ikihealing.com/blog/bot-dam-thuc-vat-loai-nao-tot.html)
 - [Bữa tối nhẹ, dễ tiêu: ăn gì và ăn lúc mấy giờ](https://ikihealing.com/blog/bua-toi-nhe-de-tieu.html)
 - [Buồn ngủ sau khi ăn trưa: vì sao và cách ăn để tỉnh táo](https://ikihealing.com/blog/buon-ngu-sau-khi-an-trua.html)
@@ -331,6 +336,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Nước ép cần tây có tốt không? Uống bao nhiêu và uống lúc nào](https://ikihealing.com/blog/nuoc-ep-can-tay-co-tot-khong.html)
 - [Nước ép và sinh tố: uống sao cho lợi](https://ikihealing.com/blog/nuoc-ep-sinh-to-dung-cach.html)
 - [Giữ đường huyết ổn định và giảm cơn thèm ngọt mỗi ngày](https://ikihealing.com/blog/on-dinh-duong-huyet.html)
+- [Pha bột đạm thực vật với gì cho dễ uống? 8 cách pha từ nguyên liệu sẵn có trong bếp](https://ikihealing.com/blog/pha-bot-dam-thuc-vat-voi-gi-cho-de-uong.html)
 - [Rau củ đông lạnh có tốt như rau tươi không?](https://ikihealing.com/blog/rau-cu-dong-lanh-co-tot-nhu-rau-tuoi-khong.html)
 - [Rau Thơm Việt Và Những Lợi Ích Cho Sức Khỏe Mỗi Ngày](https://ikihealing.com/blog/rau-thom-viet-va-loi-ich-suc-khoe.html)
 - [Rụng tóc sau sinh nên ăn gì? Bao lâu thì ổn định lại](https://ikihealing.com/blog/rung-toc-sau-sinh-nen-an-gi.html)
