@@ -15,6 +15,7 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { buildStructure, emailCta } from "./build-structure.mjs";
 import { ctaSanPham, CSS_CTA_SP } from "./cta-san-pham.mjs";
+import { chenVideo, schemaVideo, CSS_VIDEO } from "./video-bai.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
@@ -196,6 +197,10 @@ function parseSource(raw) {
 
 function render(fm, body) {
   const { html: article, toc } = mdToHtml(body);
+  // Khối video (nếu bài đã có video trên YouTube) chèn ngay trước h2 đầu tiên — điều 8 của bộ
+  // quy tắc GEO/SEO video. Đi qua đây thì mỗi lượt build lại vẫn còn, không bị xoá như hồi chèn
+  // vào HTML đã dựng.
+  const articleCoVideo = chenVideo(article, fm.slug);
   const url = `${SITE}/blog/${fm.slug}.html`;
   const faq = Array.isArray(fm.faq) ? fm.faq : [];
   const related = Array.isArray(fm.related) ? fm.related : [];
@@ -241,6 +246,9 @@ function render(fm, body) {
       ],
     },
   ];
+  const sVideo = schemaVideo(fm.slug, fm.description);
+  if (sVideo) ld.push(sVideo);
+
   if (faq.length) ld.push({
     "@context": "https://schema.org", "@type": "FAQPage",
     mainEntity: faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
@@ -344,7 +352,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
     .info-box .ib-title{font-weight:700;color:#101828;margin-bottom:6px}
     .post-cta{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));border-radius:18px;padding:30px 26px;margin:34px 0;text-align:center;color:#fff}
     .post-cta h3{font-family:var(--font-display,'Cormorant Garamond');font-size:1.6rem;margin:0 0 8px;color:#fff}
-    .post-cta p{margin:0 0 16px;opacity:.95}${CSS_CTA_SP}
+    .post-cta p{margin:0 0 16px;opacity:.95}${CSS_CTA_SP}${CSS_VIDEO}
     .post-fig{margin:26px auto;text-align:center}
     .post-fig img{max-width:min(420px,100%);border-radius:18px;box-shadow:0 10px 34px rgba(16,24,40,.14)}
     .post-fig figcaption{color:#98a2b3;font-size:.82rem;margin-top:10px}
@@ -426,7 +434,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         ${journeyHtml}
         ${tocHtml}
         <div class="post-body">
-${article}
+${articleCoVideo}
         </div>
 
         ${fm.no_product ? "" : ctaSanPham(fm)}

@@ -6,7 +6,37 @@
     "moTa": "Băn khoăn về giá đứng đầu với 25% số cuộc, dưỡng Can theo Đông y 21% — đo trên 660 cuộc tư vấn thật mà khách là bên chủ động nêu vấn đề. Số liệu mở cho báo…",
     "anh": "https://i.ytimg.com/vi/sJGhH3I3ZKs/maxresdefault.jpg",
     "ngay": "2026-08-20",
-    "giay": 260
+    "giay": 260,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Khảo sát 660 cuộc tư vấn của IKI Healing"
+      },
+      {
+        "giay": 21,
+        "nhan": "Băn khoăn về giá đứng đầu, 25%"
+      },
+      {
+        "giay": 58,
+        "nhan": "16 lượt tin nhắn trước khi quyết định"
+      },
+      {
+        "giay": 75,
+        "nhan": "Dưỡng Can theo Đông y, 21%"
+      },
+      {
+        "giay": 106,
+        "nhan": "Ăn chay và tiêu hoá, mỗi nhóm 8%"
+      },
+      {
+        "giay": 155,
+        "nhan": "Cách lọc dữ liệu để tiếng nói thật"
+      },
+      {
+        "giay": 221,
+        "nhan": "Ba điều đáng nhớ từ báo cáo"
+      }
+    ]
   },
   {
     "slug": "bao-cao-cau-truc-gio-hang-2026",
@@ -15,7 +45,41 @@
     "moTa": "59% đơn hàng chỉ có một món, 16% đơn từ ba món trở lên, 6% đơn có món tặng kèm — đo trên 1.541 đơn hàng thật. Chân dung người tiêu dùng thận trọng của ngành…",
     "anh": "https://i.ytimg.com/vi/CcAibQrljuY/maxresdefault.jpg",
     "ngay": "2026-08-20",
-    "giay": 276
+    "giay": 276,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Mua một món để thử: có lạ không?"
+      },
+      {
+        "giay": 22,
+        "nhan": "1541 đơn hàng: dữ liệu thật"
+      },
+      {
+        "giay": 39,
+        "nhan": "59% đơn chỉ mua một món"
+      },
+      {
+        "giay": 57,
+        "nhan": "16 tin nhắn tư vấn, 27 ngày giữa hai"
+      },
+      {
+        "giay": 96,
+        "nhan": "Hai nhóm khách cần cách phục vụ khác"
+      },
+      {
+        "giay": 121,
+        "nhan": "6% đơn có quà tặng kèm"
+      },
+      {
+        "giay": 155,
+        "nhan": "Giới hạn của số liệu và tỷ lệ quay lại"
+      },
+      {
+        "giay": 207,
+        "nhan": "Ba điều đáng nhớ từ báo cáo"
+      }
+    ]
   },
   {
     "slug": "bao-cao-cham-soc-suc-khoe-chu-dong-2026",
@@ -24,7 +88,37 @@
     "moTa": "Báo cáo dữ liệu độc quyền từ 1.540 đơn hàng, 1.064 khách hàng và cộng đồng 200.000+ thành viên IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ…",
     "anh": "https://i.ytimg.com/vi/x2f2qf4awLs/maxresdefault.jpg",
     "ngay": "2026-08-20",
-    "giay": 273
+    "giay": 273,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Câu hỏi về thói quen chăm sóc sức khoẻ"
+      },
+      {
+        "giay": 22,
+        "nhan": "Nguồn dữ liệu 5 tháng thực tế"
+      },
+      {
+        "giay": 60,
+        "nhan": "Đạm thực vật chiếm 63,7% giỏ hàng"
+      },
+      {
+        "giay": 90,
+        "nhan": "Tỉ lệ khách quay lại mua tiếp"
+      },
+      {
+        "giay": 128,
+        "nhan": "64% đơn hàng đến từ ngoài Hà Nội, TP.HCM"
+      },
+      {
+        "giay": 165,
+        "nhan": "Niềm tin: thanh toán khi nhận hàng, tư"
+      },
+      {
+        "giay": 213,
+        "nhan": "Giới hạn dữ liệu và nguồn báo cáo đầy đủ"
+      }
+    ]
   },
   {
     "slug": "bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026",
@@ -33,7 +127,37 @@
     "moTa": "Phân tích 1.348 đơn hàng COD thực tế của IKI Healing: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền (~1,1 triệu đồng/đơn), và các tỉnh như Lâm Đồng,…",
     "anh": "https://i.ytimg.com/vi/_AowRuo5tKk/maxresdefault.jpg",
     "ngay": "2026-08-20",
-    "giay": 203
+    "giay": 0,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Dữ liệu 1.348 đơn hàng thanh toán khi"
+      },
+      {
+        "giay": 26,
+        "nhan": "Mức chi bình quân theo ba miền"
+      },
+      {
+        "giay": 51,
+        "nhan": "Ý nghĩa mức chi không phân biệt vùng"
+      },
+      {
+        "giay": 83,
+        "nhan": "Giá trị đơn hàng phổ biến giống nhau"
+      },
+      {
+        "giay": 96,
+        "nhan": "Thái Bình đứng đầu bảng xếp hạng tỉnh"
+      },
+      {
+        "giay": 152,
+        "nhan": "Lâm Đồng chi tiêu đều và đậm tay"
+      },
+      {
+        "giay": 173,
+        "nhan": "Ý nghĩa dữ liệu và lưu ý về báo cáo"
+      }
+    ]
   },
   {
     "slug": "bao-cao-hanh-trinh-hoi-dap-2026",
@@ -42,7 +166,37 @@
     "moTa": "Trung vị 16 lượt tin nhắn cho một quyết định mua, 10% cuộc vượt 36 lượt — đo trên 2.789 cuộc tư vấn thật của IKI Healing. Số liệu mở cho báo chí trích dẫn.",
     "anh": "https://i.ytimg.com/vi/KzGAjaC4YEA/maxresdefault.jpg",
     "ngay": "2026-08-20",
-    "giay": 270
+    "giay": 0,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vì sao mua sản phẩm sức khoẻ cần nhắn"
+      },
+      {
+        "giay": 30,
+        "nhan": "16 lượt tin nhắn cho mỗi quyết định mua"
+      },
+      {
+        "giay": 66,
+        "nhan": "10% hội thoại vượt 36 lượt tin nhắn"
+      },
+      {
+        "giay": 105,
+        "nhan": "80-85% doanh thu qua kênh nhắn tin"
+      },
+      {
+        "giay": 152,
+        "nhan": "29% khách mua lại, chu kỳ 27 ngày"
+      },
+      {
+        "giay": 183,
+        "nhan": "Ba điều rút ra từ dữ liệu"
+      },
+      {
+        "giay": 240,
+        "nhan": "Giới thiệu báo cáo đầy đủ trên blog"
+      }
+    ]
   },
   {
     "slug": "bao-cao-nhip-mua-theo-thang-2026",
@@ -51,6 +205,40 @@
     "moTa": "Chỉ số nhịp theo tháng: tháng 04 là mốc 100, tháng 05 đạt 99, tháng 06 rơi xuống 56, tháng 07 hồi lên 74 — đo trên 1.804 đơn hàng thật. Số liệu mở cho báo chí…",
     "anh": "https://i.ytimg.com/vi/d5AkvVTPelo/maxresdefault.jpg",
     "ngay": "2026-08-20",
-    "giay": 281
+    "giay": 0,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Đặt vấn đề: chăm sóc bản thân có đều"
+      },
+      {
+        "giay": 15,
+        "nhan": "Cách đo: 1804 đơn hàng, 4 tháng khảo sát"
+      },
+      {
+        "giay": 41,
+        "nhan": "Tháng 4 và tháng 5 gần như bằng nhau"
+      },
+      {
+        "giay": 62,
+        "nhan": "Tháng 6 giảm mạnh xuống còn 56 điểm"
+      },
+      {
+        "giay": 108,
+        "nhan": "Tháng 7 hồi phục lên 74 nhưng chưa trọn"
+      },
+      {
+        "giay": 158,
+        "nhan": "Vì sao đo theo tháng thay vì theo ngày"
+      },
+      {
+        "giay": 208,
+        "nhan": "Giới hạn của số liệu và điều chưa thể"
+      },
+      {
+        "giay": 251,
+        "nhan": "Tổng kết và nơi xem báo cáo đầy đủ"
+      }
+    ]
   }
 ]
