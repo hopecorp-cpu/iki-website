@@ -1,0 +1,42 @@
+#!/bin/sh
+# CHỐT CHẶN TRẬN LỤT BÀI — cắm 20/08/2026 sau khi truy ra nguyên nhân chỉ 74/476 trang được
+# Google lập chỉ mục.
+#
+# Chuyện đã xảy ra: 14/08 lúc 20:30 một commit gắn nhãn "Blog: 4 bai" nhưng THẬT RA thêm 305 bài
+# cùng lúc — máy tự động chạy `git add -A` nên nuốt luôn mấy trăm bài nằm sẵn trên đĩa chưa vào
+# git. Một tên miền trẻ mọc 300 địa chỉ trong một ngày là đúng công thức sinh ra "Đã phát hiện —
+# hiện chưa được lập chỉ mục", và sáu ngày sau vẫn không ai nhìn ra vì NHÃN COMMIT NÓI 4.
+#
+# Luật rút ra: chữ dặn "đừng git add -A" không chặn được lệnh git add -A. Phải chặn bằng code.
+# Hook này KHÔNG cấm đăng nhiều bài — nó bắt việc đó phải là một quyết định CÓ Ý THỨC.
+#
+# Bật trên máy mới (hooksPath là cấu hình CỤC BỘ, clone mới là mất):
+#   git config core.hooksPath .githooks
+# Cố tình đẩy nhiều: IKI_CHO_QUA=1 git commit ...   (gõ dài để không thành thói quen)
+
+TRAN=5
+MOI=$(git diff --cached --name-only --diff-filter=A | grep -cE '^(blog|en/blog|ja/blog)/.*\.html$')
+
+if [ "$MOI" -gt "$TRAN" ] && [ -z "$IKI_CHO_QUA" ]; then
+  echo "-----------------------------------------------------------------------"
+  echo "CHẶN: commit này thêm $MOI bài mới (trần $TRAN)."
+  echo ""
+  echo "Google hiện chỉ lập chỉ mục 74/476 trang của ikihealing.com, và 327 trang"
+  echo "đang ở trạng thái 'đã phát hiện — chưa lập chỉ mục'. Đẩy một lô lớn lên"
+  echo "cùng lúc làm tình trạng đó tệ thêm, không giúp được gì."
+  echo ""
+  echo "Bài mới đang chờ commit:"
+  git diff --cached --name-only --diff-filter=A | grep -E '^(blog|en/blog|ja/blog)/.*\.html$' | head -8 | sed 's/^/  /'
+  [ "$MOI" -gt 8 ] && echo "  ... và $((MOI - 8)) bài nữa"
+  echo ""
+  echo "Nếu đây là máy tự động: gần như chắc chắn bạn vừa chạy 'git add -A' và nó"
+  echo "nuốt cả những bài cũ chưa vào git. Hãy stage ĐÍCH DANH file vừa tạo."
+  echo "Nếu thật sự cố ý:  IKI_CHO_QUA=1 git commit ..."
+  echo "-----------------------------------------------------------------------"
+  exit 1
+fi
+
+# Nhãn commit phải nói ĐÚNG số bài. Không kiểm được nội dung nhãn ở đây (hook chạy trước khi có
+# message), nên chỉ in ra để người/máy đối chiếu — và để lượt sau đọc log thấy con số thật.
+[ "$MOI" -gt 0 ] && echo "pre-commit: commit này thêm $MOI bài mới."
+exit 0
