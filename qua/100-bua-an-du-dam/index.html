@@ -55,6 +55,8 @@
     <input id="ten" name="ten" type="text" autocomplete="name" placeholder="Ví dụ: Lan Anh" required>
     <label for="sdt">Số điện thoại (có Zalo càng tốt)</label>
     <input id="sdt" name="sdt" type="tel" autocomplete="tel" inputmode="numeric" placeholder="09xx xxx xxx" required>
+    <label for="email">Email (IKI gửi kèm bản PDF vào hộp thư cho bạn)</label>
+    <input id="email" name="email" type="email" autocomplete="email" placeholder="ban@vidu.com">
     <input class="an" type="text" name="_honey" tabindex="-1" autocomplete="off">
     <button id="nut" type="submit">Nhận ebook miễn phí</button>
     <p class="loi" id="loi"></p>
@@ -84,11 +86,13 @@
     if (sdt.indexOf("+84") === 0) sdt = "0" + sdt.slice(3);
     if (ten.length < 2) return baoLoi("Cho IKI xin tên của bạn nhé.");
     if (!/^0(3|5|7|8|9)\d{8}$/.test(sdt)) return baoLoi("Số điện thoại chưa đúng — nhập số di động Việt Nam 10 chữ số.");
+    var email = document.getElementById("email").value.trim();
+    if (email && !/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) return baoLoi("Email chưa đúng định dạng — bạn xem lại giúp IKI nhé (hoặc để trống).");
     nut.disabled = true; nut.textContent = "Đang gửi...";
     fetch(API, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ten: ten, sdt: sdt, source: nguon, _honey: form._honey.value })
+      body: JSON.stringify({ ten: ten, sdt: sdt, email: email, source: nguon, _honey: form._honey.value })
     }).then(function (r) { return r.json(); }).then(function (d) {
       if (d && d.ok && d.link) {
         document.getElementById("tai").href = d.link;
