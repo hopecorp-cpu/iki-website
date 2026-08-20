@@ -498,7 +498,7 @@ function updateSitemap(plan) {
   const sp = path.join(ROOT, "sitemap.xml");
   if (!fs.existsSync(sp)) return;
   let xml = fs.readFileSync(sp, "utf8");
-  const today = "2026-07-21";
+  const today = new Date(Date.now() + 7 * 3600 * 1000).toISOString().slice(0, 10); // hom nay theo gio VN
   // ĐIỀU 9 của bộ quy tắc video: bài nào có video thì khai thẻ <video:video> ngay trong <url> của
   // nó. Đây là đường Google dò ra video trên trang mình nhanh nhất; thiếu thì phải chờ nó tự đọc
   // schema trong HTML. Chỉ mục đọc từ video-index.json do nhung-video-blog.mjs ghi — CỐ Ý không
