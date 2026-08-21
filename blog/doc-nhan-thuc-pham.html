@@ -449,13 +449,30 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <button type="submit" class="ie-btn">Gửi cẩm nang cho tôi &rarr;</button>
     </form>
     <p class="ie-ok" role="status" hidden>&#10003; Đã gửi! Kiểm tra email trong 1&ndash;3 phút (nhớ xem cả mục Quảng cáo / Spam).</p>
+    <a class="ie-sp-sau" href="../shop/?sp=true-vegan-protein" hidden>
+      <span class="ie-sp-ten">True Vegan Protein Pro</span>
+      <span class="ie-sp-loai">Bột đạm thực vật · hộp 500g</span>
+      <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
+    </a>
     <p class="ie-err" role="alert" hidden>Gửi chưa được &mdash; thử lại giúp mình nhé.</p>
     <button class="ie-no" type="button">Không, cảm ơn</button>
+    <div class="ie-sp">
+      <span class="ie-sp-hay">hoặc</span>
+      <a class="ie-sp-lien" href="../shop/?sp=true-vegan-protein">
+        <span class="ie-sp-ten">True Vegan Protein Pro</span>
+        <span class="ie-sp-loai">Bột đạm thực vật · hộp 500g</span>
+        <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
+      </a>
+    </div>
     <p class="ie-note">Không spam &middot; Huỷ nhận bất cứ lúc nào. Bằng việc để lại email, bạn đồng ý nhận nội dung chăm sóc sức khoẻ từ IKI.</p>
   </div>
 </div>
 <style>
 #ikiExit[hidden]{display:none!important}
+/* Thuộc tính hidden bị các luật display bên dưới đè (vd .ie-form{display:flex}) nên phải ép một
+   luật chung: thiếu nó thì màn ĐÃ GỬI vẫn hiện ô email và nút 'Đang gửi...' — lỗi có sẵn, trước
+   đây pop-up tự đóng sau 3,4 giây nên không ai kịp thấy. */
+#ikiExit [hidden]{display:none!important}
 #ikiExit{position:fixed;inset:0;z-index:2147483000;display:flex;align-items:center;justify-content:center;padding:18px;background:rgba(18,38,31,.55);opacity:0;transition:opacity .25s ease}
 #ikiExit.ie-show{opacity:1}
 #ikiExit .ie-card{position:relative;background:#fff;width:100%;max-width:430px;border-radius:22px;padding:34px 26px 22px;text-align:center;box-shadow:0 24px 70px rgba(16,24,40,.28);transform:translateY(14px) scale(.98);transition:transform .28s cubic-bezier(.2,.8,.25,1);font-family:var(--font-sans,'Manrope',system-ui,sans-serif)}
@@ -478,6 +495,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}
 #ikiExit .ie-note{color:#98a2b3;font-size:.74rem;margin:12px auto 0;max-width:340px;line-height:1.4}
+#ikiExit .ie-sp{margin-top:14px;padding-top:14px;border-top:1px solid #eef0f3}
+#ikiExit .ie-sp-hay{display:block;color:#98a2b3;font-size:.76rem;margin-bottom:8px}
+#ikiExit .ie-sp-lien,#ikiExit .ie-sp-sau{display:block;text-decoration:none;border:1px solid #e6e6da;border-radius:14px;padding:11px 14px;background:#fafbfa;transition:border-color .18s ease,background .18s ease}
+#ikiExit .ie-sp-lien:hover,#ikiExit .ie-sp-sau:hover{border-color:#A8D254;background:#f5faee}
+#ikiExit .ie-sp-sau{margin-top:12px}
+#ikiExit .ie-sp-ten{display:block;color:#12261f;font-weight:700;font-size:.95rem}
+#ikiExit .ie-sp-loai{display:block;color:#667085;font-size:.78rem;margin-top:2px}
+#ikiExit .ie-sp-xem{display:block;color:#2E6B2D;font-weight:700;font-size:.82rem;margin-top:6px}
 @media (prefers-reduced-motion: reduce){#ikiExit,#ikiExit .ie-card{transition:none}}
 </style>
 <script>
@@ -521,7 +546,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       .then(function(r){ return r.ok?r.json().catch(function(){return {ok:true};}):Promise.reject(r.status); })
       .then(function(j){ if(j&&j.ok===false) throw 0;
         done=true; try{localStorage.setItem('iki_lead_ok','1');}catch(e){}
-        el.querySelector('.ie-form').hidden=true; el.querySelector('.ie-note').hidden=true; ok.hidden=false; setTimeout(close,3400); })
+        el.querySelector('.ie-form').hidden=true; el.querySelector('.ie-note').hidden=true;
+        var spSau=el.querySelector('.ie-sp-sau'), spTruoc=el.querySelector('.ie-sp');
+        if(spTruoc) spTruoc.hidden=true;
+        ok.hidden=false;
+        // Vừa nhận quà là lúc thiện cảm cao nhất — mới mời xem sản phẩm, và nới giờ tự đóng
+        // từ 3,4 lên 9 giây để người ta kịp đọc. Trước đây màn này bỏ trống rồi đóng ngay.
+        if(spSau){ spSau.hidden=false; setTimeout(close,9000); } else setTimeout(close,3400); })
       .catch(function(){ btn.disabled=false; btn.textContent='Gửi cẩm nang cho tôi →'; err.textContent='Gửi chưa được — thử lại giúp mình nhé.'; err.hidden=false; });
   });
 })();

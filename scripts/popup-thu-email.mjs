@@ -14,7 +14,18 @@
  */
 
 // Popup thoát-trang thu email (exit-intent) → /api/blog-lead → chuỗi nuôi 30 ngày. Hiện 1 lần/khách; ẩn nếu đã đăng ký.
-export const EXIT_POPUP = `<div id="ikiExit" role="dialog" aria-modal="true" aria-label="Nhận cẩm nang chăm sóc sức khoẻ miễn phí" hidden>
+/**
+ * Ba sản phẩm chủ lực, bản RÚT GỌN cho pop-up: chỉ tên + quy cách + slug.
+ * CỐ Ý KHÔNG có giá — pop-up nằm trong 392 trang tĩnh, in giá vào là ngày đổi giá phải dựng lại
+ * cả 392 bài, mà quên một lượt là web nói sai giá. Giá sống ở trang sản phẩm, chỗ link trỏ tới.
+ */
+export const SP_POPUP = {
+  "true-vegan-protein": { ten: "True Vegan Protein Pro", loai: "Bột đạm thực vật · hộp 500g" },
+  "tra-tue-minh": { ten: "Trà Tuệ Minh", loai: "Trà thảo mộc túi lọc · hộp 30 gói" },
+  "tra-thanh-huong": { ten: "Trà Thanh Hương", loai: "Trà thảo mộc không caffeine · túi lọc" },
+};
+
+export const EXIT_POPUP_MAU = `<div id="ikiExit" role="dialog" aria-modal="true" aria-label="Nhận cẩm nang chăm sóc sức khoẻ miễn phí" hidden>
   <div class="ie-card">
     <button class="ie-x" type="button" aria-label="Đóng">&times;</button>
     <svg class="ie-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="18" height="4" rx="1"></rect><path d="M12 8v13M5 12v9h14v-9"></path><path d="M12 8S10.5 3.5 8 4.5 9 8 12 8zM12 8s1.5-4.5 4-3.5S15 8 12 8z"></path></svg>
@@ -27,13 +38,30 @@ export const EXIT_POPUP = `<div id="ikiExit" role="dialog" aria-modal="true" ari
       <button type="submit" class="ie-btn">Gửi cẩm nang cho tôi &rarr;</button>
     </form>
     <p class="ie-ok" role="status" hidden>&#10003; Đã gửi! Kiểm tra email trong 1&ndash;3 phút (nhớ xem cả mục Quảng cáo / Spam).</p>
+    <a class="ie-sp-sau" href="{{SP_LINK}}" hidden>
+      <span class="ie-sp-ten">{{SP_TEN}}</span>
+      <span class="ie-sp-loai">{{SP_LOAI}}</span>
+      <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
+    </a>
     <p class="ie-err" role="alert" hidden>Gửi chưa được &mdash; thử lại giúp mình nhé.</p>
     <button class="ie-no" type="button">Không, cảm ơn</button>
+    <div class="ie-sp">
+      <span class="ie-sp-hay">hoặc</span>
+      <a class="ie-sp-lien" href="{{SP_LINK}}">
+        <span class="ie-sp-ten">{{SP_TEN}}</span>
+        <span class="ie-sp-loai">{{SP_LOAI}}</span>
+        <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
+      </a>
+    </div>
     <p class="ie-note">Không spam &middot; Huỷ nhận bất cứ lúc nào. Bằng việc để lại email, bạn đồng ý nhận nội dung chăm sóc sức khoẻ từ IKI.</p>
   </div>
 </div>
 <style>
 #ikiExit[hidden]{display:none!important}
+/* Thuộc tính hidden bị các luật display bên dưới đè (vd .ie-form{display:flex}) nên phải ép một
+   luật chung: thiếu nó thì màn ĐÃ GỬI vẫn hiện ô email và nút 'Đang gửi...' — lỗi có sẵn, trước
+   đây pop-up tự đóng sau 3,4 giây nên không ai kịp thấy. */
+#ikiExit [hidden]{display:none!important}
 #ikiExit{position:fixed;inset:0;z-index:2147483000;display:flex;align-items:center;justify-content:center;padding:18px;background:rgba(18,38,31,.55);opacity:0;transition:opacity .25s ease}
 #ikiExit.ie-show{opacity:1}
 #ikiExit .ie-card{position:relative;background:#fff;width:100%;max-width:430px;border-radius:22px;padding:34px 26px 22px;text-align:center;box-shadow:0 24px 70px rgba(16,24,40,.28);transform:translateY(14px) scale(.98);transition:transform .28s cubic-bezier(.2,.8,.25,1);font-family:var(--font-sans,'Manrope',system-ui,sans-serif)}
@@ -56,6 +84,14 @@ export const EXIT_POPUP = `<div id="ikiExit" role="dialog" aria-modal="true" ari
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}
 #ikiExit .ie-note{color:#98a2b3;font-size:.74rem;margin:12px auto 0;max-width:340px;line-height:1.4}
+#ikiExit .ie-sp{margin-top:14px;padding-top:14px;border-top:1px solid #eef0f3}
+#ikiExit .ie-sp-hay{display:block;color:#98a2b3;font-size:.76rem;margin-bottom:8px}
+#ikiExit .ie-sp-lien,#ikiExit .ie-sp-sau{display:block;text-decoration:none;border:1px solid #e6e6da;border-radius:14px;padding:11px 14px;background:#fafbfa;transition:border-color .18s ease,background .18s ease}
+#ikiExit .ie-sp-lien:hover,#ikiExit .ie-sp-sau:hover{border-color:#A8D254;background:#f5faee}
+#ikiExit .ie-sp-sau{margin-top:12px}
+#ikiExit .ie-sp-ten{display:block;color:#12261f;font-weight:700;font-size:.95rem}
+#ikiExit .ie-sp-loai{display:block;color:#667085;font-size:.78rem;margin-top:2px}
+#ikiExit .ie-sp-xem{display:block;color:#2E6B2D;font-weight:700;font-size:.82rem;margin-top:6px}
 @media (prefers-reduced-motion: reduce){#ikiExit,#ikiExit .ie-card{transition:none}}
 </style>
 <script>
@@ -99,7 +135,13 @@ export const EXIT_POPUP = `<div id="ikiExit" role="dialog" aria-modal="true" ari
       .then(function(r){ return r.ok?r.json().catch(function(){return {ok:true};}):Promise.reject(r.status); })
       .then(function(j){ if(j&&j.ok===false) throw 0;
         done=true; try{localStorage.setItem('iki_lead_ok','1');}catch(e){}
-        el.querySelector('.ie-form').hidden=true; el.querySelector('.ie-note').hidden=true; ok.hidden=false; setTimeout(close,3400); })
+        el.querySelector('.ie-form').hidden=true; el.querySelector('.ie-note').hidden=true;
+        var spSau=el.querySelector('.ie-sp-sau'), spTruoc=el.querySelector('.ie-sp');
+        if(spTruoc) spTruoc.hidden=true;
+        ok.hidden=false;
+        // Vừa nhận quà là lúc thiện cảm cao nhất — mới mời xem sản phẩm, và nới giờ tự đóng
+        // từ 3,4 lên 9 giây để người ta kịp đọc. Trước đây màn này bỏ trống rồi đóng ngay.
+        if(spSau){ spSau.hidden=false; setTimeout(close,9000); } else setTimeout(close,3400); })
       .catch(function(){ btn.disabled=false; btn.textContent='Gửi cẩm nang cho tôi →'; err.textContent='Gửi chưa được — thử lại giúp mình nhé.'; err.hidden=false; });
   });
 })();
@@ -121,15 +163,30 @@ function vungPopup(html) {
  * sự tồn tại của id — chỉ kiểm id là bài mang bản cũ nằm lại mãi (đo 21/08: 392 bài đang giữ
  * BA phiên bản khác nhau, và bản nào cũng khoá cờ vĩnh viễn).
  */
-export function chenPopup(html) {
+export function chenPopup(html, sp) {
   if (!html) return html;
   const v = vungPopup(html);
   if (v) {
     const dangCo = html.slice(v[0], v[1]);
-    if (dangCo === EXIT_POPUP) return html;
-    return html.slice(0, v[0]) + EXIT_POPUP + html.slice(v[1]);
+    const moi = taoPopup(sp);
+    if (dangCo === moi) return html;
+    return html.slice(0, v[0]) + moi + html.slice(v[1]);
   }
   const i = html.lastIndexOf("</body>");
   if (i < 0) return html;
-  return html.slice(0, i) + EXIT_POPUP + "\n" + html.slice(i);
+  return html.slice(0, i) + taoPopup(sp) + "\n" + html.slice(i);
+}
+
+/**
+ * Dựng pop-up cho MỘT bài, gắn đúng sản phẩm mà bài đó đã chọn.
+ * Dùng chung sản phẩm với khối CTA cuối bài — một trang chỉ kể một câu chuyện; pop-up mời món A
+ * mà cuối bài mời món B là tự bẻ mạch người đọc.
+ */
+export function taoPopup(spSlug, goc = "../") {
+  const sp = SP_POPUP[spSlug] || SP_POPUP["true-vegan-protein"];
+  const slug = SP_POPUP[spSlug] ? spSlug : "true-vegan-protein";
+  return EXIT_POPUP_MAU
+    .replace(/\{\{SP_LINK\}\}/g, `${goc}shop/?sp=${slug}`)
+    .replace(/\{\{SP_TEN\}\}/g, sp.ten)
+    .replace(/\{\{SP_LOAI\}\}/g, sp.loai);
 }

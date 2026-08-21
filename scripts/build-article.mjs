@@ -14,11 +14,11 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { buildStructure, emailCta } from "./build-structure.mjs";
-import { ctaSanPham, CSS_CTA_SP } from "./cta-san-pham.mjs";
+import { ctaSanPham, CSS_CTA_SP, chonSanPham } from "./cta-san-pham.mjs";
 import { chenVideo, schemaVideo, CSS_VIDEO } from "./video-bai.mjs";
 import { khoiCauNoi, CSS_CAU_NOI } from "./cau-noi-chi-muc.mjs";
 
-import { EXIT_POPUP } from "./popup-thu-email.mjs";
+import { taoPopup } from "./popup-thu-email.mjs";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const SITE = "https://ikihealing.com";
@@ -431,7 +431,7 @@ ${articleCoVideo}
     </div>
   </footer>
 ${BEACON}
-${EXIT_POPUP}
+${taoPopup(chonSanPham(fm)?.slug)}
 <!-- Zalo OA chat widget -->
 <style>
   .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
