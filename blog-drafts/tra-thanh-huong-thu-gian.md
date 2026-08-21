@@ -123,7 +123,7 @@ Nếu bạn là người yêu hương thơm và muốn một tách trà êm ái 
 
 Về nguyên liệu, Trà Thanh Hương phối từ bốn vị quen thuộc trong nếp uống phương Đông: hoa nhài, phục linh, hoa quế và trần bì. Điểm nhấn hương thơm nằm ở hoa quế và hoa nhài — hai loại hoa có hương tự nhiên thanh và dịu, vốn được người xưa yêu thích để hãm trà; phục linh và trần bì góp phần làm tròn vị. Thành phần được ghi rõ ràng như vậy cũng đáp ứng tiêu chí minh bạch nguyên liệu đã nói ở trên. Với người đặt nặng tiêu chí hương vị êm dịu cho buổi tối, đây là một lợi thế rõ.
 
-Về cách dùng, đây là một thức uống thảo mộc ấm, hướng tới nếp uống ấm thơm dịu, phù hợp cho khoảnh khắc thư giãn cuối ngày. Bạn có thể pha một tách nhạt, ngồi xuống và uống từ tốn như một nghi thức nhỏ để khép lại ngày dài. Là trà thảo mộc, phần lớn không hoặc rất ít caffeine, nên hợp cho buổi tối hơn các loại trà chứa caffeine.
+Về cách dùng, đây là một thức uống thảo mộc ấm, hướng tới nếp uống ấm thơm dịu, phù hợp cho khoảnh khắc thư giãn cuối ngày. Bạn có thể pha một tách nhạt, ngồi xuống và uống từ tốn như một nghi thức nhỏ để khép lại ngày dài. Pha nhạt, hương hoa nhẹ, nên hợp với nhịp chậm của buổi tối hơn một tách trà đậm.
 
 Cần nói rõ để tránh hiểu lầm: Trà Thanh Hương là một thức uống thảo mộc, phù hợp làm một phần của nghi thức thư giãn tinh thần và nếp sinh hoạt lành mạnh. Đây không phải là sản phẩm dùng để phòng hay thay đổi bất kỳ tình trạng bệnh lý nào, và không thay thế cho việc chăm sóc giấc ngủ toàn diện. Nếu bạn quan tâm tới hương vị và cách pha, có thể tìm hiểu thêm tại trang [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) rồi tự cân nhắc xem nó có hợp với mình không.
 
@@ -155,7 +155,7 @@ Trước khi chọn một loại trà cho nghi thức buổi tối, nhiều ngư
 
 ## Kết
 
-Một thức uống thảo mộc ấm, thơm dịu vào buổi tối có thể trở thành một nghi thức thư giãn nhỏ mà đáng quý, giúp bạn khép lại ngày dài một cách nhẹ nhàng. Bí quyết nằm ở việc chọn đúng loại hợp với mình: ít caffeine, hương vị êm dịu, nguyên liệu rõ ràng, và quan trọng nhất là được đặt trong một khoảnh khắc bạn thật sự cho phép mình chậm lại.
+Một thức uống thảo mộc ấm, thơm dịu vào buổi tối có thể trở thành một nghi thức thư giãn nhỏ mà đáng quý, giúp bạn khép lại ngày dài một cách nhẹ nhàng. Bí quyết nằm ở việc chọn đúng loại hợp với mình: nhẹ, hương vị êm dịu, nguyên liệu rõ ràng, và quan trọng nhất là được đặt trong một khoảnh khắc bạn thật sự cho phép mình chậm lại.
 
 Nếu bạn yêu hương thơm và muốn thử một tách trà êm ái cho buổi tối, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) với hương hoa quế là một gợi ý đáng cân nhắc. Nhưng dù chọn loại nào, hãy nhớ rằng giá trị lớn nhất không nằm ở tách trà, mà ở chính quãng nghỉ mà bạn dành cho mình mỗi tối. Đó là một cách giản dị và tử tế để chăm sóc tinh thần của chính mình.
 
