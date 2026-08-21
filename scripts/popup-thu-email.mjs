@@ -60,11 +60,17 @@ export const EXIT_POPUP = `<div id="ikiExit" role="dialog" aria-modal="true" ari
 </style>
 <script>
 (function(){
-  try{ if(localStorage.getItem('iki_exit_v1')||localStorage.getItem('iki_lead_ok')) return; }catch(e){}
+  // Đã ĐỂ EMAIL rồi thì không bao giờ hiện lại. Đã đóng mà chưa để email thì nghỉ 7 ngày —
+  // bản cũ ghi cờ '1' và khoá VĨNH VIỄN, ai lỡ thấy một lần là cả đời không thấy lại (đo 21/08
+  // trên máy CEO: cờ đang là '1' nên mọi bài đều im). Cờ cũ dạng '1' coi như đã hết hạn.
+  try{ if(localStorage.getItem('iki_lead_ok')) return;
+       var daXem=localStorage.getItem('iki_exit_v1')||'';
+       var moc=/^\\d{10,}$/.test(daXem)?parseInt(daXem,10):0;
+       if(moc && Date.now()-moc < 7*864e5) return; }catch(e){}
   var ENDPOINT='https://hope-ops-hub.vercel.app/api/blog-lead';
   var el=document.getElementById('ikiExit'); if(!el) return;
   var shown=false, done=false;
-  function open(){ if(shown) return; shown=true; try{localStorage.setItem('iki_exit_v1','1');}catch(e){}
+  function open(){ if(shown) return; shown=true; try{localStorage.setItem('iki_exit_v1',String(Date.now()));}catch(e){}
     el.hidden=false; requestAnimationFrame(function(){el.classList.add('ie-show');});
     var i=el.querySelector('.ie-email'); if(i) setTimeout(function(){try{i.focus();}catch(e){}},60); }
   function close(){ el.classList.remove('ie-show'); setTimeout(function(){el.hidden=true;},260); }
@@ -72,11 +78,16 @@ export const EXIT_POPUP = `<div id="ikiExit" role="dialog" aria-modal="true" ari
   el.querySelector('.ie-no').addEventListener('click',close);
   el.addEventListener('click',function(e){ if(e.target===el) close(); });
   document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!el.hidden) close(); });
+  // BA CỬA MỞ, ai tới trước mở trước. Bản cũ đòi cuộn quá 50% VÀ đủ 25 giây CÙNG LÚC — trên bài
+  // dài 11.000px thì gần như không ai chạm tới, người đọc trôi mất mà chưa thấy gì.
+  //   1. chuột rời mép trên (định thoát)  2. đọc tới 60% bài  3. ở lại 40 giây VÀ đã cuộn 20%
+  // Điều kiện cuộn 20% ở cửa 3 là CỐ Ý: người mở tab rồi bỏ đó không đáng để đốt lượt hiện duy nhất.
+  function tyLe(){ var h=document.documentElement; return h.scrollTop/((h.scrollHeight-h.clientHeight)||1); }
   document.addEventListener('mouseout',function(e){ if(!e.relatedTarget && e.clientY<=0) open(); });
-  var deep=false, timeUp=false;
-  setTimeout(function(){ timeUp=true; if(deep) open(); }, 25000);
-  window.addEventListener('scroll',function(){ var h=document.documentElement;
-    var sc=h.scrollTop/((h.scrollHeight-h.clientHeight)||1); if(sc>0.5){ deep=true; if(timeUp) open(); } },{passive:true});
+  var duGio=false;
+  setTimeout(function(){ duGio=true; if(tyLe()>=0.2) open(); }, 40000);
+  window.addEventListener('scroll',function(){ var r=tyLe();
+    if(r>=0.6) open(); else if(duGio && r>=0.2) open(); },{passive:true});
   el.querySelector('.ie-form').addEventListener('submit',function(ev){ ev.preventDefault(); if(done) return;
     var email=(el.querySelector('.ie-email').value||'').trim();
     var honey=(el.querySelector('.ie-honey').value||'').trim();
@@ -94,9 +105,30 @@ export const EXIT_POPUP = `<div id="ikiExit" role="dialog" aria-modal="true" ari
 })();
 </script>`;
 
-/** Chèn pop-up vào một trang blog nếu chưa có. Idempotent — nhận diện bằng id ikiExit. */
+/** Ranh giới khối pop-up trong một trang đã dựng: từ thẻ mở tới hết thẻ script của nó. */
+function vungPopup(html) {
+  const d = html.indexOf('<div id="ikiExit"');
+  if (d < 0) return null;
+  const s = html.indexOf("<script>", d);
+  if (s < 0) return null;
+  const e = html.indexOf("</script>", s);
+  if (e < 0) return null;
+  return [d, e + "</script>".length];
+}
+
+/**
+ * Chèn pop-up nếu chưa có, THAY nếu đã có bản cũ. Idempotent theo NỘI DUNG chứ không theo
+ * sự tồn tại của id — chỉ kiểm id là bài mang bản cũ nằm lại mãi (đo 21/08: 392 bài đang giữ
+ * BA phiên bản khác nhau, và bản nào cũng khoá cờ vĩnh viễn).
+ */
 export function chenPopup(html) {
-  if (!html || html.includes('id="ikiExit"')) return html;
+  if (!html) return html;
+  const v = vungPopup(html);
+  if (v) {
+    const dangCo = html.slice(v[0], v[1]);
+    if (dangCo === EXIT_POPUP) return html;
+    return html.slice(0, v[0]) + EXIT_POPUP + html.slice(v[1]);
+  }
   const i = html.lastIndexOf("</body>");
   if (i < 0) return html;
   return html.slice(0, i) + EXIT_POPUP + "\n" + html.slice(i);

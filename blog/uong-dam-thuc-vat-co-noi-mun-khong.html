@@ -531,11 +531,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 </style>
 <script>
 (function(){
-  try{ if(localStorage.getItem('iki_exit_v1')||localStorage.getItem('iki_lead_ok')) return; }catch(e){}
+  // Đã ĐỂ EMAIL rồi thì không bao giờ hiện lại. Đã đóng mà chưa để email thì nghỉ 7 ngày —
+  // bản cũ ghi cờ '1' và khoá VĨNH VIỄN, ai lỡ thấy một lần là cả đời không thấy lại (đo 21/08
+  // trên máy CEO: cờ đang là '1' nên mọi bài đều im). Cờ cũ dạng '1' coi như đã hết hạn.
+  try{ if(localStorage.getItem('iki_lead_ok')) return;
+       var daXem=localStorage.getItem('iki_exit_v1')||'';
+       var moc=/^\d{10,}$/.test(daXem)?parseInt(daXem,10):0;
+       if(moc && Date.now()-moc < 7*864e5) return; }catch(e){}
   var ENDPOINT='https://hope-ops-hub.vercel.app/api/blog-lead';
   var el=document.getElementById('ikiExit'); if(!el) return;
   var shown=false, done=false;
-  function open(){ if(shown) return; shown=true; try{localStorage.setItem('iki_exit_v1','1');}catch(e){}
+  function open(){ if(shown) return; shown=true; try{localStorage.setItem('iki_exit_v1',String(Date.now()));}catch(e){}
     el.hidden=false; requestAnimationFrame(function(){el.classList.add('ie-show');});
     var i=el.querySelector('.ie-email'); if(i) setTimeout(function(){try{i.focus();}catch(e){}},60); }
   function close(){ el.classList.remove('ie-show'); setTimeout(function(){el.hidden=true;},260); }
@@ -543,18 +549,23 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   el.querySelector('.ie-no').addEventListener('click',close);
   el.addEventListener('click',function(e){ if(e.target===el) close(); });
   document.addEventListener('keydown',function(e){ if(e.key==='Escape'&&!el.hidden) close(); });
+  // BA CỬA MỞ, ai tới trước mở trước. Bản cũ đòi cuộn quá 50% VÀ đủ 25 giây CÙNG LÚC — trên bài
+  // dài 11.000px thì gần như không ai chạm tới, người đọc trôi mất mà chưa thấy gì.
+  //   1. chuột rời mép trên (định thoát)  2. đọc tới 60% bài  3. ở lại 40 giây VÀ đã cuộn 20%
+  // Điều kiện cuộn 20% ở cửa 3 là CỐ Ý: người mở tab rồi bỏ đó không đáng để đốt lượt hiện duy nhất.
+  function tyLe(){ var h=document.documentElement; return h.scrollTop/((h.scrollHeight-h.clientHeight)||1); }
   document.addEventListener('mouseout',function(e){ if(!e.relatedTarget && e.clientY<=0) open(); });
-  var deep=false, timeUp=false;
-  setTimeout(function(){ timeUp=true; if(deep) open(); }, 25000);
-  window.addEventListener('scroll',function(){ var h=document.documentElement;
-    var sc=h.scrollTop/((h.scrollHeight-h.clientHeight)||1); if(sc>0.5){ deep=true; if(timeUp) open(); } },{passive:true});
+  var duGio=false;
+  setTimeout(function(){ duGio=true; if(tyLe()>=0.2) open(); }, 40000);
+  window.addEventListener('scroll',function(){ var r=tyLe();
+    if(r>=0.6) open(); else if(duGio && r>=0.2) open(); },{passive:true});
   el.querySelector('.ie-form').addEventListener('submit',function(ev){ ev.preventDefault(); if(done) return;
     var email=(el.querySelector('.ie-email').value||'').trim();
     var honey=(el.querySelector('.ie-honey').value||'').trim();
     var btn=el.querySelector('.ie-btn'), ok=el.querySelector('.ie-ok'), err=el.querySelector('.ie-err'); err.hidden=true;
     if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ err.textContent='Email chưa đúng — kiểm tra lại giúp mình.'; err.hidden=false; return; }
     btn.disabled=true; btn.textContent='Đang gửi…';
-    var src='exit:'+((location.pathname.split('/').pop()||'blog').replace(/\.html$/,''));
+    var cmp='';try{cmp=new URLSearchParams(location.search).get('utm_campaign')||'';}catch(e){}var src='exit:'+((location.pathname.split('/').pop()||'blog').replace(/\.html$/,''))+(cmp?'|'+cmp:'');
     fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,source:src,consent:true,_honey:honey,phone:''})})
       .then(function(r){ return r.ok?r.json().catch(function(){return {ok:true};}):Promise.reject(r.status); })
       .then(function(j){ if(j&&j.ok===false) throw 0;

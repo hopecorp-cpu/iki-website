@@ -28,16 +28,14 @@ let da = 0, vaMoi = 0, boQuaCoNhap = 0, khongCoBody = 0;
 for (const f of bai) {
   const p = path.join(thuMuc, f);
   const html = fs.readFileSync(p, "utf8");
-  if (html.includes('id="ikiExit"')) { da++; continue; }
 
-  const slug = f.replace(/\.html$/, "");
-  if (fs.existsSync(path.join(ROOT, "blog-drafts", `${slug}.md`))) {
-    // Có nháp mà vẫn thiếu pop-up nghĩa là bài chưa dựng lại sau khi template đổi.
-    console.log(`  bỏ qua (có .md, hãy chạy build-article): ${slug}`);
-    boQuaCoNhap++; continue;
-  }
+  // CỐ Ý không bỏ qua bài có .md nữa: khối pop-up nay là NGUỒN DUY NHẤT nên thay ở đây ra
+  // đúng bằng thứ build-article sẽ dựng — không còn nguy cơ file sinh lệch khỏi nguồn.
   const moi = chenPopup(html);
-  if (moi === html) { console.log(`  KHÔNG có </body>: ${slug}`); khongCoBody++; continue; }
+  if (moi === html) {
+    if (html.includes('id="ikiExit"')) { da++; continue; }
+    console.log(`  KHÔNG có </body>: ${slug}`); khongCoBody++; continue;
+  }
   if (ghi) fs.writeFileSync(p, moi, "utf8");
   vaMoi++;
 }
