@@ -45,6 +45,8 @@
   .xong a.tai { display: inline-block; margin: 14px 0 6px; padding: 15px 34px; border-radius: 30px; background: var(--xanh); color: #fff; font-weight: 800; text-decoration: none; font-size: 17px; }
   .theo-doi { margin: 14px auto 4px; max-width: 460px; background: #f3f7f3; border: 1px solid #cfe0cf; border-radius: 12px; padding: 14px 16px; font-size: 14px; color: #2f3d2a; line-height: 1.5; text-align: left; }
   .theo-doi b { color: var(--xanh); }
+  .theo-doi .fb-like-o { margin-top: 10px; min-height: 28px; }
+  .theo-doi.co-plugin .nut-fb { display: none; }
   .theo-doi .nut-fb { display: block; margin-top: 10px; text-align: center; padding: 11px 16px; border-radius: 30px; background: #1877F2; color: #fff; font-weight: 700; text-decoration: none; font-size: 14.5px; }
   .xong p.zalo { font-size: 14px; color: #5a6852; }
   .rao { font-size: 12px; color: #8a967f; text-align: center; margin-top: 14px; }
@@ -122,12 +124,14 @@
     <button id="nut" type="submit">Nhận ebook miễn phí</button>
     <p class="loi" id="loi"></p>
   </form>
+  <div id="fb-root"></div>
   <div class="xong" id="xong">
     <h2>Quà của bạn đây!</h2>
     <p>Bấm nút dưới để tải trọn bộ 100 món về máy.</p>
     <a class="tai" id="tai" href="#" target="_blank" rel="noopener">Tải ebook (PDF)</a>
     <div class="theo-doi">
       <b>Sách do IKI Healing biên soạn.</b> Cuốn tiếp theo — <i>"21 Ngày Ăn Lành Cùng Đạm Sạch"</i> — sẽ phát trên trang IKI Healing trước. Theo dõi trang để không bỏ lỡ nhé.
+      <div class="fb-like-o"><div class="fb-like" data-href="https://www.facebook.com/ikihealing" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="false"></div></div>
       <a class="nut-fb" id="nut-fb" href="https://hope-ops-hub.vercel.app/api/ebook-lead?theo-doi=1" target="_blank" rel="noopener">Theo dõi IKI Healing trên Facebook</a>
     </div>
     <p class="zalo">IKI cũng sẽ nhắn Zalo gửi lại file cho bạn kèm gợi ý ghép bữa theo thể trạng — hoàn toàn miễn phí.</p>
@@ -169,6 +173,25 @@
 <script>
 (function () {
   var API = "https://hope-ops-hub.vercel.app/api/ebook-lead";
+  // Nút Like chính chủ của Facebook: bấm là theo dõi ngay, không rời trang. Chỉ nạp SDK sau khi khách
+  // đã nhận quà (màn "xong"). edge.create = khách ĐÃ like thật -> ghi sổ theo nguồn. Plugin không
+  // hiện (chặn cookie bên thứ ba) thì giữ nút link sang trang IKI làm đường lùi.
+  function napFb() {
+    if (window.FB) { FB.XFBML.parse(); return; }
+    window.fbAsyncInit = function () {
+      FB.init({ xfbml: true, version: "v21.0" });
+      FB.Event.subscribe("edge.create", function () {
+        try { fetch(API + "?theo-doi=1&dem=1&s=like-" + encodeURIComponent(nguon), { keepalive: true }); } catch (e) {}
+      });
+      FB.Event.subscribe("xfbml.render", function () {
+        var o = document.querySelector(".fb-like-o iframe");
+        if (o && o.offsetHeight > 10) document.querySelector(".theo-doi").classList.add("co-plugin");
+      });
+    };
+    var js = document.createElement("script");
+    js.src = "https://connect.facebook.net/vi_VN/sdk.js"; js.async = true; js.defer = true; js.crossOrigin = "anonymous";
+    document.head.appendChild(js);
+  }
   var nguon = "ebook:100mon:landing";
   try {
     var s = new URLSearchParams(location.search).get("s");
@@ -196,6 +219,7 @@
         form.style.display = "none";
         document.getElementById("xong").style.display = "block";
         try { var nf = document.getElementById("nut-fb"); nf.href += "&s=" + encodeURIComponent(nguon); } catch (e) {}
+        try { napFb(); } catch (e) {}
       } else {
         baoLoi((d && d.error) || "Có trục trặc nhỏ, bạn thử lại giúp IKI nhé.");
       }
