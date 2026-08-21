@@ -922,7 +922,7 @@ document.getElementById('coSubmit').onclick=async function(){
   var orderNote='ĐƠN /shop · '+p.n+' × '+coQty+' = '+money(total)+' · '+(mode==='bank'?'CK trước':'COD')+' · ĐC: '+addr+(note?(' · '+note):'');
   // Flash qua: ghi qua vao ghi chu don de sale gui kem, va tru mot suat.
   try{ if(window.__IKI_FLASH){ orderNote += ' \u00b7 QUA TANG: '+window.__IKI_FLASH.gift; window.__IKI_FLASH_CLAIM(); } }catch(e){}
-  try{ if((window.__NGUON_NGOAI||'').indexOf('ebook-deal')===0){ orderNote += ' \u00b7 BO KHOI DAU DU DAM: don dam DAU TIEN tang 1 hop Tra Thanh Huong 226k + PDF thuc don 7 ngay'; } }catch(e){}
+  try{ var __n=window.__NGUON_NGOAI||'';if(__n==='ebook-deal-tra'){ orderNote += ' \u00b7 DEAL TRA (camp ebook): FREESHIP + tang thuc don 3 ngay theo the trang (sale gui Zalo)'; }else if(__n.indexOf('ebook-deal')===0){ orderNote += ' \u00b7 BO KHOI DAU DU DAM: don dam DAU TIEN tang 1 hop Tra Thanh Huong 226k + PDF thuc don 7 ngay'; } }catch(e){}
   try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
     customer:name, phone:phone, channel:'website', source:(mode==='bank'?'shop-order-ck':'shop-order-cod')+(window.__NGUON_NGOAI?(':'+window.__NGUON_NGOAI):''),
     product:p.n, note:orderNote.slice(0,300), _hp:(document.getElementById('coHp')||{}).value||''
