@@ -43,6 +43,9 @@
   .xong { display: none; text-align: center; background: #fff; border: 1px solid #e2e2d8; border-radius: 14px; padding: 26px 20px; }
   .xong h2 { color: var(--xanh); font-size: 21px; margin-bottom: 8px; }
   .xong a.tai { display: inline-block; margin: 14px 0 6px; padding: 15px 34px; border-radius: 30px; background: var(--xanh); color: #fff; font-weight: 800; text-decoration: none; font-size: 17px; }
+  .theo-doi { margin: 14px auto 4px; max-width: 460px; background: #f3f7f3; border: 1px solid #cfe0cf; border-radius: 12px; padding: 14px 16px; font-size: 14px; color: #2f3d2a; line-height: 1.5; text-align: left; }
+  .theo-doi b { color: var(--xanh); }
+  .theo-doi .nut-fb { display: block; margin-top: 10px; text-align: center; padding: 11px 16px; border-radius: 30px; background: #1877F2; color: #fff; font-weight: 700; text-decoration: none; font-size: 14.5px; }
   .xong p.zalo { font-size: 14px; color: #5a6852; }
   .rao { font-size: 12px; color: #8a967f; text-align: center; margin-top: 14px; }
   .dau { display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 18px; }
@@ -123,6 +126,10 @@
     <h2>Quà của bạn đây!</h2>
     <p>Bấm nút dưới để tải trọn bộ 100 món về máy.</p>
     <a class="tai" id="tai" href="#" target="_blank" rel="noopener">Tải ebook (PDF)</a>
+    <div class="theo-doi">
+      <b>Sách do IKI Healing biên soạn.</b> Cuốn tiếp theo — <i>"21 Ngày Ăn Lành Cùng Đạm Sạch"</i> — sẽ phát trên trang IKI Healing trước. Theo dõi trang để không bỏ lỡ nhé.
+      <a class="nut-fb" id="nut-fb" href="https://hope-ops-hub.vercel.app/api/ebook-lead?theo-doi=1" target="_blank" rel="noopener">Theo dõi IKI Healing trên Facebook</a>
+    </div>
     <p class="zalo">IKI cũng sẽ nhắn Zalo gửi lại file cho bạn kèm gợi ý ghép bữa theo thể trạng — hoàn toàn miễn phí.</p>
     <div class="buoc">
       <div class="deal">
@@ -188,6 +195,7 @@
         document.getElementById("tai").href = d.link;
         form.style.display = "none";
         document.getElementById("xong").style.display = "block";
+        try { var nf = document.getElementById("nut-fb"); nf.href += "&s=" + encodeURIComponent(nguon); } catch (e) {}
       } else {
         baoLoi((d && d.error) || "Có trục trặc nhỏ, bạn thử lại giúp IKI nhé.");
       }
