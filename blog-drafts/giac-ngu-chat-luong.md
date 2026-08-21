@@ -142,7 +142,7 @@ Nghi thức này không cần cầu kỳ. Điều quan trọng là sự lặp l�
 - Đọc vài trang sách giấy nhẹ nhàng, tránh những nội dung quá kích thích hay căng thẳng.
 - Viết ra giấy vài dòng về những việc còn dang dở hoặc những điều bạn thấy biết ơn trong ngày, để "gửi tạm" chúng ra khỏi đầu.
 - Giãn cơ nhẹ nhàng hoặc nghe một bản nhạc êm dịu.
-- Pha một tách trà thảo mộc ấm không caffeine như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) và thưởng từ tốn như một tín hiệu nhẹ nhàng khép lại ngày.
+- Pha một tách trà thảo mộc ấm như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) và thưởng từ tốn như một tín hiệu nhẹ nhàng khép lại ngày.
 
 Trong số này, hít thở chậm là công cụ tiện lợi nhất vì bạn có thể làm ngay trên giường mà không cần dụng cụ gì. Một cách dễ nhớ: hít vào bằng mũi trong khi đếm thầm đến bốn, giữ nhẹ một hai nhịp, rồi thở ra bằng miệng thật chậm và dài hơn hơi hít vào, buông vai và hàm cho mềm. Lặp lại chừng năm đến mười vòng, chú tâm vào cảm giác không khí đi ra đi vào. Việc kéo dài hơi thở ra một cách nhẹ nhàng giúp cơ thể chuyển dần sang trạng thái nghỉ. Nếu tâm trí lại lang thang sang chuyện khác, đó là chuyện bình thường — chỉ cần nhẹ nhàng đưa sự chú ý quay về hơi thở, không cần tự trách.
 

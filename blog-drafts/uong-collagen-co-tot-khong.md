@@ -99,7 +99,7 @@ Nếu chỉ được chọn một phần của bài này để làm theo, hãy c
 
 **Ba, che chắn nắng.** Tia UV là yếu tố phá huỷ collagen ở da mạnh nhất mà chúng ta gặp hằng ngày. Một chiếc mũ rộng vành, áo chống nắng và kem chống nắng dùng đều đặn có tác động rõ hơn bất kỳ hộp bổ sung nào.
 
-**Bốn, ngủ đủ và ngủ đúng giờ.** Quá trình sửa chữa mô diễn ra mạnh nhất khi ngủ sâu. Ba tuần ngủ năm tiếng mỗi đêm có thể xoá sạch mọi nỗ lực bổ sung. Bài [giấc ngủ chất lượng](giac-ngu-chat-luong.html) có khung sắp lại buổi tối. Nếu bạn cần một nhịp nghỉ ấm áp trước giờ ngủ mà không có caffeine, một tách [trà thư giãn buổi tối như Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là cách nhẹ nhàng để báo hiệu cho cơ thể rằng ngày đã kết thúc.
+**Bốn, ngủ đủ và ngủ đúng giờ.** Quá trình sửa chữa mô diễn ra mạnh nhất khi ngủ sâu. Ba tuần ngủ năm tiếng mỗi đêm có thể xoá sạch mọi nỗ lực bổ sung. Bài [giấc ngủ chất lượng](giac-ngu-chat-luong.html) có khung sắp lại buổi tối. Nếu bạn cần một nhịp nghỉ ấm áp trước giờ ngủ, một tách [trà thư giãn buổi tối như Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là cách nhẹ nhàng để báo hiệu cho cơ thể rằng ngày đã kết thúc.
 
 **Năm, giảm đường và bỏ thuốc lá.** Lượng đường cao trong máu kéo dài làm các sợi collagen trở nên cứng và kém đàn hồi hơn. Khói thuốc vừa phá huỷ collagen vừa cản trở việc tạo mới.
 

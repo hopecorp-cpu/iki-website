@@ -126,7 +126,7 @@ Không có một nếp buổi tối duy nhất đúng cho tất cả mọi ngư�
 
 Người hay lo nghĩ, đầu óc khó dừng nên ưu tiên các hoạt động giúp "dọn dẹp tâm trí" trước khi ngủ, như viết nhật ký, liệt kê việc ngày mai, hoặc hít thở chậm. Với nhóm này, việc rời màn hình sớm đặc biệt quan trọng vì thông tin liên tục càng khiến đầu óc khó lắng.
 
-Người hay cảm thấy lạnh, tay chân lạnh vào buổi tối thường dễ chịu với hơi ấm: ngâm chân nước ấm, mặc đồ ngủ thoáng nhưng đủ ấm, đắp chăn phù hợp. Một tách thức uống ấm nhẹ trước giờ ngủ, chẳng hạn một loại trà thảo mộc không caffeine như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), cũng hợp với nhóm này.
+Người hay cảm thấy lạnh, tay chân lạnh vào buổi tối thường dễ chịu với hơi ấm: ngâm chân nước ấm, mặc đồ ngủ thoáng nhưng đủ ấm, đắp chăn phù hợp. Một tách thức uống ấm nhẹ trước giờ ngủ, chẳng hạn một loại trà thảo mộc thơm dịu như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), cũng hợp với nhóm này.
 
 Người làm việc theo ca hoặc giờ giấc thất thường sẽ khó cố định giờ ngủ tuyệt đối, nhưng vẫn có thể giữ một nghi thức thư giãn quen thuộc ở mỗi lần chuẩn bị ngủ, dù giờ giấc thay đổi. Chính nghi thức lặp lại đó là tín hiệu ổn định mà cơ thể bám vào.
 

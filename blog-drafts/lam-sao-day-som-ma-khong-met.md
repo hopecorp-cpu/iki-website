@@ -86,7 +86,7 @@ Muốn dậy sớm không mệt, phần lớn công việc nằm ở buổi tố
 
 **Ăn tối sớm và nhẹ.** Bữa tối quá no hoặc quá muộn khiến cơ thể còn bận tiêu hoá khi bạn đã nằm xuống, và đó là một trong những lý do phổ biến khiến giấc ngủ nông. Cố gắng ăn xong trước giờ ngủ khoảng ba tiếng.
 
-**Dừng cà phê từ đầu giờ chiều.** Caffeine tồn tại trong cơ thể lâu hơn nhiều so với cảm nhận của chúng ta. Một ly lúc 16h có thể vẫn còn ảnh hưởng lúc 22h ở nhiều người. Nếu bạn cần một thứ ấm để cầm tay buổi tối, [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) như Trà Thanh Hương là lựa chọn dịu hơn cho khung giờ này, vì trà thảo mộc thật sự không làm từ lá chè nên gần như không chứa caffeine. Muốn biết uống lúc nào và lượng bao nhiêu cho hợp, xem thêm [Uống trà thảo mộc buổi tối có mất ngủ không](uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html).
+**Dừng cà phê từ đầu giờ chiều.** Caffeine tồn tại trong cơ thể lâu hơn nhiều so với cảm nhận của chúng ta. Một ly lúc 16h có thể vẫn còn ảnh hưởng lúc 22h ở nhiều người. Nếu bạn cần một thứ ấm để cầm tay buổi tối, [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) như Trà Thanh Hương là lựa chọn dịu hơn cho khung giờ này. Muốn biết uống lúc nào và lượng bao nhiêu cho hợp, xem thêm [Uống trà thảo mộc buổi tối có mất ngủ không](uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html).
 
 **Tạo một chuỗi tín hiệu lặp lại.** Cơ thể học bằng sự lặp lại. Một chuỗi cố định như: tắt đèn lớn, tắm nước ấm, pha một tách trà, đọc mười trang sách, lên giường — làm đúng thứ tự mỗi tối sẽ dần trở thành tín hiệu chuyển trạng thái mạnh hơn bất cứ lời tự nhủ nào.
 

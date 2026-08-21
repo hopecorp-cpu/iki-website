@@ -117,7 +117,7 @@ Phần lớn những gì bạn có thể tự làm đều xoay quanh hai việc:
 
 Cơ thể cần tín hiệu để chuyển từ trạng thái làm việc sang trạng thái nghỉ. Khoảng dừng 30–60 phút trước khi lên giường, không màn hình, không email, tạo ra tín hiệu đó.
 
-Một nếp đơn giản mà nhiều người duy trì được: tắt màn hình, giảm bớt đèn trong nhà, và ngồi yên với một thức uống ấm không chứa caffeine. [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là một lựa chọn quen thuộc cho khoảng lặng buổi tối kiểu này — điều có ích ở đây là bản thân nghi thức ngồi xuống, uống chậm và tách khỏi công việc, chứ không phải kỳ vọng vào một tác dụng tức thì nào.
+Một nếp đơn giản mà nhiều người duy trì được: tắt màn hình, giảm bớt đèn trong nhà, và ngồi yên với một thức uống ấm, nhẹ. [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là một lựa chọn quen thuộc cho khoảng lặng buổi tối kiểu này — điều có ích ở đây là bản thân nghi thức ngồi xuống, uống chậm và tách khỏi công việc, chứ không phải kỳ vọng vào một tác dụng tức thì nào.
 
 Nếu bạn hay dùng điện thoại trên giường, bài [Màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html) chỉ ra vì sao thói quen đó khó bỏ và cách thay thế.
 

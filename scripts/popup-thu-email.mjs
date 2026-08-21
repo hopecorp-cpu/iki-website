@@ -22,7 +22,7 @@
 export const SP_POPUP = {
   "true-vegan-protein": { ten: "True Vegan Protein Pro", loai: "Bột đạm thực vật · hộp 500g" },
   "tra-tue-minh": { ten: "Trà Tuệ Minh", loai: "Trà thảo mộc túi lọc · hộp 30 gói" },
-  "tra-thanh-huong": { ten: "Trà Thanh Hương", loai: "Trà thảo mộc không caffeine · túi lọc" },
+  "tra-thanh-huong": { ten: "Trà Thanh Hương", loai: "Trà thảo mộc bốn vị · túi lọc" },
 };
 
 export const EXIT_POPUP_MAU = `<div id="ikiExit" role="dialog" aria-modal="true" aria-label="Nhận cẩm nang chăm sóc sức khoẻ miễn phí" hidden>

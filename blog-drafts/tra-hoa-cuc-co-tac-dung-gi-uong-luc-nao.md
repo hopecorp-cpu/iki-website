@@ -80,7 +80,7 @@ Tầng thứ hai là **nghi thức**. Giấc ngủ không bắt đầu lúc bạ
 
 Tầng thứ ba là **hơi ấm dễ chịu**. Uống một thứ ấm khiến cơ thể thư giãn nhẹ và tạo cảm giác được chăm sóc. Với nhiều người, đó là phần quan trọng nhất trong cả buổi tối.
 
-Nếu bạn thích ý tưởng một tách ấm khép lại ngày nhưng muốn hương vị tròn hơn hoa cúc đơn thuần, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thảo mộc IKI làm riêng cho khung giờ thư giãn buổi tối, phối nhiều nguyên liệu quen thuộc của bếp Việt và không chứa caffeine.
+Nếu bạn thích ý tưởng một tách ấm khép lại ngày nhưng muốn hương vị tròn hơn hoa cúc đơn thuần, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thảo mộc IKI làm riêng cho khung giờ thư giãn buổi tối, phối nhiều nguyên liệu quen thuộc của bếp Việt.
 
 Nhưng xin nhắc lại điều đã nói ở trên, vì nó quan trọng: tách trà là **một phần** của nếp ngủ, không phải toàn bộ. Giờ đi ngủ đều đặn, ánh sáng buổi tối, mức vận động ban ngày và bữa tối ăn gì đều nặng ký hơn nhiều.
 

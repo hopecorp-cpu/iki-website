@@ -125,7 +125,7 @@ Vấn đề là tối Chủ nhật cũng thường là lúc khó ngủ nhất tr
 - **17h–18h:** vận động nhẹ ngoài trời 20–30 phút. Đi bộ là đủ. Cơ thể có vận động ban ngày thì áp lực ngủ buổi tối rõ hơn.
 - **Sau 19h:** giảm dần đèn trong nhà, chuyển sang đèn vàng ấm. Ánh sáng mạnh buổi tối là tín hiệu "còn ngày" gửi tới đồng hồ sinh học.
 - **20h:** viết ra giấy ba việc cần làm sáng thứ Hai. Nghe rất nhỏ nhưng đây là cách hiệu quả để tâm trí thôi phải ghi nhớ hộ, thứ khiến nhiều người trăn trở nhất.
-- **21h:** một cốc thức uống ấm không caffeine. Nhiều người trong cộng đồng IKI chọn [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) như một mốc quen thuộc để cơ thể hiểu rằng ngày đã kết thúc. Giá trị lớn nhất của một thức uống ấm buổi tối không nằm ở bản thân ly trà, mà ở chỗ nó tạo ra một nghi thức lặp lại — và nhịp sinh học phản ứng rất tốt với sự lặp lại.
+- **21h:** một cốc thức uống ấm, nhẹ. Nhiều người trong cộng đồng IKI chọn [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) như một mốc quen thuộc để cơ thể hiểu rằng ngày đã kết thúc. Giá trị lớn nhất của một thức uống ấm buổi tối không nằm ở bản thân ly trà, mà ở chỗ nó tạo ra một nghi thức lặp lại — và nhịp sinh học phản ứng rất tốt với sự lặp lại.
 - **21h30:** cất điện thoại ra khỏi phòng ngủ, hoặc ít nhất khỏi tầm tay. Nếu bước này khó, bài [Màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html) có vài cách xoay chuyển thực tế hơn là chỉ hô "hãy bỏ điện thoại".
 - **22h–22h30:** lên giường, dù chưa buồn ngủ hẳn. Đọc vài trang sách giấy dưới đèn mờ.
 

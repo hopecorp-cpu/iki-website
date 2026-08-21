@@ -136,26 +136,25 @@
     {
       "slug": "tra-thanh-huong",
       "ten": "Trà Thanh Hương",
-      "tenDayDu": "Trà Thanh Hương — trà thảo mộc túi lọc, không caffeine",
+      "tenDayDu": "Trà Thanh Hương — trà thảo mộc túi lọc bốn vị hoa và thảo mộc",
       "tuKhoa": "Trà Thanh Hương",
-      "h1": "Trà Thanh Hương — trà thảo mộc túi lọc không caffeine",
+      "h1": "Trà Thanh Hương — trà thảo mộc túi lọc hoa nhài, phục linh, hoa quế, trần bì",
       "seoTitle": "Trà Thanh Hương: bốn vị thảo mộc, cách pha và giá",
-      "moTa": "Trà Thanh Hương là trà thảo mộc túi lọc không caffeine của IKI, phối hoa nhài, phục linh, hoa quế và trần bì, giá niêm yết 226.000đ. Xem thành phần, cách pha và thời điểm uống.",
+      "moTa": "Trà Thanh Hương là trà thảo mộc túi lọc của IKI, phối hoa nhài, phục linh, hoa quế và trần bì, giá niêm yết 226.000đ. Xem thành phần, cách pha và thời điểm uống.",
       "loai": "Trà thảo mộc túi lọc",
       "anh": "tra-thanh-huong.jpg",
       "anhAlt": "Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKI cùng tách trà và túi lọc",
       "gia": 226000,
       "quyCach": "Túi lọc 2,6 g mỗi gói",
-      "danhCho": "Người lớn, hợp cho buổi tối vì không chứa caffeine",
+      "danhCho": "Người lớn, hợp cho một tách trà thơm dịu buổi tối",
       "thongTinNhanh": [
         ["Loại sản phẩm", "Trà thảo mộc túi lọc"],
         ["Quy cách", "Túi lọc 2,6 g mỗi gói"],
         ["Bốn vị thảo mộc", "Hoa nhài, phục linh, hoa quế, trần bì"],
-        ["Caffeine", "Không chứa caffeine"],
-        ["Hợp dùng", "Buổi tối, hoặc khi muốn một tách ấm mà không lo tỉnh ngủ"],
+        ["Hợp dùng", "Buổi tối, hoặc khi muốn một tách ấm thơm dịu"],
         ["Giá niêm yết", "226.000đ"]
       ],
-      "thanhPhanText": "Trà Thanh Hương phối bốn vị thảo mộc quen thuộc trong ẩm thực Việt và Đông Á. Hoa nhài cho hương ngọt thanh, là nốt hương nổi rõ nhất khi mở túi. Phục linh cho hậu vị dịu, không sắc. Hoa quế cho nốt hương ấm kiểu mật, chỉ cần một lượng rất nhỏ đã đủ thơm. Trần bì là vỏ quýt phơi khô, thêm một nốt cam hơi the làm nước trà đỡ ngán. Bốn vị này đều không chứa caffeine, nên trà uống được vào buổi tối mà không phải cân nhắc như trà xanh hay trà đen.",
+      "thanhPhanText": "Trà Thanh Hương phối bốn vị thảo mộc quen thuộc trong ẩm thực Việt và Đông Á. Hoa nhài cho hương ngọt thanh, là nốt hương nổi rõ nhất khi mở túi. Phục linh cho hậu vị dịu, không sắc. Hoa quế cho nốt hương ấm kiểu mật, chỉ cần một lượng rất nhỏ đã đủ thơm. Trần bì là vỏ quýt phơi khô, thêm một nốt cam hơi the làm nước trà đỡ ngán. Bốn vị phối với nhau cho một tách trà thơm nhẹ, hợp uống chậm vào cuối ngày.",
       "cachDung": [
         "Cho một túi lọc vào tách khoảng 200 ml.",
         "Rót nước nóng khoảng 90 độ C. Nước quá nóng làm bay mất phần hương hoa, vốn là điểm đáng giá nhất của loại trà này.",
@@ -167,15 +166,11 @@
       "faq": [
         {
           "q": "Trà Thanh Hương gồm những gì?",
-          "a": "Trà Thanh Hương là trà thảo mộc túi lọc phối bốn vị: hoa nhài, phục linh, hoa quế và trần bì. Trà không chứa caffeine."
+          "a": "Trà Thanh Hương là trà thảo mộc túi lọc phối bốn vị: hoa nhài, phục linh, hoa quế và trần bì."
         },
         {
           "q": "Trà Thanh Hương giá bao nhiêu?",
           "a": "Giá niêm yết là 226.000đ."
-        },
-        {
-          "q": "Trà Thanh Hương có caffeine không?",
-          "a": "Không. Bốn vị thảo mộc trong trà đều không chứa caffeine, khác với trà xanh, trà đen hay ô long vốn làm từ cây chè và có caffeine. Vì vậy nhiều người chọn loại này cho buổi tối."
         },
         {
           "q": "Trần bì trong trà là gì?",
@@ -183,7 +178,7 @@
         },
         {
           "q": "Nên uống Trà Thanh Hương trước giờ ngủ bao lâu?",
-          "a": "Trà không chứa caffeine nên không phải kiêng vì lý do tỉnh ngủ. Điều đáng cân nhắc chỉ là lượng nước: nên uống trước giờ đi ngủ khoảng một tiếng rưỡi tới hai tiếng để không phải dậy đêm."
+          "a": "Điều đáng cân nhắc là lượng nước: nên uống trước giờ đi ngủ khoảng một tiếng rưỡi tới hai tiếng để không phải dậy đêm."
         }
       ],
       "baiLienQuan": [

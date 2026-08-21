@@ -127,7 +127,7 @@ Y học cổ truyền không dùng khái niệm pH, nhưng lại có một cách
 
 Theo cách nhìn này, người có cơ địa thiên về hàn, hay lạnh tay chân, bụng dễ óc ách, thường thấy dễ chịu với nước ấm và các loại trà ấm nhẹ. Người thiên về nhiệt, hay bứt rứt, miệng khô, lại thấy dễ chịu hơn với nước mát và các loại nước có tính thanh. Cùng một cốc nước, hai người có thể có hai cảm nhận khác hẳn nhau.
 
-Điểm hay là góc nhìn này dễ kiểm chứng bằng chính cảm nhận của bạn, trong khi độ pH thì phải tin vào máy đo của người bán. Nếu buổi tối bạn khó vào giấc và muốn một thức uống ấm không chứa caffeine, [trà thư giãn buổi tối như Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là kiểu lựa chọn theo hướng này: không hứa hẹn điều gì kỳ diệu, chỉ tạo một nhịp nghỉ dễ chịu trước giờ ngủ.
+Điểm hay là góc nhìn này dễ kiểm chứng bằng chính cảm nhận của bạn, trong khi độ pH thì phải tin vào máy đo của người bán. Nếu buổi tối bạn khó vào giấc và muốn một thức uống ấm, nhẹ, [trà thư giãn buổi tối như Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là kiểu lựa chọn theo hướng này: không hứa hẹn điều gì kỳ diệu, chỉ tạo một nhịp nghỉ dễ chịu trước giờ ngủ.
 
 Ứng dụng IKI cũng đi theo hướng đó. Thay vì đưa ra một công thức chung cho tất cả, [ứng dụng cá nhân hoá theo thể trạng](https://ikihealing.com/app.html) ghi nhận thói quen ăn uống, giấc ngủ và cảm nhận cơ thể của bạn theo thời gian, rồi gợi ý những điều chỉnh nhỏ phù hợp với chính bạn.
 

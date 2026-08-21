@@ -21,7 +21,7 @@ const boDau = (s) =>
   (s || "").replace(/Đ/g, "D").replace(/đ/g, "d").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
 
 /**
- * Chọn sản phẩm hợp bài. Trà Thanh Hương xét TRƯỚC vì nó là nhánh hẹp (buổi tối, không caffeine);
+ * Chọn sản phẩm hợp bài. Trà Thanh Hương xét TRƯỚC vì nó là nhánh hẹp (buổi tối, thư giãn);
  * xét sau thì mọi bài về trà đều rơi hết vào Tuệ Minh.
  */
 const LUAT = [

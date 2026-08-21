@@ -174,7 +174,7 @@ Khi tủ đã có sẵn những thứ này, câu hỏi buổi tối đổi từ 
 
 **Đi bộ nhẹ 10-15 phút.** Không cần tập luyện gì, chỉ là đi vòng quanh nhà hoặc xuống sân. Vận động nhẹ sau ăn giúp bụng dễ chịu hơn và tinh thần chuyển trạng thái từ "công việc" sang "nghỉ ngơi".
 
-**Một tách trà ấm không chứa caffeine.** Đây là nghi thức nhỏ báo cho cơ thể biết ngày làm việc đã khép lại. Các loại [trà thảo mộc buổi tối](https://thanhhuongtra.ikihealing.com) không chứa caffeine phù hợp với khung giờ này hơn trà xanh hay cà phê, vốn nên dừng từ đầu giờ chiều.
+**Một tách trà ấm, nhẹ.** Đây là nghi thức nhỏ báo cho cơ thể biết ngày làm việc đã khép lại. Một loại [trà thảo mộc buổi tối](https://thanhhuongtra.ikihealing.com) hương hoa, pha nhạt hợp với khung giờ này hơn trà xanh hay cà phê, vốn nên dừng từ đầu giờ chiều.
 
 **Tắt bớt màn hình trước giờ ngủ 30-60 phút.** Với người đã mệt sẵn, việc lướt điện thoại trên giường thường kéo giờ ngủ muộn thêm cả tiếng mà không thấy nghỉ ngơi hơn chút nào.
 
