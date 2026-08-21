@@ -760,7 +760,7 @@ function timTheoSlug(sl){
   return PRODUCTS.find(p=>p._slug===s) || PRODUCTS.find(p=>p._slug.includes(s)) || null;
 }
 function datDuongDan(sl){
-  try{history.replaceState(null,'',sl?('?sp='+sl):location.pathname);}catch(e){}
+  try{var __gs=window.__NGUON_NGOAI?('&s='+encodeURIComponent(window.__NGUON_NGOAI)):'';history.replaceState(null,'',sl?('?sp='+sl+__gs):location.pathname);}catch(e){}
 }
 
 // ==== view switching ====
@@ -848,7 +848,7 @@ function renderConsult(){
     if(raw.length<9||raw.length>11){ inp.focus(); inp.style.borderColor='#c0392b'; showToast('Vui lòng nhập số điện thoại để nhân viên liên hệ'); return; }
     const p=currentProduct, nameTxt=p?('“'+p.n+'”'):'sản phẩm';
     try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
-      phone: inp.value.trim(), channel:'website', source:'shop-tu-van', product: p?p.n:'',
+      phone: inp.value.trim(), channel:'website', source:'shop-tu-van'+(window.__NGUON_NGOAI?(':'+window.__NGUON_NGOAI):''), product: p?p.n:'',
       note: 'Xin tư vấn'+(p?(' — '+p.n):''), _hp:(document.getElementById('leadHp')||{}).value||''
     })}).catch(function(){}); }catch(e){}
     document.getElementById('consult').innerHTML =
@@ -922,8 +922,9 @@ document.getElementById('coSubmit').onclick=async function(){
   var orderNote='ĐƠN /shop · '+p.n+' × '+coQty+' = '+money(total)+' · '+(mode==='bank'?'CK trước':'COD')+' · ĐC: '+addr+(note?(' · '+note):'');
   // Flash qua: ghi qua vao ghi chu don de sale gui kem, va tru mot suat.
   try{ if(window.__IKI_FLASH){ orderNote += ' \u00b7 QUA TANG: '+window.__IKI_FLASH.gift; window.__IKI_FLASH_CLAIM(); } }catch(e){}
+  try{ if((window.__NGUON_NGOAI||'').indexOf('ebook-deal')===0){ orderNote += ' \u00b7 BO KHOI DAU DU DAM: don dam DAU TIEN tang 1 hop Tra Thanh Huong 226k + PDF thuc don 7 ngay'; } }catch(e){}
   try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
-    customer:name, phone:phone, channel:'website', source:(mode==='bank'?'shop-order-ck':'shop-order-cod'),
+    customer:name, phone:phone, channel:'website', source:(mode==='bank'?'shop-order-ck':'shop-order-cod')+(window.__NGUON_NGOAI?(':'+window.__NGUON_NGOAI):''),
     product:p.n, note:orderNote.slice(0,300), _hp:(document.getElementById('coHp')||{}).value||''
   })}).catch(function(){}); }catch(e){}
   var res=document.getElementById('coResult');
@@ -1008,7 +1009,7 @@ document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('da
 // hàng như bình thường — link gõ sai không được phép làm vỡ trang.
 (function(){
   try{
-    var sl=new URLSearchParams(location.search).get('sp')||location.hash.replace(/^#sp=/,'');
+    var __q=new URLSearchParams(location.search);window.__NGUON_NGOAI=__q.get('utm_source')||__q.get('s')||'';var sl=__q.get('sp')||location.hash.replace(/^#sp=/,'');
     if(!sl) return;
     var p=timTheoSlug(sl);
     if(p) openDetail(p);
