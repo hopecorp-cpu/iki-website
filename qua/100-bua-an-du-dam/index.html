@@ -194,8 +194,20 @@
   }
   var nguon = "ebook:100mon:landing";
   try {
-    var s = new URLSearchParams(location.search).get("s");
+    // Nhận CẢ ba dạng nhãn nguồn, vì ba nơi khác nhau gắn ba kiểu:
+    //   ?s=      link mình tự dán (bài đăng, tin nhắn, bot)
+    //   ?utm_source=  trình quảng cáo Meta/Google gắn mặc định
+    //   gclid/fbclid  trình quảng cáo tự chèn khi người chạy ads QUÊN gắn utm
+    // Trước 22/08/2026 chỉ đọc ?s= — nên cả đợt chạy Meta + YouTube không lead nào truy được về
+    // quảng cáo, và không thể trả lời "tiền ads có ra khách không". Đừng bỏ nhánh gclid/fbclid:
+    // nó là lưới đỡ cho lỗi NGƯỜI, thứ chắc chắn sẽ lặp lại.
+    var q = new URLSearchParams(location.search);
+    var s = q.get("s") || q.get("utm_source");
+    if (!s && q.get("gclid")) s = "gclid";
+    if (!s && q.get("fbclid")) s = "fbclid";
     if (s) nguon += ":s-" + s.replace(/[^a-z0-9-]/gi, "").slice(0, 30);
+    var kenh = q.get("utm_medium") || q.get("utm_campaign");
+    if (s && kenh) nguon += "-" + kenh.replace(/[^a-z0-9-]/gi, "").slice(0, 20);
   } catch (e) {}
   var form = document.getElementById("form"), loi = document.getElementById("loi"), nut = document.getElementById("nut");
   form.addEventListener("submit", function (ev) {
