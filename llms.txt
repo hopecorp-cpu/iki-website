@@ -236,6 +236,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Đạm đậu nành, đạm đậu Hà Lan, đạm gạo khác nhau ra sao?](https://ikihealing.com/blog/dam-dau-nanh-dau-ha-lan-dam-gao-khac-nhau.html): Đạm đậu Hà Lan, đạm đậu nành và đạm gạo khác nhau ở axit amin, hương vị và độ mịn. So sánh sáu nguồn đạm thực vật phổ biến và vì sao bột đạm tốt thường phối nhiều nguồn.
 - [Bắt đầu uống đạm thực vật: lịch 30 ngày đầu cho người mới](https://ikihealing.com/blog/30-ngay-dau-uong-dam-thuc-vat.html): Bắt đầu uống đạm thực vật mà sợ bỏ dở? Lịch 4 tuần cho người mới: tuần 1 nửa khẩu phần, tuần 2 cố định giờ, tuần 3 đổi cách pha, tuần 4 gắn vào nếp sẵn có.
 - [Phụ nữ uống đạm thực vật thế nào cho hợp với nhịp sinh hoạt](https://ikihealing.com/blog/phu-nu-uong-dam-thuc-vat-the-nao-cho-hop.html): Phụ nữ uống đạm thực vật thế nào cho hợp? Cách tự tính nhu cầu đạm theo cân nặng, chia đều bốn mốc trong ngày, xử lý bữa sáng vội và bữa chiều muộn, cùng lưu ý cho từng nhóm.
+- [Đọc nhãn bột đạm thực vật: những dòng chữ nhỏ đáng đọc nhất](https://ikihealing.com/blog/doc-nhan-bot-dam-thuc-vat.html): Hướng dẫn đọc nhãn bột đạm thực vật từng dòng: bảng thành phần, khẩu phần tham chiếu, lượng đạm thật, đường và hương liệu, số công bố sản phẩm, hạn dùng và cách bảo quản.
 - [Ăn bí đỏ nhiều có bị vàng da không](https://ikihealing.com/blog/an-bi-do-nhieu-co-bi-vang-da-khong.html): Ăn bí đỏ nhiều có bị vàng da không, một tuần nên ăn mấy lần, trẻ nhỏ ăn bao nhiêu là đủ? Giải thích hiện tượng vàng da do beta-caroten và cách đưa bí đỏ vào bữa ăn cân bằng.
 - [Ăn cá thế nào cho đủ chất mỗi tuần](https://ikihealing.com/blog/an-ca-dung-cach-moi-tuan.html)
 - [Ăn cay nhiều có hại không? Cách ăn cay cho êm bụng](https://ikihealing.com/blog/an-cay-nhieu-co-hai-khong.html)
@@ -375,6 +376,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng](https://ikihealing.com/blog/tra-tue-minh-la-gi.html)
 - [Trái cây theo mùa ở Việt Nam: ăn đúng mùa vừa ngon vừa tươi](https://ikihealing.com/blog/trai-cay-theo-mua-o-viet-nam.html)
 - [Trào ngược dạ dày và thói quen ăn uống: góc nhìn dưỡng sinh](https://ikihealing.com/blog/trao-nguoc-da-day.html)
+- [True Vegan Protein Pro là gì? Thành phần, cách pha và ai hợp dùng](https://ikihealing.com/blog/true-vegan-protein-la-gi.html)
 - [Trứng gà: giá trị dinh dưỡng và cách ăn hợp lý mỗi tuần](https://ikihealing.com/blog/trung-ga-dinh-duong-va-cach-an-hop-ly.html)
 - [Trứng vịt lộn ăn sao cho đúng để cơ thể hấp thu tốt](https://ikihealing.com/blog/trung-vit-lon-an-sao-cho-dung.html)
 - [Uống đạm thực vật có nổi mụn không?](https://ikihealing.com/blog/uong-dam-thuc-vat-co-noi-mun-khong.html)
