@@ -237,6 +237,7 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Bắt đầu uống đạm thực vật: lịch 30 ngày đầu cho người mới](https://ikihealing.com/blog/30-ngay-dau-uong-dam-thuc-vat.html): Bắt đầu uống đạm thực vật mà sợ bỏ dở? Lịch 4 tuần cho người mới: tuần 1 nửa khẩu phần, tuần 2 cố định giờ, tuần 3 đổi cách pha, tuần 4 gắn vào nếp sẵn có.
 - [Phụ nữ uống đạm thực vật thế nào cho hợp với nhịp sinh hoạt](https://ikihealing.com/blog/phu-nu-uong-dam-thuc-vat-the-nao-cho-hop.html): Phụ nữ uống đạm thực vật thế nào cho hợp? Cách tự tính nhu cầu đạm theo cân nặng, chia đều bốn mốc trong ngày, xử lý bữa sáng vội và bữa chiều muộn, cùng lưu ý cho từng nhóm.
 - [Đọc nhãn bột đạm thực vật: những dòng chữ nhỏ đáng đọc nhất](https://ikihealing.com/blog/doc-nhan-bot-dam-thuc-vat.html): Hướng dẫn đọc nhãn bột đạm thực vật từng dòng: bảng thành phần, khẩu phần tham chiếu, lượng đạm thật, đường và hương liệu, số công bố sản phẩm, hạn dùng và cách bảo quản.
+- [Cách pha trà túi lọc đúng cách: nhiệt độ, thời gian hãm và 5 lỗi hay gặp](https://ikihealing.com/blog/cach-pha-tra-tui-loc-dung-cach.html): Cách pha trà túi lọc đúng cách: nhiệt độ nước theo từng nhóm trà, thời gian hãm chuẩn, có nên vắt túi trà, hãm lại lần hai và 5 lỗi khiến trà chát mất hương.
 - [Ăn bí đỏ nhiều có bị vàng da không](https://ikihealing.com/blog/an-bi-do-nhieu-co-bi-vang-da-khong.html): Ăn bí đỏ nhiều có bị vàng da không, một tuần nên ăn mấy lần, trẻ nhỏ ăn bao nhiêu là đủ? Giải thích hiện tượng vàng da do beta-caroten và cách đưa bí đỏ vào bữa ăn cân bằng.
 - [Ăn cá thế nào cho đủ chất mỗi tuần](https://ikihealing.com/blog/an-ca-dung-cach-moi-tuan.html)
 - [Ăn cay nhiều có hại không? Cách ăn cay cho êm bụng](https://ikihealing.com/blog/an-cay-nhieu-co-hai-khong.html)
@@ -264,8 +265,10 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Bà bầu 3 tháng đầu nên ăn gì và kiêng gì? Hướng dẫn đầy đủ](https://ikihealing.com/blog/ba-bau-3-thang-dau-nen-an-gi.html)
 - [Bà bầu uống đạm thực vật được không?](https://ikihealing.com/blog/ba-bau-uong-dam-thuc-vat-duoc-khong.html)
 - [Tháng nào người Việt chăm sóc sức khoẻ nhiều nhất?](https://ikihealing.com/blog/bao-cao-nhip-mua-theo-thang-2026.html): Chỉ số nhịp theo tháng: tháng 04 là mốc 100, tháng 05 đạt 99, tháng 06 rơi xuống 56, tháng 07 hồi lên 74 — đo trên 1.804 đơn hàng thật. Số liệu mở cho báo chí trích dẫn.
+- [Bảo quản bột đạm thực vật thế nào để không vón, không hôi dầu](https://ikihealing.com/blog/bao-quan-bot-dam-thuc-vat-dung-cach.html)
 - [Bảo quản thực phẩm đúng cách: giữ tươi và giữ an toàn](https://ikihealing.com/blog/bao-quan-thuc-pham-dung-cach.html)
 - [Bảo vệ mắt cho trẻ trong thời đại màn hình](https://ikihealing.com/blog/bao-ve-mat-cho-tre-em.html)
+- [Bột Đạm Thực Vật Có Khó Uống Không? Vị Thật Và Cách Làm Dịu Vị Hạt](https://ikihealing.com/blog/bot-dam-thuc-vat-co-kho-uong-khong.html)
 - [Bột Đạm Thực Vật Giá Bao Nhiêu? Cách Tính Chi Phí Mỗi Ly Đạm](https://ikihealing.com/blog/bot-dam-thuc-vat-gia-bao-nhieu.html)
 - [Bột Đạm Thực Vật Loại Nào Tốt? Sáu Tiêu Chí Đọc Nhãn Trước Khi Mua](https://ikihealing.com/blog/bot-dam-thuc-vat-loai-nao-tot.html)
 - [Bột Đạm Thực Vật Nào Tốt? 6 Tiêu Chí Chọn Và So Sánh Các Loại Phổ Biến Ở Việt Nam](https://ikihealing.com/blog/bot-dam-thuc-vat-nao-tot.html)
