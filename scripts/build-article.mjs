@@ -17,6 +17,7 @@ import { buildStructure, emailCta } from "./build-structure.mjs";
 import { ctaSanPham, CSS_CTA_SP, chonSanPham } from "./cta-san-pham.mjs";
 import { chenVideo, schemaVideo, CSS_VIDEO } from "./video-bai.mjs";
 import { khoiCauNoi, CSS_CAU_NOI } from "./cau-noi-chi-muc.mjs";
+import { ogPinDoc } from "./pin-bai.mjs";
 
 import { taoPopup } from "./popup-thu-email.mjs";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -238,7 +239,7 @@ function render(fm, body) {
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="${escAttr(fm.title)}" />
   <meta name="twitter:description" content="${escAttr(clamp(fm.description, 160))}" />
-  <meta name="twitter:image" content="${escAttr(heroAbs)}" />
+  <meta name="twitter:image" content="${escAttr(heroAbs)}" />${ogPinDoc(fm.slug)}
 
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
