@@ -6,8 +6,37 @@
     "moTa": "Bắt đầu uống đạm thực vật mà sợ bỏ dở? Lịch 4 tuần cho người mới: tuần 1 nửa khẩu phần, tuần 2 cố định giờ, tuần 3 đổi cách pha, tuần 4 gắn vào nếp sẵn có.",
     "anh": "https://i.ytimg.com/vi/fmhFMcr7vaY/maxresdefault.jpg",
     "ngay": "2026-08-23",
-    "giay": 0,
-    "chuong": []
+    "giay": 293,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vì sao dễ bỏ dở khi mới uống đạm thực"
+      },
+      {
+        "giay": 48,
+        "nhan": "Giới thiệu lịch uống đạm 30 ngày"
+      },
+      {
+        "giay": 75,
+        "nhan": "Tuần 1: Uống nửa khẩu phần cho quen bụng"
+      },
+      {
+        "giay": 108,
+        "nhan": "Tuần 2: Cố định khung giờ uống"
+      },
+      {
+        "giay": 148,
+        "nhan": "Tuần 3: Đổi cách pha chống ngán"
+      },
+      {
+        "giay": 186,
+        "nhan": "Tuần 4: Giảm nhắc nhở, để thói quen tự"
+      },
+      {
+        "giay": 218,
+        "nhan": "Ba lý do hay bỏ dở và lưu ý khi dùng"
+      }
+    ]
   },
   {
     "slug": "5-the-tang-theo-dong-y",
@@ -56,7 +85,32 @@
     "anh": "https://i.ytimg.com/vi/_WZ6_PhTWnM/maxresdefault.jpg",
     "ngay": "2026-08-21",
     "giay": 312,
-    "chuong": []
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn uống rối vì quá nhiều thông tin"
+      },
+      {
+        "giay": 22,
+        "nhan": "Tám nhóm thực phẩm trong bếp Việt"
+      },
+      {
+        "giay": 103,
+        "nhan": "Cân bằng theo cả ngày, cả tuần"
+      },
+      {
+        "giay": 146,
+        "nhan": "Đủ nhóm nhưng chất lượng khác nhau"
+      },
+      {
+        "giay": 234,
+        "nhan": "Quy tắc chia đĩa ăn hằng ngày"
+      },
+      {
+        "giay": 297,
+        "nhan": "Hạt, lên men và trái cây bổ sung"
+      }
+    ]
   },
   {
     "slug": "an-banh-trung-thu-the-nao-cho-do-ngan",
@@ -66,7 +120,32 @@
     "anh": "https://i.ytimg.com/vi/khVMB17dE_o/maxresdefault.jpg",
     "ngay": "2026-08-21",
     "giay": 279,
-    "chuong": []
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vì sao ăn bánh trung thu dễ ngán"
+      },
+      {
+        "giay": 52,
+        "nhan": "Chia nhỏ và ăn chậm từng miếng"
+      },
+      {
+        "giay": 90,
+        "nhan": "Uống trà ấm, tránh nước ngọt có gas"
+      },
+      {
+        "giay": 145,
+        "nhan": "Lưu ý cho người lớn tuổi và trẻ nhỏ"
+      },
+      {
+        "giay": 203,
+        "nhan": "Giữ nhịp ăn suốt mùa trăng ba bốn tuần"
+      },
+      {
+        "giay": 255,
+        "nhan": "Ăn chậm chia nhỏ để trọn vị nhẹ bụng"
+      }
+    ]
   },
   {
     "slug": "an-bao-nhieu-hat-moi-ngay-la-du",
@@ -75,8 +154,37 @@
     "moTa": "Một ngày nên ăn bao nhiêu hạt là đủ? Khẩu phần tham khảo cho hạnh nhân, óc chó, điều, mắc ca, hạt bí, hạt hướng dương; cách ước lượng bằng lòng bàn tay, nên…",
     "anh": "https://i.ytimg.com/vi/0tkjGm-qw8g/maxresdefault.jpg",
     "ngay": "2026-08-22",
-    "giay": 0,
-    "chuong": []
+    "giay": 274,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn hạt bao nhiêu là vừa?"
+      },
+      {
+        "giay": 25,
+        "nhan": "Vì sao lượng ăn quan trọng hơn loại hạt"
+      },
+      {
+        "giay": 57,
+        "nhan": "Khẩu phần chuẩn: một nắm tay 30 gam"
+      },
+      {
+        "giay": 89,
+        "nhan": "Số lượng hạt cụ thể theo từng loại"
+      },
+      {
+        "giay": 124,
+        "nhan": "Thời điểm ăn hạt hợp lý trong ngày"
+      },
+      {
+        "giay": 159,
+        "nhan": "Chọn loại hạt và lớp tẩm ướp"
+      },
+      {
+        "giay": 191,
+        "nhan": "Vai trò đạm, nhóm cẩn trọng và bảo quản"
+      }
+    ]
   },
   {
     "slug": "an-bao-nhieu-trai-cay-moi-ngay-la-du",
@@ -85,8 +193,33 @@
     "moTa": "Ăn bao nhiêu trái cây mỗi ngày là đủ? Khuyến nghị 200-300g quả chín, cách quy đổi một phần với xoài, nhãn, mít, chuối, ăn lúc nào và khi nào là quá nhiều.",
     "anh": "https://i.ytimg.com/vi/uzKDtkx1CeI/maxresdefault.jpg",
     "ngay": "2026-08-22",
-    "giay": 0,
-    "chuong": []
+    "giay": 260,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn trái cây bao nhiêu là đủ?"
+      },
+      {
+        "giay": 26,
+        "nhan": "Mức khuyến nghị 200-300g mỗi ngày"
+      },
+      {
+        "giay": 46,
+        "nhan": "Quy đổi gram ra hình ảnh quen thuộc"
+      },
+      {
+        "giay": 105,
+        "nhan": "Nhóm quả ngọt dễ ăn quá tay"
+      },
+      {
+        "giay": 139,
+        "nhan": "Sự thật về đường trong trái cây"
+      },
+      {
+        "giay": 218,
+        "nhan": "Chế biến ảnh hưởng giá trị phần ăn"
+      }
+    ]
   },
   {
     "slug": "an-bi-do-nhieu-co-bi-vang-da-khong",
@@ -95,8 +228,37 @@
     "moTa": "Ăn bí đỏ nhiều có bị vàng da không, một tuần nên ăn mấy lần, trẻ nhỏ ăn bao nhiêu là đủ? Giải thích hiện tượng vàng da do beta-caroten và cách đưa bí đỏ vào…",
     "anh": "https://i.ytimg.com/vi/keR4GPTCi68/maxresdefault.jpg",
     "ngay": "2026-08-22",
-    "giay": 0,
-    "chuong": []
+    "giay": 273,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Lòng bàn tay ánh vàng vì ăn nhiều bí đỏ"
+      },
+      {
+        "giay": 30,
+        "nhan": "Beta-caroten và cơ chế đổi màu da"
+      },
+      {
+        "giay": 66,
+        "nhan": "Phân biệt với vàng da bệnh lý"
+      },
+      {
+        "giay": 100,
+        "nhan": "Vàng da do bí đỏ có tự hết không"
+      },
+      {
+        "giay": 131,
+        "nhan": "Tần suất ăn bí đỏ hợp lý mỗi tuần"
+      },
+      {
+        "giay": 177,
+        "nhan": "Mẹo nấu bí đỏ hấp thu tốt hơn"
+      },
+      {
+        "giay": 216,
+        "nhan": "Lời khuyên đa dạng rau củ và cơ địa"
+      }
+    ]
   },
   {
     "slug": "an-ca-dung-cach-moi-tuan",
@@ -105,8 +267,37 @@
     "moTa": "Gợi ý tần suất ăn cá hợp lý mỗi tuần, cách chọn cá tươi ngoài chợ Việt và mẹo chế biến giữ trọn omega-3, dưỡng chất cho bữa ăn gia đình.",
     "anh": "https://i.ytimg.com/vi/kc5KbB7vV-U/maxresdefault.jpg",
     "ngay": "2026-08-22",
-    "giay": 0,
-    "chuong": []
+    "giay": 277,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vì sao nên ăn cá hằng tuần"
+      },
+      {
+        "giay": 46,
+        "nhan": "Ăn cá bao nhiêu là vừa"
+      },
+      {
+        "giay": 74,
+        "nhan": "Chọn cá béo hay cá trắng"
+      },
+      {
+        "giay": 105,
+        "nhan": "Cách chọn cá tươi ngoài chợ"
+      },
+      {
+        "giay": 127,
+        "nhan": "Sơ chế và nấu cá giữ dưỡng chất"
+      },
+      {
+        "giay": 199,
+        "nhan": "Chọn cá theo từng đối tượng trong nhà"
+      },
+      {
+        "giay": 231,
+        "nhan": "Lỗi thường gặp khi ăn cá"
+      }
+    ]
   },
   {
     "slug": "an-cay-nhieu-co-hai-khong",
@@ -115,8 +306,37 @@
     "moTa": "Ăn cay nhiều có hại không, cay bao nhiêu là quá tay, ai nên dè chừng? Giải thích capsaicin tác động thế nào lên dạ dày, dấu hiệu ăn cay quá mức và 9 nguyên tắc ăn cay êm bụng.",
     "anh": "https://i.ytimg.com/vi/nxP7a6r_NYk/maxresdefault.jpg",
     "ngay": "2026-08-23",
-    "giay": 0,
-    "chuong": []
+    "giay": 297,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn cay có nên bỏ hẳn không"
+      },
+      {
+        "giay": 25,
+        "nhan": "Vị cay thực chất là gì"
+      },
+      {
+        "giay": 60,
+        "nhan": "Capsaicin tác động lên dạ dày"
+      },
+      {
+        "giay": 111,
+        "nhan": "Dấu hiệu ăn cay quá tay"
+      },
+      {
+        "giay": 148,
+        "nhan": "Nhóm người cần ăn cay dè chừng"
+      },
+      {
+        "giay": 179,
+        "nhan": "Góc nhìn Đông y về vị cay"
+      },
+      {
+        "giay": 224,
+        "nhan": "Cách ăn cay để bụng dễ chịu"
+      }
+    ]
   },
   {
     "slug": "an-cham-nhai-ky",
@@ -125,8 +345,33 @@
     "moTa": "Vì sao ăn chậm, nhai kỹ giúp tiêu hoá nhẹ nhàng và ăn vừa đủ hơn? Lợi ích của bữa ăn chậm rãi và những mẹo đơn giản để tập ăn chậm giữa nhịp sống vội.",
     "anh": "https://i.ytimg.com/vi/A9av8CfrMM0/maxresdefault.jpg",
     "ngay": "2026-08-23",
-    "giay": 0,
-    "chuong": []
+    "giay": 251,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Thói quen ăn nhanh thời nay"
+      },
+      {
+        "giay": 36,
+        "nhan": "Tiêu hoá bắt đầu từ miệng"
+      },
+      {
+        "giay": 68,
+        "nhan": "Tín hiệu no và ăn no 80%"
+      },
+      {
+        "giay": 109,
+        "nhan": "Ăn chậm là quãng nghỉ cho tâm trí"
+      },
+      {
+        "giay": 147,
+        "nhan": "Bốn mẹo tập ăn chậm"
+      },
+      {
+        "giay": 234,
+        "nhan": "Lợi ích khi bắt đầu ăn chậm"
+      }
+    ]
   },
   {
     "slug": "an-chay-ca-thang-7-am-lich-du-chat",
@@ -135,8 +380,37 @@
     "moTa": "Ăn chay cả tháng 7 âm lịch có đủ chất không? Bốn khoảng hụt hay gặp khi ăn chay trường một tháng, cách bù bằng thực phẩm quen thuộc và thực đơn mẫu một tuần.",
     "anh": "https://i.ytimg.com/vi/CPq_EOhEOtQ/maxresdefault.jpg",
     "ngay": "2026-08-23",
-    "giay": 0,
-    "chuong": []
+    "giay": 287,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn chay cả tháng có đủ chất không?"
+      },
+      {
+        "giay": 25,
+        "nhan": "Lỗ hổng trong mâm chay quen thuộc"
+      },
+      {
+        "giay": 56,
+        "nhan": "Bốn dưỡng chất dễ thiếu khi ăn chay"
+      },
+      {
+        "giay": 158,
+        "nhan": "Cách chia mâm chay bốn phần"
+      },
+      {
+        "giay": 187,
+        "nhan": "Ba việc nên thay đổi trong tháng chay"
+      },
+      {
+        "giay": 232,
+        "nhan": "Mẹo chuẩn bị cho người bận rộn"
+      },
+      {
+        "giay": 258,
+        "nhan": "Linh hoạt ăn chay theo từng gia đình"
+      }
+    ]
   },
   {
     "slug": "an-chay-du-chat-can-bang",
@@ -145,8 +419,37 @@
     "moTa": "Ăn chay đủ chất không khó nếu bạn biết cách. Nguồn đạm thực vật, vi chất B12, sắt, canxi, omega-3 và cách xây khẩu phần chay cân bằng cho người mới.",
     "anh": "https://i.ytimg.com/vi/_UniBMTsx10/maxresdefault.jpg",
     "ngay": "2026-08-24",
-    "giay": 0,
-    "chuong": []
+    "giay": 318,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn chay đủ chất có khả thi không?"
+      },
+      {
+        "giay": 24,
+        "nhan": "Bổ sung đạm từ đậu và hạt"
+      },
+      {
+        "giay": 66,
+        "nhan": "Vitamin B12 khi ăn chay"
+      },
+      {
+        "giay": 100,
+        "nhan": "Sắt, kẽm và cách hấp thu tốt hơn"
+      },
+      {
+        "giay": 131,
+        "nhan": "Canxi từ nguồn thực vật"
+      },
+      {
+        "giay": 161,
+        "nhan": "Omega-3 cho người ăn chay"
+      },
+      {
+        "giay": 202,
+        "nhan": "Mẫu đĩa ăn và thực đơn một ngày"
+      }
+    ]
   },
   {
     "slug": "an-chay-linh-hoat-flexitarian",
@@ -155,8 +458,37 @@
     "moTa": "Ăn chay linh hoạt là gì, khác ăn chay trường ra sao và bắt đầu thế nào cho hợp mâm cơm Việt? Hướng dẫn 4 mức độ, thực đơn mẫu và cách giữ đủ đạm, sắt, B12.",
     "anh": "https://i.ytimg.com/vi/DzkII2GQzK0/maxresdefault.jpg",
     "ngay": "2026-08-24",
-    "giay": 0,
-    "chuong": []
+    "giay": 305,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ngã ba lựa chọn cách ăn"
+      },
+      {
+        "giay": 20,
+        "nhan": "Ăn chay linh hoạt là gì"
+      },
+      {
+        "giay": 43,
+        "nhan": "Định nghĩa và nguyên tắc"
+      },
+      {
+        "giay": 69,
+        "nhan": "Vì sao dễ duy trì lâu dài"
+      },
+      {
+        "giay": 96,
+        "nhan": "Bốn mức áp dụng từ dễ đến khó"
+      },
+      {
+        "giay": 148,
+        "nhan": "Dưỡng chất cần lưu ý: đạm, sắt, B12"
+      },
+      {
+        "giay": 208,
+        "nhan": "Omega-3, kẽm, canxi và sai lầm cần tránh"
+      }
+    ]
   },
   {
     "slug": "an-chay-ngay-ram-mung-mot-du-chat",
@@ -165,8 +497,37 @@
     "moTa": "Ăn chay ngày rằm mùng một nhưng đến chiều lại mệt và đói? Bài viết chỉ ra ba lỗi thường gặp của mâm chay Việt, khung mâm chay đủ chất, nguồn đạm chay dễ tìm…",
     "anh": "https://i.ytimg.com/vi/lY-8zDCnhDo/maxresdefault.jpg",
     "ngay": "2026-08-24",
-    "giay": 0,
-    "chuong": []
+    "giay": 207,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vì sao ăn chay xong hay đói lúc 3-4 giờ"
+      },
+      {
+        "giay": 20,
+        "nhan": "Mâm chay quen thuộc bị lệch dinh dưỡng"
+      },
+      {
+        "giay": 49,
+        "nhan": "Cách chia mâm cơm thành 4 ô cân đối"
+      },
+      {
+        "giay": 71,
+        "nhan": "Bổ sung đạm từ đậu phụ, đậu đỗ, nấm"
+      },
+      {
+        "giay": 116,
+        "nhan": "Lưu ý về đồ chay giả mặn chế biến sẵn"
+      },
+      {
+        "giay": 136,
+        "nhan": "Mẹo hấp thu sắt và tránh trà cà phê"
+      },
+      {
+        "giay": 175,
+        "nhan": "Gợi ý cho người lớn tuổi và trẻ nhỏ"
+      }
+    ]
   },
   {
     "slug": "an-chay-truong-thieu-chat-gi",
@@ -175,8 +536,41 @@
     "moTa": "Ăn chay trường thiếu chất gì? B12, sắt, kẽm, canxi, vitamin D, omega-3, i-ốt và đạm là 7 nhóm cần theo dõi — kèm cách bù bằng thực phẩm Việt quen thuộc.",
     "anh": "https://i.ytimg.com/vi/5j6-QHMLirw/maxresdefault.jpg",
     "ngay": "2026-08-24",
-    "giay": 0,
-    "chuong": []
+    "giay": 285,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn chay trường liệu có đủ chất?"
+      },
+      {
+        "giay": 37,
+        "nhan": "Vitamin B12 thiếu hụt âm thầm"
+      },
+      {
+        "giay": 72,
+        "nhan": "Sắt và kẽm, cách tăng hấp thu"
+      },
+      {
+        "giay": 111,
+        "nhan": "Canxi và vitamin D cần nắng"
+      },
+      {
+        "giay": 146,
+        "nhan": "Omega-3 và nguồn DHA từ tảo"
+      },
+      {
+        "giay": 170,
+        "nhan": "I-ốt và đạm thực vật"
+      },
+      {
+        "giay": 201,
+        "nhan": "Dấu hiệu thiếu chất cần lưu ý"
+      },
+      {
+        "giay": 232,
+        "nhan": "Bốn nguyên tắc cho mâm cơm chay"
+      }
+    ]
   },
   {
     "slug": "an-chuoi-moi-ngay-co-tot-khong",
@@ -185,8 +579,33 @@
     "moTa": "Ăn chuối mỗi ngày có tốt không? Bài viết phân tích giá trị dinh dưỡng của chuối, thời điểm ăn phù hợp và lượng vừa đủ trong thực đơn Việt hằng ngày.",
     "anh": "https://i.ytimg.com/vi/CqjX9d046R8/maxresdefault.jpg",
     "ngay": "2026-08-25",
-    "giay": 0,
-    "chuong": []
+    "giay": 258,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Thói quen ăn chuối mỗi ngày"
+      },
+      {
+        "giay": 22,
+        "nhan": "Giá trị dinh dưỡng của chuối"
+      },
+      {
+        "giay": 71,
+        "nhan": "Thời điểm ăn chuối trong ngày"
+      },
+      {
+        "giay": 140,
+        "nhan": "Ăn chuối buổi tối có dễ ngủ?"
+      },
+      {
+        "giay": 211,
+        "nhan": "Ăn bao nhiêu chuối là vừa"
+      },
+      {
+        "giay": 242,
+        "nhan": "Nhóm người cần chú ý khi ăn chuối"
+      }
+    ]
   },
   {
     "slug": "an-com-chan-canh-co-hai-khong",
@@ -195,8 +614,37 @@
     "moTa": "Ăn cơm chan canh có hại không? Phân tích hai luồng ý kiến, vấn đề thật sự nằm ở đâu, ai nên cẩn thận và cách ăn canh đúng để bữa cơm nhẹ bụng hơn.",
     "anh": "https://i.ytimg.com/vi/6AbTjUV1GAM/maxresdefault.jpg",
     "ngay": "2026-08-25",
-    "giay": 0,
-    "chuong": []
+    "giay": 254,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Tranh cãi cơm chan canh có hại không"
+      },
+      {
+        "giay": 31,
+        "nhan": "Cơm chan canh không gây hại dạ dày"
+      },
+      {
+        "giay": 42,
+        "nhan": "Vấn đề thật sự là nhai ít, nuốt nhanh"
+      },
+      {
+        "giay": 91,
+        "nhan": "Não cần 20 phút mới báo no"
+      },
+      {
+        "giay": 114,
+        "nhan": "Ai cần cẩn thận với thói quen này"
+      },
+      {
+        "giay": 196,
+        "nhan": "Người già và trẻ nhỏ nên chan canh khác"
+      },
+      {
+        "giay": 215,
+        "nhan": "Cách ăn canh nhẹ bụng và lời kết"
+      }
+    ]
   },
   {
     "slug": "an-dam-cho-be-bat-dau-tu-dau",
@@ -205,8 +653,37 @@
     "moTa": "Gợi ý thời điểm bắt đầu ăn dặm, cách chọn thực phẩm theo từng giai đoạn và xây dựng thói quen ăn uống tích cực cho bé ngay từ bữa đầu tiên.",
     "anh": "https://i.ytimg.com/vi/g3C1zqixvVo/maxresdefault.jpg",
     "ngay": "2026-08-25",
-    "giay": 0,
-    "chuong": []
+    "giay": 223,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Khi nào bé sẵn sàng ăn dặm"
+      },
+      {
+        "giay": 52,
+        "nhan": "6-8 tháng: làm quen mùi vị, hạn chế"
+      },
+      {
+        "giay": 107,
+        "nhan": "8-10 tháng: tăng độ thô, bổ sung đạm"
+      },
+      {
+        "giay": 135,
+        "nhan": "Gần 1 tuổi: tự bốc ăn, ngồi cùng mâm cơm"
+      },
+      {
+        "giay": 161,
+        "nhan": "Không khí bữa ăn quan trọng hơn số lượng"
+      },
+      {
+        "giay": 193,
+        "nhan": "Ăn dặm là nền móng thói quen ăn uống"
+      },
+      {
+        "giay": 213,
+        "nhan": "Xem thêm bài viết chi tiết trên blog"
+      }
+    ]
   },
   {
     "slug": "an-dau-moi-ngay-co-tot-khong",
@@ -215,8 +692,37 @@
     "moTa": "Ăn đậu mỗi ngày có tốt không? Lượng đạm của từng loại đậu Việt, mức ăn hợp lý mỗi ngày, cách xử lý đầy hơi khi ăn đậu và gợi ý một tuần có đậu mà không ngán.",
     "anh": "https://i.ytimg.com/vi/BD_kXCXEF-M/maxresdefault.jpg",
     "ngay": "2026-08-25",
-    "giay": 0,
-    "chuong": []
+    "giay": 248,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn đậu mỗi ngày có tốt không?"
+      },
+      {
+        "giay": 36,
+        "nhan": "Hàm lượng đạm và dinh dưỡng trong đậu"
+      },
+      {
+        "giay": 59,
+        "nhan": "Ăn bao nhiêu đậu mỗi ngày là đủ"
+      },
+      {
+        "giay": 93,
+        "nhan": "Vì sao ăn đậu hay bị đầy hơi"
+      },
+      {
+        "giay": 125,
+        "nhan": "Ba cách giảm đầy hơi khi ăn đậu"
+      },
+      {
+        "giay": 151,
+        "nhan": "Đạm đậu kết hợp với gạo ngũ cốc"
+      },
+      {
+        "giay": 186,
+        "nhan": "Ai cần lưu ý khi ăn đậu"
+      }
+    ]
   },
   {
     "slug": "an-dau-phu-co-tot-khong",
@@ -225,8 +731,37 @@
     "moTa": "Ăn đậu phụ có tốt không, ăn mỗi ngày được không, bao nhiêu gram là vừa? Giải thích giá trị dinh dưỡng của đậu phụ, chuyện isoflavone với nam giới, người tuyến giáp, cách chọn đậu phụ sạch và chế biến giữ được cái hay.",
     "anh": "https://i.ytimg.com/vi/TIHHoNa2Km8/maxresdefault.jpg",
     "ngay": "2026-08-27",
-    "giay": 0,
-    "chuong": []
+    "giay": 240,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Đậu phụ ăn nhiều có sao không"
+      },
+      {
+        "giay": 19,
+        "nhan": "Giá trị dinh dưỡng của đậu phụ"
+      },
+      {
+        "giay": 55,
+        "nhan": "Lượng đậu phụ nên ăn mỗi ngày"
+      },
+      {
+        "giay": 96,
+        "nhan": "Đậu phụ và nội tiết tố nam giới"
+      },
+      {
+        "giay": 142,
+        "nhan": "Nhóm người cần lưu ý khi ăn"
+      },
+      {
+        "giay": 185,
+        "nhan": "Nhìn nhận đúng vai trò của đậu phụ"
+      },
+      {
+        "giay": 225,
+        "nhan": "Tìm hiểu thêm trên blog IKI Healing"
+      }
+    ]
   },
   {
     "slug": "an-do-hop-the-nao-cho-an-toan",
@@ -235,8 +770,37 @@
     "moTa": "Đồ hộp có hại không, chọn thế nào cho an toàn, mở rồi để được mấy ngày? Dấu hiệu phải bỏ ngay, cách đọc nhãn natri và cách ghép vào bữa ăn cân bằng.",
     "anh": "https://i.ytimg.com/vi/JZJRLgIgMyY/maxresdefault.jpg",
     "ngay": "2026-08-27",
-    "giay": 0,
-    "chuong": []
+    "giay": 311,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Đồ hộp ăn có an toàn không"
+      },
+      {
+        "giay": 24,
+        "nhan": "Quy trình đóng hộp và ba rủi ro"
+      },
+      {
+        "giay": 75,
+        "nhan": "Cách chọn hộp khi mua"
+      },
+      {
+        "giay": 119,
+        "nhan": "Đọc nhãn: natri, đường, thành phần"
+      },
+      {
+        "giay": 158,
+        "nhan": "Bảo quản sau khi mở hộp"
+      },
+      {
+        "giay": 203,
+        "nhan": "Lưu ý với đồ tự đóng tại nhà"
+      },
+      {
+        "giay": 227,
+        "nhan": "Kết hợp đồ hộp vào bữa ăn cân bằng"
+      }
+    ]
   },
   {
     "slug": "an-do-nuong-thuong-xuyen-co-hai-khong",
@@ -245,8 +809,29 @@
     "moTa": "Ăn đồ nướng thường xuyên có hại không, một tuần mấy lần là hợp lý? Giải thích phần cháy khét sinh ra gì, bốn thứ dễ bị bỏ qua trong bữa nướng và 10 cách nướng — ăn cho nhẹ bụng hơn.",
     "anh": "https://i.ytimg.com/vi/LBze2JF010I/maxresdefault.jpg",
     "ngay": "2026-08-27",
-    "giay": 0,
-    "chuong": []
+    "giay": 313,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Món nướng có thực sự đáng lo?"
+      },
+      {
+        "giay": 53,
+        "nhan": "Vì sao thịt nướng thơm và sinh chất hại"
+      },
+      {
+        "giay": 154,
+        "nhan": "Ăn nướng thường xuyên có hại không"
+      },
+      {
+        "giay": 243,
+        "nhan": "Bốn thứ hay bị bỏ qua trong bữa nướng"
+      },
+      {
+        "giay": 289,
+        "nhan": "Vai trò của rau khi ăn cuốn thịt nướng"
+      }
+    ]
   },
   {
     "slug": "an-dua-thom-co-tac-dung-gi",
@@ -255,8 +840,37 @@
     "moTa": "Ăn dứa có tác dụng gì, mỗi ngày nên ăn bao nhiêu, ăn lúc nào thì hợp lý và vì sao hay bị rát lưỡi? Hướng dẫn ăn dứa đúng cách theo thể tạng, kèm lưu ý cho…",
     "anh": "https://i.ytimg.com/vi/617NKe45-EI/maxresdefault.jpg",
     "ngay": "2026-08-27",
-    "giay": 0,
-    "chuong": []
+    "giay": 290,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn dứa: tốt hay rát lưỡi?"
+      },
+      {
+        "giay": 22,
+        "nhan": "Thành phần dinh dưỡng và bromelain"
+      },
+      {
+        "giay": 88,
+        "nhan": "Lượng dứa nên ăn mỗi lần"
+      },
+      {
+        "giay": 132,
+        "nhan": "Thời điểm ăn dứa hợp lý"
+      },
+      {
+        "giay": 164,
+        "nhan": "Nguyên nhân rát lưỡi và cách giảm"
+      },
+      {
+        "giay": 210,
+        "nhan": "Đối tượng cần thận trọng"
+      },
+      {
+        "giay": 254,
+        "nhan": "Tổng kết cách ăn dứa đúng"
+      }
+    ]
   },
   {
     "slug": "an-gi-cho-nang-luong-ben",
@@ -265,8 +879,37 @@
     "moTa": "Ăn gì để có năng lượng bền cả ngày làm việc? Cách phối bữa ăn cân bằng đạm, tinh bột tốt, chất béo lành và rau quả để tránh tụt sức giữa buổi và buồn ngủ sau…",
     "anh": "https://i.ytimg.com/vi/1vuYWfLcMcw/maxresdefault.jpg",
     "ngay": "2026-08-28",
-    "giay": 0,
-    "chuong": []
+    "giay": 263,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vì sao năng lượng hay trồi sụt"
+      },
+      {
+        "giay": 65,
+        "nhan": "Bốn phần trong đĩa ăn cân bằng"
+      },
+      {
+        "giay": 108,
+        "nhan": "Ăn khi nào cũng quan trọng"
+      },
+      {
+        "giay": 148,
+        "nhan": "Đồ uống ảnh hưởng năng lượng"
+      },
+      {
+        "giay": 175,
+        "nhan": "Vận động nhẹ và nghỉ giải lao"
+      },
+      {
+        "giay": 222,
+        "nhan": "Mỗi người một thể trạng khác nhau"
+      },
+      {
+        "giay": 245,
+        "nhan": "Bắt đầu điều chỉnh nhịp ăn"
+      }
+    ]
   },
   {
     "slug": "an-gi-de-giam-cang-thang-lo-au",
@@ -275,8 +918,37 @@
     "moTa": "Ăn gì để giảm căng thẳng khi đầu óc lúc nào cũng căng như dây đàn? Bốn nhóm dinh dưỡng đáng chú ý, những thứ nên bớt, thực đơn tham khảo một ngày và cách nhận ra khi bạn đang ăn theo cảm xúc.",
     "anh": "https://i.ytimg.com/vi/h0b5tKz47so/maxresdefault.jpg",
     "ngay": "2026-08-28",
-    "giay": 0,
-    "chuong": []
+    "giay": 301,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Đói bụng hay đói vì căng thẳng"
+      },
+      {
+        "giay": 43,
+        "nhan": "Magie cho cơ và thần kinh"
+      },
+      {
+        "giay": 73,
+        "nhan": "Chất béo tốt và omega ba"
+      },
+      {
+        "giay": 104,
+        "nhan": "Chất xơ và thực phẩm lên men"
+      },
+      {
+        "giay": 138,
+        "nhan": "Đạm rải đều trong ngày"
+      },
+      {
+        "giay": 175,
+        "nhan": "Bốn thứ nên cân nhắc bớt lại"
+      },
+      {
+        "giay": 253,
+        "nhan": "Phân biệt đói thật và thèm cảm xúc"
+      }
+    ]
   },
   {
     "slug": "an-gi-de-tang-chieu-cao-cho-tre",
@@ -285,8 +957,37 @@
     "moTa": "Ăn gì để tăng chiều cao cho trẻ? Danh sách nhóm thực phẩm giàu canxi, đạm, vitamin D, kẽm; thực đơn mẫu một ngày theo từng độ tuổi và 4 yếu tố quyết định chiều cao ngoài bữa ăn.",
     "anh": "https://i.ytimg.com/vi/HA3EfbBKSQU/maxresdefault.jpg",
     "ngay": "2026-08-28",
-    "giay": 0,
-    "chuong": []
+    "giay": 252,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Món ăn nào giúp con cao thêm"
+      },
+      {
+        "giay": 24,
+        "nhan": "Chất đạm xây cơ và khung xương"
+      },
+      {
+        "giay": 42,
+        "nhan": "Canxi thành phần chính của xương"
+      },
+      {
+        "giay": 62,
+        "nhan": "Vitamin D dễ bị bỏ quên"
+      },
+      {
+        "giay": 86,
+        "nhan": "Kẽm và cảm giác thèm ăn"
+      },
+      {
+        "giay": 105,
+        "nhan": "Giấc ngủ vận động và giai đoạn vàng"
+      },
+      {
+        "giay": 152,
+        "nhan": "Yếu tố kéo lùi và cách theo dõi"
+      }
+    ]
   },
   {
     "slug": "an-gi-de-tang-suc-de-khang-cho-nguoi-lon",
@@ -295,8 +996,345 @@
     "moTa": "Ăn gì để tăng sức đề kháng cho người lớn khi giao mùa? Nhóm chất cần đủ, thực phẩm quen thuộc dễ mua, thực đơn mẫu một tuần và những thói quen ăn uống nên bỏ…",
     "anh": "https://i.ytimg.com/vi/w82JwXWACG4/maxresdefault.jpg",
     "ngay": "2026-08-28",
+    "giay": 311,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Sức đề kháng không đến từ một món thần"
+      },
+      {
+        "giay": 34,
+        "nhan": "Đủ đạm mỗi bữa, rải đều ba bữa"
+      },
+      {
+        "giay": 59,
+        "nhan": "Bốn vi chất cần nhớ: C, D, kẽm, sắt"
+      },
+      {
+        "giay": 120,
+        "nhan": "Đường ruột khoẻ nhờ chất xơ và lên men"
+      },
+      {
+        "giay": 164,
+        "nhan": "Giấc ngủ, nước uống và mẹo lúc giao mùa"
+      },
+      {
+        "giay": 233,
+        "nhan": "Lưu ý dinh dưỡng cho người trên 50 tuổi"
+      },
+      {
+        "giay": 265,
+        "nhan": "Nguyên liệu từ chợ Việt, chi phí bình"
+      }
+    ]
+  },
+  {
+    "slug": "an-gi-de-tap-trung-lam-viec",
+    "videoId": "KHTtNGXbLr4",
+    "ten": "Ăn gì để tập trung làm việc? Thực đơn giữ đầu óc tỉnh táo",
+    "moTa": "Ăn gì để tập trung làm việc, đỡ hay quên và không tụt năng lượng giữa buổi? Hướng dẫn chọn bữa sáng, bữa trưa, bữa phụ và đồ uống theo từng khung giờ, kèm lộ…",
+    "anh": "https://i.ytimg.com/vi/KHTtNGXbLr4/maxresdefault.jpg",
+    "ngay": "2026-08-29",
+    "giay": 275,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vì sao bạn mất tập trung trong ngày"
+      },
+      {
+        "giay": 20,
+        "nhan": "Não cần năng lượng liên tục từ máu"
+      },
+      {
+        "giay": 61,
+        "nhan": "Bữa sáng quyết định ba tiếng đầu ngày"
+      },
+      {
+        "giay": 98,
+        "nhan": "Bữa trưa và cơn buồn ngủ đầu chiều"
+      },
+      {
+        "giay": 132,
+        "nhan": "Bữa phụ giữa chiều giữ năng lượng ổn"
+      },
+      {
+        "giay": 175,
+        "nhan": "Cà phê trà và thời điểm dùng hợp lý"
+      },
+      {
+        "giay": 220,
+        "nhan": "Nước, giấc ngủ và vận động là nền tảng"
+      }
+    ]
+  },
+  {
+    "slug": "an-gi-tot-cho-phoi-khi-khong-khi-o-nhiem",
+    "videoId": "xeqrnsy9mRw",
+    "ten": "Ăn gì tốt cho phổi khi không khí ô nhiễm",
+    "moTa": "Ăn gì tốt cho phổi khi không khí ô nhiễm? Nhóm thực phẩm giàu chất chống oxy hoá, gia vị Việt quen thuộc, thức uống ấm và thực đơn tham khảo cho những ngày…",
+    "anh": "https://i.ytimg.com/vi/xeqrnsy9mRw/maxresdefault.jpg",
+    "ngay": "2026-08-29",
+    "giay": 278,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ngày ô nhiễm: ăn gì cho đỡ mệt?"
+      },
+      {
+        "giay": 27,
+        "nhan": "Sự thật: thức ăn không lôi bụi mịn ra"
+      },
+      {
+        "giay": 62,
+        "nhan": "Rau quả giàu vitamin C và beta-carotene"
+      },
+      {
+        "giay": 96,
+        "nhan": "Trái cây sẫm màu, cà chua và lycopene"
+      },
+      {
+        "giay": 145,
+        "nhan": "Các loại hạt, gừng nghệ tỏi"
+      },
+      {
+        "giay": 165,
+        "nhan": "Uống đủ nước và bổ sung đủ đạm"
+      },
+      {
+        "giay": 231,
+        "nhan": "Vai trò hỗ trợ và việc quan trọng hơn"
+      }
+    ]
+  },
+  {
+    "slug": "an-gi-truoc-khi-ngu-de-ngu-ngon",
+    "videoId": "xzKvc5FY4NA",
+    "ten": "Ăn gì trước khi ngủ để ngủ ngon? 12 lựa chọn dễ tìm",
+    "moTa": "Ăn gì trước khi ngủ để ngủ ngon? Danh sách 12 món dễ tìm ở Việt Nam, khẩu phần hợp lý, nên ăn trước giờ ngủ bao lâu, những món nên tránh buổi tối và nếp tối gợi ý trong 7 ngày.",
+    "anh": "https://i.ytimg.com/vi/xzKvc5FY4NA/maxresdefault.jpg",
+    "ngay": "2026-08-29",
+    "giay": 232,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Trằn trọc nửa đêm vì bụng lửng lơ"
+      },
+      {
+        "giay": 21,
+        "nhan": "Bữa phụ tối không phải thuốc ngủ"
+      },
+      {
+        "giay": 45,
+        "nhan": "Ba chữ nhỏ ấm nhẹ cho bữa phụ"
+      },
+      {
+        "giay": 81,
+        "nhan": "Món dễ tìm và trà thảo mộc ấm"
+      },
+      {
+        "giay": 98,
+        "nhan": "Cần tránh cà phê rượu bia đồ dầu mỡ"
+      },
+      {
+        "giay": 159,
+        "nhan": "Mốc giờ ăn tối và mẹo phân biệt đói"
+      },
+      {
+        "giay": 215,
+        "nhan": "Ánh sáng, màn hình và giờ ngủ đều đặn"
+      }
+    ]
+  },
+  {
+    "slug": "an-gi-truoc-khi-tap-gym-buoi-sang",
+    "videoId": "hOIaWfXAYw4",
+    "ten": "Ăn gì trước khi tập gym buổi sáng cho đủ sức",
+    "moTa": "Ăn gì trước khi tập gym buổi sáng khi chỉ còn 15, 45 hay 90 phút? Gợi ý món Việt tiện, lượng đạm và tinh bột hợp lý, uống gì trước tập và cách ăn sau buổi tập.",
+    "anh": "https://i.ytimg.com/vi/hOIaWfXAYw4/maxresdefault.jpg",
+    "ngay": "2026-08-29",
+    "giay": 300,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn gì trước khi tập gym buổi sáng"
+      },
+      {
+        "giay": 34,
+        "nhan": "Tập bụng đói được không"
+      },
+      {
+        "giay": 66,
+        "nhan": "Ăn theo từng mốc thời gian có sẵn"
+      },
+      {
+        "giay": 148,
+        "nhan": "Nước uống và cà phê trước khi tập"
+      },
+      {
+        "giay": 176,
+        "nhan": "Chọn món ăn theo loại buổi tập"
+      },
+      {
+        "giay": 229,
+        "nhan": "Ăn uống sau khi tập luyện"
+      },
+      {
+        "giay": 285,
+        "nhan": "Xem thêm lịch ăn mẫu trên blog"
+      }
+    ]
+  },
+  {
+    "slug": "an-giam-muoi",
+    "videoId": "9FnL94Z9Xqc",
+    "ten": "Ăn giảm muối: vị giác quen dần và mẹo nêm nhạt",
+    "moTa": "Ăn nhạt bớt có khó không? Vị giác thật ra quen dần chỉ sau vài tuần. Vì sao nên giảm muối, mẹo nêm nhạt vẫn ngon và cách bắt đầu nhẹ nhàng mỗi ngày.",
+    "anh": "https://i.ytimg.com/vi/9FnL94Z9Xqc/maxresdefault.jpg",
+    "ngay": "2026-08-30",
     "giay": 0,
-    "chuong": []
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Vị giác là thói quen, có thể tập lại"
+      },
+      {
+        "giay": 25,
+        "nhan": "Vì sao nên bớt muối"
+      },
+      {
+        "giay": 65,
+        "nhan": "Vị giác quen dần với vị nhạt ra sao"
+      },
+      {
+        "giay": 152,
+        "nhan": "Mẹo nêm nhạt mà món vẫn ngon"
+      },
+      {
+        "giay": 187,
+        "nhan": "Khuyến nghị lượng muối mỗi ngày"
+      },
+      {
+        "giay": 222,
+        "nhan": "Muối ẩn trong đồ chế biến sẵn"
+      }
+    ]
+  },
+  {
+    "slug": "an-hai-san-bao-nhieu-la-du",
+    "videoId": "arqdEDHuUJc",
+    "ten": "Ăn hải sản bao nhiêu là đủ mỗi tuần",
+    "moTa": "Ăn hải sản bao nhiêu là đủ mỗi tuần? Liều lượng tham khảo cho người lớn và trẻ nhỏ, cách chọn tôm cua mực tươi, cách chế biến an toàn và những ai cần thận…",
+    "anh": "https://i.ytimg.com/vi/arqdEDHuUJc/maxresdefault.jpg",
+    "ngay": "2026-08-30",
+    "giay": 0,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn hải sản bao nhiêu là vừa đủ?"
+      },
+      {
+        "giay": 37,
+        "nhan": "Định lượng cho người trưởng thành"
+      },
+      {
+        "giay": 78,
+        "nhan": "Định lượng hải sản cho trẻ nhỏ"
+      },
+      {
+        "giay": 124,
+        "nhan": "Chọn hải sản cho phụ nữ mang thai"
+      },
+      {
+        "giay": 155,
+        "nhan": "Vấn đề kim loại nặng trong hải sản"
+      },
+      {
+        "giay": 175,
+        "nhan": "Cách chọn hải sản tươi ngon"
+      },
+      {
+        "giay": 236,
+        "nhan": "Chế biến đúng cách và ai cần thận trọng"
+      }
+    ]
+  },
+  {
+    "slug": "an-hoa-qua-truoc-hay-sau-bua-an",
+    "videoId": "gmBztMYHCFo",
+    "ten": "Nên ăn hoa quả trước hay sau bữa ăn?",
+    "moTa": "Nên ăn hoa quả trước hay sau bữa ăn? Không có quy tắc đúng cho tất cả. Bài viết phân tích từng thời điểm, ai hợp với cách nào, cách chọn quả theo thể tạng và…",
+    "anh": "https://i.ytimg.com/vi/gmBztMYHCFo/maxresdefault.jpg",
+    "ngay": "2026-08-30",
+    "giay": 0,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Nên ăn hoa quả lúc nào mới đúng?"
+      },
+      {
+        "giay": 28,
+        "nhan": "Sự thật: thời điểm ăn không quá quan"
+      },
+      {
+        "giay": 56,
+        "nhan": "Vì sao lời đồn về lên men, đầy bụng tồn"
+      },
+      {
+        "giay": 96,
+        "nhan": "Nguyên nhân thật của cảm giác ậm ạch"
+      },
+      {
+        "giay": 156,
+        "nhan": "Chọn thời điểm ăn phù hợp với bản thân"
+      },
+      {
+        "giay": 187,
+        "nhan": "Lưu ý theo cơ địa và lượng quả mỗi ngày"
+      },
+      {
+        "giay": 236,
+        "nhan": "Tóm lại và lời khuyên cuối cùng"
+      }
+    ]
+  },
+  {
+    "slug": "an-it-thit-co-thieu-dam-khong",
+    "videoId": "53qMGCozRp4",
+    "ten": "Ăn ít thịt có thiếu đạm không? Cách bù bằng đạm thực vật",
+    "moTa": "Ăn ít thịt có thiếu đạm không? Cần bao nhiêu đạm mỗi ngày, dấu hiệu ăn thiếu đạm, danh sách nguồn đạm không phải thịt và cách sắp một mâm cơm Việt đủ đạm mà vẫn nhẹ bụng.",
+    "anh": "https://i.ytimg.com/vi/53qMGCozRp4/maxresdefault.jpg",
+    "ngay": "2026-08-30",
+    "giay": 0,
+    "chuong": [
+      {
+        "giay": 0,
+        "nhan": "Ăn ít thịt có sợ thiếu đạm không?"
+      },
+      {
+        "giay": 55,
+        "nhan": "Hai kiểu giảm thịt: có và không thay thế"
+      },
+      {
+        "giay": 105,
+        "nhan": "Nhu cầu đạm mỗi ngày và ví dụ thực phẩm"
+      },
+      {
+        "giay": 158,
+        "nhan": "So sánh đạm động vật và thực vật"
+      },
+      {
+        "giay": 191,
+        "nhan": "Dấu hiệu nhận biết thiếu đạm"
+      },
+      {
+        "giay": 249,
+        "nhan": "Vitamin B12, sắt, kẽm, canxi dễ thiếu"
+      },
+      {
+        "giay": 308,
+        "nhan": "Cách sắp mâm cơm đủ đạm mỗi ngày"
+      }
+    ]
   },
   {
     "slug": "bao-cao-ban-do-quan-tam-suc-khoe-2026",

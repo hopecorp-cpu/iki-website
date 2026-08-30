@@ -327,22 +327,6 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-chay-du-chat-can-bang.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/_UniBMTsx10/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn chay đủ chất: cách xây khẩu phần cân bằng</video:title>
-      <video:description>Ăn chay đủ chất không khó nếu bạn biết cách. Nguồn đạm thực vật, vi chất B12, sắt, canxi, omega-3 và cách xây khẩu phần chay cân bằng cho người mới.</video:description>
-      <video:player_loc>https://www.youtube.com/embed/_UniBMTsx10</video:player_loc>
-      <video:publication_date>2026-08-24</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
 
 <url>
     <loc>https://ikihealing.com/blog/an-sang-tran-nang-luong.html</loc>
@@ -471,22 +455,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-gi-cho-nang-luong-ben.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/1vuYWfLcMcw/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn gì để có năng lượng bền cả ngày làm việc</video:title>
-      <video:description>Ăn gì để có năng lượng bền cả ngày làm việc? Cách phối bữa ăn cân bằng đạm, tinh bột tốt, chất béo lành và rau quả để tránh tụt sức giữa buổi và buồn ngủ sau…</video:description>
-      <video:player_loc>https://www.youtube.com/embed/1vuYWfLcMcw</video:player_loc>
-      <video:publication_date>2026-08-28</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/thuc-uong-am-tra-thao-moc.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -690,6 +659,17 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/KHTtNGXbLr4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn gì để tập trung làm việc? Thực đơn giữ đầu óc tỉnh táo</video:title>
+      <video:description>Ăn gì để tập trung làm việc, đỡ hay quên và không tụt năng lượng giữa buổi? Hướng dẫn chọn bữa sáng, bữa trưa, bữa phụ và đồ uống theo từng khung giờ, kèm lộ…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/KHTtNGXbLr4</video:player_loc>
+      <video:duration>275</video:duration>
+      <video:publication_date>2026-08-29</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/tap-the-duc-buoi-sang-hay-buoi-toi.html</loc>
@@ -781,22 +761,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-dau-phu-co-tot-khong.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/TIHHoNa2Km8/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn đậu phụ có tốt không? Bao nhiêu là đủ và ai nên lưu ý</video:title>
-      <video:description>Ăn đậu phụ có tốt không, ăn mỗi ngày được không, bao nhiêu gram là vừa? Giải thích giá trị dinh dưỡng của đậu phụ, chuyện isoflavone với nam giới, người tuyến giáp, cách chọn đậu phụ sạch và chế biến giữ được cái hay.</video:description>
-      <video:player_loc>https://www.youtube.com/embed/TIHHoNa2Km8</video:player_loc>
-      <video:publication_date>2026-08-27</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/uong-gi-thay-ca-phe-buoi-sang.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -868,6 +833,16 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/gmBztMYHCFo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Nên ăn hoa quả trước hay sau bữa ăn?</video:title>
+      <video:description>Nên ăn hoa quả trước hay sau bữa ăn? Không có quy tắc đúng cho tất cả. Bài viết phân tích từng thời điểm, ai hợp với cách nào, cách chọn quả theo thể tạng và…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/gmBztMYHCFo</video:player_loc>
+      <video:publication_date>2026-08-30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/com-nguoi-ham-lai-co-tot-khong.html</loc>
@@ -923,22 +898,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-chay-ngay-ram-mung-mot-du-chat.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/lY-8zDCnhDo/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn chay ngày rằm mùng một sao cho đủ chất</video:title>
-      <video:description>Ăn chay ngày rằm mùng một nhưng đến chiều lại mệt và đói? Bài viết chỉ ra ba lỗi thường gặp của mâm chay Việt, khung mâm chay đủ chất, nguồn đạm chay dễ tìm…</video:description>
-      <video:player_loc>https://www.youtube.com/embed/lY-8zDCnhDo</video:player_loc>
-      <video:publication_date>2026-08-24</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/duy-tri-thoi-quen-an-uong-lanh-manh.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -1004,6 +964,17 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/hOIaWfXAYw4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn gì trước khi tập gym buổi sáng cho đủ sức</video:title>
+      <video:description>Ăn gì trước khi tập gym buổi sáng khi chỉ còn 15, 45 hay 90 phút? Gợi ý món Việt tiện, lượng đạm và tinh bột hợp lý, uống gì trước tập và cách ăn sau buổi tập.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/hOIaWfXAYw4</video:player_loc>
+      <video:duration>300</video:duration>
+      <video:publication_date>2026-08-29</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/mon-an-de-tieu-cho-nguoi-lon-tuoi.html</loc>
@@ -1023,22 +994,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-chay-linh-hoat-flexitarian.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/DzkII2GQzK0/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn chay linh hoạt (flexitarian) là gì?</video:title>
-      <video:description>Ăn chay linh hoạt là gì, khác ăn chay trường ra sao và bắt đầu thế nào cho hợp mâm cơm Việt? Hướng dẫn 4 mức độ, thực đơn mẫu và cách giữ đủ đạm, sắt, B12.</video:description>
-      <video:player_loc>https://www.youtube.com/embed/DzkII2GQzK0</video:player_loc>
-      <video:publication_date>2026-08-24</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/uong-nuoc-da-lanh-co-hai-khong.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -1117,22 +1073,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-chay-ca-thang-7-am-lich-du-chat.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/CPq_EOhEOtQ/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn chay cả tháng 7 âm lịch có đủ chất không?</video:title>
-      <video:description>Ăn chay cả tháng 7 âm lịch có đủ chất không? Bốn khoảng hụt hay gặp khi ăn chay trường một tháng, cách bù bằng thực phẩm quen thuộc và thực đơn mẫu một tuần.</video:description>
-      <video:player_loc>https://www.youtube.com/embed/CPq_EOhEOtQ</video:player_loc>
-      <video:publication_date>2026-08-23</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/uong-dam-thuc-vat-bi-day-bung.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -1157,22 +1098,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-chay-truong-thieu-chat-gi.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/5j6-QHMLirw/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn chay trường thiếu chất gì? 7 dưỡng chất cần theo dõi</video:title>
-      <video:description>Ăn chay trường thiếu chất gì? B12, sắt, kẽm, canxi, vitamin D, omega-3, i-ốt và đạm là 7 nhóm cần theo dõi — kèm cách bù bằng thực phẩm Việt quen thuộc.</video:description>
-      <video:player_loc>https://www.youtube.com/embed/5j6-QHMLirw</video:player_loc>
-      <video:publication_date>2026-08-24</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/sau-khi-uong-khang-sinh-nen-an-gi.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -1235,22 +1161,6 @@
   </url>
 
 <url>
-    <loc>https://ikihealing.com/blog/an-gi-de-tang-suc-de-khang-cho-nguoi-lon.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/w82JwXWACG4/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn gì để tăng sức đề kháng cho người lớn</video:title>
-      <video:description>Ăn gì để tăng sức đề kháng cho người lớn khi giao mùa? Nhóm chất cần đủ, thực phẩm quen thuộc dễ mua, thực đơn mẫu một tuần và những thói quen ăn uống nên bỏ…</video:description>
-      <video:player_loc>https://www.youtube.com/embed/w82JwXWACG4</video:player_loc>
-      <video:publication_date>2026-08-28</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
-<url>
     <loc>https://ikihealing.com/blog/chuan-bi-mang-thai-nen-an-gi.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
@@ -1268,22 +1178,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-bao-nhieu-hat-moi-ngay-la-du.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/0tkjGm-qw8g/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Một ngày nên ăn bao nhiêu hạt là đủ?</video:title>
-      <video:description>Một ngày nên ăn bao nhiêu hạt là đủ? Khẩu phần tham khảo cho hạnh nhân, óc chó, điều, mắc ca, hạt bí, hạt hướng dương; cách ước lượng bằng lòng bàn tay, nên…</video:description>
-      <video:player_loc>https://www.youtube.com/embed/0tkjGm-qw8g</video:player_loc>
-      <video:publication_date>2026-08-22</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/uong-nuoc-la-voi-co-tot-khong.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -1374,22 +1269,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-<url>
-    <loc>https://ikihealing.com/blog/an-com-chan-canh-co-hai-khong.html</loc>
-    <lastmod>2026-07-21</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/6AbTjUV1GAM/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn cơm chan canh có hại không? Sự thật và cách ăn đúng</video:title>
-      <video:description>Ăn cơm chan canh có hại không? Phân tích hai luồng ý kiến, vấn đề thật sự nằm ở đâu, ai nên cẩn thận và cách ăn canh đúng để bữa cơm nhẹ bụng hơn.</video:description>
-      <video:player_loc>https://www.youtube.com/embed/6AbTjUV1GAM</video:player_loc>
-      <video:publication_date>2026-08-25</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
+
 <url>
     <loc>https://ikihealing.com/blog/ngu-hay-nam-mo-nhieu-co-sao-khong.html</loc>
     <lastmod>2026-07-21</lastmod>
@@ -1651,7 +1531,17 @@
 <url><loc>https://ikihealing.com/blog/suc-khoe-mua-mua.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/di-bo-sau-an.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/nuoc-ep-sinh-to-dung-cach.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://ikihealing.com/blog/an-giam-muoi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/an-giam-muoi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/9FnL94Z9Xqc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn giảm muối: vị giác quen dần và mẹo nêm nhạt</video:title>
+      <video:description>Ăn nhạt bớt có khó không? Vị giác thật ra quen dần chỉ sau vài tuần. Vì sao nên giảm muối, mẹo nêm nhạt vẫn ngon và cách bắt đầu nhẹ nhàng mỗi ngày.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/9FnL94Z9Xqc</video:player_loc>
+      <video:publication_date>2026-08-30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/blog/can-bao-nhieu-dam-moi-ngay.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/chon-dau-an-lanh-manh.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/en/blog/tao-bon-tieu-hoa-khoe.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -1751,7 +1641,18 @@
 <url><loc>https://ikihealing.com/blog/dinh-duong-can-bang-tuoi-day-thi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/ngoi-thien-5-phut-moi-ngay.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/trai-cay-theo-mua-o-viet-nam.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://ikihealing.com/blog/an-gi-truoc-khi-ngu-de-ngu-ngon.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/an-gi-truoc-khi-ngu-de-ngu-ngon.html</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xzKvc5FY4NA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn gì trước khi ngủ để ngủ ngon? 12 lựa chọn dễ tìm</video:title>
+      <video:description>Ăn gì trước khi ngủ để ngủ ngon? Danh sách 12 món dễ tìm ở Việt Nam, khẩu phần hợp lý, nên ăn trước giờ ngủ bao lâu, những món nên tránh buổi tối và nếp tối gợi ý trong 7 ngày.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/xzKvc5FY4NA</video:player_loc>
+      <video:duration>232</video:duration>
+      <video:publication_date>2026-08-29</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/blog/nguoi-an-chay-tap-gym-nen-an-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/thuc-pham-tang-sinh-collagen-tu-nhien.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/hay-bi-nhiet-mieng-nen-an-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -1790,7 +1691,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/blog/an-it-thit-co-thieu-dam-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/an-it-thit-co-thieu-dam-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/53qMGCozRp4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn ít thịt có thiếu đạm không? Cách bù bằng đạm thực vật</video:title>
+      <video:description>Ăn ít thịt có thiếu đạm không? Cần bao nhiêu đạm mỗi ngày, dấu hiệu ăn thiếu đạm, danh sách nguồn đạm không phải thịt và cách sắp một mâm cơm Việt đủ đạm mà vẫn nhẹ bụng.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/53qMGCozRp4</video:player_loc>
+      <video:publication_date>2026-08-30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/blog/nguoi-lon-hay-om-vat-nen-an-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/an-gi-de-tang-chieu-cao-cho-tre.html</loc><changefreq>monthly</changefreq><priority>0.7</priority>
     <video:video>
@@ -1951,6 +1862,7 @@
       <video:title>Ăn đậu mỗi ngày có tốt không, bao nhiêu là đủ</video:title>
       <video:description>Ăn đậu mỗi ngày có tốt không? Lượng đạm của từng loại đậu Việt, mức ăn hợp lý mỗi ngày, cách xử lý đầy hơi khi ăn đậu và gợi ý một tuần có đậu mà không ngán.</video:description>
       <video:player_loc>https://www.youtube.com/embed/BD_kXCXEF-M</video:player_loc>
+      <video:duration>248</video:duration>
       <video:publication_date>2026-08-25</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
@@ -2032,7 +1944,22 @@
   
   
   
-  
+  <url>
+    <loc>https://ikihealing.com/blog/an-chay-du-chat-can-bang.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/_UniBMTsx10/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn chay đủ chất: cách xây khẩu phần cân bằng</video:title>
+      <video:description>Ăn chay đủ chất không khó nếu bạn biết cách. Nguồn đạm thực vật, vi chất B12, sắt, canxi, omega-3 và cách xây khẩu phần chay cân bằng cho người mới.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/_UniBMTsx10</video:player_loc>
+      <video:duration>318</video:duration>
+      <video:publication_date>2026-08-24</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
   <url>
     <loc>https://ikihealing.com/blog/8-nhom-thuc-pham-lanh-manh.html</loc>
     <lastmod>2026-08-30</lastmod>
@@ -2086,135 +2013,18 @@
   
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   <url>
-    <loc>https://ikihealing.com/blog/an-banh-trung-thu-the-nao-cho-do-ngan.html</loc>
+    <loc>https://ikihealing.com/blog/an-gi-cho-nang-luong-ben.html</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/khVMB17dE_o/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Ăn bánh trung thu thế nào cho đỡ ngán và nhẹ bụng</video:title>
-      <video:description>Ăn bánh trung thu thế nào cho đỡ ngán, đỡ đầy bụng? Cách chia phần, chọn thời điểm ăn, uống trà gì kèm, lưu ý cho người lớn tuổi và trẻ nhỏ, và cách xử lý…</video:description>
-      <video:player_loc>https://www.youtube.com/embed/khVMB17dE_o</video:player_loc>
-      <video:duration>279</video:duration>
-      <video:publication_date>2026-08-21</video:publication_date>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/1vuYWfLcMcw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn gì để có năng lượng bền cả ngày làm việc</video:title>
+      <video:description>Ăn gì để có năng lượng bền cả ngày làm việc? Cách phối bữa ăn cân bằng đạm, tinh bột tốt, chất béo lành và rau quả để tránh tụt sức giữa buổi và buồn ngủ sau…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/1vuYWfLcMcw</video:player_loc>
+      <video:duration>263</video:duration>
+      <video:publication_date>2026-08-28</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
     </video:video>
@@ -2243,11 +2053,273 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-dau-phu-co-tot-khong.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TIHHoNa2Km8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn đậu phụ có tốt không? Bao nhiêu là đủ và ai nên lưu ý</video:title>
+      <video:description>Ăn đậu phụ có tốt không, ăn mỗi ngày được không, bao nhiêu gram là vừa? Giải thích giá trị dinh dưỡng của đậu phụ, chuyện isoflavone với nam giới, người tuyến giáp, cách chọn đậu phụ sạch và chế biến giữ được cái hay.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/TIHHoNa2Km8</video:player_loc>
+      <video:duration>240</video:duration>
+      <video:publication_date>2026-08-27</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-chay-ngay-ram-mung-mot-du-chat.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/lY-8zDCnhDo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn chay ngày rằm mùng một sao cho đủ chất</video:title>
+      <video:description>Ăn chay ngày rằm mùng một nhưng đến chiều lại mệt và đói? Bài viết chỉ ra ba lỗi thường gặp của mâm chay Việt, khung mâm chay đủ chất, nguồn đạm chay dễ tìm…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/lY-8zDCnhDo</video:player_loc>
+      <video:duration>207</video:duration>
+      <video:publication_date>2026-08-24</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-chay-linh-hoat-flexitarian.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/DzkII2GQzK0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn chay linh hoạt (flexitarian) là gì?</video:title>
+      <video:description>Ăn chay linh hoạt là gì, khác ăn chay trường ra sao và bắt đầu thế nào cho hợp mâm cơm Việt? Hướng dẫn 4 mức độ, thực đơn mẫu và cách giữ đủ đạm, sắt, B12.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/DzkII2GQzK0</video:player_loc>
+      <video:duration>305</video:duration>
+      <video:publication_date>2026-08-24</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-chay-ca-thang-7-am-lich-du-chat.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/CPq_EOhEOtQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn chay cả tháng 7 âm lịch có đủ chất không?</video:title>
+      <video:description>Ăn chay cả tháng 7 âm lịch có đủ chất không? Bốn khoảng hụt hay gặp khi ăn chay trường một tháng, cách bù bằng thực phẩm quen thuộc và thực đơn mẫu một tuần.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/CPq_EOhEOtQ</video:player_loc>
+      <video:duration>287</video:duration>
+      <video:publication_date>2026-08-23</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-chay-truong-thieu-chat-gi.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5j6-QHMLirw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn chay trường thiếu chất gì? 7 dưỡng chất cần theo dõi</video:title>
+      <video:description>Ăn chay trường thiếu chất gì? B12, sắt, kẽm, canxi, vitamin D, omega-3, i-ốt và đạm là 7 nhóm cần theo dõi — kèm cách bù bằng thực phẩm Việt quen thuộc.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/5j6-QHMLirw</video:player_loc>
+      <video:duration>285</video:duration>
+      <video:publication_date>2026-08-24</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-banh-trung-thu-the-nao-cho-do-ngan.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/khVMB17dE_o/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn bánh trung thu thế nào cho đỡ ngán và nhẹ bụng</video:title>
+      <video:description>Ăn bánh trung thu thế nào cho đỡ ngán, đỡ đầy bụng? Cách chia phần, chọn thời điểm ăn, uống trà gì kèm, lưu ý cho người lớn tuổi và trẻ nhỏ, và cách xử lý…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/khVMB17dE_o</video:player_loc>
+      <video:duration>279</video:duration>
+      <video:publication_date>2026-08-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/an-gi-de-tang-suc-de-khang-cho-nguoi-lon.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/w82JwXWACG4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn gì để tăng sức đề kháng cho người lớn</video:title>
+      <video:description>Ăn gì để tăng sức đề kháng cho người lớn khi giao mùa? Nhóm chất cần đủ, thực phẩm quen thuộc dễ mua, thực đơn mẫu một tuần và những thói quen ăn uống nên bỏ…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/w82JwXWACG4</video:player_loc>
+      <video:duration>311</video:duration>
+      <video:publication_date>2026-08-28</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-bao-nhieu-hat-moi-ngay-la-du.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/0tkjGm-qw8g/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Một ngày nên ăn bao nhiêu hạt là đủ?</video:title>
+      <video:description>Một ngày nên ăn bao nhiêu hạt là đủ? Khẩu phần tham khảo cho hạnh nhân, óc chó, điều, mắc ca, hạt bí, hạt hướng dương; cách ước lượng bằng lòng bàn tay, nên…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/0tkjGm-qw8g</video:player_loc>
+      <video:duration>274</video:duration>
+      <video:publication_date>2026-08-22</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://ikihealing.com/blog/an-com-chan-canh-co-hai-khong.html</loc>
+    <lastmod>2026-08-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/6AbTjUV1GAM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn cơm chan canh có hại không? Sự thật và cách ăn đúng</video:title>
+      <video:description>Ăn cơm chan canh có hại không? Phân tích hai luồng ý kiến, vấn đề thật sự nằm ở đâu, ai nên cẩn thận và cách ăn canh đúng để bữa cơm nhẹ bụng hơn.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/6AbTjUV1GAM</video:player_loc>
+      <video:duration>254</video:duration>
+      <video:publication_date>2026-08-25</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
+  
+  
+  
   <url>
     <loc>https://ikihealing.com/blog/an-gi-tot-cho-phoi-khi-khong-khi-o-nhiem.html</loc>
     <lastmod>2026-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xeqrnsy9mRw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn gì tốt cho phổi khi không khí ô nhiễm</video:title>
+      <video:description>Ăn gì tốt cho phổi khi không khí ô nhiễm? Nhóm thực phẩm giàu chất chống oxy hoá, gia vị Việt quen thuộc, thức uống ấm và thực đơn tham khảo cho những ngày…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/xeqrnsy9mRw</video:player_loc>
+      <video:duration>278</video:duration>
+      <video:publication_date>2026-08-29</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/tre-hay-roi-loan-tieu-hoa-nen-an-gi.html</loc>
@@ -2289,6 +2361,7 @@
       <video:title>Ăn bao nhiêu trái cây mỗi ngày là đủ? Khẩu phần chuẩn</video:title>
       <video:description>Ăn bao nhiêu trái cây mỗi ngày là đủ? Khuyến nghị 200-300g quả chín, cách quy đổi một phần với xoài, nhãn, mít, chuối, ăn lúc nào và khi nào là quá nhiều.</video:description>
       <video:player_loc>https://www.youtube.com/embed/uzKDtkx1CeI</video:player_loc>
+      <video:duration>260</video:duration>
       <video:publication_date>2026-08-22</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
@@ -2353,6 +2426,15 @@
     <lastmod>2026-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/arqdEDHuUJc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn hải sản bao nhiêu là đủ mỗi tuần</video:title>
+      <video:description>Ăn hải sản bao nhiêu là đủ mỗi tuần? Liều lượng tham khảo cho người lớn và trẻ nhỏ, cách chọn tôm cua mực tươi, cách chế biến an toàn và những ai cần thận…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/arqdEDHuUJc</video:player_loc>
+      <video:publication_date>2026-08-30</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/muoi-hong-himalaya-co-tot-hon-muoi-thuong-khong.html</loc>
@@ -2472,6 +2554,7 @@
       <video:title>Ăn đồ hộp thế nào cho an toàn</video:title>
       <video:description>Đồ hộp có hại không, chọn thế nào cho an toàn, mở rồi để được mấy ngày? Dấu hiệu phải bỏ ngay, cách đọc nhãn natri và cách ghép vào bữa ăn cân bằng.</video:description>
       <video:player_loc>https://www.youtube.com/embed/JZJRLgIgMyY</video:player_loc>
+      <video:duration>311</video:duration>
       <video:publication_date>2026-08-27</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
@@ -2517,6 +2600,7 @@
       <video:title>Bắt đầu uống đạm thực vật: lịch 30 ngày cho người mới</video:title>
       <video:description>Bắt đầu uống đạm thực vật mà sợ bỏ dở? Lịch 4 tuần cho người mới: tuần 1 nửa khẩu phần, tuần 2 cố định giờ, tuần 3 đổi cách pha, tuần 4 gắn vào nếp sẵn có.</video:description>
       <video:player_loc>https://www.youtube.com/embed/fmhFMcr7vaY</video:player_loc>
+      <video:duration>293</video:duration>
       <video:publication_date>2026-08-23</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>no</video:live>
@@ -2561,24 +2645,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   <url><loc>https://ikihealing.com/blog/tra-thanh-huong-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
