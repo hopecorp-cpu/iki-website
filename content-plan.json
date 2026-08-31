@@ -1594,6 +1594,18 @@
       "slug": "tra-thao-moc-viet-va-tra-nhap-khau",
       "category": "thuc-pham",
       "status": "published"
+    },
+    {
+      "title": "Báo cáo nhịp tiêu dùng sức khoẻ tháng 08/2026 — theo dữ liệu của IKI by HOPE CORP",
+      "slug": "bao-cao-nhip-tieu-dung-thang-08-2026",
+      "category": "bao-cao",
+      "status": "published"
+    },
+    {
+      "title": "Báo cáo nhịp mùa của thị trường sức khoẻ chủ động: tháng nào người Việt chăm mình nhất — theo dữ liệu của IKI by HOPE CORP",
+      "slug": "bao-cao-nhip-mua-theo-thang-2026",
+      "category": "bao-cao",
+      "status": "published"
     }
   ],
   "roadmaps": [

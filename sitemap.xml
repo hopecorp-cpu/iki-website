@@ -2648,27 +2648,34 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://ikihealing.com/blog/bao-cao-nhip-tieu-dung-thang-08-2026.html</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ikihealing.com/blog/bao-cao-nhip-mua-theo-thang-2026.html</loc>
+    <lastmod>2026-08-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/d5AkvVTPelo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Tháng nào người Việt chăm sóc sức khoẻ nhiều nhất?</video:title>
+      <video:description>Chỉ số nhịp theo tháng: tháng 04 là mốc 100, tháng 05 đạt 99, tháng 06 rơi xuống 56, tháng 07 hồi lên 74 — đo trên 1.804 đơn hàng thật. Số liệu mở cho báo chí…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/d5AkvVTPelo</video:player_loc>
+      <video:duration>291</video:duration>
+      <video:publication_date>2026-08-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   <url><loc>https://ikihealing.com/blog/tra-thanh-huong-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -2681,22 +2688,7 @@
   
   
   <url><loc>https://ikihealing.com/blog/thuc-pham-giau-dam-thuc-vat.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url>
-    <loc>https://ikihealing.com/blog/bao-cao-nhip-mua-theo-thang-2026.html</loc>
-    <lastmod>2026-08-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   
-    <video:video>
-      <video:thumbnail_loc>https://i.ytimg.com/vi/d5AkvVTPelo/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>Tháng nào người Việt chăm sóc sức khoẻ nhiều nhất?</video:title>
-      <video:description>Chỉ số nhịp theo tháng: tháng 04 là mốc 100, tháng 05 đạt 99, tháng 06 rơi xuống 56, tháng 07 hồi lên 74 — đo trên 1.804 đơn hàng thật. Số liệu mở cho báo chí…</video:description>
-      <video:player_loc>https://www.youtube.com/embed/d5AkvVTPelo</video:player_loc>
-      <video:publication_date>2026-08-20</video:publication_date>
-      <video:family_friendly>yes</video:family_friendly>
-      <video:live>no</video:live>
-    </video:video>
-  </url>
   <url><loc>https://ikihealing.com/blog/bot-dam-thuc-vat-loai-nao-tot.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 
 <url><loc>https://ikihealing.com/blog/nguoi-an-chay-bo-sung-kem-the-nao.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
