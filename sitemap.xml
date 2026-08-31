@@ -803,12 +803,32 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QDLa2JKzot8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn nấm có tốt không?</video:title>
+      <video:description>Ăn nấm có tốt không, ăn bao nhiêu là vừa và ai cần lưu ý? Giá trị dinh dưỡng của nấm rơm, nấm hương, nấm kim châm, mộc nhĩ cùng cách chọn, bảo quản và chế…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/QDLa2JKzot8</video:player_loc>
+      <video:publication_date>2026-08-31</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/an-mi-tom-the-nao-cho-do-hai.html</loc>
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/xu0aygRBpoQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn mì tôm thế nào cho đỡ hại — 7 cách nâng cấp</video:title>
+      <video:description>Ăn mì tôm thế nào cho đỡ hại? Cách chần bỏ nước đầu, giảm gói gia vị, thêm rau và đạm, tần suất hợp lý mỗi tuần và những khung giờ nên tránh — hướng dẫn thực…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/xu0aygRBpoQ</video:player_loc>
+      <video:publication_date>2026-08-31</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/an-uong-lanh-manh-ma-tiet-kiem.html</loc>
@@ -1134,6 +1154,16 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/e1vnSIZgU_U/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn ngoài hàng quán thường xuyên nên ăn thế nào?</video:title>
+      <video:description>Ăn ngoài hàng quán thường xuyên nên gọi món thế nào cho cân bằng? Bộ nguyên tắc chọn món theo cách nấu, cách bù rau và bù đạm, mẹo gọi món cho từng loại quán…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/e1vnSIZgU_U</video:player_loc>
+      <video:publication_date>2026-08-31</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/thuc-pham-huu-co-co-thuc-su-tot-hon-khong.html</loc>
@@ -1232,6 +1262,16 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/dSCLXaZH2Xk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn nhiều rau vẫn táo bón vì sao? 7 nguyên nhân thường bị bỏ</video:title>
+      <video:description>Ăn nhiều rau vẫn táo bón vì sao? Nguyên nhân thường gặp nhất là thiếu nước khiến chất xơ hút ngược nước từ phân, cùng với việc chỉ ăn một loại chất xơ. Hướng dẫn cách điều chỉnh khẩu phần và thói quen.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/dSCLXaZH2Xk</video:player_loc>
+      <video:publication_date>2026-08-31</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/an-sang-xong-van-doi-truoc-trua.html</loc>
@@ -2673,24 +2713,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   <url><loc>https://ikihealing.com/blog/tra-thanh-huong-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
