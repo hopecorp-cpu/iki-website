@@ -45,6 +45,10 @@ Trên thị trường có ba dạng chính, khác nhau ở mức độ tinh lọ
 
 Điểm mạnh cốt lõi của whey nằm ở **hàm lượng leucine** — một axit amin đóng vai trò như công tắc khởi động quá trình tổng hợp cơ. Whey chứa leucine ở mức cao, và đó là lý do nó gắn liền với giới tập tạ suốt nhiều năm.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKI — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
+:::
+
 ## Đạm thực vật là gì và làm từ nguyên liệu nào
 
 [Đạm thực vật](https://trueveganprotein.com) là bột đạm chiết xuất từ nguồn gốc cây trồng, phổ biến nhất là đậu Hà Lan, gạo lứt, đậu nành, hạt bí, hạt gai dầu, hạt hướng dương hoặc đậu xanh. Nguyên liệu được xay, tách tinh bột và chất xơ thô, rồi cô lại phần đạm thành bột mịn.

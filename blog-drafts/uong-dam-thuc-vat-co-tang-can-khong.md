@@ -48,6 +48,10 @@ Một ly đạm thực vật đóng góp khoảng 100–150 kcal vào cột "n�
 
 > Không có công thức chung cho tất cả mọi người — nhu cầu năng lượng của một nhân viên văn phòng 45 tuổi và một người tập gym bốn buổi mỗi tuần chênh nhau rất xa. Nếu chưa rõ mình đang ở đâu, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có một điểm khởi đầu cụ thể trước khi tính toán.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKI — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
+:::
+
 ## Một khẩu phần đạm thực vật thực sự chứa bao nhiêu
 
 Đây là phần giúp bạn hết lo ngay. Hãy đặt một khẩu phần đạm thực vật cạnh những món ăn quen thuộc trong ngày:

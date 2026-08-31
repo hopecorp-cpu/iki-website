@@ -61,6 +61,10 @@ Ba đặc điểm này nói cho ta biết lịch 30 ngày nên được thiết 
 
 Vì mỗi người một thể trạng và một nhịp sinh hoạt khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) trước khi bắt đầu để biết khung giờ và cách bổ sung nào hợp với mình hơn, thay vì bê nguyên lịch của người khác về áp cho mình.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKI — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
+:::
+
 ## Trước khi bắt đầu: ba việc làm trong mười phút
 
 Đừng bắt đầu vào một buổi sáng bất kỳ. Dành mười phút tối hôm trước để dựng sẵn ba thứ, và tuần đầu sẽ nhẹ hơn hẳn.

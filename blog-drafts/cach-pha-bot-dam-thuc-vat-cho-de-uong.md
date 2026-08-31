@@ -48,6 +48,10 @@ Trước khi sửa, cần hiểu vì sao nó khó uống. Có bốn nguyên nhâ
 
 Một điểm nữa đáng nói: mỗi người có một khẩu vị và một thể trạng khác nhau, nên công thức hợp với người này chưa chắc hợp với người kia. Nếu bạn muốn biết nếp bổ sung nào phù hợp với cơ địa của mình, có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) trước khi thử các công thức bên dưới.
 
+:::note Số liệu thực tế từ cộng đồng IKI
+Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKI — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
+:::
+
 ## Tỉ lệ chuẩn: bao nhiêu bột với bao nhiêu nước
 
 Đây là con số nền cho mọi công thức. Mức phổ biến được các hướng dẫn sử dụng đưa ra là **25-30g bột pha với 250-300ml chất lỏng**. Một muỗng đong đi kèm hộp thường tương ứng khoảng 25-30g, nên cách nhớ đơn giản là một muỗng đong với một cốc nước đầy vừa.
