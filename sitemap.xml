@@ -1641,7 +1641,17 @@
 <url><loc>https://ikihealing.com/blog/bua-toi-nhe-de-tieu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/man-hinh-truoc-gio-ngu.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/gian-co-dan-van-phong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-<url><loc>https://ikihealing.com/blog/an-rau-cu-nhieu-mau-sac.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/an-rau-cu-nhieu-mau-sac.html</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/8JfD-o79u_M/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn rau củ nhiều màu sắc: bữa cơm như cầu vồng</video:title>
+      <video:description>Vì sao nên ăn rau củ quả đủ màu — xanh, đỏ, cam, tím, trắng? Mỗi nhóm màu mang dưỡng chất riêng. Cách đi chợ và xếp mâm cơm nhiều màu đơn giản mỗi tuần.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/8JfD-o79u_M</video:player_loc>
+      <video:publication_date>2026-09-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/blog/chi-so-duong-huyet-thuc-pham.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/an-cham-nhai-ky.html</loc><changefreq>monthly</changefreq><priority>0.7</priority>
     <video:video>
@@ -1832,7 +1842,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/blog/an-sang-bang-trai-cay-co-tot-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+<url><loc>https://ikihealing.com/blog/an-sang-bang-trai-cay-co-tot-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/qsYKkUEddQU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn sáng bằng trái cây có tốt không? Cách ăn để không tụt</video:title>
+      <video:description>Ăn sáng bằng trái cây có tốt không, có đủ no đến trưa không, ai không nên áp dụng? Hướng dẫn ghép trái cây với đạm và chất béo tốt, chọn trái cây theo mùa và theo thể tạng.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/qsYKkUEddQU</video:player_loc>
+      <video:publication_date>2026-09-01</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/blog/khong-tap-gym-co-nen-uong-dam-thuc-vat-khong.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/vitamin-k2-co-trong-thuc-pham-nao.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
 <url><loc>https://ikihealing.com/blog/do-mo-hoi-nhieu-nen-an-uong-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
@@ -2759,24 +2779,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   <url><loc>https://ikihealing.com/blog/tra-thanh-huong-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
