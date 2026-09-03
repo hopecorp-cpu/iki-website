@@ -465,6 +465,26 @@ function buildOne(srcPath) {
 }
 
 
+// Bài dựng xong mà không có mục trong content-plan.json thì thành "mồ côi": nó vẫn hiện ở hub và
+// search nhờ self-heal của build-structure, nên lỗi im lặng — đo 03/09/2026 có 156 bài như vậy.
+// Ghi mục ngay tại đây để hàng đợi và sitemap luôn khớp với thứ đã dựng thật.
+function ghiVaoPlan(daDung) {
+  const p = path.join(ROOT, "content-plan.json");
+  const plan = JSON.parse(fs.readFileSync(p, "utf8"));
+  const co = new Set((plan.articles || []).map((a) => a.slug));
+  const them = [];
+  for (const r of daDung) {
+    const fm = r && r.fm;
+    if (!fm || !fm.slug || co.has(fm.slug)) continue;
+    co.add(fm.slug);
+    them.push({ title: fm.title || fm.slug, slug: fm.slug, category: fm.category || "dinh-duong", status: "published" });
+  }
+  if (!them.length) return;
+  plan.articles = [...(plan.articles || []), ...them];
+  fs.writeFileSync(p, JSON.stringify(plan, null, 2) + "\n", "utf8");
+  console.log(`✓ content-plan.json: thêm ${them.length} mục (${them.map((t) => t.slug).join(", ")})`);
+}
+
 function main() {
   const args = process.argv.slice(2);
   let files = args.filter((a) => !a.startsWith("--"));
@@ -473,7 +493,9 @@ function main() {
     files = fs.existsSync(d) ? fs.readdirSync(d).filter((f) => f.endsWith(".md")).map((f) => path.join(d, f)) : [];
   }
   if (!files.length) { console.error("Không có file nguồn trong blog-drafts/."); process.exit(1); }
-  for (const f of files) buildOne(path.isAbsolute(f) ? f : path.join(ROOT, f));
+  const daDung = [];
+  for (const f of files) daDung.push(buildOne(path.isAbsolute(f) ? f : path.join(ROOT, f)));
+  ghiVaoPlan(daDung);
   buildStructure();
 }
 

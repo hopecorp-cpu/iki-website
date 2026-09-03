@@ -566,7 +566,9 @@ function updateSitemap(plan) {
   const url = (loc, pri, freq, slug) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>${slug ? theVideo(slug) : ""}\n  </url>`;
   const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/tat-ca-bai-viet.html`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly"), url(`${SITE}/blog/mien-tru-trach-nhiem.html`, "0.3", "yearly")];
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
-  for (const a of plan.articles) if (isPublished(a.slug) && !a._orphan) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly", a.slug));
+  // Bài mồ côi (chưa vào content-plan) TRƯỚC ĐÂY bị loại khỏi khối tự sinh, nên chỉ còn sống nhờ
+  // dòng <url> nối tay ngoài khối — một lần dựng lại là mất dấu. Cho chúng vào khối luôn.
+  for (const a of plan.articles) if (isPublished(a.slug)) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly", a.slug));
   const block = `  <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- BLOG:END -->`;
   if (/<!-- BLOG:START[\s\S]*?BLOG:END -->/.test(xml)) xml = xml.replace(/  <!-- BLOG:START[\s\S]*?BLOG:END -->/, block);
   else xml = xml.replace(/<\/urlset>/, `${block}\n\n</urlset>`);
@@ -590,19 +592,33 @@ function updateSitemap(plan) {
   // cẩu thả trên đúng cái file mình dùng để nói "đây là toàn bộ trang của tôi" — và giờ còn kéo
   // theo khai trùng cả thẻ video. Giữ bản DÀI NHẤT cho mỗi địa chỉ để không đánh rơi lastmod,
   // hreflang hay thẻ video của bản đầy đủ hơn.
+  // Ưu tiên bản NẰM TRONG khối tự sinh. Trước đây tiêu chí là "dài nhất", mà hai bản thường
+  // dài bằng nhau nên Map giữ cái GẶP TRƯỚC — tức dòng nối tay đứng phía trên khối. Hậu quả:
+  // build xong bài vẫn sống ngoài khối, lần dựng sau vẫn mất dấu như cũ (đo 03/09/2026).
   {
+    const mKhoi = xml.match(/<!-- BLOG:START[\s\S]*?BLOG:END -->/);
+    const dauKhoi = mKhoi ? xml.indexOf(mKhoi[0]) : -1;
+    const cuoiKhoi = dauKhoi >= 0 ? dauKhoi + mKhoi[0].length : -1;
+    const trongKhoi = (vt) => dauKhoi >= 0 && vt >= dauKhoi && vt < cuoiKhoi;
+    const diem = (khoi, vt) => (trongKhoi(vt) ? 1e6 : 0) + khoi.length;
     const tot = new Map();
-    for (const khoi of xml.match(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>/g) || []) {
-      const m = khoi.match(/<loc>([^<]+)<\/loc>/);
+    const re = /<url>(?:(?!<\/url>)[\s\S])*?<\/url>/g;
+    let mm;
+    while ((mm = re.exec(xml))) {
+      const m = mm[0].match(/<loc>([^<]+)<\/loc>/);
       if (!m) continue;
+      const d = diem(mm[0], mm.index);
       const cu2 = tot.get(m[1]);
-      if (!cu2 || khoi.length > cu2.length) tot.set(m[1], khoi);
+      if (!cu2 || d > cu2.diem) tot.set(m[1], { vt: mm.index, diem: d });
     }
     let bo = 0;
-    xml = xml.replace(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>/g, (khoi) => {
+    // So bằng VỊ TRÍ, không bằng nội dung: hai bản trùng thường giống hệt nhau từng ký tự, so
+    // nội dung thì bản đứng trước (ngoài khối) khớp trước và bản trong khối mới là cái bị bỏ.
+    xml = xml.replace(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>/g, (khoi, vt) => {
       const m = khoi.match(/<loc>([^<]+)<\/loc>/);
       if (!m) return khoi;
-      if (tot.get(m[1]) === khoi) { tot.delete(m[1]); return khoi; }
+      const g = tot.get(m[1]);
+      if (g && g.vt === vt) return khoi;
       bo++; return "";
     });
     xml = xml.replace(/\n{3,}/g, "\n\n");
