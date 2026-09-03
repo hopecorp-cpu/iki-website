@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tặng ebook 21 Ngày Ăn Lành Cùng Đạm Sạch | IKI Healing</title>
+<meta name="description" content="Nhận miễn phí ebook 21 Ngày Ăn Lành Cùng Đạm Sạch — ba tuần tập lại cách ăn nhẹ bụng mà đủ chất, mỗi ngày một việc nhỏ và một thực đơn gợi ý kèm lượng đạm. Điền tên và email để tải ngay.">
+<link rel="canonical" href="https://ikihealing.com/qua/21-ngay-an-lanh/">
+<link rel="icon" type="image/png" href="/assets/logo/iki-mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;600;700&family=Montserrat:wght@800&display=swap" rel="stylesheet">
+<meta property="og:title" content="Tặng ebook 21 Ngày Ăn Lành Cùng Đạm Sạch">
+<meta property="og:description" content="Ba tuần tập lại cách ăn nhẹ bụng mà đủ chất: mỗi ngày một việc nhỏ + thực đơn gợi ý kèm gram đạm. Quà tặng miễn phí từ IKI Healing.">
+<meta property="og:image" content="https://ikihealing.com/assets/ebook-21-ngay-mockup.png">
+<meta property="og:url" content="https://ikihealing.com/qua/21-ngay-an-lanh/">
+<style>
+  :root { --xanh: #1F4D1F; --xanh2: #2E6B2D; --vang: #D7B46A; --kem: #F7F7F2; }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Be Vietnam Pro", -apple-system, "Segoe UI", Roboto, sans-serif; background: linear-gradient(180deg, #fff 0%, var(--kem) 26%); color: #23301f; line-height: 1.6; }
+  .khung { max-width: 520px; margin: 0 auto; padding: 28px 20px 48px; }
+  .anh-desktop { display: none; }
+  .nhan-qua { display: block; width: fit-content; margin: 0 auto 12px; background: var(--vang); color: #3d2f10; font-weight: 700; font-size: 12.5px; letter-spacing: 1.5px; padding: 5px 16px; border-radius: 99px; }
+  h1 { font-family: "Montserrat", "Be Vietnam Pro", sans-serif; font-weight: 800; color: var(--xanh); font-size: 27px; line-height: 1.3; text-align: center; }
+  .tin-cay { display: flex; justify-content: center; gap: 8px 14px; flex-wrap: wrap; margin: 12px 0 2px; font-size: 13px; color: var(--xanh2); font-weight: 700; }
+  .tin-cay span { background: #fff; border: 1px solid #e2e2d8; border-radius: 99px; padding: 4px 12px; }
+  .gach { width: 70px; height: 5px; background: var(--vang); margin: 14px auto; border-radius: 3px; }
+  .mota { text-align: center; color: #4a5a45; font-size: 15.5px; }
+  .mockup { display: block; width: 100%; max-width: 360px; margin: 18px auto 6px; }
+  ul.diem { list-style: none; margin: 14px 0 20px; }
+  ul.diem li { padding: 7px 0 7px 28px; position: relative; font-size: 15px; }
+  ul.diem li::before { content: ""; position: absolute; left: 4px; top: 14px; width: 12px; height: 12px; border-radius: 50%; background: var(--xanh2); }
+  form { background: #fff; border: 1px solid #e2e2d8; border-radius: 14px; padding: 20px; box-shadow: 0 8px 26px rgba(31,77,31,0.08); }
+  label { display: block; font-weight: 700; color: var(--xanh); font-size: 14px; margin: 10px 0 4px; }
+  input { width: 100%; padding: 12px 14px; border: 1.5px solid #d8d8ca; border-radius: 10px; font-size: 16px; background: var(--kem); }
+  input:focus { outline: none; border-color: var(--xanh2); }
+  .an { position: absolute; left: -9999px; opacity: 0; }
+  button { width: 100%; margin-top: 16px; padding: 15px; border: 0; border-radius: 30px; background: var(--xanh); color: #fff; font-size: 17px; font-weight: 800; cursor: pointer; box-shadow: 0 6px 18px rgba(31,77,31,0.25); transition: background 0.15s; }
+  button:hover { background: var(--xanh2); }
+  button:disabled { opacity: 0.6; }
+  .xong h2, .buoc h3 { font-family: "Montserrat", "Be Vietnam Pro", sans-serif; }
+  .loi { color: #a33; font-size: 14px; margin-top: 10px; display: none; }
+  .xong { display: none; text-align: center; background: #fff; border: 1px solid #e2e2d8; border-radius: 14px; padding: 26px 20px; }
+  .xong h2 { color: var(--xanh); font-size: 21px; margin-bottom: 8px; }
+  .xong a.tai { display: inline-block; margin: 14px 0 6px; padding: 15px 34px; border-radius: 30px; background: var(--xanh); color: #fff; font-weight: 800; text-decoration: none; font-size: 17px; }
+  .theo-doi { margin: 14px auto 4px; max-width: 460px; background: #f3f7f3; border: 1px solid #cfe0cf; border-radius: 12px; padding: 14px 16px; font-size: 14px; color: #2f3d2a; line-height: 1.5; text-align: left; }
+  .theo-doi b { color: var(--xanh); }
+  .theo-doi .fb-like-o { margin-top: 10px; min-height: 28px; }
+  .theo-doi.co-plugin .nut-fb { display: none; }
+  .theo-doi .nut-fb { display: block; margin-top: 10px; text-align: center; padding: 11px 16px; border-radius: 30px; background: #1877F2; color: #fff; font-weight: 700; text-decoration: none; font-size: 14.5px; }
+  .xong p.zalo { font-size: 14px; color: #5a6852; }
+  .rao { font-size: 12px; color: #8a967f; text-align: center; margin-top: 14px; }
+  .dau { display: flex; align-items: center; justify-content: center; gap: 10px; margin-bottom: 18px; }
+  .dau img { height: 44px; }
+  .dau span { font-weight: 800; color: var(--xanh); letter-spacing: 2px; font-size: 18px; }
+  .buoc { text-align: left; margin-top: 18px; }
+  .buoc h3 { color: var(--xanh); font-size: 16px; margin-bottom: 10px; text-align: center; }
+  .buoc a.the { display: block; background: var(--kem); border: 1px solid #e2e2d8; border-left: 4px solid var(--vang); border-radius: 10px; padding: 12px 14px; margin-bottom: 10px; text-decoration: none; color: #23301f; }
+  .buoc a.the b { color: var(--xanh); display: block; margin-bottom: 2px; }
+  .buoc a.the small { color: #5a6852; font-size: 13px; }
+  .deal { background: #fff; border: 2px solid var(--xanh); border-radius: 14px; padding: 16px 16px 18px; margin: 6px 0 14px; }
+  .deal-nhan { display: inline-block; background: var(--vang); color: #3d2f0e; font-weight: 800; font-size: 12px; letter-spacing: .5px; padding: 4px 12px; border-radius: 20px; margin-bottom: 10px; }
+  .deal b.tieu { color: var(--xanh); display: block; margin-bottom: 8px; font-size: 17px; }
+  .deal ul { margin: 0 0 10px 18px; padding: 0; }
+  .deal li { margin-bottom: 5px; font-size: 14.5px; }
+  .deal li b { color: var(--xanh); }
+  .deal small { display: block; color: #5a6852; font-size: 13px; margin-bottom: 12px; }
+  .deal-nut { display: block; text-align: center; background: var(--xanh); color: #fff; font-weight: 700; text-decoration: none; padding: 13px 20px; border-radius: 30px; }
+  .deal-nut:hover { background: #2E6B2D; }
+  .deal-tra { background: #fbf9f2; border: 1px solid #e0d9c3; border-radius: 14px; padding: 15px 16px; margin: 0 0 14px; }
+  .deal-tra b.tieu2 { color: var(--xanh); display: block; margin-bottom: 6px; font-size: 15.5px; }
+  .deal-tra p { font-size: 14px; color: #4a5842; margin: 0 0 12px; }
+  .deal-tra p b { color: var(--xanh); }
+  .nut-vien { display: block; text-align: center; border: 2px solid var(--xanh); color: var(--xanh); font-weight: 700; text-decoration: none; padding: 11px 20px; border-radius: 30px; background: transparent; }
+  .nut-vien:hover { background: var(--xanh); color: #fff; }
+  footer { border-top: 1px solid #e2e2d8; margin-top: 34px; padding: 22px 20px 30px; text-align: center; }
+  footer .lk { display: flex; flex-wrap: wrap; justify-content: center; gap: 8px 18px; margin-bottom: 12px; }
+  footer .lk a { color: var(--xanh2); text-decoration: none; font-size: 14px; font-weight: 600; }
+  footer .ba { display: flex; align-items: center; justify-content: center; gap: 8px; color: #8a967f; font-size: 12.5px; margin: 8px 0; }
+  footer .ba img { height: 22px; opacity: 0.85; }
+  footer p { font-size: 12px; color: #8a967f; }
+  /* DESKTOP: hai cột — trái chữ + form, phải mockup đứng cố định (CEO 20/08: "làm phiên bản cho
+     desktop và phone"). Khối này phải nằm CUỐI stylesheet — đặt trước các rule gốc là bị đè
+     (đo thật: mockup hiện đúp, chữ vẫn căn giữa). Phone giữ một cột như cũ. */
+  @media (min-width: 920px) {
+    .khung { max-width: 1060px; padding: 36px 32px 64px; }
+    .luoi { display: grid; grid-template-columns: 1fr 400px; gap: 56px; align-items: start; margin-top: 8px; }
+    .anh-desktop { display: block; position: sticky; top: 36px; }
+    .anh-desktop img { width: 100%; border-radius: 16px; box-shadow: 0 18px 48px rgba(31,77,31,0.16); }
+    .mockup.anh-mobile { display: none; }
+    .nhan-qua { margin: 0 0 14px; }
+    h1 { text-align: left; font-size: 38px; }
+    .gach { margin: 16px 0; }
+    .mota { text-align: left; font-size: 17px; }
+    .tin-cay { justify-content: flex-start; }
+    .dau { justify-content: flex-start; margin-bottom: 6px; }
+  }
+</style>
+</head>
+<body>
+<div class="khung">
+  <a class="dau" href="https://ikihealing.com/" style="text-decoration:none"><img src="/assets/logo/iki-mark.png" alt="IKI"><span>IKI HEALING</span></a>
+  <div class="luoi">
+  <div class="trai">
+  <span class="nhan-qua">QUÀ TẶNG MIỄN PHÍ</span>
+  <h1>21 Ngày Ăn Lành<br>Cùng Đạm Sạch</h1>
+  <div class="gach"></div>
+  <p class="mota">Ba tuần tập lại cách ăn nhẹ bụng mà vẫn đủ chất — không cân, không calo, không nhịn. Mỗi ngày một việc nhỏ và ba bữa gợi ý kèm gram đạm.</p>
+  <div class="tin-cay"><span>21 ngày · 3 tuần</span><span>16 trang PDF</span><span>5 thói quen nền</span></div>
+  <img class="mockup anh-mobile" src="/assets/ebook-21-ngay-mockup.png" alt="Ebook 21 Ngày Ăn Lành Cùng Đạm Sạch">
+  <ul class="diem">
+    <li>Mỗi ngày MỘT việc nhỏ để tập (nhai kỹ, thêm một món đậu, ăn tối sớm hơn 30 phút...) — ba tuần là đủ để thành thói quen.</li>
+    <li>Ba bữa gợi ý mỗi ngày, trích từ cuốn 100 Bữa Ăn Đủ Đạm, kèm tổng gram đạm cả ngày.</li>
+    <li>5 thói quen nền + bảng 21 ô tự đánh dấu. Lỡ một ngày thì hôm sau làm tiếp, không phải làm lại từ đầu.</li>
+  </ul>
+  <form id="form" novalidate>
+    <label for="ten">Tên của bạn</label>
+    <input id="ten" name="ten" type="text" autocomplete="name" placeholder="Ví dụ: Lan Anh" required>
+    <label for="email">Email nhận sách</label>
+    <input id="email" name="email" type="email" autocomplete="email" placeholder="ban@vidu.com" required>
+    <label for="sdt">Số điện thoại — không bắt buộc (có Zalo, IKI gửi thêm thực đơn 3 ngày theo thể trạng)</label>
+    <input id="sdt" name="sdt" type="tel" autocomplete="tel" inputmode="numeric" placeholder="09xx xxx xxx">
+    <input class="an" type="text" name="_honey" tabindex="-1" autocomplete="off">
+    <button id="nut" type="submit">Nhận ebook miễn phí</button>
+    <p class="loi" id="loi"></p>
+  </form>
+  <div id="fb-root"></div>
+  <div class="xong" id="xong">
+    <h2>Quà của bạn đây!</h2>
+    <p>Bấm nút dưới để tải ebook 21 ngày về máy.</p>
+    <a class="tai" id="tai" href="#" target="_blank" rel="noopener">Tải ebook (PDF)</a>
+    <div class="theo-doi">
+      <b>Sách do IKI Healing biên soạn.</b> Bạn chưa có cuốn <i>"100 Bữa Ăn Đủ Đạm Không Cần Thịt"</i> (công thức đầy đủ của mọi món trong 21 ngày)? Nhận tại <a href="https://ikihealing.com/qua/100-bua-an-du-dam/?s=tu-21ngay" style="color:#1F4D1F;font-weight:700">ikihealing.com/qua/100-bua-an-du-dam</a>. Theo dõi trang IKI Healing để nhận cuốn tiếp theo sớm nhất nhé.
+      <div class="fb-like-o"><div class="fb-like" data-href="https://www.facebook.com/ikihealing" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="false"></div></div>
+      <a class="nut-fb" id="nut-fb" href="https://hope-ops-hub.vercel.app/api/ebook-lead?theo-doi=1" target="_blank" rel="noopener">Theo dõi IKI Healing trên Facebook</a>
+    </div>
+    <p class="zalo">IKI cũng sẽ nhắn Zalo gửi lại file cho bạn kèm gợi ý ghép bữa theo thể trạng — hoàn toàn miễn phí.</p>
+    <div class="buoc">
+      <div class="deal">
+        <span class="deal-nhan">BỘ KHỞI ĐẦU ĐỦ ĐẠM — quà cho đơn đạm ĐẦU TIÊN</span>
+        <b class="tieu">Giữ đủ đạm suốt 21 ngày gọn hơn với bột đạm True Vegan Protein — đặt đơn đầu tiên, IKI tặng kèm:</b>
+        <ul>
+          <li><b>1 hộp Trà Thanh Hương</b> — trị giá 226.000đ, trà thảo mộc thơm dịu cho buổi tối</li>
+          <li><b>Bộ "Thực Đơn 7 Ngày Đủ Đạm"</b> soạn sẵn từ chính cuốn sách (PDF)</li>
+        </ul>
+        <small>Giao COD toàn quốc — nhận hàng, kiểm tra rồi mới thanh toán. Quà tự động kèm theo đơn đầu tiên của bạn.</small>
+        <a class="deal-nut" href="https://ikihealing.com/shop/?sp=bot-dam-dinh-duong-true-vegan-protein-pro-500g&utm_source=ebook-deal-21">Nhận Bộ Khởi Đầu Đủ Đạm</a>
+        </div>
+      <div class="deal-tra">
+        <b class="tieu2">Hộp đạm chưa hợp lúc này? Bắt đầu bằng một tách trà tối cũng là một khởi đầu tốt</b>
+        <p>Trà Thanh Hương — trà thảo mộc thơm dịu cho buổi tối, 226.000đ/hộp. Đặt hôm nay IKI <b>freeship</b> và tặng kèm bộ <b>"Thực Đơn 3 Ngày Đủ Đạm"</b> (PDF) để bạn nấu thử trước.</p>
+        <a class="nut-vien" href="https://ikihealing.com/shop/?sp=tra-thanh-huong&utm_source=ebook-deal-21-tra">Đặt Trà Thanh Hương — freeship</a>
+      </div>
+      <a class="the" href="https://ikihealing.com/quiz/?nhom=an-chay&s=ebook21"><b>Chưa cần mua? Đo thể trạng 2 phút — miễn phí</b><small>13 câu hỏi ra 6 chỉ số thể trạng + thực đơn 3 ngày soạn riêng, biết mình cần bao nhiêu đạm mỗi ngày.</small></a>
+    </div>
+  </div>
+  <p class="rao">Nội dung chia sẻ kiến thức ẩm thực và dinh dưỡng, không thay thế tư vấn y khoa. IKI chỉ dùng số điện thoại và email để gửi quà và hỗ trợ bạn, không chia sẻ cho bên thứ ba.</p>
+  </div>
+  <div class="anh-desktop"><img src="/assets/ebook-21-ngay-mockup.png" alt="Ebook 21 Ngày Ăn Lành Cùng Đạm Sạch"></div>
+  </div>
+</div>
+<footer>
+  <div class="lk">
+    <a href="https://ikihealing.com/">Trang chủ</a>
+    <a href="https://ikihealing.com/blog/">Blog</a>
+    <a href="https://ikihealing.com/quiz/">Quiz thể trạng</a>
+    <a href="https://ikihealing.com/shop/">Cửa hàng</a>
+    <a href="mailto:contact@ikihealing.com">Liên hệ</a>
+  </div>
+  <div class="ba"><img src="/assets/logo/hope-mark.png" alt="HOPE"> Một thương hiệu của HOPE CORP</div>
+  <p>Tư vấn: 0987931551 · contact@ikihealing.com · ikihealing.com</p>
+</footer>
+<script>
+(function () {
+  var API = "https://hope-ops-hub.vercel.app/api/ebook-lead";
+  // Nút Like chính chủ của Facebook: bấm là theo dõi ngay, không rời trang. Chỉ nạp SDK sau khi khách
+  // đã nhận quà (màn "xong"). edge.create = khách ĐÃ like thật -> ghi sổ theo nguồn. Plugin không
+  // hiện (chặn cookie bên thứ ba) thì giữ nút link sang trang IKI làm đường lùi.
+  function napFb() {
+    if (window.FB) { FB.XFBML.parse(); return; }
+    window.fbAsyncInit = function () {
+      FB.init({ xfbml: true, version: "v21.0" });
+      FB.Event.subscribe("edge.create", function () {
+        try { fetch(API + "?theo-doi=1&dem=1&s=like-" + encodeURIComponent(nguon), { keepalive: true }); } catch (e) {}
+      });
+      FB.Event.subscribe("xfbml.render", function () {
+        var o = document.querySelector(".fb-like-o iframe");
+        if (o && o.offsetHeight > 10) document.querySelector(".theo-doi").classList.add("co-plugin");
+      });
+    };
+    var js = document.createElement("script");
+    js.src = "https://connect.facebook.net/vi_VN/sdk.js"; js.async = true; js.defer = true; js.crossOrigin = "anonymous";
+    document.head.appendChild(js);
+  }
+  var nguon = "ebook:21ngay:landing";
+  try {
+    // Nhận CẢ ba dạng nhãn nguồn, vì ba nơi khác nhau gắn ba kiểu:
+    //   ?s=      link mình tự dán (bài đăng, tin nhắn, bot)
+    //   ?utm_source=  trình quảng cáo Meta/Google gắn mặc định
+    //   gclid/fbclid  trình quảng cáo tự chèn khi người chạy ads QUÊN gắn utm
+    // Trước 22/08/2026 chỉ đọc ?s= — nên cả đợt chạy Meta + YouTube không lead nào truy được về
+    // quảng cáo, và không thể trả lời "tiền ads có ra khách không". Đừng bỏ nhánh gclid/fbclid:
+    // nó là lưới đỡ cho lỗi NGƯỜI, thứ chắc chắn sẽ lặp lại.
+    var q = new URLSearchParams(location.search);
+    var s = q.get("s") || q.get("utm_source");
+    if (!s && q.get("gclid")) s = "gclid";
+    if (!s && q.get("fbclid")) s = "fbclid";
+    if (s) nguon += ":s-" + s.replace(/[^a-z0-9-]/gi, "").slice(0, 30);
+    var kenh = q.get("utm_medium") || q.get("utm_campaign");
+    if (s && kenh) nguon += "-" + kenh.replace(/[^a-z0-9-]/gi, "").slice(0, 20);
+  } catch (e) {}
+  var form = document.getElementById("form"), loi = document.getElementById("loi"), nut = document.getElementById("nut");
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    loi.style.display = "none";
+    var ten = document.getElementById("ten").value.trim();
+    var sdt = document.getElementById("sdt").value.replace(/[^\d+]/g, "");
+    if (sdt.indexOf("+84") === 0) sdt = "0" + sdt.slice(3);
+    if (ten.length < 2) return baoLoi("Cho IKI xin tên của bạn nhé.");
+    var email = document.getElementById("email").value.trim();
+    if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)) return baoLoi("Cho IKI xin email của bạn để gửi kèm bản PDF vào hộp thư nhé.");
+    if (sdt && !/^0(3|5|7|8|9)\d{8}$/.test(sdt)) return baoLoi("Số điện thoại chưa đúng — nhập số di động Việt Nam 10 chữ số (hoặc để trống).");
+    nut.disabled = true; nut.textContent = "Đang gửi...";
+    fetch(API, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ ten: ten, sdt: sdt, email: email, source: nguon, _honey: form._honey.value })
+    }).then(function (r) { return r.json(); }).then(function (d) {
+      if (d && d.ok && d.link) {
+        document.getElementById("tai").href = d.link;
+        form.style.display = "none";
+        document.getElementById("xong").style.display = "block";
+        try { var nf = document.getElementById("nut-fb"); nf.href += "&s=" + encodeURIComponent(nguon); } catch (e) {}
+        try { napFb(); } catch (e) {}
+      } else {
+        baoLoi((d && d.error) || "Có trục trặc nhỏ, bạn thử lại giúp IKI nhé.");
+      }
+    }).catch(function () {
+      baoLoi("Mạng đang chập chờn, bạn thử lại giúp IKI nhé.");
+    }).finally(function () { nut.disabled = false; nut.textContent = "Nhận ebook miễn phí"; });
+  });
+  function baoLoi(m) { loi.textContent = m; loi.style.display = "block"; }
+})();
+</script>
+</body>
+</html>
