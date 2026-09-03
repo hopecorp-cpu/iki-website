@@ -333,6 +333,16 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/i7-AXUDoahA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn sáng đúng cách: 12 món sáng cân bằng dưới 300 calo</video:title>
+      <video:description>Ăn sáng đúng cách giúp cân bằng năng lượng cả ngày. Cấu trúc bữa sáng khoa học, 7 nguyên tắc vàng và 12 món sáng Việt lành mạnh dưới 300 calo, có sẵn chỉ số…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/i7-AXUDoahA</video:player_loc>
+      <video:publication_date>2026-09-03</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/duong-va-do-che-bien-san.html</loc>
@@ -956,6 +966,16 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/vkCHBlF-5n8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn theo cảm xúc: cách nhận ra và dừng lại</video:title>
+      <video:description>Hay ăn vặt khi buồn chán, căng thẳng, stress dù không hề đói? Bài viết phân biệt đói thể chất với đói cảm xúc, giải thích cơ chế phía sau, và đưa ra cách xử…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/vkCHBlF-5n8</video:player_loc>
+      <video:publication_date>2026-09-03</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/sua-hat-cho-tre-may-tuoi-uong-duoc.html</loc>
@@ -1308,6 +1328,16 @@
     <lastmod>2026-07-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/2htrjP3kQl0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn sáng xong vẫn đói trước trưa: vì sao và cách khắc phục</video:title>
+      <video:description>Ăn sáng xong vẫn đói trước trưa thường do bữa sáng nhiều tinh bột tinh chế, ít đạm và chất xơ, khiến đường huyết tăng nhanh rồi tụt. Hướng dẫn công thức bữa sáng no lâu cho người Việt.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/2htrjP3kQl0</video:player_loc>
+      <video:publication_date>2026-09-03</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
 <url>
     <loc>https://ikihealing.com/blog/nguoi-lon-tuoi-kho-nhai-nuot-nen-an-gi.html</loc>
@@ -1459,7 +1489,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/en/blog/an-sang-tran-nang-luong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://ikihealing.com/en/blog/an-sang-tran-nang-luong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/i7-AXUDoahA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn sáng đúng cách: 12 món sáng cân bằng dưới 300 calo</video:title>
+      <video:description>Ăn sáng đúng cách giúp cân bằng năng lượng cả ngày. Cấu trúc bữa sáng khoa học, 7 nguyên tắc vàng và 12 món sáng Việt lành mạnh dưới 300 calo, có sẵn chỉ số…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/i7-AXUDoahA</video:player_loc>
+      <video:publication_date>2026-09-03</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/en/blog/an-theo-mua-va-the-tang.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/en/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/en/blog/cac-loai-hat-dinh-duong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -1516,7 +1556,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/ja/blog/an-sang-tran-nang-luong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://ikihealing.com/ja/blog/an-sang-tran-nang-luong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/i7-AXUDoahA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn sáng đúng cách: 12 món sáng cân bằng dưới 300 calo</video:title>
+      <video:description>Ăn sáng đúng cách giúp cân bằng năng lượng cả ngày. Cấu trúc bữa sáng khoa học, 7 nguyên tắc vàng và 12 món sáng Việt lành mạnh dưới 300 calo, có sẵn chỉ số…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/i7-AXUDoahA</video:player_loc>
+      <video:publication_date>2026-09-03</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/ja/blog/an-theo-mua-va-the-tang.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/ja/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/ja/blog/cac-loai-hat-dinh-duong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -2813,6 +2863,15 @@
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/udYd_WR1kc0/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn gì để da đẹp? Chế độ ăn nuôi da từ bên trong</video:title>
+      <video:description>Ăn gì để da đẹp? Bốn nhóm chất làn da cần mỗi ngày, cách gom đủ từ bữa ăn Việt, cùng hai yếu tố ngoài mâm cơm là giấc ngủ và căng thẳng — viết cho phụ nữ bận…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/udYd_WR1kc0</video:player_loc>
+      <video:publication_date>2026-09-03</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/dam-va-lan-da-toc-mong.html</loc>
@@ -2823,24 +2882,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   <url><loc>https://ikihealing.com/blog/tra-thanh-huong-la-gi.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
