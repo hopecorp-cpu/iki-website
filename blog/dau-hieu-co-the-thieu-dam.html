@@ -515,19 +515,21 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </div>
   </footer>
 <script>(function(){var T='https://hope-ops-hub.vercel.app/api/track';function lid(){try{var u=new URLSearchParams(location.search).get('lid');if(u){sessionStorage.setItem('iki_lid',u);return u;}return sessionStorage.getItem('iki_lid')||'';}catch(e){return '';}}function b(e,m){var id=lid();if(!id)return;var i=new Image();i.src=T+'?lid='+encodeURIComponent(id)+'&e='+e+(m?'&m='+encodeURIComponent(m):'')+'&_='+Date.now();}var s=location.pathname.split('/').pop().replace(/\.html$/,'')||'index';if(lid())b('read',s);document.addEventListener('click',function(ev){var a=ev.target.closest&&ev.target.closest('a');if(!a)return;var h=a.getAttribute('href')||'';if(/\.pdf($|\?)/i.test(h))b('download',(h.split('/').pop()||'pdf').slice(0,60));else if(/ikihealingdetox|trueveganprotein|tra\.ikihealing|thanhhuongtra|app\.html/.test(h))b('click',h.slice(0,80));},true);})();</script>
-<div id="ikiExit" role="dialog" aria-modal="true" aria-label="Nhận cẩm nang chăm sóc sức khoẻ miễn phí" hidden>
+<div id="ikiExit" role="dialog" aria-modal="true" aria-label="Nhận ebook 100 Bữa Ăn Đủ Đạm miễn phí" hidden>
   <div class="ie-card">
     <button class="ie-x" type="button" aria-label="Đóng">&times;</button>
-    <svg class="ie-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="8" width="18" height="4" rx="1"></rect><path d="M12 8v13M5 12v9h14v-9"></path><path d="M12 8S10.5 3.5 8 4.5 9 8 12 8zM12 8s1.5-4.5 4-3.5S15 8 12 8z"></path></svg>
-    <span class="ie-tag">Cẩm nang miễn phí</span>
-    <h3>Khoan đã — nhận cẩm nang<br>trước khi rời trang</h3>
-    <p>Cẩm nang <strong>Chăm sóc sức khoẻ chủ động</strong>: lộ trình 6 chặng theo thể tạng. Gửi ngay vào email của bạn, không cần mua gì.</p>
+    <svg class="ie-ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4h6a3 3 0 0 1 3 3v13a2 2 0 0 0-2-2H4z"></path><path d="M20 4h-6a3 3 0 0 0-3 3v13a2 2 0 0 1 2-2h7z"></path></svg>
+    <span class="ie-tag">Ebook miễn phí</span>
+    <h3>Khoan đã — nhận ebook<br>100 Bữa Ăn Đủ Đạm Không Cần Thịt</h3>
+    <p>100 món Việt dễ nấu, mỗi món kèm <strong>lượng đạm ước tính</strong> cho từng khẩu phần. Nhận link tải ngay, bản PDF gửi thêm vào email. Không cần mua gì.</p>
     <form class="ie-form" novalidate>
       <input type="email" class="ie-email" placeholder="Email của bạn..." aria-label="Email" required autocomplete="email" />
+      <input type="tel" class="ie-sdt" placeholder="Số Zalo (không bắt buộc) — để nhận thêm thực đơn 3 ngày" aria-label="Số Zalo" autocomplete="tel" />
       <input type="text" class="ie-honey" tabindex="-1" autocomplete="off" aria-hidden="true" />
-      <button type="submit" class="ie-btn">Gửi cẩm nang cho tôi &rarr;</button>
+      <button type="submit" class="ie-btn">Nhận ebook miễn phí &rarr;</button>
     </form>
-    <p class="ie-ok" role="status" hidden>&#10003; Đã gửi! Kiểm tra email trong 1&ndash;3 phút (nhớ xem cả mục Quảng cáo / Spam).</p>
+    <p class="ie-ok" role="status" hidden>&#10003; Xong! Bấm nút dưới để tải ngay. Bản PDF cũng đã gửi vào email (xem cả mục Quảng cáo / Spam).</p>
+    <a class="ie-tai" href="#" target="_blank" rel="noopener" hidden>Tải ebook (PDF) ngay &rarr;</a>
     <a class="ie-sp-sau" href="../shop/?sp=true-vegan-protein" hidden>
       <span class="ie-sp-ten">True Vegan Protein Pro</span>
       <span class="ie-sp-loai">Bột đạm thực vật · hộp 500g</span>
@@ -543,7 +545,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
       </a>
     </div>
-    <p class="ie-note">Không spam &middot; Huỷ nhận bất cứ lúc nào. Bằng việc để lại email, bạn đồng ý nhận nội dung chăm sóc sức khoẻ từ IKI.</p>
+    <p class="ie-note">Không spam &middot; Huỷ nhận bất cứ lúc nào. Bằng việc để lại email, bạn đồng ý nhận nội dung chăm sóc sức khoẻ từ IKI. Nội dung chia sẻ kiến thức ẩm thực, không thay thế tư vấn y khoa.</p>
   </div>
 </div>
 <style>
@@ -561,16 +563,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-x:hover{color:#475467}
 #ikiExit .ie-ico{width:38px;height:38px;color:#2E8975;margin:2px auto 8px;display:block}
 #ikiExit .ie-tag{display:inline-block;font-weight:700;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:#2E8975}
-#ikiExit h3{font-family:var(--font-display,'Cormorant Garamond',serif);font-weight:700;font-size:1.7rem;line-height:1.12;margin:8px 0 8px;color:#12261f}
+#ikiExit h3{font-family:var(--font-display,'Cormorant Garamond',serif);font-weight:700;font-size:1.6rem;line-height:1.12;margin:8px 0 8px;color:#12261f}
 #ikiExit p{color:#667085;font-size:1rem;margin:0 auto 16px;max-width:340px;line-height:1.5}
 #ikiExit p strong{color:#2E8975}
 #ikiExit .ie-form{display:flex;flex-direction:column;gap:10px;max-width:340px;margin:0 auto}
-#ikiExit .ie-email{border:1px solid #d0d5dd;border-radius:12px;padding:14px 16px;font-size:1rem;font-family:inherit;outline:none}
-#ikiExit .ie-email:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
+#ikiExit .ie-email,#ikiExit .ie-sdt{border:1px solid #d0d5dd;border-radius:12px;padding:14px 16px;font-size:1rem;font-family:inherit;outline:none}
+#ikiExit .ie-sdt{font-size:.92rem}
+#ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
 #ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}
 #ikiExit .ie-note{color:#98a2b3;font-size:.74rem;margin:12px auto 0;max-width:340px;line-height:1.4}
@@ -593,7 +598,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
        var daXem=localStorage.getItem('iki_exit_v1')||'';
        var moc=/^\d{10,}$/.test(daXem)?parseInt(daXem,10):0;
        if(moc && Date.now()-moc < 7*864e5) return; }catch(e){}
-  var ENDPOINT='https://hope-ops-hub.vercel.app/api/blog-lead';
+  // Quà đổi từ "cẩm nang" sang ebook 100 món (03/09/2026): 367 phiên blog/tuần mà cẩm nang thu 0,
+  // trong khi ebook đã 313 lượt tải. Đi qua /api/ebook-lead để khách nhận LINK TẢI NGAY + email +
+  // (nếu để số) vào máy chia sale — cùng cửa với landing, không dựng đường thứ hai.
+  var ENDPOINT='https://hope-ops-hub.vercel.app/api/ebook-lead';
   var el=document.getElementById('ikiExit'); if(!el) return;
   var shown=false, done=false;
   function open(){ if(shown) return; shown=true; try{localStorage.setItem('iki_exit_v1',String(Date.now()));}catch(e){}
@@ -616,23 +624,26 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     if(r>=0.6) open(); else if(duGio && r>=0.2) open(); },{passive:true});
   el.querySelector('.ie-form').addEventListener('submit',function(ev){ ev.preventDefault(); if(done) return;
     var email=(el.querySelector('.ie-email').value||'').trim();
+    var sdt=(el.querySelector('.ie-sdt').value||'').replace(/[^\d+]/g,''); if(sdt.indexOf('+84')===0) sdt='0'+sdt.slice(3);
     var honey=(el.querySelector('.ie-honey').value||'').trim();
     var btn=el.querySelector('.ie-btn'), ok=el.querySelector('.ie-ok'), err=el.querySelector('.ie-err'); err.hidden=true;
     if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ err.textContent='Email chưa đúng — kiểm tra lại giúp mình.'; err.hidden=false; return; }
+    if(sdt && !/^0(3|5|7|8|9)\d{8}$/.test(sdt)){ err.textContent='Số Zalo chưa đúng — số di động Việt Nam 10 chữ số, hoặc để trống.'; err.hidden=false; return; }
     btn.disabled=true; btn.textContent='Đang gửi…';
     var cmp='';try{cmp=new URLSearchParams(location.search).get('utm_campaign')||'';}catch(e){}var src='exit:'+((location.pathname.split('/').pop()||'blog').replace(/\.html$/,''))+(cmp?'|'+cmp:'');
-    fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,source:src,consent:true,_honey:honey,phone:''})})
-      .then(function(r){ return r.ok?r.json().catch(function(){return {ok:true};}):Promise.reject(r.status); })
-      .then(function(j){ if(j&&j.ok===false) throw 0;
+    fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,sdt:sdt,ten:'',source:src,_honey:honey})})
+      .then(function(r){ return r.json().catch(function(){return {ok:r.ok};}); })
+      .then(function(j){ if(!j||j.ok===false) throw (j&&j.error)||0;
         done=true; try{localStorage.setItem('iki_lead_ok','1');}catch(e){}
         el.querySelector('.ie-form').hidden=true; el.querySelector('.ie-note').hidden=true;
-        var spSau=el.querySelector('.ie-sp-sau'), spTruoc=el.querySelector('.ie-sp');
+        var spSau=el.querySelector('.ie-sp-sau'), spTruoc=el.querySelector('.ie-sp'), tai=el.querySelector('.ie-tai');
         if(spTruoc) spTruoc.hidden=true;
         ok.hidden=false;
-        // Vừa nhận quà là lúc thiện cảm cao nhất — mới mời xem sản phẩm, và nới giờ tự đóng
-        // từ 3,4 lên 9 giây để người ta kịp đọc. Trước đây màn này bỏ trống rồi đóng ngay.
-        if(spSau){ spSau.hidden=false; setTimeout(close,9000); } else setTimeout(close,3400); })
-      .catch(function(){ btn.disabled=false; btn.textContent='Gửi cẩm nang cho tôi →'; err.textContent='Gửi chưa được — thử lại giúp mình nhé.'; err.hidden=false; });
+        if(tai&&j.link){ tai.href=j.link; tai.hidden=false; }
+        // Vừa nhận quà là lúc thiện cảm cao nhất — mời xem sản phẩm ngay dưới nút tải. KHÔNG tự
+        // đóng nữa: người ta cần bấm nút tải, đóng hộ là mất quà.
+        if(spSau) spSau.hidden=false; })
+      .catch(function(l){ btn.disabled=false; btn.textContent='Nhận ebook miễn phí →'; err.textContent=(typeof l==='string'&&l)?l:'Gửi chưa được — thử lại giúp mình nhé.'; err.hidden=false; });
   });
 })();
 </script>
