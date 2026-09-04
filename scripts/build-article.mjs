@@ -15,6 +15,9 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { buildStructure, emailCta } from "./build-structure.mjs";
 import { ctaSanPham, CSS_CTA_SP, chonSanPham } from "./cta-san-pham.mjs";
+// Bộ khối trực quan cho bài báo cáo số liệu (bảng/biểu đồ SVG/khối số nổi) — CEO 04/09/2026.
+// CSS chèn cho MỌI bài: rẻ (~1KB), và bài thường thỉnh thoảng cũng cần một cái bảng.
+import { CSS_KHOI_SO } from "./khoi-so-lieu.mjs";
 import { chenVideo, schemaVideo, CSS_VIDEO } from "./video-bai.mjs";
 import { khoiCauNoi, CSS_CAU_NOI } from "./cau-noi-chi-muc.mjs";
 import { ogPinDoc } from "./pin-bai.mjs";
@@ -277,7 +280,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
     .info-box .ib-title{font-weight:700;color:#101828;margin-bottom:6px}
     .post-cta{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));border-radius:18px;padding:30px 26px;margin:34px 0;text-align:center;color:#fff}
     .post-cta h3{font-family:var(--font-display,'Cormorant Garamond');font-size:1.6rem;margin:0 0 8px;color:#fff}
-    .post-cta p{margin:0 0 16px;opacity:.95}${CSS_CTA_SP}${CSS_VIDEO}${CSS_CAU_NOI}
+    .post-cta p{margin:0 0 16px;opacity:.95}${CSS_CTA_SP}${CSS_VIDEO}${CSS_CAU_NOI}${CSS_KHOI_SO}
     .post-fig{margin:26px auto;text-align:center}
     .post-fig img{max-width:min(420px,100%);border-radius:18px;box-shadow:0 10px 34px rgba(16,24,40,.14)}
     .post-fig figcaption{color:#98a2b3;font-size:.82rem;margin-top:10px}
