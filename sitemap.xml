@@ -279,7 +279,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/en/blog/an-theo-mua-va-the-tang.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://ikihealing.com/en/blog/an-theo-mua-va-the-tang.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GSSTj4fVTZY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn theo mùa và thể tạng: nguyên tắc người Việt</video:title>
+      <video:description>Ăn theo mùa là gì, thể tạng Đông y gồm những kiểu nào, và chọn thực phẩm hợp cơ địa ra sao? Hướng dẫn ăn theo mùa và thể tạng để chăm sóc sức khoẻ chủ động.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/GSSTj4fVTZY</video:player_loc>
+      <video:publication_date>2026-09-04</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/en/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/en/blog/cac-loai-hat-dinh-duong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/en/blog/cam-nhan-cong-dong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -346,7 +356,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/ja/blog/an-theo-mua-va-the-tang.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://ikihealing.com/ja/blog/an-theo-mua-va-the-tang.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GSSTj4fVTZY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn theo mùa và thể tạng: nguyên tắc người Việt</video:title>
+      <video:description>Ăn theo mùa là gì, thể tạng Đông y gồm những kiểu nào, và chọn thực phẩm hợp cơ địa ra sao? Hướng dẫn ăn theo mùa và thể tạng để chăm sóc sức khoẻ chủ động.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/GSSTj4fVTZY</video:player_loc>
+      <video:publication_date>2026-09-04</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/ja/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/ja/blog/cac-loai-hat-dinh-duong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/ja/blog/cam-nhan-cong-dong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -744,6 +764,15 @@
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/GSSTj4fVTZY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn theo mùa và thể tạng: nguyên tắc người Việt</video:title>
+      <video:description>Ăn theo mùa là gì, thể tạng Đông y gồm những kiểu nào, và chọn thực phẩm hợp cơ địa ra sao? Hướng dẫn ăn theo mùa và thể tạng để chăm sóc sức khoẻ chủ động.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/GSSTj4fVTZY</video:player_loc>
+      <video:publication_date>2026-09-04</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/an-chay-du-chat-can-bang.html</loc>
@@ -1296,6 +1325,15 @@
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zbKS-U_9vWY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn tối lúc mấy giờ là tốt nhất?</video:title>
+      <video:description>Ăn tối lúc mấy giờ là tốt nhất cho tiêu hoá và giấc ngủ? Khung giờ 17–19h, khoảng cách 3 tiếng trước khi ngủ, và cách xoay xở khi bạn tan làm muộn.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zbKS-U_9vWY</video:player_loc>
+      <video:publication_date>2026-09-04</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/nguoi-an-chay-bo-sung-canxi.html</loc>
@@ -2192,6 +2230,15 @@
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Wy5skk3rLkA/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn theo nhóm máu có đúng không? Sự thật và cách thay thế</video:title>
+      <video:description>Ăn theo nhóm máu có đúng không? Lý thuyết nhóm máu O, A, B, AB nói gì, nghiên cứu khoa học kết luận ra sao, vì sao nhiều người vẫn thấy hợp, và cách cá nhân…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Wy5skk3rLkA</video:player_loc>
+      <video:publication_date>2026-09-04</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/an-yen-sao-the-nao-cho-dung.html</loc>
@@ -2641,6 +2688,15 @@
     <lastmod>2026-09-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/A8viC__Ioo8/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn tỏi mỗi ngày bao nhiêu là đủ, mấy tép</video:title>
+      <video:description>Ăn tỏi mỗi ngày bao nhiêu là đủ, nên ăn mấy tép, ăn sống hay nấu chín tốt hơn, vì sao đập dập rồi để 10 phút, và ai nên thận trọng khi ăn tỏi sống thường xuyên.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/A8viC__Ioo8</video:player_loc>
+      <video:publication_date>2026-09-04</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/an-toi-muon-co-anh-huong-gi-khong.html</loc>
@@ -3497,24 +3553,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   
