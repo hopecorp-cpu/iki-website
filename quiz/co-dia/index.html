@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
+<script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script><script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -45,6 +46,12 @@ h1{font-family:var(--serif);font-weight:700;font-size:clamp(1.7rem,6vw,2.4rem);l
 .btn2{display:block;width:100%;border:1.5px solid var(--teal);border-radius:999px;background:#fff;color:var(--teal);font-weight:700;font-size:.98rem;padding:12px;cursor:pointer}
 .legal{color:var(--muted);font-size:.78rem;text-align:center;margin-top:18px}
 .hide{display:none}
+.iki-dy{margin:8px 0;text-align:left}
+.iki-dy label{display:flex;align-items:flex-start;gap:8px;margin:0 0 6px;font-size:13px;font-weight:400;color:#667085;line-height:1.45;cursor:pointer}
+.email .iki-dy input[type=checkbox]{width:16px;height:16px;flex:none;margin:2px 0 0;padding:0;border:0;background:none;accent-color:#2E6B2D}
+.iki-dy-coso{font-size:12px;color:#667085;line-height:1.45;margin:6px 0 0}
+.iki-dy-coso a{color:#2E6B2D;text-decoration:underline}
+
 </style></head>
 <body>
 <!-- Google Tag Manager (noscript) -->
@@ -89,6 +96,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <b style="font-size:.95rem">Nhận nhắc đo lại sau 90 ngày</b>
     <p style="color:var(--muted);font-size:.86rem;margin:.3rem 0">Cơ địa đổi theo mùa và nếp sống. Để lại email — 3 tháng nữa IKI nhắc bạn đo lại xem mình đã dịch chuyển thế nào.</p>
     <input id="em" type="email" placeholder="email@cua-ban.com"/>
+    <div class="iki-dy" id="dyBox">
+      <label><input type="checkbox" id="dySk"/><span>Tôi đồng ý để IKI xử lý các câu trả lời về thói quen và cảm nhận sức khoẻ tôi tự khai (dữ liệu nhạy cảm) để tính 6 chỉ số, mở kết quả và gửi thực đơn theo thể trạng.</span></label>
+      <label><input type="checkbox" id="dyTin"/><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+      <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email để gửi nhắc đo lại sau 90 ngày và kết quả thể trạng theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+      <p id="dyErr" class="hide" style="color:#c0392b;font-size:.85rem;margin:6px 0 0">Bạn cần đồng ý để IKI tính kết quả cho bạn.</p>
+    </div>
     <button class="btn2" id="sendb" onclick="sendLead()">Đăng ký nhắc</button>
     <p id="sentmsg" class="hide" style="color:var(--teal);font-weight:700;font-size:.9rem">Đã đăng ký! Hẹn gặp lại sau 90 ngày.</p>
   </div>
@@ -104,6 +117,7 @@ function render(){const q=D.qs[i];document.getElementById("qof").textContent=qof
 const o=document.getElementById("opts");o.innerHTML="";q.o.forEach(op=>{const b=document.createElement("button");b.className="opt";b.textContent=op.l;b.onclick=()=>{ans[q.key]=op.v;i++;i<D.qs.length?render():finish()};o.appendChild(b)});
 const p=document.getElementById("prog");p.innerHTML="";for(let k=0;k<D.qs.length;k++){const el=document.createElement("i");if(k<=i)el.className="on";p.appendChild(el)}
 document.getElementById("backb").style.visibility=i>0?"visible":"hidden";}
+function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
 function qof(a,b){return "Câu {i}/{n}".replace("{i}",a).replace("{n}",b)}
 function goBack(){if(i>0){i--;render();}}
 let patt=null;
@@ -115,9 +129,10 @@ document.getElementById("rfoods").innerHTML=r.foods.map(f=>'<span class="chip">'
 document.getElementById("rtip").textContent=r.tip;window.scrollTo({top:0});try{gtag('event','quiz_codia_result',{pattern:patt})}catch(e){}
 fetch("https://hope-ops-hub.vercel.app/api/quiz-data",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({pattern:patt,locale:"vi",answers:Object.values(ans),han:han,hu:hu,source:"quiz-codia:vi"}),keepalive:true}).catch(()=>{});}
 function sendLead(){const em=document.getElementById("em").value.trim();if(!/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(em))return;
+const sk=document.getElementById("dySk"),dyErr=document.getElementById("dyErr");if(!(sk&&sk.checked)){dyErr.classList.remove("hide");return;}dyErr.classList.add("hide");
 const r=D.pt[patt]||{};
-fetch("https://hope-ops-hub.vercel.app/api/quiz-submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:"",email:em,profile:patt,profileName:r.name||"",answers:Object.values(ans),consent:true,source:"quiz-codia:vi:"+patt}),keepalive:true}).catch(()=>{});
-document.getElementById("sendb").classList.add("hide");document.getElementById("em").classList.add("hide");document.getElementById("sentmsg").classList.remove("hide");try{gtag('event','quiz_codia_lead')}catch(e){}}
+fetch("https://hope-ops-hub.vercel.app/api/quiz-submit",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({name:"",email:em,profile:patt,profileName:r.name||"",answers:Object.values(ans),dongY:ikiDongY("#dyBox"),source:"quiz-codia:vi:"+patt}),keepalive:true}).catch(()=>{});
+document.getElementById("sendb").classList.add("hide");document.getElementById("em").classList.add("hide");document.getElementById("dyBox").classList.add("hide");document.getElementById("sentmsg").classList.remove("hide");try{gtag('event','quiz_codia_lead')}catch(e){}}
 </script><!-- Zalo OA chat widget -->
 <style>
   .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}

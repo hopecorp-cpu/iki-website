@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
+<script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script><script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -126,6 +127,11 @@
   .lead input{width:100%;border:1.6px solid transparent;border-radius:12px;padding:13px 14px;font:inherit;font-size:1rem;background:#fff}
   .lead input.err{border-color:#F0A594;background:#fff}
   .errmsg{color:#FFD2C7;font-size:.82rem;text-align:left;margin:-4px 0 10px;min-height:1em}
+  .iki-dy{margin:8px 0 10px;text-align:left}
+  .iki-dy label{display:flex;align-items:flex-start;gap:8px;margin:0 0 6px;font-size:13px;font-weight:400;color:rgba(255,255,255,.8);line-height:1.45;cursor:pointer}
+  .lead .iki-dy input[type=checkbox]{width:16px;height:16px;flex:none;margin:2px 0 0;padding:0;border:0;border-radius:3px;background:#fff;accent-color:var(--lime)}
+  .lead .iki-dy-coso{font-size:12px;color:rgba(255,255,255,.62);line-height:1.45;margin:6px 0 0;max-width:none;text-align:left}
+  .lead .iki-dy-coso a{color:var(--lime);text-decoration:underline}
   .giftbox{display:flex;gap:10px;align-items:center;background:rgba(255,255,255,.1);border:1px dashed rgba(255,255,255,.3);border-radius:12px;padding:11px 13px;margin:4px 0 16px;text-align:left}
   .giftbox b{color:#fff;font-size:.92rem} .giftbox span{color:rgba(255,255,255,.75);font-size:.82rem}
 
@@ -310,7 +316,7 @@ function sendQuiz(pkg){
       profile:code, profileName:(PROFILES[code]||{}).name||'',
       overall:overall(dm), dims:dm, answers:answers.slice(),
       pkg: (pkg==null)?null:(pkg==='zalo'?'Thực đơn 3 ngày qua Zalo (miễn phí)':((PKG[pkg]||{}).name||String(pkg))),
-      vat: vatInfo, consent:true,
+      vat: vatInfo, consent:true, dongY: lead.dongY||undefined,
       // Gắn cửa vào để đo cửa nào ra khách — không có cửa nào thắng thì biết mà bỏ, đừng đoán.
       // ?s=<nguồn> (vd zalo-nd2 khi gieo hạt nhóm Zalo) → đo được NGƯỜI BẤM từ nhóm nào, không chỉ người trả lời trong nhóm.
       source: ((pkg==null)?('quiz:'+code):(pkg==='zalo'?('quiz-zalo:'+code):('quiz-order:'+code))) + (cuaVao?(':'+cuaVao):'') + (nguonS?(':s-'+nguonS):'') };
@@ -407,12 +413,19 @@ function gate(){ steps(3); fnl('gate_view');
       <div class="field"><label>Họ tên <span class="req">*</span></label><input id="nm" type="text" autocomplete="name" placeholder="Tên của bạn" oninput="clr('nm')"/></div>
       <div class="field"><label>Email <span class="req">*</span> <span class="hint">(để nhận quà tự động)</span></label><input id="em" type="email" autocomplete="email" placeholder="email@cua-ban.com" oninput="clr('em')"/></div>
       <div class="field"><label>Số Zalo <span class="hint">(để chuyên viên gửi thực đơn 3 ngày theo thể trạng của bạn)</span></label><input id="ph" type="tel" autocomplete="tel" placeholder="09xx xxx xxx"/></div>
+      <div class="iki-dy" id="dyGate">
+        <label><input type="checkbox" id="dySk"/><span>Tôi đồng ý để IKI xử lý các câu trả lời về thói quen và cảm nhận sức khoẻ tôi tự khai (dữ liệu nhạy cảm) để tính 6 chỉ số, mở kết quả và gửi thực đơn theo thể trạng.</span></label>
+        <label><input type="checkbox" id="dyTin"/><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+        <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số điện thoại để mở kết quả, gửi quà và thực đơn theo thể trạng theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+      </div>
       <div class="errmsg" id="err"></div>
       <button class="btn btn-primary btn-wide" onclick="submitGate()">Mở kết quả + nhận quà →</button>
       <p style="color:rgba(255,255,255,.6);font-size:.78rem;margin:12px 0 0">Chúng tôi chỉ gửi nội dung chăm sóc sức khoẻ, không spam.</p>
     </div></div>`;
 }
 function clr(id){ const e=document.getElementById(id); if(e)e.classList.remove('err'); }
+// NĐ 330/2026: ghi lại đúng câu chữ đồng ý khách đã thấy — [x]/[ ] theo trạng thái ô, dòng cơ sở luôn [x] vì bấm gửi là đồng ý.
+function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
 function submitGate(){
   const nm=document.getElementById('nm'), em=document.getElementById('em'), ph=document.getElementById('ph'), err=document.getElementById('err');
   let ok=true;
@@ -420,7 +433,9 @@ function submitGate(){
   const emailOk=/^[A-Za-z0-9._%+-]+@[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?(?:\.[A-Za-z0-9](?:[A-Za-z0-9-]*[A-Za-z0-9])?)*\.[A-Za-z]{2,}$/.test(em.value.trim());
   if(!emailOk){ em.classList.add('err'); ok=false; }
   if(!ok){ err.textContent = !nm.value.trim() ? 'Vui lòng nhập tên của bạn.' : 'Email chưa đúng — cần email hợp lệ để gửi quà cho bạn.'; return; }
-  lead.name=nm.value.trim(); lead.email=em.value.trim(); lead.phone=(ph.value||'').trim();
+  const sk=document.getElementById('dySk');
+  if(!(sk&&sk.checked)){ err.textContent='Bạn cần đồng ý để IKI tính kết quả cho bạn.'; return; }
+  lead.name=nm.value.trim(); lead.email=em.value.trim(); lead.phone=(ph.value||'').trim(); lead.dongY=ikiDongY('#dyGate');
   if(!sentGate){ sendQuiz(null); sentGate=true; fnl('lead');
     try{ if(window.gtag) gtag('event','conversion',{send_to:LEAD_CONVERSION}); }catch(e){}
     try{ if(window.gtag) gtag('event','generate_lead'); }catch(e){}
@@ -483,6 +498,7 @@ function chooseZalo(){
     <p>Chuyên viên IKI sẽ nhắn cho bạn trong hôm nay (giờ hành chính) — thực đơn 3 ngày đúng thể trạng <b style="color:#fff">${(PROFILES[profile()]||{}).name||''}</b> và trả lời thắc mắc của bạn.</p>
     <div class="field"><label>Số Zalo <span class="req">*</span></label><input id="ph2" type="tel" autocomplete="tel" placeholder="09xx xxx xxx" oninput="clr('ph2')"/></div>
     <div class="errmsg" id="err2"></div>
+    <p class="iki-dy-coso" style="margin:0 0 10px">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng số điện thoại để gửi thực đơn qua Zalo và hỗ trợ theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
     <button class="btn btn-primary btn-wide" onclick="zaloGui()">Gửi thực đơn cho tôi qua Zalo →</button>
     <p style="color:rgba(255,255,255,.6);font-size:.78rem;margin:12px 0 0">Chỉ dùng để gửi thực đơn và hỗ trợ, không spam.</p>
   </div>`;

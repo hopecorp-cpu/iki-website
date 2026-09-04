@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
+<script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script><script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Tặng ebook 21 Ngày Ăn Lành Cùng Đạm Sạch | IKI Healing</title>
@@ -35,6 +36,11 @@
   input { width: 100%; padding: 12px 14px; border: 1.5px solid #d8d8ca; border-radius: 10px; font-size: 16px; background: var(--kem); }
   input:focus { outline: none; border-color: var(--xanh2); }
   .an { position: absolute; left: -9999px; opacity: 0; }
+  .iki-dy{margin:8px 0;text-align:left}
+  .iki-dy label{display:flex;align-items:flex-start;gap:8px;margin:0 0 6px;font-size:13px;font-weight:400;color:#667085;line-height:1.45;cursor:pointer}
+  .iki-dy input[type=checkbox]{border-radius:3px;width:16px;height:16px;flex:none;margin:2px 0 0;padding:0;border:0;background:none;accent-color:#2E6B2D}
+  .iki-dy-coso{font-size:12px;color:#667085;line-height:1.45;margin:6px 0 0}
+  .iki-dy-coso a{color:#2E6B2D;text-decoration:underline}
   button { width: 100%; margin-top: 16px; padding: 15px; border: 0; border-radius: 30px; background: var(--xanh); color: #fff; font-size: 17px; font-weight: 800; cursor: pointer; box-shadow: 0 6px 18px rgba(31,77,31,0.25); transition: background 0.15s; }
   button:hover { background: var(--xanh2); }
   button:disabled { opacity: 0.6; }
@@ -121,6 +127,10 @@
     <label for="sdt">Số điện thoại — không bắt buộc (có Zalo, IKI gửi thêm thực đơn 3 ngày theo thể trạng)</label>
     <input id="sdt" name="sdt" type="tel" autocomplete="tel" inputmode="numeric" placeholder="09xx xxx xxx">
     <input class="an" type="text" name="_honey" tabindex="-1" autocomplete="off">
+    <div class="iki-dy">
+      <label><input type="checkbox" id="dyTin"><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+      <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số điện thoại để gửi ebook và thực đơn theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+    </div>
     <button id="nut" type="submit">Nhận ebook miễn phí</button>
     <p class="loi" id="loi"></p>
   </form>
@@ -224,7 +234,7 @@
     fetch(API, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ ten: ten, sdt: sdt, email: email, source: nguon, _honey: form._honey.value })
+      body: JSON.stringify({ ten: ten, sdt: sdt, email: email, source: nguon, dongY: ikiDongY(form), _honey: form._honey.value })
     }).then(function (r) { return r.json(); }).then(function (d) {
       if (d && d.ok && d.link) {
         document.getElementById("tai").href = d.link;
@@ -240,6 +250,7 @@
     }).finally(function () { nut.disabled = false; nut.textContent = "Nhận ebook miễn phí"; });
   });
   function baoLoi(m) { loi.textContent = m; loi.style.display = "block"; }
+  function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
 })();
 </script>
 </body>

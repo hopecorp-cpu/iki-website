@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="vi">
+<script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script><script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
 <meta charset="utf-8">
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -815,6 +816,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     section{padding:52px 0} .brand-lock .wm span{display:none}
     .promo{font-size:10px;letter-spacing:.05em}
   }
+.iki-dy{margin:8px 0;text-align:left}
+.iki-dy label{display:flex;align-items:flex-start;gap:8px;margin:0 0 6px;font-size:13px;font-weight:400;color:#667085;line-height:1.45;cursor:pointer}
+.iki-dy input[type=checkbox]{width:16px;height:16px;flex:none;margin:2px 0 0;padding:0;border:0;background:none;accent-color:#2E6B2D}
+.iki-dy-coso{font-size:12px;color:#667085;line-height:1.45;margin:6px 0 0}
+.iki-dy-coso a{color:#2E6B2D;text-decoration:underline}
 </style>
 
 <!-- Google Tag Manager (noscript) -->
@@ -1069,7 +1075,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <label class="pay-opt on" data-pay="cod"><input type="radio" name="copay" value="cod" checked><div><b>Thanh toán khi nhận hàng (COD)</b><span>Nhân viên gọi xác nhận rồi giao, trả tiền khi nhận.</span></div></label>
         <label class="pay-opt" data-pay="bank"><input type="radio" name="copay" value="bank"><div><b>Chuyển khoản trước (QR)</b><span>Quét QR chuyển khoản, đơn được ưu tiên xử lý.</span></div></label>
       </div>
-      <button class="btn brand block" id="coSubmit" style="margin-top:24px">Xác nhận đặt hàng</button>
+      <div class="iki-dy" id="dyCheckout" style="margin-top:18px">
+        <label><input type="checkbox" id="dyTinDon"><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+        <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số điện thoại để xử lý và giao đơn hàng theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+      </div>
+      <button class="btn brand block" id="coSubmit" style="margin-top:12px">Xác nhận đặt hàng</button>
       <div id="coResult"></div>
       <p class="co-note2" style="margin-top:14px">Bằng việc đặt hàng, bạn đồng ý để nhân viên IKI liên hệ xác nhận đơn. Sản phẩm là thực phẩm bổ sung, không phải là thuốc.</p>
     </div>
@@ -1269,6 +1279,7 @@ document.getElementById('cartBtn').onclick=()=>showToast('Mở một sản phẩ
 // PDP: form để lại SĐT — gửi về máy chia lead HOPE (tự chia cho sale + báo Telegram)
 let currentProduct=null;
 const LEADS_ENDPOINT="https://hope-ops-hub.vercel.app/api/leads/ingest";
+function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
 const phoneSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>';
 const chatSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
 function renderConsult(){
@@ -1279,6 +1290,10 @@ function renderConsult(){
        <input type="tel" id="leadPhone" placeholder="Nhập số điện thoại rồi bấm Nhận tư vấn" inputmode="tel" autocomplete="tel">
        <input type="text" id="leadHp" tabindex="-1" autocomplete="off" aria-hidden="true" style="position:absolute;left:-9999px;width:1px;height:1px;opacity:0">
      </div>
+     <div class="iki-dy" id="dyConsult">
+       <label><input type="checkbox" id="dyTin"><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+       <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng số điện thoại để gọi tư vấn sản phẩm bạn đang xem theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+     </div>
      <button class="btn ghost block" id="leadSubmit" style="margin-top:10px">Nhận tư vấn</button>
      <p class="consult-note">Thanh toán khi nhận hàng (COD) · Nhân viên gọi xác nhận · Không tự động trừ tiền</p>`;
   const inp=document.getElementById('leadPhone');
@@ -1288,7 +1303,7 @@ function renderConsult(){
     const p=currentProduct, nameTxt=p?('“'+p.n+'”'):'sản phẩm';
     try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
       phone: inp.value.trim(), channel:'website', source:'shop-tu-van'+(window.__NGUON_NGOAI?(':'+window.__NGUON_NGOAI):''), product: p?p.n:'',
-      note: 'Xin tư vấn'+(p?(' — '+p.n):''), _hp:(document.getElementById('leadHp')||{}).value||''
+      note: 'Xin tư vấn'+(p?(' — '+p.n):''), dongY: ikiDongY('#dyConsult'), _hp:(document.getElementById('leadHp')||{}).value||''
     })}).catch(function(){}); }catch(e){}
     document.getElementById('consult').innerHTML =
       `<div class="consult-ok"><span class="tick"><svg class="ico" viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg></span>
@@ -1364,7 +1379,7 @@ document.getElementById('coSubmit').onclick=async function(){
   try{ var __n=window.__NGUON_NGOAI||'';if(__n==='ebook-deal-tra'){ orderNote += ' \u00b7 DEAL TRA (camp ebook): FREESHIP + tang thuc don 3 ngay theo the trang (sale gui Zalo)'; }else if(__n.indexOf('ebook-deal')===0){ orderNote += ' \u00b7 BO KHOI DAU DU DAM: don dam DAU TIEN tang 1 hop Tra Thanh Huong 226k + PDF thuc don 7 ngay'; } }catch(e){}
   try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
     customer:name, phone:phone, channel:'website', source:(mode==='bank'?'shop-order-ck':'shop-order-cod')+(window.__NGUON_NGOAI?(':'+window.__NGUON_NGOAI):''),
-    product:p.n, note:orderNote.slice(0,300), _hp:(document.getElementById('coHp')||{}).value||''
+    product:p.n, note:orderNote.slice(0,300), dongY:ikiDongY('#dyCheckout'), _hp:(document.getElementById('coHp')||{}).value||''
   })}).catch(function(){}); }catch(e){}
   var res=document.getElementById('coResult');
   if(mode==='bank'){

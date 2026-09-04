@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
+<script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script><script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -57,6 +58,11 @@
     .done a.cta{display:inline-block;background:linear-gradient(135deg,var(--teal),var(--teal2));color:#fff;font-weight:700;text-decoration:none;padding:13px 24px;border-radius:12px;margin-top:6px}
     .foot{color:var(--muted);font-size:.75rem;text-align:center;margin-top:26px;line-height:1.5}
     .honey{display:none}
+    .iki-dy{margin:8px 0;text-align:left}
+    .iki-dy label{display:flex;align-items:flex-start;gap:8px;margin:0 0 6px;font-size:13px;font-weight:400;color:#667085;line-height:1.45;cursor:pointer}
+    .iki-dy input[type=checkbox]{width:16px;height:16px;flex:none;margin:2px 0 0;padding:0;border:0;background:none;accent-color:#2E6B2D}
+    .iki-dy-coso{font-size:12px;color:#667085;line-height:1.45;margin:6px 0 0}
+    .iki-dy-coso a{color:#2E6B2D;text-decoration:underline}
     .progress{position:sticky;top:0;background:var(--bg);padding:8px 0;z-index:5}
     .bar{height:6px;background:var(--line);border-radius:99px;overflow:hidden}
     .bar i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--lime),var(--teal2));transition:width .2s}
@@ -135,6 +141,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <div class="q">Nhận quà cảm ơn <small>(tuỳ chọn — bỏ trống vẫn gửi được khảo sát)</small></div>
         <p style="font-size:.9rem">Để lại email nếu bạn muốn nhận <strong>cẩm nang Chăm sóc sức khoẻ chủ động (PDF)</strong> và bản kết quả tổng hợp của khảo sát này khi công bố.</p>
         <input type="email" id="svEmail" placeholder="Email của bạn (không bắt buộc)" autocomplete="email" />
+        <div class="iki-dy" id="dyBox">
+          <label><input type="checkbox" id="dyTin"/><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+          <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email để gửi kết quả khảo sát theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+        </div>
         <input type="text" class="honey" id="svHoney" tabindex="-1" autocomplete="off" />
         <p class="note">Không spam · Huỷ nhận bất cứ lúc nào. Phiếu khảo sát luôn ẩn danh — email không gắn với câu trả lời của bạn.</p>
       </div>
@@ -162,6 +172,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     if(!(navigator.sendBeacon&&navigator.sendBeacon("https://hope-ops-hub.vercel.app/api/funnel",new Blob([d],{type:"application/json"}))))
       fetch("https://hope-ops-hub.vercel.app/api/funnel",{method:"POST",headers:{"Content-Type":"application/json"},body:d,keepalive:true}).catch(function(){});}catch(e){}}
   fnl("view");
+  function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
   function answered(){return QS.filter(function(n){return form.querySelector("input[name="+n+"]:checked");}).length;}
   form.addEventListener("change",function(e){
     if(e.target&&e.target.type==="radio"){
@@ -181,7 +192,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     var email=(document.getElementById("svEmail").value||"").trim();
     fetch("https://hope-ops-hub.vercel.app/api/survey-submit",{
       method:"POST",headers:{"Content-Type":"application/json"},
-      body:JSON.stringify({survey:"chi-tieu-suc-khoe",answers:answers,email:email,_honey:document.getElementById("svHoney").value})
+      body:JSON.stringify({survey:"chi-tieu-suc-khoe",answers:answers,email:email,dongY:(email?ikiDongY("#dyBox"):undefined),_honey:document.getElementById("svHoney").value})
     }).then(function(r){return r.json();}).then(function(j){
       if(!j.ok)throw new Error(j.error||"lỗi");
       fnl("submit");

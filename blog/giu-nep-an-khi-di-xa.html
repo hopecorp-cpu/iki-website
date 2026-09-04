@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
+<script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script><script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -434,6 +435,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <input type="email" class="ie-email" placeholder="Email của bạn..." aria-label="Email" required autocomplete="email" />
       <input type="tel" class="ie-sdt" placeholder="Số Zalo (không bắt buộc) — để nhận thêm thực đơn 3 ngày" aria-label="Số Zalo" autocomplete="tel" />
       <input type="text" class="ie-honey" tabindex="-1" autocomplete="off" aria-hidden="true" />
+      <label class="ie-dy"><input type="checkbox" class="ie-dy-cb" id="dyTin" /><span>Nhận thêm bài viết và ưu đãi từ IKI (có thể ngừng bất cứ lúc nào)</span></label>
       <button type="submit" class="ie-btn">Nhận ebook miễn phí &rarr;</button>
     </form>
     <p class="ie-ok" role="status" hidden>&#10003; Xong! Bấm nút dưới để tải ngay. Bản PDF cũng đã gửi vào email (xem cả mục Quảng cáo / Spam).</p>
@@ -453,7 +455,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
       </a>
     </div>
-    <p class="ie-note">Không spam &middot; Huỷ nhận bất cứ lúc nào. Bằng việc để lại email, bạn đồng ý nhận nội dung chăm sóc sức khoẻ từ IKI. Nội dung chia sẻ kiến thức ẩm thực, không thay thế tư vấn y khoa.</p>
+    <p class="ie-note">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số Zalo để gửi ebook và thực đơn theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>. Nội dung chia sẻ kiến thức ẩm thực, không thay thế tư vấn y khoa.</p>
   </div>
 </div>
 <style>
@@ -481,6 +483,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-honey{display:none}
 #ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
+#ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
+#ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
+#ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
@@ -537,9 +542,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     var btn=el.querySelector('.ie-btn'), ok=el.querySelector('.ie-ok'), err=el.querySelector('.ie-err'); err.hidden=true;
     if(!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ err.textContent='Email chưa đúng — kiểm tra lại giúp mình.'; err.hidden=false; return; }
     if(sdt && !/^0(3|5|7|8|9)\d{8}$/.test(sdt)){ err.textContent='Số Zalo chưa đúng — số di động Việt Nam 10 chữ số, hoặc để trống.'; err.hidden=false; return; }
+    // NĐ 330/2026: ghi lại đúng câu chữ đồng ý khách đã thấy — [x]/[ ] theo ô "nhận thêm", dòng cơ sở luôn [x] vì bấm gửi là đồng ý.
+    var dyCb=el.querySelector('.ie-dy-cb'), dyTin=!!(dyCb&&dyCb.checked), dyLbl=el.querySelector('.ie-dy span'), dyNote=el.querySelector('.ie-note');
+    var dongY={tinTuVan:dyTin,vanBan:(dyTin?'[x] ':'[ ] ')+(dyLbl?dyLbl.textContent.replace(/\s+/g,' ').trim():'')+' | [x] '+(dyNote?dyNote.textContent.replace(/\s+/g,' ').trim():''),phienBan:'v1-2026-09-04'};
     btn.disabled=true; btn.textContent='Đang gửi…';
     var cmp='';try{cmp=new URLSearchParams(location.search).get('utm_campaign')||'';}catch(e){}var src='exit:'+((location.pathname.split('/').pop()||'blog').replace(/\.html$/,''))+(cmp?'|'+cmp:'');
-    fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,sdt:sdt,ten:'',source:src,_honey:honey})})
+    fetch(ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,sdt:sdt,ten:'',source:src,dongY:dongY,_honey:honey})})
       .then(function(r){ return r.json().catch(function(){return {ok:r.ok};}); })
       .then(function(j){ if(!j||j.ok===false) throw (j&&j.error)||0;
         done=true; try{localStorage.setItem('iki_lead_ok','1');}catch(e){}

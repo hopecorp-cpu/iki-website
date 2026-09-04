@@ -59,6 +59,7 @@ function head(title, desc, canonical) {
   return `<!DOCTYPE html>
 <html lang="vi">
 <head>
+  <script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script><script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
   <!-- Google Tag Manager -->
   <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -111,7 +112,11 @@ function head(title, desc, canonical) {
     .tl-form input[type=email],.tl-form input[type=tel]{display:block;width:100%;border:none;border-radius:12px;padding:14px 16px;font-size:1rem;font-family:inherit;margin-bottom:10px}
     .tl-form button{width:100%;border:none;border-radius:12px;padding:14px 24px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .tl-form button:hover{opacity:.94} .tl-form button:disabled{opacity:.7;cursor:default}
-    .tl-consent{display:block;margin-top:12px;color:rgba(255,255,255,.62);font-size:.8rem} .tl-consent input{margin-right:6px}
+    .iki-dy{margin:0 0 10px;text-align:left}
+    .iki-dy label{display:flex;align-items:flex-start;gap:8px;margin:0 0 6px;font-size:.8rem;font-weight:400;color:rgba(255,255,255,.8);line-height:1.45;cursor:pointer}
+    .iki-dy input[type=checkbox]{width:16px;height:16px;flex:none;margin:2px 0 0;accent-color:var(--iki-lime,#A8D254)}
+    .iki-dy-coso{font-size:.76rem;color:rgba(255,255,255,.62);line-height:1.45;margin:6px 0 0}
+    .iki-dy-coso a{color:var(--iki-lime,#A8D254);text-decoration:underline}
     .tl-msg{color:#ffd7cf;font-size:.88rem;margin:10px 0 0;min-height:1em}
     .tl-ready .btn{display:inline-block;margin-bottom:10px}
     .tl-ready p{color:rgba(255,255,255,.85);font-size:.92rem;margin:0}
@@ -185,6 +190,7 @@ function docPage(d) {
   var source='tailieu:'+slug+(s?(':'+s):'');
   var form=document.getElementById('dlForm'), ready=document.getElementById('dlReady'), msg=document.getElementById('dlMsg');
   function reveal(){ form.style.display='none'; ready.hidden=false; }
+  function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
   if(localStorage.getItem('iki_lead_ok')) reveal();
   form.addEventListener('submit',function(e){
     e.preventDefault();
@@ -192,7 +198,7 @@ function docPage(d) {
     var email=(form.email.value||'').trim();
     if(!/^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$/.test(email)){ msg.textContent='Email chưa đúng, bạn kiểm tra lại giúp nhé.'; return; }
     var btn=form.querySelector('button'); btn.disabled=true; btn.textContent='Đang gửi...';
-    fetch(${JSON.stringify(FORM_ACTION)},{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,phone:(form.phone.value||'').trim(),source:source,consent:true,_honey:''})})
+    fetch(${JSON.stringify(FORM_ACTION)},{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({email:email,phone:(form.phone.value||'').trim(),source:source,dongY:ikiDongY(form),_honey:''})})
     .then(function(r){return r.json();}).then(function(dd){
       if(dd&&dd.ok){ try{localStorage.setItem('iki_lead_ok','1');}catch(e){}
         try{if(typeof gtag==='function'){gtag('event','generate_lead',{event_category:'tai-lieu',event_label:slug});gtag('event','conversion',{send_to:${JSON.stringify(AW_LEAD)},value:1.0,currency:'VND',transaction_id:''});}}catch(e){}
@@ -214,8 +220,11 @@ function docPage(d) {
       <input type="text" name="_honey" style="display:none" tabindex="-1" autocomplete="off" />
       <input type="email" name="email" placeholder="Email của bạn..." required aria-label="Email" />
       <input type="tel" name="phone" placeholder="Số điện thoại (không bắt buộc — để được tư vấn thêm)" aria-label="Số điện thoại" />
+      <div class="iki-dy">
+        <label><input type="checkbox" id="dyTin" /><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+        <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số điện thoại để gửi tài liệu và tư vấn thêm theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+      </div>
       <button type="submit">Nhận tài liệu →</button>
-      <label class="tl-consent"><input type="checkbox" checked /> Tôi đồng ý nhận nội dung chăm sóc sức khoẻ từ IKI. Không spam.</label>
       <p class="tl-msg" id="dlMsg" role="status"></p>
     </form>
     <div id="dlReady" class="tl-ready" hidden>
