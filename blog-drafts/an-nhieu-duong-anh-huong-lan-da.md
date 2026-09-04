@@ -12,11 +12,11 @@
   "hero_local": "assets/blog/an-nhieu-duong-anh-huong-lan-da-hero.jpg",
   "hero_alt": "Trái cây tươi và hạt trong hộp mang đi làm, thay cho món ngọt xế chiều",
   "reading_min": 12,
-  "answer": "Ăn nhiều đường nhanh — trà sữa, bánh kẹo, nước ngọt — làm đường huyết lên rồi xuống dốc trong thời gian ngắn, và các nghiên cứu phổ thông ghi nhận mối liên hệ giữa khẩu phần nhiều đường với tình trạng viêm, lượng dầu trên da và quá trình lão hoá da. WHO khuyến nghị đường tự do dưới 10% năng lượng mỗi ngày, tương đương khoảng 50g với khẩu phần 2.000 kcal, và dưới 5% (khoảng 25g) thì tốt hơn. Cách giảm thực tế nhất không phải cắt phăng đồ ngọt, mà là nhận diện cơn thèm ngọt xế chiều rồi đổi món: trái cây nguyên trái, một nắm hạt, sữa hạt không đường hoặc một tách trà thảo mộc.",
+  "answer": "Ăn nhiều đường nhanh — trà sữa, bánh kẹo, nước ngọt — làm đường huyết lên rồi xuống dốc trong thời gian ngắn, và các nghiên cứu phổ thông ghi nhận mối liên hệ giữa khẩu phần nhiều đường với tình trạng viêm, lượng dầu trên da và quá trình lão hoá da. Trong hướng dẫn về lượng đường ăn vào công bố năm 2015, Tổ chức Y tế Thế giới khuyến nghị đường tự do dưới 10% năng lượng mỗi ngày, tương đương khoảng 50g với khẩu phần 2.000 kcal, và dưới 5% (khoảng 25g) thì tốt hơn. Cách giảm thực tế nhất không phải cắt phăng đồ ngọt, mà là nhận diện cơn thèm ngọt xế chiều rồi đổi món: trái cây nguyên trái, một nắm hạt, sữa hạt không đường hoặc một tách trà thảo mộc.",
   "faq": [
     {
       "q": "Mỗi ngày ăn bao nhiêu đường thì gọi là nhiều?",
-      "a": "WHO khuyến nghị lượng đường tự do nên dưới 10% tổng năng lượng khẩu phần — với người ăn khoảng 2.000 kcal mỗi ngày thì tương đương chừng 50g đường, và nếu đưa được xuống dưới 5% (khoảng 25g) thì tốt hơn nữa. Để dễ hình dung, một ly trà sữa cỡ vừa hoặc một lon nước ngọt đã có thể chiếm phần lớn hạn mức đó. Bệnh viện Nội tiết Trung ương từng nêu người Việt tiêu thụ đường gấp khoảng hai lần mức khuyến nghị, nên phần lớn chúng ta đang ở phía cần bớt chứ không phải cần thêm."
+      "a": "Theo hướng dẫn năm 2015 của Tổ chức Y tế Thế giới, lượng đường tự do nên dưới 10% tổng năng lượng khẩu phần — với người ăn khoảng 2.000 kcal mỗi ngày thì tương đương chừng 50g đường, và nếu đưa được xuống dưới 5% (khoảng 25g) thì tốt hơn nữa. Để dễ hình dung, một ly trà sữa cỡ vừa hoặc một lon nước ngọt đã có thể chiếm phần lớn hạn mức đó. Bệnh viện Nội tiết Trung ương từng nêu người Việt tiêu thụ đường gấp khoảng hai lần mức khuyến nghị, nên phần lớn chúng ta đang ở phía cần bớt chứ không phải cần thêm."
     },
     {
       "q": "Trái cây có ngọt, vậy ăn trái cây có tính là ăn nhiều đường không?",
@@ -92,7 +92,7 @@ Và một ranh giới quan trọng: nếu bạn đang có mụn nặng, nám sâ
 
 ## Bao nhiêu đường một ngày thì gọi là "nhiều"?
 
-Con số thì có sẵn, và nó cụ thể hơn nhiều người tưởng. WHO khuyến nghị giảm lượng đường tự do xuống **dưới 10% tổng năng lượng khẩu phần**, đồng thời gợi ý tiến tới mức dưới 5% để có thêm lợi ích cho sức khoẻ.
+Con số thì có sẵn, và nó cụ thể hơn nhiều người tưởng. Hướng dẫn năm 2015 của Tổ chức Y tế Thế giới khuyến nghị giảm lượng đường tự do xuống **dưới 10% tổng năng lượng khẩu phần**, đồng thời gợi ý tiến tới mức dưới 5% để có thêm lợi ích cho sức khoẻ.
 
 Quy ra gam thì dễ hình dung hơn. Một người ăn khoảng 2.000 kcal mỗi ngày, mức 10% là 200 kcal; mỗi gam đường cho khoảng 4 kcal, vậy hạn mức rơi vào chừng **50g đường một ngày**. Mức 5% chặt hơn thì khoảng **25g**.
 
