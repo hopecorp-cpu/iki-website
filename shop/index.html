@@ -1278,7 +1278,8 @@ document.getElementById('cartBtn').onclick=()=>showToast('Mở một sản phẩ
 
 // PDP: form để lại SĐT — gửi về máy chia lead HOPE (tự chia cho sale + báo Telegram)
 let currentProduct=null;
-const LEADS_ENDPOINT="https://hope-ops-hub.vercel.app/api/leads/ingest";
+// /api/leads/ingest doi token (khong dan token vao trang tinh cong khai duoc) -> cua rieng cho web.
+const LEADS_ENDPOINT="https://hope-ops-hub.vercel.app/api/web-lead";
 function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
 const phoneSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg>';
 const chatSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
@@ -1377,15 +1378,22 @@ document.getElementById('coSubmit').onclick=async function(){
   // Flash qua: ghi qua vao ghi chu don de sale gui kem, va tru mot suat.
   try{ if(window.__IKI_FLASH){ orderNote += ' \u00b7 QUA TANG: '+window.__IKI_FLASH.gift; window.__IKI_FLASH_CLAIM(); } }catch(e){}
   try{ var __n=window.__NGUON_NGOAI||'';if(__n==='ebook-deal-tra'){ orderNote += ' \u00b7 DEAL TRA (camp ebook): FREESHIP + tang thuc don 3 ngay theo the trang (sale gui Zalo)'; }else if(__n.indexOf('ebook-deal')===0){ orderNote += ' \u00b7 BO KHOI DAU DU DAM: don dam DAU TIEN tang 1 hop Tra Thanh Huong 226k + PDF thuc don 7 ngay'; } }catch(e){}
-  try{ fetch(LEADS_ENDPOINT,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({
-    customer:name, phone:phone, channel:'website', source:(mode==='bank'?'shop-order-ck':'shop-order-cod')+(window.__NGUON_NGOAI?(':'+window.__NGUON_NGOAI):''),
-    product:p.n, note:orderNote.slice(0,300), dongY:ikiDongY('#dyCheckout'), _hp:(document.getElementById('coHp')||{}).value||''
-  })}).catch(function(){}); }catch(e){}
+  // DON HANG DI MOT CUA DUY NHAT (vá 05/09/2026). Truoc day don gui hai duong: don sang
+  // PAY_CREATE, con DIA CHI + lead sang /api/leads/ingest. Duong thu hai tra 401 tu khi bat
+  // LEADS_TOKEN (17/08) va loi bi nuot boi .catch() — khach van thay "dat hang thanh cong",
+  // he thong thi mat sach dia chi. Ca that 04/09: khach CK 668.000d ma khong noi nao co dia chi
+  // de giao. Nay MOI truong (ke ca dia chi) di cung don sang PAY_CREATE, va server tu tao lead.
+  var donWeb={
+    amount:total, name:name, phone:phone, address:addr, note:note,
+    product:p.n, qty:coQty, pkg:p.n+' \u00d7 '+coQty, source:'shop',
+    nguon:(window.__NGUON_NGOAI||''), ghiChuDon:orderNote.slice(0,300),
+    dongY:ikiDongY('#dyCheckout'), _hp:(document.getElementById('coHp')||{}).value||''
+  };
   var res=document.getElementById('coResult');
   if(mode==='bank'){
     res.innerHTML='<div class="co-loading">Đang tạo mã QR thanh toán…</div>';
     try{
-      var r=await fetch(PAY_CREATE,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({amount:total,name:name,phone:phone,pkg:p.n+' × '+coQty})}).then(function(x){return x.json();});
+      var r=await fetch(PAY_CREATE,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(donWeb)}).then(function(x){return x.json();});
       if(r&&r.ok&&r.qrCode&&typeof qrcode!=='undefined'){
         var q=qrcode(0,'M'); q.addData(r.qrCode); q.make(); var img=q.createDataURL(6,2);
         res.innerHTML='<div class="co-pay-box"><h3>Quét mã QR để chuyển khoản</h3>'
@@ -1406,6 +1414,9 @@ document.getElementById('coSubmit').onclick=async function(){
       }
     }catch(e){ thankYou(p,phone,'fallback'); }
   } else {
+    // COD: van phai ghi don + dia chi vao he thong. Truoc day nhanh nay khong goi API nao —
+    // don COD chi di theo duong lead da chet, nen mat trang.
+    try{ donWeb.cod=true; await fetch(PAY_CREATE,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(donWeb)}); }catch(e){}
     thankYou(p,phone,'cod');
     showToast('Đã đặt hàng — nhân viên sẽ gọi xác nhận');
   }
