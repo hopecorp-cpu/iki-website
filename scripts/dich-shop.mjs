@@ -181,15 +181,20 @@ async function dichJs() {
     .replace("'ĐƠN /shop · '+p.n", `'ĐƠN /${NGON}/shop (${NHAN_KHACH}) · '+(p.vn||p.n)`)
     .replace("product: p?p.n:''", "product: p?(p.vn||p.n):''")
     .replace("note: 'Xin tư vấn'+(p?(' — '+p.n):'')", `note: 'Xin tư vấn (${NHAN_KHACH})'+(p?(' — '+(p.vn||p.n)):'')`)
-    .replace("product:p.n, note:orderNote", "product:(p.vn||p.n), note:orderNote")
-    .replace("pkg:p.n+' × '+coQty", "pkg:(p.vn||p.n)+' × '+coQty")
+    // Khối donWeb (vá 05/09/2026): đơn + ĐỊA CHỈ đi CHUNG một cửa sang PAY_CREATE, không còn
+    // đường /api/leads/ingest riêng. Tên hàng phải là tên VIỆT gốc để sale đọc được đơn của khách
+    // nước ngoài; `source` mang đuôi ngôn ngữ để đo được cửa nào ra đơn.
+    .replace("product:p.n, qty:coQty", "product:(p.vn||p.n), qty:coQty")
+    .replace("pkg:p.n+' \\u00d7 '+coQty, source:'shop'", `pkg:(p.vn||p.n)+' \\u00d7 '+coQty, source:'shop-${NGON}'`)
     .replace("source:'shop-tu-van'", `source:'shop-tu-van-${NGON}'`)
-    .replace("(mode==='bank'?'shop-order-ck':'shop-order-cod')", `(mode==='bank'?'shop-order-ck-${NGON}':'shop-order-cod-${NGON}')`)
     .replace("n.toLocaleString('vi-VN')+'₫'", `n.toLocaleString('${LOCALE}')+'₫'`);
-  for (const mốc of ["(p.vn||p.n)", `shop-tu-van-${NGON}`, `shop-order-cod-${NGON}`, LOCALE, NHAN_KHACH]) if (!js.includes(mốc)) loi.push(`hậu xử lý JS không tìm thấy mốc: ${mốc}`);
+  for (const mốc of ["(p.vn||p.n)", `shop-tu-van-${NGON}`, `source:'shop-${NGON}'`, LOCALE, NHAN_KHACH]) if (!js.includes(mốc)) loi.push(`hậu xử lý JS không tìm thấy mốc: ${mốc}`);
   const giuNguyen = [...map].filter(([k, v]) => k === v).length;
   if (giuNguyen > Math.max(3, spans.length * 0.1)) loi.push(`từ điển JS: mô hình giữ nguyên ${giuNguyen}/${spans.length} chuỗi — dịch lười?`);
-  const TEN = /Tuệ Minh|Thanh Hương|Đồng Văn|Hà Giang/g;
+  // Tên riêng ĐƯỢC PHÉP giữ nguyên tiếng Việt trong bản dịch. "Đạm" thêm 05/09/2026: nó là tên
+  // dòng hàng trong chú thích JS, mô hình giữ lại là đúng, nhưng cửa kiểm lại chặn cả lượt dịch.
+  // Lột tên riêng KHÔNG làm lọt câu Việt còn sót — câu thật luôn còn dấu ở chữ khác.
+  const TEN = /Tuệ Minh|Thanh Hương|Đồng Văn|Hà Giang|Đạm/g;
   const conVN = (js.match(re) || []).filter((s) => !GIU_NGUYEN.has(s) && !map.has(s) && !/khách (EN|JA)|Xin tư vấn|ĐƠN \//.test(s) && /[À-ÖØ-öø-ỹ]/.test(s.replace(TEN, "")));
   if (conVN.length) loi.push("JS còn chuỗi tiếng Việt: " + conVN.slice(0, 5).map((s) => JSON.stringify(s)).join(", "));
   // cú pháp: parse từng khối <script> không src
