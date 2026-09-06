@@ -1213,6 +1213,15 @@
     <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nxtRCyib0oI/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn uống thế nào khi đi tiệc liên hoan nhiều mà vẫn giữ được</video:title>
+      <video:description>Ăn uống khi đi tiệc liên hoan thế nào để không đầy bụng, không mệt hôm sau và không mất nếp sinh hoạt? Hướng dẫn trước, trong và sau bữa tiệc, kèm cách xoay…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/nxtRCyib0oI</video:player_loc>
+      <video:publication_date>2026-09-06</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/uong-dam-thuc-vat-luc-nao-trong-ngay.html</loc>
@@ -1382,6 +1391,15 @@
     <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/p1ihWgSk4LU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn uống lành mạnh mà tiết kiệm — hướng dẫn thực tế</video:title>
+      <video:description>Ăn uống lành mạnh mà tiết kiệm có khả thi không? Cách lên thực đơn tuần, chọn nguồn đạm và rau rẻ mà chất, đi chợ đúng cách, giảm đồ bỏ đi — kèm gợi ý thực…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/p1ihWgSk4LU</video:player_loc>
+      <video:publication_date>2026-09-06</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/hat-chia-dung-the-nao-cho-dung.html</loc>
@@ -1643,6 +1661,15 @@
     <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Qlla1pwjSRk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Mùa thu nên ăn gì? Ăn uống dưỡng phế chống khô hanh</video:title>
+      <video:description>Mùa thu nên ăn gì cho đỡ khô họng, khô da? Ba nguyên tắc ăn uống mùa thu theo Đông y, nhóm thực phẩm nhuận táo, món cháo buổi sáng và thực đơn tham khảo 3 ngày.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Qlla1pwjSRk</video:player_loc>
+      <video:publication_date>2026-09-06</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/sau-khi-uong-ruou-bia-nen-an-gi.html</loc>
@@ -3573,6 +3600,15 @@
     <lastmod>2026-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Psfdcauxh3A/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn nhiều đường ảnh hưởng làn da thế nào?</video:title>
+      <video:description>Ăn nhiều đường ảnh hưởng làn da thế nào? Phân biệt đường nhanh với vị ngọt tự nhiên, lượng đường nên ăn mỗi ngày theo WHO, và 5 cách đổi món cho cơn thèm ngọt…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Psfdcauxh3A</video:player_loc>
+      <video:publication_date>2026-09-06</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/chat-chong-oxy-hoa-trong-thuc-pham.html</loc>
@@ -3601,24 +3637,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   
