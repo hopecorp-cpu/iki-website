@@ -11,6 +11,7 @@
  * Export buildStructure() + emailCta() cho build-article.mjs.
  */
 import fs from "fs";
+import { blogHomeShell } from "./blog-home-shell.mjs";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -342,13 +343,13 @@ export function buildStructure() {
   for (const g of plan.roadmaps) for (const it of g.items) if (!plan.articles.find((a) => a.slug === it.slug)) searchIndex.push({ title: it.title, url: isPublished(it.slug) ? `${it.slug}.html` : null, cat: "Lộ trình", desc: g.group });
   fs.writeFileSync(path.join(outDir, "search-index.json"), JSON.stringify(searchIndex), "utf8");
   fs.writeFileSync(path.join(outDir, "index.html"),
-    head("Blog IKI — Lộ trình chăm sóc sức khoẻ chủ động",
+    blogHomeShell(head("Blog IKI — Lộ trình chăm sóc sức khoẻ chủ động",
       "Blog IKI — lộ trình chăm sóc sức khoẻ chủ động theo từng chặng: hiểu cơ thể, nền tảng ăn uống, thói quen, tri thức Đông y và kiến thức thực phẩm. Cá nhân hoá theo thể tạng.",
       `${SITE}/blog/`,
       { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKI", url: `${SITE}/blog/`, description: "Lộ trình chăm sóc sức khoẻ chủ động theo thể tạng.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: "IKI Healing — by HOPE CORP" } })
     + header()
     + `<main><section class="blog-hero"><span class="eyebrow">Blog IKI · Lộ trình chăm sóc sức khoẻ</span><h1>Chăm sóc sức khoẻ chủ động, theo từng chặng</h1><p>Đi từ hiểu cơ thể mình đến xây thói quen bền vững — mỗi chặng một bước, phủ dần kiến thức để bạn tự chủ sức khoẻ mỗi ngày.</p></section>${searchBox}${ageSection}${catNav}<div class="blog-layout"><div class="blog-main">${chapters}</div>${sidebar}</div>${emailCta(plan, "index")}${searchScript}</main>`
-    + footer(), "utf8");
+    + footer()), "utf8");
 
   // ---------- CATEGORY HUBS ----------
   for (const c of plan.categories) {

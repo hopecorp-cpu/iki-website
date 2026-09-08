@@ -1,0 +1,14 @@
+import fs from 'fs';
+
+// Apply the website shell only to the blog homepage; preserve generated articles and forms.
+export function blogHomeShell(html) {
+  const home = fs.readFileSync(new URL('../index.html', import.meta.url), 'utf8');
+  const header = home.match(/<header class="sitehead">[\s\S]*?<\/header>/)?.[0];
+  const footer = home.match(/<footer>[\s\S]*?<\/footer>/)?.[0];
+  if (!header || !footer) throw new Error('Website header/footer missing');
+  const activeHeader = header.replace(/ aria-current="page"/g, '').replace('href="/blog/"', 'href="/blog/" aria-current="page"');
+  return html.replace(/<header\b[\s\S]*?<\/header>/, () => activeHeader)
+    .replace(/<footer\b[\s\S]*?<\/footer>/, () => footer)
+    .replace('<main>', '<main id="main" class="legacyblog wrap">')
+    .replace('</head>', '<link rel="stylesheet" href="/assets/iki-20260908/fonts.css"><link rel="stylesheet" href="/assets/iki-20260908/site.css"><link rel="stylesheet" href="/assets/iki-20260908/blog-integration.css"><script src="/assets/iki-20260908/site.js" defer></script></head>');
+}
