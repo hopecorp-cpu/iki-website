@@ -1,0 +1,35 @@
+/* Shared IKI identity; commerce selectors and layout remain in the shop. */
+:root,:root[data-theme="light"]{--ground:#f8f4ee;--surface:#fffaf6;--raise:#f0e8e3;--ink:#342933;--ink-soft:#766974;--ink-faint:#8b7883;--line:#e3d6d4;--brand:#a53653;--brand-deep:#342536;--brand-tint:#f3e4e7;--gold:#987956;--serif:Editorial,Georgia,serif;--sans:Interface,Arial,sans-serif;--r:12px;--r-lg:22px}
+@media(prefers-color-scheme:dark){:root:not([data-theme="light"]){--ground:#261e2d;--surface:#302637;--raise:#3a3040;--ink:#f8f0e9;--ink-soft:#c8b8c4;--ink-faint:#b69dab;--line:#53404f;--brand:#e6abb9;--brand-deep:#402d40;--brand-tint:#48313f}}
+:root[data-theme="dark"]{--ground:#261e2d;--surface:#302637;--raise:#3a3040;--ink:#f8f0e9;--ink-soft:#c8b8c4;--ink-faint:#b69dab;--line:#53404f;--brand:#e6abb9;--brand-deep:#402d40;--brand-tint:#48313f}
+body{font-family:var(--sans)}
+header.site{background:var(--ground)}
+header.site .bar{min-height:88px;height:auto;padding-top:12px;padding-bottom:12px;gap:20px}
+.brand-lock img{width:54px;height:54px;object-fit:contain;clip-path:inset(0 24%);margin-inline:-12px;filter:hue-rotate(210deg) saturate(.7)}
+.brand-lock .wm b{font-size:34px;letter-spacing:.18em}
+.brand-lock .wm span{font-size:8px;letter-spacing:.19em;white-space:nowrap;margin-top:8px}
+nav.main{gap:24px}nav.main a{font-size:15px;text-transform:none;letter-spacing:0}
+.hero .grid{gap:64px}.hero h1{font-size:clamp(34px,4.3vw,58px);font-weight:400;line-height:1.12}
+.hero .lead{font-size:16px;line-height:1.85;max-width:51ch}
+.hero-art{background:radial-gradient(ellipse at 50% 55%,#e9e6d8 0%,#f0e9e2 58%,#f6efe8 100%);border-radius:42% 42% 22px 22px}
+.hero-art .ring{border-color:#b8b2a0}.hero-tag{background:var(--surface);color:var(--ink);border:1px solid var(--line)}
+.trust b{font-family:var(--serif);font-size:23px}.trust span{font-size:11px;line-height:1.5}
+body .promo,body #flashBar{background:#342536;color:#fff5ef}
+body .band{background:linear-gradient(115deg,#352639,#523443);color:#fff5ef}
+body .band h2,body .band p{color:#fff5ef}body .band .kicker{color:#e6abb9}
+body .band .btn{background:#a53653;color:#fff}
+.split-art{background:var(--raise)}#splitLogo{max-width:240px;max-height:300px;filter:hue-rotate(210deg) saturate(.7);object-fit:contain}
+.shop-needs h2{margin:14px 0 28px}.need-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.need-grid a{display:block;border:1px solid var(--line);background:var(--surface);border-radius:20px;padding:30px;cursor:pointer;transition:transform .2s,border-color .2s}
+.need-grid a:hover{transform:translateY(-3px);border-color:var(--brand)}.need-grid span{font-size:10px;letter-spacing:.16em;color:var(--brand);font-weight:700}.need-grid h3{font-size:28px;line-height:1.2;margin:24px 0 12px}.need-grid p{font-size:14px;line-height:1.7;color:var(--ink-soft)}.need-grid b{font-size:13px;color:var(--brand)}
+.shop-language{position:relative;margin-left:auto;flex:none}.shop-language summary{cursor:pointer;list-style:none;border:1px solid var(--line);border-radius:22px;padding:9px 12px;font-size:12px}.shop-language summary::-webkit-details-marker{display:none}
+.shop-language nav.langs{position:absolute;right:0;top:100%;margin:8px 0 0;padding:12px;background:var(--surface);border:1px solid var(--line);border-radius:12px;box-shadow:0 8px 25px #0002;display:flex;flex-direction:column;gap:14px;min-width:110px;z-index:60}
+.shop-language:not([open]) nav.langs{display:none}
+.shop-company{border-top:1px solid var(--line);padding-top:30px;margin-top:30px;font-size:14px;line-height:1.85;color:var(--ink-soft)}.shop-company b{color:var(--ink)}.shop-company p{letter-spacing:0}
+body .iki-dy label,body .iki-dy-coso{color:var(--ink-soft)}body .iki-dy a{color:var(--brand)}body .iki-dy input{accent-color:var(--brand)}
+@media(max-width:1050px){header.site .bar{gap:12px}nav.main{gap:14px;margin-left:0}nav.main a{font-size:14px}.brand-lock .wm b{font-size:29px}.hero .grid{gap:30px}}
+@media(max-width:760px){header.site .bar{min-height:74px;gap:10px}.brand-lock .wm span{font-size:6.5px}.brand-lock .wm b{font-size:26px}.brand-lock img{width:44px;height:44px;margin-inline:-10px}.shop-language summary{padding:7px 9px}header.site .tools{gap:4px}header.site .tools button[aria-label="Tài khoản"]{display:none}.hero h1{font-size:38px}.hero .grid{gap:34px}.need-grid{grid-template-columns:1fr}.need-grid a{padding:24px}.need-grid h3{margin-top:16px}.trust{gap:14px}.trust b{font-size:21px}nav.main a{font-size:16px}}
+:root body .promo{color:#fff5ef}
+body #ikiCookieDy{background:var(--surface);border-color:var(--line);color:var(--ink)}body #ikiCookieDy a{color:var(--brand)}body #ikiCookieDy button{border-color:var(--brand)}body #ikiCookieDy .ck-ok{background:var(--brand);color:var(--ground)}body #ikiCookieDy .ck-khong{background:var(--surface);color:var(--brand)}
+@media(max-width:1300px){.hero .wrap.grid{padding-inline:30px}}
+@media(max-width:640px){.hero .wrap.grid{padding:40px 20px}.hero p.lead{font-size:16px}.hero .trust{gap:18px}.hero .trust span{letter-spacing:0}.hero .trust b{font-size:20px}section.wrap{padding:42px 20px}.brand-lock .wm span{display:block}.brand-lock{gap:8px}}
