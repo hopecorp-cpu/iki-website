@@ -9,3 +9,5 @@ Blog homepage generator applies scripts/blog-home-shell.mjs to retain the new sh
 Rollback: restore only changed paths from backup tag, commit and push. Do not reset main or deploy a dirty checkout.
 
 Validation: 9 pages at 1440px and 390px, no horizontal overflow or broken images, no JavaScript errors. Clicked mobile menus, app tabs, gallery open/next/Escape and Blog search (8 results). Local href/src check passed. 424 protected files retained byte-for-byte. Full blog build tested in an isolated copy: generated HTML unchanged; existing generator only adds its normal resource entries to sitemap.xml.
+
+Logo correction: replaced the 122px recolored mark with the user-supplied 1568px original JPG in headers; original transparent green mark in footers. CSS preserves image proportions and crops square whitespace only in layout. Verified desktop/mobile homepage, Blog, app and mobile menu. Cache version logo-original-2.
