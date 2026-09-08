@@ -7,3 +7,23 @@ body{font-family:Interface,Arial,sans-serif;background:#f8f4ee;color:#342933}.le
 .sitehead .brand img{mix-blend-mode:multiply}
 footer .brand img{mix-blend-mode:normal}
 @media(max-width:560px){.sitehead .brand img,footer .brand img{width:56px!important;height:56px!important;margin-inline:-14px}}
+
+/* Match the ecosystem palette throughout retained Blog components. */
+:root{--iki-lime:#e6abb9;--iki-teal:#a53653;--iki-teal-deep:#963048;--iki-gradient:linear-gradient(#a53653,#a53653);--iki-gradient-soft:linear-gradient(#f3e8e8,#f3e8e8);--iki-gradient-mist:linear-gradient(#f8f4ee,#f8f4ee);--iki-ink:#342933;--iki-cream:#f8f4ee;--iki-sand:#eee4df;--gray-700:#74666c}
+.legacyblog .blog-hero .eyebrow,.legacyblog .cc-tier,.legacyblog .age-label,.legacyblog .search-results .sr-cat{color:#963048}
+.legacyblog h2,.legacyblog .side-title,.legacyblog .side-cats a{color:#342933}
+.legacyblog .side-app,.legacyblog .lead-inner{background:#2a2030;color:#f8f4ee}
+.legacyblog .side-app .side-h,.legacyblog .lead-inner h2{color:#f8f4ee}
+.legacyblog .side-app .side-tag,.legacyblog .lead-tag{color:#e6abb9}
+.legacyblog .side-app p,.legacyblog .lead-inner p,.legacyblog .lead-inner .lead-consent{color:#eadedc}
+.legacyblog .side-app .btn,.legacyblog .lead-row button{background:#a53653;color:#fff;border-color:#a53653;box-shadow:none}
+.legacyblog .side-app .btn:hover,.legacyblog .lead-row button:hover{background:#8d2d46;opacity:1;box-shadow:none}
+.legacyblog .cat-nav a,.legacyblog .side-box:not(.side-app),.legacyblog .search-results{background:#fffaf5;border-color:#dfd5d0;color:#342933}
+.legacyblog .cat-nav a:hover,.legacyblog .cat-nav a.active{background:#a53653;color:#fff;border-color:#a53653}
+.legacyblog .search-results a:hover{background:#f3e8e8}
+.legacyblog .blog-search input:focus,.legacyblog .lead-inner input:focus-visible{border-color:#a53653;outline:2px solid #b478aa;outline-offset:3px;box-shadow:none}
+.legacyblog .lead-inner input:not([type=checkbox]):not([type=hidden]){background:#fffaf5;color:#342933;border:1px solid #dfd5d0}
+.legacyblog .lead-inner input::placeholder{color:#74666c;opacity:1}
+.legacyblog .lead-consent{display:flex;align-items:flex-start;justify-content:center;gap:10px;text-align:left;max-width:520px;margin:16px auto 0;font-weight:400}
+.legacyblog .lead-consent input[type=checkbox]{width:18px;height:18px;flex:0 0 18px;margin:3px 0 0;accent-color:#a53653}
+.legacyblog .lead-consent a{color:#e6abb9;text-decoration:underline}

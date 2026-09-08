@@ -28,3 +28,10 @@
 .sitehead .brand img{mix-blend-mode:multiply}
 footer .brand img{mix-blend-mode:normal}
 @media(max-width:560px){.sitehead .brand img,footer .brand img{width:56px!important;height:56px!important;margin-inline:-14px}}
+
+/* The shared consent widget injects its old colors after page styles. */
+body #ikiCookieDy{background:#fffaf5;border-color:#dfd5d0;color:#342933}
+body #ikiCookieDy a,body #ikiCookieDy .ck-khong{color:#963048}
+body #ikiCookieDy button{border-color:#a53653}
+body #ikiCookieDy .ck-ok{background:#a53653;color:#fff}
+body #ikiCookieDy .ck-khong{background:#fffaf5}
