@@ -23,3 +23,5 @@ Community expanded with real Facebook and Zalo channels, Blog entry, joining gui
 Shared Vietnamese header: 15px desktop / 16px collapsed menu, visible VI/English/Japanese dropdown linking available translations; homepage fallback is explicitly labelled. Footer language links removed; full legal company name, MST 0801404967, address and email copied from existing public privacy page. Existing foreign-language page content unchanged.
 
 Validation: 7 affected page types at 1440/1024/390px, no overflow/missing images/JS errors; clicked navigation/language menu, Reset destination, course radio/consent and empty-form validation, Blog search. No live leads submitted. 424 protected Blog/investor/shop/quiz/policy files remain unchanged. Local href and anchor audit passed.
+
+Logo color update: user requested no green mark. Apply rose color treatment in CSS to the existing high-resolution header/footer logo, preserving source image and proportions. Verified desktop/mobile headers; programme background remains green.
