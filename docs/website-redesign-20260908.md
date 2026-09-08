@@ -13,3 +13,13 @@ Validation: 9 pages at 1440px and 390px, no horizontal overflow or broken images
 Logo correction: replaced the 122px recolored mark with the user-supplied 1568px original JPG in headers; original transparent green mark in footers. CSS preserves image proportions and crops square whitespace only in layout. Verified desktop/mobile homepage, Blog, app and mobile menu. Cache version logo-original-2.
 
 Palette correction: harmonized retained Blog CTA panels, buttons, labels, search focus/hover, input fields and consent text to plum/cream/rose; shared cookie banner follows the same palette on redesigned pages. Kept original logo green. Blog content and form submission behavior unchanged. Verified computed colors, checkbox toggle, search and mobile menu at 1440/390px; no page errors or overflow.
+
+## Programme and navigation update
+
+Reset links now use /3ngayreset.html, never 7ngayreset.com. Rewrote the two existing programme pages with a green visual variant, lifestyle education overview, day-by-day reference outline, questions before enrolment and existing FormSubmit destination/field names. Existing ticket amounts retained; removed unverified testimonials, 200K counts, countdowns, comparison claims and treatment/outcome promises. Backup copies in local course-pages-before-update directory.
+
+Community expanded with real Facebook and Zalo channels, Blog entry, joining guidance and participation principles; no invented group URLs or timetable. Academy 1-1 card now targets a detailed section. Product cards now link their existing product detail pages.
+
+Shared Vietnamese header: 15px desktop / 16px collapsed menu, visible VI/English/Japanese dropdown linking available translations; homepage fallback is explicitly labelled. Footer language links removed; full legal company name, MST 0801404967, address and email copied from existing public privacy page. Existing foreign-language page content unchanged.
+
+Validation: 7 affected page types at 1440/1024/390px, no overflow/missing images/JS errors; clicked navigation/language menu, Reset destination, course radio/consent and empty-form validation, Blog search. No live leads submitted. 424 protected Blog/investor/shop/quiz/policy files remain unchanged. Local href and anchor audit passed.

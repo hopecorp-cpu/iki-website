@@ -12,3 +12,10 @@ const save=document.querySelector('#save-article');if(save){const key='iki-previ
 const progress=document.querySelector('.readingprogress');if(progress){const update=()=>{const max=document.documentElement.scrollHeight-innerHeight;progress.style.width=(max>0?Math.min(100,scrollY/max*100):0)+'%'};window.addEventListener('scroll',update,{passive:true});update()}
 
 const legacyInput=document.querySelector('#legacySearch');if(legacyInput){const items=[...document.querySelectorAll('.chip-card')],chapters=[...document.querySelectorAll('.chapter')];const run=()=>{const q=normalize(legacyInput.value);let n=0;items.forEach(a=>{a.hidden=!normalize(a.textContent).includes(q);if(!a.hidden)n++});chapters.forEach(c=>c.hidden=![...c.querySelectorAll('.chip-card')].some(a=>!a.hidden));document.querySelector('#legacyCount').textContent=n+' bài được giới thiệu';document.querySelector('#legacyEmpty').hidden=n>0};legacyInput.addEventListener('input',run);run();}
+
+const languageSwitch=document.querySelector('.language-switch');
+document.addEventListener('click',event=>{if(languageSwitch&&!languageSwitch.contains(event.target))languageSwitch.open=false});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&languageSwitch?.open){languageSwitch.open=false;languageSwitch.querySelector('summary').focus()}});
+
+const courseReceipt=document.querySelector('.course-receipt');
+if(courseReceipt&&new URLSearchParams(location.search).get('registered')==='1'){courseReceipt.hidden=false;courseReceipt.focus()}

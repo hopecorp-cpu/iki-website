@@ -27,3 +27,4 @@ footer .brand img{mix-blend-mode:normal}
 .legacyblog .lead-consent{display:flex;align-items:flex-start;justify-content:center;gap:10px;text-align:left;max-width:520px;margin:16px auto 0;font-weight:400}
 .legacyblog .lead-consent input[type=checkbox]{width:18px;height:18px;flex:0 0 18px;margin:3px 0 0;accent-color:#a53653}
 .legacyblog .lead-consent a{color:#e6abb9;text-decoration:underline}
+.sitehead nav a{font-size:15px}.sitehead .headrow{max-width:1440px}.sitehead .language-switch{border:0;padding:0}.sitehead .language-switch>summary{font-size:13px}.sitehead .language-switch>summary:after{display:none}@media(max-width:1180px){.sitehead nav a{font-size:16px}.sitehead nav{display:none}.sitehead nav.open{display:grid}}@media(max-width:560px){.sitehead .headrow{padding-right:20px}.sitehead .brand span{font-size:25px}}

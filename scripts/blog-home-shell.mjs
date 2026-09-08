@@ -6,9 +6,10 @@ export function blogHomeShell(html) {
   const header = home.match(/<header class="sitehead">[\s\S]*?<\/header>/)?.[0];
   const footer = home.match(/<footer>[\s\S]*?<\/footer>/)?.[0];
   if (!header || !footer) throw new Error('Website header/footer missing');
-  const activeHeader = header.replace(/ aria-current="page"/g, '').replace('href="/blog/"', 'href="/blog/" aria-current="page"');
-  return html.replace(/<header\b[\s\S]*?<\/header>/, () => activeHeader)
+  const activeHeader = header.replace(/ aria-current=(?:"page"|page)/g, '').replace('href="/blog/"', 'href="/blog/" aria-current="page"');
+  const blogHeader = activeHeader.replace('href="/" lang="vi"', 'href="/blog/" lang="vi"').replace('href="/en/"', 'href="/en/blog/"').replace('href="/ja/"', 'href="/ja/blog/"');
+  return html.replace(/<header\b[\s\S]*?<\/header>/, () => blogHeader)
     .replace(/<footer\b[\s\S]*?<\/footer>/, () => footer)
     .replace('<main>', '<main id="main" class="legacyblog wrap">')
-    .replace('</head>', '<link rel="stylesheet" href="/assets/iki-20260908/fonts.css"><link rel="stylesheet" href="/assets/iki-20260908/site.css?v=palette-3"><link rel="stylesheet" href="/assets/iki-20260908/blog-integration.css?v=palette-3"><script src="/assets/iki-20260908/site.js" defer></script></head>');
+    .replace('</head>', '<link rel="stylesheet" href="/assets/iki-20260908/fonts.css"><link rel="stylesheet" href="/assets/iki-20260908/site.css?v=navigation-4"><link rel="stylesheet" href="/assets/iki-20260908/blog-integration.css?v=navigation-4"><script src="/assets/iki-20260908/site.js?v=navigation-4" defer></script></head>');
 }
