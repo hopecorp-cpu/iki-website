@@ -143,15 +143,18 @@
         },
         {
           "slug": "lo-trinh-nguoi-ban-ron",
-          "tier": "Lộ trình"
+          "tier": "Lộ trình",
+          "title": "Lộ trình chăm sóc sức khoẻ cho người bận rộn"
         },
         {
           "slug": "lo-trinh-an-chay-du-chat",
-          "tier": "Lộ trình"
+          "tier": "Lộ trình",
+          "title": "Lộ trình ăn chay đủ chất"
         },
         {
           "slug": "lo-trinh-phu-nu-sau-sinh",
-          "tier": "Lộ trình"
+          "tier": "Lộ trình",
+          "title": "Lộ trình chăm sóc phụ nữ sau sinh"
         }
       ]
     },
@@ -2578,6 +2581,24 @@
       "slug": "cang-thang-anh-huong-lan-da",
       "category": "thoi-quen",
       "status": "published"
+    },
+    {
+      "title": "Lộ trình chăm sóc sức khoẻ cho người bận rộn",
+      "slug": "lo-trinh-nguoi-ban-ron",
+      "category": "lo-trinh",
+      "status": "published"
+    },
+    {
+      "title": "Lộ trình ăn chay đủ chất",
+      "slug": "lo-trinh-an-chay-du-chat",
+      "category": "lo-trinh",
+      "status": "published"
+    },
+    {
+      "title": "Lộ trình chăm sóc phụ nữ sau sinh",
+      "slug": "lo-trinh-phu-nu-sau-sinh",
+      "category": "lo-trinh",
+      "status": "published"
     }
   ],
   "roadmaps": [
@@ -2612,6 +2633,11 @@
       "desc": "Chăm sóc phù hợp với hoàn cảnh sống của bạn.",
       "items": [
         {
+          "title": "Lộ trình chăm sóc sức khoẻ cho người bận rộn",
+          "slug": "lo-trinh-nguoi-ban-ron",
+          "status": "published"
+        },
+        {
           "title": "Lộ trình cho dân văn phòng (coder · sale · hành chính)",
           "slug": "lo-trinh-dan-van-phong",
           "status": "planned"
@@ -2619,12 +2645,12 @@
         {
           "title": "Lộ trình ăn chay đủ chất",
           "slug": "lo-trinh-an-chay-du-chat",
-          "status": "planned"
+          "status": "published"
         },
         {
-          "title": "Lộ trình cho phụ nữ sau sinh",
+          "title": "Lộ trình chăm sóc phụ nữ sau sinh",
           "slug": "lo-trinh-phu-nu-sau-sinh",
-          "status": "planned"
+          "status": "published"
         }
       ]
     },

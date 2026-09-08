@@ -25,11 +25,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-node@v4
         with:
           node-version: 20
       - name: Build blog HTML (bài + cấu trúc + sitemap + llms)
-        run: node scripts/build-article.mjs
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          # Rebuild edited drafts only; keep previously published article layouts intact.
+          if [ "$EVENT_NAME" = "push" ] && git cat-file -e "$BEFORE_SHA" 2>/dev/null; then
+            mapfile -t drafts < <(git diff --name-only --diff-filter=AM "$BEFORE_SHA" HEAD -- 'blog-drafts/*.md')
+            if [ "${#drafts[@]}" -gt 0 ]; then
+              node scripts/build-article.mjs "${drafts[@]}"
+            else
+              node scripts/build-structure.mjs
+            fi
+          else
+            node scripts/build-article.mjs
+          fi
       - name: Build trang tài liệu
         run: node scripts/build-tailieu.mjs
       - name: Commit HTML đã build

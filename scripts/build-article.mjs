@@ -11,6 +11,7 @@
  *        node scripts/build-article.mjs --all        (dựng lại toàn bộ blog-drafts)
  */
 import fs from "fs";
+import { blogHomeShell } from "./blog-home-shell.mjs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { buildStructure, emailCta } from "./build-structure.mjs";
@@ -345,7 +346,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">${esc(fm.category || "Chăm sóc sức khoẻ chủ động")}</span>
+          <span class="post-eyebrow">${esc(fm.category_label || fm.category || "Chăm sóc sức khoẻ chủ động")}</span>
           <h1 class="post-title">${esc(fm.title)}</h1>
           <div class="post-meta">
             <span>${esc(author)}</span><span>·</span>
@@ -436,7 +437,7 @@ ${articleCoVideo}
     </div>
   </footer>
 ${BEACON}
-${taoPopup(chonSanPham(fm)?.slug)}
+${fm.no_product ? "" : taoPopup(chonSanPham(fm)?.slug)}
 <!-- Zalo OA chat widget -->
 <style>
   .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
@@ -463,7 +464,8 @@ function buildOne(srcPath) {
   const outDir = path.join(ROOT, "blog");
   fs.mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, `${fm.slug}.html`);
-  fs.writeFileSync(outPath, render(fm, body), "utf8");
+  const html = render(fm, body);
+  fs.writeFileSync(outPath, fm.website_shell ? blogHomeShell(html) : html, "utf8");
   console.log(`✓ ${path.relative(ROOT, srcPath)} → blog/${fm.slug}.html`);
   return { fm, outPath };
 }
