@@ -1,0 +1,23 @@
+/* Shared design across language routes; content stays in the selected language. */
+html[lang="ja"] body{font-family:Interface,"Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;line-height:1.9}
+html[lang="ja"] h1,html[lang="ja"] h2,html[lang="ja"] h3{font-family:"Hiragino Mincho ProN","Yu Mincho",serif;letter-spacing:0;line-height:1.45}
+html[lang="ja"] .hero h1{font-size:clamp(38px,4.8vw,68px);line-height:1.4;max-width:780px}
+html[lang="en"] .hero h1{font-size:clamp(48px,5.6vw,82px);line-height:1.06;max-width:740px}
+html[lang="ja"] .eyebrow{letter-spacing:.08em}html[lang="ja"] .sitehead nav{gap:18px}html[lang="ja"] .sitehead nav a{font-size:14px}
+.locale-fallback:after{content:' VI';font:10px/1.4 Interface,Arial,sans-serif;letter-spacing:0;vertical-align:super;opacity:.8}
+.localized-legacy{--iki-lime:#e6abb9;--iki-teal:#a53653;--iki-teal-deep:#963048;--iki-gradient:linear-gradient(#a53653,#a53653);--iki-gradient-soft:linear-gradient(#f3e8e8,#f3e8e8);--iki-gradient-mist:linear-gradient(#f8f4ee,#f8f4ee);--iki-ink:#342933;--iki-cream:#f8f4ee;--iki-sand:#eee4df;--gray-700:#74666c;background:#f8f4ee;color:#342933}
+.localized-legacy .sitehead .brand{background:none;padding:0;flex-direction:row;color:#342933;text-align:left}.localized-legacy .sitehead .brand span{font-family:Editorial,Georgia,serif}.localized-legacy footer .brand{background:none;padding:0;flex-direction:row;color:#f8f4ee;text-align:left}
+.localized-legacy .sitehead .headrow{max-width:1440px}.localized-legacy .sitehead nav{flex-direction:row}.localized-legacy .sitehead nav a{font-family:Interface,Arial,sans-serif}
+.localized-legacy main h1{font-size:clamp(38px,4.8vw,66px);line-height:1.2}.localized-legacy main h2{font-size:clamp(28px,3vw,40px);line-height:1.25}.localized-legacy main h3{font-size:26px;line-height:1.3}
+.localized-legacy .blog-hero{background:#f8f4ee;color:#342933}.localized-legacy .announcement-bar{background:#2a2030;color:#f8f4ee}.localized-legacy .announcement-bar a{color:#e6abb9}
+.localized-legacy .side-app,.localized-legacy .lead-inner{background:#2a2030;color:#f8f4ee}.localized-legacy .side-app h2,.localized-legacy .side-app .side-h,.localized-legacy .lead-inner h2{color:#f8f4ee}.localized-legacy .side-app p,.localized-legacy .lead-inner p,.localized-legacy .lead-consent{color:#eadedc}.localized-legacy .lead-row button,.localized-legacy .side-app .btn{background:#a53653;color:white;box-shadow:none}.localized-legacy .side-tag,.localized-legacy .lead-tag{color:#e6abb9}
+.localized-legacy .sitehead .language-switch{border:0;padding:0;margin:0}.localized-legacy .sitehead .language-switch summary:after{display:none}.localized-legacy .sitehead .language-switch summary{font-size:13px}
+html[lang="ja"] .hero .kicker{letter-spacing:.04em}html[lang="ja"] .brand-lock .wm span{letter-spacing:.1em}
+@media(max-width:1180px){.localized-legacy .sitehead nav{display:none}.localized-legacy .sitehead nav.open{display:grid}}
+@media(max-width:560px){html[lang="ja"] .hero h1{font-size:36px}html[lang="ja"] h2{font-size:30px}html[lang="en"] .hero h1{font-size:48px}.localized-legacy .sitehead .headrow{padding-inline:20px}.localized-legacy .sitehead .brand span{font-size:25px}}
+body #ikiCookieDy{background:var(--surface,#fffaf5);border-color:var(--line,#dfd5d0);color:var(--ink,#342933)}body #ikiCookieDy a{color:#a53653}body #ikiCookieDy button{border-color:#a53653}body #ikiCookieDy .ck-ok{background:#a53653;color:white}body #ikiCookieDy .ck-khong{background:#fffaf5;color:#a53653}
+html[lang="ja"] .ecosystemhero h1{font-size:clamp(34px,3.4vw,48px);line-height:1.5;letter-spacing:0}
+html[lang="en"] .ecosystemhero h1{font-size:clamp(42px,5vw,72px);line-height:1.08}
+.grid-prod{grid-template-columns:repeat(4,minmax(0,1fr))}.grid-prod .card,.grid-prod .pinfo{min-width:0}.grid-prod .pname{overflow-wrap:anywhere}.grid-prod .certs{flex-wrap:wrap}.grid-prod .prow{flex-wrap:wrap;gap:8px}
+@media(max-width:1000px){.grid-prod{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media(max-width:640px){.grid-prod{grid-template-columns:repeat(2,minmax(0,1fr))}.grid-prod .certs span{white-space:normal;overflow-wrap:anywhere}.grid-prod .pinfo{padding-inline:0}.grid-prod .addbtn{padding-inline:12px}html[lang="ja"] .ecosystemhero h1{font-size:30px;line-height:1.55}html[lang="en"] .ecosystemhero h1{font-size:42px}}
