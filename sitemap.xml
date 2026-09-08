@@ -1314,6 +1314,15 @@
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/rWy1EBzoKhM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn yến mạch buổi sáng có tốt không?</video:title>
+      <video:description>Ăn yến mạch buổi sáng có tốt không, ăn bao nhiêu là đủ, chọn loại nào? Hướng dẫn cách ăn yến mạch đúng, phối hợp đủ đạm và những lỗi thường gặp khiến bữa sáng…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/rWy1EBzoKhM</video:player_loc>
+      <video:publication_date>2026-09-08</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/an-dau-phu-co-tot-khong.html</loc>
@@ -2319,6 +2328,15 @@
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/tpH5pB5Dumk/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn yến sào thế nào cho đúng: lúc nào, bao nhiêu là đủ</video:title>
+      <video:description>Ăn yến sào lúc nào tốt nhất, mỗi lần bao nhiêu gam, tuần mấy lần, trẻ mấy tuổi dùng được và ai nên thận trọng. Hướng dẫn dùng yến đúng cách với kỳ vọng thực tế.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/tpH5pB5Dumk</video:player_loc>
+      <video:publication_date>2026-09-08</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/mat-ong-nguyen-chat-phan-biet-va-dung-dung-cach.html</loc>
@@ -2852,12 +2870,30 @@
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/ocapzdz4Uqo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn vặt đêm khuya có ảnh hưởng gì không</video:title>
+      <video:description>Vì sao cơn thèm ăn hay ghé thăm lúc nửa đêm và nên chọn món gì, dừng ăn lúc nào để không xáo trộn giấc ngủ, nhịp sinh hoạt hàng ngày.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/ocapzdz4Uqo</video:player_loc>
+      <video:publication_date>2026-09-08</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/an-vat-lanh-manh.html</loc>
     <lastmod>2026-09-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/TfyOzYGFsPY/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn vặt lành mạnh: chọn gì để đỡ đói mà nhẹ bụng</video:title>
+      <video:description>Ăn vặt không xấu — quan trọng là chọn gì và ăn thế nào. Gợi ý món ăn vặt lành mạnh nên có sẵn, nhóm nên hạn chế và mẹo ăn vặt có chừng mực mỗi ngày.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/TfyOzYGFsPY</video:player_loc>
+      <video:publication_date>2026-09-08</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/ba-bau-3-thang-dau-nen-an-gi.html</loc>
@@ -3711,24 +3747,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   
