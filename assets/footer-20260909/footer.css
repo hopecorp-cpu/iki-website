@@ -36,3 +36,8 @@ footer.iki-standard-footer .if-bottom{border-top:1px solid var(--if-line);paddin
 footer.iki-standard-footer a{display:inline;}
 footer.iki-standard-footer .if-hope b{display:block;color:var(--if-text)!important;margin:0;}
 footer.iki-standard-footer .if-bottom a,footer.iki-standard-footer .if-legal p a{display:inline;}
+/* Inherit each site's established palette, including the shop's light/dark switch. */
+footer.iki-standard-footer{--if-bg:var(--cream,#f8f4ee);}
+body.course-page footer.iki-standard-footer{--if-bg:var(--cream,#f3f7f2);--if-text:var(--ink,#203b32);--if-muted:var(--muted,#5e7168);--if-line:var(--line,#d4e0d5);--if-accent:var(--rose,#285e4b);}
+body.iki-v2 footer.iki-standard-footer{--if-bg:var(--v-soft,#edf0e5);--if-text:var(--v-ink,#342933);--if-muted:var(--v-muted,#6e6466);--if-line:var(--v-line,#ded6cd);--if-accent:var(--v-accent,#4c603d);}
+footer.iki-standard-footer:has(#hopeLogoF){--if-bg:var(--surface,#fffaf6);--if-text:var(--ink,#342933);--if-muted:var(--ink-soft,#766974);--if-line:var(--line,#e3d6d4);--if-accent:var(--brand,#a53653);}
