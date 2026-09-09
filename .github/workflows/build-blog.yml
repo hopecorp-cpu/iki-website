@@ -48,6 +48,8 @@ jobs:
           fi
       - name: Build trang tài liệu
         run: node scripts/build-tailieu.mjs
+      - name: Đồng bộ chân trang IKI
+        run: python3 scripts/sync-footer.py
       - name: Commit HTML đã build
         run: |
           git config user.name "hope-blog-bot"
