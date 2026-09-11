@@ -290,7 +290,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/en/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://ikihealing.com/en/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HTlMKFMBTmE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI</video:title>
+      <video:description>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng là gì và chọn công cụ đồng hành thế nào? Tiêu chí chọn app, so sánh cách theo dõi thói quen và gợi ý App IKI với…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HTlMKFMBTmE</video:player_loc>
+      <video:publication_date>2026-09-11</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/en/blog/cac-loai-hat-dinh-duong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/en/blog/cam-nhan-cong-dong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/en/blog/cam-on.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -367,7 +377,17 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/ja/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://ikihealing.com/ja/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HTlMKFMBTmE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI</video:title>
+      <video:description>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng là gì và chọn công cụ đồng hành thế nào? Tiêu chí chọn app, so sánh cách theo dõi thói quen và gợi ý App IKI với…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HTlMKFMBTmE</video:player_loc>
+      <video:publication_date>2026-09-11</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
+  </url>
 <url><loc>https://ikihealing.com/ja/blog/cac-loai-hat-dinh-duong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/ja/blog/cam-nhan-cong-dong.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://ikihealing.com/ja/blog/cam-on.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -658,6 +678,15 @@
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/XMwnLtCzOhM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>AI đồng hành sức khoẻ 24/7: tính năng Lão và tiết khí trong</video:title>
+      <video:description>Gặp &amp;quot;Lão&amp;quot; — nhân vật đồng hành trong App IKI: nhớ thói quen ăn uống của bạn để nhắc bữa bằng một chạm, và mở đầu mỗi ngày bằng gợi ý dưỡng sinh theo tiết khí…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/XMwnLtCzOhM</video:player_loc>
+      <video:publication_date>2026-09-11</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/app-iki-quet-bua-an-cham-am-duong.html</loc>
@@ -1052,6 +1081,15 @@
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/HTlMKFMBTmE/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI</video:title>
+      <video:description>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng là gì và chọn công cụ đồng hành thế nào? Tiêu chí chọn app, so sánh cách theo dõi thói quen và gợi ý App IKI với…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/HTlMKFMBTmE</video:player_loc>
+      <video:publication_date>2026-09-11</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/an-no-80-phan-tram-hara-hachi-bu.html</loc>
@@ -3788,6 +3826,15 @@
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Nx0GSN8JdPo/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Trà thảo mộc cho phụ nữ: chọn theo nhịp ngày, không theo</video:title>
+      <video:description>Trà thảo mộc cho phụ nữ nên chọn thế nào? Cách chọn trà theo nhịp ngày — sáng tỉnh táo, chiều giữ nhịp, tối chậm lại — kèm cách pha, liều lượng hợp lý và lưu…</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Nx0GSN8JdPo</video:player_loc>
+      <video:publication_date>2026-09-11</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/bao-quan-tra-thao-moc-giu-huong.html</loc>
@@ -3806,6 +3853,15 @@
     <lastmod>2026-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/G_SXO84cPWc/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Ăn Tối Muộn Có Sao Không? Giờ Ăn Tối Hợp Lý Cho Người Về Trễ</video:title>
+      <video:description>Ăn tối muộn có sao không? Câu trả lời nằm ở cách ăn chứ không phải giờ ăn. Gợi ý 5 bữa tối muộn nhẹ bụng kiểu Việt cho người về trễ, dễ làm ngay tối nay.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/G_SXO84cPWc</video:player_loc>
+      <video:publication_date>2026-09-11</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/bua-sang-du-dam-cho-phu-nu-ban-ron.html</loc>
@@ -3861,24 +3917,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   
