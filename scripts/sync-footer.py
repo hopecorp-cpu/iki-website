@@ -15,7 +15,7 @@ def footer(lang='vi', sales=False, shop=False, green=False, old=''):
  def a(path,label):return f'<a href="{url(path)}">{label}</a>'
  assets='/footer-assets' if sales else '/assets/footer-20260909'
  brand=f'<a class="if-brand" href="{url("/")}" aria-label="IKI Beauty and Wellness"><img src="{assets}/iki-rose.png" width="32" height="64" alt="Logo IKI"><span>IKI<small>BEAUTY &amp; WELLNESS</small></span></a>'
- social='<div class="if-social"><a href="https://www.facebook.com/ikihealing/" aria-label="Facebook IKI"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 21v-9h3l.5-4H14V6c0-1 .5-2 2-2h2V1h-3c-3 0-5 2-5 5v2H7v4h3v9"/></svg></a><a href="https://www.youtube.com/@ikibeautiful.wellness" aria-label="YouTube IKI"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3z"/></svg></a></div>'
+ social='<div class="if-social"><a href="https://www.facebook.com/profile.php?id=61572357961785" aria-label="Facebook IKI"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 21v-9h3l.5-4H14V6c0-1 .5-2 2-2h2V1h-3c-3 0-5 2-5 5v2H7v4h3v9"/></svg></a><a href="https://www.youtube.com/@ikibeautiful.wellness" aria-label="YouTube IKI"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3z"/></svg></a></div>'
  # Preserve the product notice where the original footer contains one.
  notice=''
  if sales:notice='<p class="if-notice">Sản phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Đọc kỹ hướng dẫn trên nhãn trước khi sử dụng.</p>'
