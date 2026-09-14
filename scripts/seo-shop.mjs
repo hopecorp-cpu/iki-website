@@ -18,7 +18,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = path.resolve(fileURLToPath(new URL("..", import.meta.url)));
 const SITE = "https://ikihealing.com";
-const ANH_MAC_DINH = `${SITE}/iki-logo-256.jpg`;
+const ANH_MAC_DINH = `${SITE}/assets/brand/20260914/iki-avatar-hong-1024.png`;
 
 const BAN = [
   { thuMuc: "shop", lang: "vi", duong: "/shop/",

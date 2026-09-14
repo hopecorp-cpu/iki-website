@@ -82,11 +82,11 @@ function head(title, desc, canonical) {
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escAttr(title)}" />
   <meta property="og:description" content="${escAttr(desc)}" />
-  <meta property="og:image" content="${SITE}/assets/banners/iki-banner-1200x630-og.jpg" />
+  <meta property="og:image" content="${SITE}/assets/brand/20260914/iki-beauty-wellness-share.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
-  <link rel="icon" type="image/jpeg" href="/iki-logo-256.jpg" />
+  <link rel="icon" type="image/png" href="/assets/brand/20260914/iki-avatar-hong-1024.png" />
   <link rel="stylesheet" href="/styles.css" />
   <script src="/script.js" defer></script>
   <style>
@@ -135,7 +135,7 @@ function header() {
   <div class="announcement-bar"><a href="/quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số theo Đông y, miễn phí.</div>
   <header class="site-header" id="site-header">
     <nav class="nav">
-      <a class="brand" href="/index.html" aria-label="IKI Trang chủ"><img class="brand-logo" src="/iki-logo-256.jpg" alt="IKI logo" /><span>IKI <span class="brand-sub">By HOPE CORP</span></span></a>
+      <a class="brand" href="/index.html" aria-label="IKI Trang chủ"><img class="brand-logo" src="/assets/brand/20260914/iki-logo-hong.png" alt="IKI logo" /><span>IKI <span class="brand-sub">By HOPE CORP</span></span></a>
       <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
         <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
         <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
