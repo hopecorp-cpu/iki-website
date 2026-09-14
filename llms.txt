@@ -1,6 +1,22 @@
-# IKI Healing — by HOPE CORP
+# IKI Beauty & Wellness — IKI by HOPE CORP
 
-> IKI là nền tảng công nghệ wellness của Việt Nam, kết hợp AI và dữ liệu sức khoẻ với tri thức Y học Cổ truyền phương Đông để cá nhân hoá lộ trình chăm sóc sức khoẻ chủ động theo thể tạng (Hàn · Nhiệt · Hư · Thực · Đàm thấp). Sản phẩm của Công ty Cổ phần TMDV HOPE (MST 0801404967, Hải Phòng).
+> IKI Beauty & Wellness là hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình thuộc HOPE CORP, kết nối kiến thức, công nghệ hỗ trợ cá nhân hóa, cộng đồng và sản phẩm.
+
+Cập nhật định vị: 14/09/2026.
+
+Định hướng Health Care và HealthTech: dinh dưỡng cân bằng, nghỉ ngơi, vận động, chăm sóc sắc đẹp và sức khỏe gia đình. Chăm da là một điểm chạm trong hệ sinh thái.
+
+Tên hiển thị thống nhất: IKI Beauty & Wellness. IKI Healing / ikihealing là tên nhận diện trước đây và tên miền của cùng hệ sinh thái. Đơn vị sở hữu thương hiệu IKI: CÔNG TY CỔ PHẦN TMDV HOPE (MST 0801404967, Hải Phòng).
+
+## Giới thiệu chính thức
+- [IKI Beauty & Wellness là gì?](https://ikihealing.com/ve-hope.html#dinh-vi-iki): định vị Health Care / HealthTech, đối tượng và các thành phần hệ sinh thái.
+- [Trang chủ](https://ikihealing.com/): kiến thức, Học Viện, cộng đồng, sản phẩm và công nghệ hỗ trợ chăm sóc chủ động.
+- [Ứng dụng IKI Beauty & Wellness](https://ikihealing.com/app.html): Ứng dụng IKI Beauty & Wellness đang được phát triển: ghi nhận làn da, chụp nhãn sản phẩm, xây thói quen và trò chuyện với trợ lý Tiểu Nhã. Tính năng và kênh phát hành được cập nhật tại trang ứng dụng.
+- [Đội ngũ HOPE CORP](https://ikihealing.com/team.html): con người và vai trò xây dựng IKI.
+- [Tuyên bố sở hữu và chính sách bảo mật](https://ikihealing.com/chinh-sach-bao-mat.html#tuyen-bo-so-huu).
+
+## Phạm vi nội dung và thông tin trước đây
+Các bài về Đông y, Y học cổ truyền và thể tạng là một phần kho kiến thức đã xuất bản; không đại diện cho định vị toàn bộ IKI hay mô tả tính năng của ứng dụng hiện tại. Những bài giới thiệu thiết kế app cũ được ghi chú rõ; thông tin ứng dụng mới nhất nằm ở /app.html.
 
 Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa. Sản phẩm là thực phẩm bổ sung, không phải thuốc.
 
@@ -14,9 +30,6 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Nấu nồi áp suất có mất chất dinh dưỡng không?](https://ikihealing.com/blog/nau-noi-ap-suat-co-mat-chat-khong.html): Nấu nồi áp suất có mất chất dinh dưỡng không? Nhiệt độ, thời gian và lượng nước ảnh hưởng thế nào, món nào hợp, món nào không, và bảy lưu ý an toàn khi dùng.
 - [Nước mát giải nhiệt bán sẵn có tốt không?](https://ikihealing.com/blog/nuoc-mat-giai-nhiet-ban-san-co-tot-khong.html): Nước mát giải nhiệt bán sẵn có tốt không? Lượng đường thật trong một chai, ai nên thận trọng, uống thay nước lọc được không và cách tự nấu nước mát ít đường tại nhà.
 - [Leo cầu thang bộ mỗi ngày có tốt không? Bao nhiêu tầng là đủ](https://ikihealing.com/blog/leo-cau-thang-bo-moi-ngay-co-tot-khong.html): Leo cầu thang bộ mỗi ngày có tốt không, nên leo bao nhiêu tầng? Cách bắt đầu trong 4 tuần, kỹ thuật giữ khớp gối an toàn và cách gài cầu thang vào ngày đi làm.
-- [Nhật ký 30 giây mỗi ngày: cách App IKI giúp bạn nhìn ra quy luật cơ thể mình](https://ikihealing.com/blog/app-iki-nhat-ky-30-giay-phan-tich.html): Sáu ô chạm nhanh mỗi tối — ngủ đủ, uống đủ nước, vận động, ăn tối sớm — và App IKI đối chiếu thói quen với độ cân bằng của bạn theo tuần. Xem tính năng Nhật ký và bảng Phân tích hoạt động thế nào qua ảnh màn hình thật.
-- ["Lão" — người bạn đồng hành Đông y trong App IKI: nhắc bữa đúng thói quen, gợi ý theo tiết khí](https://ikihealing.com/blog/app-iki-lao-dong-hanh-tiet-khi.html): Gặp "Lão" — nhân vật đồng hành trong App IKI: nhớ thói quen ăn uống của bạn để nhắc bữa bằng một chạm, và mở đầu mỗi ngày bằng gợi ý dưỡng sinh theo tiết khí Đông y. Cá nhân hoá sức khoẻ 24/7 mà không cần gõ một dòng nào.
-- [Quét bữa ăn 5 giây: App IKI đọc calo và chấm điểm Âm-Dương thế nào?](https://ikihealing.com/blog/app-iki-quet-bua-an-cham-am-duong.html): Giơ máy lên chụp bữa ăn, App IKI nhận diện món, ước tính calo và chấm điểm Âm-Dương theo góc nhìn Đông y — kèm gợi ý cân bằng ngay tại chỗ. Xem tính năng quét bữa ăn hoạt động thế nào qua ảnh màn hình thật.
 - [Báo cáo: Bắt đầu từ đâu thì dễ giữ thói quen sống lành nhất? Dữ liệu giữ chân theo nhóm sản phẩm](https://ikihealing.com/blog/bao-cao-san-pham-giu-thoi-quen-2026.html): Phân tích 1.534 khách hàng mới của IKI Healing: khoảng 1/3 quay lại mua tiếp trong 5 tháng, và nhóm bắt đầu bằng đạm thực vật gắn bó với thói quen nhất — 23,6% mua lại đúng nhóm, gấp đôi thức uống thay cà phê. Số liệu mở cho báo chí trích dẫn.
 - [Báo cáo: Bản đồ chi tiêu sức khoẻ chủ động theo vùng miền — tỉnh chịu chi hơn thành phố](https://ikihealing.com/blog/bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026.html): Phân tích 1.348 đơn hàng COD thực tế của IKI Healing: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền (~1,1 triệu đồng/đơn), và các tỉnh như Lâm Đồng, Thái Bình, Hải Phòng chi đậm hơn cả Hà Nội, TP.HCM. Số liệu mở cho báo chí trích dẫn.
 - [Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026 — dữ liệu từ 1.540 đơn hàng thực tế](https://ikihealing.com/blog/bao-cao-cham-soc-suc-khoe-chu-dong-2026.html): Báo cáo dữ liệu độc quyền từ 1.540 đơn hàng, 1.064 khách hàng và cộng đồng 200.000+ thành viên IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì. Mở cho báo chí trích dẫn.
@@ -61,7 +74,6 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Cách làm sữa hạt tại nhà: tỉ lệ chuẩn, công thức và lưu ý](https://ikihealing.com/blog/sua-hat-tu-lam-tai-nha.html): Cách làm sữa hạt tại nhà đúng tỉ lệ hạt và nước, quy trình năm bước, năm công thức quen thuộc, cách bảo quản, và câu trả lời thật về hàm lượng đạm trong sữa hạt.
 - [Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh](https://ikihealing.com/blog/tra-thao-moc-tue-minh.html): Chọn trà thảo mộc uống ấm mỗi ngày thế nào? Tiêu chí nguyên liệu, hương vị, thời điểm uống, so sánh các nhóm trà thảo mộc và Trà Tuệ Minh - trà túi lọc thảo mộc Việt cho nếp uống hằng ngày.
 - [Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương](https://ikihealing.com/blog/tra-thanh-huong-thu-gian.html): Chọn thức uống thảo mộc thư giãn cho buổi tối: tiêu chí trà thơm dịu, vai trò hương thơm trong nghi thức nghỉ ngơi, và Trà Thanh Hương - trà túi lọc hoa nhài, phục linh, hoa quế, trần bì.
-- [Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI](https://ikihealing.com/blog/app-iki-ca-nhan-hoa.html): Chăm sóc sức khoẻ cá nhân hoá theo thể tạng là gì và chọn công cụ đồng hành thế nào? Tiêu chí chọn app, so sánh cách theo dõi thói quen và gợi ý App IKI với nhật ký, gợi ý theo thể tạng.
 - [Hara hachi bu: bí quyết ăn no 80% của người Nhật](https://ikihealing.com/blog/an-no-80-phan-tram-hara-hachi-bu.html): Hara hachi bu là thói quen ăn dừng lại khi no khoảng 80% của người Nhật. Hiểu ý nghĩa, vì sao nó giúp bữa ăn nhẹ nhàng hơn và cách áp dụng vào mâm cơm Việt.
 - [Chế độ ăn Okinawa: bài học từ vùng đất trường thọ](https://ikihealing.com/blog/che-do-an-okinawa-truong-tho.html): Chế độ ăn Okinawa nổi tiếng với nhiều rau củ, đậu và ăn điều độ. Tìm hiểu đặc điểm cốt lõi và cách vận dụng tinh thần ăn uống này vào mâm cơm Việt hằng ngày.
 - [Đồ lên men kiểu Nhật (miso, natto) trong bữa ăn hằng ngày](https://ikihealing.com/blog/do-len-men-nhat-ban.html): Miso, natto và các món lên men kiểu Nhật là nét ẩm thực lâu đời. Hiểu chúng là gì, cách dùng chừng mực và đưa tinh thần món lên men vào bữa ăn Việt hằng ngày.
@@ -432,9 +444,9 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 
 ## Nền tảng & ứng dụng
 - [Học Viện IKI](https://ikihealing.com/hoc-vien.html): khoá học chăm sóc sức khoẻ chủ động.
-- [Công nghệ IKI](https://ikihealing.com/cong-nghe.html): AI cá nhân hoá theo thể tạng.
-- [Cộng đồng IKI](https://ikihealing.com/cong-dong.html): cộng đồng hơn 100.000 người dùng.
-- [Ứng dụng IKI](https://ikihealing.com/app.html): app iOS và Android, AI Coach Đông y, nhật ký sức khoẻ 30 giây mỗi ngày.
+- [Công nghệ IKI](https://ikihealing.com/cong-nghe.html): công nghệ hỗ trợ cá nhân hóa trải nghiệm chăm sóc hằng ngày.
+- [Cộng đồng IKI](https://ikihealing.com/cong-dong.html): không gian chia sẻ kiến thức và cùng thực hành chăm sóc bản thân, gia đình.
+- [Ứng dụng IKI](https://ikihealing.com/app.html): Ứng dụng IKI Beauty & Wellness đang được phát triển: ghi nhận làn da, chụp nhãn sản phẩm, xây thói quen và trò chuyện với trợ lý Tiểu Nhã. Tính năng và kênh phát hành được cập nhật tại trang ứng dụng.
 
 ## Sản phẩm (thực phẩm bổ sung — không phải thuốc)
 - [Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g](https://ikihealing.com/san-pham/true-vegan-protein.html): True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.

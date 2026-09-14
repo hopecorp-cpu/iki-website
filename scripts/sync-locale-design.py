@@ -85,7 +85,7 @@ for lang,i in [('en',1),('ja',2)]:
    for asset in out.select('script[src]'):
     if asset['src']=='/assets/iki-20260908/showcase.js':asset['src']='/assets/iki-20260908/showcase-'+lang+'.js'
   for m in out.select('meta[name=description],meta[property="og:description"],meta[name="twitter:description"]'):
-   m['content']=d['Kiến thức dễ hiểu. Thói quen vừa sức. Có công nghệ và cộng đồng đồng hành — từ việc chăm chị đến những điều chị muốn dành cho gia đình.'] if rel=='index.html' else d['Phía sau IKI là những con người kết nối công nghệ, kiến thức và cộng đồng — để việc chăm sóc sức khỏe chủ động có chỗ trong đời sống của chị và gia đình.']
+   m['content']=d['IKI Beauty & Wellness là hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình thuộc HOPE CORP. Kiến thức, công nghệ hỗ trợ cá nhân hóa, cộng đồng và sản phẩm — cùng chị chăm mình mỗi ngày.'] if rel=='index.html' else d['Phía sau IKI là những con người kết nối công nghệ, kiến thức và cộng đồng — để việc chăm sóc sức khỏe chủ động có chỗ trong đời sống của chị và gia đình.']
   if rel not in ['index.html','team.html']:
    desc=out.select_one('main p')
    for m in out.select('meta[name=description],meta[property="og:description"],meta[name="twitter:description"]'):

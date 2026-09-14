@@ -11,6 +11,7 @@
  *        node scripts/build-article.mjs --all        (dựng lại toàn bộ blog-drafts)
  */
 import fs from "fs";
+import { BRAND_NAME, brandOrganization, LEGACY_APP_SLUGS, ARCHIVE_NOTE } from "./brand-profile.mjs";
 import { blogHomeShell } from "./blog-home-shell.mjs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -128,7 +129,8 @@ function render(fm, body) {
   // Khối video (nếu bài đã có video trên YouTube) chèn ngay trước h2 đầu tiên — điều 8 của bộ
   // quy tắc GEO/SEO video. Đi qua đây thì mỗi lượt build lại vẫn còn, không bị xoá như hồi chèn
   // vào HTML đã dựng.
-  const articleCoVideo = chenVideo(article, fm.slug);
+  const archiveNotice = LEGACY_APP_SLUGS.has(fm.slug) ? `<aside class="info-box ib-note" data-iki-archive="20260914"><div class="ib-title">Thông tin ứng dụng đã cập nhật</div><p>${ARCHIVE_NOTE} <a href="../app.html">Xem IKI Beauty &amp; Wellness hiện tại →</a></p></aside>` : "";
+  const articleCoVideo = archiveNotice + chenVideo(article, fm.slug);
   const url = `${SITE}/blog/${fm.slug}.html`;
   const faq = Array.isArray(fm.faq) ? fm.faq : [];
   const related = Array.isArray(fm.related) ? fm.related : [];
@@ -140,28 +142,14 @@ function render(fm, body) {
   const heroAbs = fm.hero_local ? `${SITE}/${fm.hero_local}` : (fm.hero_image || `${SITE}/assets/brand/20260914/iki-beauty-wellness-share.png`);
 
   const ld = [
-    {
-      "@context": "https://schema.org", "@type": "Organization",
-      name: "IKI Healing — by HOPE CORP", alternateName: ["IKI", "ikihealing", "IKI Healing"],
-      url: SITE, logo: `${SITE}/assets/brand/20260914/iki-avatar-hong-1024.png`,
-      parentOrganization: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE", taxID: "0801404967" },
-      sameAs: [
-        "https://www.facebook.com/ikihealing/",
-        "https://www.facebook.com/thanhtamguru/",
-        "https://ikihealing.com/shop",
-        "https://tra.ikihealing.com",
-        "https://thanhhuongtra.ikihealing.com",
-        "https://trueveganprotein.com",
-        "https://apps.apple.com/vn/app/iki-eastern-wisdom-ai/id6767866520",
-      ],
-    },
+    brandOrganization(),
     {
       "@context": "https://schema.org", "@type": "Article",
       headline: fm.title, description: fm.description,
       image: [heroAbs],
       datePublished: fm.date, dateModified: fm.updated || fm.date,
       author: { "@type": "Organization", name: author, url: SITE },
-      publisher: { "@type": "Organization", name: "IKI Healing — by HOPE CORP", logo: { "@type": "ImageObject", url: `${SITE}/assets/brand/20260914/iki-avatar-hong-1024.png` } },
+      publisher: { "@type": "Organization", name: BRAND_NAME, logo: { "@type": "ImageObject", url: `${SITE}/assets/brand/20260914/iki-avatar-hong-1024.png` } },
       mainEntityOfPage: { "@type": "WebPage", "@id": url },
       inLanguage: "vi-VN",
     },
@@ -202,9 +190,9 @@ function render(fm, body) {
           <h2>Sản phẩm &amp; công cụ IKI Healing</h2>
           <ul>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
-            <li><a href="../quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số lối sống theo Đông y, miễn phí.</li>
+            <li><a href="../ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
             <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động (3 Ngày Reset · 7 Ngày Detox).</li>
-            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
+            <li><a href="../app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.</li>
             <li><strong>Thực phẩm bổ sung IKI:</strong> <a href="https://tra.ikihealing.com" target="_blank" rel="noopener noreferrer">Trà Tuệ Minh</a> · <a href="https://thanhhuongtra.ikihealing.com" target="_blank" rel="noopener noreferrer">Trà Thanh Hương</a> · <a href="https://trueveganprotein.com" target="_blank" rel="noopener noreferrer">Đạm thực vật True Vegan Protein</a>.</li>
           </ul>
         </section>`;

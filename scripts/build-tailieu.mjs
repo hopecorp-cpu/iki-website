@@ -132,7 +132,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 function header() {
   return `
-  <div class="announcement-bar"><a href="/quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số theo Đông y, miễn phí.</div>
+  <div class="announcement-bar"><a href="/ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</div>
   <header class="site-header" id="site-header">
     <nav class="nav">
       <a class="brand" href="/index.html" aria-label="IKI Trang chủ"><img class="brand-logo" src="/assets/brand/20260914/iki-logo-hong.png" alt="IKI logo" /><span>IKI <span class="brand-sub">By HOPE CORP</span></span></a>

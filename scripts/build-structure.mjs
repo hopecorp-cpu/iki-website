@@ -11,6 +11,7 @@
  * Export buildStructure() + emailCta() cho build-article.mjs.
  */
 import fs from "fs";
+import { BRAND_NAME, BRAND_DESCRIPTION, BRAND_SCOPE, APP_DESCRIPTION, LEGACY_APP_SLUGS } from "./brand-profile.mjs";
 import { blogHomeShell } from "./blog-home-shell.mjs";
 import path from "path";
 import { fileURLToPath } from "url";
@@ -344,9 +345,9 @@ export function buildStructure() {
   fs.writeFileSync(path.join(outDir, "search-index.json"), JSON.stringify(searchIndex), "utf8");
   fs.writeFileSync(path.join(outDir, "index.html"),
     blogHomeShell(head("Blog IKI — Lộ trình chăm sóc sức khoẻ chủ động",
-      "Blog IKI — lộ trình chăm sóc sức khoẻ chủ động theo từng chặng: hiểu cơ thể, nền tảng ăn uống, thói quen, tri thức Đông y và kiến thức thực phẩm. Cá nhân hoá theo thể tạng.",
+      "Blog IKI Beauty & Wellness — kiến thức chăm sóc sức khỏe chủ động cho phụ nữ và gia đình: dinh dưỡng, nghỉ ngơi, vận động, sắc đẹp và thói quen hằng ngày.",
       `${SITE}/blog/`,
-      { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKI", url: `${SITE}/blog/`, description: "Lộ trình chăm sóc sức khoẻ chủ động theo thể tạng.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: "IKI Healing — by HOPE CORP" } })
+      { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKI", url: `${SITE}/blog/`, description: "Kiến thức chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: BRAND_NAME } })
     + header()
     + `<main><section class="blog-hero"><span class="eyebrow">Blog IKI · Lộ trình chăm sóc sức khoẻ</span><h1>Chăm sóc sức khoẻ chủ động, theo từng chặng</h1><p>Đi từ hiểu cơ thể mình đến xây thói quen bền vững — mỗi chặng một bước, phủ dần kiến thức để bạn tự chủ sức khoẻ mỗi ngày.</p></section>${searchBox}${ageSection}${catNav}<div class="blog-layout"><div class="blog-main">${chapters}</div>${sidebar}</div>${emailCta(plan, "index")}${searchScript}</main>`
     + footer()), "utf8");
@@ -398,7 +399,7 @@ export function buildStructure() {
     const tong = plan.articles.filter((a) => isPublished(a.slug)).length;
     const cssMl = `<style>.ml-nhom{margin:34px 0}.ml-nhom h2{font-size:1.35rem;margin:0 0 14px;padding-bottom:8px;border-bottom:2px solid #E3EADF}.ml-dem{font-size:.85rem;font-weight:500;color:#6B7A6B;margin-left:8px}.ml-ds{list-style:none;padding:0;margin:0;columns:2;column-gap:34px}.ml-ds li{break-inside:avoid;margin:0 0 9px;line-height:1.45}.ml-ds a{color:#1F4D1F;text-decoration:none}.ml-ds a:hover{text-decoration:underline}@media(max-width:760px){.ml-ds{columns:1}}</style>`;
     fs.writeFileSync(path.join(outDir, "tat-ca-bai-viet.html"),
-      head("Tất cả bài viết | Blog IKI Healing", `Mục lục đầy đủ ${tong} bài viết về dinh dưỡng, thói quen sống và Đông y ứng dụng trên Blog IKI Healing.`,
+      head("Tất cả bài viết | Blog IKI Healing", `Mục lục đầy đủ ${tong} bài viết về dinh dưỡng, nghỉ ngơi, vận động, chăm sóc sắc đẹp và sức khỏe gia đình trên Blog IKI Beauty & Wellness.`,
         `${SITE}/blog/tat-ca-bai-viet.html`,
         { "@context": "https://schema.org", "@type": "CollectionPage", name: "Tất cả bài viết — Blog IKI Healing", url: `${SITE}/blog/tat-ca-bai-viet.html`, inLanguage: "vi-VN" })
       + cssMl + header()
@@ -498,12 +499,21 @@ export function buildStructure() {
 // ---- GEO: tự sinh llms.txt từ content-plan (giữ đầy đủ khi thêm bài) ----
 function buildLlms(plan) {
   const L = [];
-  L.push("# IKI Healing — by HOPE CORP", "");
-  L.push("> IKI là nền tảng công nghệ wellness của Việt Nam, kết hợp AI và dữ liệu sức khoẻ với tri thức Y học Cổ truyền phương Đông để cá nhân hoá lộ trình chăm sóc sức khoẻ chủ động theo thể tạng (Hàn · Nhiệt · Hư · Thực · Đàm thấp). Sản phẩm của Công ty Cổ phần TMDV HOPE (MST 0801404967, Hải Phòng).", "");
+  L.push(`# ${BRAND_NAME} — IKI by HOPE CORP`, "");
+  L.push(`> ${BRAND_DESCRIPTION}`, "", "Cập nhật định vị: 14/09/2026.", "", BRAND_SCOPE, "");
+  L.push("Tên hiển thị thống nhất: IKI Beauty & Wellness. IKI Healing / ikihealing là tên nhận diện trước đây và tên miền của cùng hệ sinh thái. Đơn vị sở hữu thương hiệu IKI: CÔNG TY CỔ PHẦN TMDV HOPE (MST 0801404967, Hải Phòng).", "");
+  L.push("## Giới thiệu chính thức");
+  L.push(`- [IKI Beauty & Wellness là gì?](${SITE}/ve-hope.html#dinh-vi-iki): định vị Health Care / HealthTech, đối tượng và các thành phần hệ sinh thái.`);
+  L.push(`- [Trang chủ](${SITE}/): kiến thức, Học Viện, cộng đồng, sản phẩm và công nghệ hỗ trợ chăm sóc chủ động.`);
+  L.push(`- [Ứng dụng IKI Beauty & Wellness](${SITE}/app.html): ${APP_DESCRIPTION}`);
+  L.push(`- [Đội ngũ HOPE CORP](${SITE}/team.html): con người và vai trò xây dựng IKI.`);
+  L.push(`- [Tuyên bố sở hữu và chính sách bảo mật](${SITE}/chinh-sach-bao-mat.html#tuyen-bo-so-huu).`, "");
+  L.push("## Phạm vi nội dung và thông tin trước đây");
+  L.push("Các bài về Đông y, Y học cổ truyền và thể tạng là một phần kho kiến thức đã xuất bản; không đại diện cho định vị toàn bộ IKI hay mô tả tính năng của ứng dụng hiện tại. Những bài giới thiệu thiết kế app cũ được ghi chú rõ; thông tin ứng dụng mới nhất nằm ở /app.html.", "");
   L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa. Sản phẩm là thực phẩm bổ sung, không phải thuốc.", "");
   L.push("## Blog — Kiến thức chăm sóc sức khoẻ chủ động");
   L.push(`- [Blog IKI](${SITE}/blog/): lộ trình chăm sóc sức khoẻ chủ động theo từng chặng.`);
-  for (const a of plan.articles) if (isPublished(a.slug)) {
+  for (const a of plan.articles) if (isPublished(a.slug) && !LEGACY_APP_SLUGS.has(a.slug)) {
     const m = draftMeta(a.slug) || {};
     L.push(`- [${a.title}](${SITE}/blog/${a.slug}.html)${m.description ? ": " + m.description : ""}`);
   }
@@ -512,9 +522,9 @@ function buildLlms(plan) {
   for (const c of plan.categories) if (c.slug !== "lo-trinh") L.push(`- [${c.name}](${SITE}/blog/danh-muc-${c.slug}.html): ${c.desc}`);
   L.push("", "## Nền tảng & ứng dụng");
   L.push(`- [Học Viện IKI](${SITE}/hoc-vien.html): khoá học chăm sóc sức khoẻ chủ động.`);
-  L.push(`- [Công nghệ IKI](${SITE}/cong-nghe.html): AI cá nhân hoá theo thể tạng.`);
-  L.push(`- [Cộng đồng IKI](${SITE}/cong-dong.html): cộng đồng hơn 100.000 người dùng.`);
-  L.push(`- [Ứng dụng IKI](${SITE}/app.html): app iOS và Android, AI Coach Đông y, nhật ký sức khoẻ 30 giây mỗi ngày.`);
+  L.push(`- [Công nghệ IKI](${SITE}/cong-nghe.html): công nghệ hỗ trợ cá nhân hóa trải nghiệm chăm sóc hằng ngày.`);
+  L.push(`- [Cộng đồng IKI](${SITE}/cong-dong.html): không gian chia sẻ kiến thức và cùng thực hành chăm sóc bản thân, gia đình.`);
+  L.push(`- [Ứng dụng IKI](${SITE}/app.html): ${APP_DESCRIPTION}`);
   // SẢN PHẨM — đọc từ san-pham-data.json để mỗi dòng có ĐỦ mô tả, quy cách và GIÁ.
   // Bản cũ chỉ liệt kê tên trỏ ra tên miền sale page ngoài, không một chữ mô tả: trợ lý AI đọc
   // llms.txt xong vẫn không trả lời nổi "Trà Tuệ Minh là gì, giá bao nhiêu" nên nó đi lấy nguồn

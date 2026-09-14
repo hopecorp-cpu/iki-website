@@ -20,7 +20,7 @@ def footer(lang='vi', sales=False, shop=False, green=False, old=''):
  notice=''
  if sales:notice='<p class="if-notice">Sản phẩm này không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Đọc kỹ hướng dẫn trên nhãn trước khi sử dụng.</p>'
  elif not 'data-iki-footer' in old:
-  notes=[p for p in re.findall(r'<p\b[^>]*>[\s\S]*?</p>',old,re.I) if any(t in re.sub('<[^>]+>','',p).lower() for t in ['không phải là thuốc','không nhằm chẩn đoán','không thay thế','not a medicine','not intended to','医療','医薬品'])]
+  notes=[p for p in re.findall(r'<p\b[^>]*>[\s\S]*?</p>',old,re.I) if any(t in re.sub('<[^>]+>','',p).lower() for t in ['không phải là thuốc','không phải thuốc','không nhằm chẩn đoán','không thay thế','not a medicine','not intended to','医療','医薬品'])]
   notice=''.join('<p class="if-notice">'+re.sub(r'</?p\b[^>]*>','',p)+'</p>' for p in notes)
  else:
   notice=''.join(re.findall(r'<p class="if-notice">[\s\S]*?</p>',old))

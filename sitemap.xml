@@ -12,7 +12,7 @@
   </url>
 <url>
     <loc>https://ikihealing.com/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="vi" href="https://ikihealing.com/" />
@@ -22,7 +22,7 @@
   </url>
 <url>
     <loc>https://ikihealing.com/en/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="vi" href="https://ikihealing.com/" />
@@ -32,7 +32,7 @@
   </url>
 <url>
     <loc>https://ikihealing.com/ja/</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="vi" href="https://ikihealing.com/" />
@@ -60,7 +60,7 @@
   </url>
 <url>
     <loc>https://ikihealing.com/app.html</loc>
-    <lastmod>2026-05-07</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -78,13 +78,13 @@
   </url>
 <url>
     <loc>https://ikihealing.com/ve-hope.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 <url>
     <loc>https://ikihealing.com/team.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <xhtml:link rel="alternate" hreflang="vi" href="https://ikihealing.com/team.html" />
@@ -94,7 +94,7 @@
   </url>
 <url>
     <loc>https://ikihealing.com/en/team.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="vi" href="https://ikihealing.com/team.html" />
@@ -104,7 +104,7 @@
   </url>
 <url>
     <loc>https://ikihealing.com/ja/team.html</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.75</priority>
     <xhtml:link rel="alternate" hreflang="vi" href="https://ikihealing.com/team.html" />
@@ -144,13 +144,13 @@
   </url>
 <url>
     <loc>https://ikihealing.com/cong-nghe.html</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
 <url>
     <loc>https://ikihealing.com/du-lieu-su-dung.html</loc>
-    <lastmod>2026-05-08</lastmod>
+    <lastmod>2026-09-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -290,7 +290,7 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/en/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+<url><loc>https://ikihealing.com/en/blog/app-iki-ca-nhan-hoa.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/HTlMKFMBTmE/maxresdefault.jpg</video:thumbnail_loc>
       <video:title>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI</video:title>
@@ -377,7 +377,7 @@
       <video:live>no</video:live>
     </video:video>
   </url>
-<url><loc>https://ikihealing.com/ja/blog/app-iki-ca-nhan-hoa.html</loc><changefreq>monthly</changefreq><priority>0.6</priority>
+<url><loc>https://ikihealing.com/ja/blog/app-iki-ca-nhan-hoa.html</loc><lastmod>2026-09-14</lastmod><changefreq>monthly</changefreq><priority>0.6</priority>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/HTlMKFMBTmE/maxresdefault.jpg</video:thumbnail_loc>
       <video:title>Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI</video:title>
@@ -4091,14 +4091,14 @@
 
 <url><loc>https://ikihealing.com/en/hoc-vien.html</loc><lastmod>2026-09-08</lastmod></url>
 <url><loc>https://ikihealing.com/en/cong-dong.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ikihealing.com/en/app.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ikihealing.com/en/ve-hope.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ikihealing.com/en/cong-nghe.html</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://ikihealing.com/en/app.html</loc><lastmod>2026-09-14</lastmod></url>
+<url><loc>https://ikihealing.com/en/ve-hope.html</loc><lastmod>2026-09-14</lastmod></url>
+<url><loc>https://ikihealing.com/en/cong-nghe.html</loc><lastmod>2026-09-14</lastmod></url>
 <url><loc>https://ikihealing.com/ja/hoc-vien.html</loc><lastmod>2026-09-08</lastmod></url>
 <url><loc>https://ikihealing.com/ja/cong-dong.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ikihealing.com/ja/app.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ikihealing.com/ja/ve-hope.html</loc><lastmod>2026-09-08</lastmod></url>
-<url><loc>https://ikihealing.com/ja/cong-nghe.html</loc><lastmod>2026-09-08</lastmod></url>
+<url><loc>https://ikihealing.com/ja/app.html</loc><lastmod>2026-09-14</lastmod></url>
+<url><loc>https://ikihealing.com/ja/ve-hope.html</loc><lastmod>2026-09-14</lastmod></url>
+<url><loc>https://ikihealing.com/ja/cong-nghe.html</loc><lastmod>2026-09-14</lastmod></url>
   
 
   
