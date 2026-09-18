@@ -1407,6 +1407,27 @@ document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('da
     bar.hidden=false; tick(); timer=setInterval(tick,1000);
   }).catch(function(){});
 })();
+// ==== giá + ẩn/hiện + thứ tự SỐNG từ hope-ops-hub /admin/cua-hang (18/09/2026) ====
+// Chữ dịch giữ nguyên trong trang; chỉ lấy GIÁ, món nào đang hiện và THỨ TỰ, khớp theo tên tiếng Việt (p.vn).
+// Món mới thêm ở admin mà chưa có bản dịch thì chưa hiện ở đây. API hỏng thì giữ nguyên danh sách gắn sẵn.
+(function(){
+  try{
+    fetch('https://hope-ops-hub.vercel.app/api/shop/san-pham').then(function(r){return r.ok?r.json():null;}).then(function(d){
+      var ds=d&&Array.isArray(d.sanPham)?d.sanPham:null;
+      if(!ds||ds.length<3) return;
+      var viTri={}, gia={};
+      ds.forEach(function(p,i){var k=String(p.n).trim().toLowerCase(); viTri[k]=i; gia[k]=p.price;});
+      var khoa=function(p){return String(p.vn||p.n).trim().toLowerCase();};
+      var giu=PRODUCTS.filter(function(p){var k=khoa(p); if(!(k in gia)) return false; p.price=gia[k]; return true;});
+      if(giu.length<3) return;
+      giu.sort(function(a,b){return viTri[khoa(a)]-viTri[khoa(b)];});
+      PRODUCTS.length=0; giu.forEach(function(p,i){p._i=i;PRODUCTS.push(p);});
+      document.getElementById('featList').innerHTML=PRODUCTS.slice(0,4).map(card).join('');
+      renderCol();
+      if(currentProduct&&document.getElementById('detail').classList.contains('on')&&PRODUCTS.indexOf(currentProduct)>=0) openDetail(currentProduct);
+    }).catch(function(){});
+  }catch(e){}
+})();
 </script>
 <!-- Zalo OA chat widget -->
 <style>
