@@ -1375,7 +1375,7 @@ document.getElementById('coSubmit').onclick=async function(){
         var q=qrcode(0,'M'); q.addData(r.qrCode); q.make(); var img=q.createDataURL(6,2);
         res.innerHTML='<div class="co-pay-box"><h3>Quét mã QR để chuyển khoản</h3>'
           +'<img class="co-qr" src="'+img+'" alt="QR chuyển khoản">'
-          +'<div class="co-amt">'+money(total)+'</div>'
+          +'<div class="co-amt">'+money(r.amount||total)+'</div>'
           +'<p class="co-qrnote">Mở app ngân hàng, quét mã và chuyển đúng số tiền. Hệ thống tự xác nhận sau khi nhận thanh toán — bạn không cần thao tác gì thêm.</p>'
           +'<div class="co-waiting"><span class="spin"></span> Đang chờ thanh toán…</div>'
           +(r.checkoutUrl?'<a class="co-alt-link" href="'+r.checkoutUrl+'" target="_blank" rel="noopener">Hoặc mở trang thanh toán PayOS</a>':'')

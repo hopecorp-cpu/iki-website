@@ -1351,7 +1351,7 @@ document.getElementById('coSubmit').onclick=async function(){
         var q=qrcode(0,'M'); q.addData(r.qrCode); q.make(); var img=q.createDataURL(6,2);
         res.innerHTML='<div class="co-pay-box"><h3>Scan the QR code to make a bank transfer</h3>'
           +'<img class="co-qr" src="'+img+'" alt="Bank Transfer QR">'
-          +'<div class="co-amt">'+money(total)+'</div>'
+          +'<div class="co-amt">'+money(r.amount||total)+'</div>'
           +'<p class="co-qrnote">Open your banking app, scan the code, and transfer the exact amount. The system will confirm automatically once payment is received — no further action needed.</p>'
           +'<div class="co-waiting"><span class="spin"></span> Waiting for payment…</div>'
           +(r.checkoutUrl?'<a class="co-alt-link" href="'+r.checkoutUrl+'" target="_blank" rel="noopener">Or open the PayOS payment page</a>':'')

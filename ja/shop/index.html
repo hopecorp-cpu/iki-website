@@ -1351,7 +1351,7 @@ document.getElementById('coSubmit').onclick=async function(){
         var q=qrcode(0,'M'); q.addData(r.qrCode); q.make(); var img=q.createDataURL(6,2);
         res.innerHTML='<div class="co-pay-box"><h3>QRコードを読み取ってお振込みください</h3>'
           +'<img class="co-qr" src="'+img+'" alt="振込QRコード">'
-          +'<div class="co-amt">'+money(total)+'</div>'
+          +'<div class="co-amt">'+money(r.amount||total)+'</div>'
           +'<p class="co-qrnote">銀行アプリを開いてコードを読み取り、正確な金額をお振込みください。お支払い確認後、システムが自動的に確認します — その他の操作は不要です。</p>'
           +'<div class="co-waiting"><span class="spin"></span> お支払いを待っています…</div>'
           +(r.checkoutUrl?'<a class="co-alt-link" href="'+r.checkoutUrl+'" target="_blank" rel="noopener">またはPayOS決済ページを開く</a>':'')
