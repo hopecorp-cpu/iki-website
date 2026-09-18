@@ -1153,7 +1153,7 @@ function card(p){
   </article>`;
 }
 
-const flagship = PRODUCTS.find(p=>/true vegan/i.test(p.n)) || PRODUCTS[0];
+let flagship = PRODUCTS.find(p=>/true vegan/i.test(p.n)) || PRODUCTS[0];
 document.getElementById('heroPhoto').src=flagship.img;
 document.getElementById('featList').innerHTML = PRODUCTS.slice(0,4).map(card).join('');
 
@@ -1207,7 +1207,10 @@ function openDetail(p){
   renderConsult();
   // biến thể + quà chỉ cho Đạm
   document.getElementById('pdpVariants').style.display = p.cat==='dam'?'flex':'none';
-  document.getElementById('pdpGift').style.display = p.cat==='dam'?'flex':'none';
+  // quà: sửa ở /admin/cua-hang (trường qua); danh sách gắn sẵn không có trường này thì giữ ô quà cũ của Đạm
+  const coQua = p.qua!==undefined ? !!p.qua : p.cat==='dam';
+  document.getElementById('pdpGift').style.display = coQua?'flex':'none';
+  if(p.qua) document.querySelector('#pdpGift p').textContent=p.qua;
   // nội dung phong phú
   const leaf='<svg class="ico" viewBox="0 0 24 24"><path d="M11 20C6 20 3 16 3 11c5 0 8 3 8 9zM12 11v9"/></svg>';
   const hl=(p.highlights||[]).map(h=>`<div class="row">${leaf}<div><b>${h.t}</b><p>${h.d}</p></div></div>`).join('');
@@ -1427,6 +1430,24 @@ document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('da
     if(d.ctaUrl) document.getElementById('flashCta').href=d.ctaUrl;
     bar.hidden=false; tick(); timer=setInterval(tick,1000);
   }).catch(function(){});
+})();
+// ==== danh sách sản phẩm SỐNG: sửa ở hope-ops-hub /admin/cua-hang (thay Haravan, CEO 17/09/2026) ====
+// Hỏng mạng / API lỗi / trả ít hơn 3 món thì giữ nguyên danh sách gắn sẵn ở trên — khách vẫn mua được.
+(function(){
+  try{
+    fetch('https://hope-ops-hub.vercel.app/api/shop/san-pham').then(function(r){return r.ok?r.json():null;}).then(function(d){
+      var ds=d&&Array.isArray(d.sanPham)?d.sanPham:null;
+      if(!ds||ds.length<3) return;
+      var dangXem=currentProduct&&document.getElementById('detail').classList.contains('on')?currentProduct._slug:null;
+      PRODUCTS.length=0;
+      ds.forEach(function(p,i){p._i=i;p._slug=slugHoa(p.n);PRODUCTS.push(p);});
+      flagship=PRODUCTS.find(function(p){return /true vegan/i.test(p.n);})||PRODUCTS[0];
+      document.getElementById('heroPhoto').src=flagship.img;
+      document.getElementById('featList').innerHTML=PRODUCTS.slice(0,4).map(card).join('');
+      renderCol();
+      if(dangXem){ var m=PRODUCTS.find(function(p){return p._slug===dangXem;}); if(m) openDetail(m); }
+    }).catch(function(){});
+  }catch(e){}
 })();
 </script>
 <!-- Zalo OA chat widget -->
