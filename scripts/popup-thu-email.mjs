@@ -200,10 +200,20 @@ export function chenPopup(html, sp) {
  * Dùng chung sản phẩm với khối CTA cuối bài — một trang chỉ kể một câu chuyện; pop-up mời món A
  * mà cuối bài mời món B là tự bẻ mạch người đọc.
  */
-export function taoPopup(spSlug, goc = "../") {
+export function taoPopup(spSlug, goc = "../", khongSanPham = false) {
   const sp = SP_POPUP[spSlug] || SP_POPUP["true-vegan-protein"];
   const slug = SP_POPUP[spSlug] ? spSlug : "true-vegan-protein";
-  return EXIT_POPUP_MAU
+  let mau = EXIT_POPUP_MAU;
+  // Bài cẩm nang bệnh và bài lộ trình (no_product) KHÔNG được gắn link sản phẩm — nhưng vẫn
+  // phải giữ pop-up tặng ebook, vì đó là chỗ thu lead chứ không phải chỗ bán hàng. Gỡ đúng hai
+  // khối mời sản phẩm, phần form + nút tải giữ nguyên. JS đã phòng null (if(spTruoc)/if(spSau))
+  // nên gỡ xong không hỏng gì.
+  if (khongSanPham) {
+    mau = mau
+      .replace(/\s*<a class="ie-sp-sau"[\s\S]*?<\/a>/, "")
+      .replace(/\s*<div class="ie-sp">[\s\S]*?<\/div>/, "");
+  }
+  return mau
     .replace(/\{\{SP_LINK\}\}/g, `${goc}shop/?sp=${slug}`)
     .replace(/\{\{SP_TEN\}\}/g, sp.ten)
     .replace(/\{\{SP_LOAI\}\}/g, sp.loai);

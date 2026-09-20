@@ -425,7 +425,7 @@ ${articleCoVideo}
     </div>
   </footer>
 ${BEACON}
-${fm.no_product ? "" : taoPopup(chonSanPham(fm)?.slug)}
+${taoPopup(chonSanPham(fm)?.slug, "../", !!fm.no_product)}
 <!-- Zalo OA chat widget -->
 <style>
   .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
