@@ -3388,12 +3388,30 @@
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/jAL8YLNGXhU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Chăm sóc da mùa hanh khô: giữ ẩm từ trong ra ngoài</video:title>
+      <video:description>Vì sao da khô, bong tróc khi trời hanh, và làm sao chăm sóc da mùa hanh khô nhẹ nhàng từ thói quen uống nước, ăn uống đến dưỡng ẩm hằng ngày? Gợi ý thực hành dễ theo.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/jAL8YLNGXhU</video:player_loc>
+      <video:publication_date>2026-09-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/cham-soc-mat-nguoi-lon-tuoi.html</loc>
     <lastmod>2026-09-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/zlPr4lSh12E/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Chăm sóc mắt cho người lớn tuổi: nhìn rõ, sống vui</video:title>
+      <video:description>Mắt thay đổi thế nào theo tuổi và chăm sóc ra sao? Ánh sáng khi đọc, dinh dưỡng cho mắt, kính đúng độ và lịch khám mắt định kỳ cho người lớn tuổi.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/zlPr4lSh12E</video:player_loc>
+      <video:publication_date>2026-09-20</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>no</video:live>
+    </video:video>
   </url>
   <url>
     <loc>https://ikihealing.com/blog/cham-soc-suc-khoe-ngay-tet.html</loc>
@@ -4325,24 +4343,9 @@
   <!-- BLOG:END -->
 
   <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/cam-nang-suc-khoe-chu-dong.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ikihealing.com/tai-lieu/lang-nghe-co-the.html</loc>
-    <lastmod>2026-07-26</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
+  
+  
+  
   <!-- TAILIEU:END -->
 
   
