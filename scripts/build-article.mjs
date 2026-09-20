@@ -455,7 +455,34 @@ function buildOne(srcPath) {
   const html = render(fm, body);
   fs.writeFileSync(outPath, fm.website_shell ? blogHomeShell(html) : html, "utf8");
   console.log(`✓ ${path.relative(ROOT, srcPath)} → blog/${fm.slug}.html`);
+  canhBaoThieuLink(fm, html);
   return { fm, outPath };
+}
+
+// Soát 21/09/2026: nhiều bài VIẾT ĐỦ tên sản phẩm kèm giá niêm yết mà KHÔNG bọc link, nên người
+// đọc đọc xong không bấm đi đâu được — mất đúng chỗ chốt. Lỗi này im lặng hàng tháng trời, phải
+// có người ngồi soi tay mới ra. Cảnh báo ngay lúc dựng để lần sau tác giả sửa luôn.
+// CHỈ CẢNH BÁO, không tự chèn link: chèn máy móc dễ rơi vào câu cảnh báo/thận trọng, mà luật là
+// chỉ gắn link ở ngữ cảnh tích cực. Bài no_product bỏ qua vì đúng ra không được gắn link.
+const TEN_SP_DAT_LINK = [
+  ["True Vegan Protein", "https://trueveganprotein.com"],
+  ["Trà Tuệ Minh", "https://tra.ikihealing.com"],
+  ["Trà Thanh Hương", "https://thanhhuongtra.ikihealing.com"],
+];
+function canhBaoThieuLink(fm, html) {
+  if (fm.no_product) return;
+  const m = html.match(/<div class="post-body[\s\S]*?(?=<section class="lead-cta"|<section class="post-faq"|<section class="brand-box"|<\/article>)/);
+  if (!m) return;
+  const than = m[0];
+  for (const [ten, dich] of TEN_SP_DAT_LINK) {
+    const i = than.indexOf(ten);
+    if (i < 0) continue;
+    // Đã nằm trong <a> nào đó (link bán hay link nội bộ đều tính là đã dẫn đi được) thì thôi.
+    const truoc = than.slice(Math.max(0, i - 220), i);
+    const trongLink = truoc.lastIndexOf("<a ") > truoc.lastIndexOf("</a>");
+    if (trongLink) continue;
+    console.log(`  ! ${fm.slug}: nhắc "${ten}" trong thân bài mà KHÔNG có link — cân nhắc bọc <a href="${dich}">${ten}</a> nếu câu đó ở ngữ cảnh tích cực.`);
+  }
 }
 
 
