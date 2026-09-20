@@ -29,10 +29,10 @@ Viết một câu cụ thể: **Sau khi đóng máy tính, tôi sẽ chuẩn b�
 
 ## Khung chăm mình trong một ngày
 
-- **Bữa đầu tiên:** chuẩn bị sẵn một lựa chọn dễ lấy. Ví dụ bánh mì với trứng hoặc đậu phụ, thêm rau; hay yến mạch, sữa phù hợp và trái cây. Điều chỉnh lượng theo nhu cầu, không cố ăn theo một khẩu phần chung.
+- **Bữa đầu tiên:** chuẩn bị sẵn một lựa chọn dễ lấy. Ví dụ bánh mì với trứng hoặc đậu phụ, thêm rau; hay yến mạch, sữa phù hợp và trái cây. Những sáng chỉ có vài phút, một ly [bột đạm thực vật](https://trueveganprotein.com) pha với nước hoặc sữa hạt là cách gọn để bữa đầu ngày vẫn có nguồn đạm. Điều chỉnh lượng theo nhu cầu, không cố ăn theo một khẩu phần chung.
 - **Giữa các việc:** dùng lúc lấy nước hoặc kết thúc cuộc gọi làm mốc đổi tư thế. Chọn một quãng đi bộ ngắn khi thuận tiện và an toàn.
 - **Bữa chính:** khi đặt món, nhìn xem có nguồn đạm và rau bên cạnh cơm, bún hoặc khoai chưa. Nếu thiếu, thêm món còn thiếu thay vì đặt một “thực đơn hoàn hảo” khó duy trì.
-- **Trước giờ nghỉ:** ghi lại việc cần làm ngày mai, tắt các thông báo không cần thiết và để đồ dùng ngày mai ở một chỗ.
+- **Trước giờ nghỉ:** ghi lại việc cần làm ngày mai, tắt các thông báo không cần thiết và để đồ dùng ngày mai ở một chỗ. Nhiều người lấy việc pha một ấm [trà thảo mộc buổi tối](https://thanhhuongtra.ikihealing.com) làm mốc báo hiệu đã hết giờ làm — một dấu chấm câu cho ngày, dễ giữ hơn là tự nhắc mình nghỉ.
 - **Chăm da:** giữ quy trình đang phù hợp với mình; xếp đồ theo thứ tự sử dụng. Không cần thêm sản phẩm mới chỉ để hoàn thành thử thách.
 
 Đây là các lựa chọn để ghép vào lịch, không phải năm đầu việc bắt buộc mỗi ngày. Với vận động, WHO nhấn mạnh làm một ít vẫn tốt hơn không làm và nên giảm thời gian ngồi; các khoảng ngắn là bước khởi đầu, không tự động thay thế toàn bộ nhu cầu vận động. [Đọc hướng dẫn của WHO](https://www.who.int/news-room/fact-sheets/detail/physical-activity).

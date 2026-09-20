@@ -42,6 +42,8 @@ NHS khuyến nghị thay đổi nguồn đạm và cân bằng thực phẩm tro
 
 **Sắt:** đậu và rau xanh là những lựa chọn thực vật; ghép bữa với thực phẩm giàu vitamin C giúp hấp thu sắt. Nếu nghi thiếu sắt, cần đánh giá trước khi dùng viên bổ sung. [NHS: nguồn sắt trong chế độ ăn chay](https://www.nhs.uk/live-well/eat-well/how-to-eat-a-balanced-diet/the-vegetarian-diet/).
 
+**Đạm:** khi bỏ thịt cá, phần đạm cần được ghép lại từ nhiều nguồn thực vật trong ngày — đậu các loại, đậu phụ, hạt, ngũ cốc nguyên cám. Cách kiểm nhanh là nhìn từng bữa chính xem đã có một nguồn đạm rõ ràng chưa, thay vì chỉ có cơm và rau. Với những ngày bận không kịp nấu, một phần [bột đạm thực vật](https://trueveganprotein.com) pha nhanh là cách nhiều người dùng để bữa đó không bị hụt đạm; đây là phần bổ sung cho mâm cơm chứ không thay thế bữa ăn. Bài [cần bao nhiêu đạm mỗi ngày](can-bao-nhieu-dam-moi-ngay.html) có cách tính theo cân nặng.
+
 ## Lịch chuẩn bị bảy ngày
 
 1. **Ngày 1 — Xem bữa đang ăn:** ghi ba món quen. Bữa nào chỉ có cơm và rau thì chọn thêm nguồn đạm.
