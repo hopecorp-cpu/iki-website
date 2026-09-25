@@ -9,9 +9,9 @@ import re, html
 ROOT = Path(__file__).resolve().parents[1]
 NGAY = "18/09/2026"
 CTY = "CÔNG TY CỔ PHẦN TMDV HOPE"
-DC = "Số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng, Việt Nam"
+DC = "Số 40A Quang Trung, phường Hải Dương, thành phố Hải Phòng, Việt Nam"
 MST = "0801404967"
-GPKD = "Giấy chứng nhận đăng ký doanh nghiệp số 0801404967, đăng ký lần đầu ngày 23/08/2023, đăng ký thay đổi lần thứ 5 ngày 22/08/2026 tại Phòng Đăng ký kinh doanh – Sở Tài chính thành phố Hải Phòng"
+GPKD = "Giấy chứng nhận đăng ký doanh nghiệp số 0801404967, đăng ký lần đầu ngày 23/08/2023, đăng ký thay đổi lần thứ 6 ngày 24/09/2026 tại Phòng Đăng ký kinh doanh – Sở Tài chính thành phố Hải Phòng"
 HOTLINE = '<a href="tel:0987931551">098 793 1551</a>'
 EMAIL = '<a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a>'
 ZALO = '<a href="https://zalo.me/599407064751177637">Zalo OA IKI</a>'

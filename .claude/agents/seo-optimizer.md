@@ -111,7 +111,7 @@ Khoa học, cá nhân hoá, được hàng nghìn người tin dùng."
   "taxID": "0801404967",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "63/253 Ngô Quyền, P. Lê Thanh Nghị",
+    "streetAddress": "Số 40A Quang Trung, P. Hải Dương",
     "addressLocality": "Hải Phòng",
     "addressCountry": "VN"
   },

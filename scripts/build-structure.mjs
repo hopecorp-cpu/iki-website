@@ -543,7 +543,7 @@ function buildLlms(plan) {
   L.push("", "## Liên hệ");
   L.push("- Email: contact@ikihealing.com");
   L.push("- Điện thoại: 0987.931.551");
-  L.push("- Địa chỉ: 63/253 Ngô Quyền, P. Lê Thanh Nghị, TP Hải Phòng", "");
+  L.push("- Địa chỉ: Số 40A Quang Trung, P. Hải Dương, TP Hải Phòng", "");
   fs.writeFileSync(path.join(ROOT, "llms.txt"), L.join("\n"), "utf8");
 }
 
