@@ -48,6 +48,17 @@
   }
   window.ikiNguon = khoi;
 
+  // 1b) MÃ CỘNG TÁC VIÊN từ link ?ref=MA (affiliate IKI, 29/09/2026). Nhớ 30 ngày, CTV gửi link
+  // SAU CÙNG thắng (khác nguồn quảng cáo giữ lần đầu): người vừa chia link là người vừa thuyết phục.
+  var KHOA_CTV = "iki_ctv", HAN_CTV = 30 * 864e5, maCtv = "";
+  try {
+    var r = q("ref").toUpperCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/Đ/g, "D").replace(/[^A-Z0-9]/g, "").slice(0, 20);
+    if (r.length >= 3) localStorage.setItem(KHOA_CTV, JSON.stringify({ ma: r, t: Date.now() }));
+    var luu = JSON.parse(localStorage.getItem(KHOA_CTV) || "null");
+    if (luu && luu.ma && Date.now() - luu.t < HAN_CTV) maCtv = luu.ma;
+  } catch (e) { }
+  window.ikiMaCtv = function () { return maCtv; };
+
   // 2) Bọc fetch — form nào gửi JSON sang ops-hub cũng tự có nguồn, khỏi sửa từng form.
   try {
     var goc = window.fetch;
@@ -56,7 +67,12 @@
         var url = typeof u === "string" ? u : (u && u.url) || "";
         if (o && o.body && typeof o.body === "string" && url.indexOf(API) >= 0) {
           var b = JSON.parse(o.body);
-          if (b && typeof b === "object" && !b.nguon) { b.nguon = khoi(); o = Object.assign({}, o, { body: JSON.stringify(b) }); }
+          if (b && typeof b === "object" && (!b.nguon || (maCtv && !b.ma_ctv && url.indexOf("quiz-pay/create") >= 0))) {
+            if (!b.nguon) b.nguon = khoi();
+            // Chỉ đơn hàng mới mang mã CTV; form lead thì không (hoa hồng chỉ tính trên đơn).
+            if (maCtv && !b.ma_ctv && url.indexOf("quiz-pay/create") >= 0) b.ma_ctv = maCtv;
+            o = Object.assign({}, o, { body: JSON.stringify(b) });
+          }
         }
       } catch (e) { }
       return goc.apply(this, [u, o]);
