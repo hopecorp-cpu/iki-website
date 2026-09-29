@@ -232,6 +232,7 @@ ${ldExtra ? `  <script type="application/ld+json">\n${JSON.stringify(ldExtra, nu
     .rm-list .st.pub{background:#eafaf5;color:var(--iki-teal-deep,#2E8975)} .rm-list .st.soon{background:#f2f4f7;color:#98a2b3}
     .rm-list .dot{width:10px;height:10px;border-radius:50%;flex:0 0 auto} .rm-list .dot.pub{background:var(--iki-teal,#4BC0AB)} .rm-list .dot.soon{background:#d0d5dd}
   </style>
+<script src="/assets/js/nguon.js" defer></script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->

@@ -122,6 +122,7 @@ function head(title, desc, canonical) {
     .tl-ready p{color:rgba(255,255,255,.85);font-size:.92rem;margin:0}
     .tl-note{max-width:640px;margin:0 auto 40px;padding:0 20px;color:#98a2b3;font-size:.82rem;text-align:center;line-height:1.5}
   </style>
+<script src="/assets/js/nguon.js" defer></script>
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
