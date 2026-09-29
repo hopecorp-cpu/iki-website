@@ -70,10 +70,11 @@
         var url = typeof u === "string" ? u : (u && u.url) || "";
         if (o && o.body && typeof o.body === "string" && (url.indexOf(API) >= 0 || CUA_NOI_BO.test(url))) {
           var b = JSON.parse(o.body);
-          if (b && typeof b === "object" && (!b.nguon || (maCtv && !b.ma_ctv && url.indexOf("quiz-pay/create") >= 0))) {
+          if (b && typeof b === "object" && (!b.nguon || (maCtv && !b.ma_ctv))) {
             if (!b.nguon) b.nguon = khoi();
-            // Chỉ đơn hàng mới mang mã CTV; form lead thì không (hoa hồng chỉ tính trên đơn).
-            if (maCtv && !b.ma_ctv && url.indexOf("quiz-pay/create") >= 0) b.ma_ctv = maCtv;
+            // Mã CTV đi theo CẢ đơn lẫn lead (vá 29/09): khách chỉ "để lại số Zalo" rồi sale chốt sau
+            // thì trước đây mất mã. Ops Hub ghi mã vào ghi chú lead, máy đẩy đơn CTV tự gán cho đơn sau.
+            if (maCtv && !b.ma_ctv) b.ma_ctv = maCtv;
             o = Object.assign({}, o, { body: JSON.stringify(b) });
           }
         }
