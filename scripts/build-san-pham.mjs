@@ -44,7 +44,7 @@ const TU_CAM = [
   "thực phẩm chức năng", "tpcn", "phòng ngừa ung thư", "thuốc bổ",
 ];
 function soiTuCam(text, ten) {
-  const t = text.toLowerCase();
+  const t = String(text || "").normalize("NFKC").normalize("NFC").toLowerCase();
   const dinh = TU_CAM.filter((w) => t.includes(w));
   // "hiệu quả sau 7 ngày", "sau 2 tuần thấy..." — hứa mốc kết quả.
   if (/(hiệu quả|kết quả|cải thiện|thấy rõ)[^.]{0,25}(sau|trong)\s*\d+\s*(ngày|tuần|tháng)/i.test(text)) {
@@ -67,6 +67,7 @@ function head(sp, url, ld) {
   })(window,document,'script','dataLayer','GTM-N23BLRJD');</script>
   <!-- End Google Tag Manager -->
   <meta charset="UTF-8" />
+  ${sp.an === true ? '<meta name="robots" content="noindex,follow" />' : ""}
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-9X3LTTL2N3"></script>
   <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-9X3LTTL2N3');gtag('config','AW-18332022859');</script>
   <meta name="referrer" content="strict-origin-when-cross-origin" />
@@ -125,6 +126,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null
     .sp-faq summary{font-weight:700;cursor:pointer}
     .sp-faq p{margin:.6rem 0 0;color:#475467}
     .sp-doc-them{background:#F7FAF6;border-radius:16px;padding:20px 24px;margin:30px 0}
+    .sp-chua-ban{background:#FFF4F7;border-left:5px solid #E48AA8;border-radius:12px;padding:14px 18px;margin:16px 0;font-size:.97rem;color:#7a3450}
     .sp-doc-them ul{margin:8px 0 0;padding-left:20px}
   </style>
 </head>
@@ -150,14 +152,14 @@ function trang(sp) {
       url,
       priceCurrency: "VND",
       price: String(sp.gia),
-      availability: "https://schema.org/InStock",
+      availability: sp.an === true ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
       seller: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE" },
     },
   };
   const ldFaq = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    mainEntity: sp.faq.map((f) => ({
+    mainEntity: (sp.faq || []).map((f) => ({
       "@type": "Question",
       name: f.q,
       acceptedAnswer: { "@type": "Answer", text: f.a },
@@ -173,16 +175,20 @@ function trang(sp) {
     ],
   };
 
-  const bang = sp.thongTinNhanh.map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join("");
-  const dung = sp.cachDung.map((b) => `<li>${esc(b)}</li>`).join("");
-  const faq = sp.faq
+  const an = sp.an === true;
+  const khoi = (dk, h) => (dk ? h : "");
+  const bang = (sp.thongTinNhanh || []).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join("");
+  const dung = (sp.cachDung || []).map((b) => `<li>${esc(b)}</li>`).join("");
+  const faq = (sp.faq || [])
     .map((f) => `<details><summary>${esc(f.q)}</summary><p>${esc(f.a)}</p></details>`)
     .join("\n        ");
-  const doc = sp.baiLienQuan
+  const doc = (sp.baiLienQuan || [])
     .map(([s, t]) => `<li><a href="../blog/${s}.html">${esc(t)}</a></li>`)
     .join("\n          ");
 
-  return `${head(sp, url, [ldProduct, ldFaq, ldCrumb])}
+  const lds = [ldProduct, ldCrumb];
+  if ((sp.faq || []).length) lds.splice(1, 0, ldFaq);
+  return `${head(sp, url, lds)}
 ${header()}
   <main>
     <div class="sp-wrap">
@@ -192,45 +198,46 @@ ${header()}
         <div>
           <span class="sp-eyebrow">${esc(sp.loai)}</span>
           <h1>${esc(sp.h1)}</h1>
-          <div class="sp-gia">${tien(sp.gia)}<small>Giá niêm yết · ${esc(sp.quyCach)}</small></div>
+          <div class="sp-gia">${tien(sp.gia)}<small>${an ? "Giá tham khảo — sản phẩm đã ngừng bán" : "Giá niêm yết"}${sp.quyCach ? ` · ${esc(sp.quyCach)}` : ""}</small></div>
           <p class="sp-mota">${esc(sp.moTa)}</p>
-          <div class="sp-cta">
+          ${an ? `<div class="sp-chua-ban">Sản phẩm này hiện <strong>chưa mở bán</strong> trên IKI. Trang được giữ lại để tra thông tin. Cần hỏi thêm, chị nhắn Zalo <a href="https://zalo.me/0987931551">098 793 1551</a>.</div>
+          <div class="sp-cta"><a class="sp-btn phu" href="../shop/">Xem sản phẩm đang bán</a></div>` : `<div class="sp-cta">
             <a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">Xem trong cửa hàng</a>
             <a class="sp-btn phu" href="../quiz/">Làm bài đọc thể trạng miễn phí</a>
           </div>
-          <p style="font-size:.86rem;color:#667085;margin:6px 0 0">Giao hàng toàn quốc, nhận hàng trả tiền hoặc chuyển khoản trước.</p>
+          <p style="font-size:.86rem;color:#667085;margin:6px 0 0">Giao hàng toàn quốc, nhận hàng trả tiền hoặc chuyển khoản trước.</p>`}
         </div>
       </div>
     </div>
 
     <article class="sp-body">
-      <h2>Thông tin nhanh</h2>
-      <table><tbody>${bang}</tbody></table>
+      ${khoi(bang, `<h2>Thông tin nhanh</h2>
+      <table><tbody>${bang}</tbody></table>`)}
 
-      <h2>Thành phần và điểm đáng chú ý</h2>
-      <p>${esc(sp.thanhPhanText)}</p>
+      ${khoi(sp.thanhPhanText, `<h2>Thành phần và điểm đáng chú ý</h2>
+      <p>${esc(sp.thanhPhanText || "")}</p>`)}
 
-      <h2>Cách dùng</h2>
-      <ol>${dung}</ol>
+      ${khoi(dung, `<h2>Cách dùng</h2>
+      <ol>${dung}</ol>`)}
 
-      <h2>Bảo quản</h2>
-      <p>${esc(sp.baoQuan)}</p>
+      ${khoi(sp.baoQuan, `<h2>Bảo quản</h2>
+      <p>${esc(sp.baoQuan || "")}</p>`)}
 
-      <div class="sp-luu-y"><strong>Lưu ý:</strong> ${esc(sp.luuY)}</div>
+      ${khoi(sp.luuY, `<div class="sp-luu-y"><strong>Lưu ý:</strong> ${esc(sp.luuY || "")}</div>`)}
 
-      <h2 id="faq">Câu hỏi thường gặp</h2>
+      ${khoi(faq, `<h2 id="faq">Câu hỏi thường gặp</h2>
       <div class="sp-faq">
         ${faq}
-      </div>
+      </div>`)}
 
-      <div class="sp-doc-them">
+      ${khoi(doc, `<div class="sp-doc-them">
         <strong>Đọc thêm trên blog IKI</strong>
         <ul>
           ${doc}
         </ul>
-      </div>
+      </div>`)}
 
-      <div class="sp-med">Đây là <strong>thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung trên trang là thông tin sản phẩm và gợi ý chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay điều trị bệnh. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng.</div>
+      ${sp.laTPBS === false ? `<div class="sp-med">Trang này là thông tin sản phẩm. Nội dung được chép từ mô tả của nhà sản xuất hoặc nhà phân phối, không nhằm chẩn đoán hay điều trị bệnh.</div>` : `<div class="sp-med">Đây là <strong>thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung trên trang là thông tin sản phẩm và gợi ý chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay điều trị bệnh. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng.</div>`}
     </article>
   </main>
 ${footer()}
@@ -247,16 +254,18 @@ function main() {
     // đường vòng qua rào pháp lý, đúng bài học đã trả giá với trường lamNgay của blog.
     const moiChu = [
       sp.h1, sp.seoTitle, sp.moTa, sp.thanhPhanText, sp.baoQuan, sp.luuY,
-      ...sp.cachDung, ...sp.thongTinNhanh.flat(), ...sp.faq.map((f) => `${f.q} ${f.a}`),
+      ...(sp.cachDung || []), ...(sp.thongTinNhanh || []).flat(), ...(sp.faq || []).map((f) => `${f.q} ${f.a}`),
     ].join("\n");
     soiTuCam(moiChu, sp.ten);
 
     const f = path.join(dir, `${sp.slug}.html`);
     fs.writeFileSync(f, trang(sp), "utf8");
-    ra.push(sp.slug);
+    if (sp.an !== true) ra.push(sp.slug);   // mon chua mo ban: noindex nen KHONG vao sitemap
     console.log(`  OK  san-pham/${sp.slug}.html — ${sp.ten} (${tien(sp.gia)})`);
   }
 
+  // Sitemap: CHI mon dang ban. Mon an da co <meta robots noindex> — dua vao sitemap la
+  // tu ban tin hieu mau thuan cho Google (vua bao "dung index" vua bao "day la trang quan trong").
   // Sitemap: thêm URL mới, không đụng URL cũ.
   const smPath = path.join(ROOT, "sitemap.xml");
   let sm = fs.readFileSync(smPath, "utf8");

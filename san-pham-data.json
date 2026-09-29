@@ -1,192 +1,673 @@
 {
-  "_doc": "Dữ liệu 3 trang sản phẩm chủ lực. scripts/build-san-pham.mjs đọc file này dựng san-pham/<slug>.html. Sửa giá hay thành phần thì sửa Ở ĐÂY rồi chạy lại build, KHÔNG sửa thẳng HTML.",
-  "_luat": [
-    "CHỈ ghi thứ đọc được trên bao bì hoặc hồ sơ sản phẩm. Không có số liệu thì BỎ TRỐNG, cấm ước chừng.",
-    "TUYỆT ĐỐI không viết công dụng: cấm chữa/trị/điều trị/khỏi bệnh/thải độc/giải độc/hạ đường huyết/hạ huyết áp, cấm 'hiệu quả sau X ngày', cấm khoe kết quả sức khoẻ của người dùng làm bằng chứng (Nghị định 15/2018 điều 27 khoản 2).",
-    "Bao bì True Vegan có in dòng về người tiểu đường — ĐÓ LÀ CHỮ CỦA NHÀ SẢN XUẤT TRÊN NHÃN, trang web KHÔNG chép lại.",
-    "KHÔNG gắn aggregateRating vào Product schema khi chưa có đánh giá thật: bịa đánh giá là vi phạm chính sách Google và là làm giả bằng chứng.",
-    "Giá do CEO chốt. Máy CẤM tự đặt giá mới, CẤM tự chế khuyến mãi (khuyến mãi luôn là TẶNG QUÀ, không giảm phần trăm)."
-  ],
-  "capNhat": "2026-08-15",
-  "sanPham": [
+ "_doc": "Dữ liệu 3 trang sản phẩm chủ lực. scripts/build-san-pham.mjs đọc file này dựng san-pham/<slug>.html. Sửa giá hay thành phần thì sửa Ở ĐÂY rồi chạy lại build, KHÔNG sửa thẳng HTML.",
+ "_luat": [
+  "CHỈ ghi thứ đọc được trên bao bì hoặc hồ sơ sản phẩm. Không có số liệu thì BỎ TRỐNG, cấm ước chừng.",
+  "TUYỆT ĐỐI không viết công dụng: cấm chữa/trị/điều trị/khỏi bệnh/thải độc/giải độc/hạ đường huyết/hạ huyết áp, cấm 'hiệu quả sau X ngày', cấm khoe kết quả sức khoẻ của người dùng làm bằng chứng (Nghị định 15/2018 điều 27 khoản 2).",
+  "Bao bì True Vegan có in dòng về người tiểu đường — ĐÓ LÀ CHỮ CỦA NHÀ SẢN XUẤT TRÊN NHÃN, trang web KHÔNG chép lại.",
+  "KHÔNG gắn aggregateRating vào Product schema khi chưa có đánh giá thật: bịa đánh giá là vi phạm chính sách Google và là làm giả bằng chứng.",
+  "Giá do CEO chốt. Máy CẤM tự đặt giá mới, CẤM tự chế khuyến mãi (khuyến mãi luôn là TẶNG QUÀ, không giảm phần trăm)."
+ ],
+ "capNhat": "2026-09-28",
+ "sanPham": [
+  {
+   "slug": "true-vegan-protein",
+   "ten": "True Vegan Protein Pro",
+   "tenDayDu": "Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g",
+   "tuKhoa": "True Vegan Protein",
+   "h1": "True Vegan Protein Pro — bột đạm dinh dưỡng thực vật 500g",
+   "seoTitle": "True Vegan Protein Pro: thành phần, cách pha và giá 500g",
+   "moTa": "True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.",
+   "loai": "Thực phẩm bổ sung — bột đạm thực vật",
+   "anh": "true-vegan-protein.jpg",
+   "anhAlt": "Hộp bột đạm dinh dưỡng thực vật True Vegan Protein Pro 500g của IKI",
+   "gia": 668000,
+   "quyCach": "Hộp 500 g",
+   "danhCho": "Người từ 16 tuổi trở lên",
+   "thongTinNhanh": [
+    [
+     "Loại sản phẩm",
+     "Thực phẩm bổ sung — bột đạm dinh dưỡng thực vật"
+    ],
+    [
+     "Quy cách",
+     "Hộp 500 g"
+    ],
+    [
+     "Nguồn đạm",
+     "Phối từ nhiều loại hạt và đậu, thuần chay"
+    ],
+    [
+     "Trên nhãn ghi",
+     "0 lactose, 0 cholesterol, 0 đạm động vật"
+    ],
+    [
+     "Chứng nhận in trên bao bì",
+     "ISO 22000, Vegan"
+    ],
+    [
+     "Dành cho",
+     "Người từ 16 tuổi trở lên"
+    ],
+    [
+     "Giá niêm yết",
+     "668.000đ"
+    ]
+   ],
+   "thanhPhanText": "True Vegan Protein Pro là bột đạm dinh dưỡng có nguồn gốc thực vật, phối từ nhiều loại hạt và đậu thay vì dùng một nguồn đạm duy nhất. Cách phối nhiều nguồn là điều đáng chú ý nhất về mặt dinh dưỡng: mỗi loại hạt hay đậu thường thiếu một vài axit amin thiết yếu, phối lại thì bộ axit amin của sản phẩm đầy đặn hơn so với chỉ dùng một loại. Bao bì cũng ghi rõ sản phẩm không chứa lactose, không cholesterol và không có đạm động vật — đây là ba điểm khiến nhiều người ăn chay, người không hợp sữa hoặc người muốn giảm đạm động vật quan tâm.",
+   "cachDung": [
+    "Đong lượng bột theo hướng dẫn in trên bao bì, cho vào bình lắc hoặc cốc.",
+    "Thêm nước ấm khoảng 40 độ C hoặc nước nguội — không dùng nước đang sôi, vì nước quá nóng làm bột vón cục và khó tan.",
+    "Lắc hoặc khuấy đều khoảng 20 giây cho tới khi bột tan hết.",
+    "Uống ngay sau khi pha. Muốn dễ uống hơn có thể pha cùng chuối chín, sữa hạt hoặc cho vào bát yến mạch."
+   ],
+   "baoQuan": "Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau mỗi lần dùng và luôn dùng muỗng khô — muỗng ướt là nguyên nhân phổ biến nhất khiến bột bị vón trong khí hậu nồm ẩm.",
+   "luuY": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do người có chuyên môn chỉ định nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thêm bột đạm vào khẩu phần hằng ngày.",
+   "faq": [
     {
-      "slug": "true-vegan-protein",
-      "ten": "True Vegan Protein Pro",
-      "tenDayDu": "Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g",
-      "tuKhoa": "True Vegan Protein",
-      "h1": "True Vegan Protein Pro — bột đạm dinh dưỡng thực vật 500g",
-      "seoTitle": "True Vegan Protein Pro: thành phần, cách pha và giá 500g",
-      "moTa": "True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.",
-      "loai": "Thực phẩm bổ sung — bột đạm thực vật",
-      "anh": "true-vegan-protein.jpg",
-      "anhAlt": "Hộp bột đạm dinh dưỡng thực vật True Vegan Protein Pro 500g của IKI",
-      "gia": 668000,
-      "quyCach": "Hộp 500 g",
-      "danhCho": "Người từ 16 tuổi trở lên",
-      "thongTinNhanh": [
-        ["Loại sản phẩm", "Thực phẩm bổ sung — bột đạm dinh dưỡng thực vật"],
-        ["Quy cách", "Hộp 500 g"],
-        ["Nguồn đạm", "Phối từ nhiều loại hạt và đậu, thuần chay"],
-        ["Trên nhãn ghi", "0 lactose, 0 cholesterol, 0 đạm động vật"],
-        ["Chứng nhận in trên bao bì", "ISO 22000, Vegan"],
-        ["Dành cho", "Người từ 16 tuổi trở lên"],
-        ["Giá niêm yết", "668.000đ"]
-      ],
-      "thanhPhanText": "True Vegan Protein Pro là bột đạm dinh dưỡng có nguồn gốc thực vật, phối từ nhiều loại hạt và đậu thay vì dùng một nguồn đạm duy nhất. Cách phối nhiều nguồn là điều đáng chú ý nhất về mặt dinh dưỡng: mỗi loại hạt hay đậu thường thiếu một vài axit amin thiết yếu, phối lại thì bộ axit amin của sản phẩm đầy đặn hơn so với chỉ dùng một loại. Bao bì cũng ghi rõ sản phẩm không chứa lactose, không cholesterol và không có đạm động vật — đây là ba điểm khiến nhiều người ăn chay, người không hợp sữa hoặc người muốn giảm đạm động vật quan tâm.",
-      "cachDung": [
-        "Đong lượng bột theo hướng dẫn in trên bao bì, cho vào bình lắc hoặc cốc.",
-        "Thêm nước ấm khoảng 40 độ C hoặc nước nguội — không dùng nước đang sôi, vì nước quá nóng làm bột vón cục và khó tan.",
-        "Lắc hoặc khuấy đều khoảng 20 giây cho tới khi bột tan hết.",
-        "Uống ngay sau khi pha. Muốn dễ uống hơn có thể pha cùng chuối chín, sữa hạt hoặc cho vào bát yến mạch."
-      ],
-      "baoQuan": "Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau mỗi lần dùng và luôn dùng muỗng khô — muỗng ướt là nguyên nhân phổ biến nhất khiến bột bị vón trong khí hậu nồm ẩm.",
-      "luuY": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do người có chuyên môn chỉ định nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thêm bột đạm vào khẩu phần hằng ngày.",
-      "faq": [
-        {
-          "q": "True Vegan Protein Pro là gì?",
-          "a": "Đây là bột đạm dinh dưỡng có nguồn gốc thực vật, thuần chay, đóng hộp 500 g, thuộc nhóm thực phẩm bổ sung. Sản phẩm phối đạm từ nhiều loại hạt và đậu, dùng để bổ sung thêm đạm vào khẩu phần ăn hằng ngày chứ không thay thế bữa ăn."
-        },
-        {
-          "q": "Một hộp True Vegan Protein Pro giá bao nhiêu?",
-          "a": "Giá niêm yết của hộp 500 g là 668.000đ. Cách so giá hợp lý giữa các loại bột đạm không phải là so giá mỗi hộp, mà là chia giá hộp cho số khẩu phần rồi chia tiếp cho số gam đạm trong mỗi khẩu phần, để ra giá trên mỗi gam đạm."
-        },
-        {
-          "q": "Pha True Vegan Protein với nước nóng được không?",
-          "a": "Không nên dùng nước đang sôi. Nước quá nóng làm bột dễ vón cục và khó tan. Nên pha với nước ấm khoảng 40 độ C hoặc nước nguội, lắc đều khoảng 20 giây rồi uống ngay."
-        },
-        {
-          "q": "Ai không nên tự ý dùng bột đạm thực vật?",
-          "a": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do bác sĩ chỉ định nên hỏi ý kiến người có chuyên môn trước khi dùng đều đặn."
-        },
-        {
-          "q": "Bột đạm thực vật có khó uống không?",
-          "a": "Bột đạm thực vật có vị hạt rõ hơn và kết cấu hơi dày hơn so với bột đạm từ sữa, đó là đặc điểm của nguyên liệu chứ không phải lỗi sản phẩm. Loại phối nhiều nguồn hạt thường dễ uống hơn loại đơn nguồn. Pha cùng chuối chín, sữa hạt hoặc cà phê nguội sẽ làm dịu vị hạt."
-        }
-      ],
-      "baiLienQuan": [
-        ["vi-sao-chon-dam-thuc-vat", "Chọn nguồn đạm thực vật thế nào cho đúng"],
-        ["dam-thuc-vat-va-dong-vat", "Đạm thực vật và đạm động vật: chọn sao cho cân bằng"],
-        ["uong-dam-thuc-vat-luc-nao-trong-ngay", "Uống đạm thực vật vào lúc nào trong ngày là hợp lý"],
-        ["uong-dam-thuc-vat-bi-day-bung", "Uống đạm thực vật bị đầy bụng: vì sao và cách khắc phục"],
-        ["can-bao-nhieu-dam-moi-ngay", "Cần bao nhiêu đạm mỗi ngày và lấy từ đâu"]
-      ]
+     "q": "True Vegan Protein Pro là gì?",
+     "a": "Đây là bột đạm dinh dưỡng có nguồn gốc thực vật, thuần chay, đóng hộp 500 g, thuộc nhóm thực phẩm bổ sung. Sản phẩm phối đạm từ nhiều loại hạt và đậu, dùng để bổ sung thêm đạm vào khẩu phần ăn hằng ngày chứ không thay thế bữa ăn."
     },
-
     {
-      "slug": "tra-tue-minh",
-      "ten": "Trà Tuệ Minh",
-      "tenDayDu": "Trà Tuệ Minh — trà thảo mộc túi lọc",
-      "tuKhoa": "Trà Tuệ Minh",
-      "h1": "Trà Tuệ Minh — trà thảo mộc túi lọc, hộp 30 gói",
-      "seoTitle": "Trà Tuệ Minh: thành phần, cách pha và giá hộp 30 gói",
-      "moTa": "Trà Tuệ Minh là trà thảo mộc túi lọc của IKI, hộp 30 gói x 2,6 g, giá niêm yết 162.000đ. Xem nguồn gốc, cách pha đúng nhiệt độ, thời điểm uống và câu hỏi thường gặp.",
-      "loai": "Trà thảo mộc túi lọc",
-      "anh": "tra-tue-minh.jpg",
-      "anhAlt": "Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKI",
-      "gia": 162000,
-      "quyCach": "Hộp 30 gói x 2,6 g",
-      "danhCho": "Người lớn dùng như thức uống hằng ngày",
-      "thongTinNhanh": [
-        ["Loại sản phẩm", "Trà thảo mộc túi lọc"],
-        ["Quy cách", "Hộp 30 gói x 2,6 g"],
-        ["Nguồn nguyên liệu", "HTX Nam Dược Tản Viên Sơn"],
-        ["Ghi trên bao bì", "Vegan"],
-        ["Cách dùng", "Hãm túi lọc với nước nóng, uống khi còn ấm"],
-        ["Giá niêm yết", "162.000đ (đã gồm VAT)"]
-      ],
-      "thanhPhanText": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc, mỗi gói 2,6 g, đóng hộp 30 gói. Nguyên liệu lấy từ HTX Nam Dược Tản Viên Sơn — đây là điểm đáng chú ý khi chọn trà thảo mộc, vì trà mua từ một hợp tác xã có tên tuổi thì truy được nguồn vùng trồng và mùa thu hái, khác với trà đóng gói không rõ xuất xứ. Dạng túi lọc phù hợp với người muốn có một nếp uống ấm mỗi ngày nhưng ngại pha ấm và rửa ấm.",
-      "cachDung": [
-        "Cho một túi lọc vào tách khoảng 200 ml.",
-        "Rót nước nóng khoảng 90 độ C — không dùng nước vừa sôi sùng sục, vì nước quá nóng làm bay hương và khiến nước trà chát hơn.",
-        "Hãm khoảng 3 đến 5 phút rồi lấy túi ra. Để quên túi trong tách là lỗi phổ biến nhất khiến trà bị chát.",
-        "Uống khi còn ấm. Không cần vắt túi lọc — vắt làm nước trà đục và gắt hơn."
-      ],
-      "baoQuan": "Để hộp nơi khô ráo, tránh ánh sáng trực tiếp và tránh để cạnh gia vị nặng mùi. Thảo mộc mất hương nhanh hơn trà chè vì tinh dầu bay hơi, nên đậy kín ngay sau khi lấy túi ra.",
-      "luuY": "Người đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng trà thảo mộc đều đặn hằng ngày.",
-      "faq": [
-        {
-          "q": "Trà Tuệ Minh là gì?",
-          "a": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc của IKI, mỗi gói 2,6 g, đóng hộp 30 gói, nguyên liệu từ HTX Nam Dược Tản Viên Sơn. Đây là thức uống hằng ngày, không phải là thuốc."
-        },
-        {
-          "q": "Một hộp Trà Tuệ Minh giá bao nhiêu?",
-          "a": "Giá niêm yết là 162.000đ một hộp 30 gói, đã gồm VAT. Tính ra khoảng 5.400đ cho mỗi tách trà."
-        },
-        {
-          "q": "Pha Trà Tuệ Minh thế nào cho đúng?",
-          "a": "Cho một túi lọc vào tách khoảng 200 ml, rót nước nóng khoảng 90 độ C, hãm 3 đến 5 phút rồi lấy túi ra. Không nên dùng nước vừa sôi và không nên để quên túi lọc trong tách — đó là hai lý do phổ biến nhất khiến trà túi lọc bị chát."
-        },
-        {
-          "q": "Nên uống Trà Tuệ Minh vào lúc nào trong ngày?",
-          "a": "Tuỳ nếp sinh hoạt của bạn. Nhiều người chọn một tách vào buổi sáng hoặc thay cho một cữ nước ngọt buổi chiều. Nếu bạn nhạy với đồ uống buổi tối thì nên uống cách giờ đi ngủ vài tiếng để không phải dậy đêm."
-        },
-        {
-          "q": "Túi lọc hãm lại lần hai được không?",
-          "a": "Được, nhưng nước lần hai sẽ nhạt hương hơn nhiều vì phần lớn hương đã ra ở lần hãm đầu. Nếu hãm lại, nên hãm lâu hơn một chút và dùng ngay trong ngày."
-        }
-      ],
-      "baiLienQuan": [
-        ["tra-thao-moc-tue-minh", "Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh"],
-        ["thuc-uong-am-tra-thao-moc", "Thức uống ấm và trà thảo mộc mỗi ngày"],
-        ["uong-tra-dung-cach", "Uống trà đúng cách"],
-        ["uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong", "Uống trà thảo mộc buổi tối có mất ngủ không"]
-      ]
+     "q": "Một hộp True Vegan Protein Pro giá bao nhiêu?",
+     "a": "Giá niêm yết của hộp 500 g là 668.000đ. Cách so giá hợp lý giữa các loại bột đạm không phải là so giá mỗi hộp, mà là chia giá hộp cho số khẩu phần rồi chia tiếp cho số gam đạm trong mỗi khẩu phần, để ra giá trên mỗi gam đạm."
     },
-
     {
-      "slug": "tra-thanh-huong",
-      "ten": "Trà Thanh Hương",
-      "tenDayDu": "Trà Thanh Hương — trà thảo mộc túi lọc bốn vị hoa và thảo mộc",
-      "tuKhoa": "Trà Thanh Hương",
-      "h1": "Trà Thanh Hương — trà thảo mộc túi lọc hoa nhài, phục linh, hoa quế, trần bì",
-      "seoTitle": "Trà Thanh Hương: bốn vị thảo mộc, cách pha và giá",
-      "moTa": "Trà Thanh Hương là trà thảo mộc túi lọc của IKI, phối hoa nhài, phục linh, hoa quế và trần bì, giá niêm yết 226.000đ. Xem thành phần, cách pha và thời điểm uống.",
-      "loai": "Trà thảo mộc túi lọc",
-      "anh": "tra-thanh-huong.jpg",
-      "anhAlt": "Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKI cùng tách trà và túi lọc",
-      "gia": 226000,
-      "quyCach": "Túi lọc 2,6 g mỗi gói",
-      "danhCho": "Người lớn, hợp cho một tách trà thơm dịu buổi tối",
-      "thongTinNhanh": [
-        ["Loại sản phẩm", "Trà thảo mộc túi lọc"],
-        ["Quy cách", "Túi lọc 2,6 g mỗi gói"],
-        ["Bốn vị thảo mộc", "Hoa nhài, phục linh, hoa quế, trần bì"],
-        ["Hợp dùng", "Buổi tối, hoặc khi muốn một tách ấm thơm dịu"],
-        ["Giá niêm yết", "226.000đ"]
-      ],
-      "thanhPhanText": "Trà Thanh Hương phối bốn vị thảo mộc quen thuộc trong ẩm thực Việt và Đông Á. Hoa nhài cho hương ngọt thanh, là nốt hương nổi rõ nhất khi mở túi. Phục linh cho hậu vị dịu, không sắc. Hoa quế cho nốt hương ấm kiểu mật, chỉ cần một lượng rất nhỏ đã đủ thơm. Trần bì là vỏ quýt phơi khô, thêm một nốt cam hơi the làm nước trà đỡ ngán. Bốn vị phối với nhau cho một tách trà thơm nhẹ, hợp uống chậm vào cuối ngày.",
-      "cachDung": [
-        "Cho một túi lọc vào tách khoảng 200 ml.",
-        "Rót nước nóng khoảng 90 độ C. Nước quá nóng làm bay mất phần hương hoa, vốn là điểm đáng giá nhất của loại trà này.",
-        "Hãm khoảng 1 đến 3 phút. Trà nhiều hương hoa nên hãm ngắn hơn trà thảo mộc thông thường.",
-        "Uống khi còn ấm, uống chậm để cảm được lớp hương thay đổi từ lúc còn nóng tới khi nguội bớt."
-      ],
-      "baoQuan": "Đậy kín và để nơi khô ráo, tránh ánh sáng. Trà nhiều hương hoa mất hương nhanh nhất trong các loại thảo mộc, nên tránh để hộp mở lâu hoặc để cạnh gia vị nặng mùi.",
-      "luuY": "Người đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng trà thảo mộc đều đặn hằng ngày.",
-      "faq": [
-        {
-          "q": "Trà Thanh Hương gồm những gì?",
-          "a": "Trà Thanh Hương là trà thảo mộc túi lọc phối bốn vị: hoa nhài, phục linh, hoa quế và trần bì."
-        },
-        {
-          "q": "Trà Thanh Hương giá bao nhiêu?",
-          "a": "Giá niêm yết là 226.000đ."
-        },
-        {
-          "q": "Trần bì trong trà là gì?",
-          "a": "Trần bì là vỏ quýt phơi khô. Trong đồ uống, trần bì góp một nốt hương cam hơi the, làm nước trà bớt ngán và cân lại vị ngọt của hoa. Vỏ để càng lâu năm thì hương càng trầm."
-        },
-        {
-          "q": "Nên uống Trà Thanh Hương trước giờ ngủ bao lâu?",
-          "a": "Điều đáng cân nhắc là lượng nước: nên uống trước giờ đi ngủ khoảng một tiếng rưỡi tới hai tiếng để không phải dậy đêm."
-        }
-      ],
-      "baiLienQuan": [
-        ["tra-thanh-huong-thu-gian", "Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương"],
-        ["uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong", "Uống trà thảo mộc buổi tối có mất ngủ không"],
-        ["tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao", "Trà hoa cúc uống lúc nào"],
-        ["kho-ngu-tran-troc-nep-buoi-toi", "Khó ngủ trằn trọc: nếp buổi tối giúp dễ vào giấc"]
-      ]
+     "q": "Pha True Vegan Protein với nước nóng được không?",
+     "a": "Không nên dùng nước đang sôi. Nước quá nóng làm bột dễ vón cục và khó tan. Nên pha với nước ấm khoảng 40 độ C hoặc nước nguội, lắc đều khoảng 20 giây rồi uống ngay."
+    },
+    {
+     "q": "Ai không nên tự ý dùng bột đạm thực vật?",
+     "a": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do bác sĩ chỉ định nên hỏi ý kiến người có chuyên môn trước khi dùng đều đặn."
+    },
+    {
+     "q": "Bột đạm thực vật có khó uống không?",
+     "a": "Bột đạm thực vật có vị hạt rõ hơn và kết cấu hơi dày hơn so với bột đạm từ sữa, đó là đặc điểm của nguyên liệu chứ không phải lỗi sản phẩm. Loại phối nhiều nguồn hạt thường dễ uống hơn loại đơn nguồn. Pha cùng chuối chín, sữa hạt hoặc cà phê nguội sẽ làm dịu vị hạt."
     }
-  ]
+   ],
+   "baiLienQuan": [
+    [
+     "vi-sao-chon-dam-thuc-vat",
+     "Chọn nguồn đạm thực vật thế nào cho đúng"
+    ],
+    [
+     "dam-thuc-vat-va-dong-vat",
+     "Đạm thực vật và đạm động vật: chọn sao cho cân bằng"
+    ],
+    [
+     "uong-dam-thuc-vat-luc-nao-trong-ngay",
+     "Uống đạm thực vật vào lúc nào trong ngày là hợp lý"
+    ],
+    [
+     "uong-dam-thuc-vat-bi-day-bung",
+     "Uống đạm thực vật bị đầy bụng: vì sao và cách khắc phục"
+    ],
+    [
+     "can-bao-nhieu-dam-moi-ngay",
+     "Cần bao nhiêu đạm mỗi ngày và lấy từ đâu"
+    ]
+   ]
+  },
+  {
+   "slug": "tra-tue-minh",
+   "ten": "Trà Tuệ Minh",
+   "tenDayDu": "Trà Tuệ Minh — trà thảo mộc túi lọc",
+   "tuKhoa": "Trà Tuệ Minh",
+   "h1": "Trà Tuệ Minh — trà thảo mộc túi lọc, hộp 30 gói",
+   "seoTitle": "Trà Tuệ Minh: thành phần, cách pha và giá hộp 30 gói",
+   "moTa": "Trà Tuệ Minh là trà thảo mộc túi lọc của IKI, hộp 30 gói x 2,6 g, giá niêm yết 162.000đ. Xem nguồn gốc, cách pha đúng nhiệt độ, thời điểm uống và câu hỏi thường gặp.",
+   "loai": "Trà thảo mộc túi lọc",
+   "anh": "tra-tue-minh.jpg",
+   "anhAlt": "Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKI",
+   "gia": 162000,
+   "quyCach": "Hộp 30 gói x 2,6 g",
+   "danhCho": "Người lớn dùng như thức uống hằng ngày",
+   "thongTinNhanh": [
+    [
+     "Loại sản phẩm",
+     "Trà thảo mộc túi lọc"
+    ],
+    [
+     "Quy cách",
+     "Hộp 30 gói x 2,6 g"
+    ],
+    [
+     "Nguồn nguyên liệu",
+     "HTX Nam Dược Tản Viên Sơn"
+    ],
+    [
+     "Ghi trên bao bì",
+     "Vegan"
+    ],
+    [
+     "Cách dùng",
+     "Hãm túi lọc với nước nóng, uống khi còn ấm"
+    ],
+    [
+     "Giá niêm yết",
+     "162.000đ (đã gồm VAT)"
+    ]
+   ],
+   "thanhPhanText": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc, mỗi gói 2,6 g, đóng hộp 30 gói. Nguyên liệu lấy từ HTX Nam Dược Tản Viên Sơn — đây là điểm đáng chú ý khi chọn trà thảo mộc, vì trà mua từ một hợp tác xã có tên tuổi thì truy được nguồn vùng trồng và mùa thu hái, khác với trà đóng gói không rõ xuất xứ. Dạng túi lọc phù hợp với người muốn có một nếp uống ấm mỗi ngày nhưng ngại pha ấm và rửa ấm.",
+   "cachDung": [
+    "Cho một túi lọc vào tách khoảng 200 ml.",
+    "Rót nước nóng khoảng 90 độ C — không dùng nước vừa sôi sùng sục, vì nước quá nóng làm bay hương và khiến nước trà chát hơn.",
+    "Hãm khoảng 3 đến 5 phút rồi lấy túi ra. Để quên túi trong tách là lỗi phổ biến nhất khiến trà bị chát.",
+    "Uống khi còn ấm. Không cần vắt túi lọc — vắt làm nước trà đục và gắt hơn."
+   ],
+   "baoQuan": "Để hộp nơi khô ráo, tránh ánh sáng trực tiếp và tránh để cạnh gia vị nặng mùi. Thảo mộc mất hương nhanh hơn trà chè vì tinh dầu bay hơi, nên đậy kín ngay sau khi lấy túi ra.",
+   "luuY": "Người đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng trà thảo mộc đều đặn hằng ngày.",
+   "faq": [
+    {
+     "q": "Trà Tuệ Minh là gì?",
+     "a": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc của IKI, mỗi gói 2,6 g, đóng hộp 30 gói, nguyên liệu từ HTX Nam Dược Tản Viên Sơn. Đây là thức uống hằng ngày, không phải là thuốc."
+    },
+    {
+     "q": "Một hộp Trà Tuệ Minh giá bao nhiêu?",
+     "a": "Giá niêm yết là 162.000đ một hộp 30 gói, đã gồm VAT. Tính ra khoảng 5.400đ cho mỗi tách trà."
+    },
+    {
+     "q": "Pha Trà Tuệ Minh thế nào cho đúng?",
+     "a": "Cho một túi lọc vào tách khoảng 200 ml, rót nước nóng khoảng 90 độ C, hãm 3 đến 5 phút rồi lấy túi ra. Không nên dùng nước vừa sôi và không nên để quên túi lọc trong tách — đó là hai lý do phổ biến nhất khiến trà túi lọc bị chát."
+    },
+    {
+     "q": "Nên uống Trà Tuệ Minh vào lúc nào trong ngày?",
+     "a": "Tuỳ nếp sinh hoạt của bạn. Nhiều người chọn một tách vào buổi sáng hoặc thay cho một cữ nước ngọt buổi chiều. Nếu bạn nhạy với đồ uống buổi tối thì nên uống cách giờ đi ngủ vài tiếng để không phải dậy đêm."
+    },
+    {
+     "q": "Túi lọc hãm lại lần hai được không?",
+     "a": "Được, nhưng nước lần hai sẽ nhạt hương hơn nhiều vì phần lớn hương đã ra ở lần hãm đầu. Nếu hãm lại, nên hãm lâu hơn một chút và dùng ngay trong ngày."
+    }
+   ],
+   "baiLienQuan": [
+    [
+     "tra-thao-moc-tue-minh",
+     "Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh"
+    ],
+    [
+     "thuc-uong-am-tra-thao-moc",
+     "Thức uống ấm và trà thảo mộc mỗi ngày"
+    ],
+    [
+     "uong-tra-dung-cach",
+     "Uống trà đúng cách"
+    ],
+    [
+     "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong",
+     "Uống trà thảo mộc buổi tối có mất ngủ không"
+    ]
+   ]
+  },
+  {
+   "slug": "tra-thanh-huong",
+   "ten": "Trà Thanh Hương",
+   "tenDayDu": "Trà Thanh Hương — trà thảo mộc túi lọc bốn vị hoa và thảo mộc",
+   "tuKhoa": "Trà Thanh Hương",
+   "h1": "Trà Thanh Hương — trà thảo mộc túi lọc hoa nhài, phục linh, hoa quế, trần bì",
+   "seoTitle": "Trà Thanh Hương: bốn vị thảo mộc, cách pha và giá",
+   "moTa": "Trà Thanh Hương là trà thảo mộc túi lọc của IKI, phối hoa nhài, phục linh, hoa quế và trần bì, giá niêm yết 226.000đ. Xem thành phần, cách pha và thời điểm uống.",
+   "loai": "Trà thảo mộc túi lọc",
+   "anh": "tra-thanh-huong.jpg",
+   "anhAlt": "Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKI cùng tách trà và túi lọc",
+   "gia": 226000,
+   "quyCach": "Túi lọc 2,6 g mỗi gói",
+   "danhCho": "Người lớn, hợp cho một tách trà thơm dịu buổi tối",
+   "thongTinNhanh": [
+    [
+     "Loại sản phẩm",
+     "Trà thảo mộc túi lọc"
+    ],
+    [
+     "Quy cách",
+     "Túi lọc 2,6 g mỗi gói"
+    ],
+    [
+     "Bốn vị thảo mộc",
+     "Hoa nhài, phục linh, hoa quế, trần bì"
+    ],
+    [
+     "Hợp dùng",
+     "Buổi tối, hoặc khi muốn một tách ấm thơm dịu"
+    ],
+    [
+     "Giá niêm yết",
+     "226.000đ"
+    ]
+   ],
+   "thanhPhanText": "Trà Thanh Hương phối bốn vị thảo mộc quen thuộc trong ẩm thực Việt và Đông Á. Hoa nhài cho hương ngọt thanh, là nốt hương nổi rõ nhất khi mở túi. Phục linh cho hậu vị dịu, không sắc. Hoa quế cho nốt hương ấm kiểu mật, chỉ cần một lượng rất nhỏ đã đủ thơm. Trần bì là vỏ quýt phơi khô, thêm một nốt cam hơi the làm nước trà đỡ ngán. Bốn vị phối với nhau cho một tách trà thơm nhẹ, hợp uống chậm vào cuối ngày.",
+   "cachDung": [
+    "Cho một túi lọc vào tách khoảng 200 ml.",
+    "Rót nước nóng khoảng 90 độ C. Nước quá nóng làm bay mất phần hương hoa, vốn là điểm đáng giá nhất của loại trà này.",
+    "Hãm khoảng 1 đến 3 phút. Trà nhiều hương hoa nên hãm ngắn hơn trà thảo mộc thông thường.",
+    "Uống khi còn ấm, uống chậm để cảm được lớp hương thay đổi từ lúc còn nóng tới khi nguội bớt."
+   ],
+   "baoQuan": "Đậy kín và để nơi khô ráo, tránh ánh sáng. Trà nhiều hương hoa mất hương nhanh nhất trong các loại thảo mộc, nên tránh để hộp mở lâu hoặc để cạnh gia vị nặng mùi.",
+   "luuY": "Người đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng trà thảo mộc đều đặn hằng ngày.",
+   "faq": [
+    {
+     "q": "Trà Thanh Hương gồm những gì?",
+     "a": "Trà Thanh Hương là trà thảo mộc túi lọc phối bốn vị: hoa nhài, phục linh, hoa quế và trần bì."
+    },
+    {
+     "q": "Trà Thanh Hương giá bao nhiêu?",
+     "a": "Giá niêm yết là 226.000đ."
+    },
+    {
+     "q": "Trần bì trong trà là gì?",
+     "a": "Trần bì là vỏ quýt phơi khô. Trong đồ uống, trần bì góp một nốt hương cam hơi the, làm nước trà bớt ngán và cân lại vị ngọt của hoa. Vỏ để càng lâu năm thì hương càng trầm."
+    },
+    {
+     "q": "Nên uống Trà Thanh Hương trước giờ ngủ bao lâu?",
+     "a": "Điều đáng cân nhắc là lượng nước: nên uống trước giờ đi ngủ khoảng một tiếng rưỡi tới hai tiếng để không phải dậy đêm."
+    }
+   ],
+   "baiLienQuan": [
+    [
+     "tra-thanh-huong-thu-gian",
+     "Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương"
+    ],
+    [
+     "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong",
+     "Uống trà thảo mộc buổi tối có mất ngủ không"
+    ],
+    [
+     "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao",
+     "Trà hoa cúc uống lúc nào"
+    ],
+    [
+     "kho-ngu-tran-troc-nep-buoi-toi",
+     "Khó ngủ trằn trọc: nếp buổi tối giúp dễ vào giấc"
+    ]
+   ]
+  },
+  {
+   "slug": "nhan-ban-tu-mat-ong-bac-ha-1400g",
+   "ten": "Mật ong bạc hà 1400g",
+   "tenDayDu": "Mật ong bạc hà 1400g",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 483000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/z7788351248737_f0fd14376e019ab5032e580aec1354e8_d7956974c35f4bbabeb4a02cb87bc87c.jpg",
+   "moTa": "Mật ong bạc hà là loại đặc sản quý chỉ có tại vùng cao nguyên núi đá Đồng Văn, Hà Giang. Do tính chất mọc dại và thời gian nở hoa ngắn ngủi nên sản lượng hàng năm có giới hạn. Mật ong bạc hà có tới 70 loại vitamin, axit amin, khoáng chất ví dụ như vitamin: C, B2, B3, B5, B6, B9 và khoáng chất: Canxi, Sắt, Magie, kẽm...",
+   "moTaDayDu": "Mật ong bạc hà là loại đặc sản quý chỉ có tại vùng cao nguyên núi đá Đồng Văn, Hà Giang. Do tính chất mọc dại và thời gian nở hoa ngắn ngủi nên sản lượng hàng năm có giới hạn. Mật ong bạc hà có tới 70 loại vitamin, axit amin, khoáng chất ví dụ như vitamin: C, B2, B3, B5, B6, B9 và khoáng chất: Canxi, Sắt, Magie, kẽm... Mật ong bạc hà là thực phẩm bồi bổ quen thuộc, thích hợp pha nước ấm, pha trà, dùng kèm bánh mì hoặc chế biến món ăn hằng ngày. Đây cũng là món quà đặc sản vùng cao được nhiều người chọn để biếu tặng. Nếm thử mật ong bạc hà sẽ cảm nhận được vị ngọt tinh tế, nhẹ dịu, vô cùng thanh mát. Địa điểm khai thác Mật Ong Hoa Bạc Hà: Cao nguyên núi đá Đồng Văn, Mèo Vạc.... Thời điểm khai thác :Từ tháng 9 đến tháng 12 âm. Chỉ tiêu chất lượng: Độ màu: từ 20 - 30 mmpfund; Thủy phần: ≤ 22%",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "nhan-ban-tu-mat-ong-bac-ha-1400g.jpg",
+   "anhAlt": "Mật ong bạc hà 1400g — sản phẩm tại IKI",
+   "h1": "Mật ong bạc hà 1400g",
+   "seoTitle": "Mật ong bạc hà 1400g — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Mật ong bạc hà 1400g",
+   "quyCach": "1400g"
+  },
+  {
+   "slug": "mat-ong-bac-ha",
+   "ten": "Mật ong bạc hà 530g",
+   "tenDayDu": "Mật ong bạc hà 530g",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 210000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/z7788351265511_c355094df3adad69b0c60f2aaae0040c_c5c2a0dac10d404ebbb0692ec3dfdf87.jpg",
+   "moTa": "Mật ong bạc hà là loại đặc sản quý chỉ có tại vùng cao nguyên núi đá Đồng Văn, Hà Giang. Do tính chất mọc dại và thời gian nở hoa ngắn ngủi nên sản lượng hàng năm có giới hạn. Mật ong bạc hà có tới 70 loại vitamin, axit amin, khoáng chất ví dụ như vitamin: C, B2, B3, B5, B6, B9 và khoáng chất: Canxi, Sắt, Magie, kẽm...",
+   "moTaDayDu": "Mật ong bạc hà là loại đặc sản quý chỉ có tại vùng cao nguyên núi đá Đồng Văn, Hà Giang. Do tính chất mọc dại và thời gian nở hoa ngắn ngủi nên sản lượng hàng năm có giới hạn. Mật ong bạc hà có tới 70 loại vitamin, axit amin, khoáng chất ví dụ như vitamin: C, B2, B3, B5, B6, B9 và khoáng chất: Canxi, Sắt, Magie, kẽm... Mật ong bạc hà là thực phẩm bồi bổ quen thuộc, thích hợp pha nước ấm, pha trà, dùng kèm bánh mì hoặc chế biến món ăn hằng ngày. Đây cũng là món quà đặc sản vùng cao được nhiều người chọn để biếu tặng. Nếm thử mật ong bạc hà sẽ cảm nhận được vị ngọt tinh tế, nhẹ dịu, vô cùng thanh mát. Địa điểm khai thác Mật Ong Hoa Bạc Hà: Cao nguyên núi đá Đồng Văn, Mèo Vạc.... Thời điểm khai thác :Từ tháng 9 đến tháng 12 âm. Chỉ tiêu chất lượng: Độ màu: từ 20 - 30 mmpfund; Thủy phần: ≤ 22%",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "mat-ong-bac-ha.jpg",
+   "anhAlt": "Mật ong bạc hà 530g — sản phẩm tại IKI",
+   "h1": "Mật ong bạc hà 530g",
+   "seoTitle": "Mật ong bạc hà 530g — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Mật ong bạc hà 530g",
+   "quyCach": "530g"
+  },
+  {
+   "slug": "me-den-huu-co-hat-duong-hanuti-150g-320g",
+   "ten": "MÈ ĐEN HỮU CƠ HẠT DƯỠNG (HANUTI) 150G/320G",
+   "tenDayDu": "MÈ ĐEN HỮU CƠ HẠT DƯỠNG (HANUTI) 150G/320G",
+   "loai": "Khác",
+   "gia": 110000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/z7560851913410_63c5da84d291d322941db72e49b62e0d_6681f7c3443841868e1ff8688143c649.jpg",
+   "moTa": "Mè đen hữu cơ Hạt Dưỡng từ các vùng nguyên liệu hữu cơ, nơi núi cao không có ô nhiễm, các mầm hạt vươn mình mạnh mẽ vượt qua những khắc nghiệt của thiên nhiên, như những hạt ngọc trên đá mang hương vị nguyên bản, thơm ngon và giàu dinh dưỡng. Thành phần: 100% mè đen hữu cơ khô, giống bản địa. Chứng nhận hữu cơ: EU (Châ",
+   "moTaDayDu": "Mè đen hữu cơ Hạt Dưỡng từ các vùng nguyên liệu hữu cơ, nơi núi cao không có ô nhiễm, các mầm hạt vươn mình mạnh mẽ vượt qua những khắc nghiệt của thiên nhiên, như những hạt ngọc trên đá mang hương vị nguyên bản, thơm ngon và giàu dinh dưỡng. Thành phần: 100% mè đen hữu cơ khô, giống bản địa. Chứng nhận hữu cơ: EU (Châu Âu), USDA (Mỹ), JAS (Nhật Bản) ác dụng: - Nguồn đạm thực vật, canxi, sắt và magie tự nhiên - Giàu chất xơ, thích hợp cho bữa ăn hằng ngày - Dùng kèm cơm, cháo, sữa hạt, salad hoặc rang muối vừng - Hỗ trợ đường tiêu hóa hoạt động tốt Hướng dẫn sử dụng: Rửa sạch và ngâm nước trong 3-5 tiếng trước khi dùng. Hướng dẫn bảo quản: Bảo quản trong lọ kín sau khi mở túi. Khối lượng tịnh: 150g và 320gr",
+   "thanhPhanText": "100% mè đen hữu cơ khô, giống bản địa. Chứng nhận hữu cơ: EU (Châu Âu), USDA (Mỹ), JAS (Nhật Bản) ác dụng: - Nguồn đạm thực vật, canxi, sắt và magie tự nhiên - Giàu chất xơ, thích hợp cho bữa ăn hằng ngày - Dùng kèm cơm, cháo, sữa hạt, salad hoặc rang muối vừng - Hỗ trợ đường tiêu hóa hoạt động tốt",
+   "cachDung": [
+    "Rửa sạch và ngâm nước trong 3-5 tiếng trước khi dùng."
+   ],
+   "baoQuan": "Bảo quản trong lọ kín sau khi mở túi.",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "me-den-huu-co-hat-duong-hanuti-150g-320g.jpg",
+   "anhAlt": "MÈ ĐEN HỮU CƠ HẠT DƯỠNG (HANUTI) 150G/320G — sản phẩm tại IKI",
+   "h1": "Mè Đen Hữu Cơ Hạt Dưỡng (Hanuti) 150G/320G",
+   "seoTitle": "Mè Đen Hữu Cơ Hạt Dưỡng (Hanuti) 150G/320G — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Mè Đen Hữu Cơ Hạt Dưỡng (Hanuti) 150G/320G",
+   "quyCach": "150G/320G"
+  },
+  {
+   "slug": "dau-oliu-pomace-mueloliva-1l-nhap-khau-tay-ban-nha-chai-thuy-tinh-cao-cap",
+   "ten": "Dầu Oliu Pomace Mueloliva 1L – Nhập khẩu Tây Ban Nha – Chai THỦY TINH cao cấp",
+   "tenDayDu": "Dầu Oliu Pomace Mueloliva 1L – Nhập khẩu Tây Ban Nha – Chai THỦY TINH cao cấp",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 320000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/z7346090155600_c854640e039a1e15645fc1a193f5f277_47704d80d6a640d6a99ca04d8375c2a2.jpg",
+   "moTa": "MÔ TẢ SẢN PHẨM: 🟢 Dầu ăn lành mạnh – bao bì sang trọng – giá trị thật từ thiên nhiên Địa Trung Hải Mueloliva – thương hiệu dầu oliu lâu đời đến từ Tây Ban Nha, nay đã có mặt tại Việt Nam qua nhà nhập khẩu chính thức Cát Tường Phát. Pomace Mueloliva 1L là lựa chọn lý tưởng cho mọi gian bếp: từ bữa ăn gia đình đến không",
+   "moTaDayDu": "MÔ TẢ SẢN PHẨM: 🟢 Dầu ăn lành mạnh – bao bì sang trọng – giá trị thật từ thiên nhiên Địa Trung Hải Mueloliva – thương hiệu dầu oliu lâu đời đến từ Tây Ban Nha, nay đã có mặt tại Việt Nam qua nhà nhập khẩu chính thức Cát Tường Phát. Pomace Mueloliva 1L là lựa chọn lý tưởng cho mọi gian bếp: từ bữa ăn gia đình đến không gian ẩm thực cao cấp. ✅ Vì sao khách hàng lựa chọn Pomace 1L? 🫒 Hương vị nhẹ – không át món ăn 🔥 Chịu nhiệt tốt, dùng được cho cả chiên, xào, nướng 🌱 Không cholesterol 🧴 Chai thủy tinh cao cấp, thiết kế sang trọng – thích hợp biếu tặng 🏷️ Nhập khẩu nguyên chai từ Tây Ban Nha – đảm bảo chất lượng & nguồn gốc rõ ràng ✅ ƯU ĐIỂM NỔI BẬT - Phù hợp chiên, xào, làm salad, nấu ăn hằng ngày - Giàu axit béo không bão hòa - Không tạo khói độc như dầu ăn thường - Bao bì chắc chắn, dễ bảo quản - HSD 24 tháng 🔖 THÔNG TIN CHI TIẾT - Dung tích: 1L - Xuất xứ: Tây Ban Nha - Bao bì: Thủy tinh – an toàn – thẩm mỹ cao - Thành phần: Dầu Pomace tinh luyện kết hợp Extra Virgin - Hương vị: Trung tính, không át mùi món ăn - Công dụng: Chiên nhẹ, xào, trộn salad, làm bánh - Đối tượng phù hợp: Gia đình, khách hàng tặng quà, bếp ăn cao cấp - Bảo quản nơi khô ráo, đậy nắp kín sau khi dùng. 🧑‍🍳 HƯỚNG DẪN SỬ DỤNG 🍳 Sử dụng mỗi ngày – Ăn ngon mà vẫn tốt cho sức khỏe 1. Chiên xào hằng ngày: • Đun nóng nhẹ → dầu không tạo khói đen • Chiên nem, trứng, thịt, cá thơm nhẹ – không bị ngấy 2. Trộn salad, rau củ luộc: • Rưới trực tiếp lên salad hoặc rau hấp, ăn thanh vị – ít béo, không ngấy 3. Làm món Âu: • Mì Ý sốt cà chua bò bằm • Mì Ý sốt kem phô mai • Bánh mì nướng sốt dầu oliu – tỏi 4. Ướp thịt/cá nướng: • Tăng độ mềm, giữ ẩm, giúp bề mặt chín vàng đẹp 💚 Mẹo nhỏ: Dùng 1 thìa dầu oliu mỗi ngày cho bữa ăn thanh nhẹ hằng ngày. Thay dầu thông thường = lựa chọn thông minh cho sức khỏe cả nhà! 🛒 Sẵn sàng ăn ngon & sống khỏe? 👉 Thêm vào giỏ hàng & trải nghiệm ngay! 👉 Món ăn thơm ngon hơn, cơ thể nhẹ nhàng hơn mỗi ngày 🌿 ✅ Cam kết từ Shop: • Hàng nhập khẩu chính ngạch – có giấy công bố, hóa đơn VAT • Nhập khẩu nguyên chai – có nhãn phụ, hạn sử dụng rõ ràng • Đóng gói kỹ, bọc chống sốc – đảm bảo an toàn khi vận chuyển • Hỗ trợ sỉ & phân phối toàn quốc • Hỗ trợ đổi trả theo chính sách Shopee #dauoliu #dauolive #daupomace #dauoliu1L #dauanlanhmanh #dauanTayBanNha #dauanchoembe #dauanchoMeBim #dauanTotChoSucKhoe#DầuOliuMueloliva #DầuOliuPomace #PomaceOliveOil #DầuOliu1L #DầuĂnHealthy #DầuĂnKhôngCholesterol #ThựcPhẩmNhậpKhẩu #BếpNhàLànhMạnh #DầuChiênXào #DầuĂnTâyBanNha#dauoliu #daupomace #dauan5L #dauanchoNhahang #dauanTayBanNha #dauOlivePomace #dauanTot #dauanCongNghiep #dauanHoreca",
+   "thanhPhanText": "Dầu Pomace tinh luyện kết hợp Extra Virgin - Hương vị: Trung tính, không át mùi món ăn -",
+   "cachDung": [
+    "🍳 Sử dụng mỗi ngày – Ăn ngon mà vẫn tốt cho sức khỏe 1",
+    "Chiên xào hằng ngày: • Đun nóng nhẹ → dầu không tạo khói đen • Chiên nem, trứng, thịt, cá thơm nhẹ – không bị ngấy 2",
+    "Trộn salad, rau củ luộc: • Rưới trực tiếp lên salad hoặc rau hấp, ăn thanh vị – ít béo, không ngấy 3",
+    "Làm món Âu: • Mì Ý sốt cà chua bò bằm • Mì Ý sốt kem phô mai • Bánh mì nướng sốt dầu oliu – tỏi 4",
+    "Ướp thịt/cá nướng: • Tăng độ mềm, giữ ẩm, giúp bề mặt chín vàng đẹp 💚 Mẹo nhỏ: Dùng 1 thìa dầu oliu mỗi ngày cho bữa ăn thanh nhẹ hằng ngày",
+    "Thay dầu thông thường = lựa chọn thông minh cho sức khỏe cả nhà! 🛒 Sẵn sàng ăn ngon & sống khỏe? 👉 Thêm vào giỏ hàng & trải nghiệm ngay! 👉 Món ăn thơm ngon hơn, cơ thể nhẹ nhàng hơn mỗi ngày 🌿 ✅ Cam kết từ Shop: • Hàng nhập khẩu chính ngạch – có giấy công bố, hóa đơn VAT • Nhập khẩu nguyên chai – có nhãn phụ, hạn sử dụng rõ ràng • Đóng gói kỹ, bọc chống sốc – đảm bảo an toàn khi vận chuyển • Hỗ trợ sỉ & phân phối toàn quốc • Hỗ trợ đổi trả theo chính sách Shopee #dauoliu #dauolive #daupomace #dauoliu1L #dauanlanhmanh #dauanTayBanNha #dauanchoembe #dauanchoMeBim #dauanTotChoSucKhoe#DầuOliuMueloliva #DầuOliuPomace #PomaceOliveOil #DầuOliu1L #DầuĂnHealthy #DầuĂnKhôngCholesterol #ThựcPhẩmNhậpKhẩu #BếpNhàLànhMạnh #DầuChiênXào #DầuĂnTâyBanNha#dauoliu #daupomace #dauan5L #dauanchoNhahang #dauanTayBanNha #dauOlivePomace #dauanTot #dauanCongNghiep #dauanHoreca"
+   ],
+   "baoQuan": "HSD 24 tháng 🔖 THÔNG TIN CHI TIẾT - Dung tích: 1L - Xuất xứ: Tây Ban Nha - Bao bì: Thủy tinh – an toàn – thẩm mỹ cao -",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "dau-oliu-pomace-mueloliva-1l-nhap-khau-tay-ban-nha.jpg",
+   "anhAlt": "Dầu Oliu Pomace Mueloliva 1L – Nhập khẩu Tây Ban Nha – Chai THỦY TINH cao cấp — sản phẩm tại IKI",
+   "h1": "Dầu Oliu Pomace Mueloliva 1L – Nhập khẩu Tây Ban Nha – Chai THỦY TINH cao cấp",
+   "seoTitle": "Dầu Oliu Pomace Mueloliva 1L – Nhập khẩu Tây Ban Nha – Chai THỦY TINH cao cấp — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Dầu Oliu Pomace Mueloliva 1L – Nhập khẩu Tây Ban Nha – Chai THỦY TINH cao cấp",
+   "quyCach": "1L"
+  },
+  {
+   "slug": "dau-dua-len-men-tach-lanh-raw-virgin-coconut-oil",
+   "ten": "DẦU DỪA LÊN MEN TÁCH LẠNH - RAW VIRGIN COCONUT OIL",
+   "tenDayDu": "DẦU DỪA LÊN MEN TÁCH LẠNH - RAW VIRGIN COCONUT OIL",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 385000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/daudua_3_80a06830f8c346c4b95cae3330ba840f.jpg",
+   "moTa": "🌿 Một phương pháp sản xuất dầu dừa giữ được nhiều chất dinh dưỡng từ việc lên men, tách lạnh sữa dừa tươi (nước cốt dừa), không tác động nhiệt. 🌿 Ngoài loại dầu dừa gia nhiệt thì đây là loại dầu có phương pháp sản xuất KHÁC BIỆT so với phương pháp ép từ cơm dừa sấy khô hoặc sấy lạnh (dừa lúc này sẽ mất một lượng vi c",
+   "moTaDayDu": "🌿 Một phương pháp sản xuất dầu dừa giữ được nhiều chất dinh dưỡng từ việc lên men, tách lạnh sữa dừa tươi (nước cốt dừa), không tác động nhiệt. 🌿 Ngoài loại dầu dừa gia nhiệt thì đây là loại dầu có phương pháp sản xuất KHÁC BIỆT so với phương pháp ép từ cơm dừa sấy khô hoặc sấy lạnh (dừa lúc này sẽ mất một lượng vi chất dinh dưỡng, do ảnh hưởng của nhiệt), sau đó đem cơm dừa khô ép lạnh ở nhiệt độ dưới 50 độ C cho ra dầu dừa lạnh, nhưng không “tươi sống” như loại dầu lên men tách lạnh. 🌿 Theo đánh giá của các chuyên gia, đây là cách làm dầu dừa được đánh giá cao hiện nay là tách hoặc ép dầu dừa từ nước cốt dừa, mà nước cốt phải được ép ngay lập tức, ép khi bổ dừa Tươi nhưng quả dừa phải đủ già. Việc tách có thể bằng phương pháp lên men hoặc ép bằng máy ly tâm, ở nhiệt độ dưới 50 độ C 🌿 DẦU DỪA TƯƠI LẠNH hay “raw coconut oil”, là loại dầu được sản xuất từ nước cốt dừa. Vì sản xuất từ nước cốt, nên lượng dầu tách được thấp hơn nhiều so với việc ép dầu từ cơm dừa khô. Nhưng loại DẦU DỪA TƯƠI LẠNH giữ được nhiều dưỡng chất hơn và có hương vị tươi, thơm tự nhiên hơn. 🌿 Ngoài ra, trong dầu dừa lên men tách lạnh có lợi khuẩn lactobacillus plantarum (mà ở loại dầu sử dụng phương pháp sản xuất khác không có) là lợi khuẩn thường gặp trong các thực phẩm lên men tự nhiên. 🌿 Quy trình sản xuất: - Nguồn dừa: được chọn nơi dừa có chất lượng dầu tốt ở Bến Tre, bao tiêu vườn dừa trái to, giống bản địa, canh tác không hoá chất. - Sau khi thu hái, dừa được chọn trái có độ già thích hợp rồi tách cơm và rửa sạch qua nước, để ráo nước rồi tiến hành say nhuyễn, ép cốt ngay. Thời gian thu cốt nhanh đảm bảo được độ tươi, thơm ngon của dừa. - Quá trình lên men: Cốt dừa được ủ trong bồn inox kính với nhiệt độ và thời gian thích hợp để quá trình tách dầu của cốt dừa được hoàn thành tối ưu nhất. Tất cả là 100% cốt dừa tươi tự bản thân nó lên men, không cần bất cứ enzym hay tác động nào khác từ bên ngoài, đảm bảo 100% thành phẩm tạo ra là dầu dừa tươi nguyên chất. - Quá trình tách dầu xong là đến khâu lọc thô rồi đến khâu lọc qua hệ thống cộc lọc. Giai đoạn này mất nhiều thời gian và dầu thu được là thành phẩm và tiến hành đóng chai. Như vậy cả quá trình chế biến không hề dùng nhiệt cao nên các vi khoáng có trong dừa được giữ nguyên; cũng chính vì vậy mà dầu dừa tươi lên men được ưu tiên dùng trong chăm sóc sắc đẹp và làm thực phẩm. Đặc biệt, dầu dừa là nguồn chất béo lành cho bữa ăn và thường được dùng dưỡng da, dưỡng tóc khi trời hanh khô. Sưu tầm 🌿 Hạn dùng: 12 tháng, bảo quản nơi thoáng mát. Đặt hàng: 0987931551 - 0398767885 #daudua #suckhoe #chatbeotot #thucpham #healthy",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "nơi thoáng mát. Đặt hàng: 0987931551 - 0398767885 #daudua #suckhoe #chatbeotot #thucpham #healthy",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "dau-dua-len-men-tach-lanh-raw-virgin-coconut-oil.jpg",
+   "anhAlt": "DẦU DỪA LÊN MEN TÁCH LẠNH - RAW VIRGIN COCONUT OIL — sản phẩm tại IKI",
+   "h1": "Dầu Dừa Lên Men Tách Lạnh - Raw Virgin Coconut Oil",
+   "seoTitle": "Dầu Dừa Lên Men Tách Lạnh - Raw Virgin Coconut Oil — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Dầu Dừa Lên Men Tách Lạnh - Raw Virgin Coconut Oil"
+  },
+  {
+   "slug": "muoi-tre-sadhu",
+   "ten": "Muối tre SADHU",
+   "tenDayDu": "Muối tre SADHU",
+   "loai": "Muối",
+   "gia": 120000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/muoi-tre-sadhu_b17ee8053d984f8e89a88ee1ba1229a8.jpg",
+   "moTa": "Hướng Dẫn Sử Dụng: Nêm Nếm Món Ăn: Sử dụng như muối thông thường để nêm nếm các món ăn, salad, súp, hoặc ướp thực phẩm. Vị mặn của muối tre thường đậm đà hơn, nên dùng với lượng nhỏ hơn. Pha Nước Uống Buổi Sáng: Pha một vài hạt muối tre vào nước ấm để uống vào buổi sáng, cho cảm giác thanh nhẹ, dễ chịu. Chăm Sóc Răng M",
+   "moTaDayDu": "Hướng Dẫn Sử Dụng: Nêm Nếm Món Ăn: Sử dụng như muối thông thường để nêm nếm các món ăn, salad, súp, hoặc ướp thực phẩm. Vị mặn của muối tre thường đậm đà hơn, nên dùng với lượng nhỏ hơn. Pha Nước Uống Buổi Sáng: Pha một vài hạt muối tre vào nước ấm để uống vào buổi sáng, cho cảm giác thanh nhẹ, dễ chịu. Chăm Sóc Răng Miệng: Dùng một ít muối tre để đánh răng hoặc pha nước súc miệng hàng ngày.",
+   "thanhPhanText": "",
+   "cachDung": [
+    "Nêm Nếm Món Ăn: Sử dụng như muối thông thường để nêm nếm các món ăn, salad, súp, hoặc ướp thực phẩm",
+    "Vị mặn của muối tre thường đậm đà hơn, nên dùng với lượng nhỏ hơn",
+    "Pha Nước Uống Buổi Sáng: Pha một vài hạt muối tre vào nước ấm để uống vào buổi sáng, cho cảm giác thanh nhẹ, dễ chịu",
+    "Chăm Sóc Răng Miệng: Dùng một ít muối tre để đánh răng hoặc pha nước súc miệng hàng ngày."
+   ],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "muoi-tre-sadhu.jpg",
+   "anhAlt": "Muối tre SADHU — sản phẩm tại IKI",
+   "h1": "Muối tre SADHU",
+   "seoTitle": "Muối tre SADHU — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Muối tre SADHU"
+  },
+  {
+   "slug": "minh-triet-trong-an-uong-cua-phuong-dong",
+   "ten": "Minh triết trong ăn uống của Phương Đông",
+   "tenDayDu": "Minh triết trong ăn uống của Phương Đông",
+   "loai": "Sách",
+   "gia": 168000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/_trong_an_uong_cua_phuong_dong_d1a84368566a42babba15ac2fef0cc13_grande_973df324e8ed4e9188cacc6c4a83dcbd.jpg",
+   "moTa": "Học cách ăn lành, sống khoẻ. Cơ thể được xây đắp bởi đồ ăn thức uống hàng ngày, nguồn năng lượng cho chúng ta hoạt động cũng từ đó. Vì vậy, hiểu biết Minh triết trong ăn uống của phương Đông là điều vô cùng cần thiết. Tác giả - lương y nổi tiếng Ngô Đức Vượng từ lâu đã quan tâm tới vấn đề này. Ông đã ăn chay trường, ăn",
+   "moTaDayDu": "Học cách ăn lành, sống khoẻ. Cơ thể được xây đắp bởi đồ ăn thức uống hàng ngày, nguồn năng lượng cho chúng ta hoạt động cũng từ đó. Vì vậy, hiểu biết Minh triết trong ăn uống của phương Đông là điều vô cùng cần thiết. Tác giả - lương y nổi tiếng Ngô Đức Vượng từ lâu đã quan tâm tới vấn đề này. Ông đã ăn chay trường, ăn gạo lứt muối vừng và thực hành dưỡng sinh trong nhiều năm. Với mong muốn chia sẻ một lối sống lành, ít tốn kém và dễ thực hành cho cộng đồng, tác giả đã viết cuốn sách này. Là một nhà khoa học và lương y giàu kinh nghiệm, ông gửi vào tác phẩm những đúc kết từ chính hành trình ăn uống của mình. Cuốn sách cung cấp kiến thức tổng quát, tư duy thông thái, giúp người đọc có tầm nhìn và sự đánh giá vấn đề sức khỏe một cách sáng suốt. Nội dung Minh triết trong ăn uống của phương Đông trải dài từ khoa học thực dưỡng, ăn uống theo nguyên lý âm - dương, chế độ ăn uống đến phương pháp nhịn ăn... Bên cạnh kiến thức, tác giả đề cập nhiều kinh nghiệm thực tiễn giúp cho việc áp dụng vào cuộc sống dễ dàng hơn.",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "minh-triet-trong-an-uong-cua-phuong-dong.jpg",
+   "anhAlt": "Minh triết trong ăn uống của Phương Đông — sản phẩm tại IKI",
+   "h1": "Minh triết trong ăn uống của Phương Đông",
+   "seoTitle": "Minh triết trong ăn uống của Phương Đông — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Minh triết trong ăn uống của Phương Đông"
+  },
+  {
+   "slug": "dau-me-ep-thu-cong-nguyen-chat",
+   "ten": "Dầu mè ép thủ công nguyên chất",
+   "tenDayDu": "Dầu mè ép thủ công nguyên chất",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 280000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/dau-me-den_a31447dd929345e89ae09e5ed25b746e.jpg",
+   "moTa": "Dầu mè đen nguyên chất Thể tích: 1 Lít Thành phần: Dầu mè đen nguyên chất 100% Hsd: 12 Tháng Dầu mè đen ép trực tiếp nên có mùi thơm nhẹ, giữ được nguyên chất. Không thơm bằng dầu mè rang. Dầu mè nguyên chất LÊ THÔNG được ép từ máy ép hiện đại với nhiệt độ vừa phải 50-60oC vẫn giữ được dưỡng chất, Vitamin trong dầu. Dầ",
+   "moTaDayDu": "Dầu mè đen nguyên chất Thể tích: 1 Lít Thành phần: Dầu mè đen nguyên chất 100% Hsd: 12 Tháng Dầu mè đen ép trực tiếp nên có mùi thơm nhẹ, giữ được nguyên chất. Không thơm bằng dầu mè rang. Dầu mè nguyên chất LÊ THÔNG được ép từ máy ép hiện đại với nhiệt độ vừa phải 50-60oC vẫn giữ được dưỡng chất, Vitamin trong dầu. Dầu thô được lọc qua máy lọc áp suất cao sạch cặn, cho ra thành phẩm chất lượng, tinh khiết. Dầu có màu vàng óng và đặc biệt thơm đậm đà khi sử dụng, góp phần làm tăng thêm sự hấp dẫn cho món ăn khi chế biến. Do vậy mà loại dầu mè này còn gọi là dầu mè thơm hay dầu mè rang, và được đánh giá là một trong những sản phẩm cao cấp trong ngành sản xuất dầu mè. Dầu mè rang có thể dùng trực tiếp lên món ăn mà không cần phải trải qua chế biến nhiệt như trộn salad, làm sốt chấm, làm bánh, ăn trực tiếp với cơm, cháo, ướp món ăn... Nấu ăn với dầu mè. Chỉ một lượng nhỏ dầu mè cũng đủ tạo ra hương vị thơm đặc trưng mà không làm món ăn quá béo. Chính vì thế mà ở Hàn, người dân thường hay sử dụng loại gia vị này để chế biến ra nhiều món ngon như miến trộn (Japchae), Bibimbap, bánh hành (pajeon)... hoặc phết lên bề mặt các món BBQ nhằm làm tăng độ thơm khi nướng. Thích hợp sử dụng cho nhiều đối tượng từ trẻ em, người lớn, đến người cao tuổi và những người ăn theo chế độ vegan. Bảo quản: Nơi khô ráo, thoáng mát và tránh ánh nắng mặt trời Hướng dẫn sử dụng: Dùng trộn salad, ướp, ăn trực tiếp với cháo, súp, mì, làm bánh, gia vị, chế biến món ăn. Chay, mặn đều dùng được. HỘ KINH DOANH LÊ THÔNG",
+   "thanhPhanText": "Dầu mè đen nguyên chất 100% Hsd: 12 Tháng Dầu mè đen ép trực tiếp nên có mùi thơm nhẹ, giữ được nguyên chất. Không thơm bằng dầu mè rang. Dầu mè nguyên chất LÊ THÔNG được ép từ máy ép hiện đại với nhiệt độ vừa phải 50-60oC vẫn giữ được dưỡng chất, Vitamin trong dầu. Dầu thô được lọc qua máy lọc áp suất cao sạch cặn, cho ra thành phẩm chất lượng, tinh khiết. Dầu có màu vàng óng và đặc biệt thơm đậm đà khi sử dụng, góp phần làm tăng thêm sự hấp dẫn cho món ăn khi chế biến. Do vậy mà loại dầu mè này còn gọi là dầu mè thơm hay dầu mè rang, và được đánh giá là một trong những sản phẩm cao cấp trong ngành sản xuất dầu mè. Dầu mè rang có thể dùng trực tiếp lên món ăn mà không cần phải trải qua chế biến nhiệt như trộn salad, làm sốt chấm, làm bánh, ăn trực tiếp với cơm, cháo, ướp món ăn... Nấu ăn với dầu mè. Chỉ một lượng nhỏ dầu mè cũng đủ tạo ra hương vị thơm đặc trưng mà không làm món ăn quá béo. Chính vì thế mà ở Hàn, người dân thường hay sử dụng loại gia vị này để chế biến ra nhiều món ngon như miến trộn (Japchae), Bibimbap, bánh hành (pajeon)... hoặc phết lên bề mặt các món BBQ nhằm làm tăng độ thơm khi nướng. Thích hợp sử dụng cho nhiều đối tượng từ trẻ em, người lớn, đến người cao tuổi và những người ăn theo chế độ vegan.",
+   "cachDung": [
+    "Dùng trộn salad, ướp, ăn trực tiếp với cháo, súp, mì, làm bánh, gia vị, chế biến món ăn",
+    "Chay, mặn đều dùng được",
+    "HỘ KINH DOANH LÊ THÔNG"
+   ],
+   "baoQuan": "Nơi khô ráo, thoáng mát và tránh ánh nắng mặt trời",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "dau-me-ep-thu-cong-nguyen-chat.jpg",
+   "anhAlt": "Dầu mè ép thủ công nguyên chất — sản phẩm tại IKI",
+   "h1": "Dầu mè ép thủ công nguyên chất",
+   "seoTitle": "Dầu mè ép thủ công nguyên chất — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Dầu mè ép thủ công nguyên chất"
+  },
+  {
+   "slug": "dau-phong-ep-thu-cong-nguyen-chat",
+   "ten": "Dầu phộng ép thủ công nguyên chất",
+   "tenDayDu": "Dầu phộng ép thủ công nguyên chất",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 165000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/dau-phong_de0567d916e34ee396bb23c5efca925e.jpg",
+   "moTa": "1Lit Dầu Lạc, Dầu phộng nguyên chất Xuất xứ: Đức Linh, Bình Thuận HSD: 12 tháng Dầu Đậu Phộng Nguyên Chất Lê Thông được thu mua nguồn nguyên liệu sạch tại địa phương Đức Linh, Bình Thuận. Giống đậu Sẻ chỉ có ở miền trung nước ta. Đậu phộng khô được tách vỏ sạch mới cho vào máy ép hiện đại và cài đặt ở nhiệt độ thích hợ",
+   "moTaDayDu": "1Lit Dầu Lạc, Dầu phộng nguyên chất Xuất xứ: Đức Linh, Bình Thuận HSD: 12 tháng Dầu Đậu Phộng Nguyên Chất Lê Thông được thu mua nguồn nguyên liệu sạch tại địa phương Đức Linh, Bình Thuận. Giống đậu Sẻ chỉ có ở miền trung nước ta. Đậu phộng khô được tách vỏ sạch mới cho vào máy ép hiện đại và cài đặt ở nhiệt độ thích hợp từ 80-100oC để dầu vừa không bị nặng mùi mà vẫn giữ được các dưỡng chất, Vitamin trong đậu phộng. Dầu thô sẽ được lọc qua máy lọc nén khí áp suất cao. Lọc sạch những cặn bả giúp dầu tinh khiết, vàng óng và giữ được lâu hơn so với lọc thông thường. Bên cạnh đó Dầu Phộng Lê Thông sản xuất theo tiêu chuẩn quy định nên mọi người yên tâm tin tưởng sử dụng. ￼Dầu Phộng nguyên chất LÊ THÔNG dùng để nấu trực tiếp các món ăn như: Chiên, Xào, Mì Quảng và tẩm ướp gia vị các món ăn trước khi nấu. ️ Dầu Phộng nguyên chất 100%, hoàn toàn tự nhiên ️ Không hoá chất và phụ gia ️ Phù hợp với người ăn chay, ăn kiêng và bữa cơm gia đình 🥰 Tốt cho Trẻ em và người lớn tuổi 🌟 Sản phẩm OCOP Bình Thuận, truy xuất nguồn gốc rỏ ràng 🏆 Sản xuất theo tiêu chuẩn HACCP an toàn hợp vệ sinh. Sản phẩm tiêu biểu của tỉnh Bình Thuận. Góp phần phát triển nông nghiệp tỉnh nhà vững mạnh.",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "dau-phong-ep-thu-cong-nguyen-chat.jpg",
+   "anhAlt": "Dầu phộng ép thủ công nguyên chất — sản phẩm tại IKI",
+   "h1": "Dầu phộng ép thủ công nguyên chất",
+   "seoTitle": "Dầu phộng ép thủ công nguyên chất — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Dầu phộng ép thủ công nguyên chất"
+  },
+  {
+   "slug": "mat-mia-tu-nhien",
+   "ten": "Mật mía tự nhiên",
+   "tenDayDu": "Mật mía tự nhiên",
+   "loai": "Khác",
+   "gia": 75000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/z7345795778459_e0f3fe80ede4c7bf6fbf0a1e30e8321d_1__b65112d98e194e17b360b3662c147593.jpg",
+   "moTa": "Khối lượng: 500ml Nguồn Năng Lượng Sạch: Cung cấp năng lượng tức thì cho cơ thể từ carbohydrate tự nhiên. Bổ Sung Khoáng Chất: Đóng góp một phần nhỏ các khoáng chất vi lượng quan trọng cho sức khỏe. Hương Vị Phong Phú: Làm tăng thêm hương vị đậm đà, tự nhiên cho các món ăn, thức uống, từ pha chế cà phê, trà, sinh tố đế",
+   "moTaDayDu": "Khối lượng: 500ml Nguồn Năng Lượng Sạch: Cung cấp năng lượng tức thì cho cơ thể từ carbohydrate tự nhiên. Bổ Sung Khoáng Chất: Đóng góp một phần nhỏ các khoáng chất vi lượng quan trọng cho sức khỏe. Hương Vị Phong Phú: Làm tăng thêm hương vị đậm đà, tự nhiên cho các món ăn, thức uống, từ pha chế cà phê, trà, sinh tố đến làm bánh, nấu chè, hoặc các món mặn. Lựa Chọn Lành Mạnh Hơn: Giúp bạn giảm bớt gánh nặng hóa chất và tăng cường dưỡng chất trong chế độ ăn hàng ngày so với việc sử dụng đường tinh luyện.",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "mat-mia-tu-nhien.jpg",
+   "anhAlt": "Mật mía tự nhiên — sản phẩm tại IKI",
+   "h1": "Mật mía tự nhiên",
+   "seoTitle": "Mật mía tự nhiên — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Mật mía tự nhiên"
+  },
+  {
+   "slug": "duong-mia-tho-tu-nhien",
+   "ten": "Đường mía thô tự nhiên",
+   "tenDayDu": "Đường mía thô tự nhiên",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 150000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/z7346002685376_ab8b6bbd9532fbdfa0e8be680c2b745e_0afe958229e24468a6e9e3943ca665ad.jpg",
+   "moTa": "Khối lượng 1kg Nguồn Năng Lượng Sạch: Cung cấp năng lượng tức thì cho cơ thể từ carbohydrate tự nhiên. Bổ Sung Khoáng Chất: Đóng góp một phần nhỏ các khoáng chất vi lượng quan trọng cho sức khỏe. Hương Vị Phong Phú: Làm tăng thêm hương vị đậm đà, tự nhiên cho các món ăn, thức uống, từ pha chế cà phê, trà, sinh tố đến l",
+   "moTaDayDu": "Khối lượng 1kg Nguồn Năng Lượng Sạch: Cung cấp năng lượng tức thì cho cơ thể từ carbohydrate tự nhiên. Bổ Sung Khoáng Chất: Đóng góp một phần nhỏ các khoáng chất vi lượng quan trọng cho sức khỏe. Hương Vị Phong Phú: Làm tăng thêm hương vị đậm đà, tự nhiên cho các món ăn, thức uống, từ pha chế cà phê, trà, sinh tố đến làm bánh, nấu chè, hoặc các món mặn. Lựa Chọn Lành Mạnh Hơn: Giúp bạn giảm bớt gánh nặng hóa chất và tăng cường dưỡng chất trong chế độ ăn hàng ngày so với việc sử dụng đường tinh luyện.",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "duong-mia-tho-tu-nhien.jpg",
+   "anhAlt": "Đường mía thô tự nhiên — sản phẩm tại IKI",
+   "h1": "Đường mía thô tự nhiên",
+   "seoTitle": "Đường mía thô tự nhiên — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Đường mía thô tự nhiên"
+  },
+  {
+   "slug": "kem-danh-rang-thao-moc-siri-siri-sudanta",
+   "ten": "Kem đánh răng thảo mộc Siri Siri SUDANTA",
+   "tenDayDu": "Kem đánh răng thảo mộc Siri Siri SUDANTA",
+   "loai": "Kem đánh răng",
+   "gia": 75000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/kem-danh-rang-sudanta_4e29fca9bd8840e0ba18676526dc1fd9.jpg",
+   "moTa": "Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA – Sức Mạnh Từ Thiên Nhiên Cho Nụ Cười Rạng Rỡ & Hơi Thở Thơm Mát Khối lượng : 100g Khám phá bí quyết chăm sóc răng miệng toàn diện từ thiên nhiên với Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA, một sản phẩm độc đáo kết hợp tinh hoa y học cổ truyền và công nghệ hiện đại. Được bào c",
+   "moTaDayDu": "Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA – Sức Mạnh Từ Thiên Nhiên Cho Nụ Cười Rạng Rỡ & Hơi Thở Thơm Mát Khối lượng : 100g Khám phá bí quyết chăm sóc răng miệng toàn diện từ thiên nhiên với Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA, một sản phẩm độc đáo kết hợp tinh hoa y học cổ truyền và công nghệ hiện đại. Được bào chế từ các loại thảo mộc quý hiếm, SUDANTA mang đến trải nghiệm làm sạch nhẹ nhàng, cho hơi thở thơm mát và cảm giác sạch sẽ dài lâu. Điểm Nổi Bật & Thành Phần Chính: Siri Siri SUDANTA là sự pha trộn tinh tế của các chiết xuất thảo mộc quen thuộc trong chăm sóc răng miệng truyền thống: Neem (Azadirachta indica): Thảo mộc được dùng lâu đời trong chăm sóc răng miệng của người Ấn Độ, cho cảm giác sạch và se dịu. Chiết xuất Đinh Hương (Syzygium aromaticum): Hương thơm ấm đặc trưng, mang lại cảm giác dễ chịu và hơi thở thơm mát dài lâu. Bạc Hà (Mentha arvensis): Tạo cảm giác sảng khoái tức thì, giúp hơi thở thơm tho và sạch sẽ sau mỗi lần đánh răng. Gừng (Zingiber officinale): Vị ấm nhẹ, góp phần cho cảm giác khoang miệng sạch và dễ chịu. Cùng các thảo mộc quý khác: Được lựa chọn cẩn thận để tạo nên công thức làm sạch dịu nhẹ mỗi ngày. Điểm Cộng Khi Dùng Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA: Làm Sạch Sâu & Loại Bỏ Mảng Bám: Các thành phần tự nhiên nhẹ nhàng loại bỏ mảng bám, cặn thức ăn, giúp răng sạch bóng mà không làm mòn men răng. Dịu Nhẹ Với Men Răng: Công thức không chứa hạt mài mạnh, làm sạch nhẹ nhàng trong thói quen chải răng hằng ngày. Cảm Giác Dễ Chịu Cho Nướu: Chiết xuất thảo mộc cho cảm giác se dịu, thoải mái sau mỗi lần chải răng. Hơi Thở Thơm Mát Tự Nhiên: Sự kết hợp của bạc hà, đinh hương và các thảo mộc khác mang lại hơi thở thơm mát dễ chịu suốt cả ngày, giúp bạn tự tin trong mọi giao tiếp. Không Chứa Hóa Chất Độc Hại: Công thức tự nhiên, không chứa Fluoride*, Paraben, Triclosan hay các hóa chất tạo bọt mạnh, an toàn cho cả gia đình, kể cả trẻ em (với sự giám sát của người lớn). Cảm Giác Sảng Khoái & Tươi Mát: Trải nghiệm cảm giác sạch sẽ và tươi mới từ thiên nhiên sau mỗi lần đánh răng. Hướng Dẫn Sử Dụng: Sử dụng một lượng kem vừa đủ lên bàn chải đánh răng. Đánh răng nhẹ nhàng trong 2-3 phút, ít nhất 2 lần mỗi ngày (sáng và tối) hoặc sau mỗi bữa ăn. Súc miệng kỹ với nước sạch. Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA – lựa chọn cho một nụ cười rạng rỡ và hơi thở thơm mát tự nhiên, mỗi ngày!",
+   "thanhPhanText": "Chính: Siri Siri SUDANTA là sự pha trộn tinh tế của các chiết xuất thảo mộc quen thuộc trong chăm sóc răng miệng truyền thống: Neem (Azadirachta indica): Thảo mộc được dùng lâu đời trong chăm sóc răng miệng của người Ấn Độ, cho cảm giác sạch và se dịu. Chiết xuất Đinh Hương (Syzygium aromaticum): Hương thơm ấm đặc trưng, mang lại cảm giác dễ chịu và hơi thở thơm mát dài lâu. Bạc Hà (Mentha arvensis): Tạo cảm giác sảng khoái tức thì, giúp hơi thở thơm tho và sạch sẽ sau mỗi lần đánh răng. Gừng (Zingiber officinale): Vị ấm nhẹ, góp phần cho cảm giác khoang miệng sạch và dễ chịu. Cùng các thảo mộc quý khác: Được lựa chọn cẩn thận để tạo nên công thức làm sạch dịu nhẹ mỗi ngày. Điểm Cộng Khi Dùng Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA: Làm Sạch Sâu & Loại Bỏ Mảng Bám: Các thành phần tự nhiên nhẹ nhàng loại bỏ mảng bám, cặn thức ăn, giúp răng sạch bóng mà không làm mòn men răng. Dịu Nhẹ Với Men Răng: Công thức không chứa hạt mài mạnh, làm sạch nhẹ nhàng trong thói quen chải răng hằng ngày. Cảm Giác Dễ Chịu Cho Nướu: Chiết xuất thảo mộc cho cảm giác se dịu, thoải mái sau mỗi lần chải răng. Hơi Thở Thơm Mát Tự Nhiên: Sự kết hợp của bạc hà, đinh hương và các thảo mộc khác mang lại hơi thở thơm mát dễ chịu suốt cả ngày, giúp bạn tự tin trong mọi giao tiếp. Không Chứa Hóa Chất Độc Hại: Công thức tự nhiên, không chứa Fluoride*, Paraben, Triclosan hay các hóa chất tạo bọt mạnh, an toàn cho cả gia đình, kể cả trẻ em (với sự giám sát của người lớn). Cảm Giác Sảng Khoái & Tươi Mát: Trải nghiệm cảm giác sạch sẽ và tươi mới từ thiên nhiên sau mỗi lần đánh răng.",
+   "cachDung": [
+    "Sử dụng một lượng kem vừa đủ lên bàn chải đánh răng",
+    "Đánh răng nhẹ nhàng trong 2-3 phút, ít nhất 2 lần mỗi ngày (sáng và tối) hoặc sau mỗi bữa ăn",
+    "Súc miệng kỹ với nước sạch",
+    "Kem Đánh Răng Thảo Mộc Siri Siri SUDANTA – lựa chọn cho một nụ cười rạng rỡ và hơi thở thơm mát tự nhiên, mỗi ngày!"
+   ],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "kem-danh-rang-thao-moc-siri-siri-sudanta.jpg",
+   "anhAlt": "Kem đánh răng thảo mộc Siri Siri SUDANTA — sản phẩm tại IKI",
+   "h1": "Kem đánh răng thảo mộc Siri Siri SUDANTA",
+   "seoTitle": "Kem đánh răng thảo mộc Siri Siri SUDANTA — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Kem đánh răng thảo mộc Siri Siri SUDANTA"
+  },
+  {
+   "slug": "bot-cafe-iki",
+   "ten": "Bột Cafe IKI",
+   "tenDayDu": "Bột Cafe IKI",
+   "loai": "Đồ Thực Dưỡng",
+   "gia": 300000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/bot-cafe-iki_8ac2dc6c593246a5878bb7d70db44ec9.jpg",
+   "moTa": "Điểm Nổi Bật Của Bột Café IKI: 100% Hạt Cà Phê Nguyên Chất: Được chế biến từ những hạt cà phê Robusta hữu cơ chất lượng cao, không chứa hóa chất, thuốc trừ sâu hay chất bảo quản. Rang Xay Chuyên Biệt: Hạt cà phê được rang ở mức độ đặc biệt và xay mịn vừa phải, giữ trọn hương thơm và vị đậm đặc trưng của Robusta Việt Na",
+   "moTaDayDu": "Điểm Nổi Bật Của Bột Café IKI: 100% Hạt Cà Phê Nguyên Chất: Được chế biến từ những hạt cà phê Robusta hữu cơ chất lượng cao, không chứa hóa chất, thuốc trừ sâu hay chất bảo quản. Rang Xay Chuyên Biệt: Hạt cà phê được rang ở mức độ đặc biệt và xay mịn vừa phải, giữ trọn hương thơm và vị đậm đặc trưng của Robusta Việt Nam. Không Pha Trộn: Không độn bắp, đậu nành hay hương liệu. Bột cà phê giữ nguyên màu nâu tự nhiên và mùi thơm mộc của hạt rang. Nguồn Gốc Rõ Ràng: Nguyên liệu từ vùng trồng hữu cơ, canh tác không hoá chất. Hướng Dẫn Sử Dụng: Pha phin: Cho 2 - 3 thìa cà phê bột vào phin, làm ẩm bằng một chút nước sôi, đợi khoảng 1 phút cho bột nở đều rồi châm tiếp 60 - 80ml nước sôi và đậy nắp. Pha lạnh (cold brew): Cho 1 - 2 thìa bột vào 500ml nước lọc nguội, khuấy đều, đậy nắp và để ngăn mát 8 - 12 tiếng, sau đó lọc qua rây hoặc vải sạch rồi dùng. Có thể dùng đen, thêm sữa, sữa hạt hoặc đá tuỳ khẩu vị. Bảo Quản: Đậy kín sau khi mở, để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Lưu ý: Sản phẩm chứa caffeine, không dùng cho trẻ em, phụ nữ có thai và người nhạy cảm với caffeine.",
+   "thanhPhanText": "",
+   "cachDung": [
+    "Pha phin: Cho 2 - 3 thìa cà phê bột vào phin, làm ẩm bằng một chút nước sôi, đợi khoảng 1 phút cho bột nở đều rồi châm tiếp 60 - 80ml nước sôi và đậy nắp",
+    "Pha lạnh (cold brew): Cho 1 - 2 thìa bột vào 500ml nước lọc nguội, khuấy đều, đậy nắp và để ngăn mát 8 - 12 tiếng, sau đó lọc qua rây hoặc vải sạch rồi dùng",
+    "Có thể dùng đen, thêm sữa, sữa hạt hoặc đá tuỳ khẩu vị."
+   ],
+   "baoQuan": ". Rang Xay Chuyên Biệt: Hạt cà phê được rang ở mức độ đặc biệt và xay mịn vừa phải, giữ trọn hương thơm và vị đậm đặc trưng của Robusta Việt Nam. Không Pha Trộn: Không độn bắp, đậu nành hay hương liệu. Bột cà phê giữ nguyên màu nâu tự nhiên và mùi thơm mộc của hạt rang. Nguồn Gốc Rõ Ràng: Nguyên liệu từ vùng trồng hữu cơ, canh tác không hoá chất.",
+   "luuY": "Sản phẩm chứa caffeine, không dùng cho trẻ em, phụ nữ có thai và người nhạy cảm với caffeine.",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "bot-cafe-iki.jpg",
+   "anhAlt": "Bột Cafe IKI — sản phẩm tại IKI",
+   "h1": "Bột Cafe IKI",
+   "seoTitle": "Bột Cafe IKI — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Bột Cafe IKI"
+  },
+  {
+   "slug": "xi-dau-huu-co-thai-lan",
+   "ten": "Xì dầu hữu cơ Thái Lan",
+   "tenDayDu": "Xì dầu hữu cơ Thái Lan",
+   "loai": "Tương",
+   "gia": 100000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/anh_man_hinh_2025-12-20_luc_10.39.30_3ee7d36e6550478f99efdf9a2b6ef716.png",
+   "moTa": "Nước tương đậu nành hữu cơ Thái Lan (xì dầu) Thể tích: 300ml Xuất xứ: Thái Lan Thành phần: Được làm từ đậu nành, lúa mì và 100% nguyên liệu hữu cơ, đảm bảo chất lượng và an toàn. Sản phẩm đạt chứng nhận tiêu chuẩn hữu cơ từ liên minh Châu Âu và Canada . Lên men theo phương pháp tự nhiên, hương vị hơn 8 tháng.Theo công ",
+   "moTaDayDu": "Nước tương đậu nành hữu cơ Thái Lan (xì dầu) Thể tích: 300ml Xuất xứ: Thái Lan Thành phần: Được làm từ đậu nành, lúa mì và 100% nguyên liệu hữu cơ, đảm bảo chất lượng và an toàn. Sản phẩm đạt chứng nhận tiêu chuẩn hữu cơ từ liên minh Châu Âu và Canada . Lên men theo phương pháp tự nhiên, hương vị hơn 8 tháng.Theo công thức 3 không: 1. Không chất bảo quản 2. Không có màu nhân tạo 3. Không có bột ngọt Hướng dẫn sử dụng: Dùng để chấm, nêm nếm nấu các món thịt, cá,...với hương vị thơm ngon nguyên bản, êm dịu, thơm, ngon, thích hợp cho những người yêu thích sức khỏe, hoặc thực đơn lành mạnh. Dùng được cho bé từ trên 1 tuổi Hướng dẫn bảo quản: Bảo quản nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp",
+   "thanhPhanText": "Được làm từ đậu nành, lúa mì và 100% nguyên liệu hữu cơ, đảm bảo chất lượng và an toàn. Sản phẩm đạt chứng nhận tiêu chuẩn hữu cơ từ liên minh Châu Âu và Canada . Lên men theo phương pháp tự nhiên, hương vị hơn 8 tháng.Theo công thức 3 không: 1. Không chất",
+   "cachDung": [
+    "Dùng để chấm, nêm nếm nấu các món thịt, cá,...với hương vị thơm ngon nguyên bản, êm dịu, thơm, ngon, thích hợp cho những người yêu thích sức khỏe, hoặc thực đơn lành mạnh",
+    "Dùng được cho bé từ trên 1 tuổi"
+   ],
+   "baoQuan": "2. Không có màu nhân tạo 3. Không có bột ngọt",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "xi-dau-huu-co-thai-lan.png",
+   "anhAlt": "Xì dầu hữu cơ Thái Lan — sản phẩm tại IKI",
+   "h1": "Xì dầu hữu cơ Thái Lan",
+   "seoTitle": "Xì dầu hữu cơ Thái Lan — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Xì dầu hữu cơ Thái Lan"
+  },
+  {
+   "slug": "tuong-tamari-3-nam-homefood",
+   "ten": "Tương Tamari 3 Năm Homefood",
+   "tenDayDu": "Tương Tamari 3 Năm Homefood",
+   "loai": "Tương",
+   "gia": 260000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/tuong-tamari_b1c667a5032942dfac8c6995eaa81bf1.jpg",
+   "moTa": "Tương Tamari Homefood 300ml/500ml - Tinh hoa lên men tự nhiên Tương Tamari Homefood là loại tương lâu năm, được sản xuất từ đậu nành không biến đổi gen theo phương pháp truyền thống Ohsawa. Tamari được ủ lên men tự nhiên trong 3 năm, hoàn toàn không hóa chất, không chất bảo quản, không chất điều vị. Đây là gia vị lành,",
+   "moTaDayDu": "Tương Tamari Homefood 300ml/500ml - Tinh hoa lên men tự nhiên Tương Tamari Homefood là loại tương lâu năm, được sản xuất từ đậu nành không biến đổi gen theo phương pháp truyền thống Ohsawa. Tamari được ủ lên men tự nhiên trong 3 năm, hoàn toàn không hóa chất, không chất bảo quản, không chất điều vị. Đây là gia vị lành, làm món ăn dậy vị đậm đà và giàu dinh dưỡng. - Thành phần: Đậu nành, gạo nếp lứt, muối biển thiên nhiên, men Koji. - Công dụng: + Giàu dinh dưỡng – Hỗ trợ Cung cấp đạm thực vật, enzyme có lợi. + Lên men tự nhiên – Vị dịu, dễ dùng cho bữa ăn hằng ngày. + Giàu axit amin và khoáng chất tự nhiên. + Cân bằng cơ thể – Phù hợp với chế độ thực dưỡng Ohsawa. + Không biến đổi gen, không hóa chất – An toàn, thuần thiên nhiên. - Hướng dẫn sử dụng: + Làm nước chấm: Dùng trực tiếp để chấm rau củ, sushi, bánh xèo, cơm nắm... + Chế biến món ăn: Thêm vào xào, kho, hầm, súp, nấu canh thay thế nước mắm. + Nêm cùng các loại trà & đồ uống: Một chút vị mặn dịu để cân bằng hương vị. - Hướng dẫn bảo quản: + Đậy kín sau khi sử dụng. + Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. - Lưu ý: Không sử dụng sản phẩm nếu dị ứng với bất cứ thành phần nào của sản phẩm.",
+   "thanhPhanText": "Đậu nành, gạo nếp lứt, muối biển thiên nhiên, men Koji. -",
+   "cachDung": [
+    "Làm nước chấm: Dùng trực tiếp để chấm rau củ, sushi, bánh xèo, cơm nắm...",
+    "Chế biến món ăn: Thêm vào xào, kho, hầm, súp, nấu canh thay thế nước mắm.",
+    "Nêm cùng các loại trà & đồ uống: Một chút vị mặn dịu để cân bằng hương vị. -"
+   ],
+   "baoQuan": "+ Đậy kín sau khi sử dụng. + Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. -",
+   "luuY": "Không sử dụng sản phẩm nếu dị ứng với bất cứ",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "tuong-tamari-3-nam-homefood.jpg",
+   "anhAlt": "Tương Tamari 3 Năm Homefood — sản phẩm tại IKI",
+   "h1": "Tương Tamari 3 Năm Homefood",
+   "seoTitle": "Tương Tamari 3 Năm Homefood — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Tương Tamari 3 Năm Homefood"
+  },
+  {
+   "slug": "mang-hap-thu-song-dien-tu-eco-g9",
+   "ten": "MÀNG HẤP THU SÓNG ĐIỆN TỪ ECO G9",
+   "tenDayDu": "MÀNG HẤP THU SÓNG ĐIỆN TỪ ECO G9",
+   "loai": "Màng chắn sóng",
+   "gia": 199000,
+   "anhGoc": "https://cdn.hstatic.net/products/200001053789/4f476f6323b431c2dbf078163aca60c1.jpg_1f3bd472f22d4b10b0ddf7aa9a00fd9e.png",
+   "moTa": "CHẮN SÓNG ĐIỆN TỪ Khối lượng 10g Nghe tên là “cầu chì”, ai cũng tưởng liên quan đến điện lực EVN. Hỏi ra mới biết: nó thật ra là miếng dán hấp thụ sóng điện từ phát ra từ điện thoại, wifi, máy tính – những thứ mà hầu như cả ngày ta không rời được. 👉 Giải thích một cách vui nhưng dễ hiểu: Cầu chì điện thì “cháy” trước ",
+   "moTaDayDu": "CHẮN SÓNG ĐIỆN TỪ Khối lượng 10g Nghe tên là “cầu chì”, ai cũng tưởng liên quan đến điện lực EVN. Hỏi ra mới biết: nó thật ra là miếng dán hấp thụ sóng điện từ phát ra từ điện thoại, wifi, máy tính – những thứ mà hầu như cả ngày ta không rời được. 👉 Giải thích một cách vui nhưng dễ hiểu: Cầu chì điện thì “cháy” trước để bảo vệ thiết bị. Cầu chì bảo vệ sức khỏe cũng tương tự: khi mức bức xạ điện từ quá lớn, nó sẽ “hy sinh” trước. Biểu hiện nhìn bằng mắt thường: màng lọc của nó chuyển đen. Vậy là nó “ăn sóng hại” thay cho chúng ta! Điều thú vị hơn nữa là sản phẩm này còn được mua bảo hiểm cháy nổ tới 1 tỷ đồng, đủ thấy sự minh bạch và trách nhiệm của nhà sản xuất. Phía sau sản phẩm là một câu chuyện đẹp: một vị giáo sư đã dành cả chục năm tạo công ăn việc làm cho người khuyết tật. Và thường thì, một người tốt, sản phẩm họ làm ra cũng tốt, cũng có ích cho cộng đồng. 💡 Từ góc nhìn Y học lối sống, việc giảm tiếp xúc với bức xạ điện từ là một bước nhỏ nhưng có ý nghĩa trong việc hạn chế bớt yếu tố gây khó ngủ, căng thẳng trong sinh hoạt hằng ngày. Đây là một thói quen chăm sóc sức khỏe chủ động từ sớm. Ngay cả nghệ sĩ, diễn viên, hay viên chức nhà nước cũng đều dùng một sản phẩm nghe tên hơi... ngộ nghĩnh – “Cầu chì bảo vệ sức khỏe” của GS TS thầy Trần Văn Tín. Vậy nên, rất khuyến khích mỗi gia đình nên có ít nhất 2–3 cái. Một cái thôi thì hơi ít, vì sóng điện từ “ở khắp nơi”, từ phòng khách đến phòng ngủ, từ văn phòng đến nhà bếp :)) ✨ Thay đổi nhỏ – hiệu quả lớn. ✨ Một chiếc cầu chì bảo vệ, một sự an tâm cho sức khỏe cả nhà.",
+   "thanhPhanText": "",
+   "cachDung": [],
+   "baoQuan": "",
+   "luuY": "",
+   "an": true,
+   "laTPBS": false,
+   "nguon": "haravan",
+   "anh": "mang-hap-thu-song-dien-tu-eco-g9.png",
+   "anhAlt": "MÀNG HẤP THU SÓNG ĐIỆN TỪ ECO G9 — sản phẩm tại IKI",
+   "h1": "Màng Hấp Thu Sóng Điện Từ Eco G9",
+   "seoTitle": "Màng Hấp Thu Sóng Điện Từ Eco G9 — thông tin sản phẩm | IKI Beauty & Wellness",
+   "tuKhoa": "Màng Hấp Thu Sóng Điện Từ Eco G9"
+  }
+ ]
 }
