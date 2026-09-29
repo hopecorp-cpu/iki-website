@@ -15,6 +15,9 @@
  */
 (function () {
   var KHOA = "iki_nguon", HAN = 90 * 864e5, API = "hope-ops-hub.vercel.app";
+  // Cửa nhận lead/đơn NGAY TRÊN TRANG (4 sale page gọi /api/lead, /api/create-payment của chính nó
+  // rồi mới chuyển tiếp sang Ops Hub) — không bắt ở đây thì sale page mãi không có nguồn.
+  var CUA_NOI_BO = /\/api\/(lead|leads|order|dat-hang|create-payment|quiz-submit|ebook-lead|web-lead|blog-lead)/;
   function host(u) { try { return new URL(u).hostname.replace(/^www\./, ""); } catch (e) { return ""; } }
   function q(k) { try { return new URLSearchParams(location.search).get(k) || ""; } catch (e) { return ""; } }
 
@@ -65,7 +68,7 @@
     window.fetch = function (u, o) {
       try {
         var url = typeof u === "string" ? u : (u && u.url) || "";
-        if (o && o.body && typeof o.body === "string" && url.indexOf(API) >= 0) {
+        if (o && o.body && typeof o.body === "string" && (url.indexOf(API) >= 0 || CUA_NOI_BO.test(url))) {
           var b = JSON.parse(o.body);
           if (b && typeof b === "object" && (!b.nguon || (maCtv && !b.ma_ctv && url.indexOf("quiz-pay/create") >= 0))) {
             if (!b.nguon) b.nguon = khoi();
@@ -83,7 +86,8 @@
   document.addEventListener("submit", function (ev) {
     try {
       var f = ev.target;
-      if (!f || f.tagName !== "FORM" || String(f.action || "").indexOf(API) < 0) return;
+      var act = String(f.action || "");
+      if (!f || f.tagName !== "FORM" || (act.indexOf(API) < 0 && !CUA_NOI_BO.test(act))) return;
       if (f.querySelector('input[name="nguon"]')) return;
       var i = document.createElement("input");
       i.type = "hidden"; i.name = "nguon";
