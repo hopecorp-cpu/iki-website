@@ -58,9 +58,17 @@ function orphanArticles(plan) {
   }
   return out;
 }
+// Bài đã CHUYỂN HƯỚNG (chuyen-huong.json: slug cũ → slug mới). Slug cũ bỏ khỏi orphanArticles, hub danh
+// mục, search-index, sitemap và llms.txt — trang blog/<slug-cũ>.html chỉ còn là trang chuyển hướng.
+const CHUYEN_HUONG = (() => {
+  const p = path.join(ROOT, "chuyen-huong.json");
+  if (!fs.existsSync(p)) return {};
+  try { return JSON.parse(fs.readFileSync(p, "utf8")) || {}; }
+  catch (e) { console.warn("  ! chuyen-huong.json hỏng, bỏ qua:", e.message); return {}; }
+})();
 function loadPlan() {
   const plan = JSON.parse(fs.readFileSync(path.join(ROOT, "content-plan.json"), "utf8"));
-  plan.articles = [...(plan.articles || []), ...orphanArticles(plan)];
+  plan.articles = [...(plan.articles || []), ...orphanArticles(plan)].filter((a) => !(a.slug in CHUYEN_HUONG));
   return plan;
 }
 function draftMeta(slug) {
@@ -598,6 +606,12 @@ function updateSitemap(plan) {
     const m = khoi.match(/\/blog\/([a-z0-9-]+)\.html/);
     if (!m || !videoTheoSlug[m[1]]) return khoi;
     return khoi.replace("</url>", `${theVideo(m[1])}\n  </url>`);
+  });
+
+  // Bài đã chuyển hướng: bỏ hẳn <url> của slug cũ, kể cả dòng nối tay ngoài khối tự sinh.
+  xml = xml.replace(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>\n?/g, (khoi) => {
+    const m = khoi.match(/\/blog\/([a-z0-9-]+)\.html/);
+    return m && m[1] in CHUYEN_HUONG ? "" : khoi;
   });
 
   // DỌN TRÙNG: sitemap đang có 213/783 địa chỉ lặp hai lần (khối tự sinh ở đây, cộng với <url>
