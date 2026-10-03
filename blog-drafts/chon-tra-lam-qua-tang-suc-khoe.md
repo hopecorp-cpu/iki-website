@@ -197,7 +197,7 @@ Hộp trà này hợp làm quà cho người thích một nghi thức nhỏ bu�
 
 ### Trà Tuệ Minh: hộp trà cho bàn làm việc ban ngày
 
-[Trà Tuệ Minh](https://tra.ikihealing.com) là trà thảo mộc túi lọc do HTX Nam Dược Tản Viên Sơn sản xuất, giá niêm yết 162.000đ một hộp (đã gồm VAT). Pha với nước 90-95 độ, hãm 5-7 phút, hợp uống ấm vào buổi sáng hoặc giữa chiều.
+[Trà Tuệ Minh](https://tra.ikihealing.com) là trà thảo mộc túi lọc do HTX Nam Dược Tản Viên Sơn sản xuất, giá niêm yết 168.000đ một hộp (đã gồm VAT). Pha với nước 90-95 độ, hãm 5-7 phút, hợp uống ấm vào buổi sáng hoặc giữa chiều.
 
 Hộp nhỏ gọn nên hợp làm quà cho đồng nghiệp, sếp, khách hàng hoặc bố mẹ quen có cốc trà ấm bên cạnh khi đọc báo buổi sáng. Tặng kèm một chiếc cốc giữ nhiệt là thành một bộ quà văn phòng rất tiện.
 

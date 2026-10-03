@@ -124,7 +124,7 @@ Giá ghi trên hộp gần như vô nghĩa nếu không quy về đơn vị dùn
 
 Cách tính rất gọn: lấy giá hộp chia cho số lần pha. Với trà túi lọc, số lần pha là số túi (một số loại pha lại được lần hai với vị nhạt hơn). Với trà rời, ước lượng bằng khối lượng chia cho lượng dùng mỗi lần, thường khoảng hai tới ba gam cho một tách hai trăm mililít.
 
-Ví dụ cho dễ hình dung: một hộp 162.000đ có hai mươi túi lọc thì giá mỗi tách khoảng 8.100đ. Một hộp nhập khẩu 320.000đ có hai mươi lăm túi thì mỗi tách khoảng 12.800đ. Con số ấy mới là thứ đáng đem ra so, và đáng so tiếp với ly nước ngọt hoặc cốc cà phê mà tách trà này thay thế trong ngày của bạn.
+Ví dụ cho dễ hình dung: một hộp 168.000đ có hai mươi túi lọc thì giá mỗi tách khoảng 8.400đ. Một hộp nhập khẩu 320.000đ có hai mươi lăm túi thì mỗi tách khoảng 12.800đ. Con số ấy mới là thứ đáng đem ra so, và đáng so tiếp với ly nước ngọt hoặc cốc cà phê mà tách trà này thay thế trong ngày của bạn.
 
 Giá trà nhập khẩu cao hơn không tự động nghĩa là nguyên liệu tốt hơn. Trong con số đó có cước vận chuyển quốc tế, thuế nhập khẩu, chi phí nhà phân phối và chi phí thương hiệu — những khoản không nằm trong tách trà bạn uống. Ngược lại, trà trong nước rẻ hơn cũng không tự động nghĩa là nguyên liệu kém; nó có thể chỉ đơn giản là đường ngắn hơn nên ít chi phí trung gian hơn.
 

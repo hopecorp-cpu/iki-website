@@ -112,7 +112,7 @@ Một tách trà vị dịu ở khung giờ này làm được hai việc rất 
 
 **Vị hợp khung giờ này** thường là những vị dịu vừa, không quá nồng: hoa cúc là lựa chọn quen thuộc nhất và dễ mua nhất; nếu bạn muốn hiểu về loại này trước khi mua, xem [trà hoa cúc có tác dụng gì, uống lúc nào](tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao.html). Trà túi lọc thảo mộc cũng rất hợp vì bạn pha được ngay tại bàn làm việc mà không cần ấm chén.
 
-Trong nhóm trà túi lọc, [Trà Tuệ Minh](https://tra.ikihealing.com) là sản phẩm chúng tôi làm cùng HTX Nam Dược Tản Viên Sơn, dạng túi lọc, giá niêm yết 162.000đ đã gồm VAT. Chúng tôi giới thiệu nó đúng ở chỗ nó hợp: một thức uống thảo mộc tiện pha cho khung giờ làm việc ban ngày, khi bạn cần một tách gì đó ấm mà không muốn thêm cà phê. Nếu bạn làm văn phòng và muốn có vài phương án so sánh, [chọn trà thảo mộc cho dân văn phòng](chon-tra-thao-moc-cho-dan-van-phong.html) đặt các lựa chọn cạnh nhau chi tiết hơn.
+Trong nhóm trà túi lọc, [Trà Tuệ Minh](https://tra.ikihealing.com) là sản phẩm chúng tôi làm cùng HTX Nam Dược Tản Viên Sơn, dạng túi lọc, giá niêm yết 168.000đ đã gồm VAT. Chúng tôi giới thiệu nó đúng ở chỗ nó hợp: một thức uống thảo mộc tiện pha cho khung giờ làm việc ban ngày, khi bạn cần một tách gì đó ấm mà không muốn thêm cà phê. Nếu bạn làm văn phòng và muốn có vài phương án so sánh, [chọn trà thảo mộc cho dân văn phòng](chon-tra-thao-moc-cho-dan-van-phong.html) đặt các lựa chọn cạnh nhau chi tiết hơn.
 
 ## Cuối chiều đến tối: chọn vị nhẹ và chọn đúng giờ
 
