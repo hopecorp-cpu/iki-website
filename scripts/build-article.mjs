@@ -29,6 +29,13 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const SITE = "https://ikihealing.com";
 const PLAN = JSON.parse(fs.readFileSync(path.join(ROOT, "content-plan.json"), "utf8"));
+// Slug trong chuyen-huong.json đã có trang stub (canonical + refresh). Dựng lại từ .md sẽ đè stub.
+const CHUYEN_HUONG = (() => {
+  const p = path.join(ROOT, "chuyen-huong.json");
+  if (!fs.existsSync(p)) return {};
+  try { return JSON.parse(fs.readFileSync(p, "utf8")) || {}; }
+  catch (e) { console.warn("  ! chuyen-huong.json hỏng, bỏ qua:", e.message); return {}; }
+})();
 
 // Khung cuối bài (MKT-03, 03/10/2026). Câu A/B/C chép nguyên văn bản Thương hiệu đã duyệt — KHÔNG sửa chữ.
 // fm.khuyen_cao: mảng khoá ("dam" → câu A, "thanh-huong" → câu C); khoá lạ → dừng build.
@@ -475,6 +482,10 @@ function buildOne(srcPath) {
   const raw = fs.readFileSync(srcPath, "utf8");
   const { fm, body } = parseSource(raw);
   if (!fm.slug) throw new Error(`${srcPath}: thiếu "slug"`);
+  if (fm.slug in CHUYEN_HUONG) {
+    console.log(`↷ ${fm.slug}: đã chuyển hướng → ${CHUYEN_HUONG[fm.slug]}, giữ stub, không dựng lại`);
+    return null;
+  }
   const outDir = path.join(ROOT, "blog");
   fs.mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, `${fm.slug}.html`);
@@ -541,7 +552,10 @@ function main() {
   }
   if (!files.length) { console.error("Không có file nguồn trong blog-drafts/."); process.exit(1); }
   const daDung = [];
-  for (const f of files) daDung.push(buildOne(path.isAbsolute(f) ? f : path.join(ROOT, f)));
+  for (const f of files) {
+    const r = buildOne(path.isAbsolute(f) ? f : path.join(ROOT, f));
+    if (r) daDung.push(r);
+  }
   ghiVaoPlan(daDung);
   buildStructure();
 }

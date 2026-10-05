@@ -72,7 +72,6 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Thiếu kẽm nên ăn gì: thực phẩm giàu kẽm và cách hấp thu tốt hơn](https://ikihealing.com/blog/kem-va-thuc-pham-giau-kem.html): Thiếu kẽm nên ăn gì? Danh sách thực phẩm giàu kẽm quen thuộc, nhu cầu kẽm mỗi ngày, dấu hiệu gợi ý thiếu kẽm và những mẹo giúp cơ thể hấp thu kẽm tốt hơn từ bữa ăn Việt.
 - [Omega-3 từ thực vật: nguồn nào đủ cho người ăn chay](https://ikihealing.com/blog/omega-3-tu-thuc-vat.html): Omega-3 từ thực vật cho người ăn chay lấy ở đâu? Phân biệt ALA, EPA, DHA, vì sao tỉ lệ chuyển đổi thấp, các nguồn hạt lanh hạt chia óc chó và vai trò của dầu tảo.
 - [Cách làm sữa hạt tại nhà: tỉ lệ chuẩn, công thức và lưu ý](https://ikihealing.com/blog/sua-hat-tu-lam-tai-nha.html): Cách làm sữa hạt tại nhà đúng tỉ lệ hạt và nước, quy trình năm bước, năm công thức quen thuộc, cách bảo quản, và câu trả lời thật về hàm lượng đạm trong sữa hạt.
-- [Trà thảo mộc uống ấm mỗi ngày: cách chọn và gợi ý Trà Tuệ Minh](https://ikihealing.com/blog/tra-thao-moc-tue-minh.html): Chọn trà thảo mộc uống ấm mỗi ngày thế nào? Tiêu chí nguyên liệu, hương vị, thời điểm uống, so sánh các nhóm trà thảo mộc và Trà Tuệ Minh - trà túi lọc thảo mộc Việt cho nếp uống hằng ngày.
 - [Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương](https://ikihealing.com/blog/tra-thanh-huong-thu-gian.html): Chọn thức uống thảo mộc thư giãn cho buổi tối: tiêu chí trà thơm dịu, vai trò hương thơm trong nghi thức nghỉ ngơi, và Trà Thanh Hương - trà túi lọc hoa nhài, phục linh, hoa quế, trần bì.
 - [Hara hachi bu: bí quyết ăn no 80% của người Nhật](https://ikihealing.com/blog/an-no-80-phan-tram-hara-hachi-bu.html): Hara hachi bu là thói quen ăn dừng lại khi no khoảng 80% của người Nhật. Hiểu ý nghĩa, vì sao nó giúp bữa ăn nhẹ nhàng hơn và cách áp dụng vào mâm cơm Việt.
 - [Chế độ ăn Okinawa: bài học từ vùng đất trường thọ](https://ikihealing.com/blog/che-do-an-okinawa-truong-tho.html): Chế độ ăn Okinawa nổi tiếng với nhiều rau củ, đậu và ăn điều độ. Tìm hiểu đặc điểm cốt lõi và cách vận dụng tinh thần ăn uống này vào mâm cơm Việt hằng ngày.
@@ -396,7 +395,6 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Thực phẩm mùa lạnh: ăn gì cho ấm bụng, đủ chất](https://ikihealing.com/blog/thuc-pham-mua-lanh.html)
 - [Thực phẩm giúp tăng sinh collagen tự nhiên: ăn gì mỗi ngày](https://ikihealing.com/blog/thuc-pham-tang-sinh-collagen-tu-nhien.html)
 - [Trà Thanh Hương là gì? Bốn vị thảo mộc, hương vị và cách pha buổi tối](https://ikihealing.com/blog/tra-thanh-huong-la-gi.html)
-- [Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng](https://ikihealing.com/blog/tra-tue-minh-la-gi.html)
 - [Trái cây theo mùa ở Việt Nam: ăn đúng mùa vừa ngon vừa tươi](https://ikihealing.com/blog/trai-cay-theo-mua-o-viet-nam.html)
 - [Trào ngược dạ dày và thói quen ăn uống: góc nhìn dưỡng sinh](https://ikihealing.com/blog/trao-nguoc-da-day.html)
 - [True Vegan Protein Pro là gì? Thành phần, cách pha và ai hợp dùng](https://ikihealing.com/blog/true-vegan-protein-la-gi.html)

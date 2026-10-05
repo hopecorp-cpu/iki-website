@@ -327,7 +327,7 @@ export function buildStructure() {
   // ---------- INDEX (theo chặng + sidebar + CTA) ----------
   const catNav = `<nav class="cat-nav"><a href="lo-trinh.html">Lộ trình</a><a href="moi-quan-tam.html">Theo mối quan tâm</a>${plan.categories.filter((c) => c.slug !== "lo-trinh").map((c) => `<a href="danh-muc-${c.slug}.html">${esc(c.name)}</a>`).join("")}<a href="cam-nhan-cong-dong.html">Cảm nhận cộng đồng</a><a href="tat-ca-bai-viet.html">Tất cả bài viết</a></nav>`;
   const chapters = (plan.chapters || []).map((ch) =>
-    `<section class="chapter"><div class="ch-head"><h2>${esc(ch.title)}</h2>${ch.desc ? `<p>${esc(ch.desc)}</p>` : ""}</div><div class="chip-grid">${ch.items.map((it) => chipCard(it.slug, it.tier, tmap)).join("")}</div></section>`
+    `<section class="chapter"><div class="ch-head"><h2>${esc(ch.title)}</h2>${ch.desc ? `<p>${esc(ch.desc)}</p>` : ""}</div><div class="chip-grid">${ch.items.filter((it) => !(it.slug in CHUYEN_HUONG)).map((it) => chipCard(it.slug, it.tier, tmap)).join("")}</div></section>`
   ).join("");
   const sidebar = `<aside class="blog-side">
       <div class="side-box side-cats"><div class="side-title">Danh mục</div><ul>${plan.categories.map((c) => `<li><a href="${c.slug === "lo-trinh" ? "lo-trinh.html" : `danh-muc-${c.slug}.html`}">${esc(c.name)}</a><span>${catCount(c.slug)}</span></li>`).join("")}</ul></div>
@@ -435,7 +435,7 @@ export function buildStructure() {
   const concerns = Array.isArray(plan.concerns) ? plan.concerns : [];
   const catOf = (slug) => { const a = plan.articles.find((x) => x.slug === slug); return a ? catName(a.category) : ""; };
   const concernSections = concerns.map((g) => {
-    const cards = (g.items || []).filter((s) => isPublished(s)).map((s) => imgCard({ slug: s, title: (tmap[s] || s) }, catOf(s))).join("");
+    const cards = (g.items || []).filter((s) => isPublished(s) && !(s in CHUYEN_HUONG)).map((s) => imgCard({ slug: s, title: (tmap[s] || s) }, catOf(s))).join("");
     if (!cards) return "";
     return `<section class="cat-section"><div class="ch-head" style="text-align:center;margin-bottom:14px"><h2>${esc(g.name)}</h2>${g.desc ? `<p>${esc(g.desc)}</p>` : ""}</div><div class="blog-grid">${cards}</div></section>`;
   }).join("");
