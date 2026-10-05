@@ -138,7 +138,7 @@ Vì phần lớn nguyên nhân bắt đầu từ tối hôm trước, buổi t�
 
 **Giữ đủ đạm ở bữa tối mà không cần đồ mặn.** Nhiều người về muộn chọn mì gói hay đồ ăn nhanh chỉ vì tiện, trong khi đó lại là những món nhiều muối nhất. Một bát canh đậu hũ, một đĩa trứng hấp, một phần đậu luộc, hoặc một ly [đạm thực vật](https://trueveganprotein.com) pha với sữa hạt không đường vào những tối quá bận là cách giữ bữa tối đủ chất mà nhẹ vị. Điều quan trọng là bữa tối không mặn, chứ không phải bữa tối phải cầu kỳ.
 
-**Dừng rượu bia sớm hoặc thay bằng một thức uống ấm.** Nếu bạn có thói quen uống một lon bia cho thư giãn sau giờ làm, hãy thử thay bằng một tách trà thảo mộc ấm trong vài tối và để ý buổi sáng. Nhiều chị em chọn [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) với hương hoa nhài, hoa quế và trần bì cho khoảnh khắc thư thả buổi tối, vì cầm một tách trà ấm là tín hiệu nhẹ nhàng rằng một ngày đã khép lại. Chỉ nên uống một tách nhỏ và uống sớm để khỏi phải thức dậy giữa đêm.
+**Dừng rượu bia sớm hoặc thay bằng một thức uống ấm.** Nếu bạn có thói quen uống một lon bia cho thư giãn sau giờ làm, hãy thử thay bằng một tách trà thảo mộc ấm trong vài tối và để ý buổi sáng. [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) với hương hoa nhài, hoa quế và trần bì là một lựa chọn cho khoảnh khắc thư thả buổi tối, vì cầm một tách trà ấm là tín hiệu nhẹ nhàng rằng một ngày đã khép lại. Chỉ nên uống một tách nhỏ và uống sớm để khỏi phải thức dậy giữa đêm.
 
 **Uống nước rải đều, bớt dồn vào buổi tối.** Chia phần lớn lượng nước trong ngày vào buổi sáng và buổi chiều. Trong khoảng một giờ trước khi ngủ, vài ngụm nhỏ khi khát là đủ.
 

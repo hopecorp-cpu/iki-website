@@ -138,7 +138,7 @@ Nhiều người thực sự không có lựa chọn khác. Trong trường hợ
 - Chọn bài cường độ vừa hoặc nhẹ: đi bộ nhanh, yoga, giãn cơ, đạp xe nhẹ — thay vì HIIT hay tập nặng.
 - Dành 10 phút cuối buổi để hạ nhiệt: đi bộ chậm, thở sâu, giãn cơ tĩnh.
 - Tắm nước ấm sau khi tập. Nghe có vẻ ngược đời, nhưng tắm ấm giúp cơ thể toả nhiệt ra ngoài và hạ thân nhiệt lõi nhanh hơn.
-- Giảm ánh sáng và màn hình sau buổi tập. Một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) là cách nhiều người dùng để đánh dấu chuyển sang chế độ nghỉ.
+- Giảm ánh sáng và màn hình sau buổi tập. Một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) là một cách để đánh dấu chuyển sang chế độ nghỉ.
 
 Bài [giấc ngủ chất lượng](giac-ngu-chat-luong.html) và [khó ngủ trằn trọc: nếp buổi tối](kho-ngu-tran-troc-nep-buoi-toi.html) có thêm các bước cụ thể nếu bạn đang gặp vấn đề với việc vào giấc.
 

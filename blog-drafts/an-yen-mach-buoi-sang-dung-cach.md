@@ -113,7 +113,7 @@ Lý do phổ biến nhất khiến người ta bỏ yến mạch không phải v
 
 **Yến mạch mặn — cho người không thích đồ ngọt buổi sáng.** Đây là cách nhiều người Việt thấy hợp khẩu vị nhất nhưng ít ai nghĩ tới. Nấu yến mạch với nước dùng nhạt như nấu cháo, thêm trứng, rau xanh thái nhỏ, hành lá, một chút tiêu. Kết quả gần giống một bát cháo quen thuộc, dễ ăn hơn hẳn với người lớn tuổi.
 
-Với cả ba cách, một tách [trà thảo mộc ấm](https://tra.ikihealing.com) đi kèm là thói quen dễ chịu để bắt đầu ngày mới, đồng thời giúp bạn nạp thêm một phần nước ngay từ sáng.
+Với cả ba cách, một tách trà thảo mộc ấm đi kèm là thói quen dễ chịu để bắt đầu ngày mới, đồng thời giúp bạn nạp thêm một phần nước ngay từ sáng.
 
 ## Yến mạch cho từng nhóm người
 

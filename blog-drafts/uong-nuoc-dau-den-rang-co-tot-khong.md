@@ -168,7 +168,7 @@ Một cách sắp xếp dễ theo cho cả tuần:
 - **Nền:** nước lọc, uống ấm hoặc nhiệt độ phòng, rải đều cả ngày.
 - **Vài ngày trong tuần:** một cốc nước đậu đen rang sau bữa trưa.
 - **Ngày khác:** nước ngô luộc, nước gạo lứt rang, hoặc đơn giản là nước lọc thêm vài lát chanh.
-- **Buổi sáng, khi muốn thứ gì đó ấm mà không phải cà phê:** một loại trà thảo mộc uống ban ngày như [Trà Tuệ Minh](https://tra.ikihealing.com), hoặc xem thêm gợi ý trong bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html).
+- **
 - **Buổi tối, khi muốn chậm lại:** một cốc trà thảo mộc dịu như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) cho nếp thư giãn trước giờ ngủ.
 - **Ngày trời trở lạnh hoặc người đang mệt:** ưu tiên đồ ấm, tạm gác thức uống mát.
 

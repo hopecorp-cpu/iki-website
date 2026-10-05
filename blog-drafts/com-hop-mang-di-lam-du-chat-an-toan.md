@@ -146,7 +146,7 @@ Phần đồ uống thường bị bỏ qua nhưng ảnh hưởng rõ đến bu�
 
 Nước lọc vẫn là nền tảng. Một chai 500ml để trên bàn và uống rải trong buổi sáng sẽ hiệu quả hơn việc uống dồn một lúc sau bữa trưa.
 
-Sau bữa trưa, nhiều người theo phản xạ gọi ngay ly cà phê thứ hai hoặc thứ ba trong ngày. Nếu bạn thuộc nhóm nhạy cảm với caffeine hoặc hay khó ngủ buổi tối, việc chuyển ly cà phê chiều sang một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) là thay đổi nhỏ nhưng thường thấy khác biệt trong vòng một tuần. Bài [Cà phê và sức khoẻ](ca-phe-va-suc-khoe.html) có phần bàn về ngưỡng và thời điểm dùng caffeine hợp lý.
+Sau bữa trưa, nhiều người theo phản xạ gọi ngay ly cà phê thứ hai hoặc thứ ba trong ngày. Nếu bạn thuộc nhóm nhạy cảm với caffeine hoặc hay khó ngủ buổi tối, việc chuyển ly cà phê chiều sang một tách trà thảo mộc ban ngày là thay đổi nhỏ nhưng thường thấy khác biệt trong vòng một tuần. Bài [Cà phê và sức khoẻ](ca-phe-va-suc-khoe.html) có phần bàn về ngưỡng và thời điểm dùng caffeine hợp lý.
 
 Một điểm nhỏ nhưng hữu ích: đứng dậy đi bộ mười phút sau khi ăn thay vì ngồi ngay vào máy tính. Bài [Đi bộ sau ăn](di-bo-sau-an.html) giải thích vì sao mười phút này lại có tác dụng rõ đến vậy với cảm giác nặng bụng và buồn ngủ đầu giờ chiều.
 

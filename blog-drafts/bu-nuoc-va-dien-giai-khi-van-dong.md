@@ -147,7 +147,7 @@ Tiện và có định lượng rõ. Khi chọn, hãy đọc nhãn để biết 
 
 ### Trà thảo mộc và nước ấm giữa các buổi
 
-Ngoài khung giờ tập, việc giữ đủ nước cả ngày quan trọng không kém — vì bạn bước vào buổi tập với trạng thái nước của cả ngày trước đó. Nhiều người thấy dễ uống đủ hơn khi có thêm lựa chọn ngoài nước lọc; một bình [trà thảo mộc nhẹ uống ban ngày](https://tra.ikihealing.com) là cách đơn giản để tổng lượng nước trong ngày lên đủ mà không phải nạp thêm đường. Bài [Uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html) đi vào nhịp uống nền tảng này.
+Ngoài khung giờ tập, việc giữ đủ nước cả ngày quan trọng không kém — vì bạn bước vào buổi tập với trạng thái nước của cả ngày trước đó. Nhiều người thấy dễ uống đủ hơn khi có thêm lựa chọn ngoài nước lọc; một bình trà thảo mộc nhẹ uống ban ngày là cách đơn giản để tổng lượng nước trong ngày lên đủ mà không phải nạp thêm đường. Bài [Uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html) đi vào nhịp uống nền tảng này.
 
 ## Sau buổi tập: nước, khoáng và phần đạm
 

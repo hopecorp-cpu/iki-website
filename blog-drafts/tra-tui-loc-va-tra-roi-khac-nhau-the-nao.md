@@ -22,7 +22,6 @@
     {"q": "Nhà có cả hai loại thì dùng thế nào cho hợp lý?", "a": "Cách nhiều người thấy dễ duy trì nhất là chia theo nhịp ngày: túi lọc cho buổi sáng vội và cho giờ làm ở văn phòng, trà rời cho cuối tuần hoặc buổi tối khi có thời gian ngồi lâu. Chia như vậy thì cả hai đều được dùng đúng thế mạnh, và bạn không phải chọn một bên."}
   ],
   "related": [
-    {"title": "Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng", "url": "tra-tue-minh-la-gi.html"},
     {"title": "Cách pha trà túi lọc đúng cách: nhiệt độ và thời gian hãm", "url": "cach-pha-tra-tui-loc-dung-cach.html"},
     {"title": "Uống trà đúng cách", "url": "uong-tra-dung-cach.html"},
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"},
@@ -129,7 +128,7 @@ Thực ra cần tách làm hai nhóm.
 
 Vì sao khác biệt này quan trọng khi chọn giữa hai hình thức đóng gói? Vì nguyên liệu thảo mộc vốn đã cồng kềnh và cứng, nên việc cắt nhỏ để vào túi lọc **không làm mất mát nhiều như với lá chè**. Một túi trà thảo mộc đóng gói tử tế có thể cho tách nước rất gần với cách bạn tự hãm từ nguyên liệu rời. Đây cũng là lý do phần lớn trà thảo mộc trên thị trường chọn dạng túi lọc, và đó là lựa chọn hợp lý chứ không phải cách làm cho rẻ.
 
-Trong nhóm thảo mộc túi lọc, [Trà Tuệ Minh](https://tra.ikihealing.com) là một ví dụ quen thuộc cho nếp uống ấm ban ngày, làm theo dạng túi lọc từ nguồn nguyên liệu của hợp tác xã Nam Dược Tản Viên Sơn. Nếu bạn muốn xem kỹ thành phần, quy cách và cách pha trước khi quyết định, bài [Trà Tuệ Minh là gì](tra-tue-minh-la-gi.html) trình bày đầy đủ những thông tin đó. Với nếp uống buổi tối, khi người ta thường muốn một thức uống ấm nhẹ không kèm vị chát, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là một lựa chọn khác cùng dạng túi lọc.
+ Với nếp uống buổi tối, khi người ta thường muốn một thức uống ấm nhẹ không kèm vị chát, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là một lựa chọn khác cùng dạng túi lọc.
 
 ## Bảng chọn theo hoàn cảnh sống
 

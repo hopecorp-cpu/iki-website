@@ -177,7 +177,7 @@ Dứa dễ ăn nhất khi nó là một phần của bữa, chứ không phải 
 - **Salad.** Dứa cắt hạt lựu trộn cùng rau xanh, cà chua, hạt điều, một chút dầu ô liu. Vị chua ngọt của dứa thay được phần lớn nước sốt đóng chai.
 - **Nước dứa hạ nhiệt ngày nắng.** Dứa cắt miếng bỏ vào bình nước lạnh, để 30 phút. Cách này cho hương thơm mà gần như không thêm đường.
 
-Với những ngày cần một thức uống ấm nhẹ giữa buổi thay vì đồ chua lạnh, một ấm [trà thảo mộc dùng ban ngày](https://tra.ikihealing.com) là lựa chọn quen thuộc của nhiều người trong cộng đồng IKI — đặc biệt với người hay thấy bụng lạnh khi ăn nhiều đồ mát.
+Với những ngày cần một thức uống ấm nhẹ giữa buổi thay vì đồ chua lạnh, một ấm trà thảo mộc dùng ban ngày là một lựa chọn nhẹ nhàng.
 
 ## Gợi ý thực hành trong 7 ngày
 

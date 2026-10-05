@@ -76,7 +76,7 @@ Bốn nhóm trên nghe có vẻ nhiều, nhưng thật ra một mâm cơm Việt
 
 Điều đáng nói là uống đủ nước không phải một mục tiêu để đạt được, mà là một thói quen để gài vào nhịp ngày. Đợi đến khi khát mới uống thì cơ thể đã thiếu từ trước đó. Cách dễ giữ nhất là gắn việc uống nước vào các mốc đã có sẵn: một cốc ấm ngay khi thức dậy, một cốc trước mỗi bữa khoảng 20 đến 30 phút, một cốc mỗi lần đứng dậy khỏi bàn làm việc.
 
-Với nhiều chị em, phần khó không phải là uống nước lọc mà là bỏ thói quen thay nước bằng trà sữa hoặc cà phê ngọt. Nếu bạn thuộc nhóm này, đừng cắt phăng. Hãy đổi một trong hai ly mỗi ngày sang nước lọc, nước ấm hoặc một tách [trà thảo mộc uống ban ngày](https://tra.ikihealing.com) không thêm đường — vẫn có vị để nhâm nhi, mà lượng đường nạp vào giảm đi rõ rệt. Chi tiết về nhịp uống nước trong ngày và cách chọn nước ấm hay mát theo cơ địa, bạn có thể xem thêm bài [uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html).
+Với nhiều chị em, phần khó không phải là uống nước lọc mà là bỏ thói quen thay nước bằng trà sữa hoặc cà phê ngọt. Nếu bạn thuộc nhóm này, đừng cắt phăng. Hãy đổi một trong hai ly mỗi ngày sang nước lọc, nước ấm hoặc một tách trà thảo mộc uống ban ngày không thêm đường — vẫn có vị để nhâm nhi, mà lượng đường nạp vào giảm đi rõ rệt. Chi tiết về nhịp uống nước trong ngày và cách chọn nước ấm hay mát theo cơ địa, bạn có thể xem thêm bài [uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html).
 
 **Việc làm được hôm nay:** đặt một chai nước 750 ml trên bàn làm việc và đặt mục tiêu uống hết hai lần trong ngày. Nhìn thấy chai là nhớ, đó là toàn bộ mẹo.
 

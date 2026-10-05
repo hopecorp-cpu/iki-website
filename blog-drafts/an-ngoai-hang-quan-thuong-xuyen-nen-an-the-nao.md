@@ -101,7 +101,7 @@ Mỗi người có nhu cầu đạm và mức chịu tinh bột khác nhau tuỳ
 
 **Nước chấm.** Chấm nhẹ đầu đũa thay vì dìm miếng thức ăn. Nghe rất nhỏ nhặt, nhưng đây là thói quen thay đổi lượng muối rõ rệt nhất trong bữa ăn Việt. Bài [Ăn giảm muối](an-giam-muoi.html) có thêm cách giữ vị đậm đà mà bớt natri.
 
-**Đồ uống.** Đây là chỗ dễ sửa nhất và cho kết quả nhanh nhất. Đổi ly nước ngọt hoặc trà sữa trong bữa sang nước lọc, trà không đường, hoặc nước lá ấm. Nếu bạn thích có vị trong bữa, [trà thảo mộc ban ngày](https://tra.ikihealing.com) là lựa chọn thay thế hợp lý cho đồ uống có đường mà vẫn giữ cảm giác "có gì đó để uống".
+**Đồ uống.** Đây là chỗ dễ sửa nhất và cho kết quả nhanh nhất. Đổi ly nước ngọt hoặc trà sữa trong bữa sang nước lọc, trà không đường, hoặc nước lá ấm. Nếu bạn thích có vị trong bữa, trà thảo mộc ban ngày là lựa chọn thay thế hợp lý cho đồ uống có đường mà vẫn giữ cảm giác "có gì đó để uống".
 
 ## Gọi món cho từng loại quán Việt
 

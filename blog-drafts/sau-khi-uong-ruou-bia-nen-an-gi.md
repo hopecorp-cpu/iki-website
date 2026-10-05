@@ -63,7 +63,7 @@ Bữa lót dạ nên có ba thứ:
 - **Chất đạm** — trứng, đậu phụ, một ít thịt hoặc cá. Đạm giúp bữa ăn ở trong dạ dày lâu hơn.
 - **Một chút chất béo lành** — vài hạt điều, hạnh nhân, hoặc một chút dầu ô liu trong món rau.
 
-Cách tiện nhất cho người đi tiệc ngay sau giờ làm là một ly sữa hạt hoặc một ly [đạm thực vật](https://trueveganprotein.com) pha loãng trước khi ra khỏi nhà, kèm một quả chuối. Nó mất hai phút, dễ tiêu, và có đủ cả đạm lẫn tinh bột — hơn nhiều so với việc bụng trống rỗng ngồi vào bàn tiệc lúc bảy giờ tối.
+Cách tiện nhất cho người đi tiệc ngay sau giờ làm là một ly sữa hạt hoặc một ly [đạm thực vật](https://trueveganprotein.com) pha loãng trước khi ra khỏi nhà, kèm một quả chuối. Nó mất hai phút và có cả đạm lẫn tinh bột.
 
 Một điều rất quan trọng nữa: **uống một đến hai cốc nước trước khi vào tiệc.** Cơ thể bắt đầu buổi tối trong trạng thái đủ nước sẽ chịu đựng tốt hơn nhiều so với việc bắt đầu khi đã hơi thiếu nước sau một ngày làm việc.
 
@@ -117,7 +117,7 @@ Cách hợp lý ở giữa: một bữa sáng **ấm, mềm, có cả tinh bột
 - Sữa chua nếu dạ dày bạn quen với nó — mềm, có đạm, dễ tiêu.
 - Uống nước rải cả buổi sáng, không chỉ một lần khi vừa dậy.
 
-Về thức uống buổi sáng: nếu bạn có thói quen cà phê đặc lúc bảy giờ, hôm sau tiệc là ngày nên nhẹ tay. Bụng đang trống và cơ thể đang thiếu nước thì cà phê đặc dễ làm cảm giác nôn nao rõ hơn. Một tách [trà thảo mộc ấm ban ngày](https://tra.ikihealing.com) hoặc nước ấm với vài lát gừng mỏng là lựa chọn êm hơn cho buổi sáng đó; nếu vẫn muốn cà phê thì hãy ăn xong đã rồi mới uống, và pha nhạt hơn ngày thường. Chúng tôi có một bài riêng bàn kỹ hơn về [những thức uống thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) nếu bạn muốn tìm phương án lâu dài.
+Về thức uống buổi sáng: nếu bạn có thói quen cà phê đặc lúc bảy giờ, hôm sau tiệc là ngày nên nhẹ tay. Bụng đang trống và cơ thể đang thiếu nước thì cà phê đặc dễ làm cảm giác nôn nao rõ hơn. Một tách trà thảo mộc ấm ban ngày hoặc nước ấm với vài lát gừng mỏng là lựa chọn êm hơn cho buổi sáng đó; nếu vẫn muốn cà phê thì hãy ăn xong đã rồi mới uống, và pha nhạt hơn ngày thường. Chúng tôi có một bài riêng bàn kỹ hơn về [những thức uống thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) nếu bạn muốn tìm phương án lâu dài.
 
 Nếu bữa trưa hoặc bữa tối hôm đó bạn vẫn chưa muốn ăn nhiều, hãy giữ nguyên tắc "ít một lần, nhiều lần" thay vì cố ăn một bữa lớn. Ăn ba đến bốn lần nhỏ trong ngày, mỗi lần một bát cháo hoặc một bát bún, dễ chịu hơn nhiều với dạ dày đang hồi phục. Bài [bữa tối nhẹ để dễ tiêu](bua-toi-nhe-de-tieu.html) có gợi ý cụ thể cho bữa cuối ngày.
 

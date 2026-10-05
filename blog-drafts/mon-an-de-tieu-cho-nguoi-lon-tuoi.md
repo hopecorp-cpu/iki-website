@@ -114,7 +114,7 @@ Người lớn tuổi thường bị khuyên "ăn nhạt", và điều đó đú
 - **Tiêu** — một chút cho ấm, tránh quá cay với người dạ dày nhạy cảm.
 - **Nước dùng ninh từ rau củ** — tạo vị ngọt tự nhiên, giảm nhu cầu nêm muối.
 
-Bài [gia vị Việt: gừng, nghệ, sả](gia-vi-viet-gung-nghe-sa.html) có thêm gợi ý cách dùng từng loại. Với đồ uống, một ấm [trà thảo mộc uống ấm ban ngày](https://tra.ikihealing.com) là thói quen nhiều gia đình duy trì cho ông bà thay cho trà đặc — vừa ấm bụng, vừa tránh trà đặc uống sát bữa làm cản trở hấp thu sắt.
+Bài [gia vị Việt: gừng, nghệ, sả](gia-vi-viet-gung-nghe-sa.html) có thêm gợi ý cách dùng từng loại. Với đồ uống, một ấm trà thảo mộc uống ấm ban ngày là thói quen nhiều gia đình duy trì cho ông bà thay cho trà đặc — vừa ấm bụng, vừa tránh trà đặc uống sát bữa làm cản trở hấp thu sắt.
 
 ## Khi răng yếu hoặc đeo hàm giả
 

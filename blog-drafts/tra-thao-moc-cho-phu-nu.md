@@ -94,7 +94,7 @@ Trên hộp có ghi rõ *từng* thành phần không, hay chỉ ghi chung chung
 
 Buổi sáng của phần lớn phụ nữ đi làm không có nhiều thời gian. Thứ cần ở khung giờ này là một thức uống ấm, dễ chuẩn bị, giúp bạn tỉnh táo mà không làm bụng khó chịu khi chưa ăn gì nhiều.
 
-**Nếu bạn hợp caffeine:** trà xanh là lựa chọn quen thuộc và nhẹ nhàng hơn cà phê đặc. Một số người thấy trà xanh cho cảm giác tỉnh táo êm hơn, ít bị hẫng giữa buổi. Nếu bạn đang muốn giảm bớt cà phê nhưng chưa muốn bỏ hẳn, chúng tôi có một bài riêng gợi ý các phương án chuyển tiếp ở [uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html). Với người vẫn muốn giữ cà phê nhưng đổi sang loại nguyên chất hơn, [bột cà phê trong cửa hàng IKI](https://ikihealing.com/shop/) là một lựa chọn robusta hữu cơ để bạn tham khảo.
+**Nếu bạn hợp caffeine:** trà xanh là lựa chọn quen thuộc và nhẹ nhàng hơn cà phê đặc. Một số người thấy trà xanh cho cảm giác tỉnh táo êm hơn, ít bị hẫng giữa buổi. Nếu bạn đang muốn giảm bớt cà phê nhưng chưa muốn bỏ hẳn, chúng tôi có một bài riêng gợi ý các phương án chuyển tiếp ở [uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html). Với người vẫn muốn giữ cà phê nhưng đổi sang loại nguyên chất hơn, [bột cà phê trong cửa hàng IKI](https://ikihealing.com/shop/) là một lựa chọn robusta để bạn tham khảo.
 
 **Nếu bạn không hợp caffeine buổi sáng sớm:** một cốc nước gừng ấm là cách khởi động rất Việt Nam và rất rẻ. Vị cay ấm hợp với những buổi sáng trời lạnh hoặc những hôm bạn dậy còn uể oải. Cách pha và lượng dùng hợp lý chúng tôi đã viết ở [uống nước gừng ấm buổi sáng](uong-nuoc-gung-am-buoi-sang.html).
 
@@ -112,7 +112,7 @@ Một tách trà vị dịu ở khung giờ này làm được hai việc rất 
 
 **Vị hợp khung giờ này** thường là những vị dịu vừa, không quá nồng: hoa cúc là lựa chọn quen thuộc nhất và dễ mua nhất; nếu bạn muốn hiểu về loại này trước khi mua, xem [trà hoa cúc có tác dụng gì, uống lúc nào](tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao.html). Trà túi lọc thảo mộc cũng rất hợp vì bạn pha được ngay tại bàn làm việc mà không cần ấm chén.
 
-Trong nhóm trà túi lọc, [Trà Tuệ Minh](https://tra.ikihealing.com) là sản phẩm chúng tôi làm cùng HTX Nam Dược Tản Viên Sơn, dạng túi lọc, giá niêm yết 168.000đ đã gồm VAT. Chúng tôi giới thiệu nó đúng ở chỗ nó hợp: một thức uống thảo mộc tiện pha cho khung giờ làm việc ban ngày, khi bạn cần một tách gì đó ấm mà không muốn thêm cà phê. Nếu bạn làm văn phòng và muốn có vài phương án so sánh, [chọn trà thảo mộc cho dân văn phòng](chon-tra-thao-moc-cho-dan-van-phong.html) đặt các lựa chọn cạnh nhau chi tiết hơn.
+ Nếu bạn làm văn phòng và muốn có vài phương án so sánh, [chọn trà thảo mộc cho dân văn phòng](chon-tra-thao-moc-cho-dan-van-phong.html) đặt các lựa chọn cạnh nhau chi tiết hơn.
 
 ## Cuối chiều đến tối: chọn vị nhẹ và chọn đúng giờ
 

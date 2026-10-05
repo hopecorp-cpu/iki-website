@@ -102,7 +102,7 @@ Nếu phải chọn một phương án "an toàn" cho nhiều người nhất, �
 
 Một mẹo nhỏ khiến bữa phụ này no lâu hơn hẳn: **ghép hoa quả với một chút đạm hoặc chất béo lành**. Vài hạt điều, một hũ sữa chua không đường, một ly sữa hạt, hoặc một phần [đạm thực vật](https://trueveganprotein.com) pha loãng đều làm cho phần quả trở thành một bữa phụ trọn vẹn thay vì chỉ là một cú tăng năng lượng ngắn. Với người đi làm bận rộn, đây là cách đơn giản nhất để không phải ăn vặt liên tục cả buổi chiều.
 
-Với người thích đồ uống ấm, một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) đi kèm đĩa quả cũng là cách quen thuộc để bữa phụ trở nên thư thái hơn, thay cho ly cà phê thứ ba trong ngày.
+Với người thích đồ uống ấm, một tách trà thảo mộc ban ngày đi kèm đĩa quả cũng là cách quen thuộc để bữa phụ trở nên thư thái hơn, thay cho ly cà phê thứ ba trong ngày.
 
 ## Chọn hoa quả theo thể tạng: góc nhìn Đông y
 

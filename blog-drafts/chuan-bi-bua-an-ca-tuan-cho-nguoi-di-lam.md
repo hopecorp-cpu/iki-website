@@ -172,7 +172,7 @@ Với người ăn chay hoặc ăn ít thịt, thay phần ức gà bằng đậ
 
 Bữa phụ cho cả tuần: chia sẵn hạt vào năm túi nhỏ, cùng năm phần trái cây. Bài [ăn vặt lành mạnh](an-vat-lanh-manh.html) có thêm lựa chọn.
 
-Uống: mang theo bình nước và một ít [trà thảo mộc](https://tra.ikihealing.com) để pha tại văn phòng — vừa bù nước vừa tạo khoảng nghỉ giữa buổi thay vì với tay lấy trà sữa.
+Uống: mang theo bình nước và một ít trà thảo mộc để pha tại văn phòng — vừa bù nước vừa tạo khoảng nghỉ giữa buổi thay vì với tay lấy trà sữa.
 
 ## Dụng cụ và cách đi chợ một lần cho cả tuần
 

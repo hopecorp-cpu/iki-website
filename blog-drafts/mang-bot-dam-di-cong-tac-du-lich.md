@@ -162,7 +162,7 @@ Khi chọn bột để mang đi xa, tiêu chí khác một chút so với khi mu
 - **Ít đường thêm vào.** Chuyến đi vốn đã nhiều đường từ nước ngọt, bánh ngọt và đồ uống tiếp khách. Đọc dòng "đường" trên nhãn trước khi đọc dòng "đạm".
 - **Nguồn đạm phối từ nhiều loại hạt và đậu** thay vì một nguồn duy nhất, để phần axit amin cân đối hơn khi bạn không ăn được đa dạng như ở nhà.
 
-Về phía IKI, sản phẩm [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro là bột phối từ sáu loại hạt và đậu, thuần chay, hộp 500g. Vị thuộc nhóm nhẹ nên pha với nước không vẫn uống được, và vì là bột thuần nên chia liều vào túi zip không có vấn đề gì về kết cấu. Đó là những thông tin về nguồn gốc, thành phần và cách dùng; sản phẩm này là thực phẩm bổ sung, không thay thế bữa ăn chính và không dùng để chữa hay phòng bệnh gì. Ai đang có bệnh nền, đang mang thai hoặc cho con bú nên hỏi ý kiến bác sĩ trước khi dùng, dù ở nhà hay đi xa.
+Về phía IKI, sản phẩm [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro là bột phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt, thuần chay, hộp 500g. Vị thuộc nhóm nhẹ nên pha với nước không vẫn uống được, và vì là bột thuần nên chia liều vào túi zip không có vấn đề gì về kết cấu. Đó là những thông tin về nguồn gốc, thành phần và cách dùng; sản phẩm này là thực phẩm bổ sung, không thay thế bữa ăn chính và không dùng để chữa hay phòng bệnh gì. Ai đang có bệnh nền, đang mang thai hoặc cho con bú nên hỏi ý kiến bác sĩ trước khi dùng, dù ở nhà hay đi xa.
 
 Nếu bạn còn phân vân giữa các loại bột trên thị trường, bài [đọc nhãn bột đạm thực vật](doc-nhan-bot-dam-thuc-vat.html) chỉ ra ba dòng trên nhãn đáng đọc nhất và những chỗ hay bị hiểu nhầm.
 

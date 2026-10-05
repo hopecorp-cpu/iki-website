@@ -99,7 +99,7 @@ Mẹo nhỏ khi mua: nhìn bảng thành phần, nếu sau tên hạt còn thấ
 
 Đây là hiểu lầm khá phổ biến, nhất là với người ăn chay hoặc đang giảm bớt thịt. Hạt **có** đạm — hạnh nhân khoảng 6g đạm trong 28g, hạt bí và đậu phộng còn cao hơn — nhưng tỷ lệ chất béo trong hạt cao hơn nhiều. Muốn nạp 25–30g đạm chỉ bằng hạt, bạn sẽ phải ăn hơn 100g hạt, kéo theo lượng năng lượng rất lớn.
 
-Cách nhìn đúng hơn: **hạt là món bổ trợ, không phải trụ đạm chính**. Trụ đạm nên đến từ đậu đỗ, đậu phụ, các món từ đậu nành, trứng, cá — hoặc, với người bận rộn khó nấu đủ bữa, từ một nguồn đạm cô đặc dễ chuẩn bị. Nhiều người trong cộng đồng IKI chọn cách thêm một ly [đạm thực vật](https://trueveganprotein.com) vào bữa sáng để phần đạm không phụ thuộc hoàn toàn vào việc hôm nay có kịp nấu hay không, rồi dùng hạt như phần bổ sung chất béo lành và khoáng chất. Cách này giữ được sự cân đối: đạm ra đạm, chất béo ra chất béo, không dồn hết vào một món.
+Cách nhìn đúng hơn: **hạt là món bổ trợ, không phải trụ đạm chính**. Trụ đạm nên đến từ đậu đỗ, đậu phụ, các món từ đậu nành, trứng, cá — hoặc, với người bận rộn khó nấu đủ bữa, từ một nguồn đạm cô đặc dễ chuẩn bị. Một cách đơn giản là thêm một ly [đạm thực vật](https://trueveganprotein.com) vào bữa sáng để phần đạm không phụ thuộc hoàn toàn vào việc hôm nay có kịp nấu hay không, rồi dùng hạt như phần bổ sung chất béo lành và khoáng chất. Cách này giữ được sự cân đối: đạm ra đạm, chất béo ra chất béo, không dồn hết vào một món.
 
 Nếu bạn muốn nắm rõ nhu cầu đạm của riêng mình, bài [Cần bao nhiêu đạm mỗi ngày](can-bao-nhieu-dam-moi-ngay.html) đưa ra cách tính đơn giản theo cân nặng và mức vận động.
 
@@ -136,7 +136,7 @@ Bài [Bảo quản thực phẩm đúng cách](bao-quan-thuc-pham-dung-cach.html
 - **Nấu sữa hạt tại nhà:** cách dùng hạt "mềm" nhất, hợp với người lớn tuổi và trẻ em. Xem bài [Sữa hạt tự làm tại nhà](sua-hat-tu-lam-tai-nha.html).
 - **Kho, rang cùng món mặn:** lạc rang giã dập rắc lên món nộm, hạt điều nấu cùng món kho chay — cách dùng rất Việt và không hề xa lạ.
 
-Nếu buổi chiều bạn quen với một ly nước ngọt kèm đồ ăn vặt, thử đổi thành một nắm hạt nhỏ với một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) — vị trà nhạt ấm làm dịu cảm giác thèm ngọt, còn nắm hạt lo phần "có gì đó để nhai". Đây là kiểu thay thế nhẹ nhàng, không đòi hỏi bạn phải bỏ hẳn thói quen cũ ngay lập tức.
+Nếu buổi chiều bạn quen với một ly nước ngọt kèm đồ ăn vặt, thử đổi thành một nắm hạt nhỏ với một tách trà thảo mộc ban ngày — vị trà nhạt ấm làm dịu cảm giác thèm ngọt, còn nắm hạt lo phần "có gì đó để nhai". Đây là kiểu thay thế nhẹ nhàng, không đòi hỏi bạn phải bỏ hẳn thói quen cũ ngay lập tức.
 
 ## Bảy ngày để đưa hạt vào nếp ăn
 

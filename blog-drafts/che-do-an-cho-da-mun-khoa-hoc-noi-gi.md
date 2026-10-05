@@ -103,7 +103,7 @@ Thay vì tập trung vào việc kiêng, phần này quan trọng hơn: xây m�
 
 **Đủ đạm.** Đây là phần ít được nhắc nhưng cần thiết: da là mô liên tục tái tạo, và quá trình đó cần nguyên liệu. Đạm đủ trong mỗi bữa cũng giúp đường huyết ổn định hơn, tức là gián tiếp hỗ trợ phần cơ chế đã nói ở trên. Trứng, cá, thịt nạc, đậu phụ, các loại đậu đều được. Với người ăn chay hoặc bận rộn khó nấu, một phần [đạm thực vật](https://trueveganprotein.com) pha vào buổi sáng là cách gọn để giữ nền đạm ổn định cả ngày.
 
-**Nước và thức uống ấm nhạt.** Đủ nước là điều kiện nền cho mọi quá trình trong cơ thể. Ngoài nước lọc, [trà thảo mộc uống ban ngày](https://tra.ikihealing.com) là lựa chọn thay thế dễ chịu cho những người có thói quen uống trà sữa hoặc nước ngọt vào buổi chiều, vốn là nguồn đường lỏng lớn nhất trong ngày của nhiều người.
+**Nước và thức uống ấm nhạt.** Đủ nước là điều kiện nền cho mọi quá trình trong cơ thể. Ngoài nước lọc, trà thảo mộc uống ban ngày là lựa chọn thay thế dễ chịu cho những người có thói quen uống trà sữa hoặc nước ngọt vào buổi chiều, vốn là nguồn đường lỏng lớn nhất trong ngày của nhiều người.
 
 ## Những điều dân gian nói mà bằng chứng không ủng hộ
 

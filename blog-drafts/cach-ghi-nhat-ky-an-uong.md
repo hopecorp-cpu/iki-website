@@ -146,7 +146,7 @@ Bữa sáng không có gì để giữ năng lượng. Thêm một nguồn đạ
 Thường liên quan đến khẩu phần trưa quá nhiều tinh bột và ít rau, hoặc ăn quá no. Thử chia lại đĩa theo hướng dẫn ở [Cách chia đĩa bữa ăn cân bằng](cach-chia-dia-bua-an-can-bang.html), và ăn chậm hơn. Bài [Buồn ngủ sau khi ăn trưa](buon-ngu-sau-khi-an-trua.html) nói kỹ về hiện tượng này.
 
 **Nếu bạn thấy: 15h nào cũng có một ly đồ ngọt lạnh.**
-Đây là mẫu hình phổ biến nhất ở dân văn phòng. Thay bằng một tách [trà thảo mộc ấm dùng ban ngày](https://tra.ikihealing.com) và một nắm hạt là cách nhiều người trong cộng đồng IKI đã chuyển đổi thành công — không phải vì cấm bản thân, mà vì có sẵn một lựa chọn khác trong tầm tay.
+Đây là mẫu hình phổ biến nhất ở dân văn phòng. Thay bằng một tách trà thảo mộc ấm dùng ban ngày và một nắm hạt là một cách chuyển đổi dễ làm — không phải vì cấm bản thân, mà vì có sẵn một lựa chọn khác trong tầm tay.
 
 **Nếu bạn thấy: ăn đêm khi buồn chán, không phải khi đói.**
 Đây là ăn theo cảm xúc, và cách xử lý không nằm ở đồ ăn mà ở việc nhận ra tín hiệu. Nhật ký chính là công cụ nhận ra nó.

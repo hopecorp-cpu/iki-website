@@ -199,7 +199,7 @@ Vài phương án không cần bếp:
 - Đậu hũ non ăn liền.
 - Một hộp đậu nấu sẵn trữ trong tủ lạnh dùng dần trong hai đến ba ngày.
 
-Với những ngày mà cả các phương án trên cũng không kịp, bột đạm thực vật là một cách gom đạm gọn. Sản phẩm **Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g** của HOPE được phối từ sáu loại hạt và đậu, thuần chay, giá niêm yết 668.000đ. Cách dùng đơn giản là pha với nước hoặc sữa hạt, uống vào bữa sáng vội hoặc bữa xế.
+Với những ngày mà cả các phương án trên cũng không kịp, bột đạm thực vật là một cách gom đạm gọn. Sản phẩm **Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g** của HOPE được phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt, thuần chay, giá niêm yết 668.000đ. Cách dùng đơn giản là pha với nước hoặc sữa hạt, uống vào bữa sáng vội hoặc bữa xế.
 
 Cần nói cho rõ để không ai hiểu nhầm: đây là **thực phẩm bổ sung**, đóng vai trò một nguồn đạm tiện lợi cho ngày bận — giống như một phần đậu được đóng gói gọn hơn. Nó không phải sản phẩm chăm sóc da và không có tác dụng thay thế bữa ăn đa dạng. Nền tảng vẫn luôn là mâm cơm hằng ngày; bột đạm chỉ lấp chỗ trống khi mâm cơm không kịp có mặt.
 

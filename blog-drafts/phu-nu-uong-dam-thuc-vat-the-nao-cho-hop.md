@@ -155,7 +155,7 @@ Và nó cũng có giới hạn phải nói rõ. Bột đạm không thay đượ
 
 Về cách pha, ba lưu ý hay gặp: pha bằng nước ấm hoặc nguội thay vì nước sôi để bột tan mịn hơn; cho nước vào trước rồi mới cho bột để đỡ vón; và nếu thấy khó uống thì pha cùng sữa hạt, chuối hoặc một chút bột ca cao nguyên chất. Bài [cách pha bột đạm thực vật cho dễ uống](cach-pha-bot-dam-thuc-vat-cho-de-uong.html) có thêm vài công thức phối vị nếu bạn cần.
 
-Về sản phẩm cụ thể, [True Vegan Protein Pro](../san-pham/true-vegan-protein.html) là bột đạm dinh dưỡng thực vật thuần chay của IKI, quy cách hộp 500 g, giá niêm yết 668.000đ, phối từ sáu loại hạt và đậu. Bạn nên đọc trang thông tin sản phẩm để xem thành phần, cách pha và các câu hỏi thường gặp trước khi quyết định, thay vì chọn theo lời giới thiệu.
+Về sản phẩm cụ thể, [True Vegan Protein Pro](../san-pham/true-vegan-protein.html) là bột đạm dinh dưỡng thực vật thuần chay của IKI, quy cách hộp 500 g, giá niêm yết 668.000đ, phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt. Bạn nên đọc trang thông tin sản phẩm để xem thành phần, cách pha và các câu hỏi thường gặp trước khi quyết định, thay vì chọn theo lời giới thiệu.
 
 ## Bốn nhóm phụ nữ và cách điều chỉnh cho hợp
 

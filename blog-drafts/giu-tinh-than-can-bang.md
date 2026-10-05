@@ -146,7 +146,7 @@ Cuối cùng, hãy tập **buông những điều nằm ngoài tầm với**. C�
 
 Buổi tối là thời điểm quý giá để chuyển cơ thể và tâm trí từ nhịp căng của ngày sang trạng thái nghỉ ngơi. Một nghi thức thư giãn nhẹ nhàng trước giờ ngủ không chỉ giúp bạn dễ vào giấc mà còn là cách khép lại ngày một cách tử tế với chính mình.
 
-Bạn có thể tạo cho mình một chuỗi việc quen thuộc, lặp lại mỗi tối: tắt bớt đèn cho không gian dịu lại, cất điện thoại xa tầm tay, làm vài động tác giãn cơ nhẹ, rồi ngồi yên hít thở chậm vài phút. Với nhiều người, việc pha một tách trà thảo mộc ấm là phần dễ chịu nhất của nghi thức này. Hơi ấm tỏa ra từ tách trà, hương thơm thoảng nhẹ, và khoảng lặng khi ngồi thưởng thức đều góp phần giúp tâm trí chậm lại sau một ngày dài. Nếu bạn thích thêm một thức uống thảo mộc để thư giãn vào buổi tối, [Trà Tuệ Minh](https://tra.ikihealing.com) là một lựa chọn nhẹ nhàng cho khoảnh khắc nghỉ ngơi, mang lại cảm giác thư thái chứ không nhằm thay thế cho việc ngủ đủ và chăm sóc tinh thần đúng cách.
+Bạn có thể tạo cho mình một chuỗi việc quen thuộc, lặp lại mỗi tối: tắt bớt đèn cho không gian dịu lại, cất điện thoại xa tầm tay, làm vài động tác giãn cơ nhẹ, rồi ngồi yên hít thở chậm vài phút. Với nhiều người, việc pha một tách trà thảo mộc ấm là phần dễ chịu nhất của nghi thức này. Hơi ấm tỏa ra từ tách trà, hương thơm thoảng nhẹ, và khoảng lặng khi ngồi thưởng thức đều góp phần giúp tâm trí chậm lại sau một ngày dài.
 
 Điều làm nên sức mạnh của một nghi thức là sự lặp lại. Khi bạn thực hiện cùng một chuỗi việc mỗi tối, cơ thể dần học được rằng "đây là lúc thư giãn", và tự động chuyển sang trạng thái nghỉ. Bạn không cần một nghi thức cầu kỳ hay dài, chỉ cần vài phút đều đặn là đủ để tạo ranh giới rõ ràng giữa phần bận rộn và phần yên tĩnh của ngày.
 

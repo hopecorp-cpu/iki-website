@@ -56,7 +56,7 @@ Giải pháp không phải là cấm đoán mà là thay thế bằng những b�
 
 Cơ thể chỉ cần thiếu nước một chút là con đã có thể thấy mệt, đau đầu nhẹ và khó tập trung. Trong những ngày ôn thi căng thẳng, con dễ quên uống nước vì mải học. Vì vậy, hãy giúp con tạo thói quen để một chai nước ngay trên bàn học và uống từng ngụm đều đặn suốt buổi, thay vì đợi đến lúc khát mới uống.
 
-Nước lọc vẫn là lựa chọn tốt nhất. Bên cạnh đó, con có thể đổi vị bằng nước trái cây tươi ít đường, sữa, hoặc một tách [trà thảo mộc](https://tra.ikihealing.com) ấm nhẹ nhàng vào buổi tối. Tổng lượng nước mỗi ngày tuỳ theo thể trạng, thời tiết và mức vận động, nhưng nguyên tắc chung là uống rải đều và quan sát màu nước tiểu: màu vàng nhạt là dấu hiệu con đang uống đủ.
+Nước lọc vẫn là lựa chọn tốt nhất. Bên cạnh đó, con có thể đổi vị bằng nước trái cây tươi ít đường, sữa, hoặc một tách trà thảo mộc ấm nhẹ nhàng vào buổi tối. Tổng lượng nước mỗi ngày tuỳ theo thể trạng, thời tiết và mức vận động, nhưng nguyên tắc chung là uống rải đều và quan sát màu nước tiểu: màu vàng nhạt là dấu hiệu con đang uống đủ.
 
 Riêng với cà phê và nước tăng lực, đây là điểm phụ huynh cần đặc biệt lưu ý. Nhiều học sinh tìm đến chúng để thức khuya ôn bài. Một lượng nhỏ caffeine có thể giúp tỉnh táo tạm thời, nhưng lạm dụng lại phản tác dụng: tim đập nhanh, bồn chồn, lo lắng, và quan trọng nhất là phá vỡ giấc ngủ. Uống cà phê hay nước tăng lực vào buổi chiều muộn và buổi tối khiến con khó vào giấc, ngủ chập chờn, rồi sáng hôm sau lại càng mệt và lại cần thêm chất kích thích, tạo thành vòng luẩn quẩn.
 

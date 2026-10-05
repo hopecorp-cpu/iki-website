@@ -160,7 +160,7 @@ Kinh nghiệm ẩm thực dưỡng sinh phương Đông xếp phần lớn hải
 - **Chấm nước mắm gừng** với ốc, với cá hấp — cùng một logic.
 - **Ăn kèm rau thơm** như tía tô, kinh giới, húng quế trong các món hải sản luộc.
 
-Người có cơ địa dễ lạnh bụng thường thấy dễ chịu hơn khi ăn hải sản vào buổi trưa, chế biến ấm, kèm gia vị ấm, và uống nước ấm thay vì đồ đá. Một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) sau bữa cũng là thói quen dễ chịu mà nhiều người giữ được lâu dài.
+Người có cơ địa dễ lạnh bụng thường thấy dễ chịu hơn khi ăn hải sản vào buổi trưa, chế biến ấm, kèm gia vị ấm, và uống nước ấm thay vì đồ đá. Một tách trà thảo mộc ban ngày sau bữa cũng là thói quen dễ chịu mà nhiều người giữ được lâu dài.
 
 Cách phân loại theo thể tạng này là trục xuyên suốt trong nội dung của IKI — bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) giải thích chi tiết, và bạn cũng có thể [làm khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) để biết mình nghiêng về nhóm nào.
 

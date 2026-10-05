@@ -97,7 +97,7 @@ Một mẹo nhỏ ở bếp: thay vì đổ dầu từ chai vào chảo, hãy d�
 
 Đây là chỗ nhiều người ăn rất sạch nhưng vẫn thấy nặng nề. Một ngày ba ly cà phê sữa đá, một cốc trà sữa và một lon nước ngọt có thể mang theo lượng đường lớn hơn cả mâm cơm cộng lại.
 
-Không cần cực đoan. Chỉ cần chuyển dần: ly cà phê sữa buổi chiều đổi thành nước lọc hoặc một [tách trà thảo mộc ban ngày](https://tra.ikihealing.com) uống ấm; lon nước ngọt trong bữa đổi thành nước canh hoặc nước lọc; trà sữa từ hằng ngày thành một tuần đôi lần. Đây thường là thay đổi mang lại cảm giác khác biệt rõ nhất mà lại tốn ít công sức nhất.
+Không cần cực đoan. Chỉ cần chuyển dần: ly cà phê sữa buổi chiều đổi thành nước lọc hoặc một tách trà thảo mộc ban ngày uống ấm; lon nước ngọt trong bữa đổi thành nước canh hoặc nước lọc; trà sữa từ hằng ngày thành một tuần đôi lần. Đây thường là thay đổi mang lại cảm giác khác biệt rõ nhất mà lại tốn ít công sức nhất.
 
 ## Bát cơm: giữ hay bỏ?
 

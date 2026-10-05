@@ -137,7 +137,7 @@ Vài cách điều chỉnh nhẹ nhàng:
 
 - Giảm dần độ ngọt thay vì bỏ hẳn. Vị giác cần khoảng hai đến ba tuần để quen với mức ngọt thấp hơn.
 - Uống cà phê **sau khi ăn** thay vì lúc bụng còn trống, nếu bạn hay thấy cồn cào.
-- Với người thấy bồn chồn, tim đập nhanh sau cà phê, các lựa chọn thay thế nhẹ hơn có trong bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html); một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) cũng là cách nhiều người dùng để giữ sự tỉnh táo êm hơn.
+- Với người thấy bồn chồn, tim đập nhanh sau cà phê, các lựa chọn thay thế nhẹ hơn có trong bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html); một tách trà thảo mộc ban ngày cũng là cách nhiều người dùng để giữ sự tỉnh táo êm hơn.
 - Nếu bạn vẫn thích vị cà phê nhưng muốn phiên bản nhẹ nhàng hơn, có thể tham khảo các [thức uống trong cửa hàng IKI](https://ikihealing.com/shop/).
 
 Và đừng quên một cốc nước ấm ngay khi thức dậy — thói quen nhỏ này giúp nhiều người thấy bữa sáng dễ chịu hơn hẳn.

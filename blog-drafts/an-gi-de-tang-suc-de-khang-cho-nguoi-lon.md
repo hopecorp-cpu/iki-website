@@ -120,7 +120,7 @@ Ngược lại, có ba thứ làm hệ vi sinh nghèo đi rất nhanh: ăn quá 
 
 **Bữa phụ:** một nắm hạt, một hũ sữa chua, hoặc trái cây. Tránh bánh ngọt và trà sữa vì chúng chiếm chỗ bữa chính mà gần như không mang lại vi chất.
 
-**Đồ uống trong ngày:** nước lọc là nền, khoảng 1,5–2 lít. Ban ngày có thể thêm một tách [trà thảo mộc](https://tra.ikihealing.com) hoặc trà xanh ấm — vừa là cách uống thêm nước, vừa mang theo các hợp chất chống oxy hoá tự nhiên. Buổi tối muộn nên chuyển sang [loại trà dịu không có cà phê in](https://thanhhuongtra.ikihealing.com) để không ảnh hưởng giấc ngủ.
+**Đồ uống trong ngày:** nước lọc là nền, khoảng 1,5–2 lít. Ban ngày có thể thêm một tách trà thảo mộc hoặc trà xanh ấm — vừa là cách uống thêm nước, vừa mang theo các hợp chất chống oxy hoá tự nhiên. Buổi tối muộn nên chuyển sang [loại trà dịu không có cà phê in](https://thanhhuongtra.ikihealing.com) để không ảnh hưởng giấc ngủ.
 
 ## Những sai lầm khiến ăn nhiều mà vẫn hay ốm
 

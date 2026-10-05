@@ -151,7 +151,7 @@ Người có cơ địa thiên hàn — tay chân hay lạnh, bụng dễ lạnh
 
 Ngược lại, người có cơ địa thiên nhiệt — hay nóng trong, khô miệng, dễ nổi mụn — nếu ăn bí đỏ quá nhiều và liên tục có thể thấy hơi bứt rứt, đầy bụng. Với nhóm này, nên xen kẽ với rau lá xanh và các loại quả có tính mát hơn.
 
-Khung phân loại thể tạng này được giải thích chi tiết trong [Năm thể tạng theo Đông y](5-the-tang-theo-dong-y.html). Với người hay thấy bụng lạnh và muốn giữ một thức uống ấm nhẹ đi kèm bữa, một tách [trà thảo mộc dùng ban ngày](https://tra.ikihealing.com) là thói quen quen thuộc — ấm, không caffeine, hợp với nhịp làm việc buổi sáng và đầu giờ chiều.
+Khung phân loại thể tạng này được giải thích chi tiết trong [Năm thể tạng theo Đông y](5-the-tang-theo-dong-y.html). Với người hay thấy bụng lạnh và muốn giữ một thức uống ấm nhẹ đi kèm bữa, một tách trà thảo mộc dùng ban ngày là thói quen quen thuộc — ấm, không caffeine, hợp với nhịp làm việc buổi sáng và đầu giờ chiều.
 
 ## Vài cách đưa bí đỏ vào bữa ăn mà không bị chán
 

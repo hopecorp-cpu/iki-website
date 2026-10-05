@@ -65,7 +65,7 @@ Vì sao lại là nước ấm chứ không phải nước đá? Theo góc nhìn
 - Chuẩn bị sẵn cốc và bình nước ấm từ tối hôm trước, đặt ngay cạnh giường hoặc bồn rửa mặt.
 - Uống từ từ từng ngụm, khoảng 200–300ml, thay vì uống ực một hơi.
 - Nếu thích, có thể vắt vài giọt chanh vào nước ấm cho dễ uống — nhưng nước ấm không thôi đã đủ tốt.
-- Muốn đổi vị, đôi khi bạn có thể thay bằng một tách trà thảo mộc ấm nhẹ như [Trà Tuệ Minh](https://tra.ikihealing.com), thưởng từ tốn như một điểm neo dễ chịu để bắt đầu ngày.
+-
 
 Bạn có thể đọc kỹ hơn về cách uống nước phù hợp với cơ địa trong bài [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html).
 

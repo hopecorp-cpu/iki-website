@@ -88,7 +88,7 @@ Mỗi cơ thể phản ứng khác nhau với cùng một loại nước lá —
 
 Lý do của giới hạn này không phải vì tía tô nguy hiểm, mà vì một nguyên tắc chung với mọi loại nước lá: **cơ thể xử lý tốt nhất khi được tiếp xúc đa dạng, liều nhỏ, có quãng nghỉ.** Uống một loại nước lá duy nhất với lượng lớn và liên tục là cách đưa cùng một nhóm hoạt chất vào cơ thể ngày này qua ngày khác — điều mà không loại thực vật nào được thiết kế để chịu đựng.
 
-Nếu bạn thích thói quen uống nước lá ấm hằng ngày, cách bền hơn là **xoay vòng nhiều loại**: tía tô hôm nay, gừng ấm hôm sau, [trà thảo mộc ban ngày](https://tra.ikihealing.com) vào những ngày khác. Cách xoay vòng này vừa đa dạng hợp chất, vừa tránh việc uống mãi một vị đến chán rồi bỏ hẳn.
+Nếu bạn thích thói quen uống nước lá ấm hằng ngày, cách bền hơn là **xoay vòng nhiều loại**: tía tô hôm nay, gừng ấm hôm sau, trà thảo mộc ban ngày vào những ngày khác. Cách xoay vòng này vừa đa dạng hợp chất, vừa tránh việc uống mãi một vị đến chán rồi bỏ hẳn.
 
 ## Cách nấu nước lá tía tô giữ được phần quý nhất
 

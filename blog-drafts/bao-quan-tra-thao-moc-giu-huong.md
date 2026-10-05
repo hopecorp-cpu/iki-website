@@ -21,7 +21,6 @@
     {"q": "Mùa nồm miền Bắc bảo quản trà thế nào cho khỏi vón?", "a": "Mùa nồm độ ẩm không khí có lúc trên 90%, là giai đoạn trà dễ hỏng nhất trong năm. Ba việc đáng làm: chuyển trà sang hộp kín có gioăng thay vì chỉ gập miệng túi; đặt thêm một hai gói hút ẩm còn nguyên vỏ vào trong hộp, bên cạnh bao trà chứ không trộn lẫn vào trà; và giảm tối đa số lần mở hộp bằng cách chia sẵn lượng dùng trong tuần ra một hộp nhỏ riêng. Tránh để hộp trà sát tường có hiện tượng đổ mồ hôi và tránh ngăn tủ gần bồn rửa."}
   ],
   "related": [
-    {"title": "Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng", "url": "tra-tue-minh-la-gi.html"},
     {"title": "Cách pha trà túi lọc đúng cách: nhiệt độ, thời gian hãm", "url": "cach-pha-tra-tui-loc-dung-cach.html"},
     {"title": "Trà túi lọc và trà rời khác nhau thế nào", "url": "tra-tui-loc-va-tra-roi-khac-nhau-the-nao.html"},
     {"title": "Trà thảo mộc Việt và trà nhập khẩu: chọn theo tiêu chí nào", "url": "tra-thao-moc-viet-va-tra-nhap-khau.html"},
@@ -66,7 +65,7 @@ Hộp đựng là quyết định lớn nhất trong việc bảo quản, vì n�
 - **Bao bì gốc có khoá zip và lớp tráng bạc** — nhiều loại trà đóng túi kỹ như vậy là đủ tốt, với điều kiện bạn vuốt hết không khí ra và gập kín miệng zip sau mỗi lần lấy.
 - **Nên tránh: hộp nhựa mỏng và túi nilon buộc dây.** Nhựa mỏng vừa hút mùi vừa nhả mùi, còn túi buộc dây thì gần như không chặn được ẩm. Nếu tạm thời chỉ có lựa chọn này, hãy coi nó là chỗ ở tạm không quá vài tuần.
 
-Với **trà túi lọc**, có một điểm cộng sẵn có: nguyên liệu đã được chia thành từng túi nhỏ, mỗi lần pha chỉ đụng tới một túi thay vì xới cả hộp lên. Những sản phẩm đóng gói chỉn chu như [Trà Tuệ Minh](https://tra.ikihealing.com) — trà thảo mộc túi lọc từ vùng nguyên liệu của HTX Nam Dược Tản Viên Sơn — còn có hộp giấy cứng bên ngoài lớp túi, tức là sẵn hai lớp chắn sáng và chắn va đập; việc của người dùng chỉ là giữ kín phần bao trong và cất hộp đúng chỗ. Bạn có thể đọc thêm về loại trà này ở bài [Trà Tuệ Minh là gì, thành phần và cách pha đúng](tra-tue-minh-la-gi.html).
+Với **trà túi lọc**, có một điểm cộng sẵn có: nguyên liệu đã được chia thành từng túi nhỏ, mỗi lần pha chỉ đụng tới một túi thay vì xới cả hộp lên.
 
 Còn nếu bạn đang phân vân giữa hai kiểu đóng gói ngay từ lúc mua, bài [trà túi lọc và trà rời khác nhau thế nào](tra-tui-loc-va-tra-roi-khac-nhau-the-nao.html) so sánh kỹ hai lựa chọn — riêng ở góc bảo quản, túi lọc dễ giữ hương hơn cho người bận, còn trà rời cho bạn nhìn được nguyên liệu nhưng đòi hộp đựng nghiêm túc hơn.
 

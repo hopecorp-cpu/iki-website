@@ -163,7 +163,7 @@ Người cao tuổi trong nhà thường là nhóm ít nói ra nhu cầu của m
 - **Đủ nước dù không thấy khát.** Cảm giác khát giảm theo tuổi, nên cần chủ động nhắc. Xem thêm [Uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html).
 - **Chú ý tương tác giữa thực phẩm và thuốc theo đơn.** Nếu ông bà đang dùng thuốc dài hạn, hãy hỏi bác sĩ về những món cần lưu ý.
 
-Sau bữa cơm tối, nhiều gia đình có thói quen ngồi lại với một tách [trà thảo mộc ấm](https://tra.ikihealing.com). Đây là một nếp sinh hoạt dễ chịu, và với nhiều nhà, nó còn là khoảng thời gian cả nhà thực sự trò chuyện với nhau trong ngày.
+Sau bữa cơm tối, nhiều gia đình có thói quen ngồi lại với một tách trà thảo mộc ấm. Đây là một nếp sinh hoạt dễ chịu, và với nhiều nhà, nó còn là khoảng thời gian cả nhà thực sự trò chuyện với nhau trong ngày.
 
 ## Những lưu ý riêng cho trẻ nhỏ
 

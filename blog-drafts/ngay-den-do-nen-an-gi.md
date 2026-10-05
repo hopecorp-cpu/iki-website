@@ -99,7 +99,7 @@ Vài cách áp dụng rất đời thường:
 - Đổi ly nước đá buổi trưa thành nước ấm hoặc nước để nhiệt độ phòng.
 - Thêm vài lát gừng vào canh, cháo, món kho — vừa thơm vừa ấm bụng.
 - Ưu tiên món luộc, hấp, hầm, cháo, súp hơn là salad lạnh và đồ ăn nguội lấy thẳng từ tủ lạnh.
-- Buổi tối, một tách [trà thảo mộc ấm](https://thanhhuongtra.ikihealing.com) trước giờ ngủ là thói quen nhiều chị em duy trì trong tuần lễ này — không phải vì nó "chữa" được gì, mà vì nhịp uống ấm chậm rãi trước khi ngủ giúp buổi tối lắng lại dễ hơn.
+- Buổi tối, một tách [trà thảo mộc ấm](https://thanhhuongtra.ikihealing.com) trước giờ ngủ là một thói quen nhẹ nhàng trong tuần lễ này — không phải vì nó "chữa" được gì, mà vì nhịp uống ấm chậm rãi trước khi ngủ giúp buổi tối lắng lại dễ hơn.
 - Chườm ấm bụng dưới bằng túi chườm hoặc khăn ấm trong 15–20 phút.
 
 Nếu bạn thuộc nhóm hay lạnh tay chân quanh năm chứ không riêng kỳ kinh, bài [lạnh tay chân nên ăn gì](lanh-tay-chan-nen-an-gi.html) đi sâu hơn vào nhóm cơ địa này.
@@ -173,7 +173,7 @@ Nước vẫn là thứ quan trọng nhất và cũng hay bị quên nhất. Đ�
 Ngoài nước lọc, vài lựa chọn quen thuộc:
 
 - **Nước gừng ấm loãng** — vài lát gừng hãm nước sôi, uống ấm sau bữa.
-- **Trà thảo mộc nhẹ** — nhiều chị em giữ thói quen uống một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) thay cho ly cà phê thứ hai, và một tách trà dịu hơn vào buổi tối. Đây là thức uống, không phải thuốc, giá trị nằm ở nhịp sinh hoạt đều đặn nó tạo ra.
+- **Trà thảo mộc nhẹ** — nhiều chị em giữ thói quen uống một tách trà thảo mộc ban ngày thay cho ly cà phê thứ hai, và một tách trà dịu hơn vào buổi tối. Đây là thức uống, không phải thuốc, giá trị nằm ở nhịp sinh hoạt đều đặn nó tạo ra.
 - **Nước dừa** — bổ sung kali, nhưng nên uống ở nhiệt độ phòng thay vì ướp đá.
 - **Sữa hạt ấm** — vừa thêm đạm nhẹ, vừa dễ chịu cho buổi tối.
 

@@ -212,7 +212,7 @@ Bài [chọn thực phẩm bổ sung đúng cách](chon-thuc-pham-bo-sung-dung-c
 - **Bữa sáng** — Yến mạch nấu sữa hạt, 2 quả trứng luộc, một quả chuối. *(khoảng 20g)*
 - **Bữa phụ sáng** — Một hộp sữa chua không đường. *(khoảng 8g)*
 - **Bữa trưa** — Cơm, cá thu kho, đậu phụ sốt cà chua, rau luộc, canh. *(khoảng 30g)*
-- **Bữa phụ chiều** — Một nắm hạnh nhân, một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com). *(khoảng 6g)*
+- **Bữa phụ chiều** — Một nắm hạnh nhân, một tách trà thảo mộc ban ngày. *(khoảng 6g)*
 - **Bữa tối** — Cơm gạo lứt trộn gạo trắng, ức gà hoặc đậu hũ chiên ít dầu, rau xào, canh rau ngót. *(khoảng 25g)*
 
 Tổng khoảng 89g — dư dả so với mức cơ bản và phù hợp với người vận động đều. Điều đáng chú ý là không bữa nào cầu kỳ, và cũng không cần tăng chi phí đi chợ đáng kể.

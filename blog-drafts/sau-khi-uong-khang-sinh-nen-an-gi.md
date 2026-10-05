@@ -78,7 +78,7 @@ Với những ngày thật sự không nuốt nổi món đặc, dạng lỏng d
 
 Đi ngoài lỏng làm mất nước và chất điện giải. Sốt và ăn ít cũng vậy. Hãy uống rải đều cả ngày thay vì đợi khát mới uống dồn.
 
-Nước ấm hoặc nước ở nhiệt độ phòng thường dễ chịu hơn với dạ dày lúc này. Nếu muốn đổi vị, một tách trà thảo mộc nhạt, không đường là lựa chọn nhẹ nhàng; [Trà Tuệ Minh](https://tra.ikihealing.com) là dòng trà thảo mộc IKI cho khung giờ ban ngày, không chứa caffeine, có thể pha nhạt để uống ấm. Riêng trà đặc và cà phê thì nên tạm gác lại vài ngày.
+Nước ấm hoặc nước ở nhiệt độ phòng thường dễ chịu hơn với dạ dày lúc này. Riêng trà đặc và cà phê thì nên tạm gác lại vài ngày.
 
 ### Nhóm 5: Món nấu mềm, ít dầu mỡ, ít gia vị mạnh
 

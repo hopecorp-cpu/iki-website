@@ -138,7 +138,7 @@ Nguyên tắc chung: không cấm, mà đổi. Có sẵn một lựa chọn tron
 
 **Sữa hạt không đường.** Sữa đậu nành, sữa hạnh nhân, sữa óc chó loại không thêm đường vừa cho cảm giác "có gì đó để uống" giống trà sữa, vừa mang thêm chút đạm. Đây thường là bước chuyển dễ nhất cho người quen uống trà sữa mỗi chiều, vì nó giữ được thói quen cầm ly.
 
-**Một tách trà thảo mộc không đường.** Cái ta cần lúc ba giờ chiều nhiều khi không phải calo mà là một khoảng nghỉ có nghi thức: đun nước, pha, ngồi lại năm phút. [Trà thảo mộc Tuệ Minh](https://tra.ikihealing.com) hợp với khung ban ngày theo nghĩa đó — một thức uống ấm không đường thay chỗ ly trà sữa quen tay. Nếu bạn đang tìm một lựa chọn thay cho cà phê sữa buổi sáng, [gian hàng IKI](https://ikihealing.com/shop/) cũng có vài loại thức uống ấm cho khung giờ đó.
+**Một tách trà thảo mộc không đường.** Cái ta cần lúc ba giờ chiều nhiều khi không phải calo mà là một khoảng nghỉ có nghi thức: đun nước, pha, ngồi lại năm phút. Nếu bạn đang tìm một lựa chọn thay cho cà phê sữa buổi sáng, [gian hàng IKI](https://ikihealing.com/shop/) cũng có vài loại thức uống ấm cho khung giờ đó.
 
 **Một ly đạm pha nhanh vào những hôm bữa trưa hụt.** Nếu bữa trưa của bạn hôm đó gần như chỉ có tinh bột, cơn thèm chiều gần như chắc chắn sẽ tới. Một nguồn [đạm thực vật](https://trueveganprotein.com) pha nhanh là cách bù phần đạm còn thiếu cho ngày bận, đứng ở vai một nguồn đạm tiện lợi trong khẩu phần chứ không phải một món ăn vặt hay một cách thay thế bữa ăn.
 
@@ -166,7 +166,7 @@ Ba việc này cũng chính là nền của một chế độ ăn nuôi da từ 
 
 Nếu chỉ sửa chuyện ăn mà không động tới ba thứ dưới đây, bạn sẽ thấy mình cứ tiến hai bước lùi một bước.
 
-**Giấc ngủ.** Đêm ngủ thiếu làm cơn thèm ngọt hôm sau mạnh hơn thấy rõ. Không cần cải tổ cả nếp sinh hoạt — chỉ cần lui giờ ngủ sớm hơn mười lăm phút mỗi tuần, và giữ khung giờ cuối ngày yên tĩnh hơn một chút. Một tách [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) là cách nhiều người dùng để đánh dấu ranh giới "hết giờ làm việc", và những gợi ý cụ thể hơn cho khung giờ này nằm trong bài [Thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html).
+**Giấc ngủ.** Đêm ngủ thiếu làm cơn thèm ngọt hôm sau mạnh hơn thấy rõ. Không cần cải tổ cả nếp sinh hoạt — chỉ cần lui giờ ngủ sớm hơn mười lăm phút mỗi tuần, và giữ khung giờ cuối ngày yên tĩnh hơn một chút. Một tách [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) là một cách để đánh dấu ranh giới "hết giờ làm việc", và những gợi ý cụ thể hơn cho khung giờ này nằm trong bài [Thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html).
 
 **Căng thẳng.** Áp lực kéo dài đẩy người ta về phía đồ ngọt như một cách xoa dịu nhanh. Đây là phản ứng bình thường của con người, không phải khuyết điểm tính cách. Điều giúp được là có sẵn vài cách hạ nhịp khác: đi bộ mười phút, gọi cho một người bạn, hít thở chậm vài phút giữa hai cuộc họp.
 

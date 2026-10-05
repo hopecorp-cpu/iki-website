@@ -159,7 +159,7 @@ Ba mức, từ nhẹ đến sâu:
 - **Rủ một người cùng làm.** Một đồng nghiệp cùng mang cơm trưa, một người bạn cùng đi bộ sau giờ ăn.
 - **Vào một cộng đồng.** Thấy người khác cũng đang làm điều tương tự, cũng có ngày lệch nhịp rồi quay lại, làm giảm rất nhiều cảm giác mình là người duy nhất chật vật.
 
-Ngược lại, hãy để ý những chỗ cản trở: nếu cả phòng chiều nào cũng đặt trà sữa, việc bạn từ chối hằng ngày sẽ tốn nhiều năng lượng hơn bạn tưởng. Có thể chuẩn bị sẵn một lựa chọn thay thế của riêng mình — nước lọc, một [tách trà thảo mộc ban ngày](https://tra.ikihealing.com) — để bạn vẫn có thứ để cầm khi mọi người cùng uống.
+Ngược lại, hãy để ý những chỗ cản trở: nếu cả phòng chiều nào cũng đặt trà sữa, việc bạn từ chối hằng ngày sẽ tốn nhiều năng lượng hơn bạn tưởng. Có thể chuẩn bị sẵn một lựa chọn thay thế của riêng mình — nước lọc, một tách trà thảo mộc ban ngày — để bạn vẫn có thứ để cầm khi mọi người cùng uống.
 
 ## 9. Biết rằng cơ địa mỗi người mỗi khác
 

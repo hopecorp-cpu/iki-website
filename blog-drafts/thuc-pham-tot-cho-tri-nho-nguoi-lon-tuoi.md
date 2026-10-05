@@ -91,7 +91,7 @@ Lưu ý về lượng: hạt rất giàu năng lượng, một nắm nhỏ mỗi
 
 Đây cũng là chỗ giao nhau với một vấn đề khác của tuổi già: **giữ khối cơ**. Sau tuổi 50, khối cơ giảm dần theo năm nếu không được duy trì bằng đủ đạm và vận động. Người ăn quá ít đạm không chỉ yếu cơ mà còn dễ mệt, dễ ngã, và giảm sức hoạt động chung. Bài [Đạm cho người trên 50 giữ khối cơ](dam-cho-nguoi-tren-50-giu-khoi-co.html) nói kỹ về nhu cầu này.
 
-Với người lớn tuổi ăn được ít, khó ăn nổi lượng đạm cần thiết từ bữa chính, một phần [đạm thực vật](https://trueveganprotein.com) pha vào sữa hoặc cháo là cách bổ sung nhẹ nhàng, dễ tiêu. Đây là thực phẩm bổ sung dùng kèm chế độ ăn, không phải thuốc và không thay thế bữa ăn.
+Với người lớn tuổi ăn được ít, một phần đạm thực vật pha vào sữa hoặc cháo là một cách thêm đạm vào bữa ăn.
 
 ### 6. Ngũ cốc nguyên cám
 
@@ -143,7 +143,7 @@ Thực đơn dưới đây thiên về món mềm, dễ nhai, dễ tiêu và dù
 
 **Sáng (6h30–7h30)** — Cháo yến mạch nấu với sữa đậu nành, rắc hạt óc chó và hạt lanh xay nhỏ. Một quả chuối hoặc vài miếng đu đủ.
 
-**Giữa buổi (9h30)** — Một tách trà thảo mộc ấm và vài hạt hạnh nhân. Với người quen uống trà buổi sáng, [Trà Tuệ Minh](https://tra.ikihealing.com) là dòng trà thảo mộc IKI dùng ban ngày, vị nhẹ, uống ấm — một thực phẩm bổ sung dùng như thức uống trong nếp sinh hoạt hằng ngày.
+**Giữa buổi (9h30)** — Một tách trà thảo mộc ấm và vài hạt hạnh nhân.
 
 **Trưa (11h30)** — Cơm (trộn một phần gạo lứt), cá hấp gừng gỡ sạch xương, rau cải luộc, canh bí đỏ nấu đậu xanh.
 

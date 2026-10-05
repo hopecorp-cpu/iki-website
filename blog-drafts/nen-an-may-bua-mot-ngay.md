@@ -127,7 +127,7 @@ Một bữa phụ tốt nên có **ít nhất hai trong ba thứ: đạm, chất
 
 Ngược lại, những thứ **không nên** làm bữa phụ thường xuyên: bánh ngọt, trà sữa, nước ngọt, snack đóng gói. Chúng cho năng lượng nhanh rồi hụt cũng nhanh, nên thường khiến bạn đói lại sớm hơn và tìm tới bữa phụ tiếp theo. Bài [Ăn vặt lành mạnh](an-vat-lanh-manh.html) có danh sách đầy đủ hơn để bạn chuẩn bị sẵn ở văn phòng.
 
-Với người hay tìm tới cà phê thứ hai, thứ ba trong ngày để chống buồn ngủ, một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) đi kèm bữa phụ là cách nhiều người dùng để giữ nhịp mà không kéo theo cảm giác bồn chồn.
+Với người hay tìm tới cà phê thứ hai, thứ ba trong ngày để chống buồn ngủ, một tách trà thảo mộc ban ngày đi kèm bữa phụ là cách nhiều người dùng để giữ nhịp mà không kéo theo cảm giác bồn chồn.
 
 ## Số bữa theo từng hoàn cảnh sống
 

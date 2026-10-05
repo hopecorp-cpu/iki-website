@@ -119,7 +119,7 @@ Nếu tình trạng tiểu đêm diễn ra thường xuyên và ảnh hưởng r
 - **Bạc hà.** The mát, dễ chịu sau bữa tối nhiều dầu mỡ. Một số người nhạy cảm thấy vị the mạnh làm mình tỉnh táo hơn, nên hãy thử ở lượng nhỏ trước.
 - **Vỏ quýt, quế, sả.** Hương ấm, thơm, thường dùng phối hợp để tạo vị dễ uống hơn là dùng một mình.
 
-Nếu bạn thích một tách trà thảo mộc pha sẵn cho buổi tối thay vì tự chuẩn bị từng loại nguyên liệu, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thư giãn buổi tối trong hệ sinh thái IKI — vị dịu, không lá chè, hợp với nếp uống trước giờ nghỉ. Ban ngày, khi bạn cần một thức uống ấm mà vẫn tỉnh táo cho công việc, [Trà Tuệ Minh](https://tra.ikihealing.com) là lựa chọn được nhiều người dùng thay cho ly nước ngọt buổi chiều.
+Nếu bạn thích một tách trà thảo mộc pha sẵn cho buổi tối thay vì tự chuẩn bị từng loại nguyên liệu, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thư giãn buổi tối trong hệ sinh thái IKI — vị dịu, không lá chè, hợp với nếp uống trước giờ nghỉ.
 
 Dù chọn loại nào, hãy nhớ đây đều là **thực phẩm bổ sung** cho nếp sinh hoạt, không phải thuốc và không thay thế được việc điều chỉnh giờ giấc, ánh sáng và mức căng thẳng trong ngày.
 

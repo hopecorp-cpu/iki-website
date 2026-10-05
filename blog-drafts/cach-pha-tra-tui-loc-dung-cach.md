@@ -21,7 +21,6 @@
     {"q": "Trà túi lọc pha xong để nguội uống lại có sao không?", "a": "Trà nguội trong ngày vẫn uống được nếu đã nhấc túi ra và để nơi mát hoặc trong tủ lạnh có đậy. Điều nên tránh là để nguyên túi trà ngâm trong tách suốt nhiều giờ rồi mới uống, vì nước sẽ chát gắt và bã trà ngâm lâu ở nhiệt độ phòng không còn sạch."}
   ],
   "related": [
-    {"title": "Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng", "url": "tra-tue-minh-la-gi.html"},
     {"title": "Uống trà đúng cách", "url": "uong-tra-dung-cach.html"},
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"},
     {"title": "Uống trà thảo mộc buổi tối có mất ngủ không", "url": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html"},
@@ -146,7 +145,7 @@ Có thể kể thêm một lỗi thứ sáu ít gặp hơn nhưng đáng nhắc:
 
 Kỹ thuật pha giống nhau, nhưng thứ bạn chọn pha thì nên đổi theo giờ.
 
-**Buổi sáng và đầu giờ chiều** hợp với các loại trà có vị rõ nét hơn để dùng cùng bữa hoặc trong giờ làm việc. [Trà Tuệ Minh](https://tra.ikihealing.com) là một lựa chọn trà thảo mộc túi lọc thuộc nhóm này, nguyên liệu từ hợp tác xã Nam Dược Tản Viên Sơn, pha theo đúng luật nhóm thảo mộc: nước gần sôi, hãm 5-7 phút, đậy nắp. Bài [Trà Tuệ Minh là gì](tra-tue-minh-la-gi.html) mô tả cụ thể thành phần, quy cách và cách pha của sản phẩm này, còn bài [Trà thảo mộc Tuệ Minh](tra-thao-moc-tue-minh.html) nói thêm về nếp uống hằng ngày.
+**Buổi sáng và đầu giờ chiều** hợp với các loại trà có vị rõ nét hơn để dùng cùng bữa hoặc trong giờ làm việc.
 
 **Buổi tối** thì tiêu chí đổi hẳn: điều đáng quan tâm nhất là trong túi có lá chè hay không, vì lá chè mang caffeine. [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) thuộc nhóm trà thảo mộc dành cho khung giờ tối, và cũng pha theo luật nhóm hai. Nếu bạn hay băn khoăn chuyện uống trà tối, bài [Uống trà thảo mộc buổi tối có mất ngủ không](uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html) trả lời riêng câu hỏi đó, còn [Trà hoa cúc uống lúc nào](tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao.html) đi vào một loại cụ thể.
 

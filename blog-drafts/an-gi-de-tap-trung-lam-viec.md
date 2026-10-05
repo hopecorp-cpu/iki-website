@@ -117,7 +117,7 @@ Hạt óc chó, hạnh nhân, hạt bí, hạt hướng dương, cùng việt qu
 
 ### Nước và thức uống ấm
 
-Chỉ cần cơ thể thiếu nước nhẹ, khả năng chú ý và trí nhớ ngắn hạn đã giảm thấy rõ. Nước lọc là nền, còn [trà thảo mộc](https://tra.ikihealing.com) uống trong ngày là cách dễ chịu để vừa bù nước vừa có một khoảng nghỉ ngắn giữa các phiên làm việc.
+Chỉ cần cơ thể thiếu nước nhẹ, khả năng chú ý và trí nhớ ngắn hạn đã giảm thấy rõ. Nước lọc là nền, còn trà thảo mộc uống trong ngày là cách dễ chịu để vừa bù nước vừa có một khoảng nghỉ ngắn giữa các phiên làm việc.
 
 ## Bữa sáng quyết định ba tiếng đầu tiên của ngày
 
@@ -181,7 +181,7 @@ Caffeine hoạt động bằng cách chặn tạm thời tín hiệu buồn ng�
 
 Trà xanh chứa caffeine ở mức thấp hơn cà phê, đi kèm L-theanine — một hợp chất tạo cảm giác tỉnh táo mà thư thái, ít gây bồn chồn. Với người nhạy cảm với cà phê, đây thường là lựa chọn dễ chịu hơn nhiều cho buổi làm việc dài.
 
-Buổi chiều, khi đã quá giờ dùng caffeine, một tách [Trà Tuệ Minh](https://tra.ikihealing.com) ấm là cách giữ nhịp làm việc mà không vay thêm vào giấc ngủ tối. Nếu bạn muốn giữ thói quen cầm một tách gì đó nóng mà giảm bớt cà phê, các [thức uống thay cà phê trong cửa hàng IKI](https://ikihealing.com/shop/) là hướng đáng thử. Bài [cà phê và sức khoẻ](ca-phe-va-suc-khoe.html) và [uống trà đúng cách](uong-tra-dung-cach.html) đi sâu hơn vào liều lượng và thời điểm.
+Nếu bạn muốn giữ thói quen cầm một tách gì đó nóng mà giảm bớt cà phê, các [thức uống thay cà phê trong cửa hàng IKI](https://ikihealing.com/shop/) là hướng đáng thử. Bài [cà phê và sức khoẻ](ca-phe-va-suc-khoe.html) và [uống trà đúng cách](uong-tra-dung-cach.html) đi sâu hơn vào liều lượng và thời điểm.
 
 ## Ba yếu tố nền không nằm trên đĩa thức ăn
 
@@ -193,7 +193,7 @@ Mất nước nhẹ ở mức 1-2% trọng lượng cơ thể — mức bạn th
 
 ### Giấc ngủ
 
-Đây là yếu tố có ảnh hưởng lớn nhất tới khả năng tập trung, lớn hơn bất kỳ món ăn nào. Một đêm ngủ 5 tiếng làm giảm khả năng chú ý rõ rệt vào ngày hôm sau, và không có bữa sáng nào bù lại được. Nếu bạn hay trằn trọc, hãy xử lý phần này trước: giảm ánh sáng màn hình trước giờ ngủ, giữ giờ đi ngủ đều, và tạo một nghi thức nhỏ để cơ thể biết sắp đến giờ nghỉ. Một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) trước khi ngủ khoảng một tiếng là cách nhiều người dùng để đánh dấu ranh giới giữa giờ làm và giờ nghỉ. Đọc thêm [giấc ngủ chất lượng](giac-ngu-chat-luong.html) và [màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html).
+Đây là yếu tố có ảnh hưởng lớn nhất tới khả năng tập trung, lớn hơn bất kỳ món ăn nào. Một đêm ngủ 5 tiếng làm giảm khả năng chú ý rõ rệt vào ngày hôm sau, và không có bữa sáng nào bù lại được. Nếu bạn hay trằn trọc, hãy xử lý phần này trước: giảm ánh sáng màn hình trước giờ ngủ, giữ giờ đi ngủ đều, và tạo một nghi thức nhỏ để cơ thể biết sắp đến giờ nghỉ. Một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) trước khi ngủ khoảng một tiếng là một cách để đánh dấu ranh giới giữa giờ làm và giờ nghỉ. Đọc thêm [giấc ngủ chất lượng](giac-ngu-chat-luong.html) và [màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html).
 
 ### Vận động ngắn xen kẽ
 

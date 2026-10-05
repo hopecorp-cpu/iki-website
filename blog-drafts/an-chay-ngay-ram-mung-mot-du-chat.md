@@ -139,7 +139,7 @@ Thực đơn dưới đây nấu được bằng nguyên liệu chợ Việt, kh
 **Bữa phụ chiều**
 - Một nắm lạc rang hoặc hạt điều.
 - Hoặc: một quả chuối và vài hạt bí.
-- Uống kèm: một tách [trà thảo mộc ấm ban ngày](https://tra.ikihealing.com) thay cho ly cà phê sữa quen thuộc.
+- Uống kèm: một tách trà thảo mộc ấm ban ngày thay cho ly cà phê sữa quen thuộc.
 
 **Bữa tối**
 - Bún gạo lứt trộn rau sống, đậu phụ áp chảo, lạc rang giã, nước trộn chua ngọt pha loãng.

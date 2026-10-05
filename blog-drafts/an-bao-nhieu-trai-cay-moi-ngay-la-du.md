@@ -126,7 +126,7 @@ Không cần thuộc lòng, chỉ cần biết đại khái quả nào thuộc n
 
 Cách sắp xếp thực tế cho một ngày: hai phần từ nhóm ít ngọt hoặc ngọt vừa, và nếu thèm nhóm ngọt đậm thì tính nó là phần thứ ba thay vì ăn thêm ngoài mức.
 
-Một mẹo nhỏ cho những buổi chiều thèm ngọt: thay vì với tay lấy thêm quả ngọt đậm hoặc bánh kẹo, nhiều người thấy một tách [trà thảo mộc](https://tra.ikihealing.com) ấm giúp cơn thèm đi qua, đồng thời tăng lượng nước trong ngày. Đây là thói quen nhỏ nhưng dễ giữ vì không đòi hỏi phải kiêng gì.
+Một mẹo nhỏ cho những buổi chiều thèm ngọt: thay vì với tay lấy thêm quả ngọt đậm hoặc bánh kẹo, nhiều người thấy một tách trà thảo mộc ấm giúp cơn thèm đi qua, đồng thời tăng lượng nước trong ngày. Đây là thói quen nhỏ nhưng dễ giữ vì không đòi hỏi phải kiêng gì.
 
 ## Ăn trái cây lúc nào trong ngày
 

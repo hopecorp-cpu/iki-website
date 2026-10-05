@@ -137,7 +137,7 @@ Cách nhìn này gợi ra vài lưu ý thực tế khi kết hợp:
 - **Người hay nóng trong, khô miệng, ngủ không sâu** thường hợp yến chưng đơn giản, ít đường, có thể thêm hạt sen. Với nhóm này, khung giờ buổi tối thường dễ chịu hơn buổi sáng.
 - **Người tiêu hoá kém, hay đầy bụng** nên bắt đầu bằng khẩu phần rất nhỏ và chưng loãng hơn bình thường. Một chén yến đặc dùng lúc bụng đang ậm ạch sẽ khiến cảm giác nặng nề rõ hơn.
 
-Nếu bạn muốn giữ một nếp thức uống ấm đều đặn giữa các ngày có yến — vì yến chỉ dùng một hai lần mỗi tuần — thì một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) là cách đơn giản để duy trì thói quen uống ấm, không đường vào các ngày còn lại. Nguyên tắc chung là: **giữ nhịp quan trọng hơn giữ món.**
+Nếu bạn muốn giữ một nếp thức uống ấm đều đặn giữa các ngày có yến — vì yến chỉ dùng một hai lần mỗi tuần — thì một tách trà thảo mộc ban ngày là cách đơn giản để duy trì thói quen uống ấm, không đường vào các ngày còn lại. Nguyên tắc chung là: **giữ nhịp quan trọng hơn giữ món.**
 
 Điều cần nói rõ để tránh hiểu nhầm: những gợi ý trên là cách kết hợp theo kinh nghiệm dân gian nhằm giúp món ăn dễ chịu hơn với từng cơ địa, không phải cách xử lý bất kỳ vấn đề sức khoẻ nào. Nếu cơ thể bạn đang có dấu hiệu bất thường, việc cần làm là đi khám, chứ không phải đổi công thức chưng yến.
 

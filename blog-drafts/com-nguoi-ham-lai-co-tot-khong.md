@@ -104,7 +104,7 @@ Một bữa cơm nhà cân bằng thường có bốn phần: một phần tinh 
 
 Với người ăn chay, ăn ít thịt, hoặc những hôm bận không kịp nấu món mặn, một phần [đạm thực vật](https://trueveganprotein.com) pha cùng bữa là cách đơn giản để phần đạm không bị hụt — nhất là khi bữa trưa mang đi làm chỉ có cơm và rau. Đây là chuyện rất thường gặp: người ta chăm chút phần cơm mà quên mất phần đạm mới là thứ giữ cho buổi chiều không tụt năng lượng.
 
-Sau bữa cơm, nhiều người có thói quen ngồi ngay vào máy tính hoặc nằm nghỉ. Một cốc nước ấm hay một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) rồi đi lại nhẹ chừng mười phút thường dễ chịu hơn nhiều cho bụng dạ — nhất là sau bữa có cơm rang hoặc đồ chiên.
+Sau bữa cơm, nhiều người có thói quen ngồi ngay vào máy tính hoặc nằm nghỉ. Một cốc nước ấm hay một tách trà thảo mộc ban ngày rồi đi lại nhẹ chừng mười phút thường dễ chịu hơn nhiều cho bụng dạ — nhất là sau bữa có cơm rang hoặc đồ chiên.
 
 Mỗi người một thể trạng, và bữa cơm hợp với người này chưa chắc hợp với người kia. Bạn có thể [kiểm tra thể trạng 90 giây](../quiz/) để biết cơ thể mình đang nghiêng về xu hướng nào, từ đó điều chỉnh tỷ lệ cơm — rau — đạm cho vừa với chính mình.
 

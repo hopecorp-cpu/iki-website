@@ -76,7 +76,7 @@ Vị chát nhẹ và hương thơm của trà **cân lại vị ngọt béo đ�
 
 Vài lưu ý khi chọn thức uống đi kèm:
 
-- **Trà ấm, không đường.** Đây là lựa chọn tốt nhất. Trà xanh, trà sen, trà hoa cúc, hay bất kỳ [loại trà thảo mộc](https://tra.ikihealing.com) nào bạn quen uống ban ngày đều hợp.
+- **Trà ấm, không đường.** Đây là lựa chọn tốt nhất. Trà xanh, trà sen, trà hoa cúc, hay bất kỳ loại trà thảo mộc nào bạn quen uống ban ngày đều hợp.
 - **Trà nhạt hơn bình thường** nếu bạn nhạy với cà phê in hoặc uống vào buổi chiều muộn.
 - **Tránh nước ngọt có gas và nước ép nhiều đường.** Chồng ngọt lên ngọt khiến cảm giác ngán đến còn nhanh hơn, và bạn nạp thêm một lượng đường nữa mà không nhận ra.
 - **Nếu ngồi phá cỗ buổi tối muộn**, hãy chọn loại trà dịu không có cà phê in — như [trà thảo mộc buổi tối](https://thanhhuongtra.ikihealing.com) hoặc trà hoa cúc — để không ảnh hưởng đến giấc ngủ. Bài [Uống trà thảo mộc buổi tối có mất ngủ không](uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html) trả lời câu hỏi hay gặp này.

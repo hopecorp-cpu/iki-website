@@ -131,7 +131,7 @@ Khi lactose không được tiêu hoá hết ở ruột non, nó đi xuống đ�
 
 Về chuyện mụn, cần nói cho chính xác, không nói quá. Một phân tích gộp trên gần 80.000 người cho thấy **có mối liên quan** giữa lượng sữa tiêu thụ và tỉ lệ mụn, với mức chênh lệch khiêm tốn nhưng nhất quán. Một nghiên cứu bệnh chứng riêng về người dùng bổ sung whey cũng ghi nhận mối liên quan tương tự. Cần nhấn mạnh: đây là **mối liên quan quan sát được, không phải bằng chứng nhân quả**, và không phải ai uống bột đạm từ sữa cũng nổi mụn. Cơ chế được các tác giả đề xuất liên quan tới ảnh hưởng của protein sữa lên một số yếu tố nội tiết trong cơ thể, nhưng đây vẫn là giả thuyết đang được nghiên cứu.
 
-Đạm từ thực vật thì không có lactose, nên với người không dung nạp lactose, [đạm thực vật](https://trueveganprotein.com) thường là lựa chọn dễ chịu hơn cho đường tiêu hoá. Sự khác nhau giữa hai nhóm này về nguồn gốc, thành phần axit amin, tốc độ tiêu hoá và giá đã được so sánh sòng phẳng trong bài [đạm thực vật và whey khác nhau thế nào](dam-thuc-vat-va-whey-khac-nhau-the-nao.html) — không loại nào "tốt hơn" một cách tuyệt đối, chỉ có loại hợp hơn với hoàn cảnh của từng người.
+Đạm từ thực vật không chứa lactose. Sự khác nhau giữa hai nhóm này về nguồn gốc, thành phần axit amin, tốc độ tiêu hoá và giá đã được so sánh sòng phẳng trong bài [đạm thực vật và whey khác nhau thế nào](dam-thuc-vat-va-whey-khac-nhau-the-nao.html) — không loại nào "tốt hơn" một cách tuyệt đối, chỉ có loại hợp hơn với hoàn cảnh của từng người.
 
 ## Nguyên nhân số năm: đường, hương liệu và những thứ pha cùng
 
@@ -170,7 +170,7 @@ Không có loại bột nào "không gây nóng" cho tất cả mọi người, 
 
 Bài [đọc nhãn bột đạm thực vật](doc-nhan-bot-dam-thuc-vat.html) đi từng dòng nhãn với ảnh minh hoạ cụ thể, nếu bạn muốn đọc kỹ hơn.
 
-Về lựa chọn cụ thể, nếu bạn đang tìm một loại không có nền sữa, [bột đạm thực vật True Vegan Protein](https://trueveganprotein.com) được phối từ sáu loại hạt và đậu, thuần chay, pha được với nước lọc, nước ấm hoặc sữa hạt tuỳ khẩu vị. Đây là một lựa chọn trong nhiều lựa chọn — điều quan trọng vẫn là bạn đọc nhãn và chọn thứ hợp với bụng mình, hợp với ngân sách và hợp với khẩu vị của chính mình.
+Về lựa chọn cụ thể, nếu bạn đang tìm một loại không có nền sữa, [bột đạm thực vật True Vegan Protein](https://trueveganprotein.com) được phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt, thuần chay, pha được với nước lọc, nước ấm hoặc sữa hạt tuỳ khẩu vị. Đây là một lựa chọn trong nhiều lựa chọn — điều quan trọng vẫn là bạn đọc nhãn và chọn thứ hợp với bụng mình, hợp với ngân sách và hợp với khẩu vị của chính mình.
 
 ## Bảy ngày tự rà soát: một lộ trình cụ thể
 

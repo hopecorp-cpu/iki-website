@@ -164,7 +164,7 @@ Vài tiêu chí để chọn:
 
 Một ví dụ cụ thể là [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), dòng trà thảo mộc túi lọc của IKI phối từ hoa nhài, phục linh, hoa quế và trần bì. Ở góc hương vị, hoa nhài cho hương ngọt thanh ở ngụm đầu, hoa quế cho nốt ấm, phục linh giữ hậu vị dịu, còn trần bì — vỏ quýt phơi khô rất quen trong bếp Việt — cho một nốt cam nhẹ ở cuối. Trà không chứa caffeine, nên hợp với ấm trà sau bữa tối khi có cả ông bà và trẻ lớn cùng ngồi. Giá niêm yết 226.000đ một hộp. Nếu muốn tìm hiểu kỹ về bốn vị này, bài [trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) có phần phân tích nốt hương chi tiết.
 
-Nếu nhà bạn thích một ấm trà ban ngày, pha vào cuối tuần khi cả nhà ở nhà, [Trà Tuệ Minh](https://tra.ikihealing.com) là lựa chọn trà thảo mộc hợp khung giờ sáng và đầu chiều. Và với người lớn trong nhà đang muốn giảm cà phê buổi chiều, có thể xem thêm các [thức uống thay cà phê](https://ikihealing.com/shop/) để có một chén ấm cầm tay mà không cần thêm caffeine.
+Và với người lớn trong nhà đang muốn giảm cà phê buổi chiều, có thể xem thêm các [thức uống thay cà phê](https://ikihealing.com/shop/) để có một chén ấm cầm tay mà không cần thêm caffeine.
 
 ## Dựng nếp ấm trà gia đình: ai làm gì, lúc nào
 

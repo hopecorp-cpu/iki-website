@@ -158,7 +158,7 @@ Việc theo dõi phản ứng theo ngày là thứ rất dễ quên. Đây cũng
 
 Một mẹo phối hợp cổ điển: kết hợp **họ đậu với ngũ cốc** trong cùng một ngày (cơm với đậu, bánh mì với bơ đậu phộng, cháo đậu xanh) sẽ bổ trợ nhau về thành phần axit amin. Không nhất thiết phải cùng một bữa — cơ thể xử lý được trong khung một ngày.
 
-Sau bữa ăn nhiều đạm, nhiều người có thói quen dùng một tách [trà thảo mộc ấm](https://tra.ikihealing.com) để bụng dạ nhẹ nhàng hơn. Đây là thói quen dân gian dễ chịu, và cũng là cách tự nhiên để bạn nạp thêm một phần nước trong ngày.
+Sau bữa ăn nhiều đạm, nhiều người có thói quen dùng một tách trà thảo mộc ấm để bụng dạ nhẹ nhàng hơn. Đây là thói quen dân gian dễ chịu, và cũng là cách tự nhiên để bạn nạp thêm một phần nước trong ngày.
 
 ## Tổng kết: điều đáng nhớ
 

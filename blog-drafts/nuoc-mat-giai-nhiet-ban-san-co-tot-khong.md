@@ -128,7 +128,7 @@ Sự khác biệt giữa người hợp và không hợp đồ mát chính là �
 - **Ngay sau bữa ăn no:** nên đợi 30–60 phút, uống một lượng vừa phải để không gây cảm giác đầy tức.
 - **Sau 19–20 giờ:** nên giảm, nhất là các loại lợi tiểu, để tránh phải dậy đêm. Bài [Hay tiểu đêm nên uống nước thế nào](hay-tieu-dem-nen-uong-nuoc-the-nao.html) có gợi ý cụ thể hơn.
 
-Với buổi tối, một ấm trà thảo mộc nhạt không đường thường là lựa chọn dễ chịu hơn nước mát lạnh — vừa ấm bụng, vừa tạo được nghi thức thư giãn trước giờ ngủ. Đây cũng là tinh thần của [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), dòng trà thảo mộc IKI dành cho nhịp buổi tối; còn ban ngày, nhiều người chọn [Trà Tuệ Minh](https://tra.ikihealing.com) như một cách thay thế cho những ly nước ngọt lạnh quen tay lúc xế chiều.
+Với buổi tối, một ấm trà thảo mộc nhạt không đường thường là lựa chọn dễ chịu hơn nước mát lạnh — vừa ấm bụng, vừa tạo được nghi thức thư giãn trước giờ ngủ.
 
 ## Tự nấu nước mát tại nhà: rẻ hơn và chủ động hơn
 

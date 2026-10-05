@@ -114,7 +114,7 @@ Quy tắc đĩa không nói tới dầu mỡ và đồ uống, nhưng đây lạ
 
 - **Dầu mỡ:** một món kho hoặc xào có thể dùng lượng dầu nhiều hơn bạn nghĩ. Ưu tiên luộc, hấp, kho ít dầu cho các bữa thường ngày; để dành món chiên cho dịp cuối tuần. Bài [chọn dầu ăn lành mạnh](chon-dau-an-lanh-manh.html) nói về việc chọn loại.
 - **Nước chấm và gia vị:** nước mắm, tương, mắm tôm đều mặn. Một cách đơn giản là chấm nhẹ thay vì chan.
-- **Đồ uống:** nước lọc nên là mặc định. Nước ngọt có gas và trà sữa làm lệch cả bữa ăn cân bằng nhất. Nếu muốn đổi vị, một tách [trà thảo mộc uống ấm](https://tra.ikihealing.com) trong ngày hoặc [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) là lựa chọn nhiều người dùng thay cho đồ uống nhiều đường.
+- **Đồ uống:** nước lọc nên là mặc định. Nước ngọt có gas và trà sữa làm lệch cả bữa ăn cân bằng nhất. Nếu muốn đổi vị, một tách trà thảo mộc uống ấm trong ngày hoặc [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) là một lựa chọn thay cho đồ uống nhiều đường.
 
 ## Ăn ngoài: quán bún, cơm văn phòng và tiệc tùng
 

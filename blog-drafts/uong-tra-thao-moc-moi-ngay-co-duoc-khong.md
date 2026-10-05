@@ -21,7 +21,6 @@
     {"q": "Có nên uống mãi một loại trà thảo mộc trong nhiều tháng không?", "a": "Nên đổi loại thay vì gắn bó cố định với một thứ suốt nhiều tháng. Mỗi loại thảo mộc có tính chất riêng, và người xưa vốn chọn trà theo mùa và theo thời tiết chứ không uống một loại quanh năm. Cách làm gọn là giữ hai đến ba loại luân phiên, đổi theo mùa, và chen vài ngày chỉ uống nước ấm để cơ thể trở lại vạch xuất phát."}
   ],
   "related": [
-    {"title": "Trà Tuệ Minh là gì", "url": "tra-tue-minh-la-gi.html"},
     {"title": "Uống trà đúng cách", "url": "uong-tra-dung-cach.html"},
     {"title": "Uống trà thảo mộc buổi tối có mất ngủ không", "url": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html"},
     {"title": "Bà bầu uống trà thảo mộc được không", "url": "ba-bau-uong-tra-thao-moc-duoc-khong.html"},
@@ -90,7 +89,7 @@ Câu hỏi này thường đi liền với câu hỏi liều lượng, vì cùng
 
 **Sau bữa ăn khoảng 30–60 phút** là khung mà phần lớn hướng dẫn khuyên. Lúc này dạ dày đã có thức ăn, tách trà ấm trở thành phần khép lại bữa ăn thay vì gánh nặng thêm.
 
-**Đầu giờ chiều** là khung dễ chịu nhất với dân văn phòng. Đây thường là lúc người ta với tay lấy ly nước ngọt hoặc cốc cà phê thứ hai. Một tách trà thảo mộc ấm ở khung 14–15h vừa giữ được nhịp nghỉ ngắn giữa buổi, vừa không thêm caffeine vào buổi chiều muộn. Với khung này, một loại trà có vị dịu, hương thảo mộc quen thuộc như [Trà Tuệ Minh](https://tra.ikihealing.com) — trà túi lọc do hợp tác xã Nam Dược Tản Viên Sơn sản xuất — là kiểu hợp: pha nhanh trong một cái ly ở bàn làm việc, không cần ấm chén.
+**Đầu giờ chiều** là khung dễ chịu nhất với dân văn phòng. Đây thường là lúc người ta với tay lấy ly nước ngọt hoặc cốc cà phê thứ hai. Một tách trà thảo mộc ấm ở khung 14–15h vừa giữ được nhịp nghỉ ngắn giữa buổi, vừa không thêm caffeine vào buổi chiều muộn.
 
 **Buổi tối**, nếu bạn thích một tách ấm trước khi đi ngủ, hãy chọn loại không có lá chè trong thành phần và uống trước giờ ngủ 60–90 phút. Một loại có hương dịu, thiên về nếp thư giãn cuối ngày như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) hợp với khung giờ này hơn là trà vị mạnh. Chuyện tách trà tối và giấc ngủ được nói kỹ hơn trong bài [Uống trà thảo mộc buổi tối có mất ngủ không](uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html).
 
@@ -174,7 +173,7 @@ Uống trà thảo mộc mỗi ngày là được, và với nhiều người đ
 
 Điều cần giữ đúng hơn nữa là kỳ vọng. Tách trà ấm là một **nếp sinh hoạt** dễ chịu và là một lựa chọn thay thế tốt cho nước ngọt hay cà phê buổi chiều muộn. Nó không phải giải pháp cho một vấn đề sức khoẻ nào, và nếu bạn đang có điều gì đó cần theo dõi trong người, việc cần làm là gặp bác sĩ chứ không phải đổi loại trà.
 
-Bạn có thể bắt đầu ngay hôm nay bằng điều nhỏ nhất: một tách pha nhạt sau bữa sáng ngày mai. Nếu muốn chọn loại hợp với cơ địa mình thay vì chọn theo cảm tính, hãy làm [bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz) trước — rồi đọc thêm [Trà Tuệ Minh là gì](tra-tue-minh-la-gi.html) để biết một loại trà túi lọc Việt được làm từ đâu và pha thế nào.
+Bạn có thể bắt đầu ngay hôm nay bằng điều nhỏ nhất: một tách pha nhạt sau bữa sáng ngày mai.
 
 ## Nguồn tham khảo
 

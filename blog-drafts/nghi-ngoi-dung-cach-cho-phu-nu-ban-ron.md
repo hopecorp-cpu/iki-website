@@ -151,7 +151,7 @@ Cách nghỉ giác quan, phần lớn chỉ cần vài phút:
 - **Tắt thông báo không cần thiết:** chỉ giữ thông báo của người thật cần liên lạc gấp.
 - **Hạ đèn buổi tối:** dùng đèn vàng, ánh sáng dịu trong một giờ trước khi ngủ. Bài [màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html) có thêm gợi ý về khoảng này.
 
-Một nghi thức nhỏ nhiều chị em thích là pha một tách trà ấm, ngồi ở một góc yên tĩnh và chỉ tập trung vào hơi ấm, mùi hương trong vài phút. Với buổi tối, một tách [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) không đường, hương hoa nhài và trần bì nhẹ nhàng, là cách nhiều người dùng để đánh dấu "ngày làm việc đã khép lại". Thứ giúp mình dịu đi ở đây chủ yếu là nghi thức: tắt màn hình, ngồi xuống, thở chậm. Tách trà chỉ là cái mốc để mình nhớ làm việc đó mỗi tối.
+Một nghi thức nhỏ nhiều chị em thích là pha một tách trà ấm, ngồi ở một góc yên tĩnh và chỉ tập trung vào hơi ấm, mùi hương trong vài phút. Với buổi tối, một tách [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) không đường, hương hoa nhài và trần bì nhẹ nhàng, là một cách để đánh dấu "ngày làm việc đã khép lại". Thứ giúp mình dịu đi ở đây chủ yếu là nghi thức: tắt màn hình, ngồi xuống, thở chậm. Tách trà chỉ là cái mốc để mình nhớ làm việc đó mỗi tối.
 
 ## Nghỉ ngơi sáng tạo, xã hội và tinh thần: ba kiểu hay bị bỏ quên
 

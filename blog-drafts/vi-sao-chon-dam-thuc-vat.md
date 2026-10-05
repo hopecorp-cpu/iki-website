@@ -117,9 +117,9 @@ Nhìn tổng thể, một khẩu phần đạm thực vật lý tưởng thườ
 Xem [thông tin đầy đủ về True Vegan Protein Pro](../san-pham/true-vegan-protein.html): thành phần, cách pha, ai dùng được và giá niêm yết.
 
 
-Khi đã có bộ tiêu chí trong tay, việc nhìn vào một sản phẩm cụ thể sẽ dễ dàng hơn. Trong nhóm bột đạm thực vật, [True Vegan Protein](https://trueveganprotein.com) là một lựa chọn được nhiều người trong cộng đồng chăm sóc sức khỏe chủ động cân nhắc, và nó là ví dụ tốt để soi chiếu qua bốn tiêu chí ở trên.
+Khi đã có bộ tiêu chí trong tay, việc nhìn vào một sản phẩm cụ thể sẽ dễ dàng hơn. Trong nhóm bột đạm thực vật, [True Vegan Protein](https://trueveganprotein.com) là một lựa chọn, và nó là ví dụ tốt để soi chiếu qua bốn tiêu chí ở trên.
 
-Về nguồn gốc và thành phần, True Vegan Protein là dòng đạm thực vật với nguồn đạm từ hạnh nhân, ngũ cốc nguyên hạt, các loại hạt và một số nguyên liệu chọn lọc. Sản phẩm định hướng thuần chay, không chứa cholesterol, không đường hóa học, không gluten và không dùng sữa, nên phù hợp với người ăn chay, người muốn hạn chế đạm động vật hoặc người thấy khó chịu với sữa. Với ai đặt nặng tiêu chí thành phần sạch và dễ tiêu, đây là những điểm đáng chú ý.
+Về nguồn gốc và thành phần, Bột đạm thực vật True Vegan Protein Pro có hỗn hợp đạm từ đậu Hà Lan và hạnh nhân, cùng nhiều loại hạt và ngũ cốc; danh sách đầy đủ ghi trên nhãn. Trên nhãn ghi 0 lactose, 0 cholesterol, 0 đạm động vật.
 
 Về sự đa dạng, một loại bột đạm nhiều nguồn nguyên liệu thực vật khác nhau có lợi thế phối axit amin ngay trong một sản phẩm, thay vì chỉ dựa vào một loại đậu duy nhất. Dù vậy, tinh thần chung vẫn nên là dùng nó song song với bữa ăn đa dạng, chứ không xem một ly bột là đủ cho cả ngày.
 

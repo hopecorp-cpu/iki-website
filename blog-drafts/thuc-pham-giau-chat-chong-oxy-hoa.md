@@ -113,7 +113,7 @@ Beta-caroten, lycopene, lutein đều tan trong dầu. Ăn cà rốt sống ch�
 
 Với nhiều người Việt, thay đổi bữa ăn khó hơn thay đổi thứ mình uống. Mà đồ uống lại là nguồn polyphenol rất đáng kể nếu chọn đúng.
 
-Trà xanh là ví dụ rõ nhất, với nhóm catechin đã được nghiên cứu nhiều. Ngoài ra, các loại lá và hoa trong truyền thống Việt Nam như lá sen, hoa cúc, cỏ ngọt, kim ngân, atiso cũng chứa polyphenol ở mức khác nhau. Một ấm [trà thảo mộc uống ban ngày](https://tra.ikihealing.com) thay cho ly nước ngọt là thay đổi nhỏ nhưng lặp lại 365 ngày một năm, nên tổng tác động không nhỏ.
+Trà xanh là ví dụ rõ nhất, với nhóm catechin đã được nghiên cứu nhiều. Ngoài ra, các loại lá và hoa trong truyền thống Việt Nam như lá sen, hoa cúc, cỏ ngọt, kim ngân, atiso cũng chứa polyphenol ở mức khác nhau. Một ấm trà thảo mộc uống ban ngày thay cho ly nước ngọt là thay đổi nhỏ nhưng lặp lại 365 ngày một năm, nên tổng tác động không nhỏ.
 
 Vài lưu ý khi dùng trà:
 

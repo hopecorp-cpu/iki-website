@@ -103,7 +103,7 @@ Có hũ mật đáng tin rồi thì đây là phần quyết định.
 
 **Thời điểm.** Một cốc nước ấm pha mật loãng vào buổi sáng là thói quen quen thuộc của nhiều người; cách làm và những lưu ý có trong bài [uống nước chanh mật ong buổi sáng](uong-nuoc-chanh-mat-ong-buoi-sang.html). Buổi tối, một thìa nhỏ mật pha vào [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) là cách làm dịu vị trà mà không cần đến đường trắng.
 
-**Kết hợp.** Mật ong hợp nhất với vai trò **thay đường trong thức uống ấm**. Một chút mật trong tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) giúp người mới uống trà dễ làm quen với vị chát, và từ đó dần bỏ được thói quen uống nước ngọt buổi chiều.
+**Kết hợp.** Mật ong hợp nhất với vai trò **thay đường trong thức uống ấm**. Một chút mật trong tách trà thảo mộc ban ngày giúp người mới uống trà dễ làm quen với vị chát, và từ đó dần bỏ được thói quen uống nước ngọt buổi chiều.
 
 **Nên tránh:** uống mật đặc khi bụng đói với người dễ cồn ruột, và dùng mật như một loại nước giải khát uống cả ngày.
 

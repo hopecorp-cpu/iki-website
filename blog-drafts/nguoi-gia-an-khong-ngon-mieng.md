@@ -146,7 +146,7 @@ Bát đĩa có màu, món ăn nhiều màu sắc, bàn ăn sáng sủa — nhữ
 
 **Nước ấm, không đá.** Người cao tuổi thường nhạy hơn với đồ lạnh; bài [uống nước đá lạnh có hại không](uong-nuoc-da-lanh-co-hai-khong.html) giải thích cụ thể vì sao.
 
-**Trà thảo mộc nhẹ.** Một tách [trà thảo mộc ấm](https://tra.ikihealing.com) buổi chiều là thói quen dễ chịu với nhiều cụ — vừa thêm nước, vừa tạo một cái mốc quen thuộc trong ngày. Buổi tối, loại trà [dịu nhẹ hơn cho giờ nghỉ](https://thanhhuongtra.ikihealing.com) hợp với nhịp chuẩn bị đi ngủ.
+**Trà thảo mộc nhẹ.** Một tách trà thảo mộc ấm buổi chiều là thói quen dễ chịu với nhiều cụ — vừa thêm nước, vừa tạo một cái mốc quen thuộc trong ngày. Buổi tối, loại trà [dịu nhẹ hơn cho giờ nghỉ](https://thanhhuongtra.ikihealing.com) hợp với nhịp chuẩn bị đi ngủ.
 
 **Phơi nắng sớm.** 15–20 phút nắng sớm mỗi ngày vừa giúp vitamin D, vừa điều hoà nhịp sinh học nên ngủ tốt hơn và ăn ngon hơn. Xem [vitamin D và ánh nắng](vitamin-d-va-anh-nang.html).
 
