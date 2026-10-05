@@ -195,15 +195,9 @@ Nếu bạn đang tìm một hộp trà thảo mộc Việt, nguồn gốc rõ r
 
 Hộp trà này hợp làm quà cho người thích một nghi thức nhỏ buổi tối: mẹ hay ngồi uống trà sau bữa cơm, bạn thân làm việc căng và muốn có vài phút tách khỏi màn hình, đồng nghiệp hay nói "tối về chỉ muốn ngồi yên". Muốn hiểu kỹ hơn về bốn vị và cách pha, bạn xem bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html).
 
-### Trà Tuệ Minh: hộp trà cho bàn làm việc ban ngày
-
-[Trà Tuệ Minh](https://tra.ikihealing.com) là trà thảo mộc túi lọc do HTX Nam Dược Tản Viên Sơn sản xuất, giá niêm yết 168.000đ một hộp (đã gồm VAT). Pha với nước 90-95 độ, hãm 5-7 phút, hợp uống ấm vào buổi sáng hoặc giữa chiều.
-
-Hộp nhỏ gọn nên hợp làm quà cho đồng nghiệp, sếp, khách hàng hoặc bố mẹ quen có cốc trà ấm bên cạnh khi đọc báo buổi sáng. Tặng kèm một chiếc cốc giữ nhiệt là thành một bộ quà văn phòng rất tiện.
-
 ### Ghép thêm cho bạn ăn chay
 
-Với người bạn theo lối sống thuần thực vật, bạn có thể ghép một hộp trà cùng một món ăn uống thuần chay khác. Bột [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro phối từ sáu loại hạt và đậu, giá niêm yết 668.000đ cho hộp 500g, là một lựa chọn cho người bạn bận rộn muốn có thêm nguồn đạm tiện pha vào bữa sáng. Món quà kiểu này cho thấy bạn thật sự để ý tới lối sống của người nhận.
+Với người bạn theo lối sống thuần thực vật, bạn có thể ghép một hộp trà cùng một món ăn uống thuần chay khác. Bột [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt, giá niêm yết 668.000đ cho hộp 500g, là một lựa chọn cho người bạn bận rộn muốn có thêm nguồn đạm tiện pha vào bữa sáng. Món quà kiểu này cho thấy bạn thật sự để ý tới lối sống của người nhận.
 
 Các sản phẩm khác như mật ong, dầu ép, hạt dinh dưỡng để ghép thành hộp quà theo ý bạn có trong [cửa hàng IKI](https://ikihealing.com/shop/).
 

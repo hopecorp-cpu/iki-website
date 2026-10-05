@@ -141,7 +141,7 @@ Cách chọn hộp đựng cũng ảnh hưởng tới bước này, đặc biệ
 
 **Cơm hộp mang đi làm.** Đây là ca đặc biệt vì món ăn phải nằm ngoài tủ lạnh vài tiếng. Nếu cơ quan có tủ lạnh, hãy cất hộp vào ngay khi tới nơi. Nếu không, dùng túi giữ lạnh kèm đá khô hoặc chai nước đông đá. Và nên tránh mang những món thuộc nhóm rủi ro cao như hải sản, trứng ốp chưa chín kỹ, rau lá đã nấu. Bài [Cơm hộp mang đi làm đủ chất và an toàn](com-hop-mang-di-lam-du-chat-an-toan.html) có gợi ý thực đơn cụ thể.
 
-Với những ngày quá bận không kịp nấu phần đạm cho hộp cơm, một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh là cách giữ cho bữa trưa không bị hụt đạm mà không phải mang theo món dễ hỏng. Và nếu buổi chiều bạn hay thấy nặng bụng sau bữa trưa hâm lại, một ly [trà thảo mộc ấm](https://tra.ikihealing.com) sau bữa là thói quen dễ chịu nhiều người giữ được lâu.
+Với những ngày quá bận không kịp nấu phần đạm cho hộp cơm, một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh là cách giữ cho bữa trưa không bị hụt đạm mà không phải mang theo món dễ hỏng. Và nếu buổi chiều bạn hay thấy nặng bụng sau bữa trưa hâm lại, một ly trà thảo mộc ấm sau bữa là thói quen dễ chịu nhiều người giữ được lâu.
 
 ## Thay vì sợ hâm lại, hãy nấu theo kiểu chia phần
 

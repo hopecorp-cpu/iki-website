@@ -102,7 +102,7 @@ Trà bạc hà cho cảm giác the mát, thơm và tươi mới, hợp với nh�
 
 ### Thảo mộc theo y học cổ truyền
 
-Bên cạnh các loại phổ thông, nhiều người Việt còn quen với các loại thảo mộc trong y học cổ truyền như cà gai leo, giảo cổ lam, atiso, xạ đen, cây xấu hổ. Những loại này thường được kết hợp trong các công thức trà túi lọc hiện đại, mang đến thức uống thanh mát, dễ uống cho nếp sống bận rộn. Nếu bạn thích hương vị thảo mộc truyền thống và muốn một tách trà nhẹ nhàng cho ngày dài, một sản phẩm như [Trà Tuệ Minh](https://tra.ikihealing.com) là một lựa chọn tiện lợi để bắt đầu, với công thức kết hợp nhiều thảo mộc quen thuộc dạng túi lọc.
+Bên cạnh các loại phổ thông, nhiều người Việt còn quen với các loại thảo mộc trong y học cổ truyền như cà gai leo, giảo cổ lam, atiso, xạ đen, cây xấu hổ. Những loại này thường được kết hợp trong các công thức trà túi lọc hiện đại, mang đến thức uống thanh mát, dễ uống cho nếp sống bận rộn.
 
 ## Cách chọn và pha trà thảo mộc
 

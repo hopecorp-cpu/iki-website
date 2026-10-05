@@ -237,7 +237,7 @@ Chi tiết hơn về cách chuẩn bị bữa ăn theo tuần có ở bài [Chu�
 
 **Người trên 50 tuổi.** Mỗi bữa cần lượng đạm đủ ngưỡng thì cơ thể mới phản hồi rõ trong việc giữ khối cơ, nên việc chia đều 25 g mỗi bữa chính càng quan trọng. Ưu tiên các món mềm, nấu kỹ, dễ tiêu. Kèm theo vài động tác kháng lực nhẹ vài lần mỗi tuần.
 
-**Người mới chuyển sang ăn chay.** Tăng lượng đậu và ngũ cốc nguyên cám từ từ trong hai đến ba tuần. Chuyển đột ngột từ khẩu phần ít chất xơ sang nhiều chất xơ thường gây đầy hơi trong những ngày đầu. Ngâm đậu qua đêm, đổ nước ngâm, nấu thật mềm, ăn chậm và uống đủ nước rải đều trong ngày. Một tách [trà thảo mộc uống ấm](https://tra.ikihealing.com) sau bữa cũng giúp nhiều người thấy dễ chịu hơn.
+**Người mới chuyển sang ăn chay.** Tăng lượng đậu và ngũ cốc nguyên cám từ từ trong hai đến ba tuần. Chuyển đột ngột từ khẩu phần ít chất xơ sang nhiều chất xơ thường gây đầy hơi trong những ngày đầu. Ngâm đậu qua đêm, đổ nước ngâm, nấu thật mềm, ăn chậm và uống đủ nước rải đều trong ngày. Một tách trà thảo mộc uống ấm sau bữa cũng giúp nhiều người thấy dễ chịu hơn.
 
 **Phụ nữ mang thai, cho con bú, trẻ nhỏ.** Đây là các nhóm có nhu cầu đặc biệt, nên xây thực đơn dưới hướng dẫn của bác sĩ hoặc chuyên gia dinh dưỡng thay vì áp dụng thực đơn chung.
 

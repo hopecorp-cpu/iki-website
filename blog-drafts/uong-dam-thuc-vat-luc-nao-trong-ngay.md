@@ -110,7 +110,7 @@ Khoảng ba đến bốn giờ chiều là quãng nhiều người tụt năng l
 
 Một phần đạm pha loãng vào khung giờ này là cách đổi chỗ khá hiệu quả. Nó cho cảm giác no nhẹ, không gây tụt đường huyết dội ngược như đồ ngọt, và giữ cho bữa tối không bị ăn bù quá nhiều.
 
-Với người có cơ địa dễ lạnh bụng, buổi chiều muộn là lúc nên tránh đồ uống quá lạnh. Pha với nước ấm hoặc uống kèm một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) thường dễ chịu hơn một ly lắc đầy đá.
+Với người có cơ địa dễ lạnh bụng, buổi chiều muộn là lúc nên tránh đồ uống quá lạnh. Pha với nước ấm hoặc uống kèm một tách trà thảo mộc ban ngày thường dễ chịu hơn một ly lắc đầy đá.
 
 ## Buổi tối trước khi ngủ — nên hay không
 

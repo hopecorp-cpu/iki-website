@@ -154,7 +154,7 @@ Với người làm ca đêm, chuyện này còn rõ hơn nữa vì nhịp ăn b
 
 Nhiều người có thói quen ăn mì nóng xong thì uống ngay một ly nước đá hoặc nước ngọt có gas cho "đã". Cảm giác lúc đó rất sảng khoái, nhưng khá nhiều người kể lại rằng khoảng nửa tiếng sau thì thấy bụng ấm ách và người nặng nề.
 
-Một ly nước ấm, hoặc một tách [trà thảo mộc ấm](https://tra.ikihealing.com) nhấp chậm sau bữa, thường là lựa chọn dịu dàng hơn cho bụng — nhất là khi bữa vừa rồi đã hơi nhiều dầu và muối. Đây chỉ là gợi ý về thói quen sinh hoạt để bạn thấy dễ chịu hơn, không phải một giải pháp thay cho chế độ chăm sóc y tế. Bài [thức uống ấm và trà thảo mộc](thuc-uong-am-tra-thao-moc.html) nói thêm về cách chọn thức uống ấm theo thời điểm trong ngày.
+Một ly nước ấm, hoặc một tách trà thảo mộc ấm nhấp chậm sau bữa, thường là lựa chọn dịu dàng hơn cho bụng — nhất là khi bữa vừa rồi đã hơi nhiều dầu và muối. Đây chỉ là gợi ý về thói quen sinh hoạt để bạn thấy dễ chịu hơn, không phải một giải pháp thay cho chế độ chăm sóc y tế. Bài [thức uống ấm và trà thảo mộc](thuc-uong-am-tra-thao-moc.html) nói thêm về cách chọn thức uống ấm theo thời điểm trong ngày.
 
 ## Nhìn lại: mì tôm trong một tuần ăn uống cân bằng
 

@@ -132,7 +132,7 @@ Nhu cầu của người trưởng thành là khoảng 7-9 tiếng, và điều 
 
 **Buồn ngủ khi đang chạy là tín hiệu bắt buộc dừng.** Không có mẹo nào thay thế được việc dừng lại — mở nhạc to, mở cửa gió, tự vỗ mặt đều chỉ kéo dài tình trạng nguy hiểm thêm vài phút.
 
-Về đồ uống trong ca: nhiều tài xế dựa vào cà phê và nước tăng lực để chống buồn ngủ, đặc biệt vào cuối ca. Cách này có tác dụng nhưng vay mượn từ giấc ngủ sau đó, tạo thành vòng lặp. Với những cuốc cuối ngày, một chai [trà thảo mộc pha sẵn](https://tra.ikihealing.com) mang theo là lựa chọn nhẹ hơn cho phần cuối ca, giúp bạn không nạp thêm caffeine vào khung giờ sẽ phá giấc ngủ. Bạn cũng có thể xem thêm các [thức uống thay cà phê](https://ikihealing.com/shop/) nếu thấy mình đang phụ thuộc quá nhiều vào cà phê để giữ tỉnh táo.
+Về đồ uống trong ca: nhiều tài xế dựa vào cà phê và nước tăng lực để chống buồn ngủ, đặc biệt vào cuối ca. Cách này có tác dụng nhưng vay mượn từ giấc ngủ sau đó, tạo thành vòng lặp. Với những cuốc cuối ngày, một chai trà thảo mộc pha sẵn mang theo là lựa chọn nhẹ hơn cho phần cuối ca, giúp bạn không nạp thêm caffeine vào khung giờ sẽ phá giấc ngủ. Bạn cũng có thể xem thêm các [thức uống thay cà phê](https://ikihealing.com/shop/) nếu thấy mình đang phụ thuộc quá nhiều vào cà phê để giữ tỉnh táo.
 
 ## Căng thẳng và sức khoẻ tinh thần trong nghề chạy đơn
 

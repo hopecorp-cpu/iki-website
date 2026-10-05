@@ -133,7 +133,7 @@ Nếu đã nấu, hãy nấu cho khéo. Vài nguyên tắc bếp núc đơn gi�
 6. **Tăng phần rau củ trong nồi**: hành tây, củ cải, cà rốt, ngô, nấm. Vừa ngọt nước tự nhiên, vừa cho thêm chất xơ nếu bạn ăn cả phần cái.
 7. **Bảo quản đúng cách**: chia nhỏ, để nguội nhanh rồi cấp đông. Xem thêm [Bảo quản thực phẩm đúng cách](bao-quan-thuc-pham-dung-cach.html).
 
-Với bữa ăn nhiều dầu mỡ hoặc bữa cỗ, nhiều gia đình có thói quen dùng một tách [trà thảo mộc ấm](https://tra.ikihealing.com) sau bữa để cảm giác nhẹ bụng hơn. Đây là thói quen sinh hoạt dễ chịu, không phải cách xử lý vấn đề tiêu hoá.
+Với bữa ăn nhiều dầu mỡ hoặc bữa cỗ, nhiều gia đình có thói quen dùng một tách trà thảo mộc ấm sau bữa để cảm giác nhẹ bụng hơn. Đây là thói quen sinh hoạt dễ chịu, không phải cách xử lý vấn đề tiêu hoá.
 
 :::case Chị M. (Hải Phòng) — bát cháo kỳ công mà con vẫn không tăng cân
 Chị M. kể rằng suốt nhiều tháng chị hầm xương mỗi hai ngày, chắt lấy nước nấu cháo cho con hai tuổi, bỏ phần cái vì nghĩ chất đã ra hết nước. Con ăn hết bát nhưng cân nặng gần như đứng yên. Khi được hướng dẫn, chị đổi cách: vẫn dùng nước dùng cho ngon miệng, nhưng mỗi bát cháo đều có thêm phần đạm được xay nhuyễn cùng rau, và thêm một chút dầu ăn lành sau khi tắt bếp. Chị nói điều bất ngờ nhất là con ăn ngon hơn chứ không phải kém đi như chị lo. Đây là trải nghiệm cá nhân về thay đổi cách nấu, không phải cam kết về sức khoẻ; chế độ ăn của trẻ nên được tư vấn bởi chuyên gia dinh dưỡng hoặc bác sĩ nhi.

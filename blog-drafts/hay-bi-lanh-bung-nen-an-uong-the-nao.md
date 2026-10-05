@@ -78,7 +78,7 @@ Ngoài bốn nguyên tắc trên, còn một điều thuộc về sinh hoạt ch
 
 **Ngũ cốc ấm.** Cơm nóng, cháo, yến mạch nấu chín, gạo lứt nấu mềm. Tránh ăn cơm nguội để tủ lạnh mà chưa hâm kỹ.
 
-**Thức uống ấm.** Nước ấm, trà gừng, nước gạo lứt rang, [trà thảo mộc ấm ban ngày](https://tra.ikihealing.com) như Trà Tuệ Minh cho những buổi sáng cần một thứ nhẹ nhàng thay vì cà phê đá. Một tách ấm cầm tay buổi sáng là thói quen nhỏ mà nhóm cơ địa thiên hàn thường thấy hợp. Xem thêm [Uống nước gừng ấm buổi sáng](uong-nuoc-gung-am-buoi-sang.html) và [Thức uống ấm và trà thảo mộc](thuc-uong-am-tra-thao-moc.html).
+**Thức uống ấm.** Một tách ấm cầm tay buổi sáng là thói quen nhỏ mà nhóm cơ địa thiên hàn thường thấy hợp. Xem thêm [Uống nước gừng ấm buổi sáng](uong-nuoc-gung-am-buoi-sang.html) và [Thức uống ấm và trà thảo mộc](thuc-uong-am-tra-thao-moc.html).
 
 ## Nhóm nên giãn bớt, không phải kiêng tuyệt đối
 

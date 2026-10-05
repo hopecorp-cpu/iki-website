@@ -84,7 +84,7 @@ Khi bỏ thịt, cá, trứng, có bốn nhóm chất giảm rõ nhất. Đây l
 
 Nguyên tắc thực hành đơn giản nhất: **mỗi bữa chính phải có một nguồn đạm nhìn thấy rõ trên mâm.** Không cần đếm gam. Chỉ cần nhìn xuống mâm và trả lời được câu hỏi "đạm của bữa này nằm ở món nào?". Nếu câu trả lời là "không có" hoặc "chắc là trong rau", bữa đó cần thêm.
 
-Với người tập luyện hoặc người trên 50 tuổi — hai nhóm có nhu cầu đạm cao hơn — một tháng chay có thể là quãng khó. Nhiều người chọn thêm một ly [đạm thực vật](https://trueveganprotein.com) làm bữa phụ để bảo đảm tổng đạm cả ngày không tụt xuống, đặc biệt vào những ngày bận không kịp chuẩn bị mâm chay đầy đủ.
+Với người tập luyện hoặc người trên 50 tuổi — hai nhóm có nhu cầu đạm cao hơn — một tháng chay có thể là quãng khó. Có thể thêm một ly [đạm thực vật](https://trueveganprotein.com) làm bữa phụ để bảo đảm tổng đạm cả ngày không tụt xuống, đặc biệt vào những ngày bận không kịp chuẩn bị mâm chay đầy đủ.
 
 ### Khoảng hụt 2: Sắt
 
@@ -96,7 +96,7 @@ Hai mẹo tăng hấp thu:
 
 **Ăn kèm vitamin C.** Vitamin C tăng hấp thu sắt thực vật đáng kể. Cách làm rất dễ trong bữa Việt: vắt chanh vào canh, ăn thêm ổi hoặc cam sau bữa, thêm cà chua vào món đậu hũ kho, ăn rau sống có nhiều rau thơm.
 
-**Tránh trà đặc và cà phê ngay sau bữa ăn.** Tanin trong trà đặc cản trở hấp thu sắt. Hãy giãn ra ít nhất một tiếng sau bữa. Nếu bạn có thói quen uống trà sau cơm, chuyển sang một tách [trà thảo mộc nhẹ](https://tra.ikihealing.com) cách bữa một khoảng là cách vẹn cả đôi đường — vừa giữ được nếp thư thái sau bữa cơm, vừa không cản trở phần sắt bạn vừa ăn vào.
+**Tránh trà đặc và cà phê ngay sau bữa ăn.** Tanin trong trà đặc cản trở hấp thu sắt. Hãy giãn ra ít nhất một tiếng sau bữa. Nếu bạn có thói quen uống trà sau cơm, chuyển sang một tách trà thảo mộc nhẹ cách bữa một khoảng là cách vẹn cả đôi đường — vừa giữ được nếp thư thái sau bữa cơm, vừa không cản trở phần sắt bạn vừa ăn vào.
 
 ### Khoảng hụt 3: Kẽm
 

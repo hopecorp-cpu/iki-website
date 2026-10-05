@@ -164,7 +164,7 @@ Uống đúng quan trọng ngang với ăn đúng, và mùa thu là mùa dễ u�
 
 - **Nước ấm là nền.** Rải đều cả ngày, mỗi lần một cốc nhỏ. Cách theo dõi đơn giản nhất vẫn là màu nước tiểu: vàng nhạt là ổn.
 - **Nước lê hấp hoặc nước táo đỏ hạt sen.** Nấu một mẻ, uống ấm trong ngày.
-- **Trà thảo mộc ấm ban ngày.** Một loại trà nhẹ như [Trà Tuệ Minh](https://tra.ikihealing.com) hợp với nếp uống ấm rải đều trong ngày hanh, thay cho thói quen uống nước ngọt hoặc cà phê liên tục. Xem thêm bài [Thức uống ấm từ trà thảo mộc](thuc-uong-am-tra-thao-moc.html).
+- **Trà thảo mộc ấm ban ngày.** Xem thêm bài [Thức uống ấm từ trà thảo mộc](thuc-uong-am-tra-thao-moc.html).
 - **Buổi tối, khi muốn chậm lại:** một cốc trà thảo mộc dịu như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) làm nghi thức đóng ngày, hợp với nhịp mùa thu vốn nên ngủ sớm hơn.
 - **Giảm dần đồ lạnh.** Thói quen uống nước đá của mùa hè nên rút lại khi trời đã se lạnh sáng sớm và tối muộn.
 - **Hạn chế rượu bia và cà phê đặc**, vì cả hai đều làm cơ thể mất nước nhiều hơn.

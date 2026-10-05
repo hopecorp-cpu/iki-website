@@ -217,7 +217,7 @@ Hai câu hỏi đó xử lý được gần hết các tình huống trong bếp
 
 Việc ăn uống lành mạnh không chỉ nằm ở chọn món gì, mà còn ở việc thực phẩm trong nhà được giữ đúng cách và dùng đúng lúc. Nếu bạn muốn nhìn tổng thể hơn về cách sắp xếp bữa ăn theo cơ địa của mình, [khảo sát thể tạng 90 giây của IKI](https://ikihealing.com/quiz) là điểm khởi đầu nhanh gọn, và [ứng dụng IKI](https://ikihealing.com/app.html) có thể quét bữa ăn để bạn thấy khẩu phần thật của mình đang thiếu hay thừa nhóm nào.
 
-Cũng đừng quên nhóm thực phẩm dễ bị bỏ quên nhất trong tủ bếp: các loại [trà thảo mộc](https://tra.ikihealing.com) và gia vị khô. Chúng không hỏng nhanh, nhưng để lâu thì mất gần hết hương — mà hương chính là toàn bộ lý do ta mua chúng.
+Cũng đừng quên nhóm thực phẩm dễ bị bỏ quên nhất trong tủ bếp: các loại trà thảo mộc và gia vị khô. Chúng không hỏng nhanh, nhưng để lâu thì mất gần hết hương — mà hương chính là toàn bộ lý do ta mua chúng.
 
 ## Nguồn tham khảo
 

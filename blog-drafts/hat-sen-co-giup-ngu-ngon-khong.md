@@ -109,7 +109,7 @@ Việc đặt ấm nước, hãm một tách trà, ngồi yên mười phút kh�
 
 Với người có thể trạng dễ lạnh, hoặc đơn giản là không chịu được vị đắng của tâm sen, những lựa chọn êm hơn cho buổi tối gồm: trà hoa cúc, trà gừng nhạt, nước ấm với vài lát táo đỏ, hoặc các dòng [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) — pha nhạt, uống ấm, cách giờ ngủ khoảng một giờ. Đây là thức uống dùng như một phần của nếp buổi tối, không phải cách xử lý tình trạng mất ngủ; các sản phẩm là thực phẩm bổ sung, không phải thuốc.
 
-Còn ban ngày, nếu tình trạng khó ngủ của bạn liên quan đến việc uống cà phê muộn — điều rất thường gặp mà ít ai nghi tới — thì việc chuyển ly cà phê buổi chiều sang một [tách trà thảo mộc ban ngày](https://tra.ikihealing.com) hoặc nước ấm đôi khi tạo khác biệt lớn hơn mọi thứ bạn uống lúc mười giờ đêm.
+Còn ban ngày, nếu tình trạng khó ngủ của bạn liên quan đến việc uống cà phê muộn — điều rất thường gặp mà ít ai nghi tới — thì việc chuyển ly cà phê buổi chiều sang một tách trà thảo mộc ban ngày hoặc nước ấm đôi khi tạo khác biệt lớn hơn mọi thứ bạn uống lúc mười giờ đêm.
 
 ## Phần quyết định giấc ngủ: nếp buổi tối, không phải bát chè
 

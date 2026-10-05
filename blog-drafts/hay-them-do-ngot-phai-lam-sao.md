@@ -73,7 +73,7 @@ Nếu bạn đang ở tình trạng này, việc cần làm không nằm ở t�
 
 Đồ ngọt cho cảm giác dễ chịu tức thì, nên khi căng thẳng, bộ não học rất nhanh rằng ăn ngọt là cách xoa dịu. Vấn đề là hiệu ứng đó chỉ kéo dài vài phút, trong khi nguyên nhân gây căng thẳng vẫn nguyên đó. Lặp lại đủ nhiều lần, ăn ngọt trở thành phản xạ mỗi khi có áp lực.
 
-Với kiểu này, cách hiệu quả không phải là cấm mà là thay phản xạ. Khi cảm thấy căng, hãy thử một chuỗi hành động khác mất khoảng năm phút: đứng dậy đi lại, hít thở chậm, pha một tách trà nóng. Nhiều người thấy thói quen pha [trà thảo mộc uống ban ngày](https://tra.ikihealing.com) hoạt động tốt ở đây không phải vì trà làm hết thèm, mà vì nó chiếm đúng khoảng thời gian và động tác mà trước đây dành cho việc bóc gói bánh.
+Với kiểu này, cách hiệu quả không phải là cấm mà là thay phản xạ. Khi cảm thấy căng, hãy thử một chuỗi hành động khác mất khoảng năm phút: đứng dậy đi lại, hít thở chậm, pha một tách trà nóng. Nhiều người thấy thói quen pha trà thảo mộc uống ban ngày hoạt động tốt ở đây không phải vì trà làm hết thèm, mà vì nó chiếm đúng khoảng thời gian và động tác mà trước đây dành cho việc bóc gói bánh.
 
 ### 5. Thói quen gắn với khung giờ và bối cảnh
 

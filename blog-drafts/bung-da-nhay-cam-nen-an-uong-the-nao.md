@@ -119,7 +119,7 @@ Trong giai đoạn bụng đang phản ứng, bạn cần một "danh sách an t
 
 **Trái cây**: chuối chín vừa (không chín rục), đu đủ chín, cam, quýt, nho, dứa lượng vừa phải, kiwi.
 
-**Đồ uống**: nước lọc ấm, nước gạo rang, trà thảo mộc nhẹ. Nhiều người thấy một tách [trà thảo mộc ấm](https://tra.ikihealing.com) sau bữa ăn giúp cảm giác ậm ạch dịu đi và làm chậm nhịp ăn của cả bữa — vừa là thói quen dễ chịu, vừa là cách nhắc mình ngồi lại thêm mười phút thay vì đứng dậy đi làm việc ngay.
+**Đồ uống**: nước lọc ấm, nước gạo rang, trà thảo mộc nhẹ. Nhiều người thấy một tách trà thảo mộc ấm sau bữa ăn giúp cảm giác ậm ạch dịu đi và làm chậm nhịp ăn của cả bữa — vừa là thói quen dễ chịu, vừa là cách nhắc mình ngồi lại thêm mười phút thay vì đứng dậy đi làm việc ngay.
 
 Và những thứ nên tạm gác lại khi bụng đang khó ở: đồ chiên rán ngập dầu, đồ cay nhiều ớt, rượu bia, nước có gas, cà phê đặc lúc bụng rỗng, kẹo cao su và bánh kẹo ghi "không đường" (thường chứa polyol), đồ ăn quá lạnh.
 

@@ -125,7 +125,7 @@ Tỏi lành với đa số người ở lượng gia vị thông thường. Như
 - **Nhai rau thơm tươi.** Rau mùi tây, bạc hà, húng quế. Đây là cách được nhắc tới nhiều nhất và cũng dễ làm nhất ở Việt Nam, nơi bữa cơm nào cũng có rau thơm.
 - **Ăn một lát táo hoặc rau diếp sống.** Các loại quả và rau này chứa hợp chất giúp trung hoà bớt mùi.
 - **Uống sữa.** Chất béo trong sữa gắn với hợp chất gây mùi, làm giảm lượng thoát ra qua hơi thở. Sữa nguyên kem hiệu quả hơn sữa gầy.
-- **Uống trà xanh hoặc trà thảo mộc sau bữa.** Một tách [trà thảo mộc ấm](https://tra.ikihealing.com) sau bữa trưa vừa dễ chịu vừa làm dịu hơi thở, và là thói quen hợp lý hơn nhiều so với đồ uống ngọt lạnh giữa buổi.
+- **Uống trà xanh hoặc trà thảo mộc sau bữa.** Một tách trà thảo mộc ấm sau bữa trưa vừa dễ chịu vừa làm dịu hơi thở, và là thói quen hợp lý hơn nhiều so với đồ uống ngọt lạnh giữa buổi.
 - **Sắp xếp thời điểm ăn.** Đơn giản nhất: ăn tỏi vào bữa tối ở nhà thay vì bữa trưa trước khi gặp khách hàng.
 
 Nếu chuyện hơi thở là mối quan tâm thường trực chứ không chỉ sau khi ăn tỏi, bài [Hơi miệng: nguyên nhân và thói quen chăm sóc](hoi-mieng-nguyen-nhan-va-thoi-quen-cham-soc.html) đi sâu hơn vào các nguyên nhân khác.

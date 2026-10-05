@@ -74,7 +74,7 @@ Lý do rất giản dị: cơ thể bạn đang ở trong môi trường lạnh 
 
 Đông y nhìn chuyện này qua khái niệm hàn — nhiệt: hệ tiêu hoá được ví như một bếp ấm, ưa sự ấm áp ổn định. Khi liên tục đưa vào cơ thể đồ lạnh trong lúc bên ngoài cũng lạnh, cảm giác ứ trệ và nặng nề dễ xuất hiện hơn. Đây không phải chẩn đoán bệnh, chỉ là một cách quan sát xu hướng cơ thể để chăm sóc cho phù hợp.
 
-Một tách [trà thảo mộc ấm](https://tra.ikihealing.com) nhấp chậm giữa buổi sáng là cách nhiều người dùng để vừa bù nước vừa có một khoảng nghỉ ngắn khỏi màn hình. Nếu bạn hay khó vào giấc sau một ngày dài trong phòng lạnh, một tách [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) sau bữa tối là lựa chọn nhẹ nhàng cho khung giờ cuối ngày. Đây là gợi ý về thói quen sinh hoạt để bạn thấy dễ chịu hơn, không phải giải pháp thay cho chế độ chăm sóc y tế. Bài [thức uống ấm và trà thảo mộc](thuc-uong-am-tra-thao-moc.html) nói thêm về cách chọn thức uống ấm theo từng thời điểm.
+Một tách trà thảo mộc ấm nhấp chậm giữa buổi sáng là cách nhiều người dùng để vừa bù nước vừa có một khoảng nghỉ ngắn khỏi màn hình. Nếu bạn hay khó vào giấc sau một ngày dài trong phòng lạnh, một tách [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) sau bữa tối là lựa chọn nhẹ nhàng cho khung giờ cuối ngày. Đây là gợi ý về thói quen sinh hoạt để bạn thấy dễ chịu hơn, không phải giải pháp thay cho chế độ chăm sóc y tế. Bài [thức uống ấm và trà thảo mộc](thuc-uong-am-tra-thao-moc.html) nói thêm về cách chọn thức uống ấm theo từng thời điểm.
 
 ## Ăn gì để mang nước vào cơ thể
 

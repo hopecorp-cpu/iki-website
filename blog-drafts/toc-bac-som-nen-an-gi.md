@@ -129,7 +129,7 @@ Nếu bạn chỉ đổi món ăn mà giữ nguyên bốn thói quen dưới đ�
 
 ### Thiếu ngủ triền miên
 
-Giấc ngủ là lúc cơ thể phục hồi và tái tạo mô. Ngủ 5 tiếng mỗi đêm trong nhiều tháng liền ảnh hưởng tới gần như mọi hệ thống, và tóc không phải ngoại lệ. Đây thường là việc dễ sửa nhất nhưng cũng hay bị hoãn nhất. Nếu bạn thuộc nhóm khó vào giấc, đọc thêm [Khó ngủ, trằn trọc và nếp buổi tối](kho-ngu-tran-troc-nep-buoi-toi.html). Một cốc [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) trước giờ đi ngủ là cách nhiều người dùng để tạo tín hiệu kết thúc một ngày, thay cho việc lướt điện thoại tới nửa đêm.
+Giấc ngủ là lúc cơ thể phục hồi và tái tạo mô. Ngủ 5 tiếng mỗi đêm trong nhiều tháng liền ảnh hưởng tới gần như mọi hệ thống, và tóc không phải ngoại lệ. Đây thường là việc dễ sửa nhất nhưng cũng hay bị hoãn nhất. Nếu bạn thuộc nhóm khó vào giấc, đọc thêm [Khó ngủ, trằn trọc và nếp buổi tối](kho-ngu-tran-troc-nep-buoi-toi.html). Một cốc [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) trước giờ đi ngủ là một cách để tạo tín hiệu kết thúc một ngày, thay cho việc lướt điện thoại tới nửa đêm.
 
 ### Căng thẳng kéo dài
 

@@ -166,7 +166,7 @@ Vài phương án thay thế giữ được cả phần dinh dưỡng lẫn ph�
 - **Một hũ sữa chua không đường trộn chuối, mè rang và một ít yến mạch** — có đạm, có canxi, có chất xơ, dễ tiêu.
 - **Cháo yến mạch nấu với sữa hạt, thêm hạt bí** — ấm bụng, hợp với người dễ lạnh bụng buổi sáng.
 - **Một ly nước ấm trước, rồi bữa sáng Việt quen thuộc** — bún, phở, xôi đậu xanh cũng là bữa sáng hoàn toàn hợp lý nếu có đủ đạm đi kèm.
-- **Một cốc trà thảo mộc ấm** thay cho ly sữa cho những người vốn chỉ cần một thứ gì đó ấm để khởi động buổi sáng. [Trà Tuệ Minh](https://tra.ikihealing.com) là dạng trà thảo mộc uống ban ngày, hợp với nhịp buổi sáng nhẹ nhàng, và không mang theo vấn đề lactose nào cả.
+- **Một cốc trà thảo mộc ấm** thay cho ly sữa cho những người vốn chỉ cần một thứ gì đó ấm để khởi động buổi sáng.
 
 Điều quan trọng nhất là **thay thế chứ đừng bỏ trống**. Một thói quen bị gỡ đi mà không có gì thế chỗ thường kéo theo cả chuỗi thói quen khác đổ theo. Bài [duy trì thói quen ăn uống lành mạnh](duy-tri-thoi-quen-an-uong-lanh-manh.html) bàn kỹ về nguyên tắc này.
 

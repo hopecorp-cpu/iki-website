@@ -132,7 +132,7 @@ Về viên bổ sung: vitamin E tan trong dầu nên **tích lại trong cơ th�
 
 **Buổi tối:** canh rau, một món chính, và một chút dầu ô liu rưới lên đĩa rau luộc nếu có.
 
-**Trong ngày:** nước ấm uống rải đều. Nếu bạn có thói quen uống trà, giữ nó ở giữa buổi thay vì ngay sau bữa ăn — [trà thảo mộc ban ngày](https://tra.ikihealing.com) hợp với khoảng giữa sáng và giữa chiều hơn là ngay sau bữa cơm.
+**Trong ngày:** nước ấm uống rải đều. Nếu bạn có thói quen uống trà, giữ nó ở giữa buổi thay vì ngay sau bữa ăn — trà thảo mộc ban ngày hợp với khoảng giữa sáng và giữa chiều hơn là ngay sau bữa cơm.
 
 Nhìn vào lịch trình này sẽ thấy: không có gì đặc biệt, không món nào cần mua ở cửa hàng chuyên biệt. Vitamin E là một trong số ít vi chất mà bạn gần như chắc chắn đủ nếu chỉ cần **không cắt bỏ chất béo và có thói quen ăn hạt**.
 

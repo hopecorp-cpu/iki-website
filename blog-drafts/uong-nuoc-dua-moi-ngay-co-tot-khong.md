@@ -91,7 +91,7 @@ Không có khung giờ "thần kỳ", nhưng có những thời điểm dễ ch�
 
 **Nên tránh:** uống nhiều nước dừa lạnh vào tối muộn, hoặc khi bụng đang đói và cơ thể đang mệt. Theo kinh nghiệm dân gian, nước dừa có tính mát nên buổi tối muộn không phải thời điểm lý tưởng, đặc biệt với người hay lạnh bụng hoặc dễ đầy hơi.
 
-Với những ai muốn một thức uống ấm cho buổi tối thay vì đồ lạnh, một tách [trà thảo mộc ấm](https://tra.ikihealing.com) thường là lựa chọn dịu dàng hơn cho khung giờ này — vừa giữ được thói quen uống nước đều, vừa dễ chịu cho bụng dạ.
+Với những ai muốn một thức uống ấm cho buổi tối thay vì đồ lạnh, một tách trà thảo mộc ấm thường là lựa chọn dịu dàng hơn cho khung giờ này — vừa giữ được thói quen uống nước đều, vừa dễ chịu cho bụng dạ.
 
 ## Ai nên thận trọng
 

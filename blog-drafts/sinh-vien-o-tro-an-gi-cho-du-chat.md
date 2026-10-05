@@ -143,7 +143,7 @@ Ba phương án cho ba mức độ vội:
 
 **Nên tránh gì:** đồ ngọt và nước tăng lực. Chúng tạo cảm giác tỉnh táo giả trong khoảng một tiếng rồi để lại cảm giác tụt dốc còn tệ hơn lúc đầu.
 
-**Về cà phê:** uống được, nhưng nên dừng trước khoảng bảy tám giờ tối nếu bạn còn muốn ngủ được sau đó. Cà phê uống quá muộn không làm bạn học được nhiều hơn, chỉ khiến giấc ngủ vốn đã ngắn lại càng kém chất lượng. Nếu cần một thức uống ấm để tỉnh táo mà không muốn thêm cà phê, [trà thảo mộc](https://tra.ikihealing.com) hoặc một cốc nước ấm là lựa chọn nhẹ nhàng hơn cho buổi tối muộn; bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) có thêm gợi ý.
+**Về cà phê:** uống được, nhưng nên dừng trước khoảng bảy tám giờ tối nếu bạn còn muốn ngủ được sau đó. Cà phê uống quá muộn không làm bạn học được nhiều hơn, chỉ khiến giấc ngủ vốn đã ngắn lại càng kém chất lượng. Nếu cần một thức uống ấm để tỉnh táo mà không muốn thêm cà phê, trà thảo mộc hoặc một cốc nước ấm là lựa chọn nhẹ nhàng hơn cho buổi tối muộn; bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) có thêm gợi ý.
 
 **Sau một đêm thức khuya**, điều quan trọng nhất không phải là ngủ bù cả ngày, mà là **giữ được bữa sáng hôm sau**. Bỏ sáng sau một đêm thiếu ngủ là cách nhanh nhất để cả ngày hôm đó đổ vỡ. Bài [Sức khoẻ học sinh mùa thi](suc-khoe-hoc-sinh-mua-thi.html) và [Ăn gì để tập trung làm việc](an-gi-de-tap-trung-lam-viec.html) viết riêng cho giai đoạn này.
 

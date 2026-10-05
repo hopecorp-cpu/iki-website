@@ -133,7 +133,7 @@ Bạn có thể bắt đầu rất nhẹ nhàng: một ly nước ấm ngay khi 
 
 Điều thú vị là công nghệ hiện đại có thể trở thành người bạn đồng hành cho những thói quen xưa cũ này. Việc lắng nghe cơ thể và điều chỉnh theo cơ địa vốn là tinh thần cốt lõi của kinh nghiệm dân gian, và cũng là điều dễ bị lãng quên khi ta bận rộn. Nếu bạn muốn một công cụ giúp quan sát bản thân đều đặn hơn, [App IKI](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên, gợi ý cách chăm sóc cá nhân hoá theo thể tạng và ghi lại nếp sinh hoạt mỗi ngày, để bạn dần hiểu điều gì thật sự hợp với mình. Hãy xem đó như một cách hiện đại để nối tiếp sự quan sát tinh tế mà ông bà ta vẫn làm bằng trực giác.
 
-Và trong những buổi tối muốn chậm lại, việc pha một tách trà thảo mộc ấm là một nghi thức dân gian nhỏ mà dễ chịu. Hơi ấm và hương thơm thoảng nhẹ của tách trà giúp khép lại một ngày một cách nhẹ nhàng. Nếu thích một thức uống thảo mộc cho khoảnh khắc nghỉ ngơi, bạn có thể tham khảo dòng [Trà Tuệ Minh](https://tra.ikihealing.com) như một gợi ý cho ly trà ấm buổi tối, xem đó như một phần thư thái trong lối sống cân bằng, bên cạnh việc ăn uống điều độ và nghỉ ngơi hợp lý.
+Và trong những buổi tối muốn chậm lại, việc pha một tách trà thảo mộc ấm là một nghi thức dân gian nhỏ mà dễ chịu. Hơi ấm và hương thơm thoảng nhẹ của tách trà giúp khép lại một ngày một cách nhẹ nhàng.
 
 ## Những hiểu lầm về kinh nghiệm dân gian
 

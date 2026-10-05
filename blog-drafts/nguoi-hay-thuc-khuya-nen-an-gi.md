@@ -136,7 +136,7 @@ Nước là thứ bị bỏ quên nhiều nhất khi tập trung làm việc. M�
 Gợi ý theo khung giờ:
 
 - **Trước 16 giờ:** nếu cần cà phê, hãy uống trong khung này. Sau đó chuyển sang đồ không caffeine.
-- **Chiều tối:** nước ấm uống rải đều. Một cốc trà thảo mộc ban ngày như [Trà Tuệ Minh](https://tra.ikihealing.com) là cách giữ thói quen "có gì đó ấm để nhấp" mà không thêm caffeine.
+- **Chiều tối:** nước ấm uống rải đều.
 - **Đêm muộn:** nước ấm, uống từng ngụm nhỏ. Đừng uống dồn một lúc vì sẽ phải dậy đi vệ sinh giữa giấc ngủ vốn đã ngắn.
 - **Trước khi ngủ 30–60 phút:** một cốc trà thảo mộc dịu như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) hợp với nếp chậm lại, báo hiệu cho cơ thể rằng phiên làm việc đã kết thúc. Nghi thức nhỏ này quan trọng hơn người ta tưởng: nó là ranh giới giúp đầu óc chịu tắt máy.
 - **Sáng hôm sau:** nếu vẫn cần vị đậm để tỉnh, các lựa chọn dịu hơn cà phê có ở [cửa hàng IKI](https://ikihealing.com/shop/) hoặc trong bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html).

@@ -136,7 +136,7 @@ Cô T., 47 tuổi, kể rằng mùa đông nào tay chân cô cũng lạnh buố
 Với người hay lạnh, nhiệt độ của thức uống đôi khi tạo khác biệt rõ hơn cả loại thức uống. Một nhịp uống dễ theo:
 
 - **Sáng sớm**: một cốc nước ấm ngay khi thức dậy, trước khi chạm vào cà phê.
-- **Giữa buổi sáng**: trà thảo mộc ấm nhạt. Nếu bạn quen dùng trà trong ngày, các loại [trà thảo mộc dịu như Trà Tuệ Minh](https://tra.ikihealing.com) là lựa chọn hợp với người thích vị ấm nhẹ, không gắt.
+- **Giữa buổi sáng**: trà thảo mộc ấm nhạt.
 - **Sau bữa trưa**: nước ấm hoặc trà loãng, tránh trà đặc sát bữa vì ảnh hưởng tới hấp thu sắt.
 - **Xế chiều**: đây là khung giờ nhiều người tìm tới ly đá cho tỉnh táo. Thử đổi sang nước ấm gừng quế loãng và quan sát cảm giác trong người sau một tiếng.
 - **Buổi tối**: một cốc nước ấm hoặc [trà thư giãn buổi tối như Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), kết hợp ngâm chân nước ấm 10 phút trước khi ngủ.

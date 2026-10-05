@@ -22,7 +22,6 @@
     {"q": "Trà nhập khẩu đắt hơn có nghĩa là chất lượng cao hơn không?", "a": "Không nhất thiết. Giá một hộp trà nhập khẩu gồm cả chi phí vận chuyển quốc tế, thuế nhập khẩu, chi phí nhà phân phối và chi phí thương hiệu — những khoản này không nằm trong tách trà bạn uống. Cách so công bằng là quy về giá trên mỗi tách: lấy giá hộp chia cho số lần pha được. Có hộp nhìn rẻ nhưng mỗi túi chỉ pha được một lần với lượng nguyên liệu rất ít, và có hộp nhìn đắt nhưng dùng được lâu hơn nhiều."}
   ],
   "related": [
-    {"title": "Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng", "url": "tra-tue-minh-la-gi.html"},
     {"title": "Trà túi lọc và trà rời khác nhau thế nào", "url": "tra-tui-loc-va-tra-roi-khac-nhau-the-nao.html"},
     {"title": "Cách pha trà túi lọc đúng cách", "url": "cach-pha-tra-tui-loc-dung-cach.html"},
     {"title": "Uống trà thảo mộc mỗi ngày có được không", "url": "uong-tra-thao-moc-moi-ngay-co-duoc-khong.html"},
@@ -92,7 +91,7 @@ Mô hình hợp tác xã trong nước là một cách truy nguồn khá thuận
 
 Cần nói cho sòng phẳng: mô hình hợp tác xã không tự động đồng nghĩa với chất lượng cao hơn. Nó chỉ có nghĩa là **chuỗi ngắn và có địa chỉ**, còn chất lượng cụ thể vẫn phải chấm bằng sáu tiêu chí còn lại. Ở chiều ngược lại, nhiều thương hiệu nhập khẩu lớn cũng công bố chuỗi cung ứng rất rõ ràng, thậm chí có mã truy xuất từng lô.
 
-Trong nhóm sản phẩm gắn tên đơn vị sản xuất ngay trên bao bì, [Trà Tuệ Minh](https://tra.ikihealing.com) là một ví dụ về cách làm này: nhãn ghi thẳng tên hợp tác xã sản xuất và vùng sản xuất, nên người mua đối chiếu được thông tin công bố thay vì mua theo lời truyền miệng. Bạn có thể đọc thêm về thành phần và cách pha loại trà này trong bài [Trà Tuệ Minh là gì](tra-tue-minh-la-gi.html).
+
 
 ## Tiêu chí 5: chứng nhận trên hộp nói lên điều gì và không nói lên điều gì
 

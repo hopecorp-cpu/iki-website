@@ -180,7 +180,7 @@ Một cách sắp xếp dễ theo:
 
 - **Nền cả ngày:** nước lọc, uống ấm hoặc nhiệt độ phòng, rải đều — đây là phần chiếm chủ yếu.
 - **Ngày nắng gắt, người bức bối:** một ly sắn dây pha chín, ít đường, sau bữa trưa.
-- **Buổi sáng cần tỉnh táo mà không muốn cà phê:** một thức uống ấm nhẹ. Bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) gợi ý vài lựa chọn, và [Trà Tuệ Minh](https://tra.ikihealing.com) là một loại trà thảo mộc uống ban ngày dễ hợp với nếp này. Nếu bạn vẫn thích vị cà phê, các lựa chọn thay thế dịu hơn có ở [cửa hàng IKI](https://ikihealing.com/shop/).
+- **Buổi sáng cần tỉnh táo mà không muốn cà phê:** một thức uống ấm nhẹ. Nếu bạn vẫn thích vị cà phê, các lựa chọn thay thế dịu hơn có ở [cửa hàng IKI](https://ikihealing.com/shop/).
 - **Buổi tối, khi muốn chậm lại:** trà thảo mộc ấm cho nếp thư giãn trước giờ ngủ.
 - **Ngày trời trở lạnh hoặc người thấy mệt:** ưu tiên đồ ấm, tạm gác các thức uống mát sang một bên.
 

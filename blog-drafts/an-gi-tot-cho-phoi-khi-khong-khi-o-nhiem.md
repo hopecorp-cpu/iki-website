@@ -124,7 +124,7 @@ Các lựa chọn quen thuộc:
 - **Trà thảo mộc** từ hoa cúc, cam thảo, la hán quả, atiso, mỗi loại một vị.
 - **Nước ép hoặc sinh tố nguyên bã** từ nhóm trái cây kể trên.
 
-Nếu bạn thích một thức uống ấm pha sẵn cho buổi làm việc ban ngày thay vì phải hãm ấm trà mỗi lần, [Trà Tuệ Minh](https://tra.ikihealing.com) là dòng trà thảo mộc IKI làm theo hướng vị nhạt dễ uống cả ngày. Với buổi tối, khi bạn muốn một tách ấm nhẹ nhàng trước giờ nghỉ, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là lựa chọn thiên về thư giãn hơn. Cả hai đều là **thực phẩm bổ sung** — chúng là cách để giữ thói quen uống ấm đều đặn, không phải giải pháp cho vấn đề hô hấp.
+Với buổi tối, khi bạn muốn một tách ấm nhẹ nhàng trước giờ nghỉ, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là lựa chọn thiên về thư giãn hơn.
 
 Điều nên tránh trong những ngày này: **nước đá lạnh khi cổ họng đang rát** và **nước ngọt có gas**. Cả hai đều không giúp gì cho cảm giác khó chịu ở họng, và đồ uống nhiều đường còn khiến bạn nhanh mệt hơn.
 

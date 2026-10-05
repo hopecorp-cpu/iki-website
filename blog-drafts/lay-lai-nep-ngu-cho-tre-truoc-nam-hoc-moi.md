@@ -156,7 +156,7 @@ Bài [màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html) đi sâu hơ
 
 **Lượng nước buổi tối.** Uống đủ nước trong ngày, nhưng giảm dần sau bữa tối để con không phải dậy đi vệ sinh giữa đêm.
 
-Còn với **bố mẹ** thì sao? Đây là điều ít ai nhắc: giai đoạn chỉnh nếp ngủ cho con cũng là giai đoạn bố mẹ căng thẳng. Nhiều gia đình dùng chính khung giờ này để tạo một nếp chung — cả nhà tắt đèn lớn, bố mẹ pha một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) và ngồi đọc sách cùng con thay vì mỗi người một màn hình. Cách này hiệu quả hơn nhiều so với việc bố mẹ giục con đi ngủ rồi tiếp tục xem phim ngoài phòng khách.
+Còn với **bố mẹ** thì sao? Đây là điều ít ai nhắc: giai đoạn chỉnh nếp ngủ cho con cũng là giai đoạn bố mẹ căng thẳng. Có thể dùng chính khung giờ này để tạo một nếp chung — cả nhà tắt đèn lớn, bố mẹ pha một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) và ngồi đọc sách cùng con thay vì mỗi người một màn hình. Cách này hiệu quả hơn nhiều so với việc bố mẹ giục con đi ngủ rồi tiếp tục xem phim ngoài phòng khách.
 
 ## Nếp trước khi ngủ: 30 phút lặp lại mỗi tối
 

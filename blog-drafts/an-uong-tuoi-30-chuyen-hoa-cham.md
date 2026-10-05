@@ -161,7 +161,7 @@ Nếu bạn đang uống nhiều cà phê để bù cho thiếu ngủ — vòng 
 
 **Trưa (12h–12h30):** cơm với một phần đạm rõ (cá, thịt nạc, đậu phụ), rau chiếm khoảng nửa đĩa, cơm vừa phải — cân nhắc trộn gạo lứt. Ăn chậm, không vừa ăn vừa làm việc.
 
-**Chiều (15h–16h):** đây là khung giờ hay tụt năng lượng nhất. Thay vì cà phê thứ ba hoặc trà sữa, thử một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com), một nắm hạt, và năm phút đứng dậy đi lại.
+**Chiều (15h–16h):** đây là khung giờ hay tụt năng lượng nhất. Thay vì cà phê thứ ba hoặc trà sữa, thử một tách trà thảo mộc ban ngày, một nắm hạt, và năm phút đứng dậy đi lại.
 
 **Tối (18h30–19h30):** bữa tối nhẹ hơn trưa, vẫn có đạm, nhiều rau, ít tinh bột tinh chế. Ăn xong đi bộ 10–15 phút.
 

@@ -155,7 +155,7 @@ Lý do phổ biến nhất khiến nhiều người bỏ bữa sáng là "không
 4. **Bữa sáng mang theo**: nếu thực sự không kịp ăn ở nhà, hãy mang theo một hộp gồm bánh mì nguyên cám, trứng và trái cây để ăn khi đến nơi làm, thay vì tạt vào mua đồ ngọt tiện đường.
 5. **Đơn giản hóa**: bữa sáng không nhất thiết phải cầu kỳ. Một ly sữa, một quả chuối và một nắm hạt cũng đã là bữa sáng có cấu trúc, tốt hơn nhiều so với việc nhịn.
 
-Điều quan trọng là đừng để sự cầu toàn cản trở. Một bữa sáng đơn giản nhưng có đủ tinh bột tốt và đạm luôn tốt hơn không có gì. Nếu buổi sáng bạn quen với cà phê, thi thoảng đổi sang một tách trà thảo mộc ấm như [Trà Tuệ Minh](https://tra.ikihealing.com) cũng là một cách nhẹ nhàng để khởi động ngày.
+Điều quan trọng là đừng để sự cầu toàn cản trở. Một bữa sáng đơn giản nhưng có đủ tinh bột tốt và đạm luôn tốt hơn không có gì.
 
 ## Ăn sáng theo thể tạng
 

@@ -92,7 +92,7 @@ Nội dung cũng quan trọng không kém ánh sáng. Lướt tin tức, xem vid
 
 Cà phê không rời khỏi cơ thể ngay sau khi bạn uống xong. Một phần đáng kể vẫn còn trong người nhiều giờ sau đó, và mức độ nhạy cảm với cà phê rất khác nhau giữa từng người. Có người uống lúc ba giờ chiều vẫn ngủ ngon; có người chỉ cần một ly lúc trưa là đêm ngủ nông.
 
-Nếu bạn thuộc nhóm nhạy cảm, việc lùi ly cà phê cuối cùng về trước 14h thường tạo khác biệt rõ. Buổi chiều, một tách [trà thảo mộc uống ban ngày](https://tra.ikihealing.com) hoặc đơn giản là nước ấm là lựa chọn nhẹ nhàng hơn.
+Nếu bạn thuộc nhóm nhạy cảm, việc lùi ly cà phê cuối cùng về trước 14h thường tạo khác biệt rõ. Buổi chiều, một tách trà thảo mộc uống ban ngày hoặc đơn giản là nước ấm là lựa chọn nhẹ nhàng hơn.
 
 ### 3. Rượu bia buổi tối
 
@@ -154,7 +154,7 @@ Trước khi nghĩ đến những thứ phức tạp, hãy kiểm tra ba điều
 **60 phút trước giờ ngủ**
 
 - Đặt điện thoại ra khỏi tầm tay. Nếu dùng làm đồng hồ báo thức, hãy để ở góc phòng thay vì cạnh gối.
-- Một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) uống ấm, không đường, là cách nhiều người dùng để đánh dấu ranh giới giữa "giờ làm" và "giờ nghỉ".
+- Một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) uống ấm, không đường, là một cách để đánh dấu ranh giới giữa "giờ làm" và "giờ nghỉ".
 
 **30 phút trước giờ ngủ**
 

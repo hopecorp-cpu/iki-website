@@ -131,7 +131,7 @@ Ngoài nước lọc, đây là những lựa chọn dân dã hay dùng:
 - **Nước đậu đen rang**, pha nhạt, uống ấm hoặc nguội tự nhiên.
 - **Nước rau má pha loãng**, uống lượng vừa và không uống liên tục nhiều ngày liền.
 - **Nước dừa tươi**, ngon và nhiều khoáng, nhưng cũng có đường nên đừng uống thay nước lọc.
-- **Trà thảo mộc nhạt, không đường** — lựa chọn dễ duy trì cho cả ngày làm việc. Nếu bạn thích một thức uống có vị để đỡ nhàm so với nước lọc, [Trà Tuệ Minh](https://tra.ikihealing.com) là dòng trà thảo mộc IKI dành cho khung giờ ban ngày, không chứa caffeine, pha nhạt uống được cả buổi.
+- **Trà thảo mộc nhạt, không đường** — lựa chọn dễ duy trì cho cả ngày làm việc.
 
 **Cạm bẫy lớn nhất: đường.** Rất nhiều loại "nước mát" đóng chai bán sẵn có lượng đường cao đến mức phần lợi thu được gần như bị triệt tiêu. Nếu tự nấu, hãy nấu nhạt. Nếu mua, hãy đọc nhãn — thói quen đọc nhãn được nói kỹ trong bài [Đọc nhãn dinh dưỡng thực phẩm](doc-nhan-dinh-duong-thuc-pham.html).
 

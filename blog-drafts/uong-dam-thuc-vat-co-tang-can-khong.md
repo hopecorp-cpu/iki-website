@@ -85,7 +85,7 @@ Nhìn bảng này, điều đầu tiên đập vào mắt: **một ly đạm th�
 Ba trường hợp, cùng một sản phẩm, ba kết quả khác nhau. Đây là lý do vì sao không thể trả lời "có" hoặc "không" cho câu hỏi ban đầu mà không biết bối cảnh của bạn.
 
 :::note Nguyên tắc một dòng để nhớ
-Đạm thực vật không phải thứ làm bạn tăng cân hay giảm cân. Nó là **công cụ để bạn kiểm soát chất lượng khẩu phần**. Việc nó đẩy cân bạn theo hướng nào phụ thuộc vào chỗ bạn đặt nó trong ngày ăn uống của mình.
+Đạm thực vật tự nó không quyết định cân nặng của bạn. Nó là **công cụ để bạn kiểm soát chất lượng khẩu phần**. Việc nó đẩy cân bạn theo hướng nào phụ thuộc vào chỗ bạn đặt nó trong ngày ăn uống của mình.
 :::
 
 ## Dùng thế nào khi bạn muốn giữ dáng

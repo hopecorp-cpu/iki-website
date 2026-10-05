@@ -171,7 +171,7 @@ Thị trường có nhiều sản phẩm hứa hẹn thay thế rau. Hãy nhìn 
 
 **Nước ép.** Ép bỏ bã là bỏ đi phần lớn chất xơ, giữ lại đường. Sinh tố xay nguyên bã giữ được chất xơ nên là lựa chọn tốt hơn hẳn nếu bạn muốn uống thay vì nhai.
 
-**Trà thảo mộc.** Không phải nguồn chất xơ, nhưng một tách [trà thảo mộc](https://tra.ikihealing.com) sau bữa ăn là thói quen dễ duy trì, giúp bạn giảm bớt phản xạ với đồ ngọt và tăng tổng lượng nước trong ngày — hai yếu tố gián tiếp hỗ trợ tiêu hoá khi bạn đang tăng chất xơ.
+**Trà thảo mộc.** Không phải nguồn chất xơ, nhưng một tách trà thảo mộc sau bữa ăn là thói quen dễ duy trì, giúp bạn giảm bớt phản xạ với đồ ngọt và tăng tổng lượng nước trong ngày — hai yếu tố gián tiếp hỗ trợ tiêu hoá khi bạn đang tăng chất xơ.
 
 Kết luận công bằng: các sản phẩm này có chỗ đứng như phần hỗ trợ tạm thời, nhưng không sản phẩm nào thay được một khẩu phần có rau củ quả thật.
 

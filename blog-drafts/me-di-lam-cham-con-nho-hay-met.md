@@ -116,7 +116,7 @@ Các nguồn đạm dễ xoay xở trong tuần:
 - **Sữa chua, sữa đậu, sữa hạt:** tiện mang theo làm bữa phụ.
 - **Các loại hạt:** một nắm nhỏ để ở ngăn bàn làm việc.
 
-Với những ngày thật sự không kịp, một ly [đạm thực vật](https://trueveganprotein.com) pha cùng sữa hạt hay nước ấm là cách nhiều mẹ dùng để lấp chỗ trống, vì pha nhanh, mang theo được và không cần nấu. Chỉ cần nhớ nó là bữa phụ hỗ trợ, không phải lý do để bỏ bữa chính. Nếu bạn đang cho con bú, hãy hỏi bác sĩ hoặc chuyên gia dinh dưỡng trước khi thêm bất kỳ thực phẩm bổ sung nào vào khẩu phần.
+Với những ngày thật sự không kịp, một ly [đạm thực vật](https://trueveganprotein.com) pha cùng sữa hạt hay nước ấm là một cách để lấp chỗ trống, vì pha nhanh, mang theo được và không cần nấu. Chỉ cần nhớ nó là bữa phụ hỗ trợ, không phải lý do để bỏ bữa chính. Nếu bạn đang cho con bú, hãy hỏi bác sĩ hoặc chuyên gia dinh dưỡng trước khi thêm bất kỳ thực phẩm bổ sung nào vào khẩu phần.
 
 Một mẹo nhỏ: đặt sẵn đồ ăn có đạm ở những nơi tay mình dễ với tới. Hộp hạt ở bàn làm việc, sữa chua ở ngăn đầu tủ lạnh, trứng luộc ở hộp trong cùng. Khi đói, người ta ăn thứ gần nhất, nên hãy để thứ gần nhất là thứ tốt cho mình.
 
@@ -158,7 +158,7 @@ Một vài nếp nhỏ:
 - Mỗi lần cho con uống nước, mẹ cũng uống vài ngụm.
 - Uống một cốc nước ấm ngay khi thức dậy, trước khi bắt đầu chuỗi việc buổi sáng.
 
-**Cà phê:** nhiều mẹ sống nhờ cà phê, và một hai ly buổi sáng là bình thường với phần lớn người trưởng thành khoẻ mạnh. Vấn đề nằm ở ly cà phê thứ ba lúc ba giờ chiều để chống chọi cơn buồn ngủ. Ly đó có thể làm mẹ khó ngủ tối hôm ấy, rồi sáng hôm sau lại cần cà phê nhiều hơn. Nếu thấy mình rơi vào vòng này, hãy thử dừng cà phê sau giờ trưa, thay bằng nước lọc, một ly sữa đậu, hoặc một chén trà thảo mộc không caffeine. Nhiều mẹ thích [Trà Tuệ Minh](https://tra.ikihealing.com) vào buổi chiều ở chỗ làm vì vị thanh, pha túi lọc nhanh và không chứa caffeine. Nếu muốn tìm thêm thứ thay cà phê buổi sáng, bạn có thể xem các lựa chọn trong [cửa hàng IKI](https://ikihealing.com/shop/).
+**Cà phê:** nhiều mẹ sống nhờ cà phê, và một hai ly buổi sáng là bình thường với phần lớn người trưởng thành khoẻ mạnh. Vấn đề nằm ở ly cà phê thứ ba lúc ba giờ chiều để chống chọi cơn buồn ngủ. Ly đó có thể làm mẹ khó ngủ tối hôm ấy, rồi sáng hôm sau lại cần cà phê nhiều hơn. Nếu thấy mình rơi vào vòng này, hãy thử dừng cà phê sau giờ trưa, thay bằng nước lọc, một ly sữa đậu, hoặc một chén trà thảo mộc không caffeine. Nếu muốn tìm thêm thứ thay cà phê buổi sáng, bạn có thể xem các lựa chọn trong [cửa hàng IKI](https://ikihealing.com/shop/).
 
 **Đồ uống ngọt:** trà sữa hay nước ngọt lúc chiều cho cảm giác tỉnh táo nhanh, nhưng thường kéo theo một cơn tụt sức sau đó. Nếu thèm ngọt, hãy ăn kèm một thứ có đạm hoặc chất xơ, như sữa chua với trái cây, để cảm giác no kéo dài hơn.
 
@@ -168,7 +168,7 @@ Nhiều mẹ nghe tới "dành thời gian cho bản thân" là thấy xa xỉ. 
 
 Điều quan trọng là khoảng này phải cố định và không bị thay bằng việc lướt điện thoại. Một vài cách dùng mười lăm phút ấy:
 
-- **Một chén trà ấm buổi tối.** Pha một chén trà không caffeine, ngồi ở góc yên tĩnh, uống chậm và không làm gì khác. Nhiều mẹ chọn [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) cho khoảng này vì hương hoa nhài và trần bì dịu nhẹ, hợp với nghi thức thư giãn trước giờ ngủ.
+- **Một chén trà ấm buổi tối.** Pha một chén trà không caffeine, ngồi ở góc yên tĩnh, uống chậm và không làm gì khác. [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) có hương hoa nhài và trần bì dịu nhẹ, hợp với nghi thức thư giãn trước giờ ngủ.
 - **Ngâm chân nước ấm.** Mười phút ngâm chân trong khi nghe một bản nhạc nhẹ là cách nhiều người dùng để báo cho cơ thể rằng ngày đã kết thúc.
 - **Viết ba dòng.** Ghi ra giấy ba việc cần làm ngày mai để đầu óc không phải giữ chúng nữa, và một điều nhỏ hôm nay thấy biết ơn.
 - **Thở chậm.** Hít vào bốn nhịp, thở ra sáu nhịp, lặp lại trong vài phút.

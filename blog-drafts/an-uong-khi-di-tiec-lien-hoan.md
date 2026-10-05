@@ -159,7 +159,7 @@ Trong tuần bận rộn, đừng cố giữ mọi thứ. Chọn ba việc và g
 
 Không phải bữa tiệc nào cũng cần bạn ăn hết công suất. Với những buổi mà mục đích chính là gặp gỡ, bạn hoàn toàn có thể ăn vừa phải mà không ai để ý. Hãy để dành sự thoải mái cho những bữa thực sự quan trọng với bạn.
 
-Ban ngày trong mùa tiệc, một tách [trà thảo mộc](https://tra.ikihealing.com) ấm giữa buổi là cách đơn giản để giữ cảm giác nhẹ nhàng và bù nước, thay cho thói quen với tay lấy đồ ngọt.
+Ban ngày trong mùa tiệc, một tách trà thảo mộc ấm giữa buổi là cách đơn giản để giữ cảm giác nhẹ nhàng và bù nước, thay cho thói quen với tay lấy đồ ngọt.
 
 ## Ăn tiệc theo thể trạng: vì sao cùng bàn mà người mệt người không
 

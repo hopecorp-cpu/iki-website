@@ -106,7 +106,7 @@ Cần lưu ý ngược lại: rong biển rất giàu i-ốt, ăn quá nhiều v
 
 Vấn đề thật sự là **ăn không đủ lượng và không đủ đa dạng**. Một mâm cơm chay ở nhiều gia đình Việt vẫn nặng cơm trắng, rau xào và một ít đậu hũ chiên — nghe thì lành nhưng lượng đạm cả bữa rất khiêm tốn. Người bận rộn còn hay bỏ bữa hoặc ăn tạm bánh mì, mì gói, khiến khoảng trống đạm càng rộng.
 
-Nguyên tắc thực hành: **mỗi bữa chính có ít nhất một nguồn đạm rõ mặt**, và trong cùng một ngày kết hợp nhóm đậu đỗ với nhóm ngũ cốc để các axit amin bổ sung cho nhau. Nếu bạn thuộc nhóm hay bỏ bữa vì công việc, một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh vào buổi sáng là cách nhiều người dùng để giữ nền đạm ổn định — nó không thay thế bữa ăn thật, chỉ đỡ cho những ngày không kịp nấu.
+Nguyên tắc thực hành: **mỗi bữa chính có ít nhất một nguồn đạm rõ mặt**, và trong cùng một ngày kết hợp nhóm đậu đỗ với nhóm ngũ cốc để các axit amin bổ sung cho nhau. Nếu bạn thuộc nhóm hay bỏ bữa vì công việc, một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh vào buổi sáng là một cách để giữ nền đạm ổn định — nó không thay thế bữa ăn thật, chỉ đỡ cho những ngày không kịp nấu.
 
 ## Dấu hiệu cơ thể đang nhắc bạn xem lại khẩu phần
 
@@ -144,7 +144,7 @@ Một mẹo thêm cho người nội trợ: chuẩn bị sẵn đậu đã ngâm
 
 **Bữa trưa.** Cơm gạo lứt hoặc cơm trắng trộn ít gạo lứt, đậu hũ sốt cà chua, canh rau dền nấu đậu, một đĩa rau luộc vắt chanh. Đây là bữa có đủ đạm, sắt và vitamin C hỗ trợ lẫn nhau.
 
-**Chiều.** Một tách trà thảo mộc ấm không đường thay cho đồ uống ngọt. Nếu bạn quen uống trà ban ngày, [Trà Tuệ Minh](https://tra.ikihealing.com) là lựa chọn dịu, không caffeine, hợp với khung giờ làm việc.
+**Chiều.** Một tách trà thảo mộc ấm không đường thay cho đồ uống ngọt.
 
 **Bữa tối.** Bún hoặc phở chay với nấm và tàu hũ ky, nhiều rau thơm, thêm một chén đậu lăng hầm. Kết thúc bằng một ít mè đen rang để bù canxi.
 

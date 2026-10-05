@@ -148,7 +148,7 @@ Khi cả nhà dùng chung, tiêu chí chọn bột khác một chút so với kh
 - **Bảng thành phần ngắn và rõ.** Càng ít chất lạ, càng dễ yên tâm khi đưa cho người lớn tuổi dùng.
 - **Hộp đủ lớn, nắp kín.** Cả nhà dùng thì hộp mở nhiều lần mỗi ngày; nắp kín và muỗng riêng là điều kiện để bột không bị ẩm vón.
 
-Với những gia đình muốn một nền [đạm thực vật](https://trueveganprotein.com) thuần chay, vị nguyên để tự biến tấu, Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g là một lựa chọn phối từ sáu loại hạt và đậu, giá niêm yết 668.000đ. Nó hợp với cách dùng chia liều trong bài này vì vị không bị khoá sẵn vào một hương, dễ đi cùng chuối, cháo hay ca cao tuỳ người. Dù chọn loại nào, hãy đọc nhãn để biết liều và thành phần trước khi chia cho cả nhà.
+Với những gia đình muốn một nền [đạm thực vật](https://trueveganprotein.com) thuần chay, vị nguyên để tự biến tấu, Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g là một lựa chọn phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt, giá niêm yết 668.000đ. Nó hợp với cách dùng chia liều trong bài này vì vị không bị khoá sẵn vào một hương, dễ đi cùng chuối, cháo hay ca cao tuỳ người. Dù chọn loại nào, hãy đọc nhãn để biết liều và thành phần trước khi chia cho cả nhà.
 
 ## Tổ chức một hộp bột cho cả nhà: ai dùng, lúc nào, bao nhiêu
 

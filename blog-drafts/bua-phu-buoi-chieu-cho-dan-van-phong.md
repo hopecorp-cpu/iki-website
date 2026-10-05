@@ -127,7 +127,7 @@ Rất nhiều lần thứ chúng ta tưởng là đói giữa chiều thực ra 
 
 Về cà phê: đây là phản xạ phổ biến nhất lúc 15 giờ. Cà phê giúp tỉnh táo tạm thời nhưng không cung cấp năng lượng, và với người nhạy cảm, một ly sau 15 giờ đủ để ảnh hưởng đến giấc ngủ tối hôm đó. Mà ngủ kém đêm nay chính là lý do bạn mệt vào chiều mai — một vòng lặp khá kín. Bài [Cà phê và sức khoẻ](ca-phe-va-suc-khoe.html) có phần bàn về ngưỡng và thời điểm hợp lý.
 
-Nếu bạn thích cảm giác cầm một cốc ấm giữa chiều như một khoảng dừng, [trà thảo mộc ban ngày](https://tra.ikihealing.com) là lựa chọn giữ được thói quen đó mà không nạp thêm caffeine vào khung giờ nhạy cảm. Với người muốn đổi hẳn ly cà phê chiều, danh mục [thức uống thay cà phê](https://ikihealing.com/shop/) có vài phương án nhẹ hơn để thử dần.
+Nếu bạn thích cảm giác cầm một cốc ấm giữa chiều như một khoảng dừng, trà thảo mộc ban ngày là lựa chọn giữ được thói quen đó mà không nạp thêm caffeine vào khung giờ nhạy cảm. Với người muốn đổi hẳn ly cà phê chiều, danh mục [thức uống thay cà phê](https://ikihealing.com/shop/) có vài phương án nhẹ hơn để thử dần.
 
 Còn trà sữa và nước ngọt: không cần loại bỏ hoàn toàn, nhưng nên xem chúng là món thỉnh thoảng chứ không phải giải pháp cho cơn tụt năng lượng hằng ngày. Một ly trà sữa cỡ vừa có lượng đường tương đương nhiều lần khuyến nghị cho một lần dùng, và cú rơi sau đó chính là thứ bạn đang muốn tránh.
 

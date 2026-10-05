@@ -176,7 +176,7 @@ Thay vì bỏ hẳn cà phê — điều khiến nhiều người đau đầu, c
 
 Phần lớn chị em không thực sự cần ly cà phê thứ hai. Thứ ta cần lúc 14 giờ thường là một khoảng nghỉ, một thứ ấm trong tay, và một cớ để đứng dậy khỏi bàn làm việc. Những lựa chọn dưới đây đáp ứng được cả ba mà không lấy mất giấc ngủ đêm nay.
 
-- **Trà thảo mộc ban ngày.** Một tách [Trà Tuệ Minh](https://tra.ikihealing.com) — trà thảo mộc túi lọc từ vùng dược liệu Tản Viên — cho vị thanh, dễ uống, pha nhanh ngay tại bàn làm việc. Đây là lựa chọn hợp cho những ai muốn giữ nghi thức "pha một thứ gì đó ấm" mà không thêm caffeine vào buổi chiều.
+- **Trà thảo mộc ban ngày.** Đây là lựa chọn hợp cho những ai muốn giữ nghi thức "pha một thứ gì đó ấm" mà không thêm caffeine vào buổi chiều.
 - **Thức uống thay cà phê.** Nếu bạn nhớ đúng hương vị rang và cảm giác một ly đậm, có thể thử các [thức uống thay cà phê của IKI](https://ikihealing.com/shop/) để giữ nghi thức quen mà giảm dần lượng caffeine trong ngày.
 - **Nước ấm với vài lát gừng hoặc chanh**, không đường — đơn giản, rẻ, có sẵn ở hầu hết văn phòng.
 - **Một ly nước lọc và mười phút đi bộ.** Nghe đơn giản đến mức buồn cười, nhưng rất nhiều cơn buồn ngủ buổi chiều là do ngồi lâu và thiếu nước, không phải do thiếu caffeine.

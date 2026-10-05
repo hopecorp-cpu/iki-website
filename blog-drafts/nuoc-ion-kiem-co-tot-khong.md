@@ -117,7 +117,7 @@ Trong hàng nghìn lượt khảo sát thể trạng mà đội ngũ IKI ghi nh�
 
 **Ba, để ý nhiệt độ nước.** Với nhiều người Việt, nhất là người hay lạnh bụng, nước quá lạnh khi bụng đói gây cảm giác ấm ách rõ hơn hẳn so với chuyện pH. Bài [uống nước đá lạnh có hại không](uong-nuoc-da-lanh-co-hai-khong.html) phân tích kỹ điểm này.
 
-**Bốn, tính cả đồ uống có đường vào tổng lượng nạp.** Một ngày ba ly trà sữa thì loại nước lọc bạn dùng gần như không còn ý nghĩa. Nếu buổi chiều bạn cần một thức uống dễ chịu mà không thêm đường, một ly [trà thảo mộc ban ngày như Trà Tuệ Minh](https://tra.ikihealing.com) là lựa chọn nhẹ nhàng hơn nhiều.
+**Bốn, tính cả đồ uống có đường vào tổng lượng nạp.** Một ngày ba ly trà sữa thì loại nước lọc bạn dùng gần như không còn ý nghĩa.
 
 **Năm, gắn việc uống nước vào mốc quen thuộc.** Sau khi đánh răng, trước mỗi bữa, sau mỗi lần rời bàn làm việc. Thói quen bám vào mốc có sẵn thì bền hơn thói quen dựa vào trí nhớ.
 

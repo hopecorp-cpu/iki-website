@@ -206,7 +206,7 @@ Vài điều chỉnh đáng thử:
 - **Hạn chế đồ uống có ga.** Chúng làm bụng đầy hơi và chiếm chỗ vô ích.
 - **Đi bộ nhẹ 10 phút sau bữa ăn** thay vì nằm ngay.
 - **Thêm thực phẩm lên men** như sữa chua, dưa muối vừa phải, để hỗ trợ nếp tiêu hoá hằng ngày.
-- **Một tách trà ấm sau bữa.** Nhiều người thấy dễ chịu hơn với [trà thảo mộc uống ấm](https://tra.ikihealing.com) sau bữa ăn so với nước lạnh.
+- **Một tách trà ấm sau bữa.** Nhiều người thấy dễ chịu hơn với trà thảo mộc uống ấm sau bữa ăn so với nước lạnh.
 
 Nếu tình trạng đầy bụng kéo dài nhiều tuần, hãy đi khám tiêu hoá thay vì tự điều chỉnh mãi.
 

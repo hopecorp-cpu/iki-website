@@ -131,7 +131,7 @@ Nhiều người có thói quen kết thúc bữa ăn bằng một ly nước �
 
 Nước ấm nhìn chung dễ chịu với bụng hơn nước quá lạnh, đặc biệt với những người có hệ tiêu hóa nhạy cảm hoặc hay thấy lạnh bụng. Các loại trà thảo mộc ấm như trà gừng, trà từ các loại thảo mộc quen thuộc thường mang lại cảm giác ấm và thư thái, phù hợp để nhâm nhi sau bữa ăn hoặc vào buổi tối. Một điều nên lưu ý là không dùng trà quá đặc hay quá gần giờ đi ngủ nếu loại trà đó chứa caffeine, để tránh ảnh hưởng tới giấc ngủ.
 
-Nếu bạn thích sự tiện lợi, một sản phẩm trà thảo mộc pha sẵn có thể là lựa chọn gọn gàng để giữ thói quen uống ấm mỗi ngày, bên cạnh chế độ ăn cân bằng và sinh hoạt điều độ — bạn có thể tham khảo dòng [Trà Tuệ Minh](https://tra.ikihealing.com) như một gợi ý cho ly trà ấm sau bữa ăn. Hãy xem đó như một phần dễ chịu trong lối sống cân bằng, chứ không phải thứ thay thế cho việc ăn chậm, ăn vừa phải và nghỉ ngơi hợp lý.
+
 
 ## Ăn uống và nhịp sinh hoạt: gốc rễ dễ bị bỏ qua
 

@@ -120,7 +120,7 @@ Vài cách để giữ thói quen này mà không mệt:
 - **Nấu vào tối chủ nhật, để ngăn mát** dùng trong 1–2 ngày đầu tuần, phần còn lại nấu mới.
 - **Kết hợp trong "bộ ba thức uống ngày"**: nước lọc là chính, một thức uống ấm có vị vào giữa buổi, và một thức uống nhẹ nhàng buổi tối.
 
-Với người không tiện nấu, nhóm [trà thảo mộc ban ngày](https://tra.ikihealing.com) là cách đơn giản hơn để giữ nếp "uống ấm có vị" mà không phải loay hoay với nồi nước. Còn nếu điều bạn cần là một tách nhẹ nhàng để hạ nhịp trước giờ ngủ, [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) hợp vai trò đó hơn nước vối — vì nước vối vốn để uống ban ngày, uống nhiều buổi tối dễ khiến bạn phải dậy đêm.
+Với người không tiện nấu, nhóm trà thảo mộc ban ngày là cách đơn giản hơn để giữ nếp "uống ấm có vị" mà không phải loay hoay với nồi nước. Còn nếu điều bạn cần là một tách nhẹ nhàng để hạ nhịp trước giờ ngủ, [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) hợp vai trò đó hơn nước vối — vì nước vối vốn để uống ban ngày, uống nhiều buổi tối dễ khiến bạn phải dậy đêm.
 
 Nguyên tắc chung khi uống trà và nước lá — nhiệt độ, thời điểm, khoảng cách với bữa ăn — được nói kỹ trong bài [Uống trà đúng cách](uong-tra-dung-cach.html).
 

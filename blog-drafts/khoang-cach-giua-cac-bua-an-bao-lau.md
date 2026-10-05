@@ -129,7 +129,7 @@ Có một khoảng cách nữa hay bị bỏ quên: giữa bữa tối và lúc 
 
 Ăn quá sát giờ ngủ thường kéo theo cảm giác nặng bụng, khó vào giấc, và với người nhạy cảm thì dễ trào ngược khi nằm. Ngược lại, ăn tối quá sớm rồi thức tới khuya lại khiến bạn đói lúc 22h và đi tìm đồ ăn đêm — cũng là một cách phá nhịp.
 
-Nếu bạn buộc phải ăn tối muộn vì công việc, hai điều chỉnh đơn giản có ích: giảm khối lượng bữa tối và chọn món dễ tiêu hơn (canh, cháo, đồ hấp thay vì đồ chiên rán), rồi bù phần còn thiếu vào bữa sáng hôm sau. Một ly [trà thảo mộc ấm](https://thanhhuongtra.ikihealing.com) sau bữa tối cũng là thói quen nhẹ nhàng nhiều người dùng để khép lại ngày, thay cho việc tiếp tục nhấm nháp đồ ăn tới khuya.
+Nếu bạn buộc phải ăn tối muộn vì công việc, hai điều chỉnh đơn giản có ích: giảm khối lượng bữa tối và chọn món dễ tiêu hơn (canh, cháo, đồ hấp thay vì đồ chiên rán), rồi bù phần còn thiếu vào bữa sáng hôm sau. Một ly [trà thảo mộc ấm](https://thanhhuongtra.ikihealing.com) sau bữa tối cũng là một thói quen nhẹ nhàng để khép lại ngày, thay cho việc tiếp tục nhấm nháp đồ ăn tới khuya.
 
 Chi tiết về giờ ăn tối có ở bài [Ăn tối lúc mấy giờ là tốt nhất](an-toi-luc-may-gio-la-tot-nhat.html).
 
@@ -139,7 +139,7 @@ Nhiều người sắp lịch bữa ăn rất chuẩn nhưng vẫn thấy nhịp
 
 Một ly trà sữa, một cốc cà phê sữa đá, một chai nước ngọt giữa buổi có lượng đường đủ để cắt đứt cơn đói và làm bạn không muốn ăn bữa chính kế tiếp. Rồi hai tiếng sau, khi đường huyết hạ xuống, cơn đói quay lại đúng lúc bạn không tiện ăn.
 
-Cách xử lý không phải là cấm tuyệt đối, mà là **xếp chúng vào đúng chỗ**: nếu bạn muốn một ly trà sữa, hãy coi nó là bữa phụ và đặt nó cách bữa chính 2-3 tiếng, thay vì uống ngay trước giờ cơm. Giữa các bữa, thứ uống không phá nhịp là nước lọc, nước ấm hoặc trà nhạt không đường. Với người quen tay tìm đồ uống mỗi chiều, một ly [trà thảo mộc ban ngày](https://tra.ikihealing.com) là cách thay thế nhẹ nhàng mà vẫn giữ được cái thú nhấm nháp.
+Cách xử lý không phải là cấm tuyệt đối, mà là **xếp chúng vào đúng chỗ**: nếu bạn muốn một ly trà sữa, hãy coi nó là bữa phụ và đặt nó cách bữa chính 2-3 tiếng, thay vì uống ngay trước giờ cơm. Giữa các bữa, thứ uống không phá nhịp là nước lọc, nước ấm hoặc trà nhạt không đường. Với người quen tay tìm đồ uống mỗi chiều, một ly trà thảo mộc ban ngày là cách thay thế nhẹ nhàng mà vẫn giữ được cái thú nhấm nháp.
 
 ## Khoảng cách bữa ăn thay đổi theo lứa tuổi
 

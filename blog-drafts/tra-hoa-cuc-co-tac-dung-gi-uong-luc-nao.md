@@ -134,7 +134,7 @@ Hoa cúc có vị nhẹ nên rất dễ đi cùng nguyên liệu khác. Vài cá
 
 **Hoa cúc + một lát chanh vàng.** Cho buổi chiều oi bức, uống ấm hoặc để nguội tự nhiên, không đá.
 
-Nguyên tắc chung khi phối: **thêm ít một, thử vài ngày rồi mới điều chỉnh**, và đừng gộp quá nhiều nguyên liệu trong một ấm. Ba thứ là đủ. Nếu bạn thích uống trà thảo mộc vào ban ngày với vị đậm đà hơn để thay cho nước ngọt, [Trà Tuệ Minh](https://tra.ikihealing.com) là lựa chọn IKI làm cho khung giờ làm việc.
+Nguyên tắc chung khi phối: **thêm ít một, thử vài ngày rồi mới điều chỉnh**, và đừng gộp quá nhiều nguyên liệu trong một ấm. Ba thứ là đủ.
 
 ## Ai nên thận trọng khi uống trà hoa cúc
 

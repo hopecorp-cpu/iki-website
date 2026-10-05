@@ -106,7 +106,7 @@ Cảm giác nặng đầu ngay khi vừa mở mắt là chuyện bình thường
 
 **Vận động nhẹ ba đến năm phút.** Không cần tập nặng. Vài động tác vươn vai, xoay khớp cổ vai, hoặc bài thể dục buổi sáng ngắn cũng đủ đánh thức cơ thể. Bài [Vận động kiểu Nhật radio taiso](van-dong-kieu-nhat-radio-taiso.html) có gợi ý một chuỗi rất ngắn phù hợp buổi sáng.
 
-**Lùi ly cà phê lại một chút.** Nhiều người thấy dễ chịu hơn khi uống cà phê sau khi dậy khoảng 60-90 phút thay vì ngay lập tức, vì lúc đó cơ thể đã tự khởi động và ly cà phê không bị dùng để chống lại cảm giác ngái ngủ. Nếu bạn đang muốn giảm cà phê, [các thức uống ấm thay thế](https://ikihealing.com/shop/) là hướng nhiều người trong cộng đồng chọn, và bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) liệt kê vài lựa chọn cụ thể.
+**Lùi ly cà phê lại một chút.** Nhiều người thấy dễ chịu hơn khi uống cà phê sau khi dậy khoảng 60-90 phút thay vì ngay lập tức, vì lúc đó cơ thể đã tự khởi động và ly cà phê không bị dùng để chống lại cảm giác ngái ngủ. Nếu bạn đang muốn giảm cà phê, [các thức uống ấm thay thế](https://ikihealing.com/shop/) là một hướng có thể cân nhắc, và bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) liệt kê vài lựa chọn cụ thể.
 
 **Ăn sáng có đạm.** Bữa sáng chỉ toàn tinh bột dễ khiến bạn tụt năng lượng giữa buổi và cảm giác đó thường bị quy nhầm cho việc dậy sớm. Thêm trứng, đậu phụ, sữa hạt hoặc một nguồn đạm rõ ràng sẽ giữ được nhịp lâu hơn. Xem thêm [Ăn sáng thế nào cho một ngày tràn năng lượng](an-sang-tran-nang-luong.html).
 

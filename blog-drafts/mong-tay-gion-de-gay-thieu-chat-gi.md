@@ -67,7 +67,7 @@ Nhóm dễ thiếu sắt gồm: phụ nữ trong độ tuổi kinh nguyệt, đ�
 Về thực phẩm, sắt có hai dạng với khả năng hấp thu rất khác nhau. Sắt trong thịt đỏ, gan, hải sản được cơ thể hấp thu dễ. Sắt trong rau lá xanh đậm, đậu đỗ, hạt, ngũ cốc nguyên cám khó hấp thu hơn nhiều — nhưng có hai mẹo làm thay đổi cục diện:
 
 - **Ăn kèm nguồn vitamin C trong cùng bữa.** Vắt chanh vào rau luộc, ăn tráng miệng bằng ổi hoặc cam, cho cà chua vào món đậu — vitamin C tăng đáng kể khả năng hấp thu sắt từ thực vật.
-- **Tách trà và cà phê ra khỏi bữa ăn.** Các hợp chất trong trà và cà phê cản trở hấp thu sắt. Uống cách bữa ăn khoảng một tiếng là đủ để tránh xung đột này. Nếu bạn có thói quen uống trà, [Trà Tuệ Minh](https://tra.ikihealing.com) hay bất kỳ loại trà nào cũng nên dời sang giữa buổi thay vì uống ngay sau bữa cơm.
+- **Tách trà và cà phê ra khỏi bữa ăn.** Các hợp chất trong trà và cà phê cản trở hấp thu sắt. Uống cách bữa ăn khoảng một tiếng là đủ để tránh xung đột này.
 
 Danh sách chi tiết hơn có trong bài [Thực phẩm giàu sắt](thuc-pham-giau-sat.html). Một lưu ý quan trọng: **không tự ý uống viên sắt liều cao khi chưa xét nghiệm.** Thừa sắt không vô hại, và cảm giác "chắc mình thiếu" không thay thế được một xét nghiệm máu đơn giản.
 

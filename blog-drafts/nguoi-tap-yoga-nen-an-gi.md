@@ -183,7 +183,7 @@ Nhiều người tập yoga chọn ăn thiên về thực vật, hoặc ăn chay
 ## Một ngày mẫu cho người tập yoga buổi tối
 
 - **6h30** — Nước ấm. Bữa sáng: yến mạch nấu sữa hạt, một quả trứng, vài lát chuối.
-- **9h30** — Một tách [trà thảo mộc ban ngày](https://tra.ikihealing.com) hoặc nước lọc.
+- **9h30** — Một tách trà thảo mộc ban ngày hoặc nước lọc.
 - **12h** — Bữa trưa: cơm, cá kho, rau luộc, canh. Một phần trái cây tráng miệng.
 - **16h30** — Bữa nhẹ: sữa chua không đường với vài hạt óc chó.
 - **19h - 20h** — Buổi tập.

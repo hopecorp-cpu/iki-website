@@ -124,7 +124,7 @@ Người Việt có cả một họ thức uống rang, mỗi loại một tính
 - **Nước ngô (bắp) rang:** ngọt tự nhiên hơn, nhiều người thích uống lạnh mùa hè.
 - **Trà thảo mộc:** có hương vị và tính chất riêng theo từng loại thảo mộc, đa dạng hơn về mục đích sử dụng.
 
-Nếu bạn muốn một thức uống ban ngày có hương vị rõ nét hơn nước gạo lứt rang, nhóm [trà thảo mộc ban ngày](https://tra.ikihealing.com) là lựa chọn quen thuộc trong cộng đồng IKI. Cách hay dùng là **luân phiên**: nước gạo lứt rang làm nền cả ngày, một tách trà thảo mộc vào khung giờ cần tỉnh táo, và nước lọc vẫn là phần chính.
+Nếu bạn muốn một thức uống ban ngày có hương vị rõ nét hơn nước gạo lứt rang, nhóm trà thảo mộc ban ngày là một lựa chọn để cân nhắc. Cách hay dùng là **luân phiên**: nước gạo lứt rang làm nền cả ngày, một tách trà thảo mộc vào khung giờ cần tỉnh táo, và nước lọc vẫn là phần chính.
 
 ## Ghép vào ngày làm việc: một nhịp thực tế
 

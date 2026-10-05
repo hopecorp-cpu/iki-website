@@ -126,7 +126,7 @@ Vài nguyên tắc nền tảng giúp giấc ngủ dễ đến hơn: giữ giờ
 
 Một trong những cách bền vững nhất để đưa thư giãn vào cuộc sống là xây dựng một chuỗi thói quen nhỏ, lặp lại mỗi tối, báo hiệu cho cơ thể rằng ngày đã khép lại và đến lúc chậm dần. Nghi thức này không cần cầu kỳ, chỉ cần đều đặn.
 
-Bạn có thể thử một chuỗi đơn giản như sau: tắt bớt đèn cho không gian dịu lại; cất điện thoại ra xa tầm tay; làm vài động tác giãn cơ nhẹ để thả lỏng vai gáy; rồi ngồi yên hít thở chậm vài phút. Với nhiều người, việc pha một tách trà thảo mộc ấm là phần dễ chịu nhất của nghi thức này. Hơi ấm toả ra từ tách trà, hương thơm thoảng nhẹ và khoảng lặng khi ngồi thưởng thức đều góp phần giúp tâm trí chậm lại sau một ngày dài. Nếu bạn thích thêm một thức uống thảo mộc để thư giãn vào buổi tối, [Trà Tuệ Minh](https://tra.ikihealing.com) là một lựa chọn nhẹ nhàng cho khoảnh khắc nghỉ ngơi, mang lại cảm giác thư thái chứ không nhằm thay thế cho việc ngủ đủ và chăm sóc tinh thần đúng cách.
+Bạn có thể thử một chuỗi đơn giản như sau: tắt bớt đèn cho không gian dịu lại; cất điện thoại ra xa tầm tay; làm vài động tác giãn cơ nhẹ để thả lỏng vai gáy; rồi ngồi yên hít thở chậm vài phút. Với nhiều người, việc pha một tách trà thảo mộc ấm là phần dễ chịu nhất của nghi thức này. Hơi ấm toả ra từ tách trà, hương thơm thoảng nhẹ và khoảng lặng khi ngồi thưởng thức đều góp phần giúp tâm trí chậm lại sau một ngày dài.
 
 Điều làm nên sức mạnh của một nghi thức không phải là từng hành động riêng lẻ, mà là sự lặp lại. Khi bạn làm cùng một chuỗi việc mỗi tối, cơ thể dần "học" được rằng đây là tín hiệu để hạ nhịp, và việc chuyển sang trạng thái nghỉ trở nên tự nhiên hơn.
 

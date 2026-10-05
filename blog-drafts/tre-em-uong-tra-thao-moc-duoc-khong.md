@@ -108,7 +108,7 @@ Danh sách này đáng để dán lên tủ bếp:
 
 Trên thực tế, giải pháp gọn nhất cho tình huống "con đòi uống cùng" thường không phải là chia trà cho trẻ, mà là **cho trẻ một cốc nước ấm riêng** trong chính không khí ấy. Điều trẻ thích thường là được ngồi cùng, được cầm cốc như người lớn, chứ không hẳn là vị của trà.
 
-Với người lớn trong nhà, một tách trà thảo mộc ấm buổi tối vẫn là thói quen dễ chịu để chuyển trạng thái sau ngày làm việc; nếu bạn đang tìm loại dịu cho khung giờ này, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thảo mộc thư giãn buổi tối của IKI, còn [Trà Tuệ Minh](https://tra.ikihealing.com) hợp với khung ban ngày. Cần nói rõ: đây là **thực phẩm bổ sung dành cho người lớn**, không phải sản phẩm dành cho trẻ em, và không có tác dụng thay thế thuốc.
+
 
 Muốn hiểu vì sao trà thảo mộc buổi tối thường không gây khó ngủ ở người lớn, bạn có thể đọc thêm bài [Uống trà thảo mộc buổi tối có mất ngủ không](uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html).
 

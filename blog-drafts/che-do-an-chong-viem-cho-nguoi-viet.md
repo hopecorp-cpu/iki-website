@@ -127,7 +127,7 @@ Phần này thường bị viết theo kiểu doạ nạt. Thực tế cần bì
 
 **Chỗ thứ ba — dầu ăn.** Chọn dầu phù hợp với cách nấu, không dùng một loại dầu cho mọi việc, và đặc biệt là không tái sử dụng dầu đã chiên. Chi tiết ở bài [Chọn dầu ăn lành mạnh](chon-dau-an-lanh-manh.html).
 
-**Chỗ thứ tư — đồ uống trong ngày.** Đây là thay đổi có tỷ lệ "công sức bỏ ra trên kết quả nhận lại" tốt nhất. Thay phần lớn đồ uống ngọt bằng nước lọc, và nếu thấy nước lọc nhạt miệng thì dùng trà thảo mộc. Buổi ngày, một ấm [trà thảo mộc nhẹ](https://tra.ikihealing.com) là cách dễ duy trì hơn nhiều so với ép mình uống nước lọc suốt. Buổi tối, khi cần một thức uống ấm không gây tỉnh táo, [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) hợp với nếp chuẩn bị đi ngủ hơn là trà đặc hay cà phê.
+**Chỗ thứ tư — đồ uống trong ngày.** Đây là thay đổi có tỷ lệ "công sức bỏ ra trên kết quả nhận lại" tốt nhất. Thay phần lớn đồ uống ngọt bằng nước lọc, và nếu thấy nước lọc nhạt miệng thì dùng trà thảo mộc. Buổi ngày, một ấm trà thảo mộc nhẹ là cách dễ duy trì hơn nhiều so với ép mình uống nước lọc suốt. Buổi tối, khi cần một thức uống ấm không gây tỉnh táo, [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) hợp với nếp chuẩn bị đi ngủ hơn là trà đặc hay cà phê.
 
 ## Thực đơn mẫu 7 ngày bằng nguyên liệu chợ Việt
 

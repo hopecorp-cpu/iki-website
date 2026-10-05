@@ -114,7 +114,7 @@ Những yếu tố ảnh hưởng đến chất lượng nhiều nhất, xếp t
 - **Bữa tối và đồ uống.** Ăn quá no sát giờ ngủ, uống nhiều nước ngay trước khi nằm, hoặc dùng cà phê sau giữa chiều đều làm giấc ngủ đứt quãng.
 - **Mức căng thẳng mang về nhà.** Một cái đầu vẫn đang chạy công việc thì không thể chuyển sang trạng thái nghỉ chỉ vì bạn đã tắt đèn.
 
-Với yếu tố cuối, điều hữu ích nhất là tạo một khoảng đệm rõ ràng giữa ngày làm việc và giờ lên giường. Nhiều người dùng khoảng ba mươi phút cuối ngày cho một việc lặp lại, chậm và không có màn hình: đọc vài trang sách, ngâm chân nước ấm, hoặc ngồi yên với một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) như một tín hiệu quen thuộc báo cho cơ thể biết ngày đã kết thúc. Bản thân tách trà không tạo ra giấc ngủ, nhưng việc lặp lại một nghi thức cố định mỗi tối giúp quá trình chuyển trạng thái diễn ra dễ hơn.
+Với yếu tố cuối, điều hữu ích nhất là tạo một khoảng đệm rõ ràng giữa ngày làm việc và giờ lên giường. Bạn có thể dành khoảng ba mươi phút cuối ngày cho một việc lặp lại, chậm và không có màn hình: đọc vài trang sách, ngâm chân nước ấm, hoặc ngồi yên với một tách [trà thảo mộc thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) như một tín hiệu quen thuộc báo cho cơ thể biết ngày đã kết thúc. Bản thân tách trà không tạo ra giấc ngủ, nhưng việc lặp lại một nghi thức cố định mỗi tối giúp quá trình chuyển trạng thái diễn ra dễ hơn.
 
 ## Nhu cầu ngủ thay đổi thế nào qua các giai đoạn cuộc đời
 

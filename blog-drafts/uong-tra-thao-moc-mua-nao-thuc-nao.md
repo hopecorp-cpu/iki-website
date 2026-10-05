@@ -172,7 +172,7 @@ Nhiều người bắt đầu uống trà thảo mộc bằng cách mua một l�
 - **Một loại vị ấm cho mùa lạnh**, ví dụ gừng khô hoặc quế. Dùng ít hơn về số tách nhưng mỗi lần dùng đậm hơn.
 - **Một loại vị hoa dùng được quanh năm cho buổi tối**, không caffeine. Đây là loại "gối đầu giường", đổi cách pha theo mùa như mục trên. Trà Thanh Hương với bốn vị hoa nhài, phục linh, hoa quế, trần bì là một ví dụ của nhóm này.
 
-Nếu ban ngày bạn muốn thêm một tách trà thảo mộc có hương đậm hơn để thay thói quen uống nhiều cà phê, [Trà Tuệ Minh](https://tra.ikihealing.com) là loại trà túi lọc ban ngày của IKI, tiện cho người bận. Về giá, cả hai loại trà đều có mức niêm yết công khai trên trang sản phẩm, bài này không nhắc để tránh lỗi thời.
+
 
 **Mua bao nhiêu và mua khi nào:** mua hộp nhỏ, dùng hết trong hai đến ba tháng, mua lại trước khi hết một tuần. Trà hoa mất hương nhanh nhất, nên mua sát mùa. Trà rễ củ như gừng, quế giữ được lâu hơn, có thể mua từ đầu mùa lạnh.
 
@@ -224,4 +224,4 @@ Trước khi chọn vị, nếu bạn muốn hiểu thêm cơ thể mình đang 
 - Viện Dinh dưỡng TP. Hồ Chí Minh: "Dinh dưỡng theo y học cổ truyền" (nguyên tắc ăn uống thuận mùa).
 - Báo Khánh Hoà: "Cách ăn uống, sinh hoạt thuận theo mùa xuân".
 
-Bài viết chia sẻ nếp sinh hoạt và khẩu vị, không thay thế chẩn đoán hoặc tư vấn y khoa. Trà thảo mộc IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Bài viết chia sẻ nếp sinh hoạt và khẩu vị, không thay thế chẩn đoán hoặc tư vấn y khoa.

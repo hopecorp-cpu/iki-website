@@ -36,7 +36,6 @@
     }
   ],
   "related": [
-    { "title": "Trà Tuệ Minh là gì? Thành phần, nguồn gốc và cách pha đúng", "url": "tra-tue-minh-la-gi.html" },
     { "title": "Uống trà thảo mộc buổi tối có mất ngủ không?", "url": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html" },
     { "title": "Trà túi lọc và trà rời khác nhau thế nào?", "url": "tra-tui-loc-va-tra-roi-khac-nhau-the-nao.html" },
     { "title": "Cách pha trà túi lọc đúng cách", "url": "cach-pha-tra-tui-loc-dung-cach.html" },
@@ -100,7 +99,7 @@ Dưới đây là những loại quen thuộc nhất, đều thuộc nhóm hãm 
 - **Rooibos** — cây bụi Nam Phi, không họ hàng gì với cây chè, không caffeine, vị ngọt gỗ nhẹ.
 - **Hoa oải hương (lavender), cúc La Mã (chamomile), hồng trà quả (fruit infusion)** — đều là hãm từ hoa và quả, không caffeine, miễn là không phối thêm trà thật.
 
-Trong nhóm này, các hỗn hợp thảo mộc dạng túi lọc kiểu Việt cũng là lựa chọn đáng chú ý cho người muốn một thức uống ấm ban ngày mà không nạp thêm caffeine — ví dụ dòng [trà thảo mộc](https://tra.ikihealing.com) túi lọc từ nguyên liệu trồng trong nước. Điểm tiện của dạng túi lọc là bạn biết chắc mình đang hãm gì, thay vì mua nguyên liệu rời rồi tự phối theo cảm tính.
+Trong nhóm này, các hỗn hợp thảo mộc dạng túi lọc kiểu Việt cũng là lựa chọn đáng chú ý cho người muốn một thức uống ấm ban ngày mà không nạp thêm caffeine. Điểm tiện của dạng túi lọc là bạn biết chắc mình đang hãm gì, thay vì mua nguyên liệu rời rồi tự phối theo cảm tính.
 
 ## Ba ngoại lệ: thảo mộc nhưng vẫn có caffeine
 
@@ -198,7 +197,7 @@ Thứ hai, **ba ngoại lệ cần nhớ là yerba mate, guayusa và guarana** �
 
 Thứ ba, **tên gọi mặt trước hộp không đáng tin bằng bảng thành phần mặt sau**. Trà hoa nhài thường là trà xanh ướp hương. Nhiều hỗn hợp trà hoa quả có hồng trà làm nền. Trà decaf vẫn còn caffeine. Ba mươi giây đọc nhãn giải quyết gọn cả ba trường hợp.
 
-Nếu bạn đang tìm một thức uống ấm cho buổi tối mà không muốn nghĩ ngợi gì về caffeine, hãy bắt đầu bằng loại đơn giản nhất: một tách hoa cúc nhạt, hoặc một túi lọc thảo mộc nguyên chất. Và nếu bạn muốn biết cơ địa mình hợp với nếp uống nào hơn — ấm hay mát, sáng hay tối — bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ cho bạn một gợi ý cụ thể để bắt đầu. Muốn tìm hiểu một dòng trà thảo mộc túi lọc cụ thể thì có thể đọc [Trà Tuệ Minh là gì](tra-tue-minh-la-gi.html) để biết thành phần, nguồn gốc và cách pha.
+Nếu bạn đang tìm một thức uống ấm cho buổi tối mà không muốn nghĩ ngợi gì về caffeine, hãy bắt đầu bằng loại đơn giản nhất: một tách hoa cúc nhạt, hoặc một túi lọc thảo mộc nguyên chất. Và nếu bạn muốn biết cơ địa mình hợp với nếp uống nào hơn — ấm hay mát, sáng hay tối — bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ cho bạn một gợi ý cụ thể để bắt đầu.
 
 ## Nguồn tham khảo
 

@@ -145,7 +145,7 @@ Mỗi người có một nhịp tối khác nhau, người thì cần ngồi yê
 
 [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là trà thảo mộc bốn vị: hoa nhài cho hương hoa dịu, phục linh cho vị thanh nhẹ, hoa quế cho nốt ấm ngọt, trần bì tức vỏ quýt phơi khô cho hương cam và vị hơi the. Bốn vị đều được ghi tên trên nhãn. Trà không chứa lá chè hay cà phê trong thành phần. Về dòng chữ "không caffeine": chúng tôi chưa có phiếu kiểm nghiệm riêng cho chỉ tiêu này, nên trên nhãn và trong mọi bài viết của IKI không in câu đó, chỉ mô tả bốn vị và mời bạn đọc bảng thành phần. Đó là cách chúng tôi áp cờ đỏ thứ ba của bài này lên chính mình. Giá niêm yết là 226.000đ một hộp.
 
-Cho ban ngày, [Trà Tuệ Minh](https://tra.ikihealing.com) là trà túi lọc làm cùng một hợp tác xã nam dược ở vùng Tản Viên, giá niêm yết 168.000đ. Hai dòng trà chia theo nếp sinh hoạt sáng và tối, không chia theo công dụng. Bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) có nốt hương từng vị và cách pha; bài [trà thảo mộc Việt và trà nhập khẩu](tra-thao-moc-viet-va-tra-nhap-khau.html) nói vì sao chúng tôi chọn nguyên liệu trong nước.
+ Bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) có nốt hương từng vị và cách pha; bài [trà thảo mộc Việt và trà nhập khẩu](tra-thao-moc-viet-va-tra-nhap-khau.html) nói vì sao chúng tôi chọn nguyên liệu trong nước.
 
 Kênh mua chính hãng gồm trang riêng của từng dòng trà ở trên và cửa hàng chung tại [ikihealing.com/shop](https://ikihealing.com/shop/). Ở đó bạn xem được ảnh nhãn mặt sau, thông tin doanh nghiệp chịu trách nhiệm là Công ty Cổ phần TMDV HOPE, và có người trả lời câu hỏi về nguyên liệu. Nếu mua trên sàn, hãy áp đúng bốn việc ở mục mua online: tên gian hàng phải khớp tên doanh nghiệp, và đừng ngại nhắn hỏi ảnh nhãn.
 

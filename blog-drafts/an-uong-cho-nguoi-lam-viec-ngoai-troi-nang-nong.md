@@ -112,7 +112,7 @@ Khuyến cáo được các cơ sở y tế nhắc lại nhiều là **uống kh
 - **Nước dừa** cho kali và một lượng khoáng tự nhiên, hợp làm phần bù giữa buổi.
 - **Cháo loãng, nước đậu xanh rang, canh rau.** Các món này vừa bù nước vừa bù một phần khoáng và năng lượng, đặc biệt hợp với bữa trưa của người lao động ngoài trời.
 - **Dung dịch bù nước điện giải** khi ra mồ hôi rất nhiều — nhưng phải pha đúng theo hướng dẫn trên bao bì. Pha đặc hơn để "cho hiệu quả hơn" là sai và có thể gây hại.
-- **Trà thảo mộc pha loãng, để nguội mang theo.** Nhiều người ngán nước lọc sau vài tiếng, và một bình [trà thảo mộc](https://tra.ikihealing.com) nhạt, không đường, uống mát là cách đơn giản để duy trì nhịp uống đều. Lưu ý pha loãng, vì trà quá đặc lại không phù hợp cho khung giờ làm việc dưới nắng.
+- **Trà thảo mộc pha loãng, để nguội mang theo.** Nhiều người ngán nước lọc sau vài tiếng, và một bình trà thảo mộc nhạt, không đường, uống mát là cách đơn giản để duy trì nhịp uống đều. Lưu ý pha loãng, vì trà quá đặc lại không phù hợp cho khung giờ làm việc dưới nắng.
 
 **Nên hạn chế trong ca làm:**
 

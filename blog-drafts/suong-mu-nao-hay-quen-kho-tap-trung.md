@@ -119,7 +119,7 @@ Với cà phê, ba mức điều chỉnh tăng dần:
 
 1. **Dời muộn buổi sáng.** Uống ly đầu sau khi đã ăn sáng thay vì uống ngay lúc vừa dậy khi bụng còn trống.
 2. **Chốt giờ cuối.** Đặt một mốc — ví dụ 14 giờ — và không uống cà phê sau mốc đó.
-3. **Đổi ly buổi chiều.** Thay ly cà phê thứ hai hoặc thứ ba bằng nước lọc, hoặc [một tách trà thảo mộc uống ban ngày](https://tra.ikihealing.com) nếu bạn cần một thức uống ấm để giữ nhịp làm việc. Nhiều người thấy chỉ riêng thay đổi này đã làm giấc ngủ tối hôm đó khác hẳn — và giấc ngủ tốt mới là thứ gỡ sương mù, chứ không phải bản thân tách trà.
+3. **Đổi ly buổi chiều.** Thay ly cà phê thứ hai hoặc thứ ba bằng nước lọc, hoặc một tách trà thảo mộc uống ban ngày nếu bạn cần một thức uống ấm để giữ nhịp làm việc. Nhiều người thấy chỉ riêng thay đổi này đã làm giấc ngủ tối hôm đó khác hẳn — và giấc ngủ tốt mới là thứ gỡ sương mù, chứ không phải bản thân tách trà.
 
 Nếu bạn đang uống nhiều và muốn cắt giảm, hãy giảm dần thay vì dừng đột ngột, vì cắt đột ngột thường kèm đau đầu và uể oải trong vài ngày đầu.
 

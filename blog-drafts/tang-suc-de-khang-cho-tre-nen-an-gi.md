@@ -141,7 +141,7 @@ Vì vậy, khi xây bữa ăn cho con, hãy xây luôn cho cả nhà:
 
 - Bố mẹ đi làm về muộn, không kịp nấu bữa đủ đạm cho mình, có thể bổ sung thêm một nguồn [đạm thực vật](https://trueveganprotein.com) tiện lợi cho bữa sáng hoặc bữa phụ của người lớn, để không rơi vào cảnh "nấu cho con, còn mình ăn tạm mì gói". Với trẻ nhỏ, nguồn đạm nên đến từ bữa ăn thật và theo hướng dẫn của chuyên viên dinh dưỡng.
 - Ông bà trong nhà thường ăn ít và nhạt; có thể tham khảo bài [đạm cho người trên 50 để giữ khối cơ](dam-cho-nguoi-tren-50-giu-khoi-co.html) để không ai bị bỏ quên trong mâm cơm chung.
-- Buổi tối, thay vì nước ngọt có gas, cả nhà có thể chuyển sang một ấm [trà thảo mộc uống ấm](https://tra.ikihealing.com) cho người lớn và nước ấm cho trẻ — một thay đổi nhỏ nhưng bền.
+- Buổi tối, thay vì nước ngọt có gas, cả nhà có thể chuyển sang một ấm trà thảo mộc uống ấm cho người lớn và nước ấm cho trẻ — một thay đổi nhỏ nhưng bền.
 
 ## Năm sai lầm cha mẹ hay mắc
 

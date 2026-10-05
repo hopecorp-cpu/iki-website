@@ -132,7 +132,7 @@ Mục tiêu không phải là bắt bạn uống nước nóng giữa trưa hè.
 
 **4. Đổi sang các thức uống mát tự nhiên.** Nước dừa không đá, nước chanh loãng, nước rau má, canh rau mát trong bữa cơm — người Việt vốn có cả một kho giải nhiệt không cần đến đá. Xem [giải nhiệt mùa nắng nóng](giai-nhiet-mua-nang-nong.html).
 
-**5. Thử trà thảo mộc để nguội.** Một bình [trà thảo mộc ban ngày](https://tra.ikihealing.com) hãm buổi sáng, để nguội tự nhiên rồi uống dần trong ngày là cách giữ cảm giác thanh mát mà không cần đá. Nhiều người thấy dễ duy trì hơn nước lọc vì có hương vị.
+**5. Thử trà thảo mộc để nguội.** Một bình trà thảo mộc ban ngày hãm buổi sáng, để nguội tự nhiên rồi uống dần trong ngày là cách giữ cảm giác thanh mát mà không cần đá. Nhiều người thấy dễ duy trì hơn nước lọc vì có hương vị.
 
 **6. Với người quen ly cà phê đá mỗi trưa** — nếu bạn thuộc nhóm bụng dạ nhạy, thử đổi vài buổi trong tuần sang thức uống ấm nhẹ hơn. Các lựa chọn thay cà phê ở [gian hàng của IKI](https://ikihealing.com/shop/) là một cách chuyển tiếp, và bài [uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) có thêm gợi ý.
 

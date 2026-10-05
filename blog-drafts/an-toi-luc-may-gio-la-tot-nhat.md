@@ -133,7 +133,7 @@ Khoảng thời gian 20–30 phút sau bữa ăn ảnh hưởng đến cảm gi�
 
 **Nên tránh:** nằm ngay sau khi ăn; tập nặng khi bụng còn đầy; uống nước ngọt có gas; ăn tráng miệng quá ngọt sát giờ ngủ; và uống trà đặc hay cà phê sau 16h nếu bạn thuộc nhóm nhạy với cafein.
 
-Với nhiều gia đình, một tách trà thảo mộc ấm sau bữa tối là cách kết thúc ngày nhẹ nhàng — vừa tạo khoảng nghỉ giữa bữa ăn và giấc ngủ, vừa thành một tín hiệu quen thuộc báo cho cơ thể biết đã đến lúc chậm lại. Nếu bạn thích nếp này, có thể tham khảo [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) — dòng trà thảo mộc IKI dành cho buổi tối, uống ấm và không chứa cafein. Đây là thực phẩm bổ sung, dùng như một thức uống trong nếp sinh hoạt, không thay thế thuốc.
+Với nhiều gia đình, một tách trà thảo mộc ấm sau bữa tối là cách kết thúc ngày nhẹ nhàng — vừa tạo khoảng nghỉ giữa bữa ăn và giấc ngủ, vừa thành một tín hiệu quen thuộc báo cho cơ thể biết đã đến lúc chậm lại. Nếu bạn thích nếp này, có thể tham khảo [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) — dòng trà thảo mộc IKI dành cho buổi tối, uống ấm và không chứa cafein.
 
 ## Bữa tối của trẻ nhỏ và người lớn tuổi
 
