@@ -20,6 +20,7 @@
  * Chạy: node scripts/build-san-pham.mjs
  */
 import fs from "fs";
+import crypto from "crypto";
 import path from "path";
 import { fileURLToPath } from "url";
 import { header, footer } from "./build-structure.mjs";
@@ -28,6 +29,17 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const SITE = "https://ikihealing.com";
 const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "san-pham-data.json"), "utf8"));
+// Câu khuyến cáo theo sản phẩm (VHSP-01): chép nguyên văn bằng script, ở đây chỉ kiểm băm rồi dán.
+const KHUYEN_CAO = JSON.parse(fs.readFileSync(path.join(ROOT, "data/khuyen-cao-san-pham.json"), "utf8"));
+function khuyenCao(sp) {
+  const kc = KHUYEN_CAO[sp.slug];
+  if (!kc) return null;
+  for (const c of kc.cau) {
+    const h = crypto.createHash("sha256").update(c.cau, "utf8").digest("hex");
+    if (h !== c.banDuyet) throw new Error(`[${sp.slug}] câu khuyến cáo ${c.ma} lệch băm đã duyệt`);
+  }
+  return kc;
+}
 
 const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 const escAttr = (s) => esc(s).replace(/"/g, "&quot;");
@@ -110,6 +122,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null
     .sp-ban-moi a{display:inline-block;font-size:.88rem;font-weight:700;color:#2f6b1f;text-decoration:none;border-bottom:1.5px solid #8fb93f}
     .sp-top h1{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.8rem,4vw,2.7rem);margin:.35rem 0 .6rem;line-height:1.2}
     .sp-gia{font-size:1.7rem;font-weight:800;color:#1d2430;margin:6px 0 4px}
+    .sp-kc{font-size:.82rem;color:#475467;margin:4px 0 8px}
     .sp-gia small{display:block;font-size:.8rem;font-weight:500;color:#667085;margin-top:2px}
     .sp-mota{color:#475467;font-size:1.05rem;line-height:1.7;margin:12px 0 20px}
     .sp-cta{display:flex;gap:12px;flex-wrap:wrap;margin:18px 0 8px}
@@ -204,6 +217,7 @@ ${header()}
           <span class="sp-eyebrow">${esc(sp.loai)}</span>
           <h1>${esc(sp.h1)}</h1>
           <div class="sp-gia">${tien(sp.gia)}<small>${an ? "Giá tham khảo — sản phẩm đã ngừng bán" : "Giá niêm yết"}${sp.quyCach ? ` · ${esc(sp.quyCach)}` : ""}</small></div>
+          ${khuyenCao(sp)?.ganGia ? khuyenCao(sp).cau.map((c) => `<p class="sp-kc">${esc(c.cau)}</p>`).join("") : ""}
           <p class="sp-mota">${esc(sp.moTa)}</p>
           ${an ? `<div class="sp-chua-ban">Sản phẩm này hiện <strong>chưa mở bán</strong> trên IKI. Trang được giữ lại để tra thông tin. Cần hỏi thêm, chị nhắn Zalo <a href="https://zalo.me/0987931551">098 793 1551</a>.</div>
           <div class="sp-cta"><a class="sp-btn phu" href="../shop/">Xem sản phẩm đang bán</a></div>` : `<div class="sp-cta">
@@ -247,7 +261,7 @@ ${header()}
         </ul>
       </div>`)}
 
-      ${sp.laTPBS === false ? `<div class="sp-med">Trang này là thông tin sản phẩm. Nội dung được chép từ mô tả của nhà sản xuất hoặc nhà phân phối, không nhằm chẩn đoán hay điều trị bệnh.</div>` : `<div class="sp-med">Đây là <strong>thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung trên trang là thông tin sản phẩm và gợi ý chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay điều trị bệnh. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng.</div>`}
+      ${sp.laTPBS === false ? `<div class="sp-med">Trang này là thông tin sản phẩm. Nội dung được chép từ mô tả của nhà sản xuất hoặc nhà phân phối, không nhằm chẩn đoán hay điều trị bệnh.</div>` : `<div class="sp-med">${(() => { const kc = khuyenCao(sp); if (!kc) throw new Error(`[${sp.slug}] thiếu câu khuyến cáo đã duyệt trong data/khuyen-cao-san-pham.json`); return kc.cau.map((c) => esc(c.cau)).join(" "); })()} Nội dung trên trang là thông tin sản phẩm và gợi ý chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay điều trị bệnh. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng.</div>`}
     </article>
   </main>
 ${footer()}
