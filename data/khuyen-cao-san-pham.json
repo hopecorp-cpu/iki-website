@@ -1,0 +1,43 @@
+{
+ "_doc": "Câu khuyến cáo theo sản phẩm (VHSP-01, Thương hiệu duyệt 2026-10-03 07:28). Sinh bằng script từ file đã duyệt, KHÔNG sửa tay; scripts/build-san-pham.mjs kiểm sha256(cau) = banDuyet lúc dựng. ganGia = lặp thêm câu ngay dưới giá.",
+ "true-vegan-protein": {
+  "ganGia": true,
+  "cau": [
+   {
+    "ma": "A1-dam-day-du",
+    "cau": "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
+    "banDuyet": "e25eea73d6f8f5ed2498e53747e7ab4e978891511ecdc69201806766af8c82ce"
+   }
+  ]
+ },
+ "tra-thanh-huong": {
+  "ganGia": false,
+  "cau": [
+   {
+    "ma": "A3-th-day-du",
+    "cau": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
+    "banDuyet": "51fe73aecdb5cc83d56d007728aa00d0ea74c67a8b7284d25f26fd54e0165e8d"
+   },
+   {
+    "ma": "A7a-canh-bao-th-SUA",
+    "cau": "Thông tin cảnh báo (Trà Thanh Hương): Không dùng sản phẩm khi quá hạn sử dụng hoặc có dấu hiệu hư hỏng.",
+    "banDuyet": "63d8cf448ca2bc4e63671235b6b90b5746317bbc98bd2e4064997191bf90f74b"
+   }
+  ]
+ },
+ "tra-tue-minh": {
+  "ganGia": false,
+  "cau": [
+   {
+    "ma": "A5-tm-day-du",
+    "cau": "Trà Thảo Mộc Túi Lọc Tuệ Minh, số tự công bố 01/HOPE/2025. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, quận Hà Đông, thành phố Hà Nội.",
+    "banDuyet": "b5dd55e430b11c71c631448601867c0f2a909e19dd13d33afb32706d207bcb3c"
+   },
+   {
+    "ma": "A7b-canh-bao-tm-SUA",
+    "cau": "Thông tin cảnh báo (Trà Thảo Mộc Túi Lọc Tuệ Minh): Không sử dụng sản phẩm quá hạn hoặc có dấu hiệu hư hỏng.",
+    "banDuyet": "72d29dfac5c46fd1cbfee15b5411308f78499dbb66cdc9d3bd89d60abe892732"
+   }
+  ]
+ }
+}

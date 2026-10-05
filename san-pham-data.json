@@ -16,7 +16,7 @@
    "tuKhoa": "True Vegan Protein",
    "h1": "True Vegan Protein Pro — bột đạm dinh dưỡng thực vật 500g",
    "seoTitle": "True Vegan Protein Pro: thành phần, cách pha và giá 500g",
-   "moTa": "True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.",
+   "moTa": "True Vegan Protein Pro là bột đạm dinh dưỡng thực vật (0 lactose, 0 cholesterol, 0 đạm động vật), hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.",
    "loai": "Thực phẩm bổ sung — bột đạm thực vật",
    "anh": "true-vegan-protein.jpg",
    "anhAlt": "Hộp bột đạm dinh dưỡng thực vật True Vegan Protein Pro 500g của IKI",
@@ -34,15 +34,11 @@
     ],
     [
      "Nguồn đạm",
-     "Phối từ nhiều loại hạt và đậu, thuần chay"
+     "Phối từ nhiều loại hạt và đậu"
     ],
     [
      "Trên nhãn ghi",
      "0 lactose, 0 cholesterol, 0 đạm động vật"
-    ],
-    [
-     "Chứng nhận in trên bao bì",
-     "ISO 22000, Vegan"
     ],
     [
      "Dành cho",
@@ -65,7 +61,7 @@
    "faq": [
     {
      "q": "True Vegan Protein Pro là gì?",
-     "a": "Đây là bột đạm dinh dưỡng có nguồn gốc thực vật, thuần chay, đóng hộp 500 g, thuộc nhóm thực phẩm bổ sung. Sản phẩm phối đạm từ nhiều loại hạt và đậu, dùng để bổ sung thêm đạm vào khẩu phần ăn hằng ngày chứ không thay thế bữa ăn."
+     "a": "Đây là bột đạm dinh dưỡng có nguồn gốc thực vật (0 lactose, 0 cholesterol, 0 đạm động vật), đóng hộp 500 g, thuộc nhóm thực phẩm bổ sung. Sản phẩm phối đạm từ nhiều loại hạt và đậu, dùng để bổ sung thêm đạm vào khẩu phần ăn hằng ngày chứ không thay thế bữa ăn."
     },
     {
      "q": "Một hộp True Vegan Protein Pro giá bao nhiêu?",
@@ -106,12 +102,7 @@
      "Cần bao nhiêu đạm mỗi ngày và lấy từ đâu"
     ]
    ],
-   "banMoi": {
-    "tieuDe": "Bản mới: hộp 22 gói chia sẵn — đang nhận đặt trước",
-    "chu": "Cùng dòng True Vegan Protein Pro, bao bì đổi từ hũ bột sang gói 22g chia sẵn: hộp 22 gói x 22g, khối lượng tịnh 484g, số tự công bố 03/HOPECORP/2026. Giá dự kiến 688.000đ một hộp. Hàng chưa về kho nên hiện chỉ ghi tên người đặt trước, chưa thu tiền và chưa chốt ngày giao. Bản hũ 500g trên trang này vẫn đang bán bình thường.",
-    "link": "https://trueveganprotein.com/#dat-truoc",
-    "nutChu": "Ghi tên đặt trước bản mới"
-   }
+   "banMoi": null
   },
   {
    "slug": "tra-tue-minh",
@@ -165,7 +156,7 @@
    "faq": [
     {
      "q": "Trà Tuệ Minh là gì?",
-     "a": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc của IKI, mỗi gói 2,6 g, đóng hộp 30 gói, nguyên liệu từ HTX Nam Dược Tản Viên Sơn. Đây là thức uống hằng ngày, không phải là thuốc."
+     "a": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc của IKI, mỗi gói 2,6 g, đóng hộp 30 gói, nguyên liệu từ HTX Nam Dược Tản Viên Sơn."
     },
     {
      "q": "Một hộp Trà Tuệ Minh giá bao nhiêu?",
@@ -278,10 +269,6 @@
     [
      "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao",
      "Trà hoa cúc uống lúc nào"
-    ],
-    [
-     "kho-ngu-tran-troc-nep-buoi-toi",
-     "Khó ngủ trằn trọc: nếp buổi tối giúp dễ vào giấc"
     ]
    ]
   },
