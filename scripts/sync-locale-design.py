@@ -110,7 +110,10 @@ for lang,i in [('en',1),('ja',2)]:
  shell=BeautifulSoup((ROOT/lang/'index.html').read_text(),'html.parser')
  header=str(shell.header);footer=str(shell.footer)
  for path in (ROOT/lang/'blog').glob('*.html'):
-  s=path.read_text();original=BeautifulSoup(s,'html.parser');main=original.find('main');oldtext=main.get_text() if main else ''
+  s=path.read_text()
+  # Trang chuyển hướng (stub noindex + refresh) phải giữ nguyên, không đắp header/CSS.
+  if 'http-equiv="refresh"' in s or 'location.replace' in s: continue
+  original=BeautifulSoup(s,'html.parser');main=original.find('main');oldtext=main.get_text() if main else ''
   h=BeautifulSoup(header,'html.parser');f=BeautifulSoup(footer,'html.parser')
   route='/blog/' if path.name=='index.html' else '/blog/'+path.name
   for g in [h,f]:links(g,lang,route)
