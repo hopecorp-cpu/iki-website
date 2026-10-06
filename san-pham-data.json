@@ -120,7 +120,7 @@
    "tuKhoa": "Trà Tuệ Minh",
    "h1": "Trà Tuệ Minh — trà thảo mộc túi lọc, hộp 30 gói",
    "seoTitle": "Trà Tuệ Minh: thành phần, cách pha và giá hộp 30 gói",
-   "moTa": "Trà Tuệ Minh là trà thảo mộc túi lọc của IKI, hộp 30 gói x 2,6 g, giá niêm yết 168.000đ. Xem nguồn gốc, cách pha đúng nhiệt độ, thời điểm uống và câu hỏi thường gặp.",
+   "moTa": "Trà Tuệ Minh là trà thảo mộc túi lọc của IKI, hộp 30 gói x 2,6 g, giá niêm yết 168.000đ. Xem thông tin sản xuất, cách pha, thời điểm uống và câu hỏi thường gặp.",
    "loai": "Trà thảo mộc túi lọc",
    "anh": "tra-tue-minh.jpg",
    "anhAlt": "Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKI",
@@ -137,7 +137,7 @@
      "Hộp 30 gói x 2,6 g"
     ],
     [
-     "Sản xuất",
+     "Thông tin sản xuất",
      "Sản xuất bởi Hợp tác xã Nam Dược Tản Viên Sơn."
     ],
     [
@@ -151,10 +151,9 @@
    ],
    "thanhPhanText": "Trà Tuệ Minh là trà thảo mộc dạng túi lọc, mỗi gói 2,6 g, đóng hộp 30 gói. Sản xuất bởi Hợp tác xã Nam Dược Tản Viên Sơn. Dạng túi lọc phù hợp với người muốn có một nếp uống ấm mỗi ngày nhưng ngại pha ấm và rửa ấm.",
    "cachDung": [
-    "Cho một túi lọc vào tách khoảng 200 ml.",
-    "Rót nước nóng khoảng 90 độ C — không dùng nước vừa sôi sùng sục, vì nước quá nóng làm bay hương và khiến nước trà chát hơn.",
-    "Hãm khoảng 3 đến 5 phút rồi lấy túi ra. Để quên túi trong tách là lỗi phổ biến nhất khiến trà bị chát.",
-    "Uống khi còn ấm. Không cần vắt túi lọc — vắt làm nước trà đục và gắt hơn."
+    "Cho 1 hoặc 2 gói trà vào ấm pha với 200ml nước sôi, hãm trà từ 2-5 phút rồi sử dụng.",
+    "Hãm đủ thời gian thì nhấc túi lọc ra, không cần vắt túi để nước trà giữ được vị trong.",
+    "Uống khi còn ấm."
    ],
    "baoQuan": "Để hộp nơi khô ráo, tránh ánh sáng trực tiếp và tránh để cạnh gia vị nặng mùi. Thảo mộc mất hương nhanh hơn trà chè vì tinh dầu bay hơi, nên đậy kín ngay sau khi lấy túi ra.",
    "luuY": "Người đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng trà thảo mộc đều đặn hằng ngày.",
@@ -165,11 +164,11 @@
     },
     {
      "q": "Một hộp Trà Tuệ Minh giá bao nhiêu?",
-     "a": "Giá niêm yết là 168.000đ một hộp 30 gói, đã gồm VAT. Tính ra khoảng 5.600đ cho mỗi tách trà."
+     "a": "Giá niêm yết là 168.000đ một hộp 30 gói, đã gồm VAT."
     },
     {
      "q": "Pha Trà Tuệ Minh thế nào cho đúng?",
-     "a": "Cho một túi lọc vào tách khoảng 200 ml, rót nước nóng khoảng 90 độ C, hãm 3 đến 5 phút rồi lấy túi ra. Không nên dùng nước vừa sôi và không nên để quên túi lọc trong tách — đó là hai lý do phổ biến nhất khiến trà túi lọc bị chát."
+     "a": "Cho 1 hoặc 2 gói trà vào ấm pha với 200ml nước sôi, hãm trà từ 2-5 phút rồi sử dụng. Hãm đủ thời gian thì nhấc túi lọc ra, không cần vắt túi."
     },
     {
      "q": "Nên uống Trà Tuệ Minh vào lúc nào trong ngày?",
@@ -190,8 +189,8 @@
      "Uống trà đúng cách"
     ],
     [
-     "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong",
-     "Uống trà thảo mộc buổi tối có mất ngủ không"
+     "cach-pha-tra-tui-loc-dung-cach",
+     "Cách pha trà túi lọc đúng cách: nhiệt độ, thời gian hãm và 5 lỗi hay gặp"
     ]
    ]
   },
@@ -434,8 +433,8 @@
    "loai": "Sách",
    "gia": 168000,
    "anhGoc": "https://cdn.hstatic.net/products/200001053789/_trong_an_uong_cua_phuong_dong_d1a84368566a42babba15ac2fef0cc13_grande_973df324e8ed4e9188cacc6c4a83dcbd.jpg",
-   "moTa": "Học cách ăn lành, sống khoẻ. Cơ thể được xây đắp bởi đồ ăn thức uống hàng ngày, nguồn năng lượng cho chúng ta hoạt động cũng từ đó. Vì vậy, hiểu biết Minh triết trong ăn uống của phương Đông là điều vô cùng cần thiết. Tác giả Ngô Đức Vượng từ lâu đã quan tâm tới vấn đề này. Ông đã ăn chay trường, ăn",
-   "moTaDayDu": "Học cách ăn lành, sống khoẻ. Cơ thể được xây đắp bởi đồ ăn thức uống hàng ngày, nguồn năng lượng cho chúng ta hoạt động cũng từ đó. Vì vậy, hiểu biết Minh triết trong ăn uống của phương Đông là điều vô cùng cần thiết. Tác giả Ngô Đức Vượng từ lâu đã quan tâm tới vấn đề này. Ông đã ăn chay trường, ăn gạo lứt muối vừng và thực hành dưỡng sinh trong nhiều năm. Với mong muốn chia sẻ một lối sống lành, ít tốn kém và dễ thực hành cho cộng đồng, tác giả đã viết cuốn sách này. Là một nhà khoa học và lương y giàu kinh nghiệm, ông gửi vào tác phẩm những đúc kết từ chính hành trình ăn uống của mình. Cuốn sách cung cấp kiến thức tổng quát, tư duy thông thái, giúp người đọc có tầm nhìn và sự đánh giá vấn đề sức khỏe một cách sáng suốt. Nội dung Minh triết trong ăn uống của phương Đông trải dài từ khoa học thực dưỡng, ăn uống theo nguyên lý âm - dương, chế độ ăn uống đến phương pháp nhịn ăn... Bên cạnh kiến thức, tác giả đề cập nhiều kinh nghiệm thực tiễn giúp cho việc áp dụng vào cuộc sống dễ dàng hơn.",
+   "moTa": "Học cách ăn lành, sống khoẻ. Cơ thể được xây đắp bởi đồ ăn thức uống hàng ngày, nguồn năng lượng cho chúng ta hoạt động cũng từ đó. Vì vậy, hiểu biết Minh triết trong ăn uống của phương Đông là điều vô cùng cần thiết. Tác giả từ lâu đã quan tâm tới vấn đề này, đã ăn chay trường, ăn",
+   "moTaDayDu": "Học cách ăn lành, sống khoẻ. Cơ thể được xây đắp bởi đồ ăn thức uống hàng ngày, nguồn năng lượng cho chúng ta hoạt động cũng từ đó. Vì vậy, hiểu biết Minh triết trong ăn uống của phương Đông là điều vô cùng cần thiết. Tác giả từ lâu đã quan tâm tới vấn đề này, đã ăn chay trường, ăn gạo lứt muối vừng và thực hành dưỡng sinh trong nhiều năm. Với mong muốn chia sẻ một lối sống lành, ít tốn kém và dễ thực hành cho cộng đồng, tác giả đã viết cuốn sách này. Cuốn sách là những đúc kết của tác giả từ chính hành trình ăn uống của mình. Cuốn sách cung cấp kiến thức tổng quát, tư duy thông thái, giúp người đọc có tầm nhìn và sự đánh giá vấn đề sức khỏe một cách sáng suốt. Nội dung Minh triết trong ăn uống của phương Đông trải dài từ khoa học thực dưỡng, ăn uống theo nguyên lý âm - dương, chế độ ăn uống đến phương pháp nhịn ăn... Bên cạnh kiến thức, tác giả đề cập nhiều kinh nghiệm thực tiễn giúp cho việc áp dụng vào cuộc sống dễ dàng hơn.",
    "thanhPhanText": "",
    "cachDung": [],
    "baoQuan": "",

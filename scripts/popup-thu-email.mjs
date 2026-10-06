@@ -20,7 +20,7 @@
  * cả 392 bài, mà quên một lượt là web nói sai giá. Giá sống ở trang sản phẩm, chỗ link trỏ tới.
  */
 export const SP_POPUP = {
-  "true-vegan-protein": { ten: "True Vegan Protein Pro", loai: "Bột đạm thực vật · hộp 500g" },
+  "true-vegan-protein": { ten: "True Vegan Protein Pro", loai: "Bột đạm thực vật · hũ 500 g" },
   "tra-tue-minh": { ten: "Trà Tuệ Minh", loai: "Trà thảo mộc túi lọc · hộp 30 gói" },
   "tra-thanh-huong": { ten: "Trà Thanh Hương", loai: "Trà thảo mộc bốn vị · túi lọc" },
 };

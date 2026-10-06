@@ -77,10 +77,29 @@ const LUAT_DAM = /\bdam\b|protein|thuan chay|an chay|whey|co bap|van dong|bua sa
 const LUAT_TRA = /thao moc|tui loc|thuc uong|nuoc uong|do uong|thanh huong|hoa nhai|hoa que/;
 const CO_CHU_TRA = /(^|[^\p{L}])trà($|[^\p{L}])/u;
 
+// MKT soát PR #13 (06/10/2026): danh sách slug cố định — KHÔNG nới regex.
+// CC-7 (4 bài trà nhạy cảm) + QĐ2 (10 bài triệu chứng regex bỏ sót) → không thẻ.
+const KHONG_THE = new Set([
+  "ba-bau-uong-tra-thao-moc-duoc-khong", "tre-em-uong-tra-thao-moc-duoc-khong",
+  "tra-de-ngu-mua-o-dau", "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao",
+  "hay-tieu-dem-nen-uong-nuoc-the-nao", "nghien-rang-khi-ngu-nguyen-nhan-va-cach-cai-thien",
+  "ngu-ngay-nguyen-nhan-va-cach-cai-thien", "ngu-day-bi-dang-mieng-kho-mieng",
+  "ngu-day-mat-bi-sung", "hay-tinh-giac-luc-3-gio-sang-lam-sao-ngu-lai",
+  "ngu-hay-nam-mo-nhieu-co-sao-khong", "cham-soc-da-dau-va-gau",
+  "lanh-tay-chan-nen-an-gi", "an-gi-tot-cho-phoi-khi-khong-khi-o-nhiem",
+]);
+// QĐ2: 4 bài chủ đề đồ uống/trà → thẻ trà (L1 "Trà thảo mộc IKI").
+const THE_TRA = new Set([
+  "uong-gi-thay-ca-phe-buoi-sang", "an-banh-trung-thu-the-nao-cho-do-ngan",
+  "nen-uong-ca-phe-muon-nhat-luc-may-gio", "nuoc-gao-lut-rang-co-tot-khong",
+]);
+
 export function chonSanPham(fm = {}) {
   const chuDe = boDau([fm.title, fm.seo_title, fm.keyword, fm.category, fm.slug].filter(Boolean).join(" "));
-  if (LOAI_TRU_SUC_KHOE.test(chuDe)) return null;
   const sp = (slug) => DATA.sanPham.find((p) => p.slug === slug);
+  if (KHONG_THE.has(fm.slug)) return null;
+  if (THE_TRA.has(fm.slug)) return sp("tra-thanh-huong");
+  if (LOAI_TRU_SUC_KHOE.test(chuDe)) return null;
   if (LUAT_DAM.test(chuDe)) return sp("true-vegan-protein");
   const chuDeCoDau = [fm.title, fm.seo_title, fm.keyword, fm.category].filter(Boolean).join(" ").toLowerCase();
   if (LUAT_TRA.test(chuDe) || CO_CHU_TRA.test(chuDeCoDau)) return sp("tra-thanh-huong");
