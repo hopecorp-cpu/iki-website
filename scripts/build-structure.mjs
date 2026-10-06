@@ -538,17 +538,19 @@ function buildLlms(plan) {
   // Bản cũ chỉ liệt kê tên trỏ ra tên miền sale page ngoài, không một chữ mô tả: trợ lý AI đọc
   // llms.txt xong vẫn không trả lời nổi "Trà Tuệ Minh là gì, giá bao nhiêu" nên nó đi lấy nguồn
   // khác. Dòng có giá và quy cách mới là dòng trích dẫn được.
-  L.push("", "## Sản phẩm (thực phẩm bổ sung — không phải thuốc)");
+  // MKT-06 lô B: tiêu đề không gọi chung mọi sản phẩm là thực phẩm bổ sung (trà không phải TPBS);
+  // không nêu Trà Tuệ Minh trong llms.txt (TH 03/10/2026: không chiến dịch Tuệ Minh, llms.txt = 0).
+  L.push("", "## Sản phẩm");
   try {
     const sp = JSON.parse(fs.readFileSync(path.join(ROOT, "san-pham-data.json"), "utf8"));
-    for (const x of sp.sanPham) {
+    for (const x of sp.sanPham.filter((x) => x.slug !== "tra-tue-minh")) {
       L.push(`- [${x.tenDayDu}](${SITE}/san-pham/${x.slug}.html): ${x.moTa}`);
     }
   } catch (e) {
     console.warn("  ! không đọc được san-pham-data.json cho llms.txt:", e.message);
   }
   L.push(`- [Cửa hàng IKI](${SITE}/shop/): toàn bộ danh mục sản phẩm, giao toàn quốc.`);
-  L.push("- Trang bán riêng: [Trà Tuệ Minh](https://tra.ikihealing.com) · [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) · [True Vegan Protein](https://trueveganprotein.com)");
+  L.push("- Trang bán riêng: [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) · [True Vegan Protein](https://trueveganprotein.com)");
   L.push("", "## Liên hệ");
   L.push("- Email: contact@ikihealing.com");
   L.push("- Điện thoại: 0987.931.551");

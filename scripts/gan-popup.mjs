@@ -24,7 +24,8 @@ import { chonSanPham } from "./cta-san-pham.mjs";
  * CTA không nói hai món khác nhau. Bài chưa có CTA thì suy từ tiêu đề bằng cùng luật đó.
  */
 function spCuaBai(html, slug) {
-  const m = html.match(/shop\/\?sp=([a-z0-9-]+)/);
+  // Bỏ chính pop-up ra trước khi dò — không thì pop-up cũ tự quyết sản phẩm cho mình.
+  const m = html.replace(/<div id="ikiExit"[\s\S]*?<\/script>/, "").match(/shop\/\?sp=([a-z0-9-]+)/);
   if (m) return m[1];
   const t = (html.match(/<title>([^<]*)<\/title>/) || [])[1] || "";
   return chonSanPham({ title: t, slug })?.slug;
@@ -43,7 +44,9 @@ for (const f of bai) {
 
   // CỐ Ý không bỏ qua bài có .md nữa: khối pop-up nay là NGUỒN DUY NHẤT nên thay ở đây ra
   // đúng bằng thứ build-article sẽ dựng — không còn nguy cơ file sinh lệch khỏi nguồn.
-  const moi = chenPopup(html, spCuaBai(html, f.replace(/\.html$/, "")));
+  // Bài tình trạng sức khoẻ (cta-san-pham trả null, MKT-06 lô B) → pop-up giữ phần tặng ebook, gỡ khối mời sản phẩm.
+  const sp = spCuaBai(html, f.replace(/\.html$/, ""));
+  const moi = chenPopup(html, sp, !sp);
   if (moi === html) {
     if (html.includes('id="ikiExit"')) { da++; continue; }
     console.log(`  KHÔNG có </body>: ${slug}`); khongCoBody++; continue;

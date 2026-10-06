@@ -1,0 +1,14 @@
+# Cấu hình bản dựng GitHub Pages (Jekyll, build_type legacy, nguồn main /).
+# MKT-06 lô B (TH duyệt 03/10/2026): đưa bản nháp blog và ghi chú phát hành ra khỏi bản dựng web.
+# File vẫn nằm trong repo (workflow build-blog.yml vẫn đọc blog-drafts/); chỉ không xuất bản.
+# Jekyll 3 THAY (không gộp) danh sách exclude mặc định, nên chép lại các mục mặc định ở đầu.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - blog-drafts
+  - RELEASE-NOTES.md

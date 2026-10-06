@@ -1,0 +1,10 @@
+{
+  "_doc": "Bản chụp giá từ API cửa hàng, cta-san-pham.mjs tự ghi khi giá đổi. Không sửa tay.",
+  "nguon": "https://hope-ops-hub.vercel.app/api/shop/san-pham",
+  "layLuc": "2026-10-06T02:49:33.413Z",
+  "gia": {
+    "true-vegan-protein": 668000,
+    "tra-thanh-huong": 226000,
+    "tra-tue-minh": 168000
+  }
+}
