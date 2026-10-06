@@ -35,12 +35,20 @@ const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const ghi = process.argv.includes("--ghi");
 
 const thuMuc = path.join(ROOT, "blog");
+// KHÔNG chạm: trang chuyển hướng (http-equiv="refresh" hoặc slug trong chuyen-huong.json) và 2 bài đậu nành
+// do việc V (MKT-03) sở hữu — MKT-06 lô B, KT rà PR #13 06/10.
+const fileCH = path.join(ROOT, "chuyen-huong.json");
+const BO_QUA = new Set([
+  ...(fs.existsSync(fileCH) ? Object.keys(JSON.parse(fs.readFileSync(fileCH, "utf8"))) : []),
+  "dau-nanh-trong-bua-com-viet", "dau-nanh-va-noi-tiet-to-nu",
+]);
 const bai = fs.readdirSync(thuMuc).filter((f) => f.endsWith(".html")).sort();
 
 let da = 0, vaMoi = 0, boQuaCoNhap = 0, khongCoBody = 0;
 for (const f of bai) {
   const p = path.join(thuMuc, f);
   const html = fs.readFileSync(p, "utf8");
+  if (BO_QUA.has(f.replace(/\.html$/, "")) || /http-equiv=["']refresh["']/i.test(html)) { da++; continue; }
 
   // CỐ Ý không bỏ qua bài có .md nữa: khối pop-up nay là NGUỒN DUY NHẤT nên thay ở đây ra
   // đúng bằng thứ build-article sẽ dựng — không còn nguy cơ file sinh lệch khỏi nguồn.
