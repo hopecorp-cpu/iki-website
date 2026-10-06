@@ -3,6 +3,7 @@
   "title": "Uống trà thảo mộc buổi tối có mất ngủ không? Điều cần biết trước khi pha ly trà tối nay",
   "seo_title": "Uống trà thảo mộc buổi tối có mất ngủ không?",
   "slug": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong",
+  "khuyen_cao": [],
   "description": "Uống trà thảo mộc buổi tối có mất ngủ không? Trà thảo mộc hầu như không chứa caffeine, nhưng vẫn có 5 lý do khiến bạn trằn trọc — và cách uống đúng.",
   "keyword": "uống trà thảo mộc buổi tối có mất ngủ không",
   "category": "dong-y",
@@ -119,8 +120,6 @@ Nếu tình trạng tiểu đêm diễn ra thường xuyên và ảnh hưởng r
 - **Bạc hà.** The mát, dễ chịu sau bữa tối nhiều dầu mỡ. Một số người nhạy cảm thấy vị the mạnh làm mình tỉnh táo hơn, nên hãy thử ở lượng nhỏ trước.
 - **Vỏ quýt, quế, sả.** Hương ấm, thơm, thường dùng phối hợp để tạo vị dễ uống hơn là dùng một mình.
 
-Dù chọn loại nào, hãy nhớ đây đều là **thực phẩm bổ sung** cho nếp sinh hoạt, không phải thuốc và không thay thế được việc điều chỉnh giờ giấc, ánh sáng và mức căng thẳng trong ngày.
-
 ## Uống lúc nào, pha thế nào cho một buổi tối dễ chịu
 
 Một nếp uống buổi tối gọn gàng có thể trông như thế này:
@@ -173,4 +172,4 @@ Bạn có thể bắt đầu từ điều nhỏ nhất tối nay: pha một tác
 - Bệnh viện Đa khoa Tâm Anh — *Uống trà mất ngủ phải làm sao*: [tamanhhospital.vn](https://tamanhhospital.vn/uong-tra-mat-ngu/)
 - Trà Việt — *Uống trà có mất ngủ không*: [traviet.com](https://www.traviet.com/a/uong-tra-co-mat-ngu-khong/)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

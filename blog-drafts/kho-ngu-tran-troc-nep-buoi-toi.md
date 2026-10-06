@@ -3,6 +3,7 @@
   "title": "Khó ngủ, trằn trọc: nếp buổi tối giúp dễ vào giấc",
   "seo_title": "Khó ngủ trằn trọc: nếp buổi tối giúp dễ vào giấc hơn",
   "slug": "kho-ngu-tran-troc-nep-buoi-toi",
+  "khuyen_cao": [],
   "description": "Khó ngủ, trằn trọc mỗi tối? Nếp buổi tối đều đặn giúp cơ thể dễ vào giấc hơn: cố định giờ ngủ, giảm ánh sáng xanh, ăn tối nhẹ và một nghi thức thư giãn quen thuộc.",
   "keyword": "khó ngủ trằn trọc",
   "category": "thoi-quen",

@@ -41,6 +41,7 @@ const CHUYEN_HUONG = (() => {
 // fm.khuyen_cao: mảng khoá ("dam" → câu A, "thanh-huong" → câu C); khoá lạ → dừng build.
 // Sau các câu khuyến cáo LUÔN có câu B. Bài có sản phẩm (no_product khác true) mà thiếu khuyen_cao
 // thì GIỮ khối cũ + in "THIEU khuyen_cao: <slug>" để Kỹ thuật bổ sung ở PR sau.
+// "khuyen_cao": [] (mảng rỗng TƯỜNG MINH) = bài không thẻ: chỉ in câu B (= A8, sha 4c1a338e), không khung cũ (TH 06/10/2026, PR #13).
 const KHUYEN_CAO_CAU = {
   dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
   "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
@@ -51,7 +52,7 @@ const POST_DISCLAIMER_CU = `<div class="post-disclaimer">
         </div>`;
 function khoiKhuyenCao(fm) {
   const khoa = Array.isArray(fm.khuyen_cao) ? fm.khuyen_cao : [];
-  if (fm.no_product !== true && khoa.length === 0) {
+  if (fm.no_product !== true && !Array.isArray(fm.khuyen_cao)) {
     console.warn(`THIEU khuyen_cao: ${fm.slug}`);
     return POST_DISCLAIMER_CU;
   }
