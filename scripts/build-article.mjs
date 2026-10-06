@@ -16,7 +16,7 @@ import { blogHomeShell } from "./blog-home-shell.mjs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { buildStructure, emailCta } from "./build-structure.mjs";
-import { ctaSanPham, CSS_CTA_SP, chonSanPham } from "./cta-san-pham.mjs";
+import { ctaSanPham, CSS_CTA_SP, chonSanPham, cauDuyet } from "./cta-san-pham.mjs";
 // Bộ khối trực quan cho bài báo cáo số liệu (bảng/biểu đồ SVG/khối số nổi) — CEO 04/09/2026.
 // CSS chèn cho MỌI bài: rẻ (~1KB), và bài thường thỉnh thoảng cũng cần một cái bảng.
 import { CSS_KHOI_SO } from "./khoi-so-lieu.mjs";
@@ -41,6 +41,7 @@ const CHUYEN_HUONG = (() => {
 // fm.khuyen_cao: mảng khoá ("dam" → câu A, "thanh-huong" → câu C); khoá lạ → dừng build.
 // Sau các câu khuyến cáo LUÔN có câu B. Bài có sản phẩm (no_product khác true) mà thiếu khuyen_cao
 // thì GIỮ khối cũ + in "THIEU khuyen_cao: <slug>" để Kỹ thuật bổ sung ở PR sau.
+// "khuyen_cao": [] (mảng rỗng TƯỜNG MINH) = bài không thẻ: chỉ in câu B (= A8, sha 4c1a338e), không khung cũ (TH 06/10/2026, PR #13).
 const KHUYEN_CAO_CAU = {
   dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
   "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
@@ -51,7 +52,7 @@ const POST_DISCLAIMER_CU = `<div class="post-disclaimer">
         </div>`;
 function khoiKhuyenCao(fm) {
   const khoa = Array.isArray(fm.khuyen_cao) ? fm.khuyen_cao : [];
-  if (fm.no_product !== true && khoa.length === 0) {
+  if (fm.no_product !== true && !Array.isArray(fm.khuyen_cao)) {
     console.warn(`THIEU khuyen_cao: ${fm.slug}`);
     return POST_DISCLAIMER_CU;
   }
@@ -220,14 +221,15 @@ function render(fm, body) {
     ? `<div class="journey"><div class="journey-title">Lộ trình theo chặng</div><ol class="journey-list">${journey.map((s, i) => `<li><span class="jn">${i + 1}</span><div><div class="jt">${esc(s.title)}</div>${s.note ? `<div class="jd">${inline(s.note)}</div>` : ""}</div></li>`).join("")}</ol></div>`
     : "";
   // Box thương hiệu + sản phẩm (SEO: search "iki/ikihealing" → ra IKI + sản phẩm)
-  const brandBoxHtml = `<section class="brand-box" aria-label="Sản phẩm và công cụ IKI">
-          <h2>Sản phẩm &amp; công cụ IKI Healing</h2>
+  // T1 (MKT-06 lô B, TH 03/10/2026): khối chung không nêu tên sản phẩm; tiêu đề là câu đã duyệt (kiểm băm).
+  const T1 = escAttr(cauDuyet("T1"));
+  const brandBoxHtml = `<section class="brand-box" aria-label="${T1}">
+          <h2>${T1}</h2>
           <ul>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
-            <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động (3 Ngày Reset · 7 Ngày Detox).</li>
+            <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
             <li><a href="../app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.</li>
-            <li><strong>Thực phẩm bổ sung IKI:</strong> <a href="https://tra.ikihealing.com" target="_blank" rel="noopener noreferrer">Trà Tuệ Minh</a> · <a href="https://thanhhuongtra.ikihealing.com" target="_blank" rel="noopener noreferrer">Trà Thanh Hương</a> · <a href="https://trueveganprotein.com" target="_blank" rel="noopener noreferrer">Đạm thực vật True Vegan Protein</a>.</li>
           </ul>
         </section>`;
 
@@ -458,7 +460,7 @@ ${articleCoVideo}
     </div>
   </footer>
 ${BEACON}
-${taoPopup(chonSanPham(fm)?.slug, "../", !!fm.no_product)}
+${taoPopup(chonSanPham(fm)?.slug, "../", !!fm.no_product || !chonSanPham(fm))}
 <!-- Zalo OA chat widget -->
 <style>
   .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
@@ -503,7 +505,6 @@ function buildOne(srcPath) {
 // chỉ gắn link ở ngữ cảnh tích cực. Bài no_product bỏ qua vì đúng ra không được gắn link.
 const TEN_SP_DAT_LINK = [
   ["True Vegan Protein", "https://trueveganprotein.com"],
-  ["Trà Tuệ Minh", "https://tra.ikihealing.com"],
   ["Trà Thanh Hương", "https://thanhhuongtra.ikihealing.com"],
 ];
 function canhBaoThieuLink(fm, html) {

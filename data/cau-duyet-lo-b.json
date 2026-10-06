@@ -1,0 +1,43 @@
+{
+  "_doc": "Câu đã duyệt (MKT-06 lô B, TH 03/10/2026; VHSP-01/02). Chép bằng script từ file nguồn, kiểm sha256. KHÔNG sửa tay.",
+  "T1": {
+    "cau": "Công cụ IKI Beauty & Wellness",
+    "sha256": "6d1ef7af6f9794477719ad2ab33b7a492a8d387d85530658e42af7168a8b1e8f",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/T1.txt"
+  },
+  "L1": {
+    "cau": "Trà thảo mộc IKI",
+    "sha256": "6d09ba67d619cb47501bb3608c4c9e745c06691c80f92cd49ae573bad92244ab",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/L1.txt"
+  },
+  "C09": {
+    "cau": "Bột đạm thực vật True Vegan Protein Pro từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt.",
+    "sha256": "abfddb214d5ffba55ded3ff7049cb775a362d9bfcc19a18f04bab6980fd069b3",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/C09.txt"
+  },
+  "TM3": {
+    "cau": "Sản xuất bởi Hợp tác xã Nam Dược Tản Viên Sơn.",
+    "sha256": "00a35a083e291eb2491201e1956b8a7cd27e14e627fe38faa6c14b6b0d8adb28",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/TM3.txt"
+  },
+  "R17-tm-san-xuat": {
+    "cau": "Sản xuất bởi Hợp tác xã Nam Dược Tản Viên Sơn.",
+    "sha256": "00a35a083e291eb2491201e1956b8a7cd27e14e627fe38faa6c14b6b0d8adb28",
+    "nguon": "~/.hope-grok/tasks/nguon/vhsp-01/cau-b/R17-tm-san-xuat.txt"
+  },
+  "R16-tm-cach-pha": {
+    "cau": "Cho 1 hoặc 2 gói trà vào ấm pha với 200ml nước sôi, hãm trà từ 2-5 phút rồi sử dụng.",
+    "sha256": "3c5140880b23a2ae5a8fe79035c8e80f60c6a60732249197c315e5194b20bafa",
+    "nguon": "~/.hope-grok/tasks/nguon/vhsp-01/cau-b/R16-tm-cach-pha.txt"
+  },
+  "A8": {
+    "cau": "Bài viết chia sẻ thông tin tham khảo, không thay thế tư vấn của bác sĩ.",
+    "sha256": "4c1a338efa0ec76f94dc82947cb13acd3a5d141543cf2236f35a36cf2d938347",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/A8.txt"
+  },
+  "A4": {
+    "cau": "Trà Thanh Hương - trà thảo mộc túi lọc, Công ty CP TMDV HOPE chịu trách nhiệm.",
+    "sha256": "bd7026951890ff83de434418e250bf3d142abb836b0650f43105c1b2a4498033",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/A4.txt"
+  }
+}

@@ -20,7 +20,7 @@
  * cả 392 bài, mà quên một lượt là web nói sai giá. Giá sống ở trang sản phẩm, chỗ link trỏ tới.
  */
 export const SP_POPUP = {
-  "true-vegan-protein": { ten: "True Vegan Protein Pro", loai: "Bột đạm thực vật · hộp 500g" },
+  "true-vegan-protein": { ten: "True Vegan Protein Pro", loai: "Bột đạm thực vật · hũ 500 g" },
   "tra-tue-minh": { ten: "Trà Tuệ Minh", loai: "Trà thảo mộc túi lọc · hộp 30 gói" },
   "tra-thanh-huong": { ten: "Trà Thanh Hương", loai: "Trà thảo mộc bốn vị · túi lọc" },
 };
@@ -181,18 +181,18 @@ function vungPopup(html) {
  * sự tồn tại của id — chỉ kiểm id là bài mang bản cũ nằm lại mãi (đo 21/08: 392 bài đang giữ
  * BA phiên bản khác nhau, và bản nào cũng khoá cờ vĩnh viễn).
  */
-export function chenPopup(html, sp) {
+export function chenPopup(html, sp, khongSanPham = false) {
   if (!html) return html;
   const v = vungPopup(html);
   if (v) {
     const dangCo = html.slice(v[0], v[1]);
-    const moi = taoPopup(sp);
+    const moi = taoPopup(sp, "../", khongSanPham);
     if (dangCo === moi) return html;
     return html.slice(0, v[0]) + moi + html.slice(v[1]);
   }
   const i = html.lastIndexOf("</body>");
   if (i < 0) return html;
-  return html.slice(0, i) + taoPopup(sp) + "\n" + html.slice(i);
+  return html.slice(0, i) + taoPopup(sp, "../", khongSanPham) + "\n" + html.slice(i);
 }
 
 /**

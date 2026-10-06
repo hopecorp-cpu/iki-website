@@ -9,6 +9,8 @@ Allow: /
 Disallow: /admin/
 Disallow: /private/
 Disallow: /*.json$
+Disallow: /blog-drafts/
+Disallow: /RELEASE-NOTES.md
 
 # Bot tìm kiếm / trợ lý AI — cho phép tường minh
 User-agent: GPTBot
