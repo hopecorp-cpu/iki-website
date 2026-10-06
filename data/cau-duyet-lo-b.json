@@ -29,5 +29,15 @@
     "cau": "Cho 1 hoặc 2 gói trà vào ấm pha với 200ml nước sôi, hãm trà từ 2-5 phút rồi sử dụng.",
     "sha256": "3c5140880b23a2ae5a8fe79035c8e80f60c6a60732249197c315e5194b20bafa",
     "nguon": "~/.hope-grok/tasks/nguon/vhsp-01/cau-b/R16-tm-cach-pha.txt"
+  },
+  "A8": {
+    "cau": "Bài viết chia sẻ thông tin tham khảo, không thay thế tư vấn của bác sĩ.",
+    "sha256": "4c1a338efa0ec76f94dc82947cb13acd3a5d141543cf2236f35a36cf2d938347",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/A8.txt"
+  },
+  "A4": {
+    "cau": "Trà Thanh Hương - trà thảo mộc túi lọc, Công ty CP TMDV HOPE chịu trách nhiệm.",
+    "sha256": "bd7026951890ff83de434418e250bf3d142abb836b0650f43105c1b2a4498033",
+    "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/A4.txt"
   }
 }

@@ -4,7 +4,10 @@
  * bài blog ĐÃ XUẤT BẢN (VI/EN/JA) — không dựng lại bài, chỉ thay đúng trong khối này:
  *  - bỏ dòng sản phẩm (link tra.ikihealing.com / thanhhuongtra / trueveganprotein): khối chung không nêu tên sản phẩm;
  *  - bỏ ngoặc "(3 Ngày Reset · 7 Ngày Detox)" và các bản dịch;
- *  - VI: tiêu đề + aria-label = câu T1 đã duyệt (kiểm băm). EN/JA: chưa có câu dịch đã duyệt → giữ tiêu đề.
+ *  - VI: tiêu đề + aria-label = câu T1 đã duyệt (kiểm băm).
+ *  - EN/JA: TH CHỐT 06/10/2026 CC-1/CC-1b — tiêu đề có Products/製品/商品 + aria-label → "IKI Beauty & Wellness Tools" /
+ *    "IKI Beauty & Wellness のツール"; dòng app (chữ sau link nhắc Eastern Medicine/Wellness/Coach/東洋医学/AIコーチ) →
+ *    "a personalized health journal (optional)." / "パーソナライズされた健康日記(任意)。". Tiêu đề riêng khác giữ nguyên.
  * Idempotent. Chạy: node scripts/sua-khoi-cong-cu.mjs [--commit]
  */
 import fs from "fs";
@@ -30,6 +33,16 @@ for (const thu of ["blog", "en/blog", "ja/blog"]) {
       if (thu === "blog") {
         k = k.replace('<h2>Sản phẩm &amp; công cụ IKI Healing</h2>', `<h2>${T1}</h2>`)
           .replace('aria-label="Sản phẩm và công cụ IKI"', `aria-label="${T1}"`);
+      } else if (thu === "en/blog") {
+        k = k.replace(/<h2>[^<]*[Pp]roducts[^<]*<\/h2>/g, "<h2>IKI Beauty &amp; Wellness Tools</h2>")
+          .replace(/aria-label="(?:IKI products and tools|Sản phẩm và công cụ IKI)"/g, 'aria-label="IKI Beauty &amp; Wellness Tools"')
+          .replace(/(<li>(?:(?!<\/li>)[\s\S])*?<a [^>]*app\.html[^>]*>[^<]*<\/a>)((?:(?!<\/li>)[\s\S])*?)<\/li>/g, (li, a, sau) =>
+            /Eastern Medicine|Eastern Wellness|Coach/.test(sau) ? `${a} — a personalized health journal (optional).</li>` : li);
+      } else {
+        k = k.replace(/<h2>[^<]*(?:製品|商品)[^<]*<\/h2>/g, "<h2>IKI Beauty &amp; Wellness のツール</h2>")
+          .replace(/aria-label="IKI ?の(?:製品|商品)とツール"/g, 'aria-label="IKI Beauty &amp; Wellness のツール"')
+          .replace(/(<li>(?:(?!<\/li>)[\s\S])*?<a [^>]*app\.html[^>]*>)[^<]*<\/a>((?:(?!<\/li>)[\s\S])*?)<\/li>/g, (li, a, sau) =>
+            /東洋医学|AIコーチ/.test(sau) ? `${a}IKIアプリ</a> — パーソナライズされた健康日記(任意)。</li>` : li);
       }
       return k;
     });

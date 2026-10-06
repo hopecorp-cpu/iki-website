@@ -19,7 +19,7 @@ const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "san-pham-data.json"), "
 export const MOC = "<!-- cta-san-pham -->";
 
 const boDau = (s) =>
-  (s || "").replace(/Đ/g, "D").replace(/đ/g, "d").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  (s || "").replace(/Đ/g, "D").replace(/đ/g, "d").normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase().replace(/-/g, " ");
 
 // Câu đã duyệt (MKT-06, TH 03/10/2026): chép từ file nguồn, kiểm băm khi chạy — lệch băm thì dừng, không gõ lại chữ.
 const CAU_DUYET = JSON.parse(fs.readFileSync(path.join(ROOT, "data/cau-duyet-lo-b.json"), "utf8"));
@@ -70,7 +70,7 @@ const GIA = await layGiaShop();
  *   (nền tảng thương hiệu v2 mục 9.3.1). Danh sách loại trừ dưới đây, so trên chữ bỏ dấu.
  */
 // v2 9.3.1: tên bệnh / triệu chứng / tình trạng sức khoẻ — bài có các chữ này ở tiêu đề hoặc slug thì không gắn thẻ.
-const LOAI_TRU_SUC_KHOE = /mat ngu|kho ngu|ngu kem|tran troc|day bung|kho tieu|chuong bung|nhiet mieng|tien man kinh|man kinh|tao bon|tieu chay|da day|trao nguoc|nong trong|\bmun\b|tri nho|hay quen|dau dau|dau khop|dau lung|huyet ap|tieu duong|duong huyet|mo mau|gan nhiem mo|gout|thieu mau|loang xuong|roi loan|suy giam|\bviem\b|\bbenh\b|trieu chung|noi tiet|rung toc/;
+const LOAI_TRU_SUC_KHOE = /\bmat ngu\b|\bkho ngu\b|\bngu kem\b|\btran troc\b|\bday bung\b|\bkho tieu\b|\bchuong bung\b|\bnhiet mieng\b|\btien man kinh\b|\bman kinh\b|\btao bon\b|\btieu chay\b|\bda day\b|\btrao nguoc\b|\bnong trong\b|\bmun\b|\btri nho\b|\bhay quen\b|\bdau dau\b|\bdau khop\b|\bdau lung\b|\bhuyet ap\b|\btieu duong\b|\bduong huyet\b|\bmo mau\b|\bgan nhiem mo\b|\bgout\b|\bthieu mau\b|\bloang xuong\b|\broi loan\b|\bsuy giam\b|\bviem\b|\bbenh\b|\btrieu chung\b|\bnoi tiet\b|\brung toc\b/;
 const LUAT_DAM = /\bdam\b|protein|thuan chay|an chay|whey|co bap|van dong|bua sang|bua phu|dinh duong|hat va dau|nang luong/;
 // Trà/thức uống: chỉ xét TIÊU ĐỀ + slug (chủ đề bài), không xét mô tả — mô tả nhắc "trà" thoáng qua không làm bài thành bài về trà.
 // "trà" xét trên chữ CÓ dấu để không lẫn "trả", "tra cứu", "kiểm tra".
@@ -79,6 +79,7 @@ const CO_CHU_TRA = /(^|[^\p{L}])trà($|[^\p{L}])/u;
 
 // MKT soát PR #13 (06/10/2026): danh sách slug cố định — KHÔNG nới regex.
 // CC-7 (4 bài trà nhạy cảm) + QĐ2 (10 bài triệu chứng regex bỏ sót) → không thẻ.
+// MKT 14 + ranh giới 2 + TH C1 22 = 38 (TH CHỐT 06/10/2026).
 const KHONG_THE = new Set([
   "ba-bau-uong-tra-thao-moc-duoc-khong", "tre-em-uong-tra-thao-moc-duoc-khong",
   "tra-de-ngu-mua-o-dau", "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao",
@@ -87,11 +88,19 @@ const KHONG_THE = new Set([
   "ngu-day-mat-bi-sung", "hay-tinh-giac-luc-3-gio-sang-lam-sao-ngu-lai",
   "ngu-hay-nam-mo-nhieu-co-sao-khong", "cham-soc-da-dau-va-gau",
   "lanh-tay-chan-nen-an-gi", "an-gi-tot-cho-phoi-khi-khong-khi-o-nhiem",
+  "ngu-du-8-tieng-van-met", "uong-dam-thuc-vat-co-hai-than-khong",
+  "an-dam-cho-be-bat-dau-tu-dau", "an-gi-de-tang-chieu-cao-cho-tre", "an-sang-cho-tre-di-hoc",
+  "bao-ve-mat-cho-tre-em", "lay-lai-nep-ngu-cho-tre-truoc-nam-hoc-moi", "sua-hat-cho-tre-may-tuoi-uong-duoc",
+  "tang-suc-de-khang-cho-tre-nen-an-gi", "tre-bieng-an-phai-lam-sao", "tre-em-uong-dam-thuc-vat-duoc-khong",
+  "ba-bau-uong-dam-thuc-vat-duoc-khong", "chuan-bi-mang-thai-nen-an-gi", "dinh-duong-cho-phu-nu-mang-thai",
+  "me-cho-con-bu-nen-an-gi", "an-gi-de-tang-suc-de-khang-cho-nguoi-lon", "vitamin-c-va-de-khang",
+  "chi-so-duong-huyet-thuc-pham", "nguoi-lon-tuoi-kho-nhai-nuot-nen-an-gi", "say-tau-xe-nen-an-gi",
+  "an-gi-de-giam-cang-thang-lo-au", "quang-tham-mat-do-dau", "nguoi-gay-kho-tang-can-nen-an-gi",
+  "cham-soc-mat-nguoi-lon-tuoi",
 ]);
-// QĐ2: 4 bài chủ đề đồ uống/trà → thẻ trà (L1 "Trà thảo mộc IKI").
+// QĐ2: bài chủ đề đồ uống/trà → thẻ trà (L1 "Trà thảo mộc IKI"). TH mục B: chỉ chuyển 2.
 const THE_TRA = new Set([
-  "uong-gi-thay-ca-phe-buoi-sang", "an-banh-trung-thu-the-nao-cho-do-ngan",
-  "nen-uong-ca-phe-muon-nhat-luc-may-gio", "nuoc-gao-lut-rang-co-tot-khong",
+  "uong-gi-thay-ca-phe-buoi-sang", "nuoc-gao-lut-rang-co-tot-khong",
 ]);
 
 export function chonSanPham(fm = {}) {
