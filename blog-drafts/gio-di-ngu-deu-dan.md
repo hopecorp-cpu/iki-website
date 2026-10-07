@@ -10,6 +10,7 @@
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/gio-di-ngu-deu-dan-hero.png",
   "hero_alt": "Phòng ngủ tường trắng, đèn ngủ vàng ấm trên tủ gỗ cạnh sách, ly nước và chậu cây, giường gối chăn trắng (ảnh minh hoạ tạo bằng AI)",
+  "anh_ai": true,
   "category": "thoi-quen",
   "reading_min": 6,
   "no_product": true,
