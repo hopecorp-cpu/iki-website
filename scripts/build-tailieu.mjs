@@ -265,10 +265,21 @@ function updateSitemap() {
   let xml = fs.readFileSync(sp, "utf8");
   const today = "2026-07-26";
   const url = (loc, pri) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>${pri}</priority>\n  </url>`;
-  const urls = [url(`${SITE}/tai-lieu/`, "0.7"), ...DOCS.map((d) => url(`${SITE}/tai-lieu/${d.slug}.html`, "0.6"))];
+  const locs = [`${SITE}/tai-lieu/`, ...DOCS.map((d) => `${SITE}/tai-lieu/${d.slug}.html`)];
+  const urls = [url(locs[0], "0.7"), ...DOCS.map((d) => url(`${SITE}/tai-lieu/${d.slug}.html`, "0.6"))];
   const block = `  <!-- TAILIEU:START (tự sinh bởi build-tailieu.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- TAILIEU:END -->`;
-  if (/<!-- TAILIEU:START[\s\S]*?TAILIEU:END -->/.test(xml)) xml = xml.replace(/  <!-- TAILIEU:START[\s\S]*?TAILIEU:END -->/, block);
+  // Không thêm lại URL đã có ngoài khối (nếu không, CI để 636 <loc> / 633 URL).
+  const token = "___TAILIEU_BLOCK___";
+  const had = /<!-- TAILIEU:START[\s\S]*?TAILIEU:END -->/.test(xml);
+  if (had) xml = xml.replace(/[ \t]*<!-- TAILIEU:START[\s\S]*?TAILIEU:END -->/, token);
+  const locSet = new Set(locs);
+  xml = xml.replace(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>\n?/g, (khoi) => {
+    const m = khoi.match(/<loc>([^<]+)<\/loc>/);
+    return m && locSet.has(m[1]) ? "" : khoi;
+  });
+  if (xml.includes(token)) xml = xml.replace(token, block);
   else xml = xml.replace(/<\/urlset>/, `${block}\n\n</urlset>`);
+  xml = xml.replace(/\n{3,}/g, "\n\n");
   fs.writeFileSync(sp, xml, "utf8");
 }
 

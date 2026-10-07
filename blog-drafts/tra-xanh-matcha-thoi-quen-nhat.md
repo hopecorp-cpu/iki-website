@@ -3,6 +3,7 @@
   "title": "Trà xanh và matcha: thói quen uống trà của người Nhật",
   "seo_title": "Trà xanh và matcha: thói quen uống trà kiểu Nhật mỗi ngày",
   "slug": "tra-xanh-matcha-thoi-quen-nhat",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Trà xanh và matcha là nếp uống trà lâu đời của người Nhật. Tìm hiểu sự khác nhau giữa trà xanh và matcha, nghi thức uống trà, thời điểm và cách pha để có một thói quen uống ấm thư thái mỗi ngày.",
   "keyword": "trà xanh matcha",
   "category": "thuc-pham",

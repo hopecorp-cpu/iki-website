@@ -3,6 +3,7 @@
   "title": "Trà thảo mộc cho phụ nữ: chọn trà theo nhịp ngày bận rộn",
   "seo_title": "Trà thảo mộc cho phụ nữ: chọn theo nhịp ngày, không theo công dụng",
   "slug": "tra-thao-moc-cho-phu-nu",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Trà thảo mộc cho phụ nữ nên chọn thế nào? Cách chọn trà theo nhịp ngày — sáng tỉnh táo, chiều giữ nhịp, tối chậm lại — kèm cách pha, liều lượng hợp lý và lưu ý an toàn.",
   "keyword": "trà thảo mộc cho phụ nữ",
   "category": "thuc-pham",

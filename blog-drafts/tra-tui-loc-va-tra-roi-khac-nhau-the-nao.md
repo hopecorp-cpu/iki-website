@@ -3,6 +3,7 @@
   "title": "Trà túi lọc và trà rời khác nhau thế nào? Chọn loại nào cho nếp uống mỗi ngày",
   "seo_title": "Trà túi lọc và trà rời khác nhau thế nào? Cách chọn",
   "slug": "tra-tui-loc-va-tra-roi-khac-nhau-the-nao",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Trà túi lọc và trà rời khác nhau thế nào? So sánh kích thước nguyên liệu, chất liệu túi, khả năng cân liều, giá mỗi tách, thời gian pha và rác thải, kèm bảng chọn theo nếp sống.",
   "keyword": "trà túi lọc và trà rời",
   "category": "thuc-pham",

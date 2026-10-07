@@ -3,6 +3,7 @@
   "title": "Pha trà cho cả nhà cùng uống: liều lượng, ấm lớn và cách chiều nhiều khẩu vị",
   "seo_title": "Pha trà cho cả nhà: liều lượng, ấm lớn, nhiều khẩu vị",
   "slug": "pha-tra-cho-ca-nha-cung-uong",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Pha trà cho cả nhà cùng uống thế nào cho đều vị? Cách tính lượng trà theo số người, pha ấm lớn không chát, giữ ấm đúng cách, chiều người lớn tuổi và trẻ nhỏ, thêm mật ong thay đường và những lưu ý an toàn.",
   "keyword": "pha trà cho cả nhà",
   "category": "thuc-pham",
@@ -220,4 +221,4 @@ Nếu bạn muốn chọn loại trà và nhịp sinh hoạt buổi tối hợp 
 - World Health Organization — *Guideline: Sugars intake for adults and children* (giữ đường tự do dưới 10% tổng năng lượng, đường trong mật ong được tính là đường tự do): [who.int](https://www.who.int/publications/i/item/9789241549028)
 - Sở Y tế Hà Tĩnh — *Không nên cho trẻ dưới 1 tuổi ăn mật ong*: [soyte.hatinh.gov.vn](http://soyte.hatinh.gov.vn/tin-tuc-su-kien/pho-bien-kien-thuc/khong-nen-cho-tre-duoi-1-tuoi-an-mat-ong.html)
 
-Nội dung trong bài mang tính chia sẻ kiến thức về cách pha trà và nếp sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trong bài mang tính chia sẻ kiến thức về cách pha trà và nếp sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa.

@@ -3,6 +3,7 @@
   "title": "Uống trà thảo mộc mỗi ngày có được không? Liều lượng hợp lý và ai nên chú ý",
   "seo_title": "Uống trà thảo mộc mỗi ngày có được không?",
   "slug": "uong-tra-thao-moc-moi-ngay-co-duoc-khong",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Uống trà thảo mộc mỗi ngày có được không, bao nhiêu tách là vừa, uống liên tục nhiều tháng cần lưu ý gì và ai nên hỏi ý kiến chuyên môn trước khi dùng đều đặn.",
   "keyword": "uống trà thảo mộc mỗi ngày",
   "category": "thoi-quen",
@@ -181,4 +182,4 @@ Bạn có thể bắt đầu ngay hôm nay bằng điều nhỏ nhất: một t�
 - Tập đoàn Y khoa Hoàn Mỹ — *Trà thảo mộc và những lưu ý khi sử dụng*: [hoanmy.com](https://hoanmy.com/tra-thao-moc/)
 - Bệnh viện Nguyễn Tri Phương — *Khi mang thai uống trà thảo mộc liệu có an toàn*: [bvnguyentriphuong.com.vn](https://bvnguyentriphuong.com.vn/y-hoc-co-truyen/khi-mang-thai-uong-tra-thao-moc-lieu-co-an-toan)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

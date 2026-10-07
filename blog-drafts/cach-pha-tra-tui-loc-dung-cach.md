@@ -3,6 +3,7 @@
   "title": "Cách pha trà túi lọc đúng cách: nhiệt độ, thời gian hãm và 5 lỗi hay gặp",
   "seo_title": "Cách pha trà túi lọc đúng cách: nhiệt độ và thời gian hãm",
   "slug": "cach-pha-tra-tui-loc-dung-cach",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Cách pha trà túi lọc đúng cách: nhiệt độ nước theo từng nhóm trà, thời gian hãm chuẩn, có nên vắt túi trà, hãm lại lần hai và 5 lỗi khiến trà chát mất hương.",
   "keyword": "cách pha trà túi lọc",
   "category": "thuc-pham",

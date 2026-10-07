@@ -3,6 +3,7 @@
   "title": "Trà thảo mộc Việt và trà nhập khẩu: chọn theo tiêu chí nào",
   "seo_title": "Trà thảo mộc Việt và trà nhập khẩu: chọn thế nào",
   "slug": "tra-thao-moc-viet-va-tra-nhap-khau",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Trà thảo mộc Việt và trà nhập khẩu khác nhau ở đâu? Bảy tiêu chí so sánh: vùng trồng, độ tươi tính từ ngày đóng gói, đường vận chuyển, khả năng truy nguồn, chứng nhận, bao bì và giá thật trên mỗi tách.",
   "keyword": "trà thảo mộc Việt",
   "category": "thuc-pham",
@@ -180,4 +181,4 @@ Xin nhắc lại một lần nữa cho rõ: bài này bàn về cách chọn mua
 - Tạp chí Làng nghề Việt, chuyên trang OCOP — *Tía tô quê nhà thành trà OCOP*: [ocopvietnam.langngheviet.com.vn](https://ocopvietnam.langngheviet.com.vn/tia-to-que-nha-thanh-tra-ocop-35658.html)
 - Báo Lào Cai — *Khởi nghiệp từ trà thảo mộc*: [baolaocai.vn](https://baolaocai.vn/khoi-nghiep-tu-tra-thao-moc-post353369.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về cách chọn mua và bảo quản thực phẩm, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về cách chọn mua và bảo quản thực phẩm, không nhằm chẩn đoán hay thay thế tư vấn y khoa.
