@@ -32,7 +32,8 @@
       "title": "Ăn chay đủ chất: xây khẩu phần cân bằng cho người ăn thực vật",
       "url": "an-chay-du-chat-can-bang.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

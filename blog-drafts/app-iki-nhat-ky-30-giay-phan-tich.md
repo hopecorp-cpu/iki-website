@@ -25,7 +25,8 @@
       "q": "Tôi có cần đeo thiết bị gì không?",
       "a": "Không bắt buộc. Nếu có sẵn thiết bị theo dõi sức khoẻ, bạn có thể nối để bước đi, giấc ngủ, nhịp tim tự chảy vào app; không có thì các ô chạm nhanh và tính năng quét bữa ăn vẫn đủ để app phác bức tranh tuần của bạn."
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

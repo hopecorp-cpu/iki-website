@@ -28,7 +28,8 @@
       "title": "8 nhóm thực phẩm lành mạnh và cách cân bằng bữa ăn",
       "url": "8-nhom-thuc-pham-lanh-manh.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

@@ -329,7 +329,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
     .post-body a{color:var(--iki-teal-deep,#2E8975);font-weight:600}
     .post-body blockquote{margin:1.4rem 0;padding:.6rem 0 .6rem 20px;border-left:4px solid var(--iki-lime,#A8D254);color:#475467;font-style:italic}
     .info-box{border-radius:14px;padding:16px 22px;margin:1.6rem 0}
-    .info-box.ib-case{background:#fbf7ee;border:1px solid #ecdcbf} .info-box.ib-note{background:#f4f8ff;border:1px solid #d6e4fb}
+    .info-box.ib-case{background:#ffffff;border:1px solid #ecdcbf} .info-box.ib-note{background:#f4f8ff;border:1px solid #d6e4fb}
     .info-box .ib-title{font-weight:700;color:#101828;margin-bottom:6px}
     .post-cta{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));border-radius:18px;padding:30px 26px;margin:34px 0;text-align:center;color:#fff}
     .post-cta h3{font-family:var(--font-display,'Cormorant Garamond');font-size:1.6rem;margin:0 0 8px;color:#fff}

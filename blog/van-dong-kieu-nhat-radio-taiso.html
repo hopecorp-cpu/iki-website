@@ -185,10 +185,13 @@
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
     .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-fig{margin:0}
+    .post-hero-fig .post-hero-img{display:block}
+    .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}
     .post-eyebrow{display:inline-block;font-family:var(--font-sans,'Manrope');font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
-    .med-notice{background:#fef6e7;border:1px solid #f0d8a8;border-left:4px solid #d99a2b;border-radius:12px;padding:14px 18px;margin:22px 0;color:#8a5a12;font-size:.95rem;line-height:1.55}
+    .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
     .med-notice a{color:#8a5a12;text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
@@ -203,12 +206,12 @@
     .post-body a{color:var(--iki-teal-deep,#2E8975);font-weight:600}
     .post-body blockquote{margin:1.4rem 0;padding:.6rem 0 .6rem 20px;border-left:4px solid var(--iki-lime,#A8D254);color:#475467;font-style:italic}
     .info-box{border-radius:14px;padding:16px 22px;margin:1.6rem 0}
-    .info-box.ib-case{background:#fbf7ee;border:1px solid #ecdcbf} .info-box.ib-note{background:#f4f8ff;border:1px solid #d6e4fb}
+    .info-box.ib-case{background:#ffffff;border:1px solid #ecdcbf} .info-box.ib-note{background:#f4f8ff;border:1px solid #d6e4fb}
     .info-box .ib-title{font-weight:700;color:#101828;margin-bottom:6px}
     .post-cta{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));border-radius:18px;padding:30px 26px;margin:34px 0;text-align:center;color:#fff}
     .post-cta h3{font-family:var(--font-display,'Cormorant Garamond');font-size:1.6rem;margin:0 0 8px;color:#fff}
     .post-cta p{margin:0 0 16px;opacity:.95}
-    .cta-sp{display:flex;gap:22px;align-items:center;flex-wrap:wrap;background:#F7F7F2;border:1px solid #E2E7DE;border-left:6px solid #2E6B2D;border-radius:18px;padding:24px 26px;margin:34px 0}
+    .cta-sp{display:flex;gap:22px;align-items:center;flex-wrap:wrap;background:#ffffff;border:1px solid #E2E7DE;border-left:6px solid #2E6B2D;border-radius:18px;padding:24px 26px;margin:34px 0}
     .cta-sp-anh img{width:160px;height:160px;object-fit:contain;border-radius:12px;background:#fff}
     .cta-sp-chu{flex:1 1 320px;min-width:0}
     .cta-sp-nhan{display:inline-block;font-size:.7rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#2E6B2D;margin-bottom:6px}
@@ -216,7 +219,7 @@
     .cta-sp-thongso{margin:0 0 8px;font-weight:700;color:#1F4D1F}
     .cta-sp-mo{margin:0 0 16px;color:#4A554A;font-size:.95rem;line-height:1.6}
     .cta-sp-nut{display:flex;gap:10px;flex-wrap:wrap}
-    .cta-sp-chinh,.cta-sp-phu{display:inline-block;border-radius:30px;padding:11px 22px;font-weight:700;font-size:.95rem;text-decoration:none}
+    .cta-sp-chinh,.cta-sp-phu{display:inline-block;border-radius:8px;padding:11px 22px;font-weight:700;font-size:.95rem;text-decoration:none}
     .cta-sp-chinh{background:#1F4D1F;color:#fff;border:2px solid #1F4D1F}
     .cta-sp-phu{background:transparent;color:#1F4D1F;border:2px solid rgba(31,77,31,.35)}
     .cta-sp-chinh:hover{background:#2E6B2D;border-color:#2E6B2D}
@@ -247,7 +250,7 @@
 .so-noi-o{flex:1 1 150px;padding:16px 18px;background:#F5F7F3;border-left:4px solid #D7B46A;border-radius:4px}
 .so-noi-so{font-size:30px;font-weight:800;color:#1F4D2F;line-height:1.15;font-variant-numeric:tabular-nums}
 .so-noi-nhan{margin-top:4px;font-size:13px;color:#5A5A50}
-.khoi-co-che{margin:28px 0;padding:18px 20px;background:#FAFAF5;border:1px solid #E6E2D6;border-radius:6px}
+.khoi-co-che{margin:28px 0;padding:18px 20px;background:#ffffff;border:1px solid #E6E2D6;border-radius:6px}
 .khoi-co-che h3{margin:0 0 8px;font-size:13px;letter-spacing:1.2px;text-transform:uppercase;color:#8B8776}
 .khoi-co-che p{margin:0;font-size:15px;line-height:1.75}
 blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D2F;font-size:19px;line-height:1.6;font-weight:600;color:#1F4D2F;font-style:normal}
@@ -326,7 +329,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>13 phút đọc</span>
           </div>
         </div>
+<figure class="post-hero-fig">
         <img class="post-hero-img" src="../assets/blog/van-dong-kieu-nhat-radio-taiso-hero.jpg" alt="Vận động nhẹ buổi sáng kiểu Nhật" />
+        <figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI.</figcaption>
+        </figure>
       </div>
 
       <div class="post-wrap">

@@ -26,7 +26,8 @@
     {"title": "Bữa sáng tràn năng lượng", "url": "an-sang-tran-nang-luong.html"},
     {"title": "8 nhóm thực phẩm lành mạnh", "url": "8-nhom-thuc-pham-lanh-manh.html"},
     {"title": "Giữ tinh thần cân bằng", "url": "giu-tinh-than-can-bang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

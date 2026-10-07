@@ -56,7 +56,8 @@
       "title": "8 nhóm thực phẩm lành mạnh",
       "url": "8-nhom-thuc-pham-lanh-manh.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

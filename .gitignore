@@ -7,7 +7,6 @@ node_modules/
 *.zip
 
 # Internal docs — not for public repo
-CLAUDE.md
 BACKLINK-PLAN.md
 
 # Blog working material — local only, không publish

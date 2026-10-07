@@ -44,7 +44,8 @@
     {"title": "Đạm thực vật và đạm động vật", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Ăn chay đủ chất, cân bằng", "url": "an-chay-du-chat-can-bang.html"},
     {"title": "Vận động nhẹ mỗi ngày", "url": "van-dong-nhe-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

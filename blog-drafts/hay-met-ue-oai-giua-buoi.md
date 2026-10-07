@@ -56,7 +56,8 @@
       "title": "Vận động nhẹ mỗi ngày",
       "url": "van-dong-nhe-moi-ngay.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

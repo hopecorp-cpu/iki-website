@@ -53,7 +53,8 @@
       "title": "5 thể tạng theo Đông y",
       "url": "5-the-tang-theo-dong-y.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

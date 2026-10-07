@@ -28,7 +28,8 @@
       "title": "Tăng huyết áp: dấu hiệu, nguyên nhân và khi nào đi khám",
       "url": "tang-huyet-ap.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

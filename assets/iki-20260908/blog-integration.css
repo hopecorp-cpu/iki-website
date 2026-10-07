@@ -9,7 +9,7 @@ footer .brand img{mix-blend-mode:normal}
 @media(max-width:560px){.sitehead .brand img,footer .brand img{width:28px!important;height:56px!important;margin-inline:0}}
 
 /* Match the ecosystem palette throughout retained Blog components. */
-:root{--iki-lime:#e6abb9;--iki-teal:#a53653;--iki-teal-deep:#963048;--iki-gradient:linear-gradient(#a53653,#a53653);--iki-gradient-soft:linear-gradient(#f3e8e8,#f3e8e8);--iki-gradient-mist:linear-gradient(#ffffff,#ffffff);--iki-ink:#342933;--iki-cream:#ffffff;--iki-sand:#eee4df;--gray-700:#74666c}
+:root{--iki-lime:#e6abb9;--iki-teal:#a53653;--iki-teal-deep:#963048;--iki-gradient:linear-gradient(#a53653,#a53653);--iki-gradient-soft:linear-gradient(#ffffff,#ffffff);--iki-gradient-mist:linear-gradient(#ffffff,#ffffff);--iki-ink:#342933;--iki-cream:#ffffff;--iki-sand:#ffffff;--gray-700:#74666c}
 .legacyblog .blog-hero .eyebrow,.legacyblog .cc-tier,.legacyblog .age-label,.legacyblog .search-results .sr-cat{color:#963048}
 .legacyblog h2,.legacyblog .side-title,.legacyblog .side-cats a{color:#342933}
 .legacyblog .side-app,.legacyblog .lead-inner{background:#2a2030;color:#ffffff}
@@ -20,7 +20,7 @@ footer .brand img{mix-blend-mode:normal}
 .legacyblog .side-app .btn:hover,.legacyblog .lead-row button:hover{background:#8d2d46;opacity:1;box-shadow:none}
 .legacyblog .cat-nav a,.legacyblog .side-box:not(.side-app),.legacyblog .search-results{background:#ffffff;border-color:#dfd5d0;color:#342933}
 .legacyblog .cat-nav a:hover,.legacyblog .cat-nav a.active{background:#a53653;color:#fff;border-color:#a53653}
-.legacyblog .search-results a:hover{background:#f3e8e8}
+.legacyblog .search-results a:hover{background:#ffffff;box-shadow:inset 3px 0 0 #a53653}
 .legacyblog .blog-search input:focus,.legacyblog .lead-inner input:focus-visible{border-color:#a53653;outline:2px solid #b478aa;outline-offset:3px;box-shadow:none}
 .legacyblog .lead-inner input:not([type=checkbox]):not([type=hidden]){background:#ffffff;color:#342933;border:1px solid #dfd5d0}
 .legacyblog .lead-inner input::placeholder{color:#74666c;opacity:1}

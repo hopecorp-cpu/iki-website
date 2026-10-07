@@ -25,7 +25,8 @@
       "q": "Tôi phải nhập nhiều dữ liệu thì app mới hiểu tôi đúng không?",
       "a": "Không. Triết lý của App IKI là giảm việc gõ tay tối đa: quét bữa ăn bằng camera, xác nhận nhắc bữa bằng một chạm, và có thể nối thiết bị sức khoẻ sẵn có để bước đi, giấc ngủ, nhịp tim tự chảy vào app."
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

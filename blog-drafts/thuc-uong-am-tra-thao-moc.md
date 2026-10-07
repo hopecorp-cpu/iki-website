@@ -57,7 +57,8 @@
       "title": "Ăn sáng thế nào cho một ngày tràn năng lượng",
       "url": "an-sang-tran-nang-luong.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

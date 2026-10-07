@@ -44,7 +44,8 @@
     {"title": "Vận động nhẹ mỗi ngày", "url": "van-dong-nhe-moi-ngay.html"},
     {"title": "Giữ tinh thần cân bằng", "url": "giu-tinh-than-can-bang.html"},
     {"title": "8 nhóm thực phẩm lành mạnh", "url": "8-nhom-thuc-pham-lanh-manh.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
