@@ -56,7 +56,8 @@
       "title": "Uống nước đúng cách mỗi ngày theo thể tạng",
       "url": "uong-nuoc-dung-cach-moi-ngay.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

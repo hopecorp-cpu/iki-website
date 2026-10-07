@@ -29,7 +29,8 @@
       "q": "Báo cáo có được cập nhật không?",
       "a": "Có. IKI Healing dự kiến phát hành báo cáo định kỳ khi có thêm dữ liệu mới, gồm cả dữ liệu khảo sát thể tạng từ cộng đồng. Bản mới nhất luôn nằm trong chuyên mục Báo cáo & Số liệu của blog."
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

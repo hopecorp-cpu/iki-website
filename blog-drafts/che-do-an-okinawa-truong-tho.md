@@ -56,7 +56,8 @@
       "title": "Ăn theo mùa và thể tạng",
       "url": "an-theo-mua-va-the-tang.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

@@ -44,7 +44,8 @@
     {"title": "Vận động nhẹ mỗi ngày", "url": "van-dong-nhe-moi-ngay.html"},
     {"title": "Giữ tinh thần cân bằng", "url": "giu-tinh-than-can-bang.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

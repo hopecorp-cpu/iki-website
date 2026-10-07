@@ -32,7 +32,8 @@
       "title": "Hiểu về đường và đồ chế biến sẵn: ăn uống điều độ",
       "url": "duong-va-do-che-bien-san.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

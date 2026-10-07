@@ -56,7 +56,8 @@
       "title": "Ăn chay đủ chất và cân bằng",
       "url": "an-chay-du-chat-can-bang.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

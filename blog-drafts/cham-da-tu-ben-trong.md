@@ -56,7 +56,8 @@
       "title": "5 thể tạng theo Đông y và cách ăn phù hợp",
       "url": "5-the-tang-theo-dong-y.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

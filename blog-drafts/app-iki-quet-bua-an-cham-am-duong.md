@@ -25,7 +25,8 @@
       "q": "Dùng tính năng quét có mất phí không?",
       "a": "App IKI có bản miễn phí để bắt đầu; gói IKI Pro (499.000đ/năm) mở rộng chiều sâu phân tích và đồng hành. Bạn có thể dùng miễn phí trước, thấy hợp mới nâng cấp."
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

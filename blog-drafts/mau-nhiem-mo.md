@@ -32,7 +32,8 @@
       "title": "Vận động nhẹ mỗi ngày: bắt đầu từ đi bộ",
       "url": "van-dong-nhe-moi-ngay.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

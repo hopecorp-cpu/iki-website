@@ -44,7 +44,8 @@
     {"title": "Vận động nhẹ mỗi ngày", "url": "van-dong-nhe-moi-ngay.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"},
     {"title": "Bữa sáng tràn năng lượng", "url": "an-sang-tran-nang-luong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
