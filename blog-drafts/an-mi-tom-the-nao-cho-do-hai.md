@@ -187,4 +187,4 @@ Nếu bạn muốn biết khẩu phần nào hợp với cơ địa của riêng
 - Báo Đại biểu Nhân dân — Bí quyết ăn mì gói không lo hại sức khoẻ: [daibieunhandan.vn](https://daibieunhandan.vn)
 - Bệnh viện Nguyễn Tri Phương — Những tác hại khi ăn quá nhiều mì tôm: [bvnguyentriphuong.com.vn](https://bvnguyentriphuong.com.vn)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn đang được chỉ định ăn nhạt, có bệnh dạ dày hoặc bệnh nền khác, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen ăn uống.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn đang được chỉ định ăn nhạt, có bệnh dạ dày hoặc bệnh nền khác, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen ăn uống.*

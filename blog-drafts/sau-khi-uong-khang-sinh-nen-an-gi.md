@@ -187,4 +187,4 @@ Nếu bạn muốn xây một nếp ăn hợp với cơ địa mình thay vì l�
 - VnExpress Sức khoẻ — *5 thực phẩm nên ăn sau khi uống kháng sinh*: [vnexpress.net](https://vnexpress.net/5-thuc-pham-nen-an-sau-khi-uong-khang-sinh-5009979.html)
 - Nhà thuốc FPT Long Châu — *Men vi sinh: phục hồi đường ruột trong và sau khi dùng kháng sinh*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/men-vi-sinh-bi-quyet-phuc-hoi-duong-ruot-trong-va-sau-khi-dung-khang-sinh.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Hãy tuân thủ đúng đơn và hướng dẫn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Hãy tuân thủ đúng đơn và hướng dẫn của bác sĩ.

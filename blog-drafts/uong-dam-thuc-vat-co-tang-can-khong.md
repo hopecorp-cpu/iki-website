@@ -198,4 +198,4 @@ Nếu bạn muốn có một điểm khởi đầu cá nhân hoá — biết cơ
 - Sức khoẻ & Đời sống (Bộ Y tế) — *Cách cân đối đạm thực vật trong bữa ăn*: [suckhoedoisong.vn](https://suckhoedoisong.vn/cach-can-doi-dam-thuc-vat-trong-bua-an-169251128090652081.htm)
 - Nhà thuốc Long Châu — *Ăn dư chất đạm sẽ bị gì? Một ngày ăn bao nhiêu đạm là đủ?*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/an-du-chat-dam-se-bi-gi-nen-an-bao-nhieu-dam-1-ngay.html)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*

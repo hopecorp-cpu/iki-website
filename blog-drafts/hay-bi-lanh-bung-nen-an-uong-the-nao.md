@@ -174,4 +174,4 @@ Nếu bạn muốn đi tiếp, hãy đọc [Lạnh tay chân nên ăn gì](lanh-
 - Sức khoẻ và Đời sống — *Kinh nghiệm dân gian với chứng đau bụng do lạnh*: [suckhoedoisong.vn](https://suckhoedoisong.vn/kinh-nghiem-dan-gian-chua-dau-bung-do-lanh-169152705.htm)
 - Phúc Hưng — *Sáu nguyên tắc ăn uống cơ bản dành cho người tỳ vị hư nhược*: [phuchung.vn](https://phuchung.vn/detail/sau-nguyen-tac-an-uong-co-ban-danh-cho-nguoi-ty-vi-hu-nhuoc.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống và kinh nghiệm dưỡng sinh truyền thống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Khi có dấu hiệu bất thường kéo dài, hãy đi khám. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống và kinh nghiệm dưỡng sinh truyền thống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Khi có dấu hiệu bất thường kéo dài, hãy đi khám.

@@ -184,4 +184,4 @@ Hãy bắt đầu bằng đúng một việc trong tuần này: chia sẵn năm 
 - Co.op Online — *Thực đơn 3 bữa mỗi ngày cho dân văn phòng*: [cooponline.vn](https://cooponline.vn/tin-tuc/thuc-don-3-bua-moi-ngay-cho-dan-van-phong/)
 - Onways — *10 lời khuyên về dinh dưỡng cho dân văn phòng*: [onways.com](https://onways.com/blogs/health-life/10-loi-khuyen-vang-ve-dinh-duong-cho-dan-van-phong)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

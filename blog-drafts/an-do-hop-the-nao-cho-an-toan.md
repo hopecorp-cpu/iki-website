@@ -196,4 +196,4 @@ Và như mọi chuyện trong ăn uống, điều quyết định không phải 
 - Vinmec — *Đồ hộp: tốt hay xấu?*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/do-hop-tot-hay-xau-vi)
 - Nhà thuốc FPT Long Châu — *Ăn thực phẩm đóng hộp có tốt không?*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/an-thuc-pham-dong-hop-co-tot-khong.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về an toàn thực phẩm và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn có bệnh lý nền, đang mang thai hoặc cần chế độ ăn đặc biệt, hãy hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về an toàn thực phẩm và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn có bệnh lý nền, đang mang thai hoặc cần chế độ ăn đặc biệt, hãy hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng.

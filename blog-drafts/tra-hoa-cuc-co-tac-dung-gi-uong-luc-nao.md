@@ -213,4 +213,4 @@ Nếu bạn muốn bắt đầu ngay tối nay, hãy làm điều đơn giản n
 - Báo Sức khoẻ & Đời sống — *Những ai không nên dùng trà hoa cúc*: [suckhoedoisong.vn](https://suckhoedoisong.vn/nhung-ai-khong-nen-dung-tra-hoa-cuc-169240422121735207.htm)
 - MEDLATEC — *Ai không nên uống trà hoa cúc, tác dụng phụ và lưu ý khi sử dụng*: [medlatec.vn](https://medlatec.vn/tin-tuc/ai-khong-nen-uong-tra-hoa-cuc-tac-dung-phu-la-gi-va-luu-y-khi-su-dung)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

@@ -223,4 +223,4 @@ Nếu bạn muốn có một bức tranh rõ hơn về thể trạng và nhịp 
 - Drake C. và cộng sự (2013) — *Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed*, Journal of Clinical Sleep Medicine: [jcsm.aasm.org](https://jcsm.aasm.org/doi/10.5664/jcsm.3170)
 - Tổ chức Y tế Thế giới — *Guideline: Sugars intake for adults and children*: [who.int](https://www.who.int/publications/i/item/9789241549028)
 
-Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Người đang mang thai, cho con bú, có bệnh nền, đang dùng thuốc hoặc có vấn đề về da cần theo dõi nên hỏi ý kiến bác sĩ trước khi thay đổi thói quen ăn uống.
+Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Người đang mang thai, cho con bú, có bệnh nền, đang dùng thuốc hoặc có vấn đề về da cần theo dõi nên hỏi ý kiến bác sĩ trước khi thay đổi thói quen ăn uống.

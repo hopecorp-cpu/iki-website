@@ -167,4 +167,4 @@ Bạn có thể ghi lại bữa ăn hằng ngày trong [App IKI](../app.html) đ
 - Báo Sức khoẻ & Đời sống — *14 loại thực phẩm chứa nhiều axit folic tốt cho phụ nữ mang thai*: [suckhoedoisong.vn](https://suckhoedoisong.vn/14-loai-thuc-pham-lanh-manh-chua-nhieu-axit-folic-tot-cho-phu-nu-mang-thai-169220626191855602.htm)
 - Bệnh viện Đa khoa Tâm Anh — *20 thực phẩm giàu axit folic*: [tamanhhospital.vn](https://tamanhhospital.vn/thuc-pham-giau-axit-folic/)
 
-Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

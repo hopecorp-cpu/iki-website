@@ -182,4 +182,4 @@ Nếu bạn muốn biết nhóm thực phẩm nào hợp với cơ địa của 
 - Pharmacity — Uống hạt chia hằng ngày, lợi ích và cách pha chế: [pharmacity.vn](https://www.pharmacity.vn)
 - Bách Hoá Xanh — Công dụng và hướng dẫn sử dụng hạt chia đúng cách: [bachhoaxanh.com](https://www.bachhoaxanh.com)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn có bệnh nền, đang dùng thuốc dài ngày, đang mang thai hoặc dùng cho trẻ nhỏ, hãy tham khảo ý kiến chuyên môn trước khi dùng đều đặn.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có bệnh nền, đang dùng thuốc dài ngày, đang mang thai hoặc dùng cho trẻ nhỏ, hãy tham khảo ý kiến chuyên môn trước khi dùng đều đặn.*

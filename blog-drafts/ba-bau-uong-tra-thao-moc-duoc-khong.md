@@ -203,4 +203,4 @@ Nếu bạn muốn hiểu thêm về cơ địa của mình để xây nếp ch�
 - Nhà thuốc FPT Long Châu — *Những loại trà cho bà bầu nào nên dùng*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/nhung-loai-tra-cho-ba-bau-nao-nen-dung-64354.html)
 - NatuQueens — *Những loại trà thảo mộc mẹ bầu không nên uống trong 9 tháng thai kỳ*: [naturalqueen.com.vn](https://naturalqueen.com.vn/nhung-loai-tra-thao-moc-me-bau-khong-nen-uong-trong-9-thang-cua-thai-ky/)
 
-Nội dung trên mang tính chia sẻ kiến thức tham khảo, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Phụ nữ mang thai cần trao đổi với bác sĩ sản khoa trước khi dùng bất kỳ loại thảo mộc, thực phẩm bổ sung hay thuốc nào. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không dành riêng cho thai kỳ.
+Nội dung trên mang tính chia sẻ kiến thức tham khảo, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Phụ nữ mang thai cần trao đổi với bác sĩ sản khoa trước khi dùng bất kỳ loại thảo mộc, thực phẩm bổ sung hay thuốc nào.

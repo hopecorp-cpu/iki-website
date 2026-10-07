@@ -162,4 +162,4 @@ Trả lời được ba câu đó, bạn đã đi được phần lớn quãng �
 - Nhà thuốc FPT Long Châu — *Móng tay dễ gãy thiếu vitamin gì?*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/giai-dap-thac-mac-mong-tay-de-gay-thieu-vitamin-gi-62263.html)
 - Trạm Y tế Phường Chợ Lớn — *Móng tay mềm dễ gãy do thiếu chất gì*: [bvquan5.medinet.gov.vn](https://bvquan5.medinet.gov.vn/chuyen-muc/mong-tay-mem-de-gay-do-thieu-chat-gi-cmobile14478-131909.aspx)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Khi móng có biến đổi bất thường kéo dài, hãy đi khám để được đánh giá đúng.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Khi móng có biến đổi bất thường kéo dài, hãy đi khám để được đánh giá đúng.

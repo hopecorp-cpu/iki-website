@@ -196,4 +196,4 @@ Và nếu bạn đang xây lại nếp ăn uống một cách bài bản hơn, h
 - VOH — *Cách bảo quản sữa bột đã mở nắp để dùng lâu và an toàn*: [voh.com.vn](https://voh.com.vn/meo-vat/cach-bao-quan-sua-bot-da-mo-nap-499070.html)
 - Cục An toàn thực phẩm (Bộ Y tế) — *Cách nhận biết, bảo quản thực phẩm đóng hộp*: [vfa.gov.vn](https://vfa.gov.vn/tin-tuc/cach-nhan-biet-bao-quan-thuc-pham-dong-hop-canh-bao-nguy-co-nhiem-khuan-tu-thuc-pham-dong-hop-khong-dam-bao-an-toan-thuc-pham.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về bảo quản thực phẩm và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn đang mang thai, cho con bú, có bệnh lý nền hoặc đang dùng thuốc theo chỉ định, hãy hỏi ý kiến chuyên gia y tế trước khi bổ sung sản phẩm mới.
+Nội dung trên mang tính chia sẻ kiến thức về bảo quản thực phẩm và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn đang mang thai, cho con bú, có bệnh lý nền hoặc đang dùng thuốc theo chỉ định, hãy hỏi ý kiến chuyên gia y tế trước khi bổ sung sản phẩm mới.

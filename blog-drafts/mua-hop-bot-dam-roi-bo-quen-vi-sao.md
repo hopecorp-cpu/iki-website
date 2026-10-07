@@ -255,4 +255,4 @@ Nếu chỉ giữ một câu từ bài này, hãy giữ câu sau: **tiền của
 - USDA Food Safety and Inspection Service — *Food Product Dating* (phân biệt hạn sử dụng vì an toàn và mốc chất lượng tốt nhất): [fsis.usda.gov](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-product-dating)
 - Gardner B, Lally P, Wardle J — *Making health habitual: the psychology of 'habit-formation' and general practice*, British Journal of General Practice 2012 (vai trò của điểm neo bối cảnh và thời gian thực tế để một thói quen trở nên tự động): [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)
 
-Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa.

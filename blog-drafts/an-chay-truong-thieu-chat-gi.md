@@ -207,4 +207,4 @@ Nếu bạn muốn một điểm khởi đầu cụ thể cho riêng mình, hãy
 - Nhà thuốc FPT Long Châu — *Ăn chay dễ thiếu chất gì, chế độ ăn chay không thiếu chất*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/an-chay-de-thieu-chat-gi-che-do-an-chay-khong-thieu-chat-63815.html)
 - Diag — *Người ăn chay thường thiếu chất gì, hướng dẫn cách ăn từ chuyên gia*: [diag.vn](https://diag.vn/blog/nutrition/nguoi-an-chay-thuong-thieu-chat-gi/)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

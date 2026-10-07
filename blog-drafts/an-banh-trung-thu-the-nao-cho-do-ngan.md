@@ -175,4 +175,4 @@ Nếu bạn muốn bước vào mùa lễ với hiểu biết rõ hơn về cơ 
 - Nhà thuốc FPT Long Châu — *Những ai không nên ăn bánh trung thu*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/1-cai-banh-trung-thu-bao-nhieu-calo-nhung-ai-khong-nen-an-banh-trung-thu.html)
 - Báo 24h — *Ăn bao nhiêu miếng bánh trung thu là hợp lý*: [24h.com.vn](https://www.24h.com.vn/suc-khoe-doi-song/an-bao-nhieu-mieng-banh-trung-thu-de-khong-bi-tang-can-c62a1393914.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Người có bệnh nền hoặc đang theo dõi chỉ số sức khoẻ nên hỏi ý kiến bác sĩ về khẩu phần phù hợp.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Người có bệnh nền hoặc đang theo dõi chỉ số sức khoẻ nên hỏi ý kiến bác sĩ về khẩu phần phù hợp.

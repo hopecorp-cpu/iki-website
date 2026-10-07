@@ -251,4 +251,4 @@ Nếu bạn muốn biết nên bắt đầu từ mắt xích nào trong nhịp s
 - Cleveland Clinic — *Dark Circles Under Eyes: Causes & Treatment*: [clevelandclinic.org](https://my.clevelandclinic.org/health/symptoms/23128-dark-circles-under-eyes)
 - American Academy of Ophthalmology — *Bags under the eyes* (gợi ý chườm mát, kê gối cao, kiểm soát dị ứng): [aao.org](https://www.aao.org/eye-health/tips-prevention/bags-under-eyes)
 
-Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán, không nhằm điều trị bệnh và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Người có vấn đề về mắt hoặc da kéo dài, có bệnh nền, đang mang thai, mới sinh hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ.
+Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán, không nhằm điều trị bệnh và không thay thế tư vấn y khoa. Người có vấn đề về mắt hoặc da kéo dài, có bệnh nền, đang mang thai, mới sinh hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ.

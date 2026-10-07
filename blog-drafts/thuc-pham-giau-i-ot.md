@@ -182,4 +182,4 @@ Nếu bạn muốn biết cơ địa mình đang cần chú ý điều gì trư�
 - CDC Quảng Ninh — *Thực phẩm giàu i-ốt*: [quangninhcdc.vn](https://www.quangninhcdc.vn/thuc-pham-giau-iot/)
 - Báo Tuổi Trẻ — *Dùng muối i-ốt bao nhiêu là vừa* (dẫn khuyến nghị Viện Dinh dưỡng): [tuoitre.vn](https://tuoitre.vn/dung-muoi-i-ot-bao-nhieu-la-vua-563792.htm)
 
-Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

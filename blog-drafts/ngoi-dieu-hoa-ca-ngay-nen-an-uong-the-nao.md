@@ -188,4 +188,4 @@ Nếu bạn muốn biết cơ địa mình thiên về nhóm nào để chọn t
 - Nhà thuốc Long Châu — Vì sao ngồi máy lạnh bị khô da và giải pháp khắc phục: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn)
 - Kenh14 — Lời khuyên đến những người ngồi điều hoà cả ngày: [kenh14.vn](https://kenh14.vn)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu các triệu chứng khô da, khô mắt hoặc mệt mỏi kéo dài, hãy đi khám để được đánh giá đúng.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu các triệu chứng khô da, khô mắt hoặc mệt mỏi kéo dài, hãy đi khám để được đánh giá đúng.*

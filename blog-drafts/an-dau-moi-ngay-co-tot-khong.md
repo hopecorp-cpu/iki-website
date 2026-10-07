@@ -202,4 +202,4 @@ Không cần thay đổi cả bếp trong một ngày. Chỉ cần tuần này t
 - MEDLATEC — Các loại đậu tốt cho sức khoẻ như thế nào: [medlatec.vn](https://medlatec.vn)
 - Nhà thuốc Long Châu — Tổng hợp các loại đậu giàu protein nên bổ sung vào bữa ăn hằng ngày: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn có bệnh thận, gout hoặc đang dùng thuốc dài ngày, hãy hỏi ý kiến chuyên môn trước khi thay đổi lớn trong chế độ ăn.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có bệnh thận, gout hoặc đang dùng thuốc dài ngày, hãy hỏi ý kiến chuyên môn trước khi thay đổi lớn trong chế độ ăn.*

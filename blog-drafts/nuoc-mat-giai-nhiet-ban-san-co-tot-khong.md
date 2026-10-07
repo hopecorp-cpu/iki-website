@@ -191,4 +191,4 @@ Cảm giác mát mẻ dễ chịu trong những ngày nóng phần lớn đến 
 - Báo Tiền Phong — Những loại nước uống giải nhiệt cơ thể trong ngày hè oi bức: [tienphong.vn](https://tienphong.vn)
 - Báo Khánh Hoà — Những loại nước uống mát và tốt cho sức khoẻ ngày nắng nóng: [baokhanhhoa.vn](https://baokhanhhoa.vn)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn có bệnh nền hoặc đang dùng thuốc dài ngày, hãy hỏi ý kiến chuyên môn trước khi dùng các loại nước thảo mộc đều đặn.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có bệnh nền hoặc đang dùng thuốc dài ngày, hãy hỏi ý kiến chuyên môn trước khi dùng các loại nước thảo mộc đều đặn.*

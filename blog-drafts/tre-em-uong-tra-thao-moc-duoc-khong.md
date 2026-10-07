@@ -176,4 +176,4 @@ Nếu bạn muốn xây một nếp chăm sóc sức khoẻ chủ động cho c�
 - Trà Chính Hãng — *Trẻ em có uống được trà không, những điều cần biết*: [trachinhhang.com](https://trachinhhang.com/tre-em-co-uong-duoc-tra-khong/)
 - Vinmec — *Trong trà có chất gì gây mất ngủ*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/trong-tra-co-chat-gi-gay-mat-ngu-vi)
 
-Nội dung trên mang tính chia sẻ kiến thức chăm sóc thường ngày, không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung dành cho người lớn, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Với trẻ em, hãy hỏi ý kiến bác sĩ nhi trước khi dùng thêm bất kỳ sản phẩm nào.
+Nội dung trên mang tính chia sẻ kiến thức chăm sóc thường ngày, không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Với trẻ em, hãy hỏi ý kiến bác sĩ nhi trước khi dùng thêm bất kỳ sản phẩm nào.

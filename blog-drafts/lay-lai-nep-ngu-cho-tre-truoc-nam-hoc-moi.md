@@ -219,4 +219,4 @@ Nếu bạn muốn xây thói quen sinh hoạt cho cả nhà một cách bài b�
 - Vinmec — *Cách giúp trẻ ngủ ngon sâu giấc*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/cach-giup-tre-so-sinh-ngu-ngon-sau-giac-vi)
 - Shop Trẻ Thơ — *Rèn lại nếp ngủ sớm cho trẻ lớn đã quen thức muộn*: [shoptretho.com.vn](https://shoptretho.com.vn/tin-tuc/ren-lai-nep-ngu-som-cho-tre-lon-da-quen-thuc-muon)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ nhi khoa. Nếu con bạn có vấn đề về giấc ngủ kéo dài, ngáy to, ngưng thở khi ngủ hoặc buồn ngủ quá mức ban ngày, hãy đưa con đi khám. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ nhi khoa. Nếu con bạn có vấn đề về giấc ngủ kéo dài, ngáy to, ngưng thở khi ngủ hoặc buồn ngủ quá mức ban ngày, hãy đưa con đi khám.*

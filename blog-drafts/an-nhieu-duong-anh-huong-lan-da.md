@@ -217,4 +217,4 @@ Và nếu bạn muốn bắt đầu từ chỗ hiểu nhịp sống của mình 
 - Vinmec — *Khuyến nghị của WHO về sử dụng đường* (mức dưới 10% và dưới 5% tổng năng lượng khẩu phần): [vinmec.com](https://www.vinmec.com/vie/bai-viet/khuyen-nghi-cua-who-ve-su-dung-duong-vi)
 - Bệnh viện Nội tiết Trung ương — *Người Việt Nam tiêu thụ đường gấp 2 lần khuyến nghị*: [benhviennoitiet.vn](https://benhviennoitiet.vn/nguoi-viet-nam-tieu-thu-duong-gap-2-lan-khuyen-nghi/)
 
-Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi thay đổi lớn trong chế độ ăn.
+Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi thay đổi lớn trong chế độ ăn.

@@ -159,4 +159,4 @@ Ba điều cần nhớ, gọn lại: **ăn một nắm hạt mỗi ngày**, **đ
 - Báo Sức khoẻ & Đời sống — *9 thực phẩm giàu vitamin E giúp tăng cường sức khoẻ*: [suckhoedoisong.vn](https://suckhoedoisong.vn/9-thuc-pham-giau-vitamin-e-giup-tang-cuong-suc-khoe-169221010235545508.htm)
 - Trạm Y tế Phường Chợ Lớn — *10 loại thực phẩm giàu vitamin E nên ăn thường xuyên*: [bvquan5.medinet.gov.vn](http://bvquan5.medinet.gov.vn/dinh-duong/10-loai-thuc-pham-giau-vitamin-e-nen-an-thuong-xuyen-cmobile16572-206155.aspx)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn đang dùng thuốc hoặc có bệnh nền, hãy hỏi ý kiến bác sĩ trước khi dùng thêm bất kỳ sản phẩm bổ sung nào.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn đang dùng thuốc hoặc có bệnh nền, hãy hỏi ý kiến bác sĩ trước khi dùng thêm bất kỳ sản phẩm bổ sung nào.

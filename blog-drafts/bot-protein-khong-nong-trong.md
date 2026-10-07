@@ -214,4 +214,4 @@ Và điều cuối cùng: bột protein chỉ là một phần nhỏ trong bức
 - Muhaidat J và cộng sự — *The Effect of Whey Protein Supplements on Acne Vulgaris among Male Adolescents and Young Adults: A Case-Control Study*, Dermatology Research and Practice 2024: [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/38633058/)
 - World Health Organization — *Guideline: Sugars intake for adults and children* (giữ đường tự do dưới 10% tổng năng lượng mỗi ngày): [who.int](https://www.who.int/publications/i/item/9789241549028)
 
-Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. "Nóng trong" là cách gọi dân gian, không phải một chẩn đoán. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. "Nóng trong" là cách gọi dân gian, không phải một chẩn đoán.

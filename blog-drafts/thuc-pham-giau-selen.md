@@ -223,4 +223,4 @@ Nếu bạn muốn xây một thực đơn cân bằng vi chất theo cơ địa
 - Nhà thuốc FPT Long Châu — *15 loại thực phẩm giàu selen*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/ke-ten-15-loai-thuc-pham-giau-selen-co-loi-cho-co-the.html)
 - Trung tâm Tiêm chủng Long Châu — *Thực phẩm giàu selen và những điều cần biết khi bổ sung*: [tiemchunglongchau.com.vn](https://tiemchunglongchau.com.vn/kien-thuc-tiem-chung/thuc-pham-giau-selen-va-nhung-dieu-can-biet-khi-bo-sung)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

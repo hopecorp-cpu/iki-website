@@ -193,4 +193,4 @@ Hãy bắt đầu bằng một việc duy nhất trong tuần này. Nếu bạn 
 - Báo Thanh Hoá — *Nắng gay gắt và bài toán sức bền của shipper, tài xế công nghệ*: [baothanhhoa.vn](https://baothanhhoa.vn/nang-gay-gat-va-bai-toan-suc-ben-cua-shipper-tai-xe-cong-nghe-288759.htm)
 - Kinh tế và Đô thị — *Tài xế công nghệ chật vật mưu sinh giữa thời tiết nắng nóng*: [kinhtedothi.vn](https://kinhtedothi.vn/tai-xe-cong-nghe-chat-vat-muu-sinh-giua-thoi-tiet-nang-nong.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt và lao động, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt và lao động, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

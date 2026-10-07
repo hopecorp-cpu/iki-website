@@ -204,7 +204,7 @@ Vài lưu ý khi chọn:
 - **Đừng dùng để thay bữa ăn**. Đây là phần bổ sung, không phải phần thay thế.
 - **Người có bệnh thận hoặc đang dùng thuốc phải hỏi bác sĩ trước.**
 
-Bài [chọn thực phẩm bổ sung đúng cách](chon-thuc-pham-bo-sung-dung-cach.html) có hướng dẫn đọc nhãn chi tiết. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Bài [chọn thực phẩm bổ sung đúng cách](chon-thuc-pham-bo-sung-dung-cach.html) có hướng dẫn đọc nhãn chi tiết.
 
 ## Thực đơn mẫu một ngày đủ đạm
 

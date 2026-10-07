@@ -193,4 +193,4 @@ Nếu bạn chưa chắc mình cần bổ sung bao nhiêu và theo nhịp nào, 
 - Nhà thuốc FPT Long Châu — *Công dụng của bột protein thực vật và cách dùng hiệu quả*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/cong-dung-cua-bot-protein-thuc-vat-va-cach-dung-hieu-qua.html)
 - Vinmec — *Lượng protein cần nạp mỗi ngày theo từng độ tuổi*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/luong-protein-can-nap-moi-ngay-theo-tung-do-tuoi-vi)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

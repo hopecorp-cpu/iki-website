@@ -189,4 +189,4 @@ Nếu bạn muốn một điểm khởi đầu cụ thể hơn cho riêng mình 
 - Báo Tiền Phong (Sinh Viên Việt Nam) — *Bạn trẻ trổ tài với những bữa cơm sinh viên đầy dinh dưỡng*: [svvn.tienphong.vn](https://svvn.tienphong.vn/ban-tre-yeu-bep-tro-tai-voi-nhung-bua-com-sinh-vien-day-dinh-duong-post1418256.tpo)
 - Điện Máy Xanh — *Gợi ý thực đơn tiết kiệm cho sinh viên ăn cả tuần*: [dienmayxanh.com](https://www.dienmayxanh.com/vao-bep/goi-y-7-thuc-don-50k-cho-sinh-vien-don-gian-tiet-kiem-an-ca-10661)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

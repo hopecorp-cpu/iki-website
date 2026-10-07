@@ -137,7 +137,7 @@ Nguyên tắc thực tế:
 - **Nhiều không đồng nghĩa tốt hơn.** Một số chất tan trong dầu tích luỹ trong cơ thể, nên liều cao kéo dài cần có chỉ định.
 - **Người đang dùng thuốc phải hỏi bác sĩ.** Một số hợp chất tương tác với thuốc.
 
-Các sản phẩm IKI là thực phẩm bổ sung, dùng để hỗ trợ khẩu phần hằng ngày, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Bài [chọn thực phẩm bổ sung đúng cách](chon-thuc-pham-bo-sung-dung-cach.html) có phần hướng dẫn đọc nhãn và đặt câu hỏi trước khi mua.
+ Bài [chọn thực phẩm bổ sung đúng cách](chon-thuc-pham-bo-sung-dung-cach.html) có phần hướng dẫn đọc nhãn và đặt câu hỏi trước khi mua.
 
 ## Thực đơn mẫu một ngày đủ năm nhóm màu
 

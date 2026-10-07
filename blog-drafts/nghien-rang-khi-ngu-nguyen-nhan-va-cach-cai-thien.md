@@ -194,4 +194,4 @@ Bạn có thể bắt đầu ngay tối nay bằng việc dễ nhất: dừng c�
 - Pharmacity — *Nghiến răng khi ngủ: Nguyên nhân và cách khắc phục*: [pharmacity.vn](https://www.pharmacity.vn/nghien-rang-khi-ngu-nguyen-nhan-va-cach-khac-phuc.htm)
 - Colgate Việt Nam — *Nghiến răng khi ngủ*: [colgate.com.vn](https://www.colgate.com.vn/oral-health/bruxism/how-to-stop-grinding-teeth-at-night-0114)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu có dấu hiệu kể trên, bạn nên đi khám nha khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu có dấu hiệu kể trên, bạn nên đi khám nha khoa.

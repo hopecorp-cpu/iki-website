@@ -207,4 +207,4 @@ Tối nay, hãy bắt đầu từ điều đơn giản nhất là đặt một b
 - Hello Bacsi — *Ngủ bao nhiêu là đủ? Trẻ em và người lớn khác nhau*: [hellobacsi.com](https://hellobacsi.com/giac-ngu/giac-ngu-ngon/ngu-bao-nhieu-la-du/)
 - VnExpress Sức khoẻ — *Mỗi độ tuổi nên ngủ bao nhiêu tiếng một ngày*: [vnexpress.net](https://vnexpress.net/moi-do-tuoi-nen-ngu-bao-nhieu-tieng-mot-ngay-4790252.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

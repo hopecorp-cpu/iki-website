@@ -195,4 +195,4 @@ Nếu bạn chưa chắc mình hợp hướng nào, hãy bắt đầu bằng [b�
 - Nhà thuốc FPT Long Châu — *Whey thực vật khác whey protein như thế nào*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/whey-thuc-vat-khac-whey-protein-nhu-the-nao-60804.html)
 - Nhà thuốc An Khang — *Protein thực vật khác whey protein như thế nào*: [nhathuocankhang.com](https://www.nhathuocankhang.com/ban-tin-suc-khoe/whey-protein-va-protein-thuc-vat-loai-nao-tot-1404400)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

@@ -227,4 +227,4 @@ Nếu bạn muốn có điểm khởi đầu nhanh trước khi bắt tay vào b
 - Bệnh viện Đa khoa Trung tâm An Giang — *Tìm hiểu về FODMAP*: [bvag.com.vn](https://bvag.com.vn/tim-hieu-ve-fodmap/)
 - Nhà thuốc Long Châu — *Chế độ ăn FODMAP thấp dành cho bệnh nhân mắc hội chứng ruột kích thích*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/che-do-an-fodmap-thap-danh-cho-benh-nhan-mac-hoi-chung-ruot-kich-thich-68702.html)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*

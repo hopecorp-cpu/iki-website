@@ -186,4 +186,4 @@ Nếu bạn chưa rõ cơ địa mình thiên về hướng nào và nên bắt 
 - Bệnh viện Đa khoa Hồng Ngọc — *Đầy bụng khó tiêu giải quyết bằng cách nào*: [hongngochospital.vn](https://hongngochospital.vn/vi/ban-luon-bi-day-bung-kho-tieu)
 - MEDLATEC — *Những thực phẩm gây đầy hơi không nên ăn quá nhiều*: [medlatec.vn](https://medlatec.vn/tin-tuc/diem-danh-nhung-thuc-pham-gay-day-hoi-ma-ban-khong-nen-an-qua-nhieu-s51-n22861)
 
-Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.
