@@ -14,12 +14,7 @@
   "reading_min": 6,
   "no_product": true,
   "khuyen_cao": [],
-  "related": [
-    {
-      "title": "Ăn sáng thế nào cho một ngày tràn năng lượng",
-      "url": "an-sang-tran-nang-luong.html"
-    }
-  ],
+  "related": [],
   "ban_duyet_sha256": "8e09863bc193400ba9d9dbea2c98a818a19da0c7d4003f273958e8f2228f5e1c"
 }
 ---
