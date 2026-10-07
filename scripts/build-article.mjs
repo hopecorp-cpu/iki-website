@@ -25,6 +25,7 @@ import { khoiCauNoi, CSS_CAU_NOI } from "./cau-noi-chi-muc.mjs";
 import { ogPinDoc } from "./pin-bai.mjs";
 import { laDongBang, laDongPhanCach, dungBang, CSS_BANG } from "./bang-markdown.mjs";
 import { inline, nhanChuyenMuc } from "./md-inline.mjs";
+import { heroHtml, coChuThichAi, CSS_CHU_THICH_AI } from "./chu-thich-anh-ai.mjs";
 
 import { taoPopup } from "./popup-thu-email.mjs";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -281,7 +282,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}${coChuThichAi(fm, heroSrc) ? CSS_CHU_THICH_AI : ""}
     .post-eyebrow{display:inline-block;font-family:var(--font-sans,'Manrope');font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
@@ -377,7 +378,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>${readMin} phút đọc</span>
           </div>
         </div>
-        ${heroSrc ? `<img class="post-hero-img" src="${escAttr(heroSrc)}" alt="${escAttr(fm.hero_alt || fm.title)}" />` : ""}
+        ${heroHtml(fm, heroSrc, `<img class="post-hero-img" src="${escAttr(heroSrc)}" alt="${escAttr(fm.hero_alt || fm.title)}" />`)}
       </div>
 
       <div class="post-wrap">
