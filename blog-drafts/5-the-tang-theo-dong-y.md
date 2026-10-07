@@ -28,7 +28,7 @@
     },
     {
       "q": "Xác định thể tạng qua bài viết có chính xác không?",
-      "a": "Bài viết chỉ giúp bạn hình dung và quan sát xu hướng của mình. Để đánh giá chính xác hơn, bạn nên gặp lương y có chuyên môn. Khi có dấu hiệu sức khỏe bất thường, hãy đi khám bác sĩ."
+      "a": "Bài viết chỉ giúp bạn hình dung và quan sát xu hướng của mình. Để đánh giá chính xác hơn, bạn nên hỏi ý kiến bác sĩ hoặc nhân viên y tế. Khi có dấu hiệu sức khỏe bất thường, hãy đi khám bác sĩ."
     },
     {
       "q": "Thay đổi thể tạng bằng ăn uống có nhanh không?",
@@ -61,7 +61,7 @@ Có bao giờ bạn thắc mắc vì sao cùng một ly nước đá, người b
 
 Đông y có một cách lý giải rất gần gũi cho những khác biệt đó: **thể tạng**. Mỗi người sinh ra và lớn lên mang một xu hướng cơ địa riêng, giống như mỗi mảnh vườn có loại đất và độ ẩm khác nhau. Hiểu được "mảnh vườn" của mình, bạn sẽ biết nên tưới nước thế nào, trồng cây gì cho hợp.
 
-Bài viết này giới thiệu 5 xu hướng thể tạng thường gặp trong Đông y, kèm dấu hiệu nhận biết và cách chăm sóc phù hợp. Hãy đọc như một cách để **quan sát cơ thể mình**, chứ không phải để tự dán nhãn hay tự chẩn đoán. Khi có vấn đề sức khỏe, người đáng tin cậy nhất vẫn là bác sĩ và lương y có chuyên môn.
+Bài viết này giới thiệu 5 xu hướng thể tạng thường gặp trong Đông y, kèm dấu hiệu nhận biết và cách chăm sóc phù hợp. Hãy đọc như một cách để **quan sát cơ thể mình**, chứ không phải để tự dán nhãn hay tự chẩn đoán. Khi có vấn đề sức khỏe, người đáng tin cậy nhất vẫn là bác sĩ hoặc nhân viên y tế.
 
 ## Thể tạng là gì
 
@@ -221,7 +221,7 @@ Cách đơn giản nhất là **quan sát cơ thể mình một cách trung th�
 
 Ghi lại vài ngày, bạn sẽ thấy một **xu hướng nổi lên rõ rệt**. Đó chính là thể tạng chính của bạn. Đừng ngạc nhiên nếu thấy mình nghiêng về hai kiểu cùng lúc, ví dụ vừa Hư vừa Đàm thấp, hay vừa Nhiệt vừa Thực. Sự pha trộn là chuyện thường tình.
 
-Một lưu ý quan trọng: bài kiểm tra tại nhà như thế này chỉ giúp bạn **hình dung**. Để đánh giá đầy đủ, lương y sẽ kết hợp nhiều yếu tố như bắt mạch, xem lưỡi, hỏi bệnh sử. Và khi cơ thể có dấu hiệu bất thường kéo dài, việc đầu tiên nên làm luôn là đi khám bác sĩ.
+Một lưu ý quan trọng: bài kiểm tra tại nhà như thế này chỉ giúp bạn **hình dung**. Để đánh giá đầy đủ, cần kết hợp nhiều yếu tố như bắt mạch, xem lưỡi, hỏi bệnh sử. Và khi cơ thể có dấu hiệu bất thường kéo dài, việc đầu tiên nên làm luôn là đi khám bác sĩ.
 
 Xu hướng cơ địa cũng đổi theo mùa, nên việc điều chỉnh bữa ăn theo thời tiết là một thói quen đáng có. Bạn có thể tham khảo thêm bài [Ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html) để biết cách linh hoạt hơn qua từng giai đoạn trong năm.
 
@@ -251,7 +251,7 @@ Hiểu thể tạng của mình giống như đọc được "hướng dẫn s�
 
 Hãy bắt đầu nhẹ nhàng: dành vài tuần quan sát cơ thể, nhận ra xu hướng nổi trội, rồi thử điều chỉnh từng thói quen nhỏ. Không cần thay đổi tất cả cùng lúc, cũng không cần vội vàng. Chăm sóc sức khỏe chủ động là một hành trình dài, và việc hiểu thể tạng chỉ là bước đầu tiên đầy thú vị trên hành trình đó.
 
-Và đừng quên: bài viết này là góc nhìn để bạn quan sát và chăm sóc bản thân tốt hơn. Khi có dấu hiệu sức khỏe bất thường, hãy tìm đến bác sĩ hoặc lương y có chuyên môn để được thăm khám đúng cách.
+Và đừng quên: bài viết này là góc nhìn để bạn quan sát và chăm sóc bản thân tốt hơn. Khi có dấu hiệu sức khỏe bất thường, hãy tìm đến bác sĩ hoặc nhân viên y tế để được thăm khám đúng cách.
 
 :::note Số liệu thực tế từ cộng đồng IKI
 Một phát hiện thú vị từ dữ liệu 1.531 vận đơn kỳ 03–07/2026 của IKI Healing: **64% đơn hàng sức khoẻ chủ động đến từ ngoài Hà Nội và TP.HCM** — làn sóng sống lành đã lan khắp các tỉnh. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
