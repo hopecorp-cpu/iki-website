@@ -128,12 +128,12 @@
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
     .post-eyebrow{display:inline-block;font-family:var(--font-sans,'Manrope');font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
-    .med-notice{background:#fef6e7;border:1px solid #f0d8a8;border-left:4px solid #d99a2b;border-radius:12px;padding:14px 18px;margin:22px 0;color:#8a5a12;font-size:.95rem;line-height:1.55}
-    .med-notice a{color:#8a5a12;text-decoration:underline}
+    .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
+    .med-notice a{color:var(--iki-teal-deep,#2E8975);text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -160,7 +160,7 @@
     .cta-sp-thongso{margin:0 0 8px;font-weight:700;color:#1F4D1F}
     .cta-sp-mo{margin:0 0 16px;color:#4A554A;font-size:.95rem;line-height:1.6}
     .cta-sp-nut{display:flex;gap:10px;flex-wrap:wrap}
-    .cta-sp-chinh,.cta-sp-phu{display:inline-block;border-radius:30px;padding:11px 22px;font-weight:700;font-size:.95rem;text-decoration:none}
+    .cta-sp-chinh,.cta-sp-phu{display:inline-block;border-radius:8px;padding:11px 22px;font-weight:700;font-size:.95rem;text-decoration:none}
     .cta-sp-chinh{background:#1F4D1F;color:#fff;border:2px solid #1F4D1F}
     .cta-sp-phu{background:transparent;color:#1F4D1F;border:2px solid rgba(31,77,31,.35)}
     .cta-sp-chinh:hover{background:#2E6B2D;border-color:#2E6B2D}
@@ -221,10 +221,18 @@ blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D
     .lead-row{display:flex;gap:10px;max-width:480px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:13px 16px;font-size:1rem;font-family:inherit}
     .lead-phone{display:block;width:100%;max-width:480px;margin:10px auto 0;border:none;border-radius:12px;padding:11px 16px;font-size:.95rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:8px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+    .post-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.4rem 0;background:#FFFFFF;border:1px solid #E5E5E5;border-radius:0}
+    .post-table{width:100%;border-collapse:collapse;background:#FFFFFF;font-family:inherit;font-size:1rem;line-height:1.5}
+    .post-table th,.post-table td{border:1px solid #E5E5E5;padding:10px 14px;text-align:left;vertical-align:top}
+    .post-table th{font-weight:700;background:#FFFFFF;color:#101828}
+    .post-table tr>:first-child{border-left:0} .post-table tr>:last-child{border-right:0}
+    .post-table thead tr:first-child>*{border-top:0} .post-table tr:last-child>td{border-bottom:0}
+    .post-table thead:last-child tr:last-child>th{border-bottom:0}
+    .post-table [style*="text-align:right"]{white-space:nowrap}
+    @media(max-width:640px){.post-table th,.post-table td{min-width:8em}}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -262,7 +270,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">thuc-pham</span>
+          <span class="post-eyebrow">Thực phẩm</span>
           <h1 class="post-title">Đậu, hạt trong bếp Việt: đọc đúng con số đạm và cách ghép vào món quen</h1>
           <div class="post-meta">
             <span>Đội ngũ Health Coach IKI</span><span>·</span>
@@ -286,7 +294,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Điều đáng chú ý ở đây không phải tìm một nguyên liệu thật đặc biệt. Ngược lại, mình có thể bắt đầu từ chính những thứ đã quen thuộc trong gian bếp. Quan trọng là hiểu đúng bảng số liệu để khi chuẩn bị bữa ăn, chị biết mình đang nhìn con số của thực phẩm ở dạng nào.</p>
 <h2 id="100-g-dau-hat-kho-co-bao-nhieu-dam">100 g đậu, hạt khô có bao nhiêu đạm</h2>
 <p>Theo Bảng thành phần thực phẩm Việt Nam của Viện Dinh dưỡng, Bộ Y tế, xuất bản năm 2007, lượng đạm trong 100 g phần ăn được của một số thực phẩm quen thuộc như sau:</p>
-<p>| Thực phẩm (100 g phần ăn được) | Đạm (g) | | --- | ---: | | Đậu nành (đậu tương) hạt khô | 34,0 | | Lạc hạt | 27,5 | | Đậu đen hạt | 24,2 | | Đậu xanh hạt | 23,4 | | Vừng (đen, trắng) | 20,1 | | Hạt điều | 18,4 | | Đậu phụ | 10,9 | | Sữa đậu nành (100 g đậu mỗi lít) | 3,1 |</p>
+<div class="post-table-wrap" role="region" aria-label="Bảng" tabindex="0"><table class="post-table"><thead><tr><th>Thực phẩm (100 g phần ăn được)</th><th style="text-align:right">Đạm (g)</th></tr></thead><tbody><tr><td>Đậu nành (đậu tương) hạt khô</td><td style="text-align:right">34,0</td></tr><tr><td>Lạc hạt</td><td style="text-align:right">27,5</td></tr><tr><td>Đậu đen hạt</td><td style="text-align:right">24,2</td></tr><tr><td>Đậu xanh hạt</td><td style="text-align:right">23,4</td></tr><tr><td>Vừng (đen, trắng)</td><td style="text-align:right">20,1</td></tr><tr><td>Hạt điều</td><td style="text-align:right">18,4</td></tr><tr><td>Đậu phụ</td><td style="text-align:right">10,9</td></tr><tr><td>Sữa đậu nành (100 g đậu mỗi lít)</td><td style="text-align:right">3,1</td></tr></tbody></table></div>
 <p>Bảng này giúp mình nhìn các nguyên liệu trên cùng một đơn vị là 100 g phần ăn được. Tuy nhiên, chị để ý rằng trạng thái của thực phẩm rất quan trọng. Các dòng đậu nành, đậu đen và đậu xanh trong bảng là hạt khô.</p>
 <p>Số liệu thực tế của nguyên liệu ngoài chợ có thể chênh so với bảng thành phần. Vì vậy, những con số trên phù hợp để mình đọc và đối chiếu, thay vì coi đó là con số cố định cho mọi loại đậu, hạt mình mua.</p>
 <h2 id="hieu-lam-hay-gap-con-so-do-la-cua-hat-kho-khong-ph">Hiểu lầm hay gặp: con số đó là của hạt khô, không phải bát chè</h2>
@@ -310,7 +318,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Với đậu khô, Harvard gợi ý ngâm ít nhất 3 giờ rồi nấu chín. Đây là một mẹo đơn giản có thể đưa vào bước chuẩn bị trước khi nấu các món từ đậu.</p>
 <p>Khi chọn lạc và các loại hạt rang dùng trong bữa ăn, chị có thể ưu tiên loại ít muối, ít đường. Lạc, các loại hạt và đậu nành cũng có thể gây dị ứng ở một số người, nên đây là điểm cần lưu ý khi chuẩn bị món cho từng thành viên trong gia đình.</p>
 <p>Cuối cùng, khi đọc một con số về đạm, mình chỉ cần kiểm tra thêm một điều: thực phẩm đó đang được tính ở dạng khô hay đã nấu chín. Chỉ một chi tiết nhỏ này đã giúp bảng thành phần trở nên dễ hiểu hơn khi mang vào căn bếp hằng ngày.</p>
-<p>Nếu chị muốn hỏi thêm cách đưa đậu, hạt vào bữa ăn hằng ngày của cả nhà, chị nhắn Zalo IKI tại zalo.me/599407064751177637.</p>
+<p>Nếu chị muốn hỏi thêm cách đưa đậu, hạt vào bữa ăn hằng ngày của cả nhà, chị nhắn Zalo IKI tại <a href="https://zalo.me/599407064751177637">zalo.me/599407064751177637</a>.</p>
 <h2 id="nguon-tham-khao">Nguồn tham khảo</h2>
 <ul><li>Viện Dinh dưỡng, Bộ Y tế, <em>Bảng thành phần thực phẩm Việt Nam</em>, NXB Y học, 2007. https://www.fao.org/fileadmin/templates/food_composition/documents/pdf/VTN_FCT_2007.pdf</li><li>USDA FoodData Central, SR Legacy, phát hành 4/2018: đậu xanh hạt khô https://fdc.nal.usda.gov/food-details/174256/nutrients; đậu xanh luộc chín, không muối https://fdc.nal.usda.gov/food-details/174257/nutrients; đậu đen luộc chín, không muối https://fdc.nal.usda.gov/food-details/173735/nutrients; đậu nành luộc chín, không muối https://fdc.nal.usda.gov/food-details/174271/nutrients</li><li>Harvard T.H. Chan School of Public Health, The Nutrition Source, <em>Protein</em>. https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/</li><li>Harvard T.H. Chan School of Public Health, The Nutrition Source, <em>Legumes and Pulses</em>. https://nutritionsource.hsph.harvard.edu/legumes-pulses/</li></ul>
         </div>
@@ -394,13 +402,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-sdt{font-size:.92rem}
 #ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
-#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}
