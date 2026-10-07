@@ -27,7 +27,8 @@
     {"title": "Luộc rau thế nào để không mất chất", "url": "luoc-rau-the-nao-de-khong-mat-chat.html"},
     {"title": "Mỏi mắt, khô mắt vì màn hình", "url": "moi-mat-kho-mat-man-hinh.html"},
     {"title": "Khoai lang và củ quả giàu tinh bột", "url": "khoai-lang-va-cu-qua-giau-tinh-bot.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vitamin A là một trong những vi chất được nhắc nhiều nhất khi nói về đôi mắt, nhưng vai trò của nó rộng hơn thế: giữ cho lớp niêm mạc mũi họng và đường ruột nguyên vẹn, tham gia vào hoạt động của hệ miễn dịch, hỗ trợ tái tạo da và quá trình tăng trưởng ở trẻ.

@@ -56,7 +56,8 @@
       "title": "Chăm sóc sức khoẻ cho tài xế đường dài",
       "url": "suc-khoe-tai-xe-duong-dai.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi người làm việc ngoài trời nắng nóng nên ăn uống thế nào thường chỉ được đặt ra sau khi đã có chuyện: một người thợ chóng mặt phải ngồi xuống giữa buổi, một anh shipper về nhà đau đầu cả tối, một chị bán hàng ngoài chợ chuột rút liên tục. Trong khi đó, phần lớn những gì cần làm lại rất đơn giản và hoàn toàn có thể chuẩn bị từ sáng.

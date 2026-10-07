@@ -27,7 +27,8 @@
     {"title": "Uống đạm thực vật bị đầy bụng: vì sao và cách xử lý", "url": "uong-dam-thuc-vat-bi-day-bung.html"},
     {"title": "Bột đạm thực vật loại nào tốt", "url": "bot-dam-thuc-vat-loai-nao-tot.html"},
     {"title": "Sữa hạt và bột đạm thực vật khác nhau thế nào", "url": "sua-hat-va-bot-dam-thuc-vat-khac-nhau-the-nao.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Rất nhiều người mua hộp bột đạm về với quyết tâm rất cao, uống được ba ngày rồi cất vào góc tủ bếp. Lý do thường không nằm ở giá tiền hay ở việc họ hết động lực, mà đơn giản là ly nước khó uống. Bột lợn cợn, vị nhạt và hơi ngái, uống xong thấy đầy bụng. Trong khi đó, chỉ cần thay đổi vài chi tiết rất nhỏ trong **cách pha bột đạm thực vật cho dễ uống** là ly nước ấy trở nên hoàn toàn khác.

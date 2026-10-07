@@ -27,7 +27,8 @@
     {"title": "Rau thơm Việt và lợi ích sức khoẻ", "url": "rau-thom-viet-va-loi-ich-suc-khoe.html"},
     {"title": "Uống nước gừng ấm buổi sáng", "url": "uong-nuoc-gung-am-buoi-sang.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vài năm trở lại đây, lá tía tô đi từ rổ rau sống trên mâm cơm ra thẳng bình nước của rất nhiều gia đình. Người thì nấu để uống thay nước lọc, người thì uống mỗi sáng, người thì uống liên tục hàng tháng trời. Nhưng **uống nước lá tía tô có tốt không** — và quan trọng hơn, uống thế nào cho đúng — thì mỗi nơi nói một kiểu.

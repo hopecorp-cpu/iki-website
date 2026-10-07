@@ -27,7 +27,8 @@
     {"title": "Bữa tối nhẹ để dễ tiêu", "url": "bua-toi-nhe-de-tieu.html"},
     {"title": "Uống gì thay cà phê buổi sáng", "url": "uong-gi-thay-ca-phe-buoi-sang.html"},
     {"title": "Đầy bụng khó tiêu sau ăn", "url": "day-bung-kho-tieu-sau-an.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

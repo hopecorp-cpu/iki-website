@@ -27,7 +27,8 @@
     {"title": "Nhịp sinh học, giấc ngủ và ánh sáng", "url": "nhip-sinh-hoc-giac-ngu-va-anh-sang.html"},
     {"title": "Đi bộ sau ăn", "url": "di-bo-sau-an.html"},
     {"title": "Đầy bụng khó tiêu sau ăn", "url": "day-bung-kho-tieu-sau-an.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **ăn tối lúc mấy giờ là tốt nhất** nghe đơn giản nhưng lại là chỗ mà nếp sinh hoạt hiện đại và nhu cầu của cơ thể va nhau rõ nhất. Cơ thể muốn ăn sớm, nghỉ sớm. Còn lịch làm việc, giờ tan tầm, đường tắc và bữa cơm chờ cả nhà về đông đủ lại đẩy bữa tối lùi dần — nhiều gia đình bây giờ ăn tối lúc 20h, thậm chí 21h, rồi lên giường trong tình trạng bụng vẫn còn nặng.

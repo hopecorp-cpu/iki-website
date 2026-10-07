@@ -26,7 +26,8 @@
     {"title": "Bột đạm thực vật loại nào tốt", "url": "bot-dam-thuc-vat-loai-nao-tot.html"},
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Đứng trước kệ hàng và tự hỏi **đạm whey và đạm thực vật loại nào tốt hơn** là chuyện gần như ai cũng trải qua khi bắt đầu bổ sung đạm. Một bên là cái tên quen thuộc suốt hai chục năm trong giới tập gym. Một bên là nhóm sản phẩm đang lên nhanh, gắn với ăn chay, với tiêu hoá nhẹ nhàng, với xu hướng ăn xanh.

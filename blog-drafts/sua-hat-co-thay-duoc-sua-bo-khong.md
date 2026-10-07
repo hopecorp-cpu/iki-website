@@ -27,7 +27,8 @@
     {"title": "Sữa hạt và bột đạm thực vật khác nhau thế nào", "url": "sua-hat-va-bot-dam-thuc-vat-khac-nhau-the-nao.html"},
     {"title": "Người ăn chay bổ sung canxi thế nào", "url": "nguoi-an-chay-bo-sung-canxi.html"},
     {"title": "Uống sữa bị đau bụng nên uống gì thay thế", "url": "uong-sua-bi-dau-bung-nen-uong-gi-thay-the.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong nhiều gia đình Việt hiện nay, chiếc máy làm sữa hạt đã thay chỗ cho thùng sữa tươi trong tủ lạnh. Lý do rất chính đáng: nguyên liệu tự chọn, không đường, thơm ngon, và cảm giác lành hơn. Nhưng rồi câu hỏi vẫn quay lại vào một buổi tối nào đó, thường là khi ai đó trong nhà nhắc tới chuyện thiếu canxi: sữa hạt có thay được sữa bò không, hay chúng ta đang đổi một thứ tốt lấy một thứ chỉ ngon.

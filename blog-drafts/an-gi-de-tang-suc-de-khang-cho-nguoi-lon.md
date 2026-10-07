@@ -27,7 +27,8 @@
     {"title": "Chất xơ và lợi khuẩn đường ruột", "url": "chat-xo-loi-khuan-duong-ruot.html"},
     {"title": "Giấc ngủ chất lượng — nền tảng phục hồi", "url": "giac-ngu-chat-luong.html"},
     {"title": "Dị ứng thời tiết khi giao mùa", "url": "di-ung-thoi-tiet-giao-mua.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cứ mỗi lần trở trời, câu hỏi quen thuộc lại quay lại: **ăn gì để tăng sức đề kháng cho người lớn**? Người thì mua cam về vắt nước cả tuần, người mua hộp vitamin C sủi, người nghe mách gì uống nấy. Rồi vài tuần sau vẫn hắt hơi sổ mũi như thường, và kết luận rút ra là "chắc cơ địa mình yếu".

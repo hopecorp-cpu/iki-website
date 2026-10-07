@@ -27,7 +27,8 @@
     {"title": "Giấc ngủ chất lượng", "url": "giac-ngu-chat-luong.html"},
     {"title": "Các loại hạt dinh dưỡng", "url": "cac-loai-hat-dinh-duong.html"},
     {"title": "Đạm cho người trên 50 giữ khối cơ", "url": "dam-cho-nguoi-tren-50-giu-khoi-co.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Dạo này mẹ hay quên lắm." Câu này xuất hiện trong rất nhiều gia đình Việt khi cha mẹ bước qua tuổi 60. Quên tên người quen, quên vừa cất đồ ở đâu, kể lại một câu chuyện đã kể hôm qua. Phần lớn những chuyện đó là thay đổi bình thường theo tuổi, và câu hỏi tiếp theo luôn là: **thực phẩm tốt cho trí nhớ người lớn tuổi** gồm những gì, ăn gì để giữ đầu óc minh mẫn lâu hơn.

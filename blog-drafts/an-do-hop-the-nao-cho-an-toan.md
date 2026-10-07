@@ -26,7 +26,8 @@
     {"title": "Rau củ đông lạnh có tốt như rau tươi không", "url": "rau-cu-dong-lanh-co-tot-nhu-rau-tuoi-khong.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Ăn mì tôm thế nào cho đỡ hại", "url": "an-mi-tom-the-nao-cho-do-hai.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong tủ bếp nhà nào cũng có vài hộp: cá ngừ, cá mòi sốt cà, ngô ngọt, đậu, sữa đặc, pate. Chúng nằm đó cho những hôm về muộn, những ngày mưa bão không ra chợ được, những chuyến đi xa. Nhưng cùng lúc, đồ hộp cũng mang tiếng xấu — nhiều người tin rằng "đồ hộp là mất hết chất" hoặc "ăn đồ hộp là độc".

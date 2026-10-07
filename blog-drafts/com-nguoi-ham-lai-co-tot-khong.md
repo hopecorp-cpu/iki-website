@@ -26,7 +26,8 @@
     {"title": "Chất xơ và lợi khuẩn đường ruột", "url": "chat-xo-loi-khuan-duong-ruot.html"},
     {"title": "Chỉ số đường huyết của thực phẩm", "url": "chi-so-duong-huyet-thuc-pham.html"},
     {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nồi cơm nấu dư một chút là chuyện gần như ngày nào cũng xảy ra trong bếp Việt. Và cùng với nó là một câu hỏi quen thuộc: **cơm nguội hâm lại có tốt không**, hay tốt nhất nên bỏ đi cho lành? Trên mạng có đủ loại thông tin trái chiều — người bảo cơm nguội sinh chất độc, người lại khoe cơm nguội tốt hơn cơm nóng nhờ "tinh bột kháng". Bài viết này tách bạch phần nào có cơ sở, phần nào là tin đồn, và quan trọng nhất là chỉ ra đâu mới là rủi ro thật mà bạn cần để ý trong bếp nhà mình.

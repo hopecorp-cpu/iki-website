@@ -56,7 +56,8 @@
       "title": "Cần bao nhiêu đạm mỗi ngày là đủ cho người Việt",
       "url": "can-bao-nhieu-dam-moi-ngay.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

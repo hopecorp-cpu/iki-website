@@ -27,7 +27,8 @@
     {"title": "Thực phẩm giàu sắt cho bữa ăn hằng ngày", "url": "thuc-pham-giau-sat.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày là đủ", "url": "can-bao-nhieu-dam-moi-ngay.html"},
     {"title": "Chăm da từ bên trong — bắt đầu từ bữa ăn", "url": "cham-da-tu-ben-trong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có những tín hiệu sức khoẻ nhỏ đến mức chúng ta bỏ qua hàng năm trời. Móng tay là một trong số đó. Nó gãy ngang khi bạn mở nắp hộp, tách lớp ở đầu móng, xước dọc thành sợi, hoặc đơn giản là không bao giờ dài ra được quá vài milimét trước khi sứt. Đa số mọi người xử lý bằng cách cắt ngắn hơn, sơn phủ lên, rồi quên đi. Số ít dừng lại và tự hỏi: **móng tay giòn dễ gãy thiếu chất gì**, và liệu bữa ăn hằng ngày có liên quan gì đến chuyện này không.

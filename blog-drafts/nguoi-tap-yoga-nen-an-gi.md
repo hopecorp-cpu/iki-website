@@ -27,7 +27,8 @@
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Vận động nhẹ mỗi ngày", "url": "van-dong-nhe-moi-ngay.html"},
     {"title": "Thư giãn cân bằng bằng hơi thở", "url": "thu-gian-can-bang-hoi-tho.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Yoga là môn mà cảm giác cơ thể quyết định gần như toàn bộ trải nghiệm buổi tập. Một bữa ăn sai giờ có thể biến bài tập gập người thành cực hình, còn tập với bụng rỗng quá lâu lại khiến bạn run tay ở tư thế thăng bằng. Vì thế câu hỏi **người tập yoga nên ăn gì** không phải chuyện phụ — nó ảnh hưởng trực tiếp tới chất lượng từng buổi tập.

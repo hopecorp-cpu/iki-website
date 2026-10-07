@@ -56,7 +56,8 @@
       "title": "Pha bột đạm thực vật với gì cho dễ uống?",
       "url": "pha-bot-dam-thuc-vat-voi-gi-cho-de-uong.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

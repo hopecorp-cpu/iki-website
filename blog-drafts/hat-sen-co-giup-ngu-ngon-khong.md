@@ -27,7 +27,8 @@
     {"title": "Giấc ngủ chất lượng", "url": "giac-ngu-chat-luong.html"},
     {"title": "Màn hình trước giờ ngủ", "url": "man-hinh-truoc-gio-ngu.html"},
     {"title": "Ngâm chân nước ấm trước khi ngủ", "url": "ngam-chan-nuoc-am-truoc-khi-ngu.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

@@ -26,7 +26,8 @@
     {"title": "Trào ngược dạ dày", "url": "trao-nguoc-da-day.html"},
     {"title": "Bữa tối nhẹ để tiêu", "url": "bua-toi-nhe-de-tieu.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một kiểu buổi sáng không dễ chịu chút nào: vừa mở mắt đã thấy miệng khô khốc, lưỡi dính, và một vị đắng nhàn nhạt đọng lại mãi tới lúc đánh răng xong. Nhiều người sống chung với nó hàng tháng trời, cho rằng đó là chuyện tuổi tác hoặc "cơ địa nó thế".

@@ -27,7 +27,8 @@
     {"title": "Đường và đồ chế biến sẵn", "url": "duong-va-do-che-bien-san.html"},
     {"title": "Chọn dầu ăn lành mạnh", "url": "chon-dau-an-lanh-manh.html"},
     {"title": "Đậu nành và nội tiết tố nữ", "url": "dau-nanh-va-noi-tiet-to-nu.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

@@ -27,7 +27,8 @@
     {"title": "5 thể tạng theo Đông y: bạn thuộc kiểu nào?", "url": "5-the-tang-theo-dong-y.html"},
     {"title": "Ăn theo mùa và thể tạng", "url": "an-theo-mua-va-the-tang.html"},
     {"title": "8 nhóm thực phẩm lành mạnh", "url": "8-nhom-thuc-pham-lanh-manh.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bước vào bất kỳ căn bếp Việt nào, bạn sẽ thấy gừng, nghệ, sả, tỏi, hành nằm sẵn trong giỏ gia vị. Chúng làm nên hương vị đặc trưng của ẩm thực Việt — từ nồi cá kho thơm nghệ, bát canh gừng ấm ngày lạnh, đến đĩa thịt ướp sả nướng dậy mùi. Nhưng gia vị Việt không chỉ là hương vị: chúng còn góp phần dinh dưỡng cho bữa ăn và gắn với biết bao kinh nghiệm dân gian được truyền lại qua các thế hệ.

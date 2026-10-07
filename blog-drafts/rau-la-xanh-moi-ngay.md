@@ -53,7 +53,8 @@
     {"title": "Các loại hạt: nguồn dinh dưỡng nhỏ mà chất", "url": "cac-loai-hat-dinh-duong.html"},
     {"title": "Ăn sáng thế nào cho một ngày tràn năng lượng", "url": "an-sang-tran-nang-luong.html"},
     {"title": "Ăn theo mùa và thể tạng", "url": "an-theo-mua-va-the-tang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

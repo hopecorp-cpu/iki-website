@@ -27,7 +27,8 @@
     {"title": "Người ăn chay bổ sung sắt thế nào", "url": "nguoi-an-chay-bo-sung-sat-the-nao.html"},
     {"title": "Có nên uống vitamin tổng hợp mỗi ngày", "url": "co-nen-uong-vitamin-tong-hop-moi-ngay.html"},
     {"title": "Chọn thực phẩm bổ sung đúng cách", "url": "chon-thuc-pham-bo-sung-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong ngăn kéo của rất nhiều gia đình Việt hiện nay có ít nhất hai lọ: một lọ canxi và một lọ sắt. Người mua chúng thường rất chăm chỉ, uống đều mỗi sáng, nhưng lại uống cả hai cùng một lúc cho tiện. Đó chính là chỗ mà công sức bị hao hụt: **uống canxi và sắt cách nhau bao lâu** không phải câu hỏi vụn vặt, mà quyết định phần lớn việc cơ thể nhận được bao nhiêu trong số những gì bạn đưa vào.

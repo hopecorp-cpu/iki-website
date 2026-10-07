@@ -48,7 +48,8 @@
     {"title": "Thói quen buổi sáng của người sống khoẻ", "url": "thoi-quen-buoi-sang.html"},
     {"title": "Uống nước đúng cách mỗi ngày theo thể tạng", "url": "uong-nuoc-dung-cach-moi-ngay.html"},
     {"title": "Lộ trình cho người mới bắt đầu (6 chặng)", "url": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

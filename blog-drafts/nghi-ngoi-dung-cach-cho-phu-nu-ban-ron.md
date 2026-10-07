@@ -56,7 +56,8 @@
       "title": "Ngồi thiền 5 phút mỗi ngày cho người mới bắt đầu",
       "url": "ngoi-thien-5-phut-moi-ngay.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

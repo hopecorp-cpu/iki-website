@@ -26,7 +26,8 @@
     {"title": "Trà hoa cúc có tác dụng gì, uống lúc nào", "url": "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao.html"},
     {"title": "Tăng sức đề kháng cho trẻ nên ăn gì", "url": "tang-suc-de-khang-cho-tre-nen-an-gi.html"},
     {"title": "Trẻ hay rối loạn tiêu hoá nên ăn gì", "url": "tre-hay-roi-loan-tieu-hoa-nen-an-gi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Buổi tối trời trở lạnh, cả nhà ngồi quanh ấm trà hoa cúc thơm dịu, và đứa nhỏ bốn tuổi chìa cốc đòi uống cùng. Ông bà bảo "trà thảo mộc lành, cho cháu uống chút cho ấm bụng", còn bạn thì phân vân: **trẻ em uống trà thảo mộc được không**, mấy tuổi thì được, và bao nhiêu là đủ?

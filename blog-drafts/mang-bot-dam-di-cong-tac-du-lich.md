@@ -56,7 +56,8 @@
       "title": "Mua hộp bột đạm rồi bỏ quên: bốn lý do thật và cách dùng hết hộp",
       "url": "mua-hop-bot-dam-roi-bo-quen-vi-sao.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

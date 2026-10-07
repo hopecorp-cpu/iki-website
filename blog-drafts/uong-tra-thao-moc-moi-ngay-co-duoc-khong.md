@@ -26,7 +26,8 @@
     {"title": "Uống trà thảo mộc buổi tối có mất ngủ không", "url": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html"},
     {"title": "Bà bầu uống trà thảo mộc được không", "url": "ba-bau-uong-tra-thao-moc-duoc-khong.html"},
     {"title": "Cách pha trà túi lọc đúng cách", "url": "cach-pha-tra-tui-loc-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **uống trà thảo mộc mỗi ngày** có được không thường xuất hiện đúng vào lúc người ta vừa quyết định thay ly nước ngọt buổi chiều bằng một thứ nhẹ hơn. Mua về rồi mới nghĩ tới: uống hằng ngày thì có sao không, bao nhiêu là đủ, uống liên tục vài tháng có phải nghỉ không, và mình có nằm trong nhóm cần cẩn thận không.

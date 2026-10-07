@@ -60,7 +60,8 @@
       "title": "Thức uống ấm từ trà thảo mộc",
       "url": "thuc-uong-am-tra-thao-moc.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong nhiều gia đình Việt, ấm nước đậu đen rang là thứ gần như mặc định của mùa hè. Rang một mẻ đậu, nấu một ấm to, để nguội rót vào bình, cả nhà uống dần cả ngày thay nước lọc. Nó thơm, rẻ, dễ làm, và mang cảm giác "lành" — thứ cảm giác khiến ít ai đặt câu hỏi về liều lượng.

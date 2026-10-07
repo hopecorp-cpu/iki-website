@@ -27,7 +27,8 @@
     {"title": "Đạm thực vật và đạm động vật", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Sữa hạt tự làm tại nhà", "url": "sua-hat-tu-lam-tai-nha.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

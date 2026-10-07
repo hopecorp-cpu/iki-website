@@ -26,7 +26,8 @@
     {"title": "Cách chia đĩa bữa ăn cân bằng", "url": "cach-chia-dia-bua-an-can-bang.html"},
     {"title": "Ăn chậm nhai kỹ và những thay đổi nhỏ", "url": "an-cham-nhai-ky.html"},
     {"title": "Nhật ký 30 giây trong ứng dụng IKI", "url": "app-iki-nhat-ky-30-giay-phan-tich.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một câu hỏi mà gần như ai quan tâm đến sức khoẻ cũng từng tự hỏi: "Rốt cuộc mình đang ăn gì mỗi ngày?" Nghe thì buồn cười, vì ai chẳng biết mình ăn gì. Nhưng thử làm một việc: ngay bây giờ, hãy kể lại chính xác mọi thứ bạn đã ăn và uống trong ngày hôm qua — cả bữa chính, bữa phụ, ly cà phê, miếng bánh ai đó mời, ngụm nước ngọt lúc họp.

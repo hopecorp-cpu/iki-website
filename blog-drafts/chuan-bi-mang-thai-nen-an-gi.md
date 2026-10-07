@@ -27,7 +27,8 @@
     {"title": "Thực phẩm giàu i-ốt", "url": "thuc-pham-giau-i-ot.html"},
     {"title": "Omega-3 từ thực vật", "url": "omega-3-tu-thuc-vat.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Rất nhiều cặp vợ chồng bắt đầu quan tâm đến dinh dưỡng khi que thử đã hai vạch. Nhưng có một điều mà các bác sĩ sản khoa hay nhắc: nhiều việc quan trọng nhất lại cần làm **trước** thời điểm đó vài tháng. Ống thần kinh của thai nhi — nền móng của não và tuỷ sống — hình thành trong khoảng tuần thứ 3 đến tuần thứ 4 của thai kỳ, thời điểm mà phần lớn người mẹ còn chưa biết mình đã có thai.

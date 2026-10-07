@@ -27,7 +27,8 @@
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Cơm hộp mang đi làm đủ chất và an toàn", "url": "com-hop-mang-di-lam-du-chat-an-toan.html"},
     {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Gần như bếp nhà nào cũng có một chồng hộp nhựa: hộp mua bộ, hộp tận dụng từ đồ ăn đặt về, hộp kem, hộp sữa chua. Chúng tiện, nhẹ, rẻ và không sợ vỡ. Nhưng cứ mỗi lần trút bát canh còn nóng hổi vào hộp rồi đậy nắp, nhiều người lại thoáng nghĩ: liệu có sao không?

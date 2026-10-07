@@ -27,7 +27,8 @@
     {"title": "Ăn chậm nhai kỹ — thói quen nhỏ, thay đổi lớn", "url": "an-cham-nhai-ky.html"},
     {"title": "Đầy bụng khó tiêu sau ăn", "url": "day-bung-kho-tieu-sau-an.html"},
     {"title": "Mâm cơm gia đình nhiều thế hệ", "url": "mam-com-gia-dinh-nhieu-the-he.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cứ đến khoảng tháng tám, những chiếc hộp vuông lại bắt đầu xuất hiện. Từ công ty mang về một hộp, họ hàng biếu một hộp, đối tác gửi một hộp nữa. Chưa tới rằm, trên nóc tủ nhà bạn đã có bốn năm hộp bánh xếp chồng lên nhau — và câu hỏi hiện ra rất nhanh: **ăn bánh trung thu thế nào cho đỡ ngán**, cho nhẹ bụng, mà vẫn giữ được không khí của mùa trăng.

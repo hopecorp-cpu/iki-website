@@ -26,7 +26,8 @@
     {"title": "Thực phẩm giàu sắt", "url": "thuc-pham-giau-sat.html"},
     {"title": "Ăn chay đủ chất và cân bằng", "url": "an-chay-du-chat-can-bang.html"},
     {"title": "Đọc nhãn dinh dưỡng thực phẩm", "url": "doc-nhan-dinh-duong-thuc-pham.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có những vi chất mà cơ thể chỉ cần một lượng cực nhỏ, nhưng thiếu thì cả hệ thống lại lệch nhịp — i-ốt là một trong số đó. Cả đời một người chỉ cần khoảng một thìa cà phê i-ốt, nhưng phải rải đều qua từng ngày chứ không thể nạp một lần cho xong. Bài viết này điểm qua các **thực phẩm giàu i-ốt** quen thuộc trong bữa cơm Việt, nhu cầu mỗi ngày theo khuyến nghị hiện hành, cách dùng muối i-ốt sao cho không mất chất, cùng những nhóm người dễ ăn thiếu mà không hay biết.

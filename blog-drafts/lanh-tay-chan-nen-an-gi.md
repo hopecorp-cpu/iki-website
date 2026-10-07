@@ -45,7 +45,8 @@
     { "title": "Uống nước đúng cách mỗi ngày theo thể tạng", "url": "uong-nuoc-dung-cach-moi-ngay.html" },
     { "title": "Tê bì chân tay và thói quen sinh hoạt", "url": "te-bi-chan-tay.html" },
     { "title": "Giữ ấm mùa đông cho cả nhà", "url": "giu-am-mua-dong.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

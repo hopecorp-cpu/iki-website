@@ -26,7 +26,8 @@
     {"title": "Luộc rau thế nào để không mất chất", "url": "luoc-rau-the-nao-de-khong-mat-chat.html"},
     {"title": "Thực phẩm giàu sắt", "url": "thuc-pham-giau-sat.html"},
     {"title": "Ăn chay đủ chất và cân bằng", "url": "an-chay-du-chat-can-bang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nếu bạn từng đọc tờ hướng dẫn dinh dưỡng cho bà bầu, chắc chắn bạn đã gặp hai chữ "axit folic". Nhưng đây không phải vi chất chỉ dành cho thai kỳ — nó cần cho mọi người, mỗi ngày, ở mọi lứa tuổi, vì tham gia vào quá trình tạo tế bào mới của cơ thể. Bài viết này liệt kê những **thực phẩm giàu axit folic** dễ tìm trong chợ Việt, nói rõ nhu cầu mỗi ngày, chỉ ra cách nấu khiến bạn mất chất một cách đáng tiếc, và điểm danh những nhóm người cần chú ý hơn cả.

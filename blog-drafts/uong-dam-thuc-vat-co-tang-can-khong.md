@@ -25,7 +25,8 @@
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Đạm thực vật và đạm động vật khác nhau ra sao", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Kiểm soát cân nặng lành mạnh", "url": "kiem-soat-can-nang-lanh-manh.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Đây là câu hỏi được nhắn tới nhiều nhất mỗi khi ai đó cầm hộp bột đạm lên: **uống đạm thực vật có tăng cân không?** Người muốn giữ dáng thì sợ uống vào sẽ mập. Người gầy muốn tăng cân thì hy vọng uống vào sẽ lên ký. Thú vị là cả hai nhóm đều đang tìm câu trả lời ở sai chỗ.

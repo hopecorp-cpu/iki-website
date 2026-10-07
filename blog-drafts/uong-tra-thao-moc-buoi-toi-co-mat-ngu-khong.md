@@ -27,7 +27,8 @@
     {"title": "Ăn gì trước khi ngủ để ngủ ngon", "url": "an-gi-truoc-khi-ngu-de-ngu-ngon.html"},
     {"title": "Màn hình trước giờ ngủ", "url": "man-hinh-truoc-gio-ngu.html"},
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **uống trà thảo mộc buổi tối có mất ngủ không** xuất hiện đều đặn mỗi khi ai đó muốn thay ly nước ngọt hay cốc cà phê chiều muộn bằng một thứ dịu hơn. Nỗi lo rất dễ hiểu: chúng ta lớn lên với lời dặn "uống trà tối là thức trắng đêm". Nhưng lời dặn đó nói về trà xanh, trà mạn, trà đặc — những thứ làm từ lá cây chè. Trà thảo mộc lại là một câu chuyện khác hẳn. Bài viết này phân biệt rõ hai nhóm, chỉ ra năm lý do thật sự khiến nhiều người vẫn trằn trọc sau tách trà tối, và gợi ý một nếp uống buổi tối vừa dễ chịu vừa không phá giấc ngủ.

@@ -26,7 +26,8 @@
     {"title": "Khó ngủ trằn trọc: xây lại nếp buổi tối", "url": "kho-ngu-tran-troc-nep-buoi-toi.html"},
     {"title": "Nhịp sinh học, giấc ngủ và ánh sáng", "url": "nhip-sinh-hoc-giac-ngu-va-anh-sang.html"},
     {"title": "Ngủ trưa phục hồi năng lượng", "url": "ngu-trua-phuc-hoi-nang-luong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **ngủ bao nhiêu tiếng là đủ theo độ tuổi** nghe đơn giản nhưng lại bị trả lời sai nhiều nhất bằng một con số duy nhất: 8 tiếng. Con số đó tiện để nhớ, nhưng nó là mức trung bình của một khoảng rộng, và khoảng đó thay đổi rất nhiều theo tuổi. Một em bé hai tuổi cần gần gấp đôi thời gian ngủ của bố mẹ. Một học sinh cấp ba cần nhiều hơn người đi làm khoảng một tiếng rưỡi mỗi đêm. Và ngay trong cùng một độ tuổi, người này thấy đủ với bảy tiếng trong khi người kia phải chín tiếng mới tỉnh táo.

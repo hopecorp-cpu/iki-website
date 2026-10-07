@@ -41,7 +41,8 @@
     { "title": "Trẻ em uống đạm thực vật được không?", "url": "tre-em-uong-dam-thuc-vat-duoc-khong.html" },
     { "title": "Cách pha bột đạm thực vật cho dễ uống", "url": "cach-pha-bot-dam-thuc-vat-cho-de-uong.html" },
     { "title": "Mâm cơm gia đình nhiều thế hệ", "url": "mam-com-gia-dinh-nhieu-the-he.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

@@ -27,7 +27,8 @@
     {"title": "Chất xơ và lợi khuẩn đường ruột", "url": "chat-xo-loi-khuan-duong-ruot.html"},
     {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày là đủ", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Yến mạch đã trở thành món ăn sáng quen thuộc với nhiều người Việt trong vài năm gần đây — tiện, nhanh, được xem là lành mạnh. Nhưng cũng có không ít người thử được một tuần rồi bỏ: ăn xong vẫn đói giữa buổi, ăn mãi thấy chán, hoặc bị đầy bụng khó chịu.

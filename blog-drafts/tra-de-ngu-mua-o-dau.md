@@ -41,7 +41,8 @@
     { "title": "Nghi thức trà buổi tối 15 phút: cách khép lại một ngày", "url": "nghi-thuc-tra-toi-15-phut.html" },
     { "title": "Đọc nhãn thực phẩm: hiểu bảng thành phần trong hai phút", "url": "doc-nhan-thuc-pham.html" },
     { "title": "Khó ngủ, trằn trọc: nếp buổi tối giúp dễ vào giấc", "url": "kho-ngu-tran-troc-nep-buoi-toi.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

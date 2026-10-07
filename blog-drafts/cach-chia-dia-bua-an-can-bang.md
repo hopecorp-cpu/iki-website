@@ -26,7 +26,8 @@
     {"title": "Nên ăn mấy bữa một ngày", "url": "nen-an-may-bua-mot-ngay.html"},
     {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"},
     {"title": "Đạm thực vật và đạm động vật khác nhau thế nào", "url": "dam-thuc-vat-va-dong-vat.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Phần lớn lời khuyên dinh dưỡng thất bại không phải vì sai, mà vì **quá phức tạp để duy trì**. Đếm calo từng món, cân từng gram thịt, tra bảng thành phần — làm được vài ngày rồi bỏ. Trong khi đó có một cách đơn giản đến mức gần như không cần nhớ gì: **cách chia đĩa bữa ăn cân bằng**.

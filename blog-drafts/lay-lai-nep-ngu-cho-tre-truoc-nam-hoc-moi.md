@@ -25,7 +25,8 @@
     {"title": "Bữa sáng cho trẻ đi học", "url": "an-sang-cho-tre-di-hoc.html"},
     {"title": "Giấc ngủ chất lượng", "url": "giac-ngu-chat-luong.html"},
     {"title": "Sức khoẻ học sinh mùa thi", "url": "suc-khoe-hoc-sinh-mua-thi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cứ vào khoảng giữa tháng 8, các gia đình có con đi học lại bước vào cùng một cuộc chiến quen thuộc. Sau ba tháng hè ngủ muộn dậy trưa, con đang ở một múi giờ hoàn toàn khác với thời khoá biểu sắp tới. Và bố mẹ bắt đầu tìm **cách lấy lại nếp ngủ cho trẻ trước năm học mới** — thường là vào đúng tuần cuối cùng, khi chỉ còn vài ngày.

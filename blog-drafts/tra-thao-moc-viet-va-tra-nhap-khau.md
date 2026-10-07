@@ -27,7 +27,8 @@
     {"title": "Cách pha trà túi lọc đúng cách", "url": "cach-pha-tra-tui-loc-dung-cach.html"},
     {"title": "Uống trà thảo mộc mỗi ngày có được không", "url": "uong-tra-thao-moc-moi-ngay-co-duoc-khong.html"},
     {"title": "Chọn trà thảo mộc cho dân văn phòng", "url": "chon-tra-thao-moc-cho-dan-van-phong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Đứng trước kệ trà trong siêu thị, câu hỏi hay bật ra nhất là: nên lấy hộp **trà thảo mộc Việt** giá vừa phải hay hộp nhập khẩu bao bì đẹp, giá gấp đôi? Câu hỏi đó nghe hợp lý nhưng thật ra đặt sai chỗ, vì cả hai nhóm đều có hàng trăm sản phẩm trải từ rất tốt tới rất tệ. So "hàng Việt" với "hàng nhập" giống như so "xe máy" với "ô tô" — không đủ cụ thể để ra quyết định.

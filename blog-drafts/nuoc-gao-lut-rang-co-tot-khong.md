@@ -28,7 +28,8 @@
     {"title": "Uống nước đậu đen rang có tốt không", "url": "uong-nuoc-dau-den-rang-co-tot-khong.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"},
     {"title": "Chỉ số đường huyết của thực phẩm: đọc thế nào cho dễ", "url": "chi-so-duong-huyet-thuc-pham.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong nhóm thức uống "lành" mà người Việt hay truyền tai nhau, nước gạo lứt rang có vị trí riêng: dễ làm, nguyên liệu rẻ, mùi thơm rang đặc trưng, uống ấm hay để nguội đều được, và quan trọng nhất là **không có caffeine** nên uống buổi chiều cũng không lo mất ngủ. Nhiều người pha một bình để trên bàn làm việc, uống dần cả ngày thay cho trà đá và nước ngọt.

@@ -26,7 +26,8 @@
     {"title": "Giải nhiệt mùa nắng nóng", "url": "giai-nhiet-mua-nang-nong.html"},
     {"title": "Đau mỏi cổ vai gáy", "url": "dau-moi-co-vai-gay.html"},
     {"title": "Ăn ngoài hàng quán thường xuyên nên ăn thế nào", "url": "an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 **Sức khoẻ cho tài xế công nghệ** và shipper là câu chuyện của một nghề có đặc thù rất riêng: thu nhập tính theo cuốc, nên mỗi phút nghỉ đều là tiền; nơi làm việc là đường phố, nên nắng mưa khói bụi là điều kiện lao động chứ không phải chuyện thời tiết; và giờ giấc ăn uống thì phụ thuộc vào lúc nào ứng dụng ngừng nổ đơn.

@@ -26,7 +26,8 @@
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Đọc hạn sử dụng thực phẩm đúng cách", "url": "doc-han-su-dung-thuc-pham-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bạn mua một hộp bột đạm về với ý định rất tốt: thêm một bữa phụ tử tế cho buổi sáng vội, bù phần đạm còn thiếu trong ngày ăn chay. Rồi hộp bột nằm cạnh bồn rửa, nắp đậy hờ, muỗng để luôn trong hộp sau khi vừa khuấy ly nước ấm. Ba tuần sau, bột kết thành mảng cứng, mùi không còn thơm như hôm đầu, và bạn phân vân không biết nên dùng tiếp hay bỏ.

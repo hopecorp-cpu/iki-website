@@ -28,7 +28,8 @@
     {"title": "Bụng dạ nhạy cảm nên ăn uống thế nào", "url": "bung-da-nhay-cam-nen-an-uong-the-nao.html"},
     {"title": "Thực phẩm lên men truyền thống Việt", "url": "thuc-pham-len-men-truyen-thong-viet.html"},
     {"title": "Ăn cay nhiều có hại không", "url": "an-cay-nhieu-co-hai-khong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Tỏi có mặt trong gần như mọi căn bếp Việt. Nhưng vài năm nay, bên cạnh việc dùng tỏi làm gia vị, xuất hiện thêm một thói quen khác: **ăn tỏi sống mỗi ngày** như một cách chăm sóc sức khoẻ — một tép buổi sáng lúc bụng đói, tỏi ngâm mật ong, tỏi đen ăn hằng ngày.

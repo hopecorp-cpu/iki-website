@@ -26,7 +26,8 @@
     {"title": "Gia vị Việt: gừng, nghệ, sả và cách dùng hằng ngày", "url": "gia-vi-viet-gung-nghe-sa.html"},
     {"title": "Vitamin C và sức đề kháng", "url": "vitamin-c-va-de-khang.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có những buổi sáng mở cửa ra, trời không mưa mà vẫn mờ đục; nhìn sang toà nhà cách vài trăm mét đã thấy nhoè. Điện thoại báo chỉ số chất lượng không khí ở mức đỏ. Đi làm về, cổ họng khô rát, mũi nghèn nghẹt, người uể oải hơn thường lệ. Câu hỏi tự nhiên bật ra trong đầu nhiều người là: **ăn gì tốt cho phổi khi không khí ô nhiễm?**

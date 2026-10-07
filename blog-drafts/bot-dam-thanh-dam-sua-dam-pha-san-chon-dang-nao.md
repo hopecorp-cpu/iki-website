@@ -56,7 +56,8 @@
       "title": "Giữ nếp ăn uống khi đi công tác, du lịch",
       "url": "giu-nep-an-khi-di-xa.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

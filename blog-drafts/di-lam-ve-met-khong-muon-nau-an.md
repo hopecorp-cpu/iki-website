@@ -56,7 +56,8 @@
       "title": "Ăn uống cho người bận rộn",
       "url": "an-uong-nguoi-ban-ron.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cảnh này quen với rất nhiều người: đi làm về mệt không muốn nấu ăn, mở tủ lạnh nhìn một lượt rồi đóng lại, cuối cùng là gói mì, là điện thoại đặt đồ, hoặc đơn giản là không ăn gì rồi lăn ra ngủ. Sáng hôm sau thức dậy vẫn thấy uể oải, và vòng lặp tiếp tục.

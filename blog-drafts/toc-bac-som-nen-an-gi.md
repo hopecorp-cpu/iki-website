@@ -45,7 +45,8 @@
     { "title": "Kẽm và thực phẩm giàu kẽm", "url": "kem-va-thuc-pham-giau-kem.html" },
     { "title": "Thực phẩm giàu chất chống oxy hoá", "url": "thuc-pham-giau-chat-chong-oxy-hoa.html" },
     { "title": "Vitamin B12 cho người ăn chay", "url": "vitamin-b12-nguoi-an-chay.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

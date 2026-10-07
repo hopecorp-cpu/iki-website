@@ -27,7 +27,8 @@
     {"title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html"},
     {"title": "Vitamin C và sức đề kháng", "url": "vitamin-c-va-de-khang.html"},
     {"title": "Chọn thực phẩm bổ sung đúng cách", "url": "chon-thuc-pham-bo-sung-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Ở tuổi ba mươi lăm, chị Hạnh bắt đầu thấy da mặt kém căng hơn, nhất là vào những tuần bận việc và ngủ muộn. Trong nhóm bạn, ai cũng nhắc tới collagen. Chị mua một hộp về, uống được ba tuần thì thấy chưa khác gì và bỏ dở. Ba tháng sau, một người bạn khác lại giới thiệu loại mới, đắt hơn, và câu hỏi cũ quay lại: uống collagen có tốt không, hay chỉ là tiền đổ vào một thứ mốt.

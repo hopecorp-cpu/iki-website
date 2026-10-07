@@ -27,7 +27,8 @@
     {"title": "Lộ trình chăm sóc sức khoẻ cho người cao tuổi", "url": "lo-trinh-nguoi-cao-tuoi.html"},
     {"title": "Thực phẩm tốt cho trí nhớ người lớn tuổi", "url": "thuc-pham-tot-cho-tri-nho-nguoi-lon-tuoi.html"},
     {"title": "Chăm sóc sức khoẻ răng miệng", "url": "suc-khoe-rang-mieng.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Mẹ ăn thêm miếng nữa đi" — câu nói lặp lại mỗi bữa cơm, và mỗi lần lại nhận về cái lắc đầu. Bát cơm vơi đi một phần ba rồi để đó. Người nhà lo, nấu nhiều món hơn, mua thêm đồ bổ, nhưng tình hình chẳng khá lên.

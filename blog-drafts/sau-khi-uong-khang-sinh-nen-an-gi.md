@@ -27,7 +27,8 @@
     {"title": "Thực phẩm lên men truyền thống Việt", "url": "thuc-pham-len-men-truyen-thong-viet.html"},
     {"title": "Người mới ốm dậy nên ăn gì", "url": "nguoi-moi-om-day-nen-an-gi.html"},
     {"title": "Táo bón và tiêu hoá khoẻ", "url": "tao-bon-tieu-hoa-khoe.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **sau khi uống kháng sinh nên ăn gì** thường xuất hiện đúng vào lúc người ta vừa uống viên thuốc cuối cùng và thở phào — rồi nhận ra bụng dạ mình vẫn chưa như cũ. Có người thấy đầy hơi, có người đi ngoài lỏng thêm vài ngày, có người chỉ thấy ăn không ngon miệng và mệt hơn bình thường.

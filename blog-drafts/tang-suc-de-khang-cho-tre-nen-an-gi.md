@@ -26,7 +26,8 @@
     {"title": "Vitamin C và đề kháng: hiểu cho đúng", "url": "vitamin-c-va-de-khang.html"},
     {"title": "Chất xơ và lợi khuẩn đường ruột", "url": "chat-xo-loi-khuan-duong-ruot.html"},
     {"title": "Ăn rau củ nhiều màu sắc mỗi ngày", "url": "an-rau-cu-nhieu-mau-sac.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Mùa chuyển giao thời tiết nào cũng vậy: nhóm chat lớp lại đầy tin nhắn "bé nhà em lại sốt", "bé nghỉ học ba hôm rồi". Và câu hỏi cha mẹ nào cũng đặt ra là: **tăng sức đề kháng cho trẻ nên ăn gì** để con đỡ ốm vặt hơn? Bài viết này không hứa một món ăn thần kỳ — vì không có món nào như vậy. Thay vào đó, chúng tôi đi vào thứ thực sự tạo khác biệt: cấu trúc bữa ăn hằng ngày, những vi chất trẻ Việt hay thiếu, cách đưa rau vào bữa của một đứa trẻ khó tính, và ba nền tảng ngoài mâm cơm mà nhiều gia đình bỏ quên.

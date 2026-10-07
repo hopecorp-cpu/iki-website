@@ -45,7 +45,8 @@
     { "title": "Uống nước đúng cách mỗi ngày theo thể tạng", "url": "uong-nuoc-dung-cach-moi-ngay.html" },
     { "title": "Giấc ngủ chất lượng: dựng lại nếp ngủ từng bước", "url": "giac-ngu-chat-luong.html" },
     { "title": "Ăn gì để giảm căng thẳng lo âu", "url": "an-gi-de-giam-cang-thang-lo-au.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

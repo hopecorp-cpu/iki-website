@@ -60,7 +60,8 @@
       "title": "Thức uống ấm từ trà thảo mộc",
       "url": "thuc-uong-am-tra-thao-moc.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Mùa nắng, gần như nhà nào ở Việt Nam cũng có một hũ bột sắn dây trong bếp. Người ta pha một ly cho đứa nhỏ vừa đi học về, pha cho ông bà lúc trời oi, pha cho chính mình khi thấy trong người hâm hấp khó chịu. Nó rẻ, dễ mua, dễ pha, lại gắn với ký ức tuổi thơ nên hầu như không ai đặt câu hỏi. Nhưng khi có người uống mỗi ngày suốt cả mùa hè rồi thấy bụng ậm ạch, đi ngoài lỏng, thì câu hỏi mới bật ra: uống bột sắn dây có tốt không, và tốt tới mức nào thì dừng?

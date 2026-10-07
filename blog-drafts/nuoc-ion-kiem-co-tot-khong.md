@@ -27,7 +27,8 @@
     {"title": "Chọn thực phẩm bổ sung đúng cách", "url": "chon-thuc-pham-bo-sung-dung-cach.html"},
     {"title": "Uống nước gừng ấm buổi sáng", "url": "uong-nuoc-gung-am-buoi-sang.html"},
     {"title": "Uống trà đúng cách", "url": "uong-tra-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vài năm gần đây, máy lọc nước ion kiềm xuất hiện dày đặc trong các buổi giới thiệu sản phẩm, hội thảo sức khoẻ và cả trong nhóm chat gia đình. Mức giá thường không nhỏ, từ vài chục đến hơn trăm triệu đồng, đi kèm những lời giới thiệu rất hấp dẫn về khả năng cân bằng cơ thể. Câu hỏi mà nhiều người gửi về cho đội ngũ IKI cũng luôn là câu ngắn nhất: nước ion kiềm có tốt không, và có đáng bỏ tiền ra mua không.

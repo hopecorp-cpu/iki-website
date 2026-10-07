@@ -25,7 +25,8 @@
     {"title": "Ăn chậm nhai kỹ — thói quen nhỏ, khác biệt lớn", "url": "an-cham-nhai-ky.html"},
     {"title": "Táo bón và tiêu hoá khoẻ", "url": "tao-bon-tieu-hoa-khoe.html"},
     {"title": "Thực phẩm lên men truyền thống Việt", "url": "thuc-pham-len-men-truyen-thong-viet.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một kiểu người mà bữa cơm nào cũng phải dè chừng: ăn bát bún ở quán quen thì ổn, đổi sang quán khác là bụng sôi ùng ục; uống ly sữa buổi sáng là cả buổi thấy nặng bụng; đi ăn tiệc về là đêm trằn trọc vì đầy hơi. **Bụng dạ nhạy cảm nên ăn uống thế nào** là câu hỏi họ đã tự hỏi hàng trăm lần, và câu trả lời thường nhận được lại rất chung chung: "ăn nhẹ thôi", "kiêng đồ dầu mỡ".

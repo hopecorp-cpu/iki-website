@@ -45,7 +45,8 @@
     { "title": "Trẻ biếng ăn phải làm sao", "url": "tre-bieng-an-phai-lam-sao.html" },
     { "title": "Lộ trình chăm sóc cho người cao tuổi", "url": "lo-trinh-nguoi-cao-tuoi.html" },
     { "title": "Ăn giảm muối cho cả nhà", "url": "an-giam-muoi.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

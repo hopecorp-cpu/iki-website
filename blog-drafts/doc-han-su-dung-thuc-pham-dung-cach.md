@@ -25,7 +25,8 @@
     {"title": "Đọc nhãn dinh dưỡng thực phẩm", "url": "doc-nhan-dinh-duong-thuc-pham.html"},
     {"title": "Rã đông thực phẩm đúng cách", "url": "ra-dong-thuc-pham-dung-cach.html"},
     {"title": "Cơm nguội hâm lại có tốt không", "url": "com-nguoi-ham-lai-co-tot-khong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có hai kiểu người trong bếp. Một kiểu thấy quá hạn một ngày là bỏ ngay không nghĩ ngợi. Kiểu kia mở hộp ra ngửi, thấy không sao thì ăn tiếp, quá hạn cả tháng cũng được. Điều thú vị là **cả hai đều đúng trong một số trường hợp và đều sai trong số còn lại** — bởi vì "hạn sử dụng" không phải một khái niệm duy nhất, mà là ít nhất hai khái niệm rất khác nhau bị gọi chung một tên.

@@ -56,7 +56,8 @@
       "title": "Đọc nhãn dinh dưỡng thực phẩm",
       "url": "doc-nhan-dinh-duong-thuc-pham.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

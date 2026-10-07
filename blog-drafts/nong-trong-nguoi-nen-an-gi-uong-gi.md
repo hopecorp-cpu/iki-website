@@ -27,7 +27,8 @@
     {"title": "Ăn theo mùa và thể tạng", "url": "an-theo-mua-va-the-tang.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"},
     {"title": "Minh triết ăn uống âm dương", "url": "minh-triet-an-uong-am-duong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Dạo này tôi nóng trong người" — câu này quen đến mức gần như ai cũng từng nói hoặc từng nghe. Nó thường đi kèm một loạt cảm giác rất cụ thể: người bức bối khó chịu, miệng khô, môi nứt, nổi mụn ở mặt hoặc lưng, hay bị nhiệt miệng, ngủ không sâu vào những đêm oi bức, đi ngoài khó.

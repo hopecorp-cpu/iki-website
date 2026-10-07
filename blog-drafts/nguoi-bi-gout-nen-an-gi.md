@@ -28,7 +28,8 @@
     {"title": "Đạm thực vật và đạm động vật khác nhau thế nào", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Sau khi uống rượu bia nên ăn gì", "url": "sau-khi-uong-ruou-bia-nen-an-gi.html"},
     {"title": "Đọc nhãn dinh dưỡng thực phẩm", "url": "doc-nhan-dinh-duong-thuc-pham.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **người bị gout nên ăn gì** thường xuất hiện ngay sau lần đầu tiên bị cơn đau khớp ngón chân cái hành hạ giữa đêm. Và câu trả lời mà nhiều người nhận được lại là một danh sách kiêng khem dài đến mức gần như không còn gì để ăn: kiêng thịt, kiêng cá, kiêng tôm cua, kiêng đậu, kiêng nấm, kiêng măng, kiêng cả súp lơ.

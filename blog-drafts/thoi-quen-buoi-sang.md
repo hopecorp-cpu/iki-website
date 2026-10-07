@@ -29,7 +29,8 @@
     {"title": "Vận động nhẹ mỗi ngày", "url": "van-dong-nhe-moi-ngay.html"},
     {"title": "Giấc ngủ chất lượng", "url": "giac-ngu-chat-luong.html"},
     {"title": "Lộ trình cho người mới bắt đầu (6 chặng)", "url": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cách bạn bắt đầu buổi sáng thường định hình phần lớn năng lượng và tâm trạng cho cả ngày. Không phải ngẫu nhiên mà nhiều người sống khoẻ đều có một "nghi thức" buổi sáng của riêng họ — không cầu kỳ, không tốn nhiều thời gian, nhưng đều đặn. Bài viết này chia sẻ bảy thói quen buổi sáng đơn giản, một lịch mẫu 20 phút để bạn hình dung, cách chọn thói quen hợp với thể tạng của mình, cùng bí quyết duy trì để chúng thật sự trở thành nếp sống bền vững, giúp mỗi ngày của bạn khởi đầu nhẹ nhõm hơn.

@@ -27,7 +27,8 @@
     {"title": "Vitamin B12 cho người ăn chay", "url": "vitamin-b12-nguoi-an-chay.html"},
     {"title": "Người ăn chay bổ sung canxi thế nào", "url": "nguoi-an-chay-bo-sung-canxi.html"},
     {"title": "Thực phẩm giàu sắt và cách hấp thu tốt hơn", "url": "thuc-pham-giau-sat.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Ăn chay ngày rằm và mùng một là một trong những nếp sinh hoạt bền bỉ nhất của người Việt. Nhiều gia đình duy trì nếp này qua nhiều thế hệ, không cần ai nhắc: đến ngày là mâm cơm chuyển sang chay, nhẹ nhàng, thanh đạm, gắn với lòng thành và với mong muốn sống tử tế hơn với muôn loài.

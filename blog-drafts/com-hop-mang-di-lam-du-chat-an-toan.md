@@ -26,7 +26,8 @@
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Cơm nguội hâm lại có tốt không", "url": "com-nguoi-ham-lai-co-tot-khong.html"},
     {"title": "Ăn ngoài hàng quán thường xuyên nên ăn thế nào", "url": "an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 **Cơm hộp mang đi làm** là lựa chọn của rất nhiều người đi làm ở Việt Nam, và lý do thường bắt đầu từ tiền: một hộp cơm tự nấu rẻ hơn đáng kể so với cơm quán. Nhưng chỉ sau vài tuần, hầu hết mọi người phát hiện ra lý do lớn hơn để tiếp tục — họ kiểm soát được mình ăn gì, ăn bao nhiêu dầu mỡ, bao nhiêu rau, và buổi chiều làm việc không còn nặng nề như trước.

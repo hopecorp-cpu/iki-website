@@ -26,7 +26,8 @@
     {"title": "Các loại hạt dinh dưỡng", "url": "cac-loai-hat-dinh-duong.html"},
     {"title": "Thực phẩm giàu i-ốt", "url": "thuc-pham-giau-i-ot.html"},
     {"title": "Ăn bao nhiêu hạt mỗi ngày là đủ", "url": "an-bao-nhieu-hat-moi-ngay-la-du.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong nhóm vi chất, selen thuộc loại ít được nhắc tên. Sắt, canxi, kẽm, vitamin D đều quen thuộc; còn selen thì phần lớn chúng ta chỉ gặp khi đọc bảng thành phần trên một hộp viên bổ sung. Vậy mà cơ thể cần nó mỗi ngày, và điều thú vị là **nhu cầu về selen rất nhỏ nhưng khoảng cách giữa "đủ" và "quá nhiều" lại hẹp một cách bất ngờ**.

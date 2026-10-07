@@ -27,7 +27,8 @@
     {"title": "Sữa chua và lợi khuẩn sống", "url": "sua-chua-va-loi-khuan-song.html"},
     {"title": "Trẻ biếng ăn phải làm sao", "url": "tre-bieng-an-phai-lam-sao.html"},
     {"title": "Ăn dặm cho bé bắt đầu từ đâu", "url": "an-dam-cho-be-bat-dau-tu-dau.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Con vừa đi ngoài lần thứ tư trong buổi sáng. Bụng chướng, bỏ bữa, quấy khóc. Cha mẹ đứng trước tủ lạnh và không biết nên nấu gì — nấu đặc thì sợ khó tiêu, nấu loãng thì sợ con đói, cho ăn sữa chua thì sợ lạnh bụng. Đây là tình huống quen thuộc với hầu hết gia đình có con nhỏ.

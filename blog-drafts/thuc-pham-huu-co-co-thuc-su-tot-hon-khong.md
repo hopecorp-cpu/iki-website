@@ -27,7 +27,8 @@
     {"title": "Ngâm rau nước muối có sạch không", "url": "ngam-rau-nuoc-muoi-co-sach-khong.html"},
     {"title": "Trái cây theo mùa ở Việt Nam", "url": "trai-cay-theo-mua-o-viet-nam.html"},
     {"title": "Ăn rau củ nhiều màu sắc", "url": "an-rau-cu-nhieu-mau-sac.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Đứng trước hai kệ rau trong siêu thị — một bên nhãn hữu cơ, giá gấp đôi hoặc gấp ba, một bên rau thường — hầu hết chúng ta đều tự hỏi cùng một câu: **thực phẩm hữu cơ có thực sự tốt hơn không**, hay đó chỉ là cách bán rau đắt tiền hơn?

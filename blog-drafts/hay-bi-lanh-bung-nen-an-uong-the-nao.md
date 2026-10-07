@@ -27,7 +27,8 @@
     {"title": "Đầy bụng khó tiêu sau ăn", "url": "day-bung-kho-tieu-sau-an.html"},
     {"title": "Uống nước đá lạnh có hại không", "url": "uong-nuoc-da-lanh-co-hai-khong.html"},
     {"title": "Gia vị Việt: gừng, nghệ, sả", "url": "gia-vi-viet-gung-nghe-sa.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một nhóm người mà bữa tiệc nào cũng phải cân nhắc: ly nước đá thì ngại, đĩa gỏi thì dè chừng, ăn xong bát bún riêu nguội là bụng bắt đầu ậm ạch. Ngồi máy lạnh cả buổi chiều là bụng thấy lạnh, đêm ngủ hở bụng là sáng dậy đi ngoài phân lỏng. Nếu bạn nhận ra mình trong mô tả đó, câu hỏi **hay bị lạnh bụng nên ăn uống thế nào** không phải là chuyện lý thuyết mà là chuyện của từng bữa cơm.

@@ -27,7 +27,8 @@
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Ăn rau củ nhiều màu sắc", "url": "an-rau-cu-nhieu-mau-sac.html"},
     {"title": "Vitamin D và ánh nắng", "url": "vitamin-d-va-anh-nang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nấm là món quen đến mức ít ai dừng lại hỏi **ăn nấm có tốt không**. Nồi lẩu nào cũng có nấm kim châm, bát canh chay nào cũng có nấm rơm, món xào nào cũng có thể thêm nấm hương cho dậy mùi. Nhưng cũng chính vì quen quá nên nhiều câu hỏi thực tế lại bỏ ngỏ: nấm có thực sự bổ không hay chỉ là món "cho có rau"? Ăn bao nhiêu thì vừa? Nấm trắng muốt bán ngoài chợ có phải đã tẩy không? Và tại sao năm nào cũng có tin ngộ độc nấm?

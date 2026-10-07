@@ -27,7 +27,8 @@
     {"title": "5 thể tạng theo Đông y và cách nhận biết", "url": "5-the-tang-theo-dong-y.html"},
     {"title": "Gia vị Việt: gừng, nghệ, sả trong bữa ăn hằng ngày", "url": "gia-vi-viet-gung-nghe-sa.html"},
     {"title": "Lạnh tay chân nên ăn gì cho ấm người", "url": "lanh-tay-chan-nen-an-gi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Mỗi tháng một lần, cơ thể phụ nữ đi qua vài ngày mà mọi thứ đều nhạy hơn bình thường: bụng dưới nằng nặng, lưng mỏi, tâm trạng lên xuống, có người thèm ngọt không cưỡng được, có người lại chẳng muốn ăn gì. Câu hỏi "ngày đèn đỏ nên ăn gì" vì thế được tìm rất nhiều — và đáng tiếc là câu trả lời trên mạng thường hoặc quá chung chung ("ăn uống đủ chất"), hoặc quá cực đoan ("cấm tuyệt đối thứ này thứ kia").

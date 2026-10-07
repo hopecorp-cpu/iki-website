@@ -27,7 +27,8 @@
     {"title": "Omega-3 từ nguồn thực vật", "url": "omega-3-tu-thuc-vat.html"},
     {"title": "Sữa hạt tự làm tại nhà", "url": "sua-hat-tu-lam-tai-nha.html"},
     {"title": "Nước ép và sinh tố dùng đúng cách", "url": "nuoc-ep-sinh-to-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Hạt chia là một trong những nguyên liệu được nhắc tới nhiều nhất trong mấy năm gần đây. Nó xuất hiện trong ly nước thanh mát trên mạng xã hội, trong hũ pudding chụp ảnh rất đẹp, trong lời khuyên của gần như mọi bài viết về ăn uống lành mạnh.

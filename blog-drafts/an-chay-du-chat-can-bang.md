@@ -27,7 +27,8 @@
     {"title": "8 nhóm thực phẩm lành mạnh", "url": "8-nhom-thuc-pham-lanh-manh.html"},
     {"title": "Ăn theo mùa và thể tạng", "url": "an-theo-mua-va-the-tang.html"},
     {"title": "Lộ trình cho người mới bắt đầu (6 chặng)", "url": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Rất nhiều người chần chừ với việc ăn chay vì một nỗi lo quen thuộc: *liệu ăn thực vật có đủ chất không?* Đây là câu hỏi chính đáng. Nhưng tin vui là **ăn chay đủ chất hoàn toàn khả thi** — điều kiện là bạn xây khẩu phần một cách có chủ đích, thay vì chỉ đơn giản bỏ thịt cá ra khỏi bữa ăn. Bài viết này sẽ đi qua từng phần: [đạm thực vật](https://trueveganprotein.com) lấy từ đâu, những vi chất nào cần chú ý, và cách ghép chúng lại thành một khẩu phần cân bằng, dễ áp dụng cho cả người mới bắt đầu.

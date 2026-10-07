@@ -27,7 +27,8 @@
     {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"},
     {"title": "Ngũ cốc nguyên cám và gạo lứt", "url": "ngu-coc-nguyen-cam-gao-lut.html"},
     {"title": "Đường và đồ chế biến sẵn", "url": "duong-va-do-che-bien-san.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vài năm gần đây, "eat clean" trở thành một trong những cụm từ được nhắc nhiều nhất khi người Việt nói về ăn uống lành mạnh. Nhưng cũng chính vì được nhắc nhiều mà nó bị hiểu lệch: rất nhiều người tin rằng eat clean nghĩa là bỏ hẳn cơm, sáng trưa tối đều ức gà luộc với salad, không nước mắm, không dầu mỡ, không món kho. Thử được một tuần thì chán, thử được hai tuần thì bỏ, rồi kết luận "ăn sạch không hợp với mình".

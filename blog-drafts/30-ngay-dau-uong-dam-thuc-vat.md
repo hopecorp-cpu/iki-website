@@ -41,7 +41,8 @@
     { "title": "Cách pha bột đạm thực vật cho dễ uống", "url": "cach-pha-bot-dam-thuc-vat-cho-de-uong.html" },
     { "title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html" },
     { "title": "Bột đạm thực vật giá bao nhiêu? Cách tính chi phí mỗi ly", "url": "bot-dam-thuc-vat-gia-bao-nhieu.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

@@ -25,7 +25,8 @@
     {"title": "Thực đơn 7 ngày cho người ăn chay đủ đạm", "url": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html"},
     {"title": "Vitamin B12 cho người ăn chay", "url": "vitamin-b12-nguoi-an-chay.html"},
     {"title": "Người ăn chay bổ sung canxi thế nào", "url": "nguoi-an-chay-bo-sung-canxi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Tháng 7 âm lịch về, nhiều gia đình Việt chuyển sang ăn chay — có người chỉ rằm và mùng một, có người ăn suốt cả tháng. Và câu hỏi được nhắn tới nhiều nhất trong những tuần này là: **ăn chay cả tháng 7 âm lịch có đủ chất không?**

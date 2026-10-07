@@ -27,7 +27,8 @@
     {"title": "Ăn chậm nhai kỹ — thói quen nhỏ đổi cả bữa ăn", "url": "an-cham-nhai-ky.html"},
     {"title": "Đầy bụng khó tiêu sau ăn: nguyên nhân và cách chăm sóc", "url": "day-bung-kho-tieu-sau-an.html"},
     {"title": "Chỉ số đường huyết của thực phẩm — hiểu để ăn cân bằng", "url": "chi-so-duong-huyet-thuc-pham.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Nên ăn hoa quả trước hay sau bữa ăn?" là một trong những câu hỏi được nhắc lại nhiều nhất mỗi khi ai đó bắt đầu để ý tới chuyện ăn uống. Người thì nghe nói phải ăn trước bữa mới hấp thu tốt, người lại được dặn ăn sau bữa mới không hại dạ dày, người khác nữa thì tin rằng hoa quả "kỵ" cơm và chỉ được ăn khi bụng rỗng. Ba lời khuyên trái ngược nhau, và cả ba đều được truyền đi với vẻ rất chắc chắn. Bài viết này sẽ tách bạch đâu là điều có cơ sở, đâu là lời đồn, và quan trọng hơn: giúp bạn tự chọn được thời điểm hợp với cơ thể mình thay vì chạy theo một quy tắc chung chung.

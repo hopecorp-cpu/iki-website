@@ -26,7 +26,8 @@
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"},
     {"title": "Uống trà thảo mộc buổi tối có mất ngủ không", "url": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html"},
     {"title": "Trà hoa cúc uống lúc nào", "url": "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Gần như nhà nào cũng có một hộp trà túi lọc trong bếp, và gần như ai cũng pha theo một cách duy nhất: đun nước thật sôi, thả túi vào cốc, đi làm việc khác, mười lăm phút sau quay lại thấy nước đã sẫm màu thì lấy thìa ép túi cho ra hết rồi uống. Cách đó nhanh, tiện, và cũng là lý do khiến rất nhiều người tin rằng trà túi lọc "vốn dĩ chát" hoặc "vốn dĩ nhạt hương".

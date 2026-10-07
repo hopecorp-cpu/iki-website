@@ -60,7 +60,8 @@
       "title": "Chất xơ và lợi khuẩn đường ruột",
       "url": "chat-xo-loi-khuan-duong-ruot.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

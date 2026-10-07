@@ -56,7 +56,8 @@
       "title": "Một ngày nên ăn bao nhiêu hạt là đủ",
       "url": "an-bao-nhieu-hat-moi-ngay-la-du.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Ăn bao nhiêu trái cây mỗi ngày là đủ? Câu hỏi này nghe đơn giản nhưng lại gây bối rối, vì hai luồng thông tin trái ngược nhau cùng lưu hành: một bên nói trái cây càng ăn nhiều càng tốt, bên kia cảnh báo trái cây nhiều đường nên phải hạn chế. Người đọc rốt cuộc không biết đặt mình ở đâu giữa hai thái cực đó.

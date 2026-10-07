@@ -56,7 +56,8 @@
       "title": "Ăn nhiều đường ảnh hưởng làn da thế nào",
       "url": "an-nhieu-duong-anh-huong-lan-da.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

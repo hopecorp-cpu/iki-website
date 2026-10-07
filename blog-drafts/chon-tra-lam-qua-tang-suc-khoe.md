@@ -42,7 +42,8 @@
     { "title": "Ăn bánh Trung Thu thế nào cho đỡ ngán", "url": "an-banh-trung-thu-the-nao-cho-do-ngan.html" },
     { "title": "Bảo quản trà thảo mộc giữ hương", "url": "bao-quan-tra-thao-moc-giu-huong.html" },
     { "title": "Trà thảo mộc Việt và trà nhập khẩu", "url": "tra-thao-moc-viet-va-tra-nhap-khau.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cứ đến mùa Trung Thu, 20/10 hay cuối năm, câu hỏi "tặng gì bây giờ" lại quay về, và trà gần như luôn nằm trong danh sách. Chọn **trà làm quà tặng** có cái hay là hợp với rất nhiều mối quan hệ: bố mẹ hai bên, sếp, đồng nghiệp, bạn thân, cả người mới quen. Nhưng cũng chính vì dễ tặng nên dễ tặng cho có. Một hộp trà mua vội ở quầy thanh toán và một hộp trà được chọn đúng người, gói gọn gàng, kèm vài dòng viết tay là hai món quà rất khác nhau, dù giá có thể bằng nhau.

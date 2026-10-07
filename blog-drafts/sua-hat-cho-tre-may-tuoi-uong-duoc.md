@@ -26,7 +26,8 @@
     {"title": "Ăn sáng cho trẻ đi học: nhanh, gọn, đủ chất", "url": "an-sang-cho-tre-di-hoc.html"},
     {"title": "Canxi và xương chắc khoẻ: ăn gì mỗi ngày", "url": "canxi-va-xuong-chac-khoe.html"},
     {"title": "Dinh dưỡng cân bằng tuổi dậy thì", "url": "dinh-duong-can-bang-tuoi-day-thi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vài năm gần đây, sữa hạt trở thành lựa chọn được nhiều gia đình Việt yêu thích. Nhìn thì rất hợp lý: nguyên liệu tự nhiên, tự làm ở nhà nên biết rõ có gì trong đó, không đường công nghiệp, không phụ gia. Nhiều mẹ chuyển hẳn con sang sữa hạt với niềm tin rằng đây là lựa chọn lành hơn sữa bò.

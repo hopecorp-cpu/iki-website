@@ -56,7 +56,8 @@
       "title": "Ăn giảm muối: bắt đầu từ bữa cơm nhà",
       "url": "an-giam-muoi.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

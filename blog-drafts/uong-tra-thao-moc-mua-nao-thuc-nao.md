@@ -58,7 +58,8 @@
       "title": "Trà thảo mộc cho phụ nữ: chọn theo nhịp ngày",
       "url": "tra-thao-moc-cho-phu-nu.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Người Việt vốn có nếp đổi thức uống theo mùa mà không cần ai dạy. Hè về, bà ngoại nấu nồi nước lá sen, râu ngô để nguội trong chạn. Sang thu, mẹ ướp mẻ hoa nhài đầu mùa. Trời trở lạnh, bố hãm ấm trà gừng trước bữa cơm tối. Mỗi mùa một vị, và ít ai gọi đó là "chăm sóc sức khoẻ" cả, chỉ đơn giản là uống thứ hợp với thời tiết thì thấy ngon.

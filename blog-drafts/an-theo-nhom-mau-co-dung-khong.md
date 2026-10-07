@@ -27,7 +27,8 @@
     {"title": "Cách ghi nhật ký ăn uống", "url": "cach-ghi-nhat-ky-an-uong.html"},
     {"title": "Chế độ ăn Địa Trung Hải", "url": "che-do-an-dia-trung-hai.html"},
     {"title": "Chỉ số đường huyết của thực phẩm", "url": "chi-so-duong-huyet-thuc-pham.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

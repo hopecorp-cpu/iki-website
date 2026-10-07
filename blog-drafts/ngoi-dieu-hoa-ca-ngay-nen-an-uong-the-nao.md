@@ -27,7 +27,8 @@
     {"title": "Mỏi mắt, khô mắt vì màn hình", "url": "moi-mat-kho-mat-man-hinh.html"},
     {"title": "Giãn cơ cho dân văn phòng", "url": "gian-co-dan-van-phong.html"},
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một kiểu mệt rất riêng của dân văn phòng mùa nóng. Bạn ngồi trong phòng mát cả ngày, không đi lại nhiều, không đổ giọt mồ hôi nào — vậy mà đến bốn giờ chiều thì da mặt căng khô, mắt cộm, cổ họng hơi rát, người uể oải như vừa đi bộ dưới nắng.

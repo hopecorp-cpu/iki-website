@@ -27,7 +27,8 @@
     {"title": "Sức khoẻ phụ nữ tuổi 40", "url": "suc-khoe-phu-nu-tuoi-40.html"},
     {"title": "Sữa hạt tự làm tại nhà", "url": "sua-hat-tu-lam-tai-nha.html"},
     {"title": "Thực phẩm lên men truyền thống Việt", "url": "thuc-pham-len-men-truyen-thong-viet.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Ít có thực phẩm nào vừa quen thuộc vừa gây tranh cãi như đậu nành. Trong cùng một tuần, bạn có thể nghe người này nói sữa đậu nành rất tốt cho phụ nữ, người kia lại bảo uống nhiều sẽ "rối loạn nội tiết". Với nam giới thì lời đồn còn mạnh hơn. Kết quả là nhiều người bối rối trước một món ăn mà ông bà mình đã dùng hàng trăm năm.

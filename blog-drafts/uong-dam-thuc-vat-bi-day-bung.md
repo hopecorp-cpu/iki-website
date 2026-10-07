@@ -26,7 +26,8 @@
     {"title": "Đạm thực vật và đạm động vật khác nhau thế nào", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Đầy bụng khó tiêu sau khi ăn: vì sao và làm gì", "url": "day-bung-kho-tieu-sau-an.html"},
     {"title": "Chất xơ và lợi khuẩn đường ruột", "url": "chat-xo-loi-khuan-duong-ruot.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bạn mua một hộp bột đạm về với ý định tốt: bổ sung thêm đạm cho bữa sáng vốn hay qua loa, hoặc đỡ lo thiếu chất khi ăn ít thịt lại. Nhưng chỉ vài ngày sau, bụng bắt đầu ấm ách, ợ hơi, có người còn thấy sôi bụng cả buổi sáng. Tình trạng **uống đạm thực vật bị đầy bụng** phổ biến hơn nhiều người tưởng, và tin tốt là phần lớn trường hợp không nằm ở chỗ "cơ thể không hợp", mà nằm ở cách pha, liều lượng và tốc độ uống. Bài viết này đi qua từng nguyên nhân thường gặp, sau đó là những điều chỉnh rất nhỏ trong thói quen giúp bụng dễ chịu trở lại — cùng một lịch bảy ngày để làm quen từ đầu mà không phải bỏ dở giữa chừng.

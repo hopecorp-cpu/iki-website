@@ -27,7 +27,8 @@
     {"title": "Trái cây theo mùa ở Việt Nam", "url": "trai-cay-theo-mua-o-viet-nam.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Đạm thực vật và đạm động vật khác nhau thế nào", "url": "dam-thuc-vat-va-dong-vat.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 **Ăn uống lành mạnh mà tiết kiệm** — nghe như hai điều không đi cùng nhau. Có một niềm tin rất phổ biến rằng ăn uống lành mạnh là chuyện của người có tiền. Rằng muốn ăn sạch thì phải mua rau hữu cơ, phải có hạt óc chó, hạt chia, dầu ô liu nhập khẩu và những hộp sữa hạt đắt tiền. Niềm tin ấy khiến rất nhiều người bỏ cuộc ngay từ đầu, vì nhìn vào ngân sách rồi kết luận: chuyện này không dành cho mình.

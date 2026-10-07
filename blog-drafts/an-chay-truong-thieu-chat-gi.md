@@ -27,7 +27,8 @@
     {"title": "Người ăn chay bổ sung canxi", "url": "nguoi-an-chay-bo-sung-canxi.html"},
     {"title": "Thực phẩm giàu sắt", "url": "thuc-pham-giau-sat.html"},
     {"title": "Thực đơn 7 ngày cho người ăn chay đủ đạm", "url": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **ăn chay trường thiếu chất gì** thường đến từ hai phía. Một là chính người ăn chay, sau vài tháng thấy mình mệt hơn trước và bắt đầu tự hỏi liệu có phải khẩu phần đang hụt thứ gì đó. Hai là người nhà — bố mẹ, vợ chồng, con cái — lo lắng khi thấy người thân chuyển sang ăn chay lâu dài.

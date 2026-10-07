@@ -38,7 +38,8 @@
     {"title": "Lộ trình chăm sóc sức khoẻ cho người trung niên (35–55)", "url": "lo-trinh-nguoi-trung-nien.html"},
     {"title": "Lộ trình chăm sóc sức khoẻ cho người cao tuổi (55+)", "url": "lo-trinh-nguoi-cao-tuoi.html"},
     {"title": "Học Viện IKI — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nếu bạn đang muốn bắt đầu chăm sóc sức khoẻ nhưng không biết bắt đầu từ đâu — giữa hàng trăm lời khuyên trái chiều trên mạng — thì bài viết này dành cho bạn. Thay vì một danh sách dài khiến bạn choáng ngợp, đây là một **lộ trình 6 chặng** rõ ràng, đi từ dễ đến sâu, để bạn xây dựng nền tảng sức khoẻ chủ động một cách bền vững.

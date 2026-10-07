@@ -27,7 +27,8 @@
     {"title": "Vitamin C và đề kháng", "url": "vitamin-c-va-de-khang.html"},
     {"title": "Chăm da từ bên trong", "url": "cham-da-tu-ben-trong.html"},
     {"title": "Gia vị Việt: gừng, nghệ, sả", "url": "gia-vi-viet-gung-nghe-sa.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cụm từ "chất chống oxy hoá" xuất hiện dày đặc trên nhãn thực phẩm, mỹ phẩm và quảng cáo đến mức nó gần như mất nghĩa. Nhiều người nghĩ đó là thứ phải mua ở dạng viên hoặc phải là quả mọng nhập khẩu mới có. Thực tế thì ngược lại: **thực phẩm giàu chất chống oxy hoá** nằm sẵn trong rổ rau của bà bán hàng đầu ngõ, và giá của chúng thuộc loại rẻ nhất trong chợ.

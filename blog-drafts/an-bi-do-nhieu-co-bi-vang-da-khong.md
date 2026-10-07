@@ -26,7 +26,8 @@
     {"title": "Khoai lang và các loại củ quả giàu tinh bột", "url": "khoai-lang-va-cu-qua-giau-tinh-bot.html"},
     {"title": "Món ăn dễ tiêu cho người lớn tuổi", "url": "mon-an-de-tieu-cho-nguoi-lon-tuoi.html"},
     {"title": "Luộc rau thế nào để không mất chất", "url": "luoc-rau-the-nao-de-khong-mat-chat.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bí đỏ — nhiều nơi gọi là bí ngô — là loại củ quả gần như nhà nào cũng có. Nó rẻ, để được lâu, nấu kiểu gì cũng ngon: canh bí đỏ nấu tôm, bí đỏ hầm xương, súp bí đỏ, chè bí đỏ, cháo bí đỏ cho trẻ ăn dặm. Chính vì tiện và ngọt tự nhiên nên nhiều gia đình nấu bí đỏ rất thường xuyên, có nhà ăn gần như ngày nào cũng có.

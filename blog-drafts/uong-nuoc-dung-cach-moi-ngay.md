@@ -29,7 +29,8 @@
     {"title": "Học Viện IKI — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"},
     {"title": "Công nghệ IKI — AI cá nhân hoá theo thể tạng", "url": "../cong-nghe.html"},
     {"title": "Cộng đồng IKI — đồng hành mỗi ngày", "url": "../cong-dong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nước chiếm khoảng 50–60% trọng lượng cơ thể ở người trưởng thành và tham gia vào gần như mọi hoạt động sống: vận chuyển dưỡng chất, điều hoà thân nhiệt, nâng đỡ tiêu hoá và giữ cho tinh thần tỉnh táo. Vậy mà "uống nước" — điều tưởng như đơn giản nhất — lại là nơi nhiều người vô tình bỏ lỡ một thói quen tốt mỗi ngày. Có người cả ngày chỉ uống vài ngụm khi thật khát; có người lại uống dồn một lúc rồi quên hẳn; nhiều người quen tay với cốc nước đá hay ly trà sữa mát lạnh mà không để ý nó ảnh hưởng thế nào đến cảm giác trong người. Bài viết này chia sẻ cách xây dựng thói quen uống nước chủ động, kết hợp hiểu biết khoa học hiện đại và góc nhìn Đông y về sự cân bằng trong cơ thể.

@@ -27,7 +27,8 @@
     {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"},
     {"title": "Rau lá xanh mỗi ngày — nền của bữa ăn cân bằng", "url": "rau-la-xanh-moi-ngay.html"},
     {"title": "Ăn uống cho người bận rộn: giữ nếp khi không có thời gian", "url": "an-uong-nguoi-ban-ron.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong tủ bếp của gần như mọi gia đình Việt đều có vài gói mì ăn liền. Nó là món cứu đói lúc mười một giờ đêm, là bữa sáng của sinh viên, là thứ đầu tiên người ta nghĩ tới khi mưa lớn không muốn ra khỏi nhà. Và cũng chính nó là món bị nói xấu nhiều nhất trên mạng — với đủ loại lời đồn đáng sợ về việc cơ thể phải mất hàng chục ngày mới xử lý xong một gói mì. Không lạ khi câu hỏi được tìm nhiều nhất lại là: **ăn mì tôm thế nào cho đỡ hại**?

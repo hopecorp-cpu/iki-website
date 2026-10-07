@@ -27,7 +27,8 @@
     {"title": "Chọn dầu ăn lành mạnh cho bếp Việt", "url": "chon-dau-an-lanh-manh.html"},
     {"title": "Quả bơ — giá trị và cách ăn", "url": "qua-bo-gia-tri-va-cach-an.html"},
     {"title": "Chăm da từ bên trong — bắt đầu từ bữa ăn", "url": "cham-da-tu-ben-trong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vitamin E là cái tên quen tai đến mức hầu như ai cũng từng nghe, thường gắn với hình ảnh viên nang màu vàng óng và lời hứa về làn da. Nhưng khi được hỏi **vitamin E có trong thực phẩm nào** của bữa cơm hằng ngày, phần lớn mọi người lại lúng túng. Chúng ta biết cam có vitamin C, biết cá có omega-3, nhưng vitamin E thì cứ như thể chỉ tồn tại trong hiệu thuốc.
