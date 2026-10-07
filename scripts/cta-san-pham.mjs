@@ -153,7 +153,7 @@ export const CSS_CTA_SP = `
     .cta-sp-thongso{margin:0 0 8px;font-weight:700;color:#1F4D1F}
     .cta-sp-mo{margin:0 0 16px;color:#4A554A;font-size:.95rem;line-height:1.6}
     .cta-sp-nut{display:flex;gap:10px;flex-wrap:wrap}
-    .cta-sp-chinh,.cta-sp-phu{display:inline-block;border-radius:30px;padding:11px 22px;font-weight:700;font-size:.95rem;text-decoration:none}
+    .cta-sp-chinh,.cta-sp-phu{display:inline-block;border-radius:8px;padding:11px 22px;font-weight:700;font-size:.95rem;text-decoration:none}
     .cta-sp-chinh{background:#1F4D1F;color:#fff;border:2px solid #1F4D1F}
     .cta-sp-phu{background:transparent;color:#1F4D1F;border:2px solid rgba(31,77,31,.35)}
     .cta-sp-chinh:hover{background:#2E6B2D;border-color:#2E6B2D}
