@@ -8,6 +8,9 @@
  *  - EN/JA: TH CHỐT 06/10/2026 CC-1/CC-1b — tiêu đề có Products/製品/商品 + aria-label → "IKI Beauty & Wellness Tools" /
  *    "IKI Beauty & Wellness のツール"; mọi dòng <li> có link app.html → nguyên văn
  *    "IKI App — a personalized health journal (optional)." / "IKIアプリ — パーソナライズされた健康日記(任意)。". Tiêu đề riêng khác giữ nguyên.
+ *  - EN/JA announcement-bar và post-cta còn "AI Eastern … Coach" / "東洋医学AIコーチ" (KT-sau-1, TH CC-1b):
+ *    thay bằng "IKI App — a personalized health journal (optional)." /
+ *    "IKIアプリ — パーソナライズされた健康日記(任意)。". Giữ href app.html sẵn có.
  * Idempotent. Chạy: node scripts/sua-khoi-cong-cu.mjs [--commit]
  */
 import fs from "fs";
@@ -54,4 +57,43 @@ for (const thu of ["blog", "en/blog", "ja/blog"]) {
   dem[thu] = doi;
 }
 console.log("Khối công cụ — số bài đổi:", JSON.stringify(dem));
+
+// KT-sau-1 / TH CC-1b: announcement-bar và post-cta EN/JA. Không đụng câu dietary supplements của trao-nguoc-da-day.
+const COACH_EN = /AI Eastern (?:Wellness|Medicine) Coach|Eastern(?:[-\s]medicine)? AI Coach|AI Traditional Medicine Coach|Traditional Medicine AI Coach/i;
+const CAU_APP_EN = "IKI App — a personalized health journal (optional).";
+const CAU_APP_JA = "IKIアプリ — パーソナライズされた健康日記(任意)。";
+function thayCoach(html, lang) {
+  const co = (s) => (lang === "en" ? COACH_EN.test(s) : s.includes("東洋医学AIコーチ"));
+  let out = html.replace(/<div class="announcement-bar">([\s\S]*?)<\/div>/g, (all, inner) => {
+    if (!co(inner)) return all;
+    const open = inner.match(/<a\b[^>]*>/);
+    if (!open) return all;
+    const cau = lang === "en" ? `${open[0]}IKI App</a> — a personalized health journal (optional).` : `${open[0]}IKIアプリ</a> — パーソナライズされた健康日記(任意)。`;
+    const pad = (inner.match(/\n([ \t]+)/) || [, ""])[1];
+    const tail = (inner.match(/\n([ \t]*)$/) || [, ""])[1];
+    const prefix = pad ? `\n${pad}` : "";
+    const suffix = inner.includes("\n") ? `\n${tail}` : "";
+    return `<div class="announcement-bar">${prefix}${cau}${suffix}</div>`;
+  });
+  out = out.replace(/<div class="post-cta">([\s\S]*?)<\/div>/g, (block) => block.replace(/<p>[\s\S]*?<\/p>/g, (p) => {
+    if (!co(p)) return p;
+    return `<p>${lang === "en" ? CAU_APP_EN : CAU_APP_JA}</p>`;
+  }));
+  if (lang === "en") out = out.replaceAll("Your personalized Eastern medicine AI coach", CAU_APP_EN);
+  else out = out.replaceAll("あなた専属の東洋医学AIコーチ", CAU_APP_JA);
+  return out;
+}
+const demCoach = {};
+for (const [thu, lang] of [["en/blog", "en"], ["ja/blog", "ja"]]) {
+  const dir = path.join(ROOT, thu);
+  let doi = 0;
+  for (const f of fs.readdirSync(dir).filter((x) => x.endsWith(".html"))) {
+    const p = path.join(dir, f);
+    const cu = fs.readFileSync(p, "utf8");
+    const moi = thayCoach(cu, lang);
+    if (moi !== cu) { doi++; if (COMMIT) fs.writeFileSync(p, moi); }
+  }
+  demCoach[thu] = doi;
+}
+console.log("Announcement/CTA Coach — số trang đổi:", JSON.stringify(demCoach));
 if (!COMMIT) console.log("Xem thử. Thêm --commit để ghi thật.");
