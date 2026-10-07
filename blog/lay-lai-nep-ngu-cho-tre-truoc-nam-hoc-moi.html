@@ -176,7 +176,7 @@
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
     .post-hero-fig{margin:0}
     .post-hero-fig .post-hero-img{display:block}
     .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}
@@ -184,7 +184,7 @@
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
     .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
-    .med-notice a{color:#8a5a12;text-decoration:underline}
+    .med-notice a{color:var(--iki-teal-deep,#2E8975);text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -272,10 +272,18 @@ blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D
     .lead-row{display:flex;gap:10px;max-width:480px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:13px 16px;font-size:1rem;font-family:inherit}
     .lead-phone{display:block;width:100%;max-width:480px;margin:10px auto 0;border:none;border-radius:12px;padding:11px 16px;font-size:.95rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:8px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+    .post-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.4rem 0;background:#FFFFFF;border:1px solid #E5E5E5;border-radius:0}
+    .post-table{width:100%;border-collapse:collapse;background:#FFFFFF;font-family:inherit;font-size:1rem;line-height:1.5}
+    .post-table th,.post-table td{border:1px solid #E5E5E5;padding:10px 14px;text-align:left;vertical-align:top}
+    .post-table th{font-weight:700;background:#FFFFFF;color:#101828}
+    .post-table tr>:first-child{border-left:0} .post-table tr>:last-child{border-right:0}
+    .post-table thead tr:first-child>*{border-top:0} .post-table tr:last-child>td{border-bottom:0}
+    .post-table thead:last-child tr:last-child>th{border-bottom:0}
+    .post-table [style*="text-align:right"]{white-space:nowrap}
+    @media(max-width:640px){.post-table th,.post-table td{min-width:8em}}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -313,7 +321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">thoi-quen</span>
+          <span class="post-eyebrow">Thói quen</span>
           <h1 class="post-title">Cách lấy lại nếp ngủ cho trẻ trước năm học mới: lộ trình 3 tuần cho bố mẹ</h1>
           <div class="post-meta">
             <span>Đội ngũ Health Coach IKI</span><span>·</span>
@@ -321,7 +329,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>14 phút đọc</span>
           </div>
         </div>
-<figure class="post-hero-fig">
+        <figure class="post-hero-fig">
         <img class="post-hero-img" src="../assets/blog/lay-lai-nep-ngu-cho-tre-truoc-nam-hoc-moi-hero.jpg" alt="Góc phòng ngủ trẻ em ấm áp với đèn vàng dịu, cuốn sách và ly sữa trên bàn nhỏ buổi tối" />
         <figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI.</figcaption>
         </figure>
@@ -347,7 +355,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <blockquote>Mỗi đứa trẻ có nhịp sinh học hơi khác nhau — có bé tự nhiên là "chim sớm", có bé thiên về "cú đêm", và điều này cũng đúng với người lớn trong nhà. Nếu bạn muốn hiểu nhịp sinh hoạt của chính mình để làm gương cho con dễ hơn, có thể <a href="https://ikihealing.com/quiz">kiểm tra thể trạng 90 giây</a> — biết mình thuộc kiểu nào giúp cả nhà sắp xếp giờ giấc thực tế hơn thay vì áp một khuôn chung.</blockquote>
 <h2 id="tinh-gio-di-ngu-muc-tieu-cho-con">Tính giờ đi ngủ mục tiêu cho con</h2>
 <p>Trước khi bắt đầu dịch, bạn cần biết đích đến. Cách tính rất đơn giản: lấy giờ con phải dậy để kịp đi học, đếm ngược đủ số tiếng ngủ mà lứa tuổi con cần.</p>
-<p>| Độ tuổi | Số giờ ngủ khuyến nghị | Nếu dậy 6h00 thì nên ngủ khoảng | |---|---|---| | 3–5 tuổi (mẫu giáo) | 10–13 tiếng (gồm giấc ngày) | 19h30 – 20h00 | | 6–12 tuổi (tiểu học, THCS) | 9–12 tiếng | 20h30 – 21h00 | | 13–18 tuổi (THPT) | 8–10 tiếng | 21h30 – 22h00 |</p>
+<div class="post-table-wrap" role="region" aria-label="Bảng" tabindex="0"><table class="post-table"><thead><tr><th>Độ tuổi</th><th>Số giờ ngủ khuyến nghị</th><th>Nếu dậy 6h00 thì nên ngủ khoảng</th></tr></thead><tbody><tr><td>3–5 tuổi (mẫu giáo)</td><td>10–13 tiếng (gồm giấc ngày)</td><td>19h30 – 20h00</td></tr><tr><td>6–12 tuổi (tiểu học, THCS)</td><td>9–12 tiếng</td><td>20h30 – 21h00</td></tr><tr><td>13–18 tuổi (THPT)</td><td>8–10 tiếng</td><td>21h30 – 22h00</td></tr></tbody></table></div>
 <p><em>Con số tham khảo theo khuyến nghị chung; mỗi trẻ có thể chênh lệch chút ít. Hãy quan sát con: nếu sáng con tự dậy mà không cần gọi nhiều lần và không cáu gắt, giờ ngủ hiện tại đang hợp lý.</em></p>
 <p>Đừng quên cộng thêm <strong>20–30 phút</strong> cho khoảng thời gian từ lúc lên giường tới lúc thật sự ngủ. Nếu bạn muốn con ngủ lúc 21h thì giờ lên giường nên là khoảng 20h30, và nếp chuẩn bị đi ngủ nên bắt đầu từ 20h00.</p>
 <p>Bây giờ hãy so sánh giờ mục tiêu này với giờ con đang ngủ thực tế trong hè. Khoảng chênh chính là quãng đường bạn cần đi.</p>
@@ -359,7 +367,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Điểm mấu chốt mà nhiều bố mẹ làm sai: chỉ dịch giờ đi ngủ mà không dịch giờ thức dậy. Nếu con vẫn dậy lúc 9h30, con sẽ không đủ buồn ngủ vào lúc 21h. Việc <strong>kéo giờ dậy lên sớm</strong> mới là đòn bẩy thật sự — nó vừa tạo áp lực ngủ tích lũy cho tối hôm sau, vừa đưa con ra ánh sáng buổi sáng sớm hơn.</p>
 <p>Nói cách khác: <strong>giờ dậy dẫn dắt, giờ ngủ đi theo.</strong></p>
 <p>Lịch dịch mẫu cho trường hợp chênh 2 tiếng 30 phút:</p>
-<p>| Ngày | Giờ dậy | Giờ lên giường | |---|---|---| | 1–2 | 9h15 | 23h15 | | 3–4 | 9h00 | 23h00 | | 5–6 | 8h45 | 22h45 | | 7–8 | 8h30 | 22h30 | | 9–10 | 8h15 | 22h15 | | 11–12 | 8h00 | 22h00 | | 13–14 | 7h30 | 21h45 | | 15–16 | 7h00 | 21h30 | | 17–18 | 6h30 | 21h15 | | 19–20 | 6h00 | 20h45 |</p>
+<div class="post-table-wrap" role="region" aria-label="Bảng" tabindex="0"><table class="post-table"><thead><tr><th>Ngày</th><th>Giờ dậy</th><th>Giờ lên giường</th></tr></thead><tbody><tr><td>1–2</td><td>9h15</td><td>23h15</td></tr><tr><td>3–4</td><td>9h00</td><td>23h00</td></tr><tr><td>5–6</td><td>8h45</td><td>22h45</td></tr><tr><td>7–8</td><td>8h30</td><td>22h30</td></tr><tr><td>9–10</td><td>8h15</td><td>22h15</td></tr><tr><td>11–12</td><td>8h00</td><td>22h00</td></tr><tr><td>13–14</td><td>7h30</td><td>21h45</td></tr><tr><td>15–16</td><td>7h00</td><td>21h30</td></tr><tr><td>17–18</td><td>6h30</td><td>21h15</td></tr><tr><td>19–20</td><td>6h00</td><td>20h45</td></tr></tbody></table></div>
 <p>Vài lưu ý khi thực hiện:</p>
 <p><strong>Đừng bù vào cuối tuần.</strong> Cho con ngủ nướng tới 10h sáng thứ Bảy là đủ để xoá công sức cả tuần. Cuối tuần được phép muộn hơn tối đa 45–60 phút, không hơn.</p>
 <p><strong>Chấp nhận nhịp không đều.</strong> Có đêm sẽ khó hơn đêm khác. Nếu một đêm không thành công, đừng lùi lại — giữ nguyên mốc đó thêm một ngày rồi tiếp tục.</p>
@@ -414,7 +422,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
 
         
-        <!-- cta-san-pham -->
+        
 
         <div class="post-cta">
           <h3>Nhận cẩm nang chăm sóc sức khoẻ chủ động — miễn phí</h3>
@@ -446,7 +454,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
             <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
-            <li><a href="../app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.</li>
+            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
           </ul>
         </section>
         <section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul><li><a href="man-hinh-truoc-gio-ngu.html">Màn hình trước giờ ngủ ảnh hưởng thế nào</a></li><li><a href="nhip-sinh-hoc-giac-ngu-va-anh-sang.html">Nhịp sinh học, giấc ngủ và ánh sáng</a></li><li><a href="an-sang-cho-tre-di-hoc.html">Bữa sáng cho trẻ đi học</a></li><li><a href="giac-ngu-chat-luong.html">Giấc ngủ chất lượng</a></li><li><a href="suc-khoe-hoc-sinh-mua-thi.html">Sức khoẻ học sinh mùa thi</a></li></ul></section>
@@ -476,21 +484,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     </form>
     <p class="ie-ok" role="status" hidden>&#10003; Xong! Bấm nút dưới để tải ngay. Bản PDF cũng đã gửi vào email (xem cả mục Quảng cáo / Spam).</p>
     <a class="ie-tai" href="#" target="_blank" rel="noopener" hidden>Tải ebook (PDF) ngay &rarr;</a>
-    <a class="ie-sp-sau" href="../shop/?sp=true-vegan-protein" hidden>
-      <span class="ie-sp-ten">True Vegan Protein Pro</span>
-      <span class="ie-sp-loai">Bột đạm thực vật · hũ 500 g</span>
-      <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
-    </a>
     <p class="ie-err" role="alert" hidden>Gửi chưa được &mdash; thử lại giúp mình nhé.</p>
     <button class="ie-no" type="button">Không, cảm ơn</button>
-    <div class="ie-sp">
-      <span class="ie-sp-hay">hoặc</span>
-      <a class="ie-sp-lien" href="../shop/?sp=true-vegan-protein">
-        <span class="ie-sp-ten">True Vegan Protein Pro</span>
-        <span class="ie-sp-loai">Bột đạm thực vật · hũ 500 g</span>
-        <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
-      </a>
-    </div>
     <p class="ie-note">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số Zalo để gửi ebook và thực đơn theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>. Nội dung chia sẻ kiến thức ẩm thực, không thay thế tư vấn y khoa.</p>
   </div>
 </div>
@@ -517,13 +512,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-sdt{font-size:.92rem}
 #ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
-#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}

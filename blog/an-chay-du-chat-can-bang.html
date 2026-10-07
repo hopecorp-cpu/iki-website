@@ -275,7 +275,7 @@
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
     .post-hero-fig{margin:0}
     .post-hero-fig .post-hero-img{display:block}
     .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}
@@ -283,7 +283,7 @@
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
     .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
-    .med-notice a{color:#8a5a12;text-decoration:underline}
+    .med-notice a{color:var(--iki-teal-deep,#2E8975);text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -371,10 +371,18 @@ blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D
     .lead-row{display:flex;gap:10px;max-width:480px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:13px 16px;font-size:1rem;font-family:inherit}
     .lead-phone{display:block;width:100%;max-width:480px;margin:10px auto 0;border:none;border-radius:12px;padding:11px 16px;font-size:.95rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:8px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+    .post-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.4rem 0;background:#FFFFFF;border:1px solid #E5E5E5;border-radius:0}
+    .post-table{width:100%;border-collapse:collapse;background:#FFFFFF;font-family:inherit;font-size:1rem;line-height:1.5}
+    .post-table th,.post-table td{border:1px solid #E5E5E5;padding:10px 14px;text-align:left;vertical-align:top}
+    .post-table th{font-weight:700;background:#FFFFFF;color:#101828}
+    .post-table tr>:first-child{border-left:0} .post-table tr>:last-child{border-right:0}
+    .post-table thead tr:first-child>*{border-top:0} .post-table tr:last-child>td{border-bottom:0}
+    .post-table thead:last-child tr:last-child>th{border-bottom:0}
+    .post-table [style*="text-align:right"]{white-space:nowrap}
+    @media(max-width:640px){.post-table th,.post-table td{min-width:8em}}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -412,7 +420,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">dinh-duong</span>
+          <span class="post-eyebrow">Dinh dưỡng</span>
           <h1 class="post-title">Ăn chay đủ chất: xây khẩu phần cân bằng cho người ăn thực vật</h1>
           <div class="post-meta">
             <span>Đội ngũ Health Coach IKI</span><span>·</span>
@@ -420,7 +428,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>15 phút đọc</span>
           </div>
         </div>
-<figure class="post-hero-fig">
+        <figure class="post-hero-fig">
         <img class="post-hero-img" src="../assets/blog/an-chay-du-chat-can-bang-hero.jpg" alt="Mâm cơm chay đa dạng với đậu hũ, các loại đậu, rau xanh và hạt" />
         <figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI.</figcaption>
         </figure>
@@ -458,7 +466,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Bạn không cần phải ghép hoàn hảo trong <em>mỗi bữa</em>. Nghiên cứu dinh dưỡng hiện đại cho thấy điều quan trọng là <strong>tổng lượng đạm và sự đa dạng trong cả ngày</strong>, chứ không phải mỗi bữa đều phải "đầy đủ axit amin". Cứ ăn đa dạng và đủ năng lượng, cơ thể sẽ tự cân đối.</p>
 <h3>Bảng tham khảo nguồn đạm thực vật</h3>
 <p>Để dễ hình dung, đây là ước lượng đạm của một số thực phẩm quen thuộc. Các con số chỉ là <strong>tham khảo</strong>, thay đổi theo loại và cách chế biến — bạn dùng chúng để so sánh tương đối giữa các nhóm, không phải để đếm chính xác.</p>
-<p>| Thực phẩm | Khẩu phần gợi ý | Đạm ước tính | |---|---|---| | Đậu nành luộc (edamame) | Một bát nhỏ | khoảng 17g | | Đậu lăng nấu chín | Một bát | khoảng 18g | | Đậu gà nấu chín | Một bát | khoảng 15g | | Đậu hũ | Một miếng vừa (100g) | khoảng 8g | | Đậu đen nấu chín | Một bát | khoảng 15g | | Hạt bí | Một nắm (30g) | khoảng 9g | | Hạnh nhân | Một nắm (30g) | khoảng 6g | | Yến mạch khô | Nửa bát (40g) | khoảng 5g | | Quinoa nấu chín | Một bát | khoảng 8g | | Sữa đậu nành | Một cốc (240ml) | khoảng 7g |</p>
+<div class="post-table-wrap" role="region" aria-label="Bảng" tabindex="0"><table class="post-table"><thead><tr><th>Thực phẩm</th><th>Khẩu phần gợi ý</th><th>Đạm ước tính</th></tr></thead><tbody><tr><td>Đậu nành luộc (edamame)</td><td>Một bát nhỏ</td><td>khoảng 17g</td></tr><tr><td>Đậu lăng nấu chín</td><td>Một bát</td><td>khoảng 18g</td></tr><tr><td>Đậu gà nấu chín</td><td>Một bát</td><td>khoảng 15g</td></tr><tr><td>Đậu hũ</td><td>Một miếng vừa (100g)</td><td>khoảng 8g</td></tr><tr><td>Đậu đen nấu chín</td><td>Một bát</td><td>khoảng 15g</td></tr><tr><td>Hạt bí</td><td>Một nắm (30g)</td><td>khoảng 9g</td></tr><tr><td>Hạnh nhân</td><td>Một nắm (30g)</td><td>khoảng 6g</td></tr><tr><td>Yến mạch khô</td><td>Nửa bát (40g)</td><td>khoảng 5g</td></tr><tr><td>Quinoa nấu chín</td><td>Một bát</td><td>khoảng 8g</td></tr><tr><td>Sữa đậu nành</td><td>Một cốc (240ml)</td><td>khoảng 7g</td></tr></tbody></table></div>
 <p>Nhìn vào bảng này, bạn sẽ thấy các loại đậu và chế phẩm từ đậu nành là "đầu tàu" về đạm, trong khi hạt và ngũ cốc đóng vai trò bổ trợ. Một bữa ăn có một nguồn đậu làm trung tâm, thêm ngũ cốc nguyên cám và rắc chút hạt, là đã có nền đạm khá vững.</p>
 <h2 id="cac-vi-chat-can-chu-y-b12-sat-canxi-omega-3-kem">Các vi chất cần chú ý (B12, sắt, canxi, omega-3, kẽm)</h2>
 <p>Đây là phần cốt lõi của việc ăn chay đủ chất. Năm vi chất dưới đây xứng đáng được bạn lưu tâm.</p>
@@ -567,7 +575,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
             <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
-            <li><a href="../app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.</li>
+            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
           </ul>
         </section>
         <section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul><li><a href="8-nhom-thuc-pham-lanh-manh.html">8 nhóm thực phẩm lành mạnh</a></li><li><a href="an-theo-mua-va-the-tang.html">Ăn theo mùa và thể tạng</a></li><li><a href="lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html">Lộ trình cho người mới bắt đầu (6 chặng)</a></li></ul></section>
@@ -638,13 +646,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-sdt{font-size:.92rem}
 #ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
-#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}

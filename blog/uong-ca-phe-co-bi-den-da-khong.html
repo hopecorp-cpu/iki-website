@@ -176,7 +176,7 @@
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
     .post-hero-fig{margin:0}
     .post-hero-fig .post-hero-img{display:block}
     .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}
@@ -184,7 +184,7 @@
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
     .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
-    .med-notice a{color:#8a5a12;text-decoration:underline}
+    .med-notice a{color:var(--iki-teal-deep,#2E8975);text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -272,10 +272,18 @@ blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D
     .lead-row{display:flex;gap:10px;max-width:480px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:13px 16px;font-size:1rem;font-family:inherit}
     .lead-phone{display:block;width:100%;max-width:480px;margin:10px auto 0;border:none;border-radius:12px;padding:11px 16px;font-size:.95rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:8px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+    .post-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.4rem 0;background:#FFFFFF;border:1px solid #E5E5E5;border-radius:0}
+    .post-table{width:100%;border-collapse:collapse;background:#FFFFFF;font-family:inherit;font-size:1rem;line-height:1.5}
+    .post-table th,.post-table td{border:1px solid #E5E5E5;padding:10px 14px;text-align:left;vertical-align:top}
+    .post-table th{font-weight:700;background:#FFFFFF;color:#101828}
+    .post-table tr>:first-child{border-left:0} .post-table tr>:last-child{border-right:0}
+    .post-table thead tr:first-child>*{border-top:0} .post-table tr:last-child>td{border-bottom:0}
+    .post-table thead:last-child tr:last-child>th{border-bottom:0}
+    .post-table [style*="text-align:right"]{white-space:nowrap}
+    @media(max-width:640px){.post-table th,.post-table td{min-width:8em}}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -313,7 +321,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">thoi-quen</span>
+          <span class="post-eyebrow">Thói quen</span>
           <h1 class="post-title">Uống cà phê có bị đen da không? Sự thật về cà phê, sắc da và giấc ngủ</h1>
           <div class="post-meta">
             <span>Đội ngũ Health Coach IKI</span><span>·</span>
@@ -321,7 +329,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>14 phút đọc</span>
           </div>
         </div>
-<figure class="post-hero-fig">
+        <figure class="post-hero-fig">
         <img class="post-hero-img" src="../assets/blog/uong-ca-phe-co-bi-den-da-khong-hero.jpg" alt="Minh hoạ tách cà phê đen và tách trà thảo mộc trên mặt bàn gỗ trong nắng sớm" />
         <figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI.</figcaption>
         </figure>
@@ -370,7 +378,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <h2 id="bao-nhieu-ca-phe-moi-ngay-la-vua">Bao nhiêu cà phê mỗi ngày là vừa</h2>
 <p>Cơ quan An toàn Thực phẩm châu Âu (EFSA), trong đánh giá khoa học về an toàn caffeine, kết luận rằng người trưởng thành khoẻ mạnh dùng tới <strong>400 mg caffeine mỗi ngày</strong> không gây lo ngại về an toàn, và <strong>mỗi lần không quá khoảng 200 mg</strong>. Với phụ nữ mang thai hoặc đang cho con bú, mức được khuyến nghị là <strong>dưới 200 mg mỗi ngày</strong>.</p>
 <p>Khó ở chỗ, ít ai biết ly cà phê của mình chứa bao nhiêu caffeine. Một vài điểm giúp ước lượng:</p>
-<p>| Loại đồ uống | Điều cần biết | |---|---| | Cà phê phin Robusta đậm | Hạt Robusta thường có hàm lượng caffeine cao hơn Arabica đáng kể; ly phin đậm đặc có thể chạm hoặc vượt mức 200 mg một lần | | Cà phê pha máy, Arabica | Thường ít caffeine hơn trên mỗi ly so với phin Robusta cùng thể tích | | Cà phê hoà tan | Thường thấp hơn, nhưng gói 3 trong 1 kèm nhiều đường | | Trà xanh, trà đen, trà sữa | Cũng có caffeine, dễ bị quên khi cộng tổng cả ngày | | Nước tăng lực, nước ngọt có ga vị cola | Có caffeine, thường kèm nhiều đường |</p>
+<div class="post-table-wrap" role="region" aria-label="Bảng" tabindex="0"><table class="post-table"><thead><tr><th>Loại đồ uống</th><th>Điều cần biết</th></tr></thead><tbody><tr><td>Cà phê phin Robusta đậm</td><td>Hạt Robusta thường có hàm lượng caffeine cao hơn Arabica đáng kể; ly phin đậm đặc có thể chạm hoặc vượt mức 200 mg một lần</td></tr><tr><td>Cà phê pha máy, Arabica</td><td>Thường ít caffeine hơn trên mỗi ly so với phin Robusta cùng thể tích</td></tr><tr><td>Cà phê hoà tan</td><td>Thường thấp hơn, nhưng gói 3 trong 1 kèm nhiều đường</td></tr><tr><td>Trà xanh, trà đen, trà sữa</td><td>Cũng có caffeine, dễ bị quên khi cộng tổng cả ngày</td></tr><tr><td>Nước tăng lực, nước ngọt có ga vị cola</td><td>Có caffeine, thường kèm nhiều đường</td></tr></tbody></table></div>
 <p>Vì hàm lượng dao động rộng tuỳ hạt, cách rang và cách pha, con số trên mỗi ly chỉ là ước lượng. Cách đo thực tế hơn là lắng nghe cơ thể: nếu sau ly cà phê bạn thấy tim đập nhanh, tay run, bồn chồn, khó tập trung, hoặc đêm đó khó ngủ, thì lượng đó đang vượt quá mức hợp với bạn — bất kể người khác uống được bao nhiêu.</p>
 <p>Với đa số chị em văn phòng, <strong>một đến hai ly mỗi ngày, uống trước đầu giờ chiều</strong> là mức vừa đủ tỉnh táo mà ít ảnh hưởng tới giấc ngủ.</p>
 <h2 id="goc-nhin-dong-y-vi-sao-co-nguoi-uong-ca-phe-thay-n">Góc nhìn Đông y: vì sao có người uống cà phê thấy "nóng trong"</h2>
@@ -454,7 +462,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
             <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
-            <li><a href="../app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.</li>
+            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
           </ul>
         </section>
         <section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul><li><a href="ca-phe-va-suc-khoe.html">Cà phê và sức khoẻ: lợi và hại nhìn một cách cân bằng</a></li><li><a href="nen-uong-ca-phe-muon-nhat-luc-may-gio.html">Nên uống cà phê muộn nhất lúc mấy giờ</a></li><li><a href="uong-gi-thay-ca-phe-buoi-sang.html">Uống gì thay cà phê buổi sáng</a></li><li><a href="ngu-muon-anh-huong-lan-da.html">Ngủ muộn ảnh hưởng làn da thế nào</a></li><li><a href="an-nhieu-duong-anh-huong-lan-da.html">Ăn nhiều đường ảnh hưởng làn da thế nào</a></li></ul></section>
@@ -525,13 +533,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-sdt{font-size:.92rem}
 #ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
-#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}
