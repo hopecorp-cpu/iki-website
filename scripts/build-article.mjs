@@ -44,13 +44,16 @@ const CHUYEN_HUONG = (() => {
   catch (e) { console.warn("  ! chuyen-huong.json hỏng, bỏ qua:", e.message); return {}; }
 })();
 
-// Khung cuối bài (MKT-03, 03/10/2026). Câu A/B/C chép nguyên văn bản Thương hiệu đã duyệt — KHÔNG sửa chữ.
-// fm.khuyen_cao: mảng khoá ("dam" → câu A, "thanh-huong" → câu C, "thanhHuong" → A8 + A4); khoá lạ → dừng build.
+// Khung cuối bài (MKT-03, 03/10/2026; TH hậu kiểm 07/10/2026). Câu A/B/C và A8/A4 chép nguyên văn — KHÔNG sửa chữ.
+// fm.khuyen_cao: mảng khoá ("dam" → câu thẻ Đạm, "thanh-huong" → câu C, "thanhHuong" → A8 + A4); khoá lạ → dừng build.
 // Sau các câu khuyến cáo có câu B (= A8, đọc qua cauDuyet), trừ "thanhHuong" vì A8 đã nằm trong cặp A8 + A4.
-// Bài có sản phẩm (no_product khác true) mà thiếu khuyen_cao
-// thì GIỮ khối cũ + in "THIEU khuyen_cao: <slug>" để Kỹ thuật bổ sung ở PR sau.
+// Thiếu khuyen_cao thì chọn theo thẻ sản phẩm sẽ in (cùng chonSanPham / cờ no_product), không gom mọi sản phẩm:
+//   1. Không thẻ: chỉ A8.
+//   2. Thẻ Đạm: câu thẻ Đạm đã duyệt (gọi tên TRUE VEGAN PROTEIN PRO) rồi A8 — cùng khối khoá "dam".
+//   3. Thẻ trà: chỉ A8 của thẻ trà. Không câu gọi trà là thực phẩm bổ sung.
+//   4. Cả hai khoá "dam" + "thanhHuong": câu Đạm rồi A8 + A4 (A8 không lặp).
 // "thanhHuong" (TH ghi đúng tên này) = đúng A8 rồi A4, đọc qua cauDuyet. Khác khoá cũ "thanh-huong" (câu C + A8).
-// "khuyen_cao": [] (mảng rỗng TƯỜNG MINH) = bài không thẻ: chỉ in câu B (= A8, sha 4c1a338e), không khung cũ (TH 06/10/2026, PR #13).
+// "khuyen_cao": [] (mảng rỗng TƯỜNG MINH) = bài không thẻ: chỉ in câu B (= A8, sha 4c1a338e) (TH 06/10/2026, PR #13).
 // Hai bài giấc ngủ không thẻ nhưng chân trang không được gọi trà là thực phẩm bổ sung (KT-sau-1).
 const BAI_NGU_KHONG_TPBS = new Set([
   "kho-ngu-tran-troc-nep-buoi-toi",
@@ -60,15 +63,19 @@ const KHUYEN_CAO_CAU = {
   dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
   "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
 };
-const POST_DISCLAIMER_CU = `<div class="post-disclaimer">
-          Nội dung mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hoặc tư vấn y khoa. Các sản phẩm IKI là <strong>thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Khi có vấn đề sức khoẻ, hãy tham khảo ý kiến bác sĩ.
-        </div>`;
+function khoaTheoThe(fm) {
+  if (fm.no_product === true) return [];
+  const sp = chonSanPham(fm);
+  if (!sp) return [];
+  if (sp.slug === "true-vegan-protein") return ["dam"];
+  // Thẻ trà: chỉ A8 (câu B). Không dùng câu gọi chung sản phẩm, không gắn chữ thực phẩm bổ sung cho trà.
+  if (sp.slug === "tra-thanh-huong") return [];
+  throw new Error(`không có câu khuyến cáo đã duyệt cho thẻ "${sp.slug}" ở bài ${fm.slug} — dừng, không bịa chữ`);
+}
 function khoiKhuyenCao(fm) {
-  const khoa = Array.isArray(fm.khuyen_cao) ? fm.khuyen_cao : [];
-  if (fm.no_product !== true && !Array.isArray(fm.khuyen_cao)) {
-    console.warn(`THIEU khuyen_cao: ${fm.slug}`);
-    return POST_DISCLAIMER_CU;
-  }
+  const coKhoa = Array.isArray(fm.khuyen_cao);
+  const khoa = coKhoa ? fm.khuyen_cao : khoaTheoThe(fm);
+  if (!coKhoa && fm.no_product !== true) console.warn(`THIEU khuyen_cao: ${fm.slug}`);
   const hopLe = [...Object.keys(KHUYEN_CAO_CAU), "thanhHuong"];
   const dong = [];
   let daCoA8 = false;
