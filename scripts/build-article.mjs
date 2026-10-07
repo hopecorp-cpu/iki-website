@@ -49,6 +49,11 @@ const CHUYEN_HUONG = (() => {
 // Sau các câu khuyến cáo LUÔN có câu B. Bài có sản phẩm (no_product khác true) mà thiếu khuyen_cao
 // thì GIỮ khối cũ + in "THIEU khuyen_cao: <slug>" để Kỹ thuật bổ sung ở PR sau.
 // "khuyen_cao": [] (mảng rỗng TƯỜNG MINH) = bài không thẻ: chỉ in câu B (= A8, sha 4c1a338e), không khung cũ (TH 06/10/2026, PR #13).
+// Hai bài giấc ngủ không thẻ nhưng chân trang không được gọi trà là thực phẩm bổ sung (KT-sau-1).
+const BAI_NGU_KHONG_TPBS = new Set([
+  "kho-ngu-tran-troc-nep-buoi-toi",
+  "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong",
+]);
 const KHUYEN_CAO_CAU = {
   dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
   "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
@@ -218,6 +223,15 @@ function render(fm, body) {
   const faqHtml = faq.length
     ? `<section class="post-faq" aria-label="Câu hỏi thường gặp"><h2 id="faq">Câu hỏi thường gặp</h2>${faq.map((f) => `<details class="faq-item"><summary>${esc(f.q)}</summary><p>${inline(f.a)}</p></details>`).join("")}</section>`
     : "";
+  // Bài thẻ trà và 2 bài giấc ngủ: chân trang không gọi trà là thực phẩm bổ sung (KT-sau-1).
+  const spChon = chonSanPham(fm);
+  const boChanTrangTPBS = spChon?.slug === "tra-thanh-huong"
+    || BAI_NGU_KHONG_TPBS.has(fm.slug)
+    || (Array.isArray(fm.khuyen_cao) && fm.khuyen_cao.includes("thanhHuong"));
+  const globalDisclaimer = boChanTrangTPBS ? "" : `
+      <div class="global-disclaimer">
+        <p>Các sản phẩm là <strong style="color:rgba(255,255,255,0.78);">thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Kết quả có thể khác nhau tuỳ cơ địa.</p>
+      </div>`;
   const relatedHtml = related.length
     ? `<section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul>${related.map((r) => `<li><a href="${escAttr(r.url)}">${esc(r.title)}</a></li>`).join("")}</ul></section>`
     : "";
@@ -454,9 +468,7 @@ ${articleCoVideo}
           </ul>
         </div>
       </div>
-      <div class="global-disclaimer">
-        <p>Các sản phẩm là <strong style="color:rgba(255,255,255,0.78);">thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Kết quả có thể khác nhau tuỳ cơ địa.</p>
-      </div>
+${globalDisclaimer}
       <div class="footer-bottom">
         <span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span> <a href="mien-tru-trach-nhiem.html" style="color:rgba(255,255,255,0.7);text-decoration:underline">Miễn trừ trách nhiệm</a>
       </div>

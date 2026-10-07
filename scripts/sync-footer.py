@@ -8,7 +8,13 @@ COPY = {
 'ja': ['IKIのエコシステム','IKIアカデミー','健康の読みもの','IKIアプリ','IKIショップ','サポート','プライバシーポリシー','返品ポリシー','お問い合わせ','IKIと毎日のケア','肌、食事、休息、運動。女性と家族の毎日に寄り添う知識と小さな習慣。','コミュニティを見る','税務番号','所在地','IKIはHOPE CORPのブランドです','HOPE CORPについて','チーム','パートナー・投資家向け','女性と家族のための主体的な健康づくり。知識、AIサポート、コミュニティ、商品をつなぎます。']}
 # Huy hieu 'Da thong bao Bo Cong Thuong' - ma nhung chinh thuc cua ho so ikihealing.com (duyet 21/09/2026).
 BCT='<a class="if-bct" href="https://online.gov.vn/nen-tang/36b54e5b-6771-4f8a-a982-cdda06c1bd73" target="_blank" rel="noopener" title="Đã xác nhận với Bộ Công Thương" style="display:inline-block;margin-top:14px"><img src="https://fileserver.online.gov.vn/uploads/Resources/iconxacnhan/DaThongBao.png" alt="Đã xác nhận" style="height:44px;width:auto" loading="lazy"></a>'
-def footer(lang='vi', sales=False, shop=False, green=False, old=''):
+# KT-sau-1: bài thẻ trà và 2 bài giấc ngủ không giữ dòng chân trang gọi trà là thực phẩm bổ sung.
+BAI_NGU_KHONG_TPBS={'kho-ngu-tran-troc-nep-buoi-toi','uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong'}
+def bo_tpbs(notice):
+ parts=re.findall(r'<p class="if-notice">[\s\S]*?</p>',notice)
+ if not parts:return '' if 'thực phẩm bổ sung' in re.sub('<[^>]+>','',notice).lower() else notice
+ return ''.join(p for p in parts if 'thực phẩm bổ sung' not in re.sub('<[^>]+>','',p).lower())
+def footer(lang='vi', sales=False, shop=False, green=False, old='', strip_tpbs=False):
  c=COPY[lang]; base='https://ikihealing.com'; prefix='' if lang=='vi' else '/'+lang
  def url(path):
   if prefix and (ROOT/(prefix.lstrip('/')+path)).exists():return base+prefix+path
@@ -26,6 +32,7 @@ def footer(lang='vi', sales=False, shop=False, green=False, old=''):
   notice=''.join('<p class="if-notice">'+re.sub(r'</?p\b[^>]*>','',p)+'</p>' for p in notes)
  else:
   notice=''.join(re.findall(r'<p class="if-notice">[\s\S]*?</p>',old))
+ if strip_tpbs:notice=bo_tpbs(notice)
  name='CÔNG TY CỔ PHẦN TMDV HOPE' if lang=='vi' else 'HOPE SERVICE CORPORATION'
  products = ''.join([a('/shop/?sp=true-vegan-protein', 'Đạm thực vật'),a('/shop/', 'Trà thảo mộc'),a('/shop/', 'Dầu ăn lành'),a('/shop/', 'Gia vị &amp; Nêm')]) if shop and lang=='vi' else ''.join([a('/hoc-vien.html',c[1]),a('/blog/',c[2]),a('/app.html',c[3]),a('/shop/',c[4])])
  return f'''<link rel="stylesheet" href="{assets}/footer.css?v=1"><footer id="footer" class="iki-standard-footer{' if-green' if green else ''}" data-iki-footer="20260909" lang="{lang}"><div class="if-wrap"><div class="if-grid"><section>{brand}<strong class="if-company-name">{name}</strong><span class="if-tagline">FROM NATURE, FOR LIFE</span><p>{c[18]}</p>{social}</section><nav aria-label="{c[0]}"><h2>{'Sản phẩm' if shop and lang=='vi' else c[0]}</h2>{products}</nav><nav aria-label="{c[5]}"><h2>{c[5]}</h2>{a('/tai-lieu/',c[2])}{a('/chinh-sach-bao-mat.html',c[6])}{a('/chinh-sach-doi-tra.html',c[7])}{a('/chinh-sach.html','Chính sách &amp; điều khoản') if lang=='vi' else ''}<a href="mailto:contact@ikihealing.com">{c[8]}</a><a href="tel:0987931551">098 793 1551</a></nav><section><h2>{c[9]}</h2><p>{c[10]}</p><a class="if-community" href="{url('/cong-dong.html')}">{c[11]} <span aria-hidden="true">→</span></a><a class="if-hope" href="{url('/ve-hope.html')}"><img {'id="hopeLogoF"' if shop else ''} src="{assets}/hope.png" width="32" height="32" alt=""><span><b>HOPE</b><small>{c[14]}</small></span></a></section></div><div class="if-legal"><div><strong>{name}</strong>{'<span class="if-registered">CÔNG TY CỔ PHẦN TMDV HOPE</span>' if lang!='vi' else ''}<p>{'GPKD số 0801404967, đăng ký lần đầu ngày 23/08/2023, thay đổi lần 6 ngày 24/09/2026 tại Sở Tài chính TP Hải Phòng<br>' if lang=='vi' else ''}{c[12]}: 0801404967<br>{c[13]}: Số 40A Quang Trung, P. Hải Dương, TP Hải Phòng, Việt Nam<br>{'Điện thoại: <a href="tel:0987931551">098 793 1551</a><br>' if lang=='vi' else ''}Email: <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></p>{BCT}</div><nav aria-label="HOPE CORP">{a('/ve-hope.html',c[15])}{a('/team.html',c[16])}{a('/investor/',c[17])}</nav></div>{notice}<div class="if-bottom"><span>© 2026 IKI by HOPE CORP</span><span>{a('/chinh-sach-bao-mat.html',c[6])} · {a('/chinh-sach-doi-tra.html',c[7])}{(' · '+a('/chinh-sach.html','Chính sách &amp; điều khoản')) if lang=='vi' else ''}</span></div></div></footer>'''
@@ -35,6 +42,7 @@ def apply(root=ROOT,sales=False,green=False):
   if any(x in ['.git','node_modules'] for x in p.parts):continue
   s=p.read_text(); rel=p.relative_to(root);lang=rel.parts[0] if rel.parts[0] in COPY else 'vi'
   shop='shop' in rel.parts
+  strip_tpbs=lang=='vi' and (rel.stem in BAI_NGU_KHONG_TPBS or 'cta-sp-nhan">Trà thảo mộc IKI' in s)
   if '<footer' not in s:
    if str(rel)=='investor/index.html':
     t=s.replace('</body>',footer(lang,sales,shop,green)+'</body>')
@@ -42,7 +50,7 @@ def apply(root=ROOT,sales=False,green=False):
    continue
   # Remove our adjacent stylesheet on rerun; HTML output remains idempotent.
   clean=re.sub(r'<link rel="stylesheet" href="(?:/assets/footer-20260909|/footer-assets)/footer.css\?v=1">','',s)
-  t=re.sub(r'<footer\b[\s\S]*?</footer>',lambda m: footer(lang,sales,shop,green or 'course-page' in s,m.group()),clean,flags=re.I)
+  t=re.sub(r'<footer\b[\s\S]*?</footer>',lambda m: footer(lang,sales,shop,green or 'course-page' in s,m.group(),strip_tpbs),clean,flags=re.I)
   if t!=s:p.write_text(t);changed.append(str(rel))
  return changed
 if __name__=='__main__':
