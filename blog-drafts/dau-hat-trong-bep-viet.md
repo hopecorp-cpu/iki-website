@@ -10,6 +10,7 @@
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/dau-hat-trong-bep-viet-hero.png",
   "hero_alt": "Sáu bát đậu xanh, đậu đen, đậu đỏ, lạc, vừng đen và đậu phụ cạnh bó rau thơm trên nền trắng (ảnh minh hoạ tạo bằng AI)",
+  "anh_ai": true,
   "category": "thuc-pham",
   "reading_min": 7,
   "no_product": true,
