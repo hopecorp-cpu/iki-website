@@ -7,7 +7,8 @@ import { fileURLToPath } from "url";
 import { CHU_THICH_AI, CSS_CHU_THICH_AI, coChuThichAi, heroHtml } from "./chu-thich-anh-ai.mjs";
 
 const IMG = '<img class="post-hero-img" src="../assets/blog/a-hero.png" alt="a" />';
-const coHero = heroHtml({}, "../assets/blog/a-hero.png", IMG);
+const coHero = heroHtml({ anh_ai: true }, "../assets/blog/a-hero.png", IMG);
+const khongCo = heroHtml({}, "../assets/blog/a-hero.png", IMG);
 const tat = heroHtml({ anh_ai: false }, "../assets/blog/a-hero.png", IMG);
 const bat = heroHtml({ anh_ai: true }, "https://x.vn/a.png", IMG);
 const khongHero = heroHtml({}, "", "");
@@ -24,7 +25,14 @@ const src = fs.readFileSync(path.join(path.dirname(fileURLToPath(import.meta.url
 const CA = [
   // [ten, ra, mong]
   ["chu dung nguyen van", CHU_THICH_AI, "Ảnh minh hoạ được tạo bằng AI."],
-  ["mac dinh bat khi co hero", coChuThichAi({}, "x.png"), true],
+  ["anh_ai:true + hero -> bat", coChuThichAi({ anh_ai: true }, "x.png"), true],
+  ["KHONG co co + co hero -> tat (mac dinh tat)", coChuThichAi({}, "x.png"), false],
+  ["bai khong co -> chi anh, khong figure/figcaption", khongCo, IMG],
+  ["bai khong co -> khong co chu AI", /figcaption|figure|Ảnh minh hoạ được tạo bằng AI/.test(khongCo), false],
+  ["anh_ai chuoi \"true\" -> tat (chi nhan boolean)", coChuThichAi({ anh_ai: "true" }, "x.png"), false],
+  ["anh_ai:1 -> tat", coChuThichAi({ anh_ai: 1 }, "x.png"), false],
+  ["anh_ai:false -> tat", coChuThichAi({ anh_ai: false }, "x.png"), false],
+  ["khong co co -> khong chen CSS", coChuThichAi({ slug: "a" }, "../assets/blog/a-hero.png"), false],
   ["co hero -> figure bao anh", coHero.startsWith('<figure class="post-hero-fig">') && coHero.trimEnd().endsWith("</figure>"), true],
   ["anh nam trong figure, nguyen the img", coHero.includes(IMG), true],
   ["figcaption ngay sau anh", /<img class="post-hero-img"[^>]*\/>\s*<figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI\.<\/figcaption>\s*<\/figure>$/.test(coHero), true],
