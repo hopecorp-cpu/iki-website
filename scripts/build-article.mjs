@@ -23,6 +23,7 @@ import { CSS_KHOI_SO } from "./khoi-so-lieu.mjs";
 import { chenVideo, schemaVideo, CSS_VIDEO } from "./video-bai.mjs";
 import { khoiCauNoi, CSS_CAU_NOI } from "./cau-noi-chi-muc.mjs";
 import { ogPinDoc } from "./pin-bai.mjs";
+import { laDongBang, laDongPhanCach, dungBang, CSS_BANG } from "./bang-markdown.mjs";
 
 import { taoPopup } from "./popup-thu-email.mjs";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -143,9 +144,16 @@ function mdToHtml(md) {
       continue;
     }
     if (/^\s*$/.test(ln)) { i++; continue; }
+    // bảng | a | b | — dòng 2 phải là dòng phân cách, không thì rơi xuống paragraph như cũ
+    if (laDongBang(ln) && laDongPhanCach(lines[i + 1])) {
+      let j = i;
+      while (j < lines.length && laDongBang(lines[j])) j++;
+      const bang = dungBang(lines.slice(i, j), inline);
+      if (bang) { out.push(bang); i = j; continue; }
+    }
     // paragraph
     const buf = [];
-    while (i < lines.length && !/^\s*$/.test(lines[i]) && !/^(#{2,3}\s|>\s?|\s*[-*]\s|\s*\d+\.\s|:::)/.test(lines[i])) { buf.push(lines[i]); i++; }
+    while (i < lines.length && !/^\s*$/.test(lines[i]) && !/^(#{2,3}\s|>\s?|\s*[-*]\s|\s*\d+\.\s|:::)/.test(lines[i]) && !(buf.length && laDongBang(lines[i]) && laDongPhanCach(lines[i + 1]))) { buf.push(lines[i]); i++; }
     flushPara(buf);
   }
   return { html: out.join("\n"), toc };
@@ -333,7 +341,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, (k, 
     .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}${article.includes('class="post-table-wrap"') ? CSS_BANG : ""}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
