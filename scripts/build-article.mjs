@@ -45,9 +45,11 @@ const CHUYEN_HUONG = (() => {
 })();
 
 // Khung cuối bài (MKT-03, 03/10/2026). Câu A/B/C chép nguyên văn bản Thương hiệu đã duyệt — KHÔNG sửa chữ.
-// fm.khuyen_cao: mảng khoá ("dam" → câu A, "thanh-huong" → câu C); khoá lạ → dừng build.
-// Sau các câu khuyến cáo LUÔN có câu B. Bài có sản phẩm (no_product khác true) mà thiếu khuyen_cao
+// fm.khuyen_cao: mảng khoá ("dam" → câu A, "thanh-huong" → câu C, "thanhHuong" → A8 + A4); khoá lạ → dừng build.
+// Sau các câu khuyến cáo có câu B (= A8, đọc qua cauDuyet), trừ "thanhHuong" vì A8 đã nằm trong cặp A8 + A4.
+// Bài có sản phẩm (no_product khác true) mà thiếu khuyen_cao
 // thì GIỮ khối cũ + in "THIEU khuyen_cao: <slug>" để Kỹ thuật bổ sung ở PR sau.
+// "thanhHuong" (TH ghi đúng tên này) = đúng A8 rồi A4, đọc qua cauDuyet. Khác khoá cũ "thanh-huong" (câu C + A8).
 // "khuyen_cao": [] (mảng rỗng TƯỜNG MINH) = bài không thẻ: chỉ in câu B (= A8, sha 4c1a338e), không khung cũ (TH 06/10/2026, PR #13).
 // Hai bài giấc ngủ không thẻ nhưng chân trang không được gọi trà là thực phẩm bổ sung (KT-sau-1).
 const BAI_NGU_KHONG_TPBS = new Set([
@@ -58,7 +60,6 @@ const KHUYEN_CAO_CAU = {
   dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
   "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
 };
-const KHUYEN_CAO_CAU_B = "Bài viết chia sẻ thông tin tham khảo, không thay thế tư vấn của bác sĩ.";
 const POST_DISCLAIMER_CU = `<div class="post-disclaimer">
           Nội dung mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hoặc tư vấn y khoa. Các sản phẩm IKI là <strong>thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Khi có vấn đề sức khoẻ, hãy tham khảo ý kiến bác sĩ.
         </div>`;
@@ -68,12 +69,21 @@ function khoiKhuyenCao(fm) {
     console.warn(`THIEU khuyen_cao: ${fm.slug}`);
     return POST_DISCLAIMER_CU;
   }
+  const hopLe = [...Object.keys(KHUYEN_CAO_CAU), "thanhHuong"];
   const dong = [];
+  let daCoA8 = false;
   for (const k of khoa) {
-    if (!KHUYEN_CAO_CAU[k]) throw new Error(`khuyen_cao không hợp lệ "${k}" ở bài ${fm.slug} (chỉ nhận: ${Object.keys(KHUYEN_CAO_CAU).join(", ")})`);
+    if (k === "thanhHuong") {
+      // A8 rồi A4. Không thêm câu B lần nữa (A8 đã là câu B).
+      dong.push(`<p>${cauDuyet("A8")}</p>`);
+      dong.push(`<p>${cauDuyet("A4")}</p>`);
+      daCoA8 = true;
+      continue;
+    }
+    if (!KHUYEN_CAO_CAU[k]) throw new Error(`khuyen_cao không hợp lệ "${k}" ở bài ${fm.slug} (chỉ nhận: ${hopLe.join(", ")})`);
     dong.push(`<p>${KHUYEN_CAO_CAU[k]}</p>`);
   }
-  dong.push(`<p>${KHUYEN_CAO_CAU_B}</p>`);
+  if (!daCoA8) dong.push(`<p>${cauDuyet("A8")}</p>`);
   return `<div class="post-disclaimer">\n          ${dong.join("\n          ")}\n        </div>`;
 }
 // Beacon đo tương tác lead (đọc/click/tải) — gắn mã lead từ ?lid (link email). Không thu thập gì nếu không có lid.

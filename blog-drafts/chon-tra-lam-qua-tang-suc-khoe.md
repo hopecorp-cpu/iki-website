@@ -3,6 +3,7 @@
   "title": "Chọn trà làm quà tặng: tiêu chí và cách gói cho tinh tế",
   "seo_title": "Chọn trà làm quà tặng: tiêu chí và cách gói tinh tế",
   "slug": "chon-tra-lam-qua-tang-suc-khoe",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Chọn trà làm quà tặng thế nào cho trúng ý? Năm tiêu chí chọn trà, bảng gợi ý theo người nhận (bố mẹ, sếp, bạn ăn chay, người hạn chế caffeine), mức quà hợp từng quan hệ, cách gói và lời nhắn kèm.",
   "keyword": "trà làm quà tặng",
   "category": "cam-nang",
@@ -229,4 +230,4 @@ Nếu bạn muốn chọn quà cho cả nhà mà vẫn phân vân mỗi người
 - American College of Obstetricians and Gynecologists (ACOG) — *Moderate Caffeine Consumption During Pregnancy*: khuyến nghị giữ dưới 200 mg caffeine mỗi ngày khi mang thai: [acog.org](https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2010/08/moderate-caffeine-consumption-during-pregnancy)
 - U.S. Food and Drug Administration — *Spilling the Beans: How Much Caffeine is Too Much?*: lượng caffeine thay đổi theo loại đồ uống và cách pha: [fda.gov](https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much)
 
-Nội dung trong bài mang tính chia sẻ kiến thức chọn quà và thói quen ăn uống, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Người đang mang thai, cho con bú, có bệnh nền hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng một loại trà thảo mộc mới.
+Nội dung trong bài mang tính chia sẻ kiến thức chọn quà và thói quen ăn uống, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Người đang mang thai, cho con bú, có bệnh nền hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng một loại trà thảo mộc mới.

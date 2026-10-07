@@ -3,6 +3,7 @@
   "title": "Bảo quản trà thảo mộc thế nào để giữ hương lâu",
   "seo_title": "Bảo quản trà thảo mộc thế nào để giữ hương lâu",
   "slug": "bao-quan-tra-thao-moc-giu-huong",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Bảo quản trà thảo mộc đúng cách: chọn hộp kín tối màu, đặt ở đâu trong bếp, xử lý mùa nồm, có nên để tủ lạnh không, dấu hiệu trà mất hương và cách chia nhỏ hộp để hương giữ được lâu nhất.",
   "keyword": "bảo quản trà thảo mộc",
   "category": "thuc-pham",
@@ -161,4 +162,4 @@ Xin nhắc lại lần cuối cho rõ: toàn bộ bài viết bàn về cách gi
 - Planetary Design — *How Long Does Loose Leaf Tea Last? Storage Guide 2026*: [planetarydesign.com](https://planetarydesign.com/blogs/news/how-long-does-loose-leaf-tea-last-storage-guide-2026)
 - Terza Luna — *How to store tea and herbal teas: our tips*: [terzaluna.com](https://www.terzaluna.com/en/blog/how-to-store-tea-and-herbal-teas-our-tips)
 
-Nội dung trên mang tính chia sẻ kiến thức về cách bảo quản thực phẩm trong sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về cách bảo quản thực phẩm trong sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

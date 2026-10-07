@@ -3,6 +3,7 @@
   "title": "Thức uống thảo mộc thư giãn buổi tối và gợi ý Trà Thanh Hương",
   "seo_title": "Thức uống thảo mộc thư giãn buổi tối và Trà Thanh Hương",
   "slug": "tra-thanh-huong-thu-gian",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Chọn thức uống thảo mộc thư giãn cho buổi tối: tiêu chí trà thơm dịu, vai trò hương thơm trong nghi thức nghỉ ngơi, và Trà Thanh Hương - trà túi lọc hoa nhài, phục linh, hoa quế, trần bì.",
   "keyword": "thức uống thảo mộc thư giãn",
   "category": "thuc-pham",

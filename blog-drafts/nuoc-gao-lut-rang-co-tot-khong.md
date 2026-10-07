@@ -3,6 +3,7 @@
   "title": "Uống nước gạo lứt rang mỗi ngày có tốt không? Cách rang, cách nấu và ai nên hạn chế",
   "seo_title": "Uống nước gạo lứt rang mỗi ngày có tốt không?",
   "slug": "nuoc-gao-lut-rang-co-tot-khong",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Uống nước gạo lứt rang mỗi ngày có tốt không? Hướng dẫn rang và nấu đúng cách, uống bao nhiêu là vừa, uống lúc nào, so sánh với nước lọc và trà, cùng những ai nên hạn chế.",
   "keyword": "uống nước gạo lứt rang mỗi ngày có tốt không",
   "category": "Kiến thức thực phẩm",
@@ -179,4 +180,4 @@ Chăm sóc sức khoẻ chủ động thường bắt đầu như vậy: không 
 - AIA Việt Nam — Bác sĩ trả lời: Uống nước gạo lứt rang mỗi ngày có tốt không: [aia.com.vn](https://www.aia.com.vn/vi/song-khoe/loi-khuyen/dinh-duong/uong-nuoc-gao-lut-rang-moi-ngay-co-tot-khong.html)
 - MEDLATEC — Gạo lứt rang có tác dụng gì cho sức khoẻ: [medlatec.vn](https://medlatec.vn/tin-tuc/gao-lut-rang-co-tac-dung-gi-cho-suc-khoe-s51-n33191)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn đang mang thai, cho con bú, dùng thuốc dài ngày hoặc có bệnh nền, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen uống hằng ngày. Các sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn đang mang thai, cho con bú, dùng thuốc dài ngày hoặc có bệnh nền, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen uống hằng ngày.*

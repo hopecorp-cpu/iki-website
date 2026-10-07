@@ -3,6 +3,7 @@
   "title": "Trà thảo mộc nào không có caffeine? Cách phân biệt trà thật và trà thảo mộc",
   "seo_title": "Trà thảo mộc nào không có caffeine? Danh sách và cách nhận biết",
   "slug": "tra-thao-moc-nao-khong-co-caffeine",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Trà thảo mộc nào không có caffeine? Phân biệt trà từ cây chè với trà từ hoa lá củ quả, danh sách nhóm không caffeine, nhóm có caffeine và cách đọc nhãn để biết chắc.",
   "keyword": "trà thảo mộc nào không có caffeine",
   "category": "thuc-pham",
@@ -205,4 +206,4 @@ Nếu bạn đang tìm một thức uống ấm cho buổi tối mà không mu�
 - VnExpress Sức khỏe — *Trà xanh chứa bao nhiêu caffeine*: [vnexpress.net](https://vnexpress.net/tra-xanh-chua-bao-nhieu-caffeine-5064042.html)
 - Nhà thuốc Long Châu — *Hàm lượng caffeine trong trà là bao nhiêu*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/ham-luong-caffeine-trong-tra-la-bao-nhieu-tac-dung-cua-caffeine-trong-tra.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thực phẩm và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thực phẩm và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

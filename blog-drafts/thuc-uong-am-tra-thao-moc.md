@@ -3,6 +3,7 @@
   "title": "Thức uống ấm mỗi ngày và trà thảo mộc",
   "seo_title": "Thức uống ấm và trà thảo mộc: nếp uống ấm mỗi ngày",
   "slug": "thuc-uong-am-tra-thao-moc",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Thức uống ấm mỗi ngày và trà thảo mộc giúp cơ thể dễ chịu, thư thái hơn. Gợi ý nếp uống ấm khoa học, cách chọn và pha trà thảo mộc, thời điểm uống hợp lý theo thể tạng.",
   "keyword": "trà thảo mộc",
   "category": "thuc-pham",

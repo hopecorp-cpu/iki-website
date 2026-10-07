@@ -3,6 +3,7 @@
   "title": "Nếp uống trà buổi sáng cho người bận rộn: 5 phút mỗi ngày",
   "seo_title": "Uống trà buổi sáng: nếp 5 phút cho người bận rộn",
   "slug": "nep-uong-tra-buoi-sang-cho-nguoi-ban-ron",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Uống trà buổi sáng thế nào để thành nếp khi ngày nào cũng vội? Cách dựng nếp 5 phút: chuẩn bị từ tối, gắn vào việc sẵn có, uống cách bữa sáng hợp lý.",
   "keyword": "uống trà buổi sáng",
   "category": "thoi-quen",
@@ -231,7 +232,7 @@ Nếu chỉ giữ lại một việc sau bài này, hãy làm ngay tối nay: đ
 
 Còn nếu bạn muốn một điểm khởi đầu hợp với riêng mình — nên chọn nhịp sinh hoạt, nhóm thức uống và nếp ăn thế nào — hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để nhận gợi ý theo thể trạng của chính bạn.
 
-*Lưu ý: Bài viết cung cấp thông tin tham khảo về nếp sinh hoạt. Các sản phẩm được nhắc đến là thực phẩm và thực phẩm bổ sung, không phải là thuốc, không có tác dụng thay thế thuốc chữa bệnh và không nhằm chẩn đoán hay điều trị bất kỳ bệnh nào. Người có bệnh nền, đang mang thai, cho con bú hoặc đang dùng thuốc theo đơn nên hỏi ý kiến bác sĩ trước khi dùng đều đặn một loại trà hay thảo mộc.*
+*Lưu ý: Bài viết cung cấp thông tin tham khảo về nếp sinh hoạt. Người có bệnh nền, đang mang thai, cho con bú hoặc đang dùng thuốc theo đơn nên hỏi ý kiến bác sĩ trước khi dùng đều đặn một loại trà hay thảo mộc.*
 
 ## Nguồn tham khảo
 

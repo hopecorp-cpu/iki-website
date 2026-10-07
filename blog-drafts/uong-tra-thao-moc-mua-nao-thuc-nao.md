@@ -3,6 +3,7 @@
   "title": "Uống trà thảo mộc theo mùa: mùa nào hợp vị nào",
   "seo_title": "Uống trà thảo mộc theo mùa: mùa nào hợp vị nào",
   "slug": "uong-tra-thao-moc-mua-nao-thuc-nao",
+  "khuyen_cao": ["thanhHuong"],
   "description": "Uống trà thảo mộc theo mùa: mùa nóng vị thanh nhẹ, mùa nồm vị the, mùa thu vị hoa nhài, hoa quế, mùa lạnh vị ấm. Cách chọn vị, cách pha và nếp uống buổi tối cả năm.",
   "keyword": "trà thảo mộc theo mùa",
   "category": "thoi-quen",
