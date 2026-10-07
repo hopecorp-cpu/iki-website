@@ -145,7 +145,7 @@ export function ctaSanPham(fm = {}, goc = "../") {
 }
 
 export const CSS_CTA_SP = `
-    .cta-sp{display:flex;gap:22px;align-items:center;flex-wrap:wrap;background:#F7F7F2;border:1px solid #E2E7DE;border-left:6px solid #2E6B2D;border-radius:18px;padding:24px 26px;margin:34px 0}
+    .cta-sp{display:flex;gap:22px;align-items:center;flex-wrap:wrap;background:#ffffff;border:1px solid #E2E7DE;border-left:6px solid #2E6B2D;border-radius:18px;padding:24px 26px;margin:34px 0}
     .cta-sp-anh img{width:160px;height:160px;object-fit:contain;border-radius:12px;background:#fff}
     .cta-sp-chu{flex:1 1 320px;min-width:0}
     .cta-sp-nhan{display:inline-block;font-size:.7rem;font-weight:800;letter-spacing:.14em;text-transform:uppercase;color:#2E6B2D;margin-bottom:6px}

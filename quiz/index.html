@@ -38,7 +38,7 @@
   <script src="qrcode.min.js"></script>
 <style>
   :root{
-    --bg:#F5F1E8; --surface:#fff; --ink:#1C2E27; --muted:#6B7B72;
+    --bg:#ffffff; --surface:#fff; --ink:#1C2E27; --muted:#6B7B72;
     --teal:#2E8975; --teal-2:#4BC0AB; --teal-soft:#E9F3EF; --lime:#A8D254;
     --line:#E7E1D4; --deep-a:#12261F; --deep-b:#1C3A30;
     --good:#3FA98C; --warn:#E4A33C; --alert:#DB6B54;
@@ -49,14 +49,14 @@
     --shadow:0 1px 2px rgba(20,40,32,.05),0 8px 30px rgba(20,40,32,.08);
   }
   *{box-sizing:border-box}
-  body{margin:0;background:radial-gradient(1200px 600px at 50% -10%, #EDEADF 0%, transparent 60%),var(--bg);
+  body{margin:0;background:radial-gradient(1200px 600px at 50% -10%, #ffffff 0%, transparent 60%),var(--bg);
     color:var(--ink);font-family:var(--sans);line-height:1.55;-webkit-font-smoothing:antialiased}
   .wrap{max-width:660px;margin:0 auto;padding:16px 18px 60px}
   .brand{display:flex;align-items:center;gap:9px;justify-content:center;margin:6px 0 4px}
   .brand .mark{width:34px;height:34px;object-fit:contain;display:block}
   .brand b{font-family:var(--serif);font-size:19px} .brand span{color:var(--muted);font-size:11px;letter-spacing:.14em;text-transform:uppercase;font-weight:700}
   .steps{display:flex;gap:6px;justify-content:center;margin:14px 0 18px}
-  .steps i{height:6px;width:34px;border-radius:99px;background:#E1DACB;transition:.3s} .steps i.on{background:var(--grad);width:46px}
+  .steps i{height:6px;width:34px;border-radius:8px;background:#E1DACB;transition:.3s} .steps i.on{background:var(--grad);width:46px}
   .card{background:var(--surface);border:1px solid var(--line);border-radius:22px;box-shadow:var(--shadow);padding:26px 22px}
   .eyebrow{color:var(--teal);font-weight:800;letter-spacing:.1em;text-transform:uppercase;font-size:.72rem;text-align:center}
   h1{font-family:var(--serif);font-weight:700;font-size:clamp(1.7rem,6vw,2.5rem);line-height:1.12;text-align:center;margin:.5rem 0 .6rem;text-wrap:balance}
@@ -91,12 +91,12 @@
   .bars{margin:20px 0 4px;display:flex;flex-direction:column;gap:12px}
   .bar .top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:5px}
   .bar .nm{font-weight:700;font-size:.96rem} .bar .st{font-size:.78rem;font-weight:800;letter-spacing:.03em;text-transform:uppercase}
-  .bar .track{position:relative;height:12px;background:#EDE7DA;border-radius:99px;overflow:hidden}
+  .bar .track{position:relative;height:12px;background:#EDE7DA;border-radius:8px;overflow:hidden}
   .bar .track::after{content:"";position:absolute;left:40%;top:0;bottom:0;border-left:2px dashed rgba(219,107,84,.9);z-index:2}
   .chart-legend{display:flex;gap:16px;justify-content:center;flex-wrap:wrap;font-size:.78rem;color:var(--muted);margin:12px 0 2px}
   .chart-legend span{display:inline-flex;align-items:center;gap:5px} .chart-legend i{width:10px;height:10px;border-radius:3px;display:inline-block}
   .chart-legend .dl{width:0;height:12px;border-left:2px dashed var(--alert)}
-  .bar .fill{height:100%;border-radius:99px;transition:width .8s cubic-bezier(.3,0,.2,1)}
+  .bar .fill{height:100%;border-radius:8px;transition:width .8s cubic-bezier(.3,0,.2,1)}
   .st.g{color:var(--good)} .st.w{color:var(--warn)} .st.a{color:var(--alert)}
   .fill.g{background:var(--good)} .fill.w{background:var(--warn)} .fill.a{background:var(--alert)}
 
@@ -111,7 +111,7 @@
   .acc.open .b{max-height:1400px}
   .acc .b .inner{padding:2px 16px 16px;color:#3d4a44;font-size:.94rem;line-height:1.7}
   .acc .b .inner p{margin:0 0 10px} .acc .b .inner b{color:var(--ink)}
-  .pill{display:inline-block;font-size:.68rem;font-weight:800;text-transform:uppercase;letter-spacing:.03em;padding:2px 8px;border-radius:99px}
+  .pill{display:inline-block;font-size:.68rem;font-weight:800;text-transform:uppercase;letter-spacing:.03em;padding:2px 8px;border-radius:8px}
   .pill.g{background:var(--good-s);color:var(--good)} .pill.w{background:var(--warn-s);color:var(--warn)} .pill.a{background:var(--alert-s);color:var(--alert)}
 
   .sol{display:flex;gap:12px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--teal-2);border-radius:12px;padding:14px 15px;margin-bottom:10px;box-shadow:var(--shadow)}
@@ -140,17 +140,17 @@
   .choice::after{content:"→";position:absolute;right:18px;top:50%;transform:translateY(-50%);font-size:1.5rem;color:var(--teal-2);font-weight:700}
   .choice:hover{border-color:var(--teal);background:var(--teal-soft);transform:translateX(3px)}
   .choice.hot{border-color:var(--teal);background:var(--teal-soft)} .choice.hot::after{color:var(--teal)}
-  .choice .tagf{display:inline-block;background:var(--grad);color:#fff;font-size:.64rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:2px 8px;border-radius:99px;margin-bottom:6px}
+  .choice .tagf{display:inline-block;background:var(--grad);color:#fff;font-size:.64rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:2px 8px;border-radius:8px;margin-bottom:6px}
   .choice b{font-size:1.08rem;display:block;margin-bottom:2px} .choice span{color:var(--muted);font-size:.92rem}
 
   .offer{background:#fff;border:1.8px solid var(--line);border-radius:18px;padding:16px 17px 16px 46px;margin-bottom:11px;box-shadow:var(--shadow);position:relative;cursor:pointer;transition:.13s}
   .offer:hover{border-color:var(--teal-2)} .offer.sel{border-color:var(--teal);background:var(--teal-soft)}
   .offer .radio{position:absolute;left:16px;top:18px;width:20px;height:20px;border-radius:50%;border:2px solid #cfd8d2;display:grid;place-items:center}
   .offer.sel .radio{border-color:var(--teal)} .offer .radio::after{content:"";width:10px;height:10px;border-radius:50%;background:var(--grad);transform:scale(0);transition:.13s} .offer.sel .radio::after{transform:scale(1)}
-  .offer .best{position:absolute;top:-11px;left:40px;background:var(--grad);color:#fff;font-size:.66rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:4px 10px;border-radius:99px}
+  .offer .best{position:absolute;top:-11px;left:40px;background:var(--grad);color:#fff;font-size:.66rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;padding:4px 10px;border-radius:8px}
   .offer h4{margin:0 0 2px;font-size:1.05rem} .offer .d{color:var(--muted);font-size:.9rem;margin:0 0 8px}
   .offer .price{font-family:var(--serif);font-weight:700;font-size:1.4rem;color:var(--teal)} .offer .price s{color:var(--alert);font-size:1rem;font-weight:600;margin-left:8px;text-decoration-thickness:2px}
-  .gift{display:inline-flex;gap:6px;background:var(--teal-soft);color:var(--teal);font-weight:700;font-size:.76rem;border-radius:99px;padding:4px 10px;margin-top:7px}
+  .gift{display:inline-flex;gap:6px;background:var(--teal-soft);color:var(--teal);font-weight:700;font-size:.76rem;border-radius:8px;padding:4px 10px;margin-top:7px}
 
   .sumrow{display:flex;justify-content:space-between;padding:10px 0;border-bottom:1px solid var(--line);font-size:.96rem}
   .sumrow.tot{border-bottom:none;font-weight:800;font-size:1.1rem} .sumrow.tot .amt{color:var(--teal);font-family:var(--serif)}
@@ -592,11 +592,11 @@ function startPoll(){ stopPoll(); if(!payInfo)return; var n=0;
 }
 function stopPoll(){ if(payTimer){clearInterval(payTimer);payTimer=null;} }
 
-const CODIA_CTA = `<div style="margin-top:18px;background:#FFF6E8;border:1px solid #F5DDB8;border-radius:18px;padding:18px 16px;text-align:center">
+const CODIA_CTA = `<div style="margin-top:18px;background:#ffffff;border:1px solid #F5DDB8;border-radius:18px;padding:18px 16px;text-align:center">
   <div style="font-weight:800;letter-spacing:.08em;text-transform:uppercase;font-size:.72rem;color:#2E8975">Bước tiếp theo</div>
   <div style="font-family:Georgia,serif;font-weight:700;font-size:1.25rem;margin:.35rem 0">Bạn thuộc thể Hàn hay Nhiệt?</div>
   <p style="color:#6B7B72;font-size:.9rem;margin:.2rem 0 .8rem">Làm tiếp quiz CƠ ĐỊA Đông y 2 phút — biết thể trạng của mình và món nên ăn, cá nhân hoá sâu hơn nữa.</p>
-  <a href="/quiz/co-dia/" onclick="try{fnl(&quot;codia_next&quot;)}catch(e){}" style="display:block;background:#F18D00;color:#fff;font-weight:800;border-radius:999px;padding:13px 18px;text-decoration:none;box-shadow:0 8px 22px rgba(241,141,0,.35)">Quiz cơ địa 2 phút →</a>
+  <a href="/quiz/co-dia/" onclick="try{fnl(&quot;codia_next&quot;)}catch(e){}" style="display:block;background:#F18D00;color:#fff;font-weight:800;border-radius:8px;padding:13px 18px;text-decoration:none;box-shadow:0 8px 22px rgba(241,141,0,.35)">Quiz cơ địa 2 phút →</a>
 </div>`;
 function thankyou(){ steps(3); const pk=PKG[selPkg]||{name:'của bạn'};
   const head = paidDone ? 'Thanh toán thành công!' : 'Cảm ơn bạn!';

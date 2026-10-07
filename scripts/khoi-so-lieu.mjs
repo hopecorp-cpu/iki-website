@@ -141,7 +141,7 @@ export const CSS_KHOI_SO = `
 .so-noi-o{flex:1 1 150px;padding:16px 18px;background:#F5F7F3;border-left:4px solid #D7B46A;border-radius:4px}
 .so-noi-so{font-size:30px;font-weight:800;color:#1F4D2F;line-height:1.15;font-variant-numeric:tabular-nums}
 .so-noi-nhan{margin-top:4px;font-size:13px;color:#5A5A50}
-.khoi-co-che{margin:28px 0;padding:18px 20px;background:#FAFAF5;border:1px solid #E6E2D6;border-radius:6px}
+.khoi-co-che{margin:28px 0;padding:18px 20px;background:#ffffff;border:1px solid #E6E2D6;border-radius:6px}
 .khoi-co-che h3{margin:0 0 8px;font-size:13px;letter-spacing:1.2px;text-transform:uppercase;color:#8B8776}
 .khoi-co-che p{margin:0;font-size:15px;line-height:1.75}
 blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D2F;font-size:19px;line-height:1.6;font-weight:600;color:#1F4D2F;font-style:normal}
