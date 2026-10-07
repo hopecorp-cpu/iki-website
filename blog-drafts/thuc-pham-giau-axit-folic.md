@@ -26,7 +26,8 @@
     {"title": "Luộc rau thế nào để không mất chất", "url": "luoc-rau-the-nao-de-khong-mat-chat.html"},
     {"title": "Thực phẩm giàu sắt", "url": "thuc-pham-giau-sat.html"},
     {"title": "Ăn chay đủ chất và cân bằng", "url": "an-chay-du-chat-can-bang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nếu bạn từng đọc tờ hướng dẫn dinh dưỡng cho bà bầu, chắc chắn bạn đã gặp hai chữ "axit folic". Nhưng đây không phải vi chất chỉ dành cho thai kỳ — nó cần cho mọi người, mỗi ngày, ở mọi lứa tuổi, vì tham gia vào quá trình tạo tế bào mới của cơ thể. Bài viết này liệt kê những **thực phẩm giàu axit folic** dễ tìm trong chợ Việt, nói rõ nhu cầu mỗi ngày, chỉ ra cách nấu khiến bạn mất chất một cách đáng tiếc, và điểm danh những nhóm người cần chú ý hơn cả.
@@ -166,4 +167,4 @@ Bạn có thể ghi lại bữa ăn hằng ngày trong [App IKI](../app.html) đ
 - Báo Sức khoẻ & Đời sống — *14 loại thực phẩm chứa nhiều axit folic tốt cho phụ nữ mang thai*: [suckhoedoisong.vn](https://suckhoedoisong.vn/14-loai-thuc-pham-lanh-manh-chua-nhieu-axit-folic-tot-cho-phu-nu-mang-thai-169220626191855602.htm)
 - Bệnh viện Đa khoa Tâm Anh — *20 thực phẩm giàu axit folic*: [tamanhhospital.vn](https://tamanhhospital.vn/thuc-pham-giau-axit-folic/)
 
-Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

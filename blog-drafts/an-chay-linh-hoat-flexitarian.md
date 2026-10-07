@@ -27,7 +27,8 @@
     {"title": "Đạm thực vật và đạm động vật khác nhau ra sao", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Thực đơn 7 ngày cho người ăn chay đủ đạm", "url": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html"},
     {"title": "Vitamin B12 cho người ăn chay", "url": "vitamin-b12-nguoi-an-chay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một khoảng trống rất lớn giữa hai lựa chọn mà nhiều người tưởng là duy nhất: hoặc ăn mặn như bình thường, hoặc ăn chay trường. Người muốn ăn nhiều rau hơn, ít thịt hơn, nhưng chưa sẵn sàng (hoặc không có nhu cầu) bỏ hẳn thịt cá thường không biết mình thuộc về đâu — và cuối cùng chẳng thay đổi gì cả.

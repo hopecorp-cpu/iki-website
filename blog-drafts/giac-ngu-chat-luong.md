@@ -53,7 +53,8 @@
     {"title":"Ăn theo mùa và thể tạng","url":"an-theo-mua-va-the-tang.html"},
     {"title":"Vận động nhẹ mỗi ngày: bắt đầu từ đi bộ","url":"van-dong-nhe-moi-ngay.html"},
     {"title":"Ăn sáng thế nào cho một ngày tràn năng lượng","url":"an-sang-tran-nang-luong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

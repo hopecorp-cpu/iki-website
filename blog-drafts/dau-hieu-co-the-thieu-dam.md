@@ -27,7 +27,8 @@
     {"title": "Vì sao chọn đạm thực vật", "url": "vi-sao-chon-dam-thuc-vat.html"},
     {"title": "Đạm cho người trên 50 giữ khối cơ", "url": "dam-cho-nguoi-tren-50-giu-khoi-co.html"},
     {"title": "Thực đơn 7 ngày cho người ăn chay đủ đạm", "url": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Đa số chúng ta chỉ nghĩ tới đạm khi nhắc chuyện tập gym hay tăng cơ. Nhưng đạm không phải chuyện của người tập tạ — nó là nguyên liệu để cơ thể xây và sửa gần như mọi thứ: cơ bắp, da, tóc, móng, enzyme tiêu hoá, kháng thể, các chất dẫn truyền thần kinh. Vì thế khi khẩu phần thiếu đạm kéo dài, cơ thể không báo bằng một triệu chứng rõ ràng mà báo bằng hàng loạt tín hiệu mờ, dễ bị gán cho "dạo này bận quá nên mệt".
@@ -203,7 +204,7 @@ Vài lưu ý khi chọn:
 - **Đừng dùng để thay bữa ăn**. Đây là phần bổ sung, không phải phần thay thế.
 - **Người có bệnh thận hoặc đang dùng thuốc phải hỏi bác sĩ trước.**
 
-Bài [chọn thực phẩm bổ sung đúng cách](chon-thuc-pham-bo-sung-dung-cach.html) có hướng dẫn đọc nhãn chi tiết. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Bài [chọn thực phẩm bổ sung đúng cách](chon-thuc-pham-bo-sung-dung-cach.html) có hướng dẫn đọc nhãn chi tiết.
 
 ## Thực đơn mẫu một ngày đủ đạm
 

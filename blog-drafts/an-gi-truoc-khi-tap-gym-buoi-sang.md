@@ -26,7 +26,8 @@
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Uống gì thay cà phê buổi sáng", "url": "uong-gi-thay-ca-phe-buoi-sang.html"},
     {"title": "Ăn yến mạch buổi sáng đúng cách", "url": "an-yen-mach-buoi-sang-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bạn đặt chuông 5 giờ 30, mắt còn cay, phòng gym mở cửa lúc 6 giờ, và câu hỏi duy nhất trong đầu là: **ăn gì trước khi tập gym buổi sáng** — hay cứ đi luôn cho nhanh? Đây là tình huống rất Việt Nam: quỹ thời gian buổi sáng luôn eo hẹp, còn lời khuyên trên mạng thì phần lớn được dịch từ chế độ ăn của người tập chuyên nghiệp có cả tiếng rưỡi rảnh rỗi trước buổi tập.

@@ -168,12 +168,15 @@
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-fig{margin:0}
+    .post-hero-fig .post-hero-img{display:block}
+    .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}
     .post-eyebrow{display:inline-block;font-family:var(--font-sans,'Manrope');font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
     .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
-    .med-notice a{color:#8a5a12;text-decoration:underline}
+    .med-notice a{color:var(--iki-teal-deep,#2E8975);text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -261,10 +264,18 @@ blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D
     .lead-row{display:flex;gap:10px;max-width:480px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:13px 16px;font-size:1rem;font-family:inherit}
     .lead-phone{display:block;width:100%;max-width:480px;margin:10px auto 0;border:none;border-radius:12px;padding:11px 16px;font-size:.95rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:8px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+    .post-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.4rem 0;background:#FFFFFF;border:1px solid #E5E5E5;border-radius:0}
+    .post-table{width:100%;border-collapse:collapse;background:#FFFFFF;font-family:inherit;font-size:1rem;line-height:1.5}
+    .post-table th,.post-table td{border:1px solid #E5E5E5;padding:10px 14px;text-align:left;vertical-align:top}
+    .post-table th{font-weight:700;background:#FFFFFF;color:#101828}
+    .post-table tr>:first-child{border-left:0} .post-table tr>:last-child{border-right:0}
+    .post-table thead tr:first-child>*{border-top:0} .post-table tr:last-child>td{border-bottom:0}
+    .post-table thead:last-child tr:last-child>th{border-bottom:0}
+    .post-table [style*="text-align:right"]{white-space:nowrap}
+    @media(max-width:640px){.post-table th,.post-table td{min-width:8em}}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -302,7 +313,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">thuc-pham</span>
+          <span class="post-eyebrow">Thực phẩm</span>
           <h1 class="post-title">Đậu nành trong bữa cơm Việt: hiểu đúng một nguồn đạm thực vật quen thuộc</h1>
           <div class="post-meta">
             <span>Đội ngũ Health Coach IKI</span><span>·</span>
@@ -310,7 +321,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>8 phút đọc</span>
           </div>
         </div>
+        <figure class="post-hero-fig">
         <img class="post-hero-img" src="../assets/blog/dau-nanh-trong-bua-com-viet-hero.jpg" alt="Bát gốm xanh nhạt đặt trên đĩa gỗ, bên cạnh chén sứ trắng và lọ thuỷ tinh cắm cành lá xanh trên bàn gỗ (ảnh minh hoạ tạo bằng AI)" />
+        <figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI.</figcaption>
+        </figure>
       </div>
 
       <div class="post-wrap">
@@ -327,7 +341,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Đậu nành cũng cung cấp chất xơ, vitamin nhóm B, kali và magie. Vì vậy, khi nhìn đậu nành trong mâm cơm, mình có thể xem đây là một nguồn đạm thực vật quen thuộc bên cạnh nhiều thực phẩm khác, thay vì coi nó như một nguyên liệu đặc biệt cần dùng theo một công thức cố định.</p>
 <h2 id="mot-bia-dau-phu-mot-ly-sua-dau-nanh-co-bao-nhieu-d">Một bìa đậu phụ, một ly sữa đậu nành có bao nhiêu đạm</h2>
 <p>Theo Bảng thành phần thực phẩm Việt Nam của Viện Dinh dưỡng, Bộ Y tế, các thực phẩm dưới đây có lượng đạm như sau trên 100 g phần ăn được:</p>
-<p>| Thực phẩm | Lượng đạm trên 100 g | |---|---:| | Đậu phụ | 10,9 g | | Sữa đậu nành, loại dùng 100 g đậu/lít | 3,1 g | | Đậu nành hạt khô | 34,0 g | | Đậu đen hạt khô | 24,2 g | | Đậu xanh hạt khô | 23,4 g | | Lạc hạt khô | 27,5 g |</p>
+<div class="post-table-wrap" role="region" aria-label="Bảng" tabindex="0"><table class="post-table"><thead><tr><th>Thực phẩm</th><th style="text-align:right">Lượng đạm trên 100 g</th></tr></thead><tbody><tr><td>Đậu phụ</td><td style="text-align:right">10,9 g</td></tr><tr><td>Sữa đậu nành, loại dùng 100 g đậu/lít</td><td style="text-align:right">3,1 g</td></tr><tr><td>Đậu nành hạt khô</td><td style="text-align:right">34,0 g</td></tr><tr><td>Đậu đen hạt khô</td><td style="text-align:right">24,2 g</td></tr><tr><td>Đậu xanh hạt khô</td><td style="text-align:right">23,4 g</td></tr><tr><td>Lạc hạt khô</td><td style="text-align:right">27,5 g</td></tr></tbody></table></div>
 <p>Các số liệu của đậu nành, đậu đen, đậu xanh và lạc trong bảng là <strong>hạt khô, chưa nấu</strong>, nên không nên lấy trực tiếp những con số này để suy ra lượng đạm của một bát đậu đã nấu.</p>
 <p>Với đậu phụ, cách ước lượng dễ nhớ hơn. Nếu một bìa đậu phụ nặng khoảng 100 g, lượng đạm tương ứng vào khoảng 11 g. Đây là phép tính ước tính từ mức 10,9 g đạm trên 100 g trong bảng.</p>
 <p>Tương tự, sữa đậu nành loại dùng 100 g đậu trên một lít có khoảng 3,1 g đạm trên 100 g. Một ly khoảng 250 ml có thể ước tính cung cấp gần 8 g đạm.</p>
@@ -447,13 +461,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-sdt{font-size:.92rem}
 #ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
-#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}

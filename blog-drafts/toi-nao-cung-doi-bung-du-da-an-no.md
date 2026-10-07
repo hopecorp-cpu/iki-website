@@ -26,7 +26,8 @@
     {"title": "Ăn chậm nhai kỹ", "url": "an-cham-nhai-ky.html"},
     {"title": "Bữa tối nhẹ dễ tiêu", "url": "bua-toi-nhe-de-tieu.html"},
     {"title": "Ăn theo cảm xúc: làm sao để dừng lại", "url": "an-theo-cam-xuc-lam-sao-de-dung-lai.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bữa tối vừa xong chưa đầy hai tiếng. Bạn đã ăn hết bát cơm, có canh, có món mặn, bụng lúc đứng dậy còn thấy hơi tức. Vậy mà đến chín, mười giờ, cảm giác đói lại quay về — không phải cơn đói dữ dội, mà là kiểu nôn nao khiến bạn cứ đứng lên mở tủ lạnh dù không biết mình muốn gì.

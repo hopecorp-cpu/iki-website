@@ -53,7 +53,8 @@
     {"title": "Rau lá xanh: vì sao nên có trong bữa ăn hằng ngày", "url": "rau-la-xanh-moi-ngay.html"},
     {"title": "Ăn sáng thế nào cho một ngày tràn năng lượng", "url": "an-sang-tran-nang-luong.html"},
     {"title": "Ăn theo mùa và thể tạng", "url": "an-theo-mua-va-the-tang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

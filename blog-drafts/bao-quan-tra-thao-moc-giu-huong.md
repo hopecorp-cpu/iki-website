@@ -26,7 +26,8 @@
     {"title": "Trà túi lọc và trà rời khác nhau thế nào", "url": "tra-tui-loc-va-tra-roi-khac-nhau-the-nao.html"},
     {"title": "Trà thảo mộc Việt và trà nhập khẩu: chọn theo tiêu chí nào", "url": "tra-thao-moc-viet-va-tra-nhap-khau.html"},
     {"title": "Uống trà thảo mộc mỗi ngày có được không", "url": "uong-tra-thao-moc-moi-ngay-co-duoc-khong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nhiều người từng gặp cảnh này: mua một hộp trà hoa rất thơm, mấy tuần đầu pha tách nào cũng dậy hương, rồi một hôm mở hộp ra thấy mùi nhạt hẳn, pha lên chỉ còn màu mà không còn vị. Trà chưa hết hạn, chưa mốc, chưa hỏng — nó chỉ bay mất phần đáng tiền nhất. Chuyện đó không phải do trà kém, mà gần như luôn do cách **bảo quản trà thảo mộc** ở nhà: hộp đậy hờ, để cạnh bếp, hay nằm đúng chỗ nắng chiều rọi vào.

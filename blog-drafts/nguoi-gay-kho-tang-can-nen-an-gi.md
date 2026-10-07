@@ -60,7 +60,8 @@
       "title": "Đầy bụng khó tiêu sau ăn",
       "url": "day-bung-kho-tieu-sau-an.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

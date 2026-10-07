@@ -26,7 +26,8 @@
     {"title": "Chỉ số đường huyết của thực phẩm", "url": "chi-so-duong-huyet-thuc-pham.html"},
     {"title": "Ăn giảm muối — bắt đầu từ đâu", "url": "an-giam-muoi.html"},
     {"title": "Uống gì thay cà phê buổi sáng", "url": "uong-gi-thay-ca-phe-buoi-sang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bữa sáng của người Việt có lẽ là bữa sáng phong phú bậc nhất thế giới: **ăn sáng bún phở bánh mì**, xôi, cháo, bánh cuốn, cơm tấm — mỗi ngày một món vẫn chưa hết tuần. Nhưng cũng chính vì tiện và ngon quá, ít ai dừng lại hỏi xem bát phở hay ổ bánh mì ấy có đang cho cơ thể đủ thứ nó cần vào đầu ngày hay không. Rất nhiều người ăn sáng đầy đủ mà tới 10 giờ đã đói, tới 11 giờ đã buồn ngủ, rồi đổ lỗi cho công việc. Bài viết này soi lại bữa sáng quen thuộc ấy, chỉ ra chỗ thiếu thường gặp, và quan trọng nhất: cách gọi món để bữa sáng cân bằng hơn mà không phải từ bỏ món mình thích.

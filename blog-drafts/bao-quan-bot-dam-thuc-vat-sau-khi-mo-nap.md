@@ -26,7 +26,8 @@
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Đọc hạn sử dụng thực phẩm đúng cách", "url": "doc-han-su-dung-thuc-pham-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bạn mua một hộp bột đạm về với ý định rất tốt: thêm một bữa phụ tử tế cho buổi sáng vội, bù phần đạm còn thiếu trong ngày ăn chay. Rồi hộp bột nằm cạnh bồn rửa, nắp đậy hờ, muỗng để luôn trong hộp sau khi vừa khuấy ly nước ấm. Ba tuần sau, bột kết thành mảng cứng, mùi không còn thơm như hôm đầu, và bạn phân vân không biết nên dùng tiếp hay bỏ.
@@ -195,4 +196,4 @@ Và nếu bạn đang xây lại nếp ăn uống một cách bài bản hơn, h
 - VOH — *Cách bảo quản sữa bột đã mở nắp để dùng lâu và an toàn*: [voh.com.vn](https://voh.com.vn/meo-vat/cach-bao-quan-sua-bot-da-mo-nap-499070.html)
 - Cục An toàn thực phẩm (Bộ Y tế) — *Cách nhận biết, bảo quản thực phẩm đóng hộp*: [vfa.gov.vn](https://vfa.gov.vn/tin-tuc/cach-nhan-biet-bao-quan-thuc-pham-dong-hop-canh-bao-nguy-co-nhiem-khuan-tu-thuc-pham-dong-hop-khong-dam-bao-an-toan-thuc-pham.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về bảo quản thực phẩm và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn đang mang thai, cho con bú, có bệnh lý nền hoặc đang dùng thuốc theo chỉ định, hãy hỏi ý kiến chuyên gia y tế trước khi bổ sung sản phẩm mới.
+Nội dung trên mang tính chia sẻ kiến thức về bảo quản thực phẩm và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn đang mang thai, cho con bú, có bệnh lý nền hoặc đang dùng thuốc theo chỉ định, hãy hỏi ý kiến chuyên gia y tế trước khi bổ sung sản phẩm mới.

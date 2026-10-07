@@ -56,7 +56,8 @@
       "title": "8 nhóm thực phẩm lành mạnh nên có trong tuần",
       "url": "8-nhom-thuc-pham-lanh-manh.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 ## Vì sao chuẩn bị bữa ăn cả tuần lại đáng làm

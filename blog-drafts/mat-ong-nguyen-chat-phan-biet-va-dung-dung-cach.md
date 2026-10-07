@@ -27,7 +27,8 @@
     {"title": "Chất tạo ngọt thay đường có an toàn không", "url": "chat-tao-ngot-thay-duong-co-an-toan-khong.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Uống trà đúng cách", "url": "uong-tra-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

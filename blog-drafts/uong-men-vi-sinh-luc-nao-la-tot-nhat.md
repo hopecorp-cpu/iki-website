@@ -28,7 +28,8 @@
     {"title": "Sau khi uống kháng sinh nên ăn gì", "url": "sau-khi-uong-khang-sinh-nen-an-gi.html"},
     {"title": "Táo bón và tiêu hoá khoẻ", "url": "tao-bon-tieu-hoa-khoe.html"},
     {"title": "Chọn thực phẩm bổ sung đúng cách", "url": "chon-thuc-pham-bo-sung-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong tủ thuốc gia đình Việt bây giờ, gói men vi sinh gần như là món mặc định — mua khi con đi ngoài, mua sau đợt uống kháng sinh, mua vì thấy quảng cáo tốt cho đường ruột. Nhưng câu hỏi rất thực tế lại hiếm khi được trả lời rõ ràng: **uống men vi sinh lúc nào là tốt nhất**? Trước ăn, trong bữa hay sau ăn? Sáng hay tối? Và nếu đang uống kháng sinh thì sao?

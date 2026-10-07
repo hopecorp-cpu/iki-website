@@ -26,7 +26,8 @@
     {"title": "Ăn gì để giảm căng thẳng lo âu", "url": "an-gi-de-giam-cang-thang-lo-au.html"},
     {"title": "Giấc ngủ chất lượng", "url": "giac-ngu-chat-luong.html"},
     {"title": "Sức khoẻ răng miệng", "url": "suc-khoe-rang-mieng.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một kiểu mệt rất lạ: ngủ đủ số giờ, không thức khuya, vậy mà sáng dậy hàm cứng đơ, thái dương âm ỉ, răng ê khi uống ngụm nước lạnh đầu tiên. Nhiều người sống chung với cảm giác đó hàng năm trời mà không biết nguyên nhân, cho đến khi người nằm cạnh phàn nàn về tiếng ken két giữa đêm.
@@ -193,4 +194,4 @@ Bạn có thể bắt đầu ngay tối nay bằng việc dễ nhất: dừng c�
 - Pharmacity — *Nghiến răng khi ngủ: Nguyên nhân và cách khắc phục*: [pharmacity.vn](https://www.pharmacity.vn/nghien-rang-khi-ngu-nguyen-nhan-va-cach-khac-phuc.htm)
 - Colgate Việt Nam — *Nghiến răng khi ngủ*: [colgate.com.vn](https://www.colgate.com.vn/oral-health/bruxism/how-to-stop-grinding-teeth-at-night-0114)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu có dấu hiệu kể trên, bạn nên đi khám nha khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu có dấu hiệu kể trên, bạn nên đi khám nha khoa.

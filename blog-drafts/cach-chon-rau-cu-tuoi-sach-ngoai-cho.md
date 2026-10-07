@@ -27,7 +27,8 @@
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Rau củ đông lạnh có tốt như rau tươi không", "url": "rau-cu-dong-lanh-co-tot-nhu-rau-tuoi-khong.html"},
     {"title": "Trái cây theo mùa ở Việt Nam", "url": "trai-cay-theo-mua-o-viet-nam.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bạn đứng trước hai bó rau muống. Bó bên phải xanh mướt, cọng to mập, ngọn vươn dài đều tăm tắp, lá bóng như vừa được lau. Bó bên trái xanh nhạt hơn, cọng nhỏ hơn, có mấy chiếc lá lấm tấm dấu sâu ăn. Hầu hết chúng ta sẽ với tay lấy bó bên phải — vì nó trông đẹp hơn.

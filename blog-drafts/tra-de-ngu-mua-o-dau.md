@@ -41,7 +41,8 @@
     { "title": "Nghi thức trà buổi tối 15 phút: cách khép lại một ngày", "url": "nghi-thuc-tra-toi-15-phut.html" },
     { "title": "Đọc nhãn thực phẩm: hiểu bảng thành phần trong hai phút", "url": "doc-nhan-thuc-pham.html" },
     { "title": "Khó ngủ, trằn trọc: nếp buổi tối giúp dễ vào giấc", "url": "kho-ngu-tran-troc-nep-buoi-toi.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -170,4 +171,4 @@ Và nếu bạn muốn xem tối của mình đang cần gì trước khi cần 
 - Chính phủ Việt Nam — *Nghị định 43/2017/NĐ-CP về nhãn hàng hoá* (nội dung bắt buộc trên nhãn thực phẩm): [thuvienphapluat.vn](https://thuvienphapluat.vn/van-ban/Thuong-mai/Nghi-dinh-43-2017-ND-CP-nhan-hang-hoa-347903.aspx)
 - EFSA Panel on Dietetic Products, Nutrition and Allergies — *Scientific Opinion on the safety of caffeine*, EFSA Journal, 2015: [efsa.europa.eu](https://www.efsa.europa.eu/en/efsajournal/pub/4102)
 
-Nội dung trong bài mang tính chia sẻ kiến thức về thói quen sinh hoạt và cách đọc nhãn hàng hoá, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Khó ngủ kéo dài, người có bệnh nền, phụ nữ mang thai hoặc cho con bú nên hỏi ý kiến bác sĩ trước khi dùng bất kỳ sản phẩm nào.
+Nội dung trong bài mang tính chia sẻ kiến thức về thói quen sinh hoạt và cách đọc nhãn hàng hoá, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. Khó ngủ kéo dài, người có bệnh nền, phụ nữ mang thai hoặc cho con bú nên hỏi ý kiến bác sĩ trước khi dùng bất kỳ sản phẩm nào.

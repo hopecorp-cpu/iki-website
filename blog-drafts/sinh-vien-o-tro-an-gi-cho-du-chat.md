@@ -27,7 +27,8 @@
     {"title": "Ăn mì tôm thế nào cho đỡ hại", "url": "an-mi-tom-the-nao-cho-do-hai.html"},
     {"title": "Ăn sáng thế nào cho một ngày tràn năng lượng", "url": "an-sang-tran-nang-luong.html"},
     {"title": "Sức khoẻ học sinh mùa thi", "url": "suc-khoe-hoc-sinh-mua-thi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Tháng tám, các phòng trọ quanh trường lại bắt đầu sáng đèn. Với rất nhiều bạn trẻ, đây là lần đầu tiên trong đời phải tự trả lời một câu hỏi mà trước giờ mẹ vẫn trả lời hộ: hôm nay ăn gì. Và câu hỏi lớn hơn nằm phía sau nó — **sinh viên ở trọ nên ăn gì cho đủ chất** khi tiền thì ít, bếp thì chật, còn thời gian thì lúc nào cũng thiếu.
@@ -188,4 +189,4 @@ Nếu bạn muốn một điểm khởi đầu cụ thể hơn cho riêng mình 
 - Báo Tiền Phong (Sinh Viên Việt Nam) — *Bạn trẻ trổ tài với những bữa cơm sinh viên đầy dinh dưỡng*: [svvn.tienphong.vn](https://svvn.tienphong.vn/ban-tre-yeu-bep-tro-tai-voi-nhung-bua-com-sinh-vien-day-dinh-duong-post1418256.tpo)
 - Điện Máy Xanh — *Gợi ý thực đơn tiết kiệm cho sinh viên ăn cả tuần*: [dienmayxanh.com](https://www.dienmayxanh.com/vao-bep/goi-y-7-thuc-don-50k-cho-sinh-vien-don-gian-tiet-kiem-an-ca-10661)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

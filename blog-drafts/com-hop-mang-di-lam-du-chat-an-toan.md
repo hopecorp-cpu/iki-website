@@ -26,7 +26,8 @@
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Cơm nguội hâm lại có tốt không", "url": "com-nguoi-ham-lai-co-tot-khong.html"},
     {"title": "Ăn ngoài hàng quán thường xuyên nên ăn thế nào", "url": "an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 **Cơm hộp mang đi làm** là lựa chọn của rất nhiều người đi làm ở Việt Nam, và lý do thường bắt đầu từ tiền: một hộp cơm tự nấu rẻ hơn đáng kể so với cơm quán. Nhưng chỉ sau vài tuần, hầu hết mọi người phát hiện ra lý do lớn hơn để tiếp tục — họ kiểm soát được mình ăn gì, ăn bao nhiêu dầu mỡ, bao nhiêu rau, và buổi chiều làm việc không còn nặng nề như trước.
@@ -186,4 +187,4 @@ Nếu bạn đang bắt đầu, đừng đặt mục tiêu năm ngày ngay tuầ
 - Báo 24h — *Những người thường xuyên mang cơm trưa cần đặc biệt lưu ý*: [24h.com.vn](https://www.24h.com.vn/an-choi/nhung-nguoi-thuong-xuyen-mang-com-trua-can-dac-biet-luu-y-dieu-nay-c76a1761522.html)
 - Soha — *Hộp cơm trưa và lưu ý cho dân văn phòng*: [soha.vn](https://soha.vn/dung-de-hop-com-trua-thanh-nguy-co-suc-khoe-day-la-nhung-dieu-dan-van-phong-nen-luu-y-198260420153742355.htm)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống và sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống và sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

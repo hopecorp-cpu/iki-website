@@ -27,7 +27,8 @@
     {"title": "Uống nước đúng cách mỗi ngày theo thể tạng", "url": "uong-nuoc-dung-cach-moi-ngay.html"},
     {"title": "Học Viện IKI — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"},
     {"title": "Công nghệ IKI — AI cá nhân hoá theo thể tạng", "url": "../cong-nghe.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Mùa nào thức nấy" — câu nói giản dị của ông bà ta ẩn chứa một trong những nguyên tắc chăm sóc sức khoẻ bền vững nhất. Trước khi có tủ lạnh và siêu thị bốn mùa, người Việt đã ăn uống theo nhịp của thiên nhiên: rau vào vụ, quả đúng mùa, món nóng cho ngày lạnh, món mát cho ngày oi. Bài viết này chia sẻ cách kết hợp trí tuệ ăn theo mùa với hiểu biết về thể tạng, để bạn chăm sóc sức khoẻ chủ động dựa trên chính cơ thể mình.

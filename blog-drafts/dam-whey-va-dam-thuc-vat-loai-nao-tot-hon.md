@@ -26,7 +26,8 @@
     {"title": "Bột đạm thực vật loại nào tốt", "url": "bot-dam-thuc-vat-loai-nao-tot.html"},
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Đứng trước kệ hàng và tự hỏi **đạm whey và đạm thực vật loại nào tốt hơn** là chuyện gần như ai cũng trải qua khi bắt đầu bổ sung đạm. Một bên là cái tên quen thuộc suốt hai chục năm trong giới tập gym. Một bên là nhóm sản phẩm đang lên nhanh, gắn với ăn chay, với tiêu hoá nhẹ nhàng, với xu hướng ăn xanh.
@@ -194,4 +195,4 @@ Nếu bạn chưa chắc mình hợp hướng nào, hãy bắt đầu bằng [b�
 - Nhà thuốc FPT Long Châu — *Whey thực vật khác whey protein như thế nào*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/whey-thuc-vat-khac-whey-protein-nhu-the-nao-60804.html)
 - Nhà thuốc An Khang — *Protein thực vật khác whey protein như thế nào*: [nhathuocankhang.com](https://www.nhathuocankhang.com/ban-tin-suc-khoe/whey-protein-va-protein-thuc-vat-loai-nao-tot-1404400)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

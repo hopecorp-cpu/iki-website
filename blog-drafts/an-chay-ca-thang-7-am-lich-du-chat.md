@@ -25,7 +25,8 @@
     {"title": "Thực đơn 7 ngày cho người ăn chay đủ đạm", "url": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html"},
     {"title": "Vitamin B12 cho người ăn chay", "url": "vitamin-b12-nguoi-an-chay.html"},
     {"title": "Người ăn chay bổ sung canxi thế nào", "url": "nguoi-an-chay-bo-sung-canxi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Tháng 7 âm lịch về, nhiều gia đình Việt chuyển sang ăn chay — có người chỉ rằm và mùng một, có người ăn suốt cả tháng. Và câu hỏi được nhắn tới nhiều nhất trong những tuần này là: **ăn chay cả tháng 7 âm lịch có đủ chất không?**
@@ -216,4 +217,4 @@ Nếu bạn muốn biết cơ địa mình phù hợp với kiểu ăn chay nào
 - Vinmec — *Bổ sung protein mỗi ngày bao nhiêu là đủ?*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/bo-sung-protein-moi-ngay-bao-nhieu-la-du-vi)
 - Bệnh viện Tâm Anh — *Chất đạm: vai trò, chức năng và tác dụng với cơ thể*: [tamanhhospital.vn](https://tamanhhospital.vn/chat-dam/)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*

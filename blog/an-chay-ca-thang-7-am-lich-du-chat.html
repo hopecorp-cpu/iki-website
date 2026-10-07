@@ -251,12 +251,15 @@
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-fig{margin:0}
+    .post-hero-fig .post-hero-img{display:block}
+    .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}
     .post-eyebrow{display:inline-block;font-family:var(--font-sans,'Manrope');font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
     .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
-    .med-notice a{color:#8a5a12;text-decoration:underline}
+    .med-notice a{color:var(--iki-teal-deep,#2E8975);text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -344,10 +347,18 @@ blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D
     .lead-row{display:flex;gap:10px;max-width:480px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:13px 16px;font-size:1rem;font-family:inherit}
     .lead-phone{display:block;width:100%;max-width:480px;margin:10px auto 0;border:none;border-radius:12px;padding:11px 16px;font-size:.95rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:8px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
+    .post-table-wrap{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:1.4rem 0;background:#FFFFFF;border:1px solid #E5E5E5;border-radius:0}
+    .post-table{width:100%;border-collapse:collapse;background:#FFFFFF;font-family:inherit;font-size:1rem;line-height:1.5}
+    .post-table th,.post-table td{border:1px solid #E5E5E5;padding:10px 14px;text-align:left;vertical-align:top}
+    .post-table th{font-weight:700;background:#FFFFFF;color:#101828}
+    .post-table tr>:first-child{border-left:0} .post-table tr>:last-child{border-right:0}
+    .post-table thead tr:first-child>*{border-top:0} .post-table tr:last-child>td{border-bottom:0}
+    .post-table thead:last-child tr:last-child>th{border-bottom:0}
+    .post-table [style*="text-align:right"]{white-space:nowrap}
+    @media(max-width:640px){.post-table th,.post-table td{min-width:8em}}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -385,7 +396,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">dinh-duong</span>
+          <span class="post-eyebrow">Dinh dưỡng</span>
           <h1 class="post-title">Ăn chay cả tháng 7 âm lịch có đủ chất không? Cách giữ sức khoẻ trọn mùa Vu Lan</h1>
           <div class="post-meta">
             <span>Đội ngũ Health Coach IKI</span><span>·</span>
@@ -393,7 +404,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>15 phút đọc</span>
           </div>
         </div>
+        <figure class="post-hero-fig">
         <img class="post-hero-img" src="../assets/blog/an-chay-ca-thang-7-am-lich-du-chat-hero.jpg" alt="Mâm cơm chay Việt với đậu hũ kho, rau luộc, canh nấm và cơm gạo lứt trên chiếu tre" />
+        <figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI.</figcaption>
+        </figure>
       </div>
 
       <div class="post-wrap">
@@ -425,7 +439,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Khi bỏ thịt, cá, trứng, có bốn nhóm chất giảm rõ nhất. Đây là bốn thứ bạn cần chủ động bù.</p>
 <h3>Khoảng hụt 1: Đạm</h3>
 <p>Đây là khoảng lớn nhất và cũng dễ bù nhất. Thực vật có rất nhiều nguồn đạm, chỉ cần bạn gọi tên chúng và đưa vào mỗi bữa.</p>
-<p>| Nguồn đạm thực vật | Khẩu phần gợi ý | Đạm ước tính | |---|---|---| | Đậu hũ ép chắc | 100g | khoảng 12–16g | | Đậu hũ non | 100g | khoảng 6–8g | | Đậu nành luộc (edamame) | 100g hạt | khoảng 11g | | Đậu lăng nấu chín | 1 bát nhỏ | khoảng 9g | | Đậu đen, đậu đỏ nấu chín | 1 bát nhỏ | khoảng 8g | | Nấm các loại | 100g | khoảng 3g | | Hạt bí, hạt hướng dương | 1 nắm (30g) | khoảng 6–9g | | Hạnh nhân, óc chó | 1 nắm (30g) | khoảng 5–6g | | Sữa đậu nành | 1 ly 250ml | khoảng 7g | | Gạo lứt nấu chín | 1 bát | khoảng 5g |</p>
+<div class="post-table-wrap" role="region" aria-label="Bảng" tabindex="0"><table class="post-table"><thead><tr><th>Nguồn đạm thực vật</th><th>Khẩu phần gợi ý</th><th>Đạm ước tính</th></tr></thead><tbody><tr><td>Đậu hũ ép chắc</td><td>100g</td><td>khoảng 12–16g</td></tr><tr><td>Đậu hũ non</td><td>100g</td><td>khoảng 6–8g</td></tr><tr><td>Đậu nành luộc (edamame)</td><td>100g hạt</td><td>khoảng 11g</td></tr><tr><td>Đậu lăng nấu chín</td><td>1 bát nhỏ</td><td>khoảng 9g</td></tr><tr><td>Đậu đen, đậu đỏ nấu chín</td><td>1 bát nhỏ</td><td>khoảng 8g</td></tr><tr><td>Nấm các loại</td><td>100g</td><td>khoảng 3g</td></tr><tr><td>Hạt bí, hạt hướng dương</td><td>1 nắm (30g)</td><td>khoảng 6–9g</td></tr><tr><td>Hạnh nhân, óc chó</td><td>1 nắm (30g)</td><td>khoảng 5–6g</td></tr><tr><td>Sữa đậu nành</td><td>1 ly 250ml</td><td>khoảng 7g</td></tr><tr><td>Gạo lứt nấu chín</td><td>1 bát</td><td>khoảng 5g</td></tr></tbody></table></div>
 <p><em>Các con số là ước lượng tham khảo, thay đổi theo loại và cách chế biến.</em></p>
 <p>Nguyên tắc thực hành đơn giản nhất: <strong>mỗi bữa chính phải có một nguồn đạm nhìn thấy rõ trên mâm.</strong> Không cần đếm gam. Chỉ cần nhìn xuống mâm và trả lời được câu hỏi "đạm của bữa này nằm ở món nào?". Nếu câu trả lời là "không có" hoặc "chắc là trong rau", bữa đó cần thêm.</p>
 <p>Với người tập luyện hoặc người trên 50 tuổi — hai nhóm có nhu cầu đạm cao hơn — một tháng chay có thể là quãng khó. Có thể thêm một ly <a href="https://trueveganprotein.com">đạm thực vật</a> làm bữa phụ để bảo đảm tổng đạm cả ngày không tụt xuống, đặc biệt vào những ngày bận không kịp chuẩn bị mâm chay đầy đủ.</p>
@@ -487,7 +501,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Nếu bạn muốn biết cơ địa mình phù hợp với kiểu ăn chay nào và nên ưu tiên nhóm thực phẩm gì, hãy thử bài <a href="https://ikihealing.com/quiz">kiểm tra thể trạng 90 giây</a>. Và trong suốt tháng chay, <a href="https://ikihealing.com/app.html">ứng dụng IKI</a> có thể giúp bạn quét bữa ăn để biết mâm cơm hôm nay đã đủ đạm chưa — hữu ích nhất là trong tuần đầu, khi bạn còn đang tập ước lượng.</p>
 <h2 id="nguon-tham-khao">Nguồn tham khảo</h2>
 <ul><li>Sức khoẻ &amp; Đời sống (Bộ Y tế) — <em>Cách cân đối đạm thực vật trong bữa ăn</em>: <a href="https://suckhoedoisong.vn/cach-can-doi-dam-thuc-vat-trong-bua-an-169251128090652081.htm">suckhoedoisong.vn</a></li><li>Vinmec — <em>Bổ sung protein mỗi ngày bao nhiêu là đủ?</em>: <a href="https://www.vinmec.com/vie/bai-viet/bo-sung-protein-moi-ngay-bao-nhieu-la-du-vi">vinmec.com</a></li><li>Bệnh viện Tâm Anh — <em>Chất đạm: vai trò, chức năng và tác dụng với cơ thể</em>: <a href="https://tamanhhospital.vn/chat-dam/">tamanhhospital.vn</a></li></ul>
-<p><em>Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.</em></p>
+<p><em>Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.</em></p>
         </div>
 
         
@@ -536,13 +550,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
             <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
-            <li><a href="../app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.</li>
+            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
           </ul>
         </section>
         <section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul><li><a href="an-chay-du-chat-can-bang.html">Ăn chay đủ chất: xây khẩu phần cân bằng</a></li><li><a href="an-chay-ngay-ram-mung-mot-du-chat.html">Ăn chay ngày rằm mùng một sao cho đủ chất</a></li><li><a href="thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html">Thực đơn 7 ngày cho người ăn chay đủ đạm</a></li><li><a href="vitamin-b12-nguoi-an-chay.html">Vitamin B12 cho người ăn chay</a></li><li><a href="nguoi-an-chay-bo-sung-canxi.html">Người ăn chay bổ sung canxi thế nào</a></li></ul></section>
 
         <div class="post-disclaimer">
-          Nội dung mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hoặc tư vấn y khoa. Các sản phẩm IKI là <strong>thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Khi có vấn đề sức khoẻ, hãy tham khảo ý kiến bác sĩ.
+          <p>Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.</p>
+          <p>Bài viết chia sẻ thông tin tham khảo, không thay thế tư vấn của bác sĩ.</p>
         </div>
       </div>
     </article>
@@ -607,13 +622,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-sdt{font-size:.92rem}
 #ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
-#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}

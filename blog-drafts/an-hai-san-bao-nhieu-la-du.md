@@ -25,7 +25,8 @@
     {"title": "Omega-3 từ thực vật", "url": "omega-3-tu-thuc-vat.html"},
     {"title": "Người bị gout nên ăn gì", "url": "nguoi-bi-gout-nen-an-gi.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bờ biển dài hơn ba nghìn cây số khiến hải sản trở thành một phần rất tự nhiên của mâm cơm người Việt. Từ đĩa tôm rang, bát canh nghêu, con mực hấp gừng cho tới nồi lẩu cuối tuần — hải sản có mặt ở cả bữa cơm thường ngày lẫn những dịp sum họp. Nhưng đúng vì quen thuộc như vậy, câu hỏi "ăn hải sản bao nhiêu là đủ" lại ít khi được đặt ra một cách rõ ràng. Có người cả tháng không đụng tới, có người tuần nào cũng vài bữa lẩu hải sản, và cả hai đều đang ở hai đầu của một dải mà điểm cân bằng nằm đâu đó ở giữa.

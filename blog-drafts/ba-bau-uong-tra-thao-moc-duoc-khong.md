@@ -26,7 +26,8 @@
     {"title": "Uống trà thảo mộc buổi tối có mất ngủ không", "url": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html"},
     {"title": "Trà hoa cúc có tác dụng gì, uống lúc nào", "url": "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao.html"},
     {"title": "Mẹ cho con bú nên ăn gì", "url": "me-cho-con-bu-nen-an-gi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Khi biết tin có thai, rất nhiều thói quen quen thuộc bỗng trở thành câu hỏi. Ly cà phê buổi sáng phải cắt. Trà đặc buổi chiều cũng thôi. Và rồi ánh mắt hướng sang hộp trà thảo mộc trong bếp — thứ nghe có vẻ "lành" vì làm từ hoa lá tự nhiên.
@@ -202,4 +203,4 @@ Nếu bạn muốn hiểu thêm về cơ địa của mình để xây nếp ch�
 - Nhà thuốc FPT Long Châu — *Những loại trà cho bà bầu nào nên dùng*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/nhung-loai-tra-cho-ba-bau-nao-nen-dung-64354.html)
 - NatuQueens — *Những loại trà thảo mộc mẹ bầu không nên uống trong 9 tháng thai kỳ*: [naturalqueen.com.vn](https://naturalqueen.com.vn/nhung-loai-tra-thao-moc-me-bau-khong-nen-uong-trong-9-thang-cua-thai-ky/)
 
-Nội dung trên mang tính chia sẻ kiến thức tham khảo, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Phụ nữ mang thai cần trao đổi với bác sĩ sản khoa trước khi dùng bất kỳ loại thảo mộc, thực phẩm bổ sung hay thuốc nào. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không dành riêng cho thai kỳ.
+Nội dung trên mang tính chia sẻ kiến thức tham khảo, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Phụ nữ mang thai cần trao đổi với bác sĩ sản khoa trước khi dùng bất kỳ loại thảo mộc, thực phẩm bổ sung hay thuốc nào.

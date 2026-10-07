@@ -27,7 +27,8 @@
     {"title": "Giấc ngủ chất lượng", "url": "giac-ngu-chat-luong.html"},
     {"title": "Màn hình trước giờ ngủ", "url": "man-hinh-truoc-gio-ngu.html"},
     {"title": "Ngâm chân nước ấm trước khi ngủ", "url": "ngam-chan-nuoc-am-truoc-khi-ngu.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -173,4 +174,4 @@ Nhưng nếu bạn chỉ được chọn một việc, hãy chọn giờ đi ng�
 - Vinmec — Hiểu đúng về hạt sen và giấc ngủ: [vinmec.com](https://www.vinmec.com)
 - Nhà thuốc Long Châu — Thật hư chuyện ăn hạt sen dễ ngủ và những điều cần biết: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Tâm sen là dược liệu có tính hàn — người huyết áp thấp, phụ nữ mang thai, trẻ nhỏ và người đang dùng thuốc nên hỏi ý kiến chuyên môn trước khi dùng. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Tâm sen là dược liệu có tính hàn — người huyết áp thấp, phụ nữ mang thai, trẻ nhỏ và người đang dùng thuốc nên hỏi ý kiến chuyên môn trước khi dùng.*

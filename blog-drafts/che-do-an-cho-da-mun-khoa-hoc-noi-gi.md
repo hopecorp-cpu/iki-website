@@ -26,7 +26,8 @@
     {"title": "Chỉ số đường huyết của thực phẩm", "url": "chi-so-duong-huyet-thuc-pham.html"},
     {"title": "Kẽm và thực phẩm giàu kẽm", "url": "kem-va-thuc-pham-giau-kem.html"},
     {"title": "Chất xơ và lợi khuẩn đường ruột", "url": "chat-xo-loi-khuan-duong-ruot.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Ăn gì cho hết mụn" là một trong những câu được tìm nhiều nhất mỗi khi làn da không ổn. Và câu trả lời trung thực nhất, đáng tiếc, không phải là một danh sách thực phẩm thần kỳ.

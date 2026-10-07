@@ -60,7 +60,8 @@
       "title": "Chọn nguồn đạm thực vật thế nào cho đúng",
       "url": "vi-sao-chon-dam-thuc-vat.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

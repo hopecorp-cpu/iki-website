@@ -27,7 +27,8 @@
     {"title": "Ăn rau củ nhiều màu sắc", "url": "an-rau-cu-nhieu-mau-sac.html"},
     {"title": "Gia vị Việt: gừng, nghệ, sả", "url": "gia-vi-viet-gung-nghe-sa.html"},
     {"title": "Chất béo tốt và chất béo xấu", "url": "chat-beo-tot-xau.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vài năm gần đây, cụm từ **chế độ ăn chống viêm** xuất hiện dày đặc trên mạng — kèm theo đủ loại danh sách "top 10 siêu thực phẩm", những giỏ hàng đầy quả mọng nhập khẩu và dầu ô liu ngoại. Đọc xong, phản ứng thường thấy của một người Việt bình thường là: cái này chắc không dành cho mình.

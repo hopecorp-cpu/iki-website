@@ -27,7 +27,8 @@
     {"title": "Nhịn ăn sáng có sao không", "url": "nhin-an-sang-co-sao-khong.html"},
     {"title": "Ăn tối lúc mấy giờ là tốt nhất", "url": "an-toi-luc-may-gio-la-tot-nhat.html"},
     {"title": "Thói quen buổi sáng của người sống khoẻ", "url": "thoi-quen-buoi-sang.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi "ăn sáng lúc mấy giờ là tốt nhất" nghe có vẻ nhỏ, nhưng nó là câu hỏi mở đầu cho cả một ngày. Cùng một bát phở, ăn lúc 6h30 và ăn lúc 10h là hai câu chuyện hoàn toàn khác nhau: một bên đưa bạn êm ái vào buổi sáng làm việc, một bên khiến bạn vật vờ suốt ba tiếng rồi lại chẳng buồn đụng đến bữa trưa. Trong các buổi trò chuyện với người dùng IKI, chúng tôi nhận thấy phần lớn những than phiền quen thuộc như "sáng nào cũng uể oải", "chưa tới trưa đã đói cồn cào", "trưa ăn không nổi mà chiều lại thèm ngọt" đều có gốc rễ ở giờ ăn sáng chứ không phải ở món ăn sáng.

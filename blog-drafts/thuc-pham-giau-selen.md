@@ -26,7 +26,8 @@
     {"title": "Các loại hạt dinh dưỡng", "url": "cac-loai-hat-dinh-duong.html"},
     {"title": "Thực phẩm giàu i-ốt", "url": "thuc-pham-giau-i-ot.html"},
     {"title": "Ăn bao nhiêu hạt mỗi ngày là đủ", "url": "an-bao-nhieu-hat-moi-ngay-la-du.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong nhóm vi chất, selen thuộc loại ít được nhắc tên. Sắt, canxi, kẽm, vitamin D đều quen thuộc; còn selen thì phần lớn chúng ta chỉ gặp khi đọc bảng thành phần trên một hộp viên bổ sung. Vậy mà cơ thể cần nó mỗi ngày, và điều thú vị là **nhu cầu về selen rất nhỏ nhưng khoảng cách giữa "đủ" và "quá nhiều" lại hẹp một cách bất ngờ**.
@@ -222,4 +223,4 @@ Nếu bạn muốn xây một thực đơn cân bằng vi chất theo cơ địa
 - Nhà thuốc FPT Long Châu — *15 loại thực phẩm giàu selen*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/ke-ten-15-loai-thuc-pham-giau-selen-co-loi-cho-co-the.html)
 - Trung tâm Tiêm chủng Long Châu — *Thực phẩm giàu selen và những điều cần biết khi bổ sung*: [tiemchunglongchau.com.vn](https://tiemchunglongchau.com.vn/kien-thuc-tiem-chung/thuc-pham-giau-selen-va-nhung-dieu-can-biet-khi-bo-sung)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

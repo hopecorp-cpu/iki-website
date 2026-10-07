@@ -25,7 +25,8 @@
     {"title": "Ăn chậm nhai kỹ — thói quen nhỏ, khác biệt lớn", "url": "an-cham-nhai-ky.html"},
     {"title": "Táo bón và tiêu hoá khoẻ", "url": "tao-bon-tieu-hoa-khoe.html"},
     {"title": "Thực phẩm lên men truyền thống Việt", "url": "thuc-pham-len-men-truyen-thong-viet.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một kiểu người mà bữa cơm nào cũng phải dè chừng: ăn bát bún ở quán quen thì ổn, đổi sang quán khác là bụng sôi ùng ục; uống ly sữa buổi sáng là cả buổi thấy nặng bụng; đi ăn tiệc về là đêm trằn trọc vì đầy hơi. **Bụng dạ nhạy cảm nên ăn uống thế nào** là câu hỏi họ đã tự hỏi hàng trăm lần, và câu trả lời thường nhận được lại rất chung chung: "ăn nhẹ thôi", "kiêng đồ dầu mỡ".
@@ -226,4 +227,4 @@ Nếu bạn muốn có điểm khởi đầu nhanh trước khi bắt tay vào b
 - Bệnh viện Đa khoa Trung tâm An Giang — *Tìm hiểu về FODMAP*: [bvag.com.vn](https://bvag.com.vn/tim-hieu-ve-fodmap/)
 - Nhà thuốc Long Châu — *Chế độ ăn FODMAP thấp dành cho bệnh nhân mắc hội chứng ruột kích thích*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/che-do-an-fodmap-thap-danh-cho-benh-nhan-mac-hoi-chung-ruot-kich-thich-68702.html)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*

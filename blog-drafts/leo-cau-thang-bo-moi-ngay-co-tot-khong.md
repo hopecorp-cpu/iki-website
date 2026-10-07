@@ -56,7 +56,8 @@
       "title": "Giãn cơ cho dân văn phòng",
       "url": "gian-co-dan-van-phong.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -187,4 +188,4 @@ Ba điều đáng nhớ: chia nhỏ nhiều lượt dễ duy trì hơn leo dồn
 - Báo Thanh Niên — Đi cầu thang bộ mấy tầng mỗi ngày thì bắt đầu có lợi cho tim, phổi: [thanhnien.vn](https://thanhnien.vn)
 - Sức khoẻ & Đời sống — Leo cầu thang hằng ngày thế nào có lợi cho sức khoẻ: [suckhoedoisong.vn](https://suckhoedoisong.vn)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn có vấn đề về khớp, tim mạch hoặc huyết áp, hãy hỏi ý kiến chuyên môn trước khi bắt đầu chế độ vận động mới.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có vấn đề về khớp, tim mạch hoặc huyết áp, hãy hỏi ý kiến chuyên môn trước khi bắt đầu chế độ vận động mới.*

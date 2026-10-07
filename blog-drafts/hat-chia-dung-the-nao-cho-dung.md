@@ -27,7 +27,8 @@
     {"title": "Omega-3 từ nguồn thực vật", "url": "omega-3-tu-thuc-vat.html"},
     {"title": "Sữa hạt tự làm tại nhà", "url": "sua-hat-tu-lam-tai-nha.html"},
     {"title": "Nước ép và sinh tố dùng đúng cách", "url": "nuoc-ep-sinh-to-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Hạt chia là một trong những nguyên liệu được nhắc tới nhiều nhất trong mấy năm gần đây. Nó xuất hiện trong ly nước thanh mát trên mạng xã hội, trong hũ pudding chụp ảnh rất đẹp, trong lời khuyên của gần như mọi bài viết về ăn uống lành mạnh.
@@ -181,4 +182,4 @@ Nếu bạn muốn biết nhóm thực phẩm nào hợp với cơ địa của 
 - Pharmacity — Uống hạt chia hằng ngày, lợi ích và cách pha chế: [pharmacity.vn](https://www.pharmacity.vn)
 - Bách Hoá Xanh — Công dụng và hướng dẫn sử dụng hạt chia đúng cách: [bachhoaxanh.com](https://www.bachhoaxanh.com)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn có bệnh nền, đang dùng thuốc dài ngày, đang mang thai hoặc dùng cho trẻ nhỏ, hãy tham khảo ý kiến chuyên môn trước khi dùng đều đặn.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có bệnh nền, đang dùng thuốc dài ngày, đang mang thai hoặc dùng cho trẻ nhỏ, hãy tham khảo ý kiến chuyên môn trước khi dùng đều đặn.*

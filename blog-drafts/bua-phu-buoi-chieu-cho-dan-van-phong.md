@@ -26,7 +26,8 @@
     {"title": "Buồn ngủ sau khi ăn trưa", "url": "buon-ngu-sau-khi-an-trua.html"},
     {"title": "Ăn gì để tập trung làm việc", "url": "an-gi-de-tap-trung-lam-viec.html"},
     {"title": "Các loại hạt dinh dưỡng", "url": "cac-loai-hat-dinh-duong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Khoảng ba giờ chiều, văn phòng nào cũng có một nhịp giống nhau: mắt bắt đầu nặng, chữ trên màn hình khó vào đầu hơn, và ai đó rủ nhau đặt trà sữa. **Bữa phụ buổi chiều cho dân văn phòng** thường được quyết định trong đúng khoảnh khắc mệt mỏi đó — nghĩa là quyết định bởi cơn thèm chứ không phải bởi tính toán nào cả.
@@ -183,4 +184,4 @@ Hãy bắt đầu bằng đúng một việc trong tuần này: chia sẵn năm 
 - Co.op Online — *Thực đơn 3 bữa mỗi ngày cho dân văn phòng*: [cooponline.vn](https://cooponline.vn/tin-tuc/thuc-don-3-bua-moi-ngay-cho-dan-van-phong/)
 - Onways — *10 lời khuyên về dinh dưỡng cho dân văn phòng*: [onways.com](https://onways.com/blogs/health-life/10-loi-khuyen-vang-ve-dinh-duong-cho-dan-van-phong)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

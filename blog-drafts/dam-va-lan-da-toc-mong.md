@@ -41,7 +41,8 @@
     { "title": "Vì sao chọn đạm thực vật", "url": "vi-sao-chon-dam-thuc-vat.html" },
     { "title": "Giấc ngủ chất lượng: dựng lại nếp ngủ từng bước", "url": "giac-ngu-chat-luong.html" },
     { "title": "Ăn rau củ nhiều màu sắc: vì sao nên đủ sắc trong mâm cơm", "url": "an-rau-cu-nhieu-mau-sac.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

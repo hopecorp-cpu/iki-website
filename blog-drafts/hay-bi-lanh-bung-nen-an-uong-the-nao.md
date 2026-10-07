@@ -27,7 +27,8 @@
     {"title": "Đầy bụng khó tiêu sau ăn", "url": "day-bung-kho-tieu-sau-an.html"},
     {"title": "Uống nước đá lạnh có hại không", "url": "uong-nuoc-da-lanh-co-hai-khong.html"},
     {"title": "Gia vị Việt: gừng, nghệ, sả", "url": "gia-vi-viet-gung-nghe-sa.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một nhóm người mà bữa tiệc nào cũng phải cân nhắc: ly nước đá thì ngại, đĩa gỏi thì dè chừng, ăn xong bát bún riêu nguội là bụng bắt đầu ậm ạch. Ngồi máy lạnh cả buổi chiều là bụng thấy lạnh, đêm ngủ hở bụng là sáng dậy đi ngoài phân lỏng. Nếu bạn nhận ra mình trong mô tả đó, câu hỏi **hay bị lạnh bụng nên ăn uống thế nào** không phải là chuyện lý thuyết mà là chuyện của từng bữa cơm.
@@ -173,4 +174,4 @@ Nếu bạn muốn đi tiếp, hãy đọc [Lạnh tay chân nên ăn gì](lanh-
 - Sức khoẻ và Đời sống — *Kinh nghiệm dân gian với chứng đau bụng do lạnh*: [suckhoedoisong.vn](https://suckhoedoisong.vn/kinh-nghiem-dan-gian-chua-dau-bung-do-lanh-169152705.htm)
 - Phúc Hưng — *Sáu nguyên tắc ăn uống cơ bản dành cho người tỳ vị hư nhược*: [phuchung.vn](https://phuchung.vn/detail/sau-nguyen-tac-an-uong-co-ban-danh-cho-nguoi-ty-vi-hu-nhuoc.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống và kinh nghiệm dưỡng sinh truyền thống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Khi có dấu hiệu bất thường kéo dài, hãy đi khám. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống và kinh nghiệm dưỡng sinh truyền thống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Khi có dấu hiệu bất thường kéo dài, hãy đi khám.

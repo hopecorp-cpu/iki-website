@@ -27,7 +27,8 @@
     {"title": "Ăn sáng xong vẫn đói trước trưa", "url": "an-sang-xong-van-doi-truoc-trua.html"},
     {"title": "Sữa hạt và bột đạm thực vật khác nhau thế nào", "url": "sua-hat-va-bot-dam-thuc-vat-khac-nhau-the-nao.html"},
     {"title": "Đọc nhãn dinh dưỡng thực phẩm", "url": "doc-nhan-dinh-duong-thuc-pham.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bảy giờ kém mười lăm, con chưa mặc xong đồng phục, xe máy còn chưa dắt ra. Một muỗng bột ngũ cốc, nước ấm, khuấy ba vòng, uống trên đường. Với rất nhiều gia đình Việt, đó là bữa sáng thực tế nhất trong ngày làm việc, không phải vì lười mà vì không còn thời gian nào khác.

@@ -27,7 +27,8 @@
     {"title": "Ăn uống lành mạnh mà vẫn tiết kiệm", "url": "an-uong-lanh-manh-ma-tiet-kiem.html"},
     {"title": "Ăn uống khi đi tiệc liên hoan", "url": "an-uong-khi-di-tiec-lien-hoan.html"},
     {"title": "Tập sống chậm", "url": "tap-song-cham.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Hầu như ai cũng từng bắt đầu. Sáng thứ Hai, sau một cuối tuần ăn uống thả cửa hoặc sau một buổi khám sức khoẻ định kỳ, bạn quyết định: từ hôm nay sẽ ăn uống tử tế. Bỏ trà sữa, bỏ đồ chiên, nấu cơm mang đi làm, ăn nhiều rau, uống đủ nước.

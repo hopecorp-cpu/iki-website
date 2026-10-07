@@ -27,7 +27,8 @@
     {"title": "Người ăn chay bổ sung canxi", "url": "nguoi-an-chay-bo-sung-canxi.html"},
     {"title": "Thực phẩm giàu sắt", "url": "thuc-pham-giau-sat.html"},
     {"title": "Thực đơn 7 ngày cho người ăn chay đủ đạm", "url": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **ăn chay trường thiếu chất gì** thường đến từ hai phía. Một là chính người ăn chay, sau vài tháng thấy mình mệt hơn trước và bắt đầu tự hỏi liệu có phải khẩu phần đang hụt thứ gì đó. Hai là người nhà — bố mẹ, vợ chồng, con cái — lo lắng khi thấy người thân chuyển sang ăn chay lâu dài.
@@ -206,4 +207,4 @@ Nếu bạn muốn một điểm khởi đầu cụ thể cho riêng mình, hãy
 - Nhà thuốc FPT Long Châu — *Ăn chay dễ thiếu chất gì, chế độ ăn chay không thiếu chất*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/an-chay-de-thieu-chat-gi-che-do-an-chay-khong-thieu-chat-63815.html)
 - Diag — *Người ăn chay thường thiếu chất gì, hướng dẫn cách ăn từ chuyên gia*: [diag.vn](https://diag.vn/blog/nutrition/nguoi-an-chay-thuong-thieu-chat-gi/)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

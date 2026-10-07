@@ -60,7 +60,8 @@
       "title": "Các loại hạt dinh dưỡng và cách ăn",
       "url": "cac-loai-hat-dinh-duong.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

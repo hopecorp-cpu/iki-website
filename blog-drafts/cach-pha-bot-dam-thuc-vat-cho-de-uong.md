@@ -27,7 +27,8 @@
     {"title": "Uống đạm thực vật bị đầy bụng: vì sao và cách xử lý", "url": "uong-dam-thuc-vat-bi-day-bung.html"},
     {"title": "Bột đạm thực vật loại nào tốt", "url": "bot-dam-thuc-vat-loai-nao-tot.html"},
     {"title": "Sữa hạt và bột đạm thực vật khác nhau thế nào", "url": "sua-hat-va-bot-dam-thuc-vat-khac-nhau-the-nao.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Rất nhiều người mua hộp bột đạm về với quyết tâm rất cao, uống được ba ngày rồi cất vào góc tủ bếp. Lý do thường không nằm ở giá tiền hay ở việc họ hết động lực, mà đơn giản là ly nước khó uống. Bột lợn cợn, vị nhạt và hơi ngái, uống xong thấy đầy bụng. Trong khi đó, chỉ cần thay đổi vài chi tiết rất nhỏ trong **cách pha bột đạm thực vật cho dễ uống** là ly nước ấy trở nên hoàn toàn khác.
@@ -192,4 +193,4 @@ Nếu bạn chưa chắc mình cần bổ sung bao nhiêu và theo nhịp nào, 
 - Nhà thuốc FPT Long Châu — *Công dụng của bột protein thực vật và cách dùng hiệu quả*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/cong-dung-cua-bot-protein-thuc-vat-va-cach-dung-hieu-qua.html)
 - Vinmec — *Lượng protein cần nạp mỗi ngày theo từng độ tuổi*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/luong-protein-can-nap-moi-ngay-theo-tung-do-tuoi-vi)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

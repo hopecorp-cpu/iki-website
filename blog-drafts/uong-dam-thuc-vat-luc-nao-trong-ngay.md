@@ -60,7 +60,8 @@
       "title": "Dinh dưỡng cho người tập gym",
       "url": "dinh-duong-nguoi-tap-gym.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

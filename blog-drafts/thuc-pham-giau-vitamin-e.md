@@ -27,7 +27,8 @@
     {"title": "Chọn dầu ăn lành mạnh cho bếp Việt", "url": "chon-dau-an-lanh-manh.html"},
     {"title": "Quả bơ — giá trị và cách ăn", "url": "qua-bo-gia-tri-va-cach-an.html"},
     {"title": "Chăm da từ bên trong — bắt đầu từ bữa ăn", "url": "cham-da-tu-ben-trong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vitamin E là cái tên quen tai đến mức hầu như ai cũng từng nghe, thường gắn với hình ảnh viên nang màu vàng óng và lời hứa về làn da. Nhưng khi được hỏi **vitamin E có trong thực phẩm nào** của bữa cơm hằng ngày, phần lớn mọi người lại lúng túng. Chúng ta biết cam có vitamin C, biết cá có omega-3, nhưng vitamin E thì cứ như thể chỉ tồn tại trong hiệu thuốc.
@@ -158,4 +159,4 @@ Ba điều cần nhớ, gọn lại: **ăn một nắm hạt mỗi ngày**, **đ
 - Báo Sức khoẻ & Đời sống — *9 thực phẩm giàu vitamin E giúp tăng cường sức khoẻ*: [suckhoedoisong.vn](https://suckhoedoisong.vn/9-thuc-pham-giau-vitamin-e-giup-tang-cuong-suc-khoe-169221010235545508.htm)
 - Trạm Y tế Phường Chợ Lớn — *10 loại thực phẩm giàu vitamin E nên ăn thường xuyên*: [bvquan5.medinet.gov.vn](http://bvquan5.medinet.gov.vn/dinh-duong/10-loai-thuc-pham-giau-vitamin-e-nen-an-thuong-xuyen-cmobile16572-206155.aspx)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn đang dùng thuốc hoặc có bệnh nền, hãy hỏi ý kiến bác sĩ trước khi dùng thêm bất kỳ sản phẩm bổ sung nào.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn đang dùng thuốc hoặc có bệnh nền, hãy hỏi ý kiến bác sĩ trước khi dùng thêm bất kỳ sản phẩm bổ sung nào.

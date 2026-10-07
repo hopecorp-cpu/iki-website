@@ -61,7 +61,8 @@
       "title": "Vitamin nhóm B và năng lượng mỗi ngày",
       "url": "vitamin-nhom-b-va-nang-luong-moi-ngay.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Một giờ sáng, deadline còn nửa chặng, bụng bắt đầu cồn cào. Trong bếp có gói mì, trong tủ lạnh có hộp thức ăn thừa, ngoài kia có hàng chục ứng dụng giao đồ ăn đêm. Bạn chọn đại một thứ, ăn nhanh, làm tiếp, rồi hai tiếng sau nằm xuống với cái bụng nặng trịch — và sáng hôm sau dậy mệt hơn cả lúc đi ngủ.

@@ -56,7 +56,8 @@
       "title": "Nên ăn rau trước hay cơm trước",
       "url": "nen-an-rau-truoc-hay-com-truoc.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một câu hỏi rất hay được nhắn tới hộp thư của chúng tôi, và lần nào cũng kèm chút ngại ngùng: không thích ăn rau phải làm sao? Người hỏi thường là người trưởng thành, đi làm, biết rõ rau tốt cho sức khoẻ, đã thử ép mình ăn vài lần rồi bỏ cuộc. Họ không cần ai nhắc lại rằng "rau rất bổ" — điều đó ai cũng biết. Thứ họ thiếu là một cách làm thực tế cho một người vốn không thấy ngon miệng khi nhìn thấy đĩa rau luộc.

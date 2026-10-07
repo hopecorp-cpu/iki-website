@@ -27,7 +27,8 @@
     {"title": "Vitamin D và ánh nắng", "url": "vitamin-d-va-anh-nang.html"},
     {"title": "Vitamin B12 cho người ăn chay", "url": "vitamin-b12-nguoi-an-chay.html"},
     {"title": "Thực đơn 7 ngày cho người ăn chay đủ đạm", "url": "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **người ăn chay bổ sung canxi** từ đâu gần như luôn xuất hiện trong tháng đầu tiên của bất kỳ ai chuyển sang ăn chay. Lý do dễ hiểu: chúng ta lớn lên với thông điệp "uống sữa cho chắc xương", nên khi bỏ sữa bò ra khỏi thực đơn, cảm giác hụt là có thật.

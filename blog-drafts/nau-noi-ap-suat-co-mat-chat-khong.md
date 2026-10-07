@@ -56,7 +56,8 @@
       "title": "Nấu ăn tại nhà: nền tảng của ăn uống lành mạnh",
       "url": "nau-an-tai-nha.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -203,4 +204,4 @@ Cuối cùng, giá trị lớn nhất của chiếc nồi này với sức kho�
 - Báo Pháp Luật TP. Hồ Chí Minh — Những thực phẩm không nên nấu bằng nồi áp suất: [plo.vn](https://plo.vn)
 - Sunhouse — Lưu ý an toàn khi sử dụng nồi áp suất điện: [sunhouse.com.vn](https://sunhouse.com.vn)
 
-*Bài viết mang tính chia sẻ kiến thức về nấu ăn và dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức về nấu ăn và dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ.*

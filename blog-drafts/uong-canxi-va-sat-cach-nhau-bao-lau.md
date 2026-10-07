@@ -27,7 +27,8 @@
     {"title": "Người ăn chay bổ sung sắt thế nào", "url": "nguoi-an-chay-bo-sung-sat-the-nao.html"},
     {"title": "Có nên uống vitamin tổng hợp mỗi ngày", "url": "co-nen-uong-vitamin-tong-hop-moi-ngay.html"},
     {"title": "Chọn thực phẩm bổ sung đúng cách", "url": "chon-thuc-pham-bo-sung-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong ngăn kéo của rất nhiều gia đình Việt hiện nay có ít nhất hai lọ: một lọ canxi và một lọ sắt. Người mua chúng thường rất chăm chỉ, uống đều mỗi sáng, nhưng lại uống cả hai cùng một lúc cho tiện. Đó chính là chỗ mà công sức bị hao hụt: **uống canxi và sắt cách nhau bao lâu** không phải câu hỏi vụn vặt, mà quyết định phần lớn việc cơ thể nhận được bao nhiêu trong số những gì bạn đưa vào.
@@ -153,4 +154,4 @@ Nếu bạn muốn đi tiếp, hãy đọc [Thực phẩm giàu sắt](thuc-pham
 - MEDLATEC — *Thời gian uống sắt, canxi và vitamin tổng hợp khi nào là tốt nhất*: [medlatec.vn](https://medlatec.vn/tin-tuc/thoi-gian-uong-sat-canxi-va-vitamin-tong-hop-khi-nao-la-tot-nhat)
 - Sức khoẻ và Đời sống — *Thời điểm uống canxi, sắt và một số vitamin giúp hấp thu hiệu quả*: [suckhoedoisong.vn](https://suckhoedoisong.vn/thoi-diem-uong-canxi-sat-va-mot-so-vitamin-giup-hap-thu-hieu-qua-169251108221346342.htm)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Liều lượng và thời gian bổ sung vi chất cần theo chỉ định của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Liều lượng và thời gian bổ sung vi chất cần theo chỉ định của bác sĩ.

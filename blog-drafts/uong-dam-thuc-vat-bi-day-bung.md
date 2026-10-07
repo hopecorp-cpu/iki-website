@@ -26,7 +26,8 @@
     {"title": "Đạm thực vật và đạm động vật khác nhau thế nào", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Đầy bụng khó tiêu sau khi ăn: vì sao và làm gì", "url": "day-bung-kho-tieu-sau-an.html"},
     {"title": "Chất xơ và lợi khuẩn đường ruột", "url": "chat-xo-loi-khuan-duong-ruot.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bạn mua một hộp bột đạm về với ý định tốt: bổ sung thêm đạm cho bữa sáng vốn hay qua loa, hoặc đỡ lo thiếu chất khi ăn ít thịt lại. Nhưng chỉ vài ngày sau, bụng bắt đầu ấm ách, ợ hơi, có người còn thấy sôi bụng cả buổi sáng. Tình trạng **uống đạm thực vật bị đầy bụng** phổ biến hơn nhiều người tưởng, và tin tốt là phần lớn trường hợp không nằm ở chỗ "cơ thể không hợp", mà nằm ở cách pha, liều lượng và tốc độ uống. Bài viết này đi qua từng nguyên nhân thường gặp, sau đó là những điều chỉnh rất nhỏ trong thói quen giúp bụng dễ chịu trở lại — cùng một lịch bảy ngày để làm quen từ đầu mà không phải bỏ dở giữa chừng.
@@ -185,4 +186,4 @@ Nếu bạn chưa rõ cơ địa mình thiên về hướng nào và nên bắt 
 - Bệnh viện Đa khoa Hồng Ngọc — *Đầy bụng khó tiêu giải quyết bằng cách nào*: [hongngochospital.vn](https://hongngochospital.vn/vi/ban-luon-bi-day-bung-kho-tieu)
 - MEDLATEC — *Những thực phẩm gây đầy hơi không nên ăn quá nhiều*: [medlatec.vn](https://medlatec.vn/tin-tuc/diem-danh-nhung-thuc-pham-gay-day-hoi-ma-ban-khong-nen-an-qua-nhieu-s51-n22861)
 
-Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

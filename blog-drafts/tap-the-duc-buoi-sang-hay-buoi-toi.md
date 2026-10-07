@@ -56,7 +56,8 @@
       "title": "Vận động kiểu Nhật: bài thể dục Radio Taiso",
       "url": "van-dong-kieu-nhat-radio-taiso.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 ## Câu trả lời ngắn gọn cho một câu hỏi rất phổ biến

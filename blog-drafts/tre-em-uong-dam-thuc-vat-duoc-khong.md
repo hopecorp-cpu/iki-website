@@ -27,7 +27,8 @@
     {"title": "Sữa hạt cho trẻ mấy tuổi uống được", "url": "sua-hat-cho-tre-may-tuoi-uong-duoc.html"},
     {"title": "Trẻ biếng ăn phải làm sao", "url": "tre-bieng-an-phai-lam-sao.html"},
     {"title": "Dinh dưỡng cân bằng tuổi dậy thì", "url": "dinh-duong-can-bang-tuoi-day-thi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Con nhà em ăn ít thịt quá, cho uống đạm thực vật được không?" — đây là một trong những câu hỏi được nhắc lại nhiều nhất khi phụ huynh bắt đầu quan tâm đến dinh dưỡng. Câu hỏi nghe đơn giản nhưng thực ra chứa hai vấn đề rất khác nhau: **trẻ ăn được thực phẩm giàu đạm thực vật không**, và **trẻ có nên uống bột đạm pha sẵn không**. Trộn lẫn hai chuyện này là nguồn gốc của phần lớn hiểu lầm.

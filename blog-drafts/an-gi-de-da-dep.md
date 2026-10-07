@@ -45,7 +45,8 @@
     { "title": "Uống nước đúng cách mỗi ngày theo thể tạng", "url": "uong-nuoc-dung-cach-moi-ngay.html" },
     { "title": "Giấc ngủ chất lượng: dựng lại nếp ngủ từng bước", "url": "giac-ngu-chat-luong.html" },
     { "title": "Ăn gì để giảm căng thẳng lo âu", "url": "an-gi-de-giam-cang-thang-lo-au.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -224,5 +225,5 @@ Nếu phải rút gọn cả bài thành một câu, thì đây: **ăn gì để
 - Bệnh viện Đa khoa Tâm Anh. *20 thực phẩm giúp da căng bóng mịn màng*. [tamanhhospital.vn](https://tamanhhospital.vn/thuc-pham-giup-da-cang-bong/)
 
 :::note Lưu ý
-Nội dung bài viết mang tính chia sẻ kiến thức dinh dưỡng và lối sống, không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là **thực phẩm bổ sung**, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn có bệnh nền, đang mang thai, cho con bú hoặc đang dùng thuốc, hãy trao đổi với bác sĩ trước khi thay đổi lớn trong chế độ ăn.
+Nội dung bài viết mang tính chia sẻ kiến thức dinh dưỡng và lối sống, không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Nếu bạn có bệnh nền, đang mang thai, cho con bú hoặc đang dùng thuốc, hãy trao đổi với bác sĩ trước khi thay đổi lớn trong chế độ ăn.
 :::

@@ -25,7 +25,8 @@
     {"title": "Thực phẩm giàu i-ốt", "url": "thuc-pham-giau-i-ot.html"},
     {"title": "Thực phẩm giàu kali", "url": "thuc-pham-giau-kali.html"},
     {"title": "Gia vị Việt: gừng, nghệ, sả", "url": "gia-vi-viet-gung-nghe-sa.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Vài năm gần đây, hũ muối hồng Himalaya đã trở thành món quen trong bếp của nhiều gia đình Việt. Nó xuất hiện trên kệ siêu thị với giá gấp mười tới hai mươi lần muối thường, kèm theo những lời giới thiệu hấp dẫn: "84 loại khoáng chất tự nhiên", "muối nguyên bản chưa qua tinh luyện", "tốt hơn muối trắng công nghiệp". Câu hỏi rất hợp lý mà nhiều người đặt ra là: **muối hồng Himalaya có tốt hơn muối thường không, hay chỉ là câu chuyện tiếp thị?**

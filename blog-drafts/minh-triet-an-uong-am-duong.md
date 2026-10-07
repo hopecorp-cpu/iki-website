@@ -28,7 +28,8 @@
     {"title": "Gia vị Việt (gừng, nghệ, sả): hương vị và giá trị", "url": "gia-vi-viet-gung-nghe-sa.html"},
     {"title": "Ăn theo mùa và thể tạng", "url": "an-theo-mua-va-the-tang.html"},
     {"title": "Lộ trình cho người mới bắt đầu (6 chặng)", "url": "lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một sự khôn ngoan lặng lẽ nằm trong cách ông bà ta dọn một mâm cơm. Bát canh cua rau đay mát lành đặt cạnh đĩa cà pháo, món cá kho tiêu đậm đà đi kèm dưa góp chua thanh, ngày hè oi nồng thì thêm chén chè đỗ đen, ngày đông giá rét lại có nồi canh gừng ấm bụng. Không ai gọi tên, nhưng đó chính là minh triết **âm dương trong ăn uống** — một trong những nguyên tắc chăm sóc sức khoẻ chủ động lâu đời và tinh tế nhất của phương Đông. Bài viết này chia sẻ cách hiểu và ứng dụng nguyên tắc ấy vào bữa cơm Việt hằng ngày, một cách nhẹ nhàng và thực tế.

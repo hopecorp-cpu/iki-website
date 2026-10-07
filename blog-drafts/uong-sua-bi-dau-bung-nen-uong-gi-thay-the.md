@@ -26,7 +26,8 @@
     {"title": "Canxi và xương chắc khoẻ: ăn gì mỗi ngày", "url": "canxi-va-xuong-chac-khoe.html"},
     {"title": "Đạm thực vật và đạm động vật khác nhau thế nào", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Đầy bụng khó tiêu sau ăn: đọc tín hiệu của cơ thể", "url": "day-bung-kho-tieu-sau-an.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một câu chuyện quen thuộc trong nhiều gia đình Việt: mua một thùng sữa tươi về cho cả nhà uống cho khoẻ, rồi vài hôm sau người lớn trong nhà bắt đầu than sôi bụng, đầy hơi, có người phải chạy vào nhà vệ sinh ngay buổi sáng. Thùng sữa cuối cùng dồn hết cho lũ trẻ. Người lớn kết luận gọn: "chắc tại sữa này không hợp".

@@ -27,7 +27,8 @@
     {"title": "Đầy bụng khó tiêu sau ăn: nguyên nhân và thói quen cần đổi", "url": "day-bung-kho-tieu-sau-an.html"},
     {"title": "5 thể tạng theo Đông y và cách nhận biết", "url": "5-the-tang-theo-dong-y.html"},
     {"title": "Thức uống ấm và trà thảo mộc trong ngày", "url": "thuc-uong-am-tra-thao-moc.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trưa hè bốn mươi độ, ly trà đá vỉa hè hay cốc nước lọc đầy đá lấy từ tủ lạnh là thứ gần như không ai cưỡng được. Rồi cũng chính chúng ta, sau vài lần bụng ậm ạch hoặc quặn nhẹ, lại nhớ đến câu bà vẫn dặn: "đừng uống lạnh quá, hại bụng".

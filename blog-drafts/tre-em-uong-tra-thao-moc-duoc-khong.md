@@ -26,7 +26,8 @@
     {"title": "Trà hoa cúc có tác dụng gì, uống lúc nào", "url": "tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao.html"},
     {"title": "Tăng sức đề kháng cho trẻ nên ăn gì", "url": "tang-suc-de-khang-cho-tre-nen-an-gi.html"},
     {"title": "Trẻ hay rối loạn tiêu hoá nên ăn gì", "url": "tre-hay-roi-loan-tieu-hoa-nen-an-gi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Buổi tối trời trở lạnh, cả nhà ngồi quanh ấm trà hoa cúc thơm dịu, và đứa nhỏ bốn tuổi chìa cốc đòi uống cùng. Ông bà bảo "trà thảo mộc lành, cho cháu uống chút cho ấm bụng", còn bạn thì phân vân: **trẻ em uống trà thảo mộc được không**, mấy tuổi thì được, và bao nhiêu là đủ?
@@ -175,4 +176,4 @@ Nếu bạn muốn xây một nếp chăm sóc sức khoẻ chủ động cho c�
 - Trà Chính Hãng — *Trẻ em có uống được trà không, những điều cần biết*: [trachinhhang.com](https://trachinhhang.com/tre-em-co-uong-duoc-tra-khong/)
 - Vinmec — *Trong trà có chất gì gây mất ngủ*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/trong-tra-co-chat-gi-gay-mat-ngu-vi)
 
-Nội dung trên mang tính chia sẻ kiến thức chăm sóc thường ngày, không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung dành cho người lớn, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Với trẻ em, hãy hỏi ý kiến bác sĩ nhi trước khi dùng thêm bất kỳ sản phẩm nào.
+Nội dung trên mang tính chia sẻ kiến thức chăm sóc thường ngày, không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ. Với trẻ em, hãy hỏi ý kiến bác sĩ nhi trước khi dùng thêm bất kỳ sản phẩm nào.

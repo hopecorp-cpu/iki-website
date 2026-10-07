@@ -56,7 +56,8 @@
       "title": "Bữa tối nhẹ dễ tiêu",
       "url": "bua-toi-nhe-de-tieu.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 ## Mùa tiệc và chuyện không ai nói ra

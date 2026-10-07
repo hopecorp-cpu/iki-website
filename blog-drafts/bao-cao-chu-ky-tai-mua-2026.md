@@ -25,7 +25,8 @@
       "q": "Báo chí có được trích dẫn không?",
       "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

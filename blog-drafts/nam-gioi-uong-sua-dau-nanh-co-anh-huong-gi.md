@@ -27,7 +27,8 @@
     {"title": "Đạm thực vật và đạm động vật", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Sữa hạt tự làm tại nhà", "url": "sua-hat-tu-lam-tai-nha.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -177,4 +178,4 @@ Và nếu bạn thật sự quan tâm đến sức khoẻ nam giới của mình
 - MEDLATEC — Nam giới uống sữa đậu nành nhiều có ảnh hưởng gì không: [medlatec.vn](https://medlatec.vn)
 - VnExpress Sức khoẻ — Nam giới uống sữa đậu nành có giảm sinh lý: [vnexpress.net](https://vnexpress.net)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn dị ứng đậu nành, có bệnh thận, đang dùng thuốc tuyến giáp hoặc có vấn đề nội tiết, hãy tham khảo ý kiến chuyên môn trước khi thay đổi chế độ ăn. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn dị ứng đậu nành, có bệnh thận, đang dùng thuốc tuyến giáp hoặc có vấn đề nội tiết, hãy tham khảo ý kiến chuyên môn trước khi thay đổi chế độ ăn.*

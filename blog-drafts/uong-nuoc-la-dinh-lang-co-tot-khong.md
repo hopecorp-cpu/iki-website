@@ -28,7 +28,8 @@
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"},
     {"title": "Uống trà đúng cách", "url": "uong-tra-dung-cach.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Cây đinh lăng đứng trước cửa nhà là hình ảnh quen thuộc ở nhiều vùng quê Việt Nam — vừa làm cảnh, vừa để lấy lá ăn kèm gỏi cá, vừa để nấu nước uống. Gần đây, nhiều gia đình thành phố cũng bắt đầu hãm lá đinh lăng uống thay trà, sau khi đọc được trên mạng rằng loại lá này rất tốt.

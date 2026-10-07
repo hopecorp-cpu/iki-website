@@ -27,7 +27,8 @@
     {"title": "Ăn vặt lành mạnh", "url": "an-vat-lanh-manh.html"},
     {"title": "Hay mệt uể oải giữa buổi", "url": "hay-met-ue-oai-giua-buoi.html"},
     {"title": "Giấc ngủ chất lượng", "url": "giac-ngu-chat-luong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Ba giờ chiều, tay tự động mở ngăn kéo tìm cái bánh. Tối vừa ăn cơm no xong vẫn thấy thiếu thiếu, phải có miếng gì ngọt mới thấy bữa ăn kết thúc. Đó là trải nghiệm rất quen với nhiều người, và cũng là lúc câu hỏi **hay thèm đồ ngọt phải làm sao** xuất hiện.

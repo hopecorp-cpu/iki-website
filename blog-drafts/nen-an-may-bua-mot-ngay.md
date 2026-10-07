@@ -26,7 +26,8 @@
     {"title": "Ăn tối lúc mấy giờ là tốt nhất", "url": "an-toi-luc-may-gio-la-tot-nhat.html"},
     {"title": "Hay mệt uể oải giữa buổi — vì sao và làm gì", "url": "hay-met-ue-oai-giua-buoi.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 **Nên ăn mấy bữa một ngày** là câu hỏi tưởng đơn giản nhưng lại có vô số câu trả lời trái ngược. Thế hệ ông bà nói ba bữa là đủ, đúng giờ đúng giấc. Các bài viết về thể hình lại khuyên chia sáu bữa nhỏ để "giữ lửa trao đổi chất". Gần đây thì trào lưu ăn gói gọn trong tám tiếng lại nói ngược cả hai. Ai cũng có vẻ chắc chắn, và người đọc thì càng lúc càng bối rối. Bài viết này sắp xếp lại những gì đã được kiểm chứng, chỉ ra đâu là niềm tin đã lỗi thời, và giúp bạn tự chọn số bữa hợp với đời sống thật của mình.

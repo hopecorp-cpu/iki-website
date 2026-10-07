@@ -27,7 +27,8 @@
     {"title": "Vì sao nên chọn đạm thực vật", "url": "vi-sao-chon-dam-thuc-vat.html"},
     {"title": "Uống đạm thực vật lúc nào trong ngày", "url": "uong-dam-thuc-vat-luc-nao-trong-ngay.html"},
     {"title": "Uống nước đúng cách mỗi ngày theo thể tạng", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Uống bột đạm nhiều có hỏng thận không?" — đây gần như luôn là câu hỏi đầu tiên khi ai đó cân nhắc bổ sung đạm vào khẩu phần. Nỗi lo này không tự nhiên mà có: nó được lặp đi lặp lại trong các nhóm tập luyện, trong lời khuyên truyền miệng của người thân, và đôi khi cả trong những bài viết thiếu bối cảnh. Kết quả là rất nhiều người ăn thiếu đạm suốt nhiều năm chỉ vì sợ một điều chưa được kiểm chứng đúng cách.

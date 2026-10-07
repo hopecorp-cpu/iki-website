@@ -26,7 +26,8 @@
     {"title": "Giải nhiệt mùa nắng nóng", "url": "giai-nhiet-mua-nang-nong.html"},
     {"title": "Đau mỏi cổ vai gáy", "url": "dau-moi-co-vai-gay.html"},
     {"title": "Ăn ngoài hàng quán thường xuyên nên ăn thế nào", "url": "an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 **Sức khoẻ cho tài xế công nghệ** và shipper là câu chuyện của một nghề có đặc thù rất riêng: thu nhập tính theo cuốc, nên mỗi phút nghỉ đều là tiền; nơi làm việc là đường phố, nên nắng mưa khói bụi là điều kiện lao động chứ không phải chuyện thời tiết; và giờ giấc ăn uống thì phụ thuộc vào lúc nào ứng dụng ngừng nổ đơn.
@@ -192,4 +193,4 @@ Hãy bắt đầu bằng một việc duy nhất trong tuần này. Nếu bạn 
 - Báo Thanh Hoá — *Nắng gay gắt và bài toán sức bền của shipper, tài xế công nghệ*: [baothanhhoa.vn](https://baothanhhoa.vn/nang-gay-gat-va-bai-toan-suc-ben-cua-shipper-tai-xe-cong-nghe-288759.htm)
 - Kinh tế và Đô thị — *Tài xế công nghệ chật vật mưu sinh giữa thời tiết nắng nóng*: [kinhtedothi.vn](https://kinhtedothi.vn/tai-xe-cong-nghe-chat-vat-muu-sinh-giua-thoi-tiet-nang-nong.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt và lao động, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt và lao động, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

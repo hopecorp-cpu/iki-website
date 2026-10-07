@@ -27,7 +27,8 @@
     {"title": "Ăn vặt lành mạnh: chọn gì cho bữa phụ", "url": "an-vat-lanh-manh.html"},
     {"title": "Omega-3 từ thực vật: nguồn nào quen thuộc với người Việt", "url": "omega-3-tu-thuc-vat.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày là đủ", "url": "can-bao-nhieu-dam-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Hạt là món ăn vặt hiếm hoi được gần như mọi lời khuyên dinh dưỡng khen ngợi. Nhưng chính vì "hạt tốt cho sức khoẻ" mà nhiều người mặc định ăn bao nhiêu cũng được — mở một gói hạt hỗn hợp lúc xem phim, đến khi nhìn lại thì gói đã vơi một nửa. Câu hỏi thật sự đáng hỏi không phải "hạt có tốt không", mà là **một ngày nên ăn bao nhiêu hạt là đủ**, và ăn thế nào để phần tốt của hạt phát huy mà không kéo theo phần dư thừa.

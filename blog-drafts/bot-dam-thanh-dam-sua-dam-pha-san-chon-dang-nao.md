@@ -56,7 +56,8 @@
       "title": "Giữ nếp ăn uống khi đi công tác, du lịch",
       "url": "giu-nep-an-khi-di-xa.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -208,4 +209,4 @@ Cách chọn đúng không nằm ở bảng so sánh mà nằm ở lịch tuần
 - U.S. Food and Drug Administration, *Added Sugars on the Nutrition Facts Label*, cách đọc dòng đường thêm vào trên nhãn dinh dưỡng: [fda.gov](https://www.fda.gov/food/nutrition-facts-label/added-sugars-nutrition-facts-label)
 - Harvard T.H. Chan School of Public Health, The Nutrition Source, *Protein*, tổng quan về nhu cầu đạm và các nguồn đạm trong bữa ăn: [nutritionsource.hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu/protein/)
 
-Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa.

@@ -27,7 +27,8 @@
     {"title": "Mỏi mắt, khô mắt vì màn hình", "url": "moi-mat-kho-mat-man-hinh.html"},
     {"title": "Giãn cơ cho dân văn phòng", "url": "gian-co-dan-van-phong.html"},
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một kiểu mệt rất riêng của dân văn phòng mùa nóng. Bạn ngồi trong phòng mát cả ngày, không đi lại nhiều, không đổ giọt mồ hôi nào — vậy mà đến bốn giờ chiều thì da mặt căng khô, mắt cộm, cổ họng hơi rát, người uể oải như vừa đi bộ dưới nắng.
@@ -187,4 +188,4 @@ Nếu bạn muốn biết cơ địa mình thiên về nhóm nào để chọn t
 - Nhà thuốc Long Châu — Vì sao ngồi máy lạnh bị khô da và giải pháp khắc phục: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn)
 - Kenh14 — Lời khuyên đến những người ngồi điều hoà cả ngày: [kenh14.vn](https://kenh14.vn)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu các triệu chứng khô da, khô mắt hoặc mệt mỏi kéo dài, hãy đi khám để được đánh giá đúng.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu các triệu chứng khô da, khô mắt hoặc mệt mỏi kéo dài, hãy đi khám để được đánh giá đúng.*

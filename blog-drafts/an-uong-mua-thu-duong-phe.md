@@ -60,7 +60,8 @@
       "title": "Minh triết ăn uống âm dương",
       "url": "minh-triet-an-uong-am-duong.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một khoảng thời gian trong năm mà cơ thể gửi tín hiệu rất rõ nhưng ít ai đọc ra: sáng ngủ dậy thấy họng khô rát dù không ốm, môi nứt nhẹ, da tay ráp hơn, tóc xơ và hay tĩnh điện, mũi khô, đôi khi hắng giọng liên tục mà chẳng có gì trong cổ. Đó là lúc mùa hè đã lùi lại và không khí bắt đầu hanh — giai đoạn mà y học cổ truyền gọi bằng một chữ rất gọn: **táo**.

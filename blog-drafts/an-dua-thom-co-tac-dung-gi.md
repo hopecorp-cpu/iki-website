@@ -26,7 +26,8 @@
     {"title": "Trái cây theo mùa ở Việt Nam", "url": "trai-cay-theo-mua-o-viet-nam.html"},
     {"title": "Vitamin C và sức đề kháng", "url": "vitamin-c-va-de-khang.html"},
     {"title": "Nước ép và sinh tố dùng đúng cách", "url": "nuoc-ep-sinh-to-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Dứa — nhiều nơi ở miền Nam gọi là thơm, miền Trung gọi là khóm — là một trong những loại trái cây quen thuộc nhất trên mâm cơm người Việt. Nó xuất hiện trong nồi canh chua, đĩa lòng xào, món cá kho, và cũng là đĩa tráng miệng mát lành sau bữa ăn nhiều dầu mỡ. Nhưng khi được hỏi **ăn dứa có tác dụng gì**, phần lớn mọi người chỉ trả lời chung chung là "mát" hoặc "nhiều vitamin C". Trong khi đó, cũng chính quả dứa lại là thứ khiến không ít người rát lưỡi, cồn cào bụng, thậm chí phải bỏ dở nửa đĩa.

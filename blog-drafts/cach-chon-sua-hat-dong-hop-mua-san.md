@@ -26,7 +26,8 @@
     {"title": "Đạm thực vật là gì", "url": "dam-thuc-vat-la-gi.html"},
     {"title": "Sữa hạt cho trẻ mấy tuổi uống được", "url": "sua-hat-cho-tre-may-tuoi-uong-duoc.html"},
     {"title": "Đường và đồ chế biến sẵn", "url": "duong-va-do-che-bien-san.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Đứng trước kệ sữa trong siêu thị, bạn thấy hàng chục hộp giấy in hình hạnh nhân, óc chó, yến mạch, đậu nành — tất cả đều có chữ "hạt", đều màu be dịu mắt, đều trông lành mạnh. Giá chênh nhau gấp ba lần. Và không có cách nào biết hộp nào thật sự đáng tiền nếu chỉ nhìn mặt trước.

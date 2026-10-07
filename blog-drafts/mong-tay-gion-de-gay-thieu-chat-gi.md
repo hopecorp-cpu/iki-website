@@ -27,7 +27,8 @@
     {"title": "Thực phẩm giàu sắt cho bữa ăn hằng ngày", "url": "thuc-pham-giau-sat.html"},
     {"title": "Cần bao nhiêu đạm mỗi ngày là đủ", "url": "can-bao-nhieu-dam-moi-ngay.html"},
     {"title": "Chăm da từ bên trong — bắt đầu từ bữa ăn", "url": "cham-da-tu-ben-trong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có những tín hiệu sức khoẻ nhỏ đến mức chúng ta bỏ qua hàng năm trời. Móng tay là một trong số đó. Nó gãy ngang khi bạn mở nắp hộp, tách lớp ở đầu móng, xước dọc thành sợi, hoặc đơn giản là không bao giờ dài ra được quá vài milimét trước khi sứt. Đa số mọi người xử lý bằng cách cắt ngắn hơn, sơn phủ lên, rồi quên đi. Số ít dừng lại và tự hỏi: **móng tay giòn dễ gãy thiếu chất gì**, và liệu bữa ăn hằng ngày có liên quan gì đến chuyện này không.
@@ -161,4 +162,4 @@ Trả lời được ba câu đó, bạn đã đi được phần lớn quãng �
 - Nhà thuốc FPT Long Châu — *Móng tay dễ gãy thiếu vitamin gì?*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/giai-dap-thac-mac-mong-tay-de-gay-thieu-vitamin-gi-62263.html)
 - Trạm Y tế Phường Chợ Lớn — *Móng tay mềm dễ gãy do thiếu chất gì*: [bvquan5.medinet.gov.vn](https://bvquan5.medinet.gov.vn/chuyen-muc/mong-tay-mem-de-gay-do-thieu-chat-gi-cmobile14478-131909.aspx)
 
-Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Khi móng có biến đổi bất thường kéo dài, hãy đi khám để được đánh giá đúng.
+Nội dung trên mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Khi móng có biến đổi bất thường kéo dài, hãy đi khám để được đánh giá đúng.

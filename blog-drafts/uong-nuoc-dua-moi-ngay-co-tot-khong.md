@@ -27,7 +27,8 @@
     {"title": "Giải nhiệt mùa nắng nóng", "url": "giai-nhiet-mua-nang-nong.html"},
     {"title": "Nước ép và sinh tố dùng đúng cách", "url": "nuoc-ep-sinh-to-dung-cach.html"},
     {"title": "Đồ uống có gas và sức khoẻ", "url": "do-uong-co-gas-va-suc-khoe.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Nước dừa là thức uống gắn liền với mùa hè Việt Nam. Rẻ, sẵn, mát, và mang tiếng "lành" đến mức nhiều người uống thay nước lọc cả ngày mà không nghĩ ngợi gì. Nhưng cũng chính vì được xem là lành tuyệt đối nên ít ai hỏi: uống bao nhiêu thì vừa, và có ai không hợp không?

@@ -27,7 +27,8 @@
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Ăn rau củ nhiều màu sắc", "url": "an-rau-cu-nhieu-mau-sac.html"},
     {"title": "Ăn giảm muối", "url": "an-giam-muoi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong gần như mọi căn bếp Việt đều có một cái chậu nhựa, và trong cái chậu đó, gần như mọi mớ rau đều từng nằm ngâm trong nước muối loãng. Thói quen này được truyền lại qua nhiều thế hệ với một niềm tin rất đơn giản: muối làm sạch. Nhưng **ngâm rau nước muối có sạch không** lại là câu hỏi mà càng tìm hiểu càng thấy câu trả lời không giống với niềm tin đó.

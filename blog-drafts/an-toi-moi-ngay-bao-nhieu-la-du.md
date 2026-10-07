@@ -26,7 +26,8 @@
     {"title": "Ăn gì để tăng sức đề kháng cho người lớn", "url": "an-gi-de-tang-suc-de-khang-cho-nguoi-lon.html"},
     {"title": "Hơi miệng: nguyên nhân và thói quen chăm sóc", "url": "hoi-mieng-nguyen-nhan-va-thoi-quen-cham-soc.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Không có gian bếp Việt nào thiếu tỏi. Nó nằm trong bát nước chấm, trong đĩa rau muống xào, trong nồi thịt kho, trong lọ tỏi ngâm giấm để ăn kèm bún. Người Việt dùng tỏi nhiều đến mức gần như không còn coi nó là một thực phẩm cần suy nghĩ — chỉ là một thứ gia vị hiển nhiên.

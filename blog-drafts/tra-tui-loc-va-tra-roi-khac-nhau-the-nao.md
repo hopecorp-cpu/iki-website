@@ -27,7 +27,8 @@
     {"title": "Uống trà đúng cách", "url": "uong-tra-dung-cach.html"},
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"},
     {"title": "Uống trà thảo mộc buổi tối có mất ngủ không", "url": "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong bếp nhà người Việt bây giờ thường có cả hai: một hộp trà túi lọc để pha vội buổi sáng, và một túi trà rời ai đó biếu dịp Tết vẫn nằm im trong tủ. Câu hỏi **trà túi lọc và trà rời khác nhau thế nào** vì thế rất hay được hỏi, nhưng câu trả lời quen thuộc trên mạng lại thường dừng ở một vế duy nhất: trà rời ngon hơn, trà túi lọc tiện hơn. Vế đó đúng một phần, và chính vì chỉ đúng một phần nên nó khiến nhiều người mua nhầm thứ không hợp với nếp sống của mình.

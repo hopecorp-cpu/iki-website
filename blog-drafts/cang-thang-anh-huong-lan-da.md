@@ -56,7 +56,8 @@
       "title": "Ăn gì để giảm căng thẳng, lo âu",
       "url": "an-gi-de-giam-cang-thang-lo-au.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
@@ -202,4 +203,4 @@ Nếu bạn chưa rõ nên bắt đầu từ đâu với thể trạng và nhị
 - American Academy of Dermatology — *Feeling stressed? It can show in your skin, hair, and nails*: [aad.org](https://www.aad.org/news/stress-shows-in-skin-hair-nails)
 - NHS — *Breathing exercises for stress* (bài thở chậm như một cách tự giúp bản thân khi căng thẳng): [nhs.uk](https://www.nhs.uk/mental-health/self-help/guides-tools-and-activities/breathing-exercises-for-stress/)
 
-Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Người có vấn đề da kéo dài, khó ngủ kéo dài, có bệnh nền, đang mang thai, mới sinh hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ.
+Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Người có vấn đề da kéo dài, khó ngủ kéo dài, có bệnh nền, đang mang thai, mới sinh hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ.

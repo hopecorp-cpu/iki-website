@@ -26,7 +26,8 @@
     {"title": "Ăn chậm nhai kỹ: thói quen nhỏ, khác biệt lớn", "url": "an-cham-nhai-ky.html"},
     {"title": "Giữ tinh thần cân bằng giữa nhịp sống bận rộn", "url": "giu-tinh-than-can-bang.html"},
     {"title": "Làm sao duy trì thói quen ăn uống lành mạnh", "url": "duy-tri-thoi-quen-an-uong-lanh-manh.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Chín giờ tối. Công việc đã xong, bát đũa đã rửa, bạn ngồi xuống ghế và mở điện thoại. Rồi không rõ từ lúc nào, bạn đứng dậy đi về phía bếp. Không đói. Bữa tối cách đây hai tiếng và bạn ăn khá no. Nhưng chân vẫn đi, tay vẫn mở tủ, và mười lăm phút sau gói bánh đã hết một nửa.

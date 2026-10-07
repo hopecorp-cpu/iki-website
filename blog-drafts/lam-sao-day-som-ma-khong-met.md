@@ -27,7 +27,8 @@
     {"title": "Nhịp sinh học, giấc ngủ và ánh sáng", "url": "nhip-sinh-hoc-giac-ngu-va-anh-sang.html"},
     {"title": "Thói quen buổi sáng của người sống khoẻ", "url": "thoi-quen-buoi-sang.html"},
     {"title": "Ngủ đủ 8 tiếng vẫn mệt: vì sao", "url": "ngu-du-8-tieng-van-met.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Gần như ai cũng từng thử. Tối chủ nhật đặt báo thức 5 giờ sáng với quyết tâm rất lớn, sáng thứ hai dậy được thật, nhưng đến trưa thì mắt díu lại, đầu nặng như đeo đá, và tối thứ ba thì đồng hồ báo thức bị tắt trong vô thức. Câu hỏi **làm sao dậy sớm mà không mệt** vì thế không phải chuyện thiếu ý chí, mà là chuyện làm đúng cách.
@@ -149,4 +150,4 @@ Nếu bạn muốn đi tiếp, hãy đọc [Nhịp sinh học, giấc ngủ và 
 - Nhà thuốc FPT Long Châu — *Bật mí cách dậy sớm mà không buồn ngủ*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/bat-mi-cach-day-som-ma-khong-buon-ngu-51131.html)
 - YouMed — *Cách thức dậy sớm học bài mà không mệt mỏi*: [youmed.vn](https://youmed.vn/tin-tuc/cach-thuc-day-som-hoc-bai/)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu tình trạng mệt mỏi hoặc mất ngủ kéo dài, hãy đi khám. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu tình trạng mệt mỏi hoặc mất ngủ kéo dài, hãy đi khám.

@@ -27,7 +27,8 @@
     {"title": "Máu nhiễm mỡ", "url": "mau-nhiem-mo.html"},
     {"title": "Đạm thực vật và đạm động vật", "url": "dam-thuc-vat-va-dong-vat.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

@@ -27,7 +27,8 @@
     {"title": "Ăn theo mùa và thể tạng", "url": "an-theo-mua-va-the-tang.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"},
     {"title": "Minh triết ăn uống âm dương", "url": "minh-triet-an-uong-am-duong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 "Dạo này tôi nóng trong người" — câu này quen đến mức gần như ai cũng từng nói hoặc từng nghe. Nó thường đi kèm một loạt cảm giác rất cụ thể: người bức bối khó chịu, miệng khô, môi nứt, nổi mụn ở mặt hoặc lưng, hay bị nhiệt miệng, ngủ không sâu vào những đêm oi bức, đi ngoài khó.
@@ -236,4 +237,4 @@ Nếu muốn bắt đầu có hệ thống, hãy làm [bài kiểm tra thể tr�
 - Báo Sức khoẻ & Đời sống — *Người hay nóng trong nên ăn gì, kiêng gì theo Đông y*: [suckhoedoisong.vn](https://suckhoedoisong.vn/nguoi-hay-nong-trong-nen-an-gi-kieng-gi-theo-dong-y-169260615111544821.htm)
 - Nhà thuốc FPT Long Châu — *Nóng trong người nên ăn gì cho mát*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/nong-trong-nguoi-nen-an-gi-de-thanh-nhiet-co-the.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

@@ -54,7 +54,8 @@
       "q": "Người ăn chay lấy đạm từ đậu nành có đủ không?",
       "a": "Đạm đậu nành có đủ chín axit amin thiết yếu, nhưng bữa ăn vẫn nên có nhiều nguồn đạm thực vật khác nhau trong ngày. Chị có thể kết hợp đậu nành với các loại đậu, hạt và ngũ cốc để thực đơn đa dạng hơn, thay vì chỉ dựa vào một loại thực phẩm."
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

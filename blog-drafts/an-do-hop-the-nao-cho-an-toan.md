@@ -26,7 +26,8 @@
     {"title": "Rau củ đông lạnh có tốt như rau tươi không", "url": "rau-cu-dong-lanh-co-tot-nhu-rau-tuoi-khong.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Ăn mì tôm thế nào cho đỡ hại", "url": "an-mi-tom-the-nao-cho-do-hai.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong tủ bếp nhà nào cũng có vài hộp: cá ngừ, cá mòi sốt cà, ngô ngọt, đậu, sữa đặc, pate. Chúng nằm đó cho những hôm về muộn, những ngày mưa bão không ra chợ được, những chuyến đi xa. Nhưng cùng lúc, đồ hộp cũng mang tiếng xấu — nhiều người tin rằng "đồ hộp là mất hết chất" hoặc "ăn đồ hộp là độc".
@@ -195,4 +196,4 @@ Và như mọi chuyện trong ăn uống, điều quyết định không phải 
 - Vinmec — *Đồ hộp: tốt hay xấu?*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/do-hop-tot-hay-xau-vi)
 - Nhà thuốc FPT Long Châu — *Ăn thực phẩm đóng hộp có tốt không?*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/an-thuc-pham-dong-hop-co-tot-khong.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về an toàn thực phẩm và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn có bệnh lý nền, đang mang thai hoặc cần chế độ ăn đặc biệt, hãy hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về an toàn thực phẩm và thói quen ăn uống, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu bạn có bệnh lý nền, đang mang thai hoặc cần chế độ ăn đặc biệt, hãy hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng.

@@ -45,7 +45,8 @@
     { "title": "Người ăn chay bổ sung canxi thế nào", "url": "nguoi-an-chay-bo-sung-canxi.html" },
     { "title": "Thực phẩm tăng sinh collagen tự nhiên", "url": "thuc-pham-tang-sinh-collagen-tu-nhien.html" },
     { "title": "Người mới ốm dậy nên ăn gì", "url": "nguoi-moi-om-day-nen-an-gi.html" }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

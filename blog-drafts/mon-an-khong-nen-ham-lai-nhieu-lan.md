@@ -27,7 +27,8 @@
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Cơm hộp mang đi làm đủ chất và an toàn", "url": "com-hop-mang-di-lam-du-chat-an-toan.html"},
     {"title": "Dầu chiên đi chiên lại có hại không", "url": "dau-chien-di-chien-lai-co-hai-khong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong gian bếp Việt, chuyện hâm lại đồ ăn là điều diễn ra mỗi ngày. Nồi canh nấu buổi trưa hâm lại buổi tối, đĩa thịt kho hâm đi hâm lại ba bữa, bát cơm nguội sáng mai rang lên. Đó vừa là thói quen tiết kiệm đáng quý, vừa là chỗ mà an toàn thực phẩm dễ bị bỏ quên nhất — bởi món ăn nhìn vẫn ngon, ngửi vẫn thơm, nên chẳng ai nghĩ có gì phải bận tâm.

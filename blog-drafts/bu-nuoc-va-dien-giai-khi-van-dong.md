@@ -27,7 +27,8 @@
     {"title": "Dinh dưỡng cho người tập gym", "url": "dinh-duong-nguoi-tap-gym.html"},
     {"title": "Người chạy bộ nên ăn gì", "url": "nguoi-chay-bo-nen-an-gi.html"},
     {"title": "Thực phẩm giàu kali", "url": "thuc-pham-giau-kali.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có hai kiểu người ở phòng gym. Kiểu thứ nhất tập cả tiếng mà bình nước gần như còn nguyên, rồi ra về với cái đầu âm ẩm đau và cảm giác kiệt sức không rõ nguyên nhân. Kiểu thứ hai mang theo một bình nước điện giải màu xanh cho buổi tập 45 phút nhẹ nhàng, tin rằng như vậy mới "chuẩn". Cả hai đều đang làm sai, chỉ là sai theo hai hướng khác nhau.

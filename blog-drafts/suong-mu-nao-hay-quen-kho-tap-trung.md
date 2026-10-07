@@ -27,7 +27,8 @@
     {"title": "Nhịp sinh học, giấc ngủ và ánh sáng", "url": "nhip-sinh-hoc-giac-ngu-va-anh-sang.html"},
     {"title": "Ổn định đường huyết trong ngày", "url": "on-dinh-duong-huyet.html"},
     {"title": "Màn hình trước giờ ngủ", "url": "man-hinh-truoc-gio-ngu.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Bạn đọc xong một đoạn văn rồi không nhớ mình vừa đọc gì. Bạn bước vào bếp rồi đứng đó tự hỏi mình định lấy gì. Bạn mở ba tab công việc, nhìn chằm chằm vào màn hình mười lăm phút mà chưa gõ được câu nào. Cuối ngày, bạn mệt nhưng không phải mệt cơ bắp — mệt kiểu đầu óc phủ một lớp sương, nghĩ gì cũng chậm hơn nửa nhịp.

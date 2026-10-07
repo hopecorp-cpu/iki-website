@@ -27,7 +27,8 @@
     {"title": "Uống trà đúng cách: thời điểm và liều lượng", "url": "uong-tra-dung-cach.html"},
     {"title": "Kinh nghiệm dân gian trong chăm sóc sức khoẻ", "url": "kinh-nghiem-dan-gian-cham-soc.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Ở nhiều vùng quê miền Bắc, ấm nước lá vối là thứ gần như mặc định trên bàn: nấu một nồi từ sáng, rót ra bình, cả nhà uống suốt ngày thay nước lọc. Vị hơi chát nhẹ, hậu ngọt, màu hổ phách — thứ nước ấy gắn với ký ức của rất nhiều người Việt. Nhưng khi thói quen quê nhà bước vào nhịp sống thành phố, câu hỏi cũng đổi: **uống nước lá vối mỗi ngày có tốt không**, uống bao nhiêu là vừa, và có ai không nên uống?

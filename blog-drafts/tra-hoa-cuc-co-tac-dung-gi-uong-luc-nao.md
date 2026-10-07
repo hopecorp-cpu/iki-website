@@ -27,7 +27,8 @@
     {"title": "Khó ngủ trằn trọc: xây lại nếp buổi tối", "url": "kho-ngu-tran-troc-nep-buoi-toi.html"},
     {"title": "Thức uống ấm và trà thảo mộc", "url": "thuc-uong-am-tra-thao-moc.html"},
     {"title": "5 thể tạng theo Đông y", "url": "5-the-tang-theo-dong-y.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Câu hỏi **trà hoa cúc có tác dụng gì** được gõ vào ô tìm kiếm mỗi ngày, thường vào hai thời điểm rất người: lúc ai đó vừa mua một hũ cúc khô về mà chưa biết dùng thế nào, và lúc ai đó đang muốn bỏ bớt ly cà phê chiều hay cốc nước ngọt buổi tối. Hoa cúc là thứ quen đến mức nhiều gia đình Việt luôn có sẵn một túi trong tủ bếp, nhưng phần lớn chúng ta dùng theo thói quen truyền lại chứ ít khi hỏi kỹ: nó thật sự mang lại gì, uống lúc nào thì hợp, pha ra sao cho đúng vị, và ai thì không nên uống.
@@ -212,4 +213,4 @@ Nếu bạn muốn bắt đầu ngay tối nay, hãy làm điều đơn giản n
 - Báo Sức khoẻ & Đời sống — *Những ai không nên dùng trà hoa cúc*: [suckhoedoisong.vn](https://suckhoedoisong.vn/nhung-ai-khong-nen-dung-tra-hoa-cuc-169240422121735207.htm)
 - MEDLATEC — *Ai không nên uống trà hoa cúc, tác dụng phụ và lưu ý khi sử dụng*: [medlatec.vn](https://medlatec.vn/tin-tuc/ai-khong-nen-uong-tra-hoa-cuc-tac-dung-phu-la-gi-va-luu-y-khi-su-dung)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa.

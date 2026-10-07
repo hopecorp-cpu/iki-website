@@ -15,7 +15,8 @@
   "no_product": true,
   "website_shell": true,
   "answer": "Bắt đầu ăn chay với bữa ăn thực tế, lịch chuẩn bị 7 ngày và cách kiểm tra nguồn đạm, B12, sắt, canxi.",
-  "related": []
+  "related": [],
+  "anh_ai": true
 }
 ---
 

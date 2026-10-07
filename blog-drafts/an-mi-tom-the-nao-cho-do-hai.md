@@ -27,7 +27,8 @@
     {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"},
     {"title": "Rau lá xanh mỗi ngày — nền của bữa ăn cân bằng", "url": "rau-la-xanh-moi-ngay.html"},
     {"title": "Ăn uống cho người bận rộn: giữ nếp khi không có thời gian", "url": "an-uong-nguoi-ban-ron.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Trong tủ bếp của gần như mọi gia đình Việt đều có vài gói mì ăn liền. Nó là món cứu đói lúc mười một giờ đêm, là bữa sáng của sinh viên, là thứ đầu tiên người ta nghĩ tới khi mưa lớn không muốn ra khỏi nhà. Và cũng chính nó là món bị nói xấu nhiều nhất trên mạng — với đủ loại lời đồn đáng sợ về việc cơ thể phải mất hàng chục ngày mới xử lý xong một gói mì. Không lạ khi câu hỏi được tìm nhiều nhất lại là: **ăn mì tôm thế nào cho đỡ hại**?
@@ -186,4 +187,4 @@ Nếu bạn muốn biết khẩu phần nào hợp với cơ địa của riêng
 - Báo Đại biểu Nhân dân — Bí quyết ăn mì gói không lo hại sức khoẻ: [daibieunhandan.vn](https://daibieunhandan.vn)
 - Bệnh viện Nguyễn Tri Phương — Những tác hại khi ăn quá nhiều mì tôm: [bvnguyentriphuong.com.vn](https://bvnguyentriphuong.com.vn)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn đang được chỉ định ăn nhạt, có bệnh dạ dày hoặc bệnh nền khác, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen ăn uống.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn đang được chỉ định ăn nhạt, có bệnh dạ dày hoặc bệnh nền khác, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen ăn uống.*

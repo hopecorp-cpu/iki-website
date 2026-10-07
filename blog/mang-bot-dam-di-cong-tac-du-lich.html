@@ -199,12 +199,15 @@
   <style>
     .post-wrap{max-width:760px;margin:0 auto;padding:0 20px}
     .post-hero{max-width:1000px;margin:0 auto;padding:0 20px}
-    .post-hero-img{width:100%;aspect-ratio:16/8;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-img{width:100%;aspect-ratio:16/9;object-fit:cover;border-radius:18px;margin-top:16px}
+    .post-hero-fig{margin:0}
+    .post-hero-fig .post-hero-img{display:block}
+    .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}
     .post-eyebrow{display:inline-block;font-family:var(--font-sans,'Manrope');font-weight:700;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
     .post-title{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.9rem,4.4vw,3rem);line-height:1.12;margin:.4rem 0 .6rem}
     .post-meta{font-size:.9rem;color:#667085;display:flex;gap:14px;flex-wrap:wrap;align-items:center;border-bottom:1px solid #eef0f3;padding-bottom:18px;margin-bottom:8px}
     .med-notice{background:#FFFFFF;border:1px solid #E5E5E5;border-left:4px solid var(--iki-teal-deep,#2E8975);border-radius:8px;padding:14px 18px;margin:22px 0;color:#1d2430;font-size:.95rem;line-height:1.55}
-    .med-notice a{color:#8a5a12;text-decoration:underline}
+    .med-notice a{color:var(--iki-teal-deep,#2E8975);text-decoration:underline}
     .answer-box{background:linear-gradient(135deg,#f2f9ef,#eafaf5);border:1px solid #cdebdf;border-left:4px solid var(--iki-teal,#4BC0AB);border-radius:14px;padding:18px 22px;margin:26px 0}
     .answer-box .ab-label{font-weight:700;font-size:.78rem;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975);margin-bottom:6px}
     .answer-box p{margin:0;font-size:1.06rem;line-height:1.6}
@@ -292,10 +295,9 @@ blockquote.cau-chot{margin:28px 0;padding:0 0 0 20px;border-left:4px solid #1F4D
     .lead-row{display:flex;gap:10px;max-width:480px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:13px 16px;font-size:1rem;font-family:inherit}
     .lead-phone{display:block;width:100%;max-width:480px;margin:10px auto 0;border:none;border-radius:12px;padding:11px 16px;font-size:.95rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:8px;padding:13px 22px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.78rem} .lead-consent input{margin-right:6px}
     .post-disclaimer{font-size:.86rem;color:#667085;background:#fafbfc;border:1px solid #eef0f3;border-radius:12px;padding:14px 18px;margin:26px 0}
-    @media(max-width:640px){.post-hero-img{aspect-ratio:4/3}}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -333,7 +335,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <article>
       <div class="post-hero">
         <div style="max-width:760px;margin:0 auto">
-          <span class="post-eyebrow">thoi-quen</span>
+          <span class="post-eyebrow">Thói quen</span>
           <h1 class="post-title">Mang bột đạm đi công tác và du lịch: chia liều, đóng gói, qua sân bay</h1>
           <div class="post-meta">
             <span>Đội ngũ Health Coach IKI</span><span>·</span>
@@ -341,7 +343,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <span>14 phút đọc</span>
           </div>
         </div>
+        <figure class="post-hero-fig">
         <img class="post-hero-img" src="../assets/blog/mang-bot-dam-di-cong-tac-du-lich-hero.jpg" alt="Bộ đồ mang bột đạm đi du lịch trên bàn gỗ: bình lắc nhỏ, các túi zip đã chia liều, muỗng đong, hộ chiếu và thẻ lên máy bay" />
+        <figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI.</figcaption>
+        </figure>
       </div>
 
       <div class="post-wrap">
@@ -416,7 +421,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <p>Và trên hết, hãy để bột đạm đóng đúng vai của nó trong chuyến đi: một phương án dự phòng cho những bữa lịch trình lấy mất, chứ không phải một nghĩa vụ phải uống cho hết. Nếu bạn muốn biết nhịp ăn hiện tại của mình có thật sự cần phương án dự phòng đó hay không, <a href="https://ikihealing.com/quiz">bài kiểm tra thể trạng 90 giây</a> là một điểm bắt đầu gọn, trước khi bạn chia túi cho chuyến đi kế tiếp.</p>
 <h2 id="nguon-tham-khao">Nguồn tham khảo</h2>
 <ul><li>Transportation Security Administration (Hoa Kỳ) — <em>Protein or Energy Powders</em>, quy định soi kiểm bột trên 12 ounce (350ml) trong hành lý xách tay: <a href="https://www.tsa.gov/travel/security-screening/whatcanibring/items/protein-or-energy-powders">tsa.gov</a></li><li>Vietnam Airlines — <em>Chất lỏng</em>, mục hành lý hạn chế, quy định về chất bột từ 350ml trên các chuyến bay đến hoặc quá cảnh Hoa Kỳ, Úc và New Zealand: <a href="https://www.vietnamairlines.com/vn/vi/travel-information/baggage/restricted-baggage/Liquids">vietnamairlines.com</a></li><li>U.S. Food and Drug Administration — <em>Water Activity (aw) in Foods</em>, vai trò của hoạt độ nước đối với sự phát triển vi sinh vật trong thực phẩm khô: <a href="https://www.fda.gov/inspections-compliance-enforcement-and-criminal-investigations/inspection-technical-guides/water-activity-aw-foods">fda.gov</a></li></ul>
-<p>Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Quy định hành lý có thể thay đổi theo hãng bay và quốc gia, hãy kiểm tra lại trước mỗi chuyến đi.</p>
+<p>Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa. Quy định hành lý có thể thay đổi theo hãng bay và quốc gia, hãy kiểm tra lại trước mỗi chuyến đi.</p>
         </div>
 
         
@@ -465,13 +470,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
             <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
-            <li><a href="../app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.</li>
+            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
           </ul>
         </section>
         <section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul><li><a href="bot-dam-thanh-dam-sua-dam-pha-san-chon-dang-nao.html">Bột đạm, thanh đạm hay sữa đạm pha sẵn: chọn dạng nào cho ngày bận?</a></li><li><a href="giu-nep-an-khi-di-xa.html">Giữ nếp ăn khi đi xa</a></li><li><a href="bao-quan-bot-dam-thuc-vat-sau-khi-mo-nap.html">Bảo quản bột đạm thực vật sau khi mở nắp</a></li><li><a href="pha-bot-dam-thuc-vat-voi-gi-cho-de-uong.html">Pha bột đạm thực vật với gì cho dễ uống</a></li><li><a href="mua-hop-bot-dam-roi-bo-quen-vi-sao.html">Mua hộp bột đạm rồi bỏ quên: bốn lý do thật và cách dùng hết hộp</a></li></ul></section>
 
         <div class="post-disclaimer">
-          Nội dung mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hoặc tư vấn y khoa. Các sản phẩm IKI là <strong>thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Khi có vấn đề sức khoẻ, hãy tham khảo ý kiến bác sĩ.
+          <p>Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.</p>
+          <p>Bài viết chia sẻ thông tin tham khảo, không thay thế tư vấn của bác sĩ.</p>
         </div>
       </div>
     </article>
@@ -536,13 +542,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 #ikiExit .ie-sdt{font-size:.92rem}
 #ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
 #ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
-#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:12px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
+#ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-no{border:none;background:none;color:#98a2b3;font-size:.9rem;text-decoration:underline;cursor:pointer;margin-top:12px;font-family:inherit}

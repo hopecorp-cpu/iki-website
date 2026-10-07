@@ -56,7 +56,8 @@
       "title": "Chọn thực phẩm bổ sung đúng cách",
       "url": "chon-thuc-pham-bo-sung-dung-cach.html"
     }
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 

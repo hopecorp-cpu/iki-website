@@ -27,7 +27,8 @@
     {"title": "Trái cây theo mùa ở Việt Nam", "url": "trai-cay-theo-mua-o-viet-nam.html"},
     {"title": "Bảo quản thực phẩm đúng cách", "url": "bao-quan-thuc-pham-dung-cach.html"},
     {"title": "Đạm thực vật và đạm động vật khác nhau thế nào", "url": "dam-thuc-vat-va-dong-vat.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 **Ăn uống lành mạnh mà tiết kiệm** — nghe như hai điều không đi cùng nhau. Có một niềm tin rất phổ biến rằng ăn uống lành mạnh là chuyện của người có tiền. Rằng muốn ăn sạch thì phải mua rau hữu cơ, phải có hạt óc chó, hạt chia, dầu ô liu nhập khẩu và những hộp sữa hạt đắt tiền. Niềm tin ấy khiến rất nhiều người bỏ cuộc ngay từ đầu, vì nhìn vào ngân sách rồi kết luận: chuyện này không dành cho mình.
@@ -190,4 +191,4 @@ Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua th
 - iHealth Unified Care — Ăn uống lành mạnh mà vẫn tiết kiệm chi phí: [ihealthunifiedcare.com](https://www.ihealthunifiedcare.com)
 - Điện Máy Xanh — 19 cách ăn uống lành mạnh, thông minh, tiết kiệm chi phí cho gia đình: [dienmayxanh.com](https://www.dienmayxanh.com)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nếu bạn có bệnh nền hoặc đang trong chế độ ăn theo chỉ định, hãy tham khảo ý kiến chuyên môn trước khi thay đổi khẩu phần.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có bệnh nền hoặc đang trong chế độ ăn theo chỉ định, hãy tham khảo ý kiến chuyên môn trước khi thay đổi khẩu phần.*

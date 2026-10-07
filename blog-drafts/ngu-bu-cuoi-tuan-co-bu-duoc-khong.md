@@ -27,7 +27,8 @@
     {"title": "Nhịp sinh học, giấc ngủ và ánh sáng", "url": "nhip-sinh-hoc-giac-ngu-va-anh-sang.html"},
     {"title": "Khó ngủ, trăn trở: xây lại nếp buổi tối", "url": "kho-ngu-tran-troc-nep-buoi-toi.html"},
     {"title": "Ngủ trưa phục hồi năng lượng đúng cách", "url": "ngu-trua-phuc-hoi-nang-luong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Gần như ai cũng từng tự nhủ câu này vào tối thứ Năm: "thôi tuần này ngủ ít, cuối tuần ngủ bù một giấc là xong". Nó nghe rất hợp lý — cơ thể thiếu bao nhiêu thì nạp lại bấy nhiêu, giống như sạc pin điện thoại. Nhưng nếu cách đó thật sự hiệu quả, sẽ không có chuyện hàng triệu người ngủ tới trưa Chủ nhật rồi vẫn thức dậy sáng thứ Hai với cái đầu nặng trịch và đôi mắt cay xè.

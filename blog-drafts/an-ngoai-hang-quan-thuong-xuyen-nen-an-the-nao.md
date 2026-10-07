@@ -27,7 +27,8 @@
     {"title": "Cách chia đĩa bữa ăn cân bằng", "url": "cach-chia-dia-bua-an-can-bang.html"},
     {"title": "Ăn uống khi đi tiệc, liên hoan", "url": "an-uong-khi-di-tiec-lien-hoan.html"},
     {"title": "Ăn sáng bún phở bánh mì xôi có tốt không", "url": "an-sang-bun-pho-banh-mi-xoi-co-tot-khong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Với rất nhiều người đi làm ở thành phố, bếp nhà chỉ sáng đèn vào cuối tuần. Bữa trưa là quán cơm dưới toà nhà, bữa tối là ứng dụng giao đồ ăn, cuối tuần là hàng quán cùng bạn bè. Câu hỏi **ăn ngoài hàng quán thường xuyên nên ăn thế nào** vì thế không phải là câu hỏi lý thuyết — nó là bài toán thực tế của một tuần làm việc.

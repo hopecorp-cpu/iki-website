@@ -26,7 +26,8 @@
     {"title": "Trào ngược dạ dày", "url": "trao-nguoc-da-day.html"},
     {"title": "Bữa tối nhẹ để tiêu", "url": "bua-toi-nhe-de-tieu.html"},
     {"title": "Uống nước đúng cách mỗi ngày", "url": "uong-nuoc-dung-cach-moi-ngay.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một kiểu buổi sáng không dễ chịu chút nào: vừa mở mắt đã thấy miệng khô khốc, lưỡi dính, và một vị đắng nhàn nhạt đọng lại mãi tới lúc đánh răng xong. Nhiều người sống chung với nó hàng tháng trời, cho rằng đó là chuyện tuổi tác hoặc "cơ địa nó thế".
@@ -182,4 +183,4 @@ Bạn có thể bắt đầu bằng việc hiểu cơ địa của mình qua [b�
 - Vinmec — *9 nguyên nhân gây khô miệng khi ngủ dậy*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/9-nguyen-nhan-gay-kho-mieng-khi-ngu-day-vi)
 - Nhà thuốc FPT Long Châu — *Đắng miệng khi ngủ dậy là bệnh gì*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/dang-mieng-khi-ngu-day-la-benh-gi-57634.html)
 
-Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu dấu hiệu kéo dài hoặc nặng lên, hãy đi khám để được kiểm tra đúng nguyên nhân. Các sản phẩm IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+Nội dung trên mang tính chia sẻ kiến thức về thói quen sinh hoạt, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Nếu dấu hiệu kéo dài hoặc nặng lên, hãy đi khám để được kiểm tra đúng nguyên nhân.

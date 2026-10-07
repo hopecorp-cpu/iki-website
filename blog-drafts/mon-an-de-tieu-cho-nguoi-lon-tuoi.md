@@ -26,7 +26,8 @@
     {"title": "Táo bón và tiêu hoá khoẻ", "url": "tao-bon-tieu-hoa-khoe.html"},
     {"title": "Ăn chậm nhai kỹ: thói quen nhỏ, khác biệt lớn", "url": "an-cham-nhai-ky.html"},
     {"title": "Lộ trình chăm sóc sức khoẻ cho người cao tuổi", "url": "lo-trinh-nguoi-cao-tuoi.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 Có một cảnh quen thuộc trong nhiều gia đình Việt: mâm cơm vẫn đủ món, nhưng ông bà chỉ và được lưng bát rồi đặt đũa xuống, nói "no rồi", "ăn vào lại đầy bụng". Con cháu lo, nấu thêm món bổ, và ông bà lại càng ngại ăn. Vòng lặp ấy khá phổ biến, và lời giải thường không nằm ở việc nấu nhiều hơn mà ở việc **nấu khác đi**.

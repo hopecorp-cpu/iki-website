@@ -27,7 +27,8 @@
     {"title": "Đọc nhãn dinh dưỡng thực phẩm", "url": "doc-nhan-dinh-duong-thuc-pham.html"},
     {"title": "Người lớn tuổi khó nhai nuốt nên ăn gì", "url": "nguoi-lon-tuoi-kho-nhai-nuot-nen-an-gi.html"},
     {"title": "Uống collagen có tốt không", "url": "uong-collagen-co-tot-khong.html"}
-  ]
+  ],
+  "anh_ai": true
 }
 ---
 
