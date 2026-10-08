@@ -459,7 +459,7 @@ export function buildStructure() {
       { "@context": "https://schema.org", "@type": "CollectionPage", name: "Cảm nhận cộng đồng IKI", url: `${SITE}/blog/cam-nhan-cong-dong.html`, inLanguage: "vi-VN" })
     + header()
     + tmStyle
-    + `<main><section class="blog-hero"><span class="eyebrow">Cảm nhận cộng đồng</span><h1>Những thói quen nhỏ, kể bằng lời thật</h1><p>Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Mỗi người một cảm nhận riêng.</p></section><div class="tm-wrap"><div class="tm-grid">${tmCards}</div></div><p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người. Sản phẩm là thực phẩm bổ sung, không phải thuốc và không thay thế thuốc chữa bệnh.</p>${emailCta(plan, "cam-nhan-cong-dong")}</main>`
+    + `<main><section class="blog-hero"><span class="eyebrow">Cảm nhận cộng đồng</span><h1>Những thói quen nhỏ, kể bằng lời thật</h1><p>Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Mỗi người một cảm nhận riêng.</p></section><div class="tm-wrap"><div class="tm-grid">${tmCards}</div></div><p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người.</p>${emailCta(plan, "cam-nhan-cong-dong")}</main>`
     + footer(), "utf8");
 
   // ---------- MIỄN TRỪ TRÁCH NHIỆM (điều khoản nội dung) ----------

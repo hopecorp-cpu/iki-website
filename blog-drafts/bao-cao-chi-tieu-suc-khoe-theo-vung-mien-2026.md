@@ -90,5 +90,5 @@ Lâm Đồng có trung vị 1,34 triệu đồng/đơn — cao nhất cả nư�
 Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Tải [bản PDF trình bày đầy đủ](../assets/bao-cao/bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026.pdf). Cần bảng số theo tỉnh chi tiết hơn hoặc góc phân tích riêng: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
-Báo cáo phản ánh hành vi mua sắm và lối sống, không phải dữ liệu y khoa. Các sản phẩm được nhắc đến là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
+Báo cáo phản ánh hành vi mua sắm và lối sống, không phải dữ liệu y khoa. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
 :::
