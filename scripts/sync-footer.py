@@ -10,7 +10,9 @@ COPY = {
 BCT='<a class="if-bct" href="https://online.gov.vn/nen-tang/36b54e5b-6771-4f8a-a982-cdda06c1bd73" target="_blank" rel="noopener" title="Đã xác nhận với Bộ Công Thương" style="display:inline-block;margin-top:14px"><img src="https://fileserver.online.gov.vn/uploads/Resources/iconxacnhan/DaThongBao.png" alt="Đã xác nhận" style="height:44px;width:auto" loading="lazy"></a>'
 # KT-sau-1: bài thẻ trà và 2 bài giấc ngủ không giữ dòng chân trang gọi trà là thực phẩm bổ sung.
 BAI_NGU_KHONG_TPBS={'kho-ngu-tran-troc-nep-buoi-toi','uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong'}
-# Câu miễn trừ chân trang (10/10/2026). Chỉ thay câu cũ bắt đầu bằng «Các sản phẩm là thực phẩm bổ sung».
+# Câu miễn trừ chân trang (10/10/2026): chỉ câu đã chốt, không giữ «Kết quả có thể khác nhau tuỳ cơ địa.»
+# Thay câu cũ «Các sản phẩm là thực phẩm bổ sung…» và câu trang chính sách
+# «Các sản phẩm được giới thiệu trên website là thực phẩm/thực phẩm bổ sung…».
 NOTICE={
 'vi':'Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.',
 'en':'This content is for reference only and does not replace medical advice. IKI products are not medicines and do not replace medicines that treat disease.',
@@ -19,9 +21,12 @@ def plain(html):
  return re.sub(r'\s+',' ',re.sub(r'<[^>]+>','',html)).strip()
 def la_cau_cu(text,lang):
  t=text.lower()
- if lang=='vi':return t.startswith('các sản phẩm là thực phẩm bổ sung')
- if lang=='en':return t.startswith('these products are') and 'supplement' in t
- if lang=='ja':return ('これらの製品' in text or text.startswith('本製品')) and ('栄養補助' in text or '健康補助' in text)
+ if lang=='vi':
+  return t.startswith('các sản phẩm là thực phẩm bổ sung') or t.startswith('các sản phẩm được giới thiệu trên website là thực phẩm')
+ if lang=='en':
+  return (t.startswith('these products are') and 'supplement' in t) or (t.startswith('products presented on this website') or t.startswith('products introduced on this website'))
+ if lang=='ja':
+  return (('これらの製品' in text or text.startswith('本製品')) and ('栄養補助' in text or '健康補助' in text)) or text.startswith('当ウェブサイトで紹介する製品')
  return False
 def doi_cau_chan(notice,lang):
  parts=re.findall(r'<p class="if-notice">[\s\S]*?</p>',notice)

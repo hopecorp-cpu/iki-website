@@ -67,7 +67,7 @@ TRANG["dieu-khoan-su-dung.html"] = ("Điều khoản sử dụng", "Điều kho�
 <li>Được bảo vệ dữ liệu cá nhân, được yêu cầu xem, sửa, xoá dữ liệu hoặc ngừng nhận tin.</li>
 <li>Cung cấp thông tin đặt hàng (họ tên, số điện thoại, địa chỉ nhận hàng) chính xác và chịu trách nhiệm về thông tin đã cung cấp.</li>
 <li>Thanh toán đầy đủ giá trị đơn hàng và phí giao hàng (nếu có) theo phương thức đã chọn.</li>
-<li>Đọc kỹ thành phần, hướng dẫn sử dụng trên nhãn trước khi dùng. Sản phẩm là thực phẩm/thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</li>
+<li>Đọc kỹ thành phần, hướng dẫn sử dụng trên nhãn trước khi dùng. Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</li>
 </ul>
 
 <h2>5. Quy trình đặt hàng</h2>
@@ -80,7 +80,7 @@ TRANG["dieu-khoan-su-dung.html"] = ("Điều khoản sử dụng", "Điều kho�
 
 <h2>6. Điều kiện hoặc hạn chế trong việc cung cấp hàng hoá</h2>
 <ul>
-<li>Website chỉ bán thực phẩm, thực phẩm bổ sung, trà thảo mộc, gia vị và đồ dùng thiết yếu đã được tự công bố theo quy định; không bán hàng cấm, hàng hạn chế kinh doanh.</li>
+<li>Website chỉ bán thực phẩm, trà thảo mộc, gia vị và đồ dùng thiết yếu đã được tự công bố theo quy định; không bán hàng cấm, hàng hạn chế kinh doanh.</li>
 <li>Giao hàng trên toàn lãnh thổ Việt Nam; chưa giao ra nước ngoài.</li>
 <li>Số lượng mỗi đơn có thể bị giới hạn theo tồn kho; khi hết hàng, nhân viên báo trước và khách hàng có quyền huỷ đơn không mất phí.</li>
 <li>Chương trình tặng quà có điều kiện, thời hạn và số lượng quà ghi rõ tại từng chương trình; quà tặng không quy đổi thành tiền.</li>
