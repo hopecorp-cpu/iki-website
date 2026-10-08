@@ -1961,84 +1961,6 @@
     ]
   },
   {
-    "slug": "bao-cao-cham-soc-suc-khoe-chu-dong-2026",
-    "videoId": "x2f2qf4awLs",
-    "ten": "Báo cáo sức khoẻ chủ động 2026: số liệu người Việt mua gì",
-    "moTa": "Theo những gì IKI ghi nhận từ khách hàng và cộng đồng IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì.",
-    "anh": "https://i.ytimg.com/vi/x2f2qf4awLs/maxresdefault.jpg",
-    "ngay": "2026-08-20",
-    "giay": 273,
-    "chuong": [
-      {
-        "giay": 0,
-        "nhan": "Câu hỏi về thói quen chăm sóc sức khoẻ"
-      },
-      {
-        "giay": 22,
-        "nhan": "Nguồn dữ liệu 5 tháng thực tế"
-      },
-      {
-        "giay": 60,
-        "nhan": "Đạm thực vật là phần lớn giỏ hàng"
-      },
-      {
-        "giay": 90,
-        "nhan": "Tỉ lệ khách quay lại mua tiếp"
-      },
-      {
-        "giay": 128,
-        "nhan": "Phần lớn đơn hàng đến từ ngoài Hà Nội, TP.HCM"
-      },
-      {
-        "giay": 165,
-        "nhan": "Niềm tin: thanh toán khi nhận hàng, tư"
-      },
-      {
-        "giay": 213,
-        "nhan": "Giới hạn dữ liệu và nguồn báo cáo đầy đủ"
-      }
-    ]
-  },
-  {
-    "slug": "bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026",
-    "videoId": "_AowRuo5tKk",
-    "ten": "Chi tiêu sức khoẻ theo vùng miền 2026: tỉnh chi đậm hơn",
-    "moTa": "Theo những gì IKI ghi nhận từ đơn hàng thanh toán khi nhận: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền, và nhiều tỉnh như Lâm Đồng, Thái Bình, Hải Phòng chi đậm hơn cả Hà Nội, TP.HCM.",
-    "anh": "https://i.ytimg.com/vi/_AowRuo5tKk/maxresdefault.jpg",
-    "ngay": "2026-08-20",
-    "giay": 263,
-    "chuong": [
-      {
-        "giay": 0,
-        "nhan": "Dữ liệu đơn hàng thanh toán khi nhận"
-      },
-      {
-        "giay": 26,
-        "nhan": "Mức chi bình quân theo ba miền"
-      },
-      {
-        "giay": 51,
-        "nhan": "Ý nghĩa mức chi không phân biệt vùng"
-      },
-      {
-        "giay": 83,
-        "nhan": "Giá trị đơn hàng phổ biến giống nhau"
-      },
-      {
-        "giay": 96,
-        "nhan": "Thái Bình đứng đầu bảng xếp hạng tỉnh"
-      },
-      {
-        "giay": 152,
-        "nhan": "Lâm Đồng chi tiêu đều và đậm tay"
-      },
-      {
-        "giay": 173,
-        "nhan": "Ý nghĩa dữ liệu và lưu ý về báo cáo"
-      }
-    ]
-  },
-  {
     "slug": "bao-cao-hanh-trinh-hoi-dap-2026",
     "videoId": "KzGAjaC4YEA",
     "ten": "Cần bao nhiêu tin nhắn để quyết định mua đồ sức khoẻ?",
@@ -2129,45 +2051,6 @@
     "ngay": "2026-09-02",
     "giay": 0,
     "chuong": []
-  },
-  {
-    "slug": "bao-cao-san-pham-giu-thoi-quen-2026",
-    "videoId": "EwbPEPWa5N4",
-    "ten": "Sản phẩm sức khoẻ nào giữ chân người dùng? Số liệu 2026",
-    "moTa": "Theo những gì IKI ghi nhận từ khách hàng mới: một bộ phận quay lại mua tiếp trong 5 tháng, và nhóm bắt đầu bằng đạm thực vật gắn bó với đúng thói quen ban đầu hơn cả.",
-    "anh": "https://i.ytimg.com/vi/EwbPEPWa5N4/maxresdefault.jpg",
-    "ngay": "2026-08-21",
-    "giay": 278,
-    "chuong": [
-      {
-        "giay": 0,
-        "nhan": "Vì sao thói quen sống lành hay bỏ ngang"
-      },
-      {
-        "giay": 13,
-        "nhan": "Dữ liệu khách hàng trong 5 tháng"
-      },
-      {
-        "giay": 40,
-        "nhan": "Tỉ lệ quay lại mua chung gần như đồng đều"
-      },
-      {
-        "giay": 72,
-        "nhan": "Tỉ lệ quay lại đúng thói quen ban đầu"
-      },
-      {
-        "giay": 122,
-        "nhan": "Vì sao đạm thực vật giữ chân tốt hơn"
-      },
-      {
-        "giay": 186,
-        "nhan": "Nên bắt đầu từ bữa ăn hằng ngày"
-      },
-      {
-        "giay": 234,
-        "nhan": "Giới hạn dữ liệu và lời kết"
-      }
-    ]
   },
   {
     "slug": "bao-quan-bot-dam-thuc-vat-dung-cach",
