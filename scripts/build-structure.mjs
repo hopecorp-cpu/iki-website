@@ -78,6 +78,11 @@ function draftMeta(slug) {
   if (!m) return null;
   try { return JSON.parse(m[1]); } catch { return null; }
 }
+// Bài noindex giữ URL và link nội bộ, nhưng không vào sitemap hay llms.txt.
+function khongDuaVaoChiMuc(slug) {
+  const m = draftMeta(slug);
+  return !!(m && m.noindex);
+}
 const isPublished = (slug) => fs.existsSync(path.join(ROOT, "blog-drafts", `${slug}.md`)) || fs.existsSync(path.join(ROOT, "blog", `${slug}.html`));
 
 // slug -> title (gộp articles + roadmaps) để render thẻ theo chặng
@@ -522,7 +527,7 @@ function buildLlms(plan) {
   L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa. Sản phẩm là thực phẩm bổ sung, không phải thuốc.", "");
   L.push("## Blog — Kiến thức chăm sóc sức khoẻ chủ động");
   L.push(`- [Blog IKI](${SITE}/blog/): lộ trình chăm sóc sức khoẻ chủ động theo từng chặng.`);
-  for (const a of plan.articles) if (isPublished(a.slug) && !LEGACY_APP_SLUGS.has(a.slug)) {
+  for (const a of plan.articles) if (isPublished(a.slug) && !LEGACY_APP_SLUGS.has(a.slug) && !khongDuaVaoChiMuc(a.slug)) {
     const m = draftMeta(a.slug) || {};
     L.push(`- [${a.title}](${SITE}/blog/${a.slug}.html)${m.description ? ": " + m.description : ""}`);
   }
@@ -591,7 +596,7 @@ function updateSitemap(plan) {
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
   // Bài mồ côi (chưa vào content-plan) TRƯỚC ĐÂY bị loại khỏi khối tự sinh, nên chỉ còn sống nhờ
   // dòng <url> nối tay ngoài khối — một lần dựng lại là mất dấu. Cho chúng vào khối luôn.
-  for (const a of plan.articles) if (isPublished(a.slug)) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly", a.slug));
+  for (const a of plan.articles) if (isPublished(a.slug) && !khongDuaVaoChiMuc(a.slug)) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly", a.slug));
   const block = `  <!-- BLOG:START (tự sinh bởi build-structure.mjs — đừng sửa tay) -->\n${urls.join("\n")}\n  <!-- BLOG:END -->`;
   if (/<!-- BLOG:START[\s\S]*?BLOG:END -->/.test(xml)) xml = xml.replace(/  <!-- BLOG:START[\s\S]*?BLOG:END -->/, block);
   else xml = xml.replace(/<\/urlset>/, `${block}\n\n</urlset>`);
@@ -613,7 +618,9 @@ function updateSitemap(plan) {
   // Bài đã chuyển hướng: bỏ hẳn <url> của slug cũ, kể cả dòng nối tay ngoài khối tự sinh.
   xml = xml.replace(/<url>(?:(?!<\/url>)[\s\S])*?<\/url>\n?/g, (khoi) => {
     const m = khoi.match(/\/blog\/([a-z0-9-]+)\.html/);
-    return m && m[1] in CHUYEN_HUONG ? "" : khoi;
+    if (!m) return khoi;
+    if (m[1] in CHUYEN_HUONG || khongDuaVaoChiMuc(m[1])) return "";
+    return khoi;
   });
 
   // DỌN TRÙNG: sitemap đang có 213/783 địa chỉ lặp hai lần (khối tự sinh ở đây, cộng với <url>

@@ -286,7 +286,7 @@ function render(fm, body) {
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io https://hope-ops-hub.vercel.app;" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>${esc(clamp(fm.seo_title || fm.title, 60))}</title>
+  ${fm.noindex ? '<meta name="robots" content="noindex,follow" />\n  ' : ''}<title>${esc(clamp(fm.seo_title || fm.title, 60))}</title>
   <meta name="description" content="${escAttr(clamp(fm.description, 160))}" />
   <link rel="canonical" href="${url}" />
   <link rel="alternate" hreflang="vi" href="${url}" />
