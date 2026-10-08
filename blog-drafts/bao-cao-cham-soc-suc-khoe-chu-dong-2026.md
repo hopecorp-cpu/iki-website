@@ -112,5 +112,5 @@ Nội dung báo cáo được **trích dẫn miễn phí** với điều kiện 
 Báo cáo tiếp theo sẽ bổ sung dữ liệu **khảo sát thể tạng** từ cộng đồng — nếu bạn muốn nhận sớm, hãy để lại email ở cuối trang.
 
 :::note Ghi chú pháp lý
-Báo cáo phản ánh hành vi mua sắm và lối sống, không phải dữ liệu y khoa. Các sản phẩm được nhắc đến là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
+Báo cáo phản ánh hành vi mua sắm và lối sống, không phải dữ liệu y khoa. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
 :::
