@@ -15,14 +15,18 @@ BAI_NGU_KHONG_TPBS={'kho-ngu-tran-troc-nep-buoi-toi','uong-tra-thao-moc-buoi-toi
 # «Các sản phẩm được giới thiệu trên website là thực phẩm/thực phẩm bổ sung…».
 NOTICE={
 'vi':'Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.',
-'en':'This content is for reference only and does not replace medical advice. IKI products are not medicines and do not replace medicines that treat disease.',
+'en':'This content is for general information only and is not a substitute for medical advice. IKI products are not medicines and cannot replace medicines used to treat disease.',
 'ja':'本コンテンツは参考情報であり、医師による助言に代わるものではありません。IKIの製品は医薬品ではなく、病気を治療する薬の代わりにはなりません。'}
+# Câu EN đã gắn ở lượt trước; lần chạy sau đổi sang câu chốt ở trên.
+EN_CU='This content is for reference only and does not replace medical advice. IKI products are not medicines and do not replace medicines that treat disease.'
+# Không gắn câu miễn trừ: trang noindex dành cho đối tác (không phải trang nội dung công khai).
+SKIP_NOTICE={'investor/index.html'}
 # 11 trang chính sách: câu chân trang riêng, gọi đúng Trà Thanh Hương và TRUE VEGAN PROTEIN PRO.
 # JA giữ tên Latinh «Thanh Hương茶» như các trang ja/ hiện có, không dùng タンフォン.
 POLICY_FILES={'404.html','chinh-sach.html','chinh-sach-bao-mat.html','chinh-sach-doi-tra.html','chinh-sach-gia.html','chinh-sach-giao-hang.html','chinh-sach-thanh-toan.html','dieu-khoan-su-dung.html','du-lieu-su-dung.html','giai-quyet-khieu-nai.html','quyen-du-lieu.html'}
 POLICY_NOTICE={
 'vi':'Trà Thanh Hương là trà thảo mộc; TRUE VEGAN PROTEIN PRO là thực phẩm bổ sung. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.',
-'en':'Thanh Hương Tea is a herbal tea; TRUE VEGAN PROTEIN PRO is a food supplement. IKI products are not medicines and do not replace medicines that treat disease.',
+'en':'Thanh Hương Tea is a herbal tea; TRUE VEGAN PROTEIN PRO is a food supplement. IKI products are not medicines and cannot replace medicines used to treat disease.',
 'ja':'Thanh Hương茶はハーブティーです。TRUE VEGAN PROTEIN PROは栄養補助食品です。IKIの製品は医薬品ではなく、病気を治療する薬の代わりにはなりません。'}
 def plain(html):
  return re.sub(r'\s+',' ',re.sub(r'<[^>]+>','',html)).strip()
@@ -40,7 +44,7 @@ def doi_cau_chan(notice,lang):
  if not parts:return notice
  out=[]
  for p in parts:
-  if la_cau_cu(plain(p),lang):out.append(f'<p class="if-notice">{NOTICE[lang]}</p>')
+  if la_cau_cu(plain(p),lang) or (lang=='en' and plain(p)==EN_CU):out.append(f'<p class="if-notice">{NOTICE[lang]}</p>')
   else:out.append(p)
  return ''.join(out)
 def la_o_chan_san_pham(text,lang):
@@ -58,7 +62,7 @@ def bo_tpbs(notice):
  parts=re.findall(r'<p class="if-notice">[\s\S]*?</p>',notice)
  if not parts:return '' if 'thực phẩm bổ sung' in re.sub('<[^>]+>','',notice).lower() else notice
  return ''.join(p for p in parts if 'thực phẩm bổ sung' not in re.sub('<[^>]+>','',p).lower())
-def footer(lang='vi', sales=False, shop=False, green=False, old='', strip_tpbs=False, policy=False):
+def footer(lang='vi', sales=False, shop=False, green=False, old='', strip_tpbs=False, policy=False, skip_notice=False):
  c=COPY[lang]; base='https://ikihealing.com'; prefix='' if lang=='vi' else '/'+lang
  def url(path):
   if prefix and (ROOT/(prefix.lstrip('/')+path)).exists():return base+prefix+path
@@ -78,8 +82,8 @@ def footer(lang='vi', sales=False, shop=False, green=False, old='', strip_tpbs=F
   notice=''.join(re.findall(r'<p class="if-notice">[\s\S]*?</p>',old))
  notice=doi_cau_chan(notice,lang)
  if strip_tpbs:notice=bo_tpbs(notice)
- # Bản EN/JA của chân trang chuẩn chưa có câu miễn trừ tương đương; gắn đúng câu đã chốt cho ngôn ngữ đó.
- if lang in ('en','ja') and '<p class="if-notice">' not in notice:
+ # Trang đã có chân trang chuẩn mà chưa có câu miễn trừ: gắn câu đã chốt vào đúng chỗ if-notice.
+ if not policy and not skip_notice and '<p class="if-notice">' not in notice:
   notice=f'<p class="if-notice">{NOTICE[lang]}</p>'
  if policy:notice=dat_cau_chinh_sach(notice,lang)
  name='CÔNG TY CỔ PHẦN TMDV HOPE' if lang=='vi' else 'HOPE SERVICE CORPORATION'
@@ -92,6 +96,7 @@ def apply(root=ROOT,sales=False,green=False):
   s=p.read_text(); rel=p.relative_to(root);lang=rel.parts[0] if rel.parts[0] in COPY else 'vi'
   shop='shop' in rel.parts
   policy=rel.name in POLICY_FILES
+  skip_notice=str(rel) in SKIP_NOTICE
   strip_tpbs=lang=='vi' and (rel.stem in BAI_NGU_KHONG_TPBS or 'cta-sp-nhan">Trà thảo mộc IKI' in s)
   if '<footer' not in s:
    if str(rel)=='investor/index.html':
@@ -100,7 +105,7 @@ def apply(root=ROOT,sales=False,green=False):
    continue
   # Remove our adjacent stylesheet on rerun; HTML output remains idempotent.
   clean=re.sub(r'<link rel="stylesheet" href="(?:/assets/footer-20260909|/footer-assets)/footer.css\?v=1">','',s)
-  t=re.sub(r'<footer\b[\s\S]*?</footer>',lambda m, policy=policy: footer(lang,sales,shop,green or 'course-page' in s,m.group(),strip_tpbs,policy),clean,flags=re.I)
+  t=re.sub(r'<footer\b[\s\S]*?</footer>',lambda m, policy=policy, skip_notice=skip_notice: footer(lang,sales,shop,green or 'course-page' in s,m.group(),strip_tpbs,policy,skip_notice),clean,flags=re.I)
   if t!=s:p.write_text(t);changed.append(str(rel))
  return changed
 if __name__=='__main__':
