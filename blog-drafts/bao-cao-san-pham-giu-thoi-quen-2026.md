@@ -3,7 +3,7 @@
   "title": "Báo cáo: Bắt đầu từ đâu thì dễ giữ thói quen sống lành nhất? Dữ liệu giữ chân theo nhóm sản phẩm",
   "seo_title": "Sản phẩm sức khoẻ nào giữ chân người dùng? Số liệu 2026",
   "slug": "bao-cao-san-pham-giu-thoi-quen-2026",
-  "description": "Phân tích 1.534 khách hàng mới của IKI Healing: khoảng 1/3 quay lại mua tiếp trong 5 tháng, và nhóm bắt đầu bằng đạm thực vật gắn bó với thói quen nhất — 23,6% mua lại đúng nhóm, gấp đôi thức uống thay cà phê. Số liệu mở cho báo chí trích dẫn.",
+  "description": "Theo những gì IKI ghi nhận từ khách hàng mới: một bộ phận quay lại mua tiếp trong 5 tháng, gần như đồng đều dù bắt đầu bằng sản phẩm nào; nhóm bắt đầu bằng đạm thực vật gắn bó với đúng thói quen ban đầu hơn cả, rõ hơn thức uống thay cà phê. Mở cho báo chí trích dẫn.",
   "keyword": "thói quen sức khoẻ bền vững",
   "category": "bao-cao",
   "date": "2026-07-29",
@@ -11,11 +11,12 @@
   "hero_local": "assets/blog/bao-cao-san-pham-giu-thoi-quen-2026-hero.jpg",
   "hero_alt": "Bàn ăn sáng với đạm thực vật và sổ tay theo dõi thói quen",
   "reading_min": 7,
-  "answer": "Dữ liệu kỳ 03–07/2026 của IKI Healing cho thấy khoảng 1/3 khách hàng mới quay lại mua tiếp trong vòng 5 tháng, gần như đồng đều bất kể họ bắt đầu bằng sản phẩm nào (28,5–33,1%). Khác biệt nằm ở việc GIỮ ĐÚNG thói quen ban đầu: nhóm bắt đầu bằng đạm thực vật có 23,6% quay lại mua đúng nhóm đó — cao nhất; trà thảo mộc 17,2%; dầu ăn 13,8%; thức uống thay cà phê 11,3%. Kết luận: bắt đầu hành trình sống lành từ bữa ăn chính (nguồn đạm) dễ thành thói quen bền hơn là từ đồ uống.",
+  "noindex": true,
+  "answer": "Dữ liệu kỳ 03–07/2026 của IKI Healing cho thấy một bộ phận khách hàng mới quay lại mua tiếp trong vòng 5 tháng, gần như đồng đều bất kể họ bắt đầu bằng sản phẩm nào. Khác biệt nằm ở việc GIỮ ĐÚNG thói quen ban đầu: nhóm bắt đầu bằng đạm thực vật quay lại mua đúng nhóm đó nhiều nhất; sau là trà thảo mộc, dầu ăn, rồi thức uống thay cà phê. Kết luận: bắt đầu hành trình sống lành từ bữa ăn chính (nguồn đạm) dễ thành thói quen bền hơn là từ đồ uống.",
   "faq": [
     {
       "q": "Số liệu này đo như thế nào?",
-      "a": "Theo dõi 1.534 khách hàng có số điện thoại định danh trên hệ thống bán hàng của HOPE CORP kỳ 03–07/2026, phân nhóm theo sản phẩm trong ĐƠN ĐẦU TIÊN của mỗi người, rồi đo tỉ lệ quay lại mua bất kỳ sản phẩm nào và tỉ lệ mua lại đúng nhóm ban đầu."
+      "a": "Theo dõi khách hàng có số điện thoại định danh trên hệ thống bán hàng của HOPE CORP kỳ 03–07/2026, phân nhóm theo sản phẩm trong ĐƠN ĐẦU TIÊN của mỗi người, rồi đo tỉ lệ quay lại mua bất kỳ sản phẩm nào và tỉ lệ mua lại đúng nhóm ban đầu."
     },
     {
       "q": "Vì sao tỉ lệ mua lại đúng nhóm lại quan trọng?",
@@ -32,22 +33,22 @@
 
 Ai cũng từng bắt đầu một thói quen lành mạnh rồi bỏ dở. Câu hỏi đáng giá cho cả người tiêu dùng lẫn ngành hàng sức khoẻ là: **bắt đầu từ đâu thì dễ giữ được nhất?**
 
-Đây là báo cáo thứ ba trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing, trả lời câu hỏi đó bằng dữ liệu mua hàng thực tế của 1.534 khách kỳ **tháng 3 – tháng 7/2026** — không phải bằng khảo sát ý định. Người ta có thể nói "tôi sẽ duy trì"; ví tiền thì không biết nói dối.
+Đây là báo cáo thứ ba trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing, trả lời câu hỏi đó bằng dữ liệu mua hàng thực tế kỳ **tháng 3 – tháng 7/2026** — không phải bằng khảo sát ý định. Người ta có thể nói "tôi sẽ duy trì"; ví tiền thì không biết nói dối.
 
-## Ba con số chính
+## Những điểm chính
 
-- Khoảng **1/3 khách hàng mới quay lại mua tiếp** trong vòng 5 tháng — gần như đồng đều bất kể họ bắt đầu bằng sản phẩm nào (28,5–33,1%).
-- Nhưng **giữ đúng thói quen ban đầu** thì rất khác nhau theo điểm khởi đầu: **đạm thực vật 23,6%** — trà thảo mộc 17,2% — dầu ăn 13,8% — thức uống thay cà phê 11,3%.
-- Kết luận dữ liệu: **bắt đầu từ bữa ăn chính dễ thành thói quen bền hơn bắt đầu từ đồ uống** — chênh lệch hơn gấp đôi.
+- **Một bộ phận khách hàng mới quay lại mua tiếp** trong vòng 5 tháng — gần như đồng đều bất kể họ bắt đầu bằng sản phẩm nào.
+- **Giữ đúng thói quen ban đầu** thì khác nhau theo điểm khởi đầu: **đạm thực vật** dẫn đầu, sau là trà thảo mộc, dầu ăn, rồi thức uống thay cà phê.
+- Kết luận dữ liệu: **bắt đầu từ bữa ăn chính dễ thành thói quen bền hơn bắt đầu từ đồ uống** — chênh lệch rõ.
 
 ## 1. Quay lại thì đều nhau — gắn bó mới là chuyện khác
 
-Đo 1.534 khách theo sản phẩm trong đơn ĐẦU TIÊN của họ:
+Đo theo sản phẩm trong đơn ĐẦU TIÊN của mỗi khách:
 
-- Bắt đầu bằng **đạm thực vật** (406 khách): 33,0% quay lại mua tiếp; **23,6% mua lại đúng đạm**.
-- Bắt đầu bằng **trà thảo mộc** (326 khách): 33,1% quay lại; 17,2% mua lại đúng trà.
-- Bắt đầu bằng **dầu ăn** (181 khách): 32,0% quay lại; 13,8% mua lại đúng dầu.
-- Bắt đầu bằng **thức uống thay cà phê** (204 khách): 30,4% quay lại; chỉ 11,3% mua lại đúng nhóm.
+- Bắt đầu bằng **đạm thực vật**: tỉ lệ quay lại mua tiếp sát các nhóm khác; tỉ lệ **mua lại đúng đạm** cao nhất.
+- Bắt đầu bằng **trà thảo mộc**: quay lại tương đương; mua lại đúng trà thấp hơn đạm.
+- Bắt đầu bằng **dầu ăn**: quay lại tương đương; mua lại đúng dầu thấp hơn nữa.
+- Bắt đầu bằng **thức uống thay cà phê**: quay lại vẫn sát các nhóm kia; mua lại đúng nhóm là thấp nhất.
 
 Tỉ lệ quay lại nói chung khá đồng đều — khách còn tin thương hiệu thì quay lại, bất kể mua gì lần đầu. Nhưng cột thứ hai mới thú vị: nó đo việc thói quen ban đầu **có bám rễ hay không**.
 
@@ -60,7 +61,7 @@ Dữ liệu không tự giải thích nguyên nhân, nhưng có một cách đ�
 - **Chi phí chuyển đổi ngược thấp** — bỏ trà thì quay về trà đá, bỏ thức uống mới thì quay về cà phê cũ; còn nguồn đạm thì bữa nào cũng phải quyết định lại.
 
 :::note Đọc nhanh cho người muốn bắt đầu sống lành
-Nếu bạn chỉ đổi được MỘT thứ, dữ liệu gợi ý: đổi thứ nằm sẵn trong bữa ăn hằng ngày của bạn (ví dụ nguồn đạm bữa sáng), thay vì thêm một món mới cần nhớ mới dùng. Thói quen gắn vào bữa ăn có xác suất sống sót cao hơn gấp đôi.
+Nếu bạn chỉ đổi được MỘT thứ, dữ liệu gợi ý: đổi thứ nằm sẵn trong bữa ăn hằng ngày của bạn (ví dụ nguồn đạm bữa sáng), thay vì thêm một món mới cần nhớ mới dùng. Thói quen gắn vào bữa ăn có xác suất sống sót cao hơn rõ.
 :::
 
 ## 3. Điều này có nghĩa gì
@@ -73,7 +74,7 @@ Nếu bạn chỉ đổi được MỘT thứ, dữ liệu gợi ý: đổi th�
 
 ## Phương pháp và giới hạn
 
-- Nguồn: 1.534 khách hàng có số điện thoại định danh, 03–07/2026, hệ thống bán hàng HOPE CORP. Khách được phân nhóm theo sản phẩm trong đơn đầu tiên (một đơn chứa nhiều nhóm thì được tính cho từng nhóm đó).
+- Nguồn: khách hàng có số điện thoại định danh, 03–07/2026, hệ thống bán hàng HOPE CORP. Khách được phân nhóm theo sản phẩm trong đơn đầu tiên (một đơn chứa nhiều nhóm thì được tính cho từng nhóm đó).
 - Cửa sổ theo dõi chỉ 5 tháng: khách mua lần đầu ở cuối kỳ có ít thời gian để quay lại — nên mọi tỉ lệ ở đây là **mức sàn**.
 - "Mua lại đúng nhóm" đo theo nhóm sản phẩm, không phân biệt hương vị/quy cách trong nhóm.
 - Đây là dữ liệu từ tệp khách của một doanh nghiệp, không phải mẫu đại diện dân số.

@@ -2003,14 +2003,14 @@
     "slug": "bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026",
     "videoId": "_AowRuo5tKk",
     "ten": "Chi tiêu sức khoẻ theo vùng miền 2026: tỉnh chi đậm hơn",
-    "moTa": "Phân tích 1.348 đơn hàng COD thực tế của IKI Healing: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền (~1,1 triệu đồng/đơn), và các tỉnh như Lâm Đồng,…",
+    "moTa": "Theo những gì IKI ghi nhận từ đơn hàng thanh toán khi nhận: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền, và nhiều tỉnh như Lâm Đồng, Thái Bình, Hải Phòng chi đậm hơn cả Hà Nội, TP.HCM.",
     "anh": "https://i.ytimg.com/vi/_AowRuo5tKk/maxresdefault.jpg",
     "ngay": "2026-08-20",
     "giay": 263,
     "chuong": [
       {
         "giay": 0,
-        "nhan": "Dữ liệu 1.348 đơn hàng thanh toán khi"
+        "nhan": "Dữ liệu đơn hàng thanh toán khi nhận"
       },
       {
         "giay": 26,
@@ -2134,7 +2134,7 @@
     "slug": "bao-cao-san-pham-giu-thoi-quen-2026",
     "videoId": "EwbPEPWa5N4",
     "ten": "Sản phẩm sức khoẻ nào giữ chân người dùng? Số liệu 2026",
-    "moTa": "Phân tích 1.534 khách hàng mới của IKI Healing: khoảng 1/3 quay lại mua tiếp trong 5 tháng, và nhóm bắt đầu bằng đạm thực vật gắn bó với thói quen nhất —…",
+    "moTa": "Theo những gì IKI ghi nhận từ khách hàng mới: một bộ phận quay lại mua tiếp trong 5 tháng, và nhóm bắt đầu bằng đạm thực vật gắn bó với đúng thói quen ban đầu hơn cả.",
     "anh": "https://i.ytimg.com/vi/EwbPEPWa5N4/maxresdefault.jpg",
     "ngay": "2026-08-21",
     "giay": 278,
@@ -2145,11 +2145,11 @@
       },
       {
         "giay": 13,
-        "nhan": "Dữ liệu 1534 khách hàng trong 5 tháng"
+        "nhan": "Dữ liệu khách hàng trong 5 tháng"
       },
       {
         "giay": 40,
-        "nhan": "Tỉ lệ quay lại mua chung khoảng 30%"
+        "nhan": "Tỉ lệ quay lại mua chung gần như đồng đều"
       },
       {
         "giay": 72,
