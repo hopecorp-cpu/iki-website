@@ -131,7 +131,7 @@ Hoa quế đáng được nhắc riêng. Mùi hoa quế thoảng ngọt là mùi
 
 **Thời điểm uống** hợp nhất là chiều muộn và tối, sau khi xong việc. Nếu bạn đang tập cho mình một nếp khép lại ngày, tách trà hoa mùa thu là chỗ bắt đầu dễ nhất, giống như cách bài [nghi thức trà buổi tối 15 phút](nghi-thuc-tra-toi-15-phut.html) mô tả: pha một ấm, tắt bớt đèn, uống chậm, không nhìn điện thoại.
 
-Đây cũng là lúc hợp để nói về Trà Thanh Hương. Trà phối bốn vị hoa nhài, phục linh, hoa quế và trần bì, không chứa caffeine, hương thiên về hoa và cam quýt, nên rơi đúng vào nhóm vị mùa thu và hợp uống muộn. Nếu bạn muốn một loại trà vị hoa cho buổi tối mà không phải tự phối, có thể xem [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) như một lựa chọn sẵn, và đọc bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) để biết rõ bốn vị và cách pha.
+Đây cũng là lúc hợp để nói về Trà Thanh Hương. Trà phối bốn vị hoa nhài, phục linh, hoa quế và trần bì, công thức không dùng lá chè, hương thiên về hoa và cam quýt, nên rơi đúng vào nhóm vị mùa thu và hợp uống muộn. Nếu bạn muốn một loại trà vị hoa cho buổi tối mà không phải tự phối, có thể xem [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) như một lựa chọn sẵn, và đọc bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) để biết rõ bốn vị và cách pha.
 
 **Việc làm được ngay hôm nay:** chọn một buổi tối trong tuần, pha một tách trà vị hoa, uống chậm 15 phút không màn hình. Chỉ một buổi, xem bạn có muốn lặp lại không.
 
@@ -172,7 +172,7 @@ Nhiều người bắt đầu uống trà thảo mộc bằng cách mua một l�
 
 - **Một loại vị thanh nhẹ cho mùa nóng**, ví dụ hoa nhài hoặc lá sen. Đây là loại dùng nhiều nhất về số tách, nên chọn hộp cỡ vừa.
 - **Một loại vị ấm cho mùa lạnh**, ví dụ gừng khô hoặc quế. Dùng ít hơn về số tách nhưng mỗi lần dùng đậm hơn.
-- **Một loại vị hoa dùng được quanh năm cho buổi tối**, không caffeine. Đây là loại "gối đầu giường", đổi cách pha theo mùa như mục trên. Trà Thanh Hương với bốn vị hoa nhài, phục linh, hoa quế, trần bì là một ví dụ của nhóm này.
+- **Một loại vị hoa dùng được quanh năm cho buổi tối**, công thức không dùng lá chè. Đây là loại "gối đầu giường", đổi cách pha theo mùa như mục trên. Trà Thanh Hương với bốn vị hoa nhài, phục linh, hoa quế, trần bì là một ví dụ của nhóm này.
 
 
 

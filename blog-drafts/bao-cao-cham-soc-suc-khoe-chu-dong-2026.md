@@ -1,9 +1,9 @@
 ---json
 {
-  "title": "Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026 — dữ liệu từ 1.540 đơn hàng thực tế",
+  "title": "Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026",
   "seo_title": "Báo cáo sức khoẻ chủ động 2026: số liệu người Việt mua gì, ở đâu",
   "slug": "bao-cao-cham-soc-suc-khoe-chu-dong-2026",
-  "description": "Báo cáo dữ liệu độc quyền từ 1.540 đơn hàng, 1.064 khách hàng và cộng đồng 200.000+ thành viên IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì. Mở cho báo chí trích dẫn.",
+  "description": "Theo những gì IKI ghi nhận từ khách hàng và cộng đồng IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì. Mở cho báo chí trích dẫn.",
   "keyword": "báo cáo sức khoẻ chủ động 2026",
   "category": "bao-cao",
   "date": "2026-07-29",
@@ -15,7 +15,7 @@
   "faq": [
     {
       "q": "Số liệu trong báo cáo này lấy từ đâu?",
-      "a": "Từ dữ liệu vận hành thực tế của Công ty Cổ phần TMDV HOPE (HOPE CORP): 1.540 đơn hàng của 1.064 khách hàng ghi nhận trên hệ thống bán hàng kỳ 03–07/2026, 1.531 vận đơn giao hàng dùng để phân tích địa lý, sao kê ngân hàng tháng 7/2026 cho cơ cấu thanh toán, và hoạt động của cộng đồng hơn 200.000 thành viên."
+      "a": "Từ dữ liệu vận hành thực tế của Công ty Cổ phần TMDV HOPE (HOPE CORP): những gì IKI ghi nhận từ khách hàng trên hệ thống bán hàng kỳ 03–07/2026, 1.531 vận đơn giao hàng dùng để phân tích địa lý, sao kê ngân hàng tháng 7/2026 cho cơ cấu thanh toán, và hoạt động của cộng đồng hơn 200.000 thành viên."
     },
     {
       "q": "Báo chí có được trích dẫn số liệu này không?",
@@ -36,7 +36,7 @@
 
 Chăm sóc sức khoẻ chủ động — chăm cơ thể trước khi nó lên tiếng — được nói đến rất nhiều, nhưng hầu hết bài viết dừng ở lời khuyên. Câu hỏi ít ai trả lời được bằng số: **người Việt thực sự bắt đầu từ đâu, chi tiêu thế nào, ở những tỉnh nào, và tin vào điều gì khi mua sản phẩm sức khoẻ trên mạng?**
 
-Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKI Healing kỳ **tháng 3 – tháng 7/2026**: 1.540 đơn hàng của 1.064 khách hàng, 1.531 vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng hơn 200.000 thành viên. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
+Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKI Healing kỳ **tháng 3 – tháng 7/2026**. Theo những gì IKI ghi nhận từ khách hàng, cùng 1.531 vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng hơn 200.000 thành viên. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
 
 ## Năm con số chính
 
@@ -96,7 +96,7 @@ Với ngành hàng đưa vào cơ thể, người Việt chưa mua bằng nút "
 
 **Nguồn dữ liệu:**
 
-- 1.540 đơn hàng của 1.064 khách hàng, ghi nhận trên hệ thống bán hàng của HOPE CORP, kỳ 08/03/2026 – 27/07/2026.
+- Những gì IKI ghi nhận từ khách hàng trên hệ thống bán hàng của HOPE CORP, kỳ 08/03/2026 – 27/07/2026.
 - 1.531 vận đơn giao hàng (đối chiếu địa chỉ nhận để phân tích địa lý).
 - Sao kê tài khoản ngân hàng doanh nghiệp tháng 7/2026 (cơ cấu COD/chuyển khoản).
 - Dữ liệu kênh bán tổng hợp từ hệ thống quản trị nội bộ.
