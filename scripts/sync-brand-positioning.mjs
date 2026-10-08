@@ -11,10 +11,15 @@ const replacements = [
   ['<a href="../quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số lối sống theo Đông y, miễn phí.', brandLink],
   ['<a href="https://ikihealing.com/quiz">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số lối sống theo Đông y, miễn phí.', brandLink],
   ['<a href="/quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số theo Đông y, miễn phí.', brandLink],
-  ['App IKI — <a href="../app.html">iOS &amp; Android</a>. AI Coach Đông Y cá nhân hoá theo thể tạng.', '<a href="/app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — chăm sóc cá nhân hóa có AI hỗ trợ. Đang phát triển.'],
-  ['<a href="../app.html">App IKI</a> — AI Coach Đông y cá nhân hoá theo thể tạng, nhật ký sức khoẻ 30 giây mỗi ngày.', '<a href="/app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.'],
-  ['<p>AI Coach Đông Y cá nhân hoá theo thể tạng — nhật ký 30 giây mỗi ngày. Miễn phí.</p>', '<p>Khám phá thiết kế IKI Beauty &amp; Wellness: chăm sóc cá nhân hóa và thói quen hằng ngày có AI hỗ trợ. Ứng dụng đang phát triển.</p>'],
-  ['AI Coach Đông Y cá nhân hoá theo thể tạng — <a href="../app.html">tải ứng dụng IKI</a>', '<a href="/app.html">IKI Beauty &amp; Wellness</a> — ứng dụng chăm sóc cá nhân hóa có AI hỗ trợ, đang phát triển.'],
+  ['App IKI — <a href="../app.html">iOS &amp; Android</a>. AI Coach Đông Y cá nhân hoá theo thể tạng.', '<a href="/app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).'],
+  ['<a href="../app.html">App IKI</a> — AI Coach Đông y cá nhân hoá theo thể tạng, nhật ký sức khoẻ 30 giây mỗi ngày.', '<a href="/app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).'],
+  ['<p>AI Coach Đông Y cá nhân hoá theo thể tạng — nhật ký 30 giây mỗi ngày. Miễn phí.</p>', '<p>App IKI — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</p>'],
+  ['AI Coach Đông Y cá nhân hoá theo thể tạng — <a href="../app.html">tải ứng dụng IKI</a>', '<a href="/app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).'],
+  // Câu App đã phát hành ở giữa (KT-sau-2): đưa về đúng câu khuôn build-article, giữ href.
+  ['<a href="/app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — chăm sóc cá nhân hóa có AI hỗ trợ. Đang phát triển.', '<a href="/app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).'],
+  ['<a href="/app.html">Ứng dụng IKI Beauty &amp; Wellness</a> — khám phá thiết kế chăm sóc cá nhân hóa có AI hỗ trợ; đang phát triển.', '<a href="/app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).'],
+  ['<p>Khám phá thiết kế IKI Beauty &amp; Wellness: chăm sóc cá nhân hóa và thói quen hằng ngày có AI hỗ trợ. Ứng dụng đang phát triển.</p>', '<p>App IKI — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</p>'],
+  ['<a href="/app.html">IKI Beauty &amp; Wellness</a> — ứng dụng chăm sóc cá nhân hóa có AI hỗ trợ, đang phát triển.', '<a href="/app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).'],
 ];
 
 function updateSchema(value) {

@@ -179,4 +179,4 @@ Chăm sóc sức khoẻ chủ động không phải là học thuộc bảng s�
 - MEDLATEC — Mỗi ngày nên ăn bao nhiêu hạt hạnh nhân là tốt cho sức khoẻ: [medlatec.vn](https://medlatec.vn/tin-tuc/moi-ngay-nen-an-bao-nhieu-hat-hanh-nhan-la-tot-cho-suc-khoe)
 - Vinmec — Giá trị dinh dưỡng từ hạt óc chó: [vinmec.com](https://www.vinmec.com/tin-tuc/thong-tin-suc-khoe/dinh-duong/gia-tri-dinh-duong-tu-hat-oc-cho/)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có tiền sử dị ứng hạt, đang mang thai, cho con bú hoặc có bệnh nền, hãy tham khảo ý kiến chuyên môn trước khi thay đổi khẩu phần đáng kể. Các sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có tiền sử dị ứng hạt, đang mang thai, cho con bú hoặc có bệnh nền, hãy tham khảo ý kiến chuyên môn trước khi thay đổi khẩu phần đáng kể.*

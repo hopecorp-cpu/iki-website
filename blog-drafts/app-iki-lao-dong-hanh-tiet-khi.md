@@ -63,5 +63,5 @@ Trong quá trình làm sản phẩm, đội ngũ IKI nhận ra người Việt k
 App IKI có bản miễn phí để bắt đầu; gói IKI Pro (499.000đ/năm) mở sâu hơn phần phân tích và đồng hành. Tải tại [ikihealing.com/app.html](https://ikihealing.com/app.html) — và sáng mai, để Lão chào bạn bằng tiết khí của đúng ngày hôm đó.
 
 :::note Ghi chú pháp lý
-App IKI là công cụ hỗ trợ lối sống mang tính tham khảo, không phải thiết bị y tế và không nhằm chẩn đoán bệnh. Gợi ý trong app không thay thế chẩn đoán hoặc tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+App IKI là công cụ hỗ trợ lối sống mang tính tham khảo, không phải thiết bị y tế và không nhằm chẩn đoán bệnh. Gợi ý trong app không thay thế chẩn đoán hoặc tư vấn y khoa. 
 :::
