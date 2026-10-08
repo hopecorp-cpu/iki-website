@@ -169,7 +169,7 @@ Nhiều mẹ nghe tới "dành thời gian cho bản thân" là thấy xa xỉ. 
 
 Điều quan trọng là khoảng này phải cố định và không bị thay bằng việc lướt điện thoại. Một vài cách dùng mười lăm phút ấy:
 
-- **Một chén trà ấm buổi tối.** Pha một chén trà công thức không dùng lá chè, ngồi ở góc yên tĩnh, uống chậm và không làm gì khác. [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) có hương hoa nhài và trần bì dịu nhẹ, hợp với nghi thức thư giãn trước giờ ngủ.
+- **Một chén trà ấm buổi tối.** Pha một chén [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) theo công thức không dùng lá chè, với hương hoa nhài và trần bì dịu nhẹ, rồi ngồi ở góc yên tĩnh, uống chậm và không làm gì khác.
 - **Ngâm chân nước ấm.** Mười phút ngâm chân trong khi nghe một bản nhạc nhẹ là cách nhiều người dùng để báo cho cơ thể rằng ngày đã kết thúc.
 - **Viết ba dòng.** Ghi ra giấy ba việc cần làm ngày mai để đầu óc không phải giữ chúng nữa, và một điều nhỏ hôm nay thấy biết ơn.
 - **Thở chậm.** Hít vào bốn nhịp, thở ra sáu nhịp, lặp lại trong vài phút.

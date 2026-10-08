@@ -36,7 +36,7 @@
 
 Chăm sóc sức khoẻ chủ động — chăm cơ thể trước khi nó lên tiếng — được nói đến rất nhiều, nhưng hầu hết bài viết dừng ở lời khuyên. Câu hỏi ít ai trả lời được bằng số: **người Việt thực sự bắt đầu từ đâu, chi tiêu thế nào, ở những tỉnh nào, và tin vào điều gì khi mua sản phẩm sức khoẻ trên mạng?**
 
-Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKI Healing kỳ **tháng 3 – tháng 7/2026**. Theo những gì IKI ghi nhận từ khách hàng, cùng 1.531 vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng hơn 200.000 thành viên. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
+Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKI Healing kỳ **tháng 3 – tháng 7/2026**. Nguồn dữ liệu là những gì IKI ghi nhận từ khách hàng, vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
 
 ## Năm con số chính
 

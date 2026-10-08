@@ -121,7 +121,7 @@ const NEW = {
   "duong-va-do-che-bien-san": ["whole natural foods next to sugar cubes and processed snacks, mindful eating comparison", "Ăn uống điều độ với đường và đồ chế biến sẵn"],
   "vi-sao-chon-dam-thuc-vat": ["plant protein foods with a scoop of protein powder, soy milk, beans and nuts, clean still life", "Chọn nguồn đạm thực vật"],
   "tra-thao-moc-tue-minh": ["warm herbal tea cup with dried medicinal herbs and green leaves, cozy still life", "Trà thảo mộc uống ấm mỗi ngày"],
-  "tra-thanh-huong-thu-gian": ["evening herbal tea with hoa quế flowers beside a warm lamp, relaxing still life", "Thức uống thảo mộc thư giãn buổi tối"],
+  "tra-thanh-huong-thu-gian": ["evening herbal tea with osmanthus flowers beside a warm lamp, relaxing still life", "Thức uống thảo mộc thư giãn buổi tối"],
   "app-iki-ca-nhan-hoa": ["smartphone on a wooden desk beside a cup of tea and a small plant, calm wellness lifestyle, no faces", "Chăm sóc sức khoẻ cá nhân hoá cùng App IKI"],
   "an-no-80-phan-tram-hara-hachi-bu": ["japanese balanced meal in small ceramic bowls, minimalist table, rice vegetables and tofu, portioned", "Bữa ăn cân đối kiểu Nhật, ăn no 80%"],
   "che-do-an-okinawa-truong-tho": ["okinawan healthy food spread, sweet potato tofu vegetables and seaweed in bowls, fresh", "Chế độ ăn Okinawa nhiều rau củ"],
