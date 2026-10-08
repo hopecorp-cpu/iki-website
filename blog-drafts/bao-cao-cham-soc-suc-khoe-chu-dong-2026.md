@@ -55,7 +55,7 @@ Trong cơ cấu giỏ hàng kỳ 03–07/2026, nhóm **đạm thực vật chi�
 Khi người Việt quyết định "sống lành hơn", hành động đầu tiên thường không phải là mua thiết bị đo hay đăng ký phòng tập — mà là **đổi bữa ăn**, bắt đầu từ nguồn đạm. Bữa sáng là điểm vào phổ biến nhất mà đội ngũ tư vấn ghi nhận.
 :::
 
-Giá trị giỏ hàng trung bình vượt **1 triệu đồng mỗi đơn** — cho thấy nhóm khách này coi đây là khoản đầu tư định kỳ cho sức khoẻ, không phải mua thử vặt vãnh.
+Theo những gì IKI ghi nhận, nhiều khách xem đây là khoản chi đều đặn cho sức khoẻ, không phải mua thử.
 
 ## 2. Từ "mua thử" sang "thói quen": khách quay lại mua tiếp
 
