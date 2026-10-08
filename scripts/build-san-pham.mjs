@@ -247,7 +247,7 @@ ${header()}
         </ul>
       </div>`)}
 
-      ${sp.laTPBS === false ? `<div class="sp-med">Trang này là thông tin sản phẩm. Nội dung được chép từ mô tả của nhà sản xuất hoặc nhà phân phối, không nhằm chẩn đoán hay điều trị bệnh.</div>` : `<div class="sp-med">Đây là <strong>thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung trên trang là thông tin sản phẩm và gợi ý chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay điều trị bệnh. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng.</div>`}
+      ${sp.slug === "tra-thanh-huong" ? `<div class="sp-med">Trà Thanh Hương là trà thảo mộc, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</div>` : sp.laTPBS === false ? `<div class="sp-med">Trang này là thông tin sản phẩm. Nội dung được chép từ mô tả của nhà sản xuất hoặc nhà phân phối, không nhằm chẩn đoán hay điều trị bệnh.</div>` : `<div class="sp-med">Đây là <strong>thực phẩm bổ sung</strong>, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung trên trang là thông tin sản phẩm và gợi ý chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay điều trị bệnh. Người có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng.</div>`}
     </article>
   </main>
 ${footer()}

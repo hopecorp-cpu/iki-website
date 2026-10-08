@@ -10,7 +10,7 @@ COPY = {
 BCT='<a class="if-bct" href="https://online.gov.vn/nen-tang/36b54e5b-6771-4f8a-a982-cdda06c1bd73" target="_blank" rel="noopener" title="Đã xác nhận với Bộ Công Thương" style="display:inline-block;margin-top:14px"><img src="https://fileserver.online.gov.vn/uploads/Resources/iconxacnhan/DaThongBao.png" alt="Đã xác nhận" style="height:44px;width:auto" loading="lazy"></a>'
 # KT-sau-1: bài thẻ trà và 2 bài giấc ngủ không giữ dòng chân trang gọi trà là thực phẩm bổ sung.
 BAI_NGU_KHONG_TPBS={'kho-ngu-tran-troc-nep-buoi-toi','uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong'}
-# Câu miễn trừ chân trang (10/10/2026): chỉ câu đã chốt, không giữ «Kết quả có thể khác nhau tuỳ cơ địa.»
+# Câu miễn trừ chân trang (08/10/2026): chỉ câu đã chốt, không giữ «Kết quả có thể khác nhau tuỳ cơ địa.»
 # Thay câu cũ «Các sản phẩm là thực phẩm bổ sung…» và câu trang chính sách
 # «Các sản phẩm được giới thiệu trên website là thực phẩm/thực phẩm bổ sung…».
 NOTICE={
