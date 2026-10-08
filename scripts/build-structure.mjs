@@ -520,7 +520,7 @@ function buildLlms(plan) {
   L.push(`- [Tuyên bố sở hữu và chính sách bảo mật](${SITE}/chinh-sach-bao-mat.html#tuyen-bo-so-huu).`, "");
   L.push("## Phạm vi nội dung và thông tin trước đây");
   L.push("Các bài về Đông y, Y học cổ truyền và thể tạng là một phần kho kiến thức đã xuất bản; không đại diện cho định vị toàn bộ IKI hay mô tả tính năng của ứng dụng hiện tại. Những bài giới thiệu thiết kế app cũ được ghi chú rõ; thông tin ứng dụng mới nhất nằm ở /app.html.", "");
-  L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa. Sản phẩm là thực phẩm bổ sung, không phải thuốc.", "");
+  L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa.", "");
   L.push("## Blog — Kiến thức chăm sóc sức khoẻ chủ động");
   L.push(`- [Blog IKI](${SITE}/blog/): lộ trình chăm sóc sức khoẻ chủ động theo từng chặng.`);
   for (const a of plan.articles) if (isPublished(a.slug) && !LEGACY_APP_SLUGS.has(a.slug)) {
