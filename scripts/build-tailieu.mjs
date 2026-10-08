@@ -161,7 +161,7 @@ const footer = () => `
       <div><h4>Tài liệu</h4><ul><li><a href="/tai-lieu/index.html">Tài liệu miễn phí</a></li><li><a href="/blog/lo-trinh.html">Lộ trình chăm sóc</a></li></ul></div>
       <div><h4>Liên hệ</h4><ul class="contact-list"><li class="contact-item"><span class="contact-label">Email</span><a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></li><li class="contact-item"><span class="contact-label">Tư vấn</span><a href="tel:0987931551">0987.931.551</a></li></ul></div>
     </div>
-    <div class="global-disclaimer"><p>Các sản phẩm là <strong style="color:rgba(255,255,255,0.78);">thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Kết quả có thể khác nhau tuỳ cơ địa.</p></div>
+    <div class="global-disclaimer"><p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p></div>
     <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu của HOPE CORP.</span></div>
   </div></footer>
 <!-- Zalo OA chat widget -->

@@ -10,6 +10,27 @@ COPY = {
 BCT='<a class="if-bct" href="https://online.gov.vn/nen-tang/36b54e5b-6771-4f8a-a982-cdda06c1bd73" target="_blank" rel="noopener" title="Đã xác nhận với Bộ Công Thương" style="display:inline-block;margin-top:14px"><img src="https://fileserver.online.gov.vn/uploads/Resources/iconxacnhan/DaThongBao.png" alt="Đã xác nhận" style="height:44px;width:auto" loading="lazy"></a>'
 # KT-sau-1: bài thẻ trà và 2 bài giấc ngủ không giữ dòng chân trang gọi trà là thực phẩm bổ sung.
 BAI_NGU_KHONG_TPBS={'kho-ngu-tran-troc-nep-buoi-toi','uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong'}
+# Câu miễn trừ chân trang (10/10/2026). Chỉ thay câu cũ bắt đầu bằng «Các sản phẩm là thực phẩm bổ sung».
+NOTICE={
+'vi':'Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.',
+'en':'This content is for reference only and does not replace medical advice. IKI products are not medicines and do not replace medicines that treat disease.',
+'ja':'本コンテンツは参考情報であり、医師による助言に代わるものではありません。IKIの製品は医薬品ではなく、病気を治療する薬の代わりにはなりません。'}
+def plain(html):
+ return re.sub(r'\s+',' ',re.sub(r'<[^>]+>','',html)).strip()
+def la_cau_cu(text,lang):
+ t=text.lower()
+ if lang=='vi':return t.startswith('các sản phẩm là thực phẩm bổ sung')
+ if lang=='en':return t.startswith('these products are') and 'supplement' in t
+ if lang=='ja':return ('これらの製品' in text or text.startswith('本製品')) and ('栄養補助' in text or '健康補助' in text)
+ return False
+def doi_cau_chan(notice,lang):
+ parts=re.findall(r'<p class="if-notice">[\s\S]*?</p>',notice)
+ if not parts:return notice
+ out=[]
+ for p in parts:
+  if la_cau_cu(plain(p),lang):out.append(f'<p class="if-notice">{NOTICE[lang]}</p>')
+  else:out.append(p)
+ return ''.join(out)
 def bo_tpbs(notice):
  parts=re.findall(r'<p class="if-notice">[\s\S]*?</p>',notice)
  if not parts:return '' if 'thực phẩm bổ sung' in re.sub('<[^>]+>','',notice).lower() else notice
@@ -32,7 +53,11 @@ def footer(lang='vi', sales=False, shop=False, green=False, old='', strip_tpbs=F
   notice=''.join('<p class="if-notice">'+re.sub(r'</?p\b[^>]*>','',p)+'</p>' for p in notes)
  else:
   notice=''.join(re.findall(r'<p class="if-notice">[\s\S]*?</p>',old))
+ notice=doi_cau_chan(notice,lang)
  if strip_tpbs:notice=bo_tpbs(notice)
+ # Bản EN/JA của chân trang chuẩn chưa có câu miễn trừ tương đương; gắn đúng câu đã chốt cho ngôn ngữ đó.
+ if lang in ('en','ja') and '<p class="if-notice">' not in notice:
+  notice=f'<p class="if-notice">{NOTICE[lang]}</p>'
  name='CÔNG TY CỔ PHẦN TMDV HOPE' if lang=='vi' else 'HOPE SERVICE CORPORATION'
  products = ''.join([a('/shop/?sp=true-vegan-protein', 'Đạm thực vật'),a('/shop/', 'Trà thảo mộc'),a('/shop/', 'Dầu ăn lành'),a('/shop/', 'Gia vị &amp; Nêm')]) if shop and lang=='vi' else ''.join([a('/hoc-vien.html',c[1]),a('/blog/',c[2]),a('/app.html',c[3]),a('/shop/',c[4])])
  return f'''<link rel="stylesheet" href="{assets}/footer.css?v=1"><footer id="footer" class="iki-standard-footer{' if-green' if green else ''}" data-iki-footer="20260909" lang="{lang}"><div class="if-wrap"><div class="if-grid"><section>{brand}<strong class="if-company-name">{name}</strong><span class="if-tagline">FROM NATURE, FOR LIFE</span><p>{c[18]}</p>{social}</section><nav aria-label="{c[0]}"><h2>{'Sản phẩm' if shop and lang=='vi' else c[0]}</h2>{products}</nav><nav aria-label="{c[5]}"><h2>{c[5]}</h2>{a('/tai-lieu/',c[2])}{a('/chinh-sach-bao-mat.html',c[6])}{a('/chinh-sach-doi-tra.html',c[7])}{a('/chinh-sach.html','Chính sách &amp; điều khoản') if lang=='vi' else ''}<a href="mailto:contact@ikihealing.com">{c[8]}</a><a href="tel:0987931551">098 793 1551</a></nav><section><h2>{c[9]}</h2><p>{c[10]}</p><a class="if-community" href="{url('/cong-dong.html')}">{c[11]} <span aria-hidden="true">→</span></a><a class="if-hope" href="{url('/ve-hope.html')}"><img {'id="hopeLogoF"' if shop else ''} src="{assets}/hope.png" width="32" height="32" alt=""><span><b>HOPE</b><small>{c[14]}</small></span></a></section></div><div class="if-legal"><div><strong>{name}</strong>{'<span class="if-registered">CÔNG TY CỔ PHẦN TMDV HOPE</span>' if lang!='vi' else ''}<p>{'GPKD số 0801404967, đăng ký lần đầu ngày 23/08/2023, thay đổi lần 6 ngày 24/09/2026 tại Sở Tài chính TP Hải Phòng<br>' if lang=='vi' else ''}{c[12]}: 0801404967<br>{c[13]}: Số 40A Quang Trung, P. Hải Dương, TP Hải Phòng, Việt Nam<br>{'Điện thoại: <a href="tel:0987931551">098 793 1551</a><br>' if lang=='vi' else ''}Email: <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></p>{BCT}</div><nav aria-label="HOPE CORP">{a('/ve-hope.html',c[15])}{a('/team.html',c[16])}{a('/investor/',c[17])}</nav></div>{notice}<div class="if-bottom"><span>© 2026 IKI by HOPE CORP</span><span>{a('/chinh-sach-bao-mat.html',c[6])} · {a('/chinh-sach-doi-tra.html',c[7])}{(' · '+a('/chinh-sach.html','Chính sách &amp; điều khoản')) if lang=='vi' else ''}</span></div></div></footer>'''
