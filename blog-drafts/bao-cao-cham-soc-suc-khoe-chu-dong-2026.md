@@ -112,7 +112,6 @@ Với ngành hàng đưa vào cơ thể, người Việt chưa mua bằng nút "
 
 Toàn bộ số liệu trong báo cáo được **trích dẫn miễn phí** với điều kiện ghi nguồn: *"Báo cáo IKI Healing, 2026"* kèm liên kết về trang này.
 
-- Tải bản PDF trình bày đầy đủ: [Báo cáo PDF cho báo chí](../assets/bao-cao/bao-cao-cham-soc-suc-khoe-chu-dong-2026.pdf)
 - Cần bảng số chi tiết hơn, góc phân tích riêng cho bài viết của bạn, hoặc phỏng vấn đội ngũ: email **contact@ikihealing.com** — chúng tôi phản hồi trong 48 giờ làm việc.
 
 Báo cáo tiếp theo sẽ bổ sung dữ liệu **khảo sát thể tạng** từ cộng đồng — nếu bạn muốn nhận sớm, hãy để lại email ở cuối trang.
