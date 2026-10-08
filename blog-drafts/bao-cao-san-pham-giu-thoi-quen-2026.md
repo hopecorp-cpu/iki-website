@@ -39,7 +39,7 @@ Ai cũng từng bắt đầu một thói quen lành mạnh rồi bỏ dở. Câu
 
 - **Một bộ phận khách hàng mới quay lại mua tiếp** trong vòng 5 tháng — gần như đồng đều bất kể họ bắt đầu bằng sản phẩm nào.
 - **Giữ đúng thói quen ban đầu** thì khác nhau theo điểm khởi đầu: **đạm thực vật** dẫn đầu, sau là trà thảo mộc, dầu ăn, rồi thức uống thay cà phê.
-- Kết luận dữ liệu: **bắt đầu từ bữa ăn chính dễ thành thói quen bền hơn bắt đầu từ đồ uống** — chênh lệch rõ.
+- Kết luận dữ liệu: **bắt đầu từ bữa ăn chính dễ thành thói quen bền hơn bắt đầu từ đồ uống** — chênh lệch rõ rệt.
 
 ## 1. Quay lại thì đều nhau — gắn bó mới là chuyện khác
 
@@ -61,7 +61,7 @@ Dữ liệu không tự giải thích nguyên nhân, nhưng có một cách đ�
 - **Chi phí chuyển đổi ngược thấp** — bỏ trà thì quay về trà đá, bỏ thức uống mới thì quay về cà phê cũ; còn nguồn đạm thì bữa nào cũng phải quyết định lại.
 
 :::note Đọc nhanh cho người muốn bắt đầu sống lành
-Nếu bạn chỉ đổi được MỘT thứ, dữ liệu gợi ý: đổi thứ nằm sẵn trong bữa ăn hằng ngày của bạn (ví dụ nguồn đạm bữa sáng), thay vì thêm một món mới cần nhớ mới dùng. Thói quen gắn vào bữa ăn có xác suất sống sót cao hơn rõ.
+Nếu bạn chỉ đổi được MỘT thứ, dữ liệu gợi ý: đổi thứ nằm sẵn trong bữa ăn hằng ngày của bạn (ví dụ nguồn đạm bữa sáng), thay vì thêm một món mới cần nhớ mới dùng. Thói quen gắn vào bữa ăn có xác suất sống sót cao hơn hẳn.
 :::
 
 ## 3. Điều này có nghĩa gì
