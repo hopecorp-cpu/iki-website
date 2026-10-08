@@ -69,14 +69,14 @@ export const KHUYEN_CAO_LOCALE = {
   en: {
     A8: "This article shares information for reference and does not replace a doctor's advice.",
     A4: "Trà Thanh Hương — herbal tea bags. Công ty CP TMDV HOPE is responsible.",
-    dam: "TRUE VEGAN PROTEIN PRO dietary supplement (500 g jar), product registration receipt number 01/HOPECORP/2026. Organization responsible for the product: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. For people aged 16 and over.",
+    dam: "TRUE VEGAN PROTEIN PRO dietary supplement (500 g jar), self-declaration number 01/HOPECORP/2026. Organization responsible for the product: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. For people aged 16 and over.",
     "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ is herbal tea bags, self-declaration number 01 PURE TEA/HOPE CORP/2026. Organization responsible for the product: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
   },
   ja: {
     A8: "この記事は参考情報の共有であり、医師の助言に代わるものではありません。",
     A4: "Trà Thanh Hương — ハーブティーのティーバッグ。Công ty CP TMDV HOPE が責任を負います。",
-    dam: "健康補助食品 TRUE VEGAN PROTEIN PRO（500gボトル）。製品情報登録受理番号 01/HOPECORP/2026。製品の責任を負う組織：Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE、L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội。16歳以上の方向け。",
-    "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ はハーブティーのティーバッグです。届出番号 01 PURE TEA/HOPE CORP/2026。製品の責任を負う組織：Công ty Cổ phần TMDV HOPE、số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng。",
+    dam: "健康補助食品 TRUE VEGAN PROTEIN PRO（500g入り）。自己公表番号 01/HOPECORP/2026。製品の責任を負う組織：Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE、L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội。16歳以上の方向け。",
+    "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ はハーブティーのティーバッグです。自己公表番号 01 PURE TEA/HOPE CORP/2026。製品の責任を負う組織：Công ty Cổ phần TMDV HOPE、số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng。",
   },
 };
 function khoaTheoThe(fm) {

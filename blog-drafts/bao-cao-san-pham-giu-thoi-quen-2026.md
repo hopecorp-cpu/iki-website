@@ -80,7 +80,7 @@ Nếu bạn chỉ đổi được MỘT thứ, dữ liệu gợi ý: đổi th�
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Tải [bản PDF trình bày đầy đủ](../assets/bao-cao/bao-cao-san-pham-giu-thoi-quen-2026.pdf). Cần thêm số hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Cần thêm số hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
 Báo cáo phản ánh hành vi mua sắm và lối sống, không phải dữ liệu y khoa. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
