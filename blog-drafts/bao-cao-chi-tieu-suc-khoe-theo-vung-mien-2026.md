@@ -3,7 +3,7 @@
   "title": "Báo cáo: Bản đồ chi tiêu sức khoẻ chủ động theo vùng miền — tỉnh 'chịu chi' hơn thành phố",
   "seo_title": "Chi tiêu sức khoẻ theo vùng miền 2026: tỉnh chi đậm hơn thành phố",
   "slug": "bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026",
-  "description": "Phân tích 1.348 đơn hàng COD thực tế của IKI Healing: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền (~1,1 triệu đồng/đơn), và các tỉnh như Lâm Đồng, Thái Bình, Hải Phòng chi đậm hơn cả Hà Nội, TP.HCM. Số liệu mở cho báo chí trích dẫn.",
+  "description": "Theo những gì IKI ghi nhận từ đơn hàng thanh toán khi nhận: mức chi cho sức khoẻ chủ động gần như đồng đều ba miền, và nhiều tỉnh như Lâm Đồng, Thái Bình, Hải Phòng chi đậm hơn cả Hà Nội, TP.HCM. Mở cho báo chí trích dẫn.",
   "keyword": "chi tiêu sức khoẻ theo vùng miền",
   "category": "bao-cao",
   "date": "2026-07-29",
@@ -11,15 +11,16 @@
   "hero_local": "assets/blog/bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026-hero.jpg",
   "hero_alt": "Bản đồ Việt Nam xếp từ lá xanh cạnh biểu đồ và tách trà",
   "reading_min": 7,
-  "answer": "Phân tích 1.348 đơn hàng thanh toán khi nhận (COD) kỳ 03–07/2026 của IKI Healing cho thấy mức chi cho một đơn hàng sức khoẻ chủ động gần như đồng đều khắp ba miền: miền Bắc bình quân 1,14 triệu đồng, miền Trung 1,07 triệu, miền Nam 1,15 triệu — chênh lệch dưới 8%. Đáng chú ý, nhiều tỉnh chi bình quân mỗi đơn cao hơn hẳn hai đô thị lớn: Thái Bình 1,74 triệu, Lâm Đồng 1,70 triệu, Bình Dương 1,44 triệu — so với Hà Nội 1,10 triệu và TP.HCM 1,11 triệu. Giá trị đơn phổ biến nhất toàn quốc (trung vị) là 668.000đ.",
+  "noindex": true,
+  "answer": "Phân tích đơn hàng thanh toán khi nhận (COD) kỳ 03–07/2026 của IKI Healing cho thấy mức chi cho một đơn hàng sức khoẻ chủ động gần như đồng đều khắp ba miền. Đáng chú ý, nhiều tỉnh chi bình quân mỗi đơn cao hơn hẳn hai đô thị lớn: Thái Bình, Lâm Đồng và Bình Dương đứng phía trên Hà Nội và TP.HCM. Giá trị đơn điển hình cũng giống nhau ở cả ba miền.",
   "faq": [
     {
       "q": "Số liệu này lấy từ đâu?",
-      "a": "Từ 1.600 vận đơn giao hàng thực tế của Công ty Cổ phần TMDV HOPE (HOPE CORP) kỳ tháng 3 – tháng 7/2026, trong đó 1.348 đơn thanh toán khi nhận hàng (COD) có ghi giá trị thu hộ và 1.233 đơn đọc được tỉnh giao hàng từ địa chỉ nhận."
+      "a": "Từ vận đơn giao hàng thực tế của Công ty Cổ phần TMDV HOPE (HOPE CORP) kỳ tháng 3 – tháng 7/2026: nhóm đơn thanh toán khi nhận hàng (COD) có ghi giá trị thu hộ, và nhóm đơn đọc được tỉnh giao hàng từ địa chỉ nhận."
     },
     {
       "q": "Vì sao chỉ tính đơn COD?",
-      "a": "Vì với đơn chuyển khoản trước, vận đơn không mang giá trị tiền — không thể gán số tiền cho địa chỉ giao. COD chiếm khoảng 68% dòng tiền của ngành hàng này nên vẫn phản ánh tốt mặt bằng chi tiêu, nhưng báo cáo ghi rõ đây là giới hạn của phương pháp."
+      "a": "Vì với đơn chuyển khoản trước, vận đơn không mang giá trị tiền — không thể gán số tiền cho địa chỉ giao. COD là phần lớn dòng tiền của ngành hàng này nên vẫn phản ánh tốt mặt bằng chi tiêu, nhưng báo cáo ghi rõ đây là giới hạn của phương pháp."
     },
     {
       "q": "Báo chí có được trích dẫn không?",
@@ -34,39 +35,35 @@ Khi nói về thị trường sức khoẻ, phản xạ chung của người là
 
 Đây là báo cáo thứ hai trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing — số liệu tổng hợp, không chứa thông tin cá nhân, mở cho báo chí trích dẫn miễn phí kèm nguồn. Bản đầu tiên: [Người Việt chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 
-## Ba con số chính
+## Những điểm chính
 
-- Mức chi bình quân mỗi đơn gần như **đồng đều khắp ba miền**: Bắc 1,14 triệu — Trung 1,07 triệu — Nam 1,15 triệu (chênh lệch dưới 8%).
-- **Đơn hàng điển hình toàn quốc trị giá 668.000đ** — trung vị giống hệt nhau ở cả ba miền, đúng bằng giá một hũ đạm thực vật.
-- Nhiều tỉnh chi bình quân **vượt Hà Nội và TP.HCM**: Thái Bình 1,74 triệu, Lâm Đồng 1,70 triệu, Bình Dương 1,44 triệu, Hải Dương 1,43 triệu, Hải Phòng 1,37 triệu — so với Hà Nội 1,10 triệu và TP.HCM 1,11 triệu.
+- Mức chi bình quân mỗi đơn gần như **đồng đều khắp ba miền** — Bắc, Trung và Nam sát nhau.
+- **Đơn hàng điển hình có cùng mức giá ở cả ba miền.**
+- Nhiều tỉnh chi bình quân **vượt Hà Nội và TP.HCM**: Thái Bình, Lâm Đồng, Bình Dương, Hải Dương và Hải Phòng đứng phía trên hai đô thị lớn.
 
 ## 1. Ví tiền cho sức khoẻ không phân biệt miền
 
-Phân tích 1.348 đơn thanh toán khi nhận hàng (COD):
+Phân tích các đơn thanh toán khi nhận hàng (COD):
 
-- Miền Bắc: bình quân **1,14 triệu đồng/đơn** (694 đơn)
-- Miền Trung: bình quân **1,07 triệu đồng/đơn** (226 đơn)
-- Miền Nam: bình quân **1,15 triệu đồng/đơn** (313 đơn)
+- Miền Bắc, miền Trung và miền Nam có mức chi bình quân mỗi đơn sát nhau.
 
 Khoảng cách giàu nghèo giữa các vùng là có thật trong thống kê thu nhập — nhưng trong dữ liệu này, **khi một người đã quyết định chi cho sức khoẻ chủ động, mức chi của họ gần như không phụ thuộc vào việc họ sống ở miền nào.**
 
-Càng thú vị hơn: giá trị đơn *trung vị* (đơn "điển hình", loại bỏ ảnh hưởng của các đơn lớn) ở cả ba miền đều là **668.000đ** — đúng bằng giá một hũ đạm thực vật, sản phẩm cửa ngõ của lối sống này.
+Càng rõ hơn: giá trị đơn *điển hình* (trung vị, loại bỏ ảnh hưởng của các đơn lớn) giống nhau ở cả ba miền.
 
 ## 2. Bảng xếp hạng tỉnh "chịu chi" — thành phố lớn không dẫn đầu
 
-Xếp theo mức chi bình quân mỗi đơn (chỉ tính tỉnh có từ 20 đơn trở lên; kèm trung vị và số đơn để bạn đọc tự thẩm định):
+Xếp theo mức chi bình quân mỗi đơn (chỉ tính tỉnh có đủ số đơn để đọc):
 
-- **Thái Bình: 1,74 triệu/đơn** (trung vị 830 nghìn, 21 đơn)
-- **Lâm Đồng: 1,70 triệu/đơn** (trung vị 1,34 triệu — cao nhất toàn quốc, 33 đơn)
-- **Bình Dương: 1,44 triệu/đơn** (47 đơn)
-- **Hải Dương: 1,43 triệu/đơn** (28 đơn)
-- **Hải Phòng: 1,37 triệu/đơn** (trung vị 928 nghìn, 51 đơn)
-- ... và ở nửa dưới bảng: **TP.HCM 1,11 triệu** (98 đơn), **Hà Nội 1,10 triệu** (307 đơn)
+- **Thái Bình** dẫn đầu.
+- **Lâm Đồng** sát ngay sau, và có đơn điển hình cao nhất toàn quốc — mức chi ở đây đều, không phải vài đơn lớn kéo bình quân lên.
+- **Bình Dương**, **Hải Dương** và **Hải Phòng** lần lượt theo sau.
+- Ở nửa dưới bảng: **TP.HCM** và **Hà Nội**.
 
-Hà Nội vẫn là thị trường lớn nhất về *số đơn* (23,6% toàn quốc, theo báo cáo trước). Nhưng về *độ sâu ví tiền mỗi lần mua*, người mua ở tỉnh không hề kém — thậm chí dẫn đầu.
+Hà Nội vẫn là thị trường lớn nhất về *số đơn*. Nhưng về *độ sâu ví tiền mỗi lần mua*, người mua ở tỉnh không hề kém — thậm chí dẫn đầu.
 
 :::case Lâm Đồng — trường hợp đáng chú ý nhất
-Lâm Đồng có trung vị 1,34 triệu đồng/đơn — cao nhất cả nước, nghĩa là quá nửa số đơn ở đây vượt 1,3 triệu, không phải do vài đơn lớn kéo bình quân lên. Một giả thuyết đáng kiểm chứng cho kỳ báo cáo sau: vùng khí hậu ôn hoà với văn hoá "sống chậm" như Đà Lạt đang hình thành nhóm cư dân đầu tư đều đặn và đậm tay cho lối sống lành.
+Lâm Đồng có đơn điển hình cao nhất cả nước: đơn ở đây thuộc nhóm chi đậm một cách đều, không phải do vài đơn lớn kéo bình quân lên. Một giả thuyết đáng kiểm chứng cho kỳ báo cáo sau: vùng khí hậu ôn hoà với văn hoá "sống chậm" như Đà Lạt đang hình thành nhóm cư dân đầu tư đều đặn và đậm tay cho lối sống lành.
 :::
 
 ## 3. Điều này có nghĩa gì
@@ -79,9 +76,9 @@ Lâm Đồng có trung vị 1,34 triệu đồng/đơn — cao nhất cả nư�
 
 ## Phương pháp và giới hạn
 
-- Nguồn: 1.600 vận đơn giao hàng hợp lệ của HOPE CORP kỳ 08/03 – 27/07/2026; trong đó **1.348 đơn COD** có giá trị thu hộ, **1.233 đơn** đọc được tỉnh từ địa chỉ nhận.
-- Chỉ tính đơn COD (68% dòng tiền toàn hệ) — đơn chuyển khoản trước không mang giá trị trên vận đơn. Nếu hành vi chuyển khoản khác biệt theo vùng, con số có thể lệch tương ứng.
-- Tỉnh dưới 20 đơn không đưa vào bảng xếp hạng (mẫu quá nhỏ). Số đơn từng tỉnh được ghi kèm để bạn đọc tự đánh giá độ vững.
+- Nguồn: vận đơn giao hàng hợp lệ của HOPE CORP kỳ 08/03 – 27/07/2026. Mức chi đọc từ đơn COD có giá trị thu hộ; tỉnh đọc từ địa chỉ nhận.
+- Chỉ tính đơn COD — phần lớn dòng tiền toàn hệ — vì đơn chuyển khoản trước không mang giá trị trên vận đơn. Nếu hành vi chuyển khoản khác biệt theo vùng, bức tranh có thể lệch tương ứng.
+- Tỉnh có quá ít đơn không đưa vào bảng xếp hạng.
 - Tên tỉnh gộp theo địa giới ghi trên địa chỉ nhận hàng của khách.
 - Đây là dữ liệu từ tệp khách hàng của một doanh nghiệp, không phải mẫu đại diện dân số.
 
