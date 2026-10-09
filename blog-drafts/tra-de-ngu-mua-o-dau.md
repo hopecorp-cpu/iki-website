@@ -144,7 +144,7 @@ Mỗi người có một nhịp tối khác nhau, người thì cần ngồi yê
 
 Đến đây là phần nói về sản phẩm của chính chúng tôi, và cách công bằng nhất là đặt nó qua đúng sáu bước ở trên, để bạn tự đối chiếu như với bất kỳ hộp trà nào.
 
-[Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là trà thảo mộc bốn vị: hoa nhài cho hương hoa dịu, phục linh cho vị thanh nhẹ, hoa quế cho nốt ấm ngọt, trần bì tức vỏ quýt phơi khô cho hương cam và vị hơi the. Bốn vị đều được ghi tên trên nhãn. Trà không chứa lá chè hay cà phê trong thành phần. Về dòng chữ "không caffeine": chúng tôi chưa có phiếu kiểm nghiệm riêng cho chỉ tiêu này, nên trên nhãn và trong mọi bài viết của IKI không in câu đó, chỉ mô tả bốn vị và mời bạn đọc bảng thành phần. Đó là cách chúng tôi áp cờ đỏ thứ ba của bài này lên chính mình. Giá niêm yết là 226.000đ một hộp.
+[Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là trà thảo mộc bốn vị: hoa nhài cho hương hoa dịu, phục linh cho vị thanh nhẹ, hoa quế cho nốt ấm ngọt, trần bì tức vỏ quýt phơi khô cho hương cam và vị hơi the. Bốn vị đều được ghi tên trên nhãn. Công thức không dùng lá chè. Chúng tôi chưa có phiếu kiểm nghiệm caffeine, nên chỉ mô tả bốn vị và mời bạn đọc bảng thành phần. Đó là cách chúng tôi áp cờ đỏ thứ ba của bài này lên chính mình. Giá niêm yết là 226.000đ một hộp.
 
  Bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) có nốt hương từng vị và cách pha; bài [trà thảo mộc Việt và trà nhập khẩu](tra-thao-moc-viet-va-tra-nhap-khau.html) nói vì sao chúng tôi chọn nguyên liệu trong nước.
 
