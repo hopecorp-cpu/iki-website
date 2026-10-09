@@ -162,4 +162,4 @@ Nếu bạn thấy chế độ nhóm máu từng giúp mình, hãy giữ lại p
 - Prudential Việt Nam — Thiết kế chế độ ăn uống và tập luyện theo nhóm máu, những sự thật cần biết: [prudential.com.vn](https://www.prudential.com.vn/vi/blog-nhip-song-khoe/thiet-ke-che-do-an-uong-va-tap-luyen-theo-nhom-mau-nhung-su-that-can-biet/)
 - MEDLATEC — Chế độ ăn uống theo nhóm máu: [medlatec.vn](https://medlatec.vn/tin-tuc/-che-do-an-uong-theo-nhom-mau-s51-n6316)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ, không thay thế chẩn đoán hay tư vấn của người có chuyên môn y tế. Nếu bạn đang mang thai, cho con bú, có bệnh nền hoặc đang dùng thuốc dài ngày, hãy tham khảo ý kiến chuyên môn trước khi thay đổi lớn trong chế độ ăn. Các sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ, không thay thế chẩn đoán hay tư vấn của người có chuyên môn y tế. Nếu bạn đang mang thai, cho con bú, có bệnh nền hoặc đang dùng thuốc dài ngày, hãy tham khảo ý kiến chuyên môn trước khi thay đổi lớn trong chế độ ăn.*

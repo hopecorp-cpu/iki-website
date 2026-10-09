@@ -73,5 +73,5 @@ Ngay trong app có dòng chữ: "Hình hoạ từ nhịp cân bằng của anh �
 Một cú chụp 5 giây mỗi bữa — sau hai tuần, bạn sẽ hiểu cái miệng của mình hơn cả chục năm qua cộng lại.
 
 :::note Ghi chú pháp lý
-App IKI là công cụ hỗ trợ lối sống mang tính tham khảo, không phải thiết bị y tế và không nhằm chẩn đoán bệnh. Nội dung bài viết không thay thế chẩn đoán hoặc tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+App IKI là công cụ hỗ trợ lối sống mang tính tham khảo, không phải thiết bị y tế và không nhằm chẩn đoán bệnh. Nội dung bài viết không thay thế chẩn đoán hoặc tư vấn y khoa. 
 :::

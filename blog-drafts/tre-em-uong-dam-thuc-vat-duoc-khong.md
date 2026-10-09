@@ -185,4 +185,4 @@ Chăm sóc sức khoẻ chủ động cho cả gia đình bắt đầu từ ch�
 - Vinmec — Bột protein cho trẻ em có an toàn không: [vinmec.com](https://www.vinmec.com/vie/bai-viet/bot-protein-cho-tre-em-co-an-toan-khong-vi)
 - Bệnh viện Nhi Trung ương — Đạm thế nào là hợp lý cho trẻ sơ sinh và trẻ nhỏ: [benhviennhitrunguong.gov.vn](https://benhviennhitrunguong.gov.vn/dam-the-nao-la-hop-ly-cho-tre-so-sinh-va-tre-nho.html)
 
-*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Mọi quyết định về việc bổ sung dinh dưỡng cho trẻ nên có ý kiến của bác sĩ nhi khoa hoặc chuyên gia dinh dưỡng. Các sản phẩm của IKI là thực phẩm bổ sung dành cho người trưởng thành, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức dinh dưỡng, không thay thế chẩn đoán hay tư vấn của bác sĩ. Mọi quyết định về việc bổ sung dinh dưỡng cho trẻ nên có ý kiến của bác sĩ nhi khoa hoặc chuyên gia dinh dưỡng.*

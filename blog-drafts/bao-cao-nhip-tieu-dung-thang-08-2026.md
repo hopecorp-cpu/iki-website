@@ -139,5 +139,5 @@ Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên 
 Muốn biết mình đang ở đâu trong bức tranh này, bạn có thể làm [bài đọc thể trạng miễn phí](https://ikihealing.com/quiz) — 13 câu, khoảng 3 phút.
 
 :::note Ghi chú pháp lý
-Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
+Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
 :::

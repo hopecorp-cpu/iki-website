@@ -261,7 +261,7 @@
       "status": "published"
     },
     {
-      "title": "Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026 — dữ liệu từ 1.540 đơn hàng thực tế",
+      "title": "Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026",
       "slug": "bao-cao-cham-soc-suc-khoe-chu-dong-2026",
       "category": "bao-cao",
       "status": "published"
@@ -323,6 +323,12 @@
     {
       "title": "Ăn sáng thế nào cho một ngày tràn năng lượng",
       "slug": "an-sang-tran-nang-luong",
+      "category": "dinh-duong",
+      "status": "published"
+    },
+    {
+      "title": "Bữa sáng 10 phút cho ngày bận: món Việt tự làm, chuẩn bị từ tối hôm trước",
+      "slug": "bua-sang-10-phut-cho-ngay-ban",
       "category": "dinh-duong",
       "status": "published"
     },

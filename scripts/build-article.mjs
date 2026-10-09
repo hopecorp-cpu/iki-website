@@ -16,7 +16,7 @@ import fs from "fs";
 import { BRAND_NAME, brandOrganization, LEGACY_APP_SLUGS, ARCHIVE_NOTE } from "./brand-profile.mjs";
 import { blogHomeShell } from "./blog-home-shell.mjs";
 import path from "path";
-import { fileURLToPath } from "url";
+import { fileURLToPath, pathToFileURL } from "url";
 import { buildStructure, emailCta } from "./build-structure.mjs";
 import { ctaSanPham, CSS_CTA_SP, chonSanPham, cauDuyet } from "./cta-san-pham.mjs";
 // Bộ khối trực quan cho bài báo cáo số liệu (bảng/biểu đồ SVG/khối số nổi) — CEO 04/09/2026.
@@ -63,6 +63,22 @@ const KHUYEN_CAO_CAU = {
   dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
   "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
 };
+// EN/JA dịch đúng câu đã duyệt ở trên và A8/A4 (data/cau-duyet-lo-b.json). Giữ nguyên tên riêng,
+// số công bố và địa chỉ pháp lý. Không có bản dịch sẵn trong khuôn #26/#25 nên chép nghĩa sát câu Việt.
+export const KHUYEN_CAO_LOCALE = {
+  en: {
+    A8: "This article shares information for reference and does not replace a doctor's advice.",
+    A4: "Trà Thanh Hương — herbal tea bags. Công ty CP TMDV HOPE is responsible.",
+    dam: "TRUE VEGAN PROTEIN PRO dietary supplement (500 g jar), self-declaration number 01/HOPECORP/2026. Organization responsible for the product: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. For people aged 16 and over.",
+    "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ is herbal tea bags, self-declaration number 01 PURE TEA/HOPE CORP/2026. Organization responsible for the product: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
+  },
+  ja: {
+    A8: "この記事は参考情報の共有であり、医師の助言に代わるものではありません。",
+    A4: "Trà Thanh Hương — ハーブティーのティーバッグ。Công ty CP TMDV HOPE が責任を負います。",
+    dam: "健康補助食品 TRUE VEGAN PROTEIN PRO（500g入り）。自己公表番号 01/HOPECORP/2026。製品の責任を負う組織：Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE、L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội。16歳以上の方向け。",
+    "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ はハーブティーのティーバッグです。自己公表番号 01 PURE TEA/HOPE CORP/2026。製品の責任を負う組織：Công ty Cổ phần TMDV HOPE、số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng。",
+  },
+};
 function khoaTheoThe(fm) {
   if (fm.no_product === true) return [];
   const sp = chonSanPham(fm);
@@ -72,25 +88,37 @@ function khoaTheoThe(fm) {
   if (sp.slug === "tra-thanh-huong") return [];
   throw new Error(`không có câu khuyến cáo đã duyệt cho thẻ "${sp.slug}" ở bài ${fm.slug} — dừng, không bịa chữ`);
 }
-function khoiKhuyenCao(fm) {
+export function khoaKhuyenCao(fm) {
   const coKhoa = Array.isArray(fm.khuyen_cao);
-  const khoa = coKhoa ? fm.khuyen_cao : khoaTheoThe(fm);
-  if (!coKhoa && fm.no_product !== true) console.warn(`THIEU khuyen_cao: ${fm.slug}`);
+  return coKhoa ? fm.khuyen_cao : khoaTheoThe(fm);
+}
+// Câu chữ (không bọc thẻ) theo khoá. lang vi/en/ja. thanhHuong = A8 rồi A4, không lặp A8.
+export function cauTheoKhoa(khoa, lang = "vi") {
   const hopLe = [...Object.keys(KHUYEN_CAO_CAU), "thanhHuong"];
+  const loc = lang === "vi" ? null : KHUYEN_CAO_LOCALE[lang];
+  if (lang !== "vi" && !loc) throw new Error(`không có bản dịch khuyến cáo cho "${lang}"`);
+  const A8 = lang === "vi" ? cauDuyet("A8") : loc.A8;
+  const A4 = lang === "vi" ? cauDuyet("A4") : loc.A4;
   const dong = [];
   let daCoA8 = false;
   for (const k of khoa) {
     if (k === "thanhHuong") {
-      // A8 rồi A4. Không thêm câu B lần nữa (A8 đã là câu B).
-      dong.push(`<p>${cauDuyet("A8")}</p>`);
-      dong.push(`<p>${cauDuyet("A4")}</p>`);
+      dong.push(A8, A4);
       daCoA8 = true;
       continue;
     }
-    if (!KHUYEN_CAO_CAU[k]) throw new Error(`khuyen_cao không hợp lệ "${k}" ở bài ${fm.slug} (chỉ nhận: ${hopLe.join(", ")})`);
-    dong.push(`<p>${KHUYEN_CAO_CAU[k]}</p>`);
+    const cau = lang === "vi" ? KHUYEN_CAO_CAU[k] : loc[k];
+    if (!cau) throw new Error(`khuyen_cao không hợp lệ "${k}" (chỉ nhận: ${hopLe.join(", ")})`);
+    dong.push(cau);
   }
-  if (!daCoA8) dong.push(`<p>${cauDuyet("A8")}</p>`);
+  if (!daCoA8) dong.push(A8);
+  return dong;
+}
+function khoiKhuyenCao(fm) {
+  const coKhoa = Array.isArray(fm.khuyen_cao);
+  const khoa = khoaKhuyenCao(fm);
+  if (!coKhoa && fm.no_product !== true) console.warn(`THIEU khuyen_cao: ${fm.slug}`);
+  const dong = cauTheoKhoa(khoa, "vi").map((c) => `<p>${c}</p>`);
   return `<div class="post-disclaimer">\n          ${dong.join("\n          ")}\n        </div>`;
 }
 // Beacon đo tương tác lead (đọc/click/tải) — gắn mã lead từ ?lid (link email). Không thu thập gì nếu không có lid.
@@ -177,7 +205,7 @@ function mdToHtml(md) {
   return { html: out.join("\n"), toc };
 }
 
-function parseSource(raw) {
+export function parseSource(raw) {
   const m = raw.match(/^---json\s*\n([\s\S]*?)\n---\s*\n([\s\S]*)$/);
   if (!m) throw new Error("Thiếu block ---json ... --- ở đầu file.");
   let fm;
@@ -286,7 +314,7 @@ function render(fm, body) {
   <meta name="referrer" content="strict-origin-when-cross-origin" />
   <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests; base-uri 'self'; object-src 'none'; form-action 'self' https://formsubmit.co https://formspree.io https://hope-ops-hub.vercel.app;" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>${esc(clamp(fm.seo_title || fm.title, 60))}</title>
+  ${fm.noindex ? '<meta name="robots" content="noindex,follow" />\n  ' : ''}<title>${esc(clamp(fm.seo_title || fm.title, 60))}</title>
   <meta name="description" content="${escAttr(clamp(fm.description, 160))}" />
   <link rel="canonical" href="${url}" />
   <link rel="alternate" hreflang="vi" href="${url}" />
@@ -593,4 +621,5 @@ function main() {
   buildStructure();
 }
 
-main();
+const entry = process.argv[1] ? pathToFileURL(path.resolve(process.argv[1])).href : "";
+if (import.meta.url === entry) main();

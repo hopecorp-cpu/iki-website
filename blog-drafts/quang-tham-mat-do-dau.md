@@ -161,7 +161,7 @@ Hợp với kiểu sắc tố và kiểu liên quan dị ứng. Ba điểm nhỏ
 
 Hợp với mọi kiểu, nhưng đặt kỳ vọng đúng: ngủ đủ giúp bạn không cộng thêm lớp mệt mỏi lên nền sẵn có, chứ không xoá nền đó. Với người lớn, các khuyến nghị phổ biến là bảy tới chín tiếng mỗi đêm. Nhưng quan trọng không kém số giờ là độ đều: đi ngủ và thức dậy vào giờ gần giống nhau cả tuần, kể cả cuối tuần.
 
-Kẻ thù lớn nhất của giờ ngủ ở chị em đi làm thường là chiếc điện thoại sau mười giờ tối. Bài [màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html) gợi ý một vùng đệm ba mươi tới sáu mươi phút, và cách làm cho vùng đệm ấy dễ giữ. Một nghi thức nhỏ thay cho việc lướt điện thoại, như một tách [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) pha từ hoa và vỏ quả không có caffeine, giúp tay có việc để làm và đầu có tín hiệu rằng ngày đã khép lại.
+Kẻ thù lớn nhất của giờ ngủ ở chị em đi làm thường là chiếc điện thoại sau mười giờ tối. Bài [màn hình trước giờ ngủ](man-hinh-truoc-gio-ngu.html) gợi ý một vùng đệm ba mươi tới sáu mươi phút, và cách làm cho vùng đệm ấy dễ giữ. Một nghi thức nhỏ thay cho việc lướt điện thoại, như một tách [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) pha từ hoa và vỏ quả, công thức không dùng lá chè, giúp tay có việc để làm và đầu có tín hiệu rằng ngày đã khép lại.
 
 Nếu bạn nằm thấy nghẹt mũi hoặc hay dậy với mắt sưng, thử kê gối cao hơn một chút. Học viện Nhãn khoa Hoa Kỳ gợi ý cách này để giảm dịch dồn về vùng mắt khi ngủ.
 

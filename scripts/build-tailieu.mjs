@@ -233,7 +233,7 @@ function docPage(d) {
       <p>Cảm ơn bạn! Tài liệu đã sẵn sàng. IKI cũng sẽ gửi thêm vài gợi ý chăm sóc sức khoẻ nhỏ, dễ làm vào email của bạn trong những ngày tới.</p>
     </div>
   </div>
-  <p class="tl-note">Nội dung mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc.</p>
+  <p class="tl-note">Nội dung mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay thay thế tư vấn y khoa.</p>
   </div>
   ${script}
 </main>`
@@ -254,7 +254,7 @@ function indexPage() {
     + `<main>
   <section class="tl-hero"><span class="eyebrow">Tài liệu miễn phí</span><h1>Tài liệu chăm sóc sức khoẻ chủ động</h1><p>Cẩm nang và ebook do IKI biên soạn — để lại email là nhận được ngay.</p></section>
   <div class="tl-grid">${cards}</div>
-  <p class="tl-note">Nội dung mang tính chia sẻ kiến thức, không nhằm chẩn đoán hay thay thế tư vấn y khoa. Sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc.</p>
+  <p class="tl-note">Nội dung mang tính chia sẻ kiến thức, không nhằm chẩn đoán hay thay thế tư vấn y khoa.</p>
 </main>`
     + footer();
 }

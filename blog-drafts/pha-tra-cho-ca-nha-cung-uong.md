@@ -164,7 +164,7 @@ Vài tiêu chí để chọn:
 - **Nguồn gốc và thành phần ghi rõ ràng** trên bao bì, để người trong nhà có bệnh lý riêng có thể mang đi hỏi bác sĩ.
 - **Dạng túi lọc** nếu muốn ai trong nhà cũng pha được, kể cả trẻ lớn, mà không cần cân đo.
 
-Một ví dụ cụ thể là [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), dòng trà thảo mộc túi lọc của IKI phối từ hoa nhài, phục linh, hoa quế và trần bì. Ở góc hương vị, hoa nhài cho hương ngọt thanh ở ngụm đầu, hoa quế cho nốt ấm, phục linh giữ hậu vị dịu, còn trần bì — vỏ quýt phơi khô rất quen trong bếp Việt — cho một nốt cam nhẹ ở cuối. Trà không chứa caffeine, nên hợp với ấm trà sau bữa tối khi có cả ông bà và trẻ lớn cùng ngồi. Giá niêm yết 226.000đ một hộp. Nếu muốn tìm hiểu kỹ về bốn vị này, bài [trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) có phần phân tích nốt hương chi tiết.
+Một ví dụ cụ thể là [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com), dòng trà thảo mộc túi lọc của IKI phối từ hoa nhài, phục linh, hoa quế và trần bì. Ở góc hương vị, hoa nhài cho hương ngọt thanh ở ngụm đầu, hoa quế cho nốt ấm, phục linh giữ hậu vị dịu, còn trần bì — vỏ quýt phơi khô rất quen trong bếp Việt — cho một nốt cam nhẹ ở cuối. Công thức không dùng lá chè, nên hợp với ấm trà sau bữa tối khi có cả ông bà và trẻ lớn cùng ngồi. Giá niêm yết 226.000đ một hộp. Nếu muốn tìm hiểu kỹ về bốn vị này, bài [trà Thanh Hương là gì](tra-thanh-huong-la-gi.html) có phần phân tích nốt hương chi tiết.
 
 Và với người lớn trong nhà đang muốn giảm cà phê buổi chiều, có thể xem thêm các [thức uống thay cà phê](https://ikihealing.com/shop/) để có một chén ấm cầm tay mà không cần thêm caffeine.
 

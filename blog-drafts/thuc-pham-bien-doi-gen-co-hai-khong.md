@@ -166,4 +166,4 @@ Chăm sóc sức khoẻ chủ động không phải là sợ nhiều thứ hơn,
 - Trung tâm Kiểm soát bệnh tật Ninh Bình — Sự thực về thực phẩm biến đổi gen: [cdc.ninhbinh.gov.vn](http://cdc.ninhbinh.gov.vn/tin-tuc-su-kien/tin-tuc-su-kien/su-thuc-ve-thuc-pham-bien-doi-gen.html)
 - Thông tư liên tịch 45/2015/TTLT-BNNPTNT-BKHCN hướng dẫn ghi nhãn đối với thực phẩm biến đổi gen bao gói sẵn: [luatvietnam.vn](https://luatvietnam.vn/y-te/thong-tu-lien-tich-45-2015-ttlt-bnnptnt-bkhcn-bo-khoa-hoc-va-cong-nghe-100953-d1.html)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ, không thay thế chẩn đoán hay tư vấn của người có chuyên môn y tế. Các quy định pháp luật có thể thay đổi theo thời gian, bạn nên tra cứu văn bản hiện hành khi cần áp dụng. Các sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ, không thay thế chẩn đoán hay tư vấn của người có chuyên môn y tế. Các quy định pháp luật có thể thay đổi theo thời gian, bạn nên tra cứu văn bản hiện hành khi cần áp dụng.*

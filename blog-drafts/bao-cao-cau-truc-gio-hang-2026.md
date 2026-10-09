@@ -115,5 +115,5 @@ Nếu bạn đang ở đúng nhóm "chưa biết nên bắt đầu từ món nà
 Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
-Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
+Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.
 :::
