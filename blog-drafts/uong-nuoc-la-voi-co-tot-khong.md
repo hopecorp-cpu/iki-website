@@ -177,4 +177,4 @@ Nước lá vối là ví dụ đẹp của tri thức dân gian: đơn giản, 
 - Vinmec — Các tác dụng của lá vối: [vinmec.com](https://www.vinmec.com/vie/bai-viet/cac-tac-dung-cua-la-voi-vi)
 - Nhà thuốc FPT Long Châu — Ai không nên uống nước lá vối, những lưu ý khi sử dụng: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/ai-khong-nen-uong-nuoc-la-voi-nhung-luu-y-khi-su-dung.html)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ và kinh nghiệm dân gian, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn đang mang thai, cho con bú, dùng thuốc dài ngày hoặc có bệnh nền, hãy tham khảo ý kiến chuyên môn trước khi uống nước lá đều đặn. Các sản phẩm của IKI là thực phẩm bổ sung, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ và kinh nghiệm dân gian, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn đang mang thai, cho con bú, dùng thuốc dài ngày hoặc có bệnh nền, hãy tham khảo ý kiến chuyên môn trước khi uống nước lá đều đặn.*

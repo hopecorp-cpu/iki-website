@@ -65,5 +65,5 @@ Chị từng nghĩ mình mệt vì "tuổi tác". Ghi nhật ký 30 giây đư�
 Một tháng sau, bạn sẽ có thứ mà không cuốn sách sức khoẻ nào cho được: bằng chứng về cách cơ thể **của riêng bạn** vận hành.
 
 :::note Ghi chú pháp lý
-App IKI là công cụ hỗ trợ lối sống mang tính tham khảo, không phải thiết bị y tế và không nhằm chẩn đoán bệnh. Biểu đồ trong app là hình hoạ từ nhịp sinh hoạt cá nhân, không phải tín hiệu y tế; nội dung bài viết không thay thế chẩn đoán hoặc tư vấn y khoa. Các sản phẩm IKI là thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.
+App IKI là công cụ hỗ trợ lối sống mang tính tham khảo, không phải thiết bị y tế và không nhằm chẩn đoán bệnh. Biểu đồ trong app là hình hoạ từ nhịp sinh hoạt cá nhân, không phải tín hiệu y tế; nội dung bài viết không thay thế chẩn đoán hoặc tư vấn y khoa. 
 :::

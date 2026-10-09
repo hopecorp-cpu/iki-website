@@ -459,10 +459,11 @@ export function buildStructure() {
       { "@context": "https://schema.org", "@type": "CollectionPage", name: "Cảm nhận cộng đồng IKI", url: `${SITE}/blog/cam-nhan-cong-dong.html`, inLanguage: "vi-VN" })
     + header()
     + tmStyle
-    + `<main><section class="blog-hero"><span class="eyebrow">Cảm nhận cộng đồng</span><h1>Những thói quen nhỏ, kể bằng lời thật</h1><p>Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Mỗi người một cảm nhận riêng.</p></section><div class="tm-wrap"><div class="tm-grid">${tmCards}</div></div><p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người. Sản phẩm là thực phẩm bổ sung, không phải thuốc và không thay thế thuốc chữa bệnh.</p>${emailCta(plan, "cam-nhan-cong-dong")}</main>`
+    + `<main><section class="blog-hero"><span class="eyebrow">Cảm nhận cộng đồng</span><h1>Những thói quen nhỏ, kể bằng lời thật</h1><p>Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Mỗi người một cảm nhận riêng.</p></section><div class="tm-wrap"><div class="tm-grid">${tmCards}</div></div><p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người.</p>${emailCta(plan, "cam-nhan-cong-dong")}</main>`
     + footer(), "utf8");
 
   // ---------- MIỄN TRỪ TRÁCH NHIỆM (điều khoản nội dung) ----------
+  // Không gọi trà là thực phẩm bổ sung. Mục 3: câu đạm (hũ 500 g) rồi A4. Không gắn A8 vào điều khoản.
   const legalStyle = `<style>.legal{max-width:760px;margin:0 auto;padding:8px 22px 10px;font-size:1.02rem;color:#344054}.legal h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.4rem;color:#101828;margin:1.7em 0 .4em;scroll-margin-top:90px}.legal h2 .ln{color:var(--iki-teal-deep,#2E8975);font-family:var(--font-sans,'Manrope');font-size:.9rem;font-weight:700;margin-right:8px}.legal p{margin:.7em 0;line-height:1.72}.legal ul{margin:.5em 0;padding-left:1.3em}.legal li{margin:.35em 0;line-height:1.6}.legal strong{color:#101828}.legal .upd{color:#98a2b3;font-size:.88rem}.legal .note{background:#f4f8ff;border:1px solid #d6e4fb;border-radius:12px;padding:14px 18px;color:#334155;font-size:.94rem;margin:16px 0}</style>`;
   const legalBody = `<section class="legal">
     <p class="upd">Cập nhật: 2026 · Áp dụng cho blog và các kênh nội dung của IKI Healing.</p>
@@ -473,7 +474,7 @@ export function buildStructure() {
     <h2><span class="ln">2.</span>Không thay thế tư vấn y khoa cá nhân</h2>
     <p>Mỗi cơ thể là một trường hợp riêng. Điều phù hợp với người này chưa chắc phù hợp với người khác. Nếu bạn đang có bệnh lý nền, đang dùng thuốc theo đơn, đang mang thai hoặc cho con bú, hãy <strong>trao đổi với bác sĩ của bạn trước khi áp dụng</strong> bất kỳ gợi ý nào từ nội dung của chúng tôi. Việc lắng nghe cơ thể và điều chỉnh cùng chuyên gia là nền tảng của chăm sóc sức khoẻ chủ động.</p>
     <h2><span class="ln">3.</span>Về sản phẩm của IKI / HOPE</h2>
-    <p>Các sản phẩm của IKI (đạm thực vật, trà thảo mộc và các sản phẩm khác) là <strong>thực phẩm bổ sung, không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh</strong>. Sản phẩm được công bố theo quy định hiện hành. Cảm nhận và kết quả có thể khác nhau tuỳ cơ địa, chế độ sinh hoạt và mức độ kiên trì của mỗi người.</p>
+    <p>Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên. Trà Thanh Hương - trà thảo mộc túi lọc, Công ty CP TMDV HOPE chịu trách nhiệm. Sản phẩm được công bố theo quy định hiện hành. Cảm nhận và kết quả có thể khác nhau tuỳ cơ địa, chế độ sinh hoạt và mức độ kiên trì của mỗi người.</p>
     <h2><span class="ln">4.</span>Về cảm nhận và trải nghiệm cộng đồng</h2>
     <p>Các chia sẻ, cảm nhận của thành viên cộng đồng là <strong>trải nghiệm cá nhân về thay đổi thói quen sinh hoạt</strong>, không phải lời khuyên y khoa, không đại diện cho tất cả mọi người và không phải cam kết về kết quả sức khoẻ.</p>
     <h2><span class="ln">5.</span>Miễn trừ trách nhiệm</h2>
@@ -486,7 +487,7 @@ export function buildStructure() {
   </section>`;
   fs.writeFileSync(path.join(outDir, "mien-tru-trach-nhiem.html"),
     head("Miễn trừ trách nhiệm &amp; điều khoản nội dung | IKI",
-      "Điều khoản nội dung và miễn trừ trách nhiệm của IKI Healing: nội dung mang tính giáo dục, không thay thế tư vấn y khoa; sản phẩm là thực phẩm bổ sung.",
+      "Điều khoản nội dung và miễn trừ trách nhiệm của IKI Healing: nội dung mang tính giáo dục, không thay thế tư vấn y khoa.",
       `${SITE}/blog/mien-tru-trach-nhiem.html`, null, true)
     + header() + legalStyle
     + `<main><section class="blog-hero" style="padding-bottom:6px"><span class="eyebrow">Điều khoản nội dung</span><h1>Miễn trừ trách nhiệm</h1><p>Cách chúng tôi chia sẻ nội dung sức khoẻ và ranh giới trách nhiệm, để bạn đọc an tâm và đúng cách.</p></section>${legalBody}</main>`
@@ -519,7 +520,7 @@ function buildLlms(plan) {
   L.push(`- [Tuyên bố sở hữu và chính sách bảo mật](${SITE}/chinh-sach-bao-mat.html#tuyen-bo-so-huu).`, "");
   L.push("## Phạm vi nội dung và thông tin trước đây");
   L.push("Các bài về Đông y, Y học cổ truyền và thể tạng là một phần kho kiến thức đã xuất bản; không đại diện cho định vị toàn bộ IKI hay mô tả tính năng của ứng dụng hiện tại. Những bài giới thiệu thiết kế app cũ được ghi chú rõ; thông tin ứng dụng mới nhất nằm ở /app.html.", "");
-  L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa. Sản phẩm là thực phẩm bổ sung, không phải thuốc.", "");
+  L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa.", "");
   L.push("## Blog — Kiến thức chăm sóc sức khoẻ chủ động");
   L.push(`- [Blog IKI](${SITE}/blog/): lộ trình chăm sóc sức khoẻ chủ động theo từng chặng.`);
   for (const a of plan.articles) if (isPublished(a.slug) && !LEGACY_APP_SLUGS.has(a.slug)) {
