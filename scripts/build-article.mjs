@@ -275,7 +275,7 @@ function render(fm, body) {
     || (Array.isArray(fm.khuyen_cao) && fm.khuyen_cao.includes("thanhHuong"));
   const globalDisclaimer = boChanTrangTPBS ? "" : `
       <div class="global-disclaimer">
-        <p>Các sản phẩm là <strong style="color:rgba(255,255,255,0.78);">thực phẩm bổ sung</strong>, không phải thuốc và không có tác dụng thay thế thuốc chữa bệnh. Kết quả có thể khác nhau tuỳ cơ địa.</p>
+        <p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
       </div>`;
   const relatedHtml = related.length
     ? `<section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul>${related.map((r) => `<li><a href="${escAttr(r.url)}">${esc(r.title)}</a></li>`).join("")}</ul></section>`
