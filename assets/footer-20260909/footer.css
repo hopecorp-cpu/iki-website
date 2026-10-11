@@ -41,3 +41,18 @@ footer.iki-standard-footer{--if-bg:var(--cream,#ffffff);}
 body.course-page footer.iki-standard-footer{--if-bg:var(--cream,#f3f7f2);--if-text:var(--ink,#203b32);--if-muted:var(--muted,#5e7168);--if-line:var(--line,#d4e0d5);--if-accent:var(--rose,#285e4b);}
 body.iki-v2 footer.iki-standard-footer{--if-bg:var(--v-soft,#edf0e5);--if-text:var(--v-ink,#342933);--if-muted:var(--v-muted,#6e6466);--if-line:var(--v-line,#ded6cd);--if-accent:var(--v-accent,#4c603d);}
 footer.iki-standard-footer:has(#hopeLogoF){--if-bg:var(--surface,#ffffff);--if-text:var(--ink,#342933);--if-muted:var(--ink-soft,#766974);--if-line:var(--line,#e3d6d4);--if-accent:var(--brand,#a53653);}
+/* Logo kênh + nút liên hệ nổi (11/10/2026). */
+footer.iki-standard-footer .if-social{flex-wrap:wrap;}
+footer.iki-standard-footer .if-social a:hover{border-color:var(--if-accent);text-decoration:none;}
+footer.iki-standard-footer .if-float{position:fixed;right:16px;bottom:24px;z-index:94;display:flex;flex-direction:column;gap:12px;margin:0;}
+footer.iki-standard-footer .if-float a{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;color:#fff!important;box-shadow:0 4px 14px rgba(0,0,0,.18);transition:transform .15s;}
+footer.iki-standard-footer .if-float a:hover{transform:scale(1.06);text-decoration:none;}
+footer.iki-standard-footer .if-float svg{width:26px;height:26px;}
+footer.iki-standard-footer .if-f-call{background:#1F9D55!important;}
+footer.iki-standard-footer .if-f-mess{background:#0866FF!important;}
+footer.iki-standard-footer .if-f-zalo{background:#0068FF!important;}
+footer.iki-standard-footer .if-f-zalo svg{width:30px;height:30px;}
+body:has(.zalo-chat-widget) footer.iki-standard-footer .if-f-zalo{display:none;}
+body:has(.zalo-chat-widget) footer.iki-standard-footer .if-float{bottom:100px;right:20px;}
+@media (max-width:880px){body:has(.zalo-chat-widget) footer.iki-standard-footer .if-float{bottom:168px;}}
+@media print{footer.iki-standard-footer .if-float{display:none;}}
