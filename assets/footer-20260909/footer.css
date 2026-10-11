@@ -45,7 +45,7 @@ footer.iki-standard-footer:has(#hopeLogoF){--if-bg:var(--surface,#ffffff);--if-t
 footer.iki-standard-footer .if-social{flex-wrap:wrap;}
 footer.iki-standard-footer .if-social a:hover{border-color:var(--if-accent);text-decoration:none;}
 footer.iki-standard-footer .if-float{position:fixed;right:16px;bottom:24px;z-index:94;display:flex;flex-direction:column;gap:12px;margin:0;}
-footer.iki-standard-footer .if-float a{width:52px;height:52px;border-radius:50%;display:grid;place-items:center;color:#fff!important;box-shadow:0 4px 14px rgba(0,0,0,.18);transition:transform .15s;}
+footer.iki-standard-footer .if-float a{width:52px;height:52px;border-radius:8px;display:grid;place-items:center;color:#fff!important;box-shadow:0 4px 14px rgba(0,0,0,.18);transition:transform .15s;}
 footer.iki-standard-footer .if-float a:hover{transform:scale(1.06);text-decoration:none;}
 footer.iki-standard-footer .if-float svg{width:26px;height:26px;}
 footer.iki-standard-footer .if-f-call{background:#1F9D55!important;}
