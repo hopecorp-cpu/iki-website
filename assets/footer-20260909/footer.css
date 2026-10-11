@@ -44,15 +44,15 @@ footer.iki-standard-footer:has(#hopeLogoF){--if-bg:var(--surface,#ffffff);--if-t
 /* Logo kênh + nút liên hệ nổi (11/10/2026). */
 footer.iki-standard-footer .if-social{flex-wrap:wrap;}
 footer.iki-standard-footer .if-social a:hover{border-color:var(--if-accent);text-decoration:none;}
-footer.iki-standard-footer .if-float{position:fixed;right:16px;bottom:24px;z-index:94;display:flex;flex-direction:column;gap:12px;margin:0;}
-footer.iki-standard-footer .if-float a{width:52px;height:52px;border-radius:8px;display:grid;place-items:center;color:#fff!important;box-shadow:0 4px 14px rgba(0,0,0,.18);transition:transform .15s;}
-footer.iki-standard-footer .if-float a:hover{transform:scale(1.06);text-decoration:none;}
-footer.iki-standard-footer .if-float svg{width:26px;height:26px;}
-footer.iki-standard-footer .if-f-call{background:#1F9D55!important;}
-footer.iki-standard-footer .if-f-mess{background:#0866FF!important;}
-footer.iki-standard-footer .if-f-zalo{background:#0068FF!important;}
-footer.iki-standard-footer .if-f-zalo svg{width:30px;height:30px;}
-body:has(.zalo-chat-widget) footer.iki-standard-footer .if-f-zalo{display:none;}
-body:has(.zalo-chat-widget) footer.iki-standard-footer .if-float{bottom:100px;right:20px;}
-@media (max-width:880px){body:has(.zalo-chat-widget) footer.iki-standard-footer .if-float{bottom:168px;}}
-@media print{footer.iki-standard-footer .if-float{display:none;}}
+:is(footer,div).iki-standard-footer .if-float{position:fixed;right:16px;bottom:24px;z-index:94;display:flex;flex-direction:column;gap:12px;margin:0;}
+:is(footer,div).iki-standard-footer .if-float a{width:52px;height:52px;border-radius:8px;display:grid;place-items:center;color:#fff!important;box-shadow:0 4px 14px rgba(0,0,0,.18);transition:transform .15s;}
+:is(footer,div).iki-standard-footer .if-float a:hover{transform:scale(1.06);text-decoration:none;}
+:is(footer,div).iki-standard-footer .if-float svg{width:26px;height:26px;}
+:is(footer,div).iki-standard-footer .if-f-call{background:#1F9D55!important;}
+:is(footer,div).iki-standard-footer .if-f-mess{background:#0866FF!important;}
+:is(footer,div).iki-standard-footer .if-f-zalo{background:#0068FF!important;}
+:is(footer,div).iki-standard-footer .if-f-zalo svg{width:30px;height:30px;}
+body:has(.zalo-chat-widget) :is(footer,div).iki-standard-footer .if-f-zalo{display:none;}
+body:has(.zalo-chat-widget) :is(footer,div).iki-standard-footer .if-float{bottom:100px;right:20px;}
+@media (max-width:880px){body:has(.zalo-chat-widget) :is(footer,div).iki-standard-footer .if-float{bottom:168px;}}
+@media print{:is(footer,div).iki-standard-footer .if-float{display:none;}}
