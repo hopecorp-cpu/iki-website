@@ -128,7 +128,7 @@ Nghe thì hiển nhiên, nhưng thiếu nước vẫn là nguyên nhân bên tro
 
 Cách nhận biết đơn giản nhất là nhìn màu nước tiểu: vàng nhạt là ổn, vàng sẫm là đang uống ít. Về lượng, nhu cầu nước mỗi người khác nhau tuỳ cân nặng, mức vận động và thời tiết, nên thay vì đếm cho đủ một con số, hãy uống đều trong ngày: một ly khi vừa ngủ dậy, một ly trước mỗi bữa ăn, và uống mỗi lần đứng dậy khỏi bàn làm việc.
 
-Nước không chỉ đến từ ly nước lọc. Canh, cháo, rau luộc, trái cây mọng nước như cam, bưởi, dưa hấu, và các thức uống ấm đều góp phần. Vào mùa lạnh, nhiều người thấy dễ uống đủ hơn khi đổi một phần nước lọc sang đồ uống ấm — một ấm [trà thảo mộc](https://tra.ikihealing.com) nhẹ để cạnh bàn làm việc, nhấp dần trong buổi chiều, là cách nhiều chị em văn phòng dùng để không quên uống. Bài [uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html) nói kỹ hơn về nhịp uống trong ngày.
+Nước không chỉ đến từ ly nước lọc. Canh, cháo, rau luộc, trái cây mọng nước như cam, bưởi, dưa hấu, và các thức uống ấm đều góp phần. Vào mùa lạnh, nhiều người thấy dễ uống đủ hơn khi đổi một phần nước lọc sang đồ uống ấm — một ấm trà thảo mộc nhẹ để cạnh bàn làm việc, nhấp dần trong buổi chiều, là cách nhiều chị em văn phòng dùng để không quên uống. Bài [uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html) nói kỹ hơn về nhịp uống trong ngày.
 
 ### Hai: vitamin nhóm B — nhóm được nhắc nhiều nhất
 
