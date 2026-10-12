@@ -7,12 +7,12 @@
   "keyword": "thực đơn 7 ngày cho người ăn chay đủ đạm",
   "category": "dinh-duong",
   "date": "2026-08-02",
-  "updated": "2026-08-02",
+  "updated": "2026-10-12",
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/thuc-don-7-ngay-cho-nguoi-an-chay-du-dam-hero.jpg",
   "hero_alt": "Mâm cơm chay với đậu hũ, các loại đậu, rau xanh và gạo lứt trên bàn gỗ",
   "reading_min": 15,
-  "answer": "Một thực đơn chay đủ đạm cần khoảng 1,0–1,2 g đạm cho mỗi kg cân nặng mỗi ngày, tức 50–70 g với người 55 kg. Cách đơn giản nhất là mỗi bữa chính đều có một nguồn đạm rõ ràng: đậu hũ, các loại đậu, tàu hũ ky, tempeh, hạt hoặc ngũ cốc nguyên cám, và kết hợp nhóm đậu với nhóm ngũ cốc trong ngày. Bên cạnh đạm, người ăn chay cần để mắt tới bốn thứ dễ thiếu là vitamin B12, sắt, kẽm và omega-3.",
+  "answer": "Theo Viện Dinh dưỡng Quốc gia (cập nhật 2026), người trưởng thành khỏe mạnh cần khoảng 0,93 g đạm cho mỗi kg cân nặng mỗi ngày, tức khoảng 51 g với người 55 kg. Cách đơn giản nhất là mỗi bữa chính đều có một nguồn đạm rõ ràng: đậu hũ, các loại đậu, tàu hũ ky, tempeh, hạt hoặc ngũ cốc nguyên cám, và kết hợp nhóm đậu với nhóm ngũ cốc trong ngày. Bên cạnh đạm, người ăn chay cần để mắt tới bốn thứ dễ thiếu là vitamin B12, sắt, kẽm và omega-3.",
   "faq": [
     {
       "q": "Người ăn chay có bị thiếu đạm không?",
@@ -20,7 +20,7 @@
     },
     {
       "q": "Người ăn chay cần bao nhiêu đạm mỗi ngày?",
-      "a": "Mức tham khảo phổ biến là 1,0–1,2 g cho mỗi kg cân nặng mỗi ngày, nhỉnh hơn một chút so với người ăn mặn vì đạm thực vật thường được cơ thể tận dụng kém hơn đôi chút và đi kèm nhiều chất xơ. Người 55 kg cần khoảng 55–66 g đạm; người tập luyện đều hoặc trên 50 tuổi có thể cần 1,2–1,5 g/kg."
+      "a": "Viện Dinh dưỡng Quốc gia (cập nhật 2026) khuyến nghị khoảng 0,93 g cho mỗi kg cân nặng mỗi ngày với người trưởng thành khỏe mạnh; mức này dành chung cho mọi người, chưa có khuyến nghị riêng cho người ăn chay. Người 55 kg cần khoảng 51 g đạm, ăn đa dạng đậu, hạt và ngũ cốc trong ngày; người tập luyện đều hoặc trên 50 tuổi có thể cần 1,2–1,5 g/kg."
     },
     {
       "q": "Ăn chay có cần kết hợp đậu với ngũ cốc trong cùng một bữa không?",
@@ -83,13 +83,13 @@ Nói cách khác, khó khăn của người ăn chay Việt không phải thiế
 
 ## Cần bao nhiêu đạm mỗi ngày
 
-Mức tham khảo phổ biến cho người trưởng thành ăn chay là khoảng **1,0–1,2 g đạm cho mỗi kg cân nặng mỗi ngày** — nhỉnh hơn một chút so với người ăn mặn. Lý do là đạm thực vật thường được cơ thể tận dụng kém hơn đôi chút, và lượng chất xơ đi kèm cũng ảnh hưởng phần nào đến hấp thu.
+Theo [bản cập nhật Nhu cầu dinh dưỡng khuyến nghị cho người Việt Nam 2026 của Viện Dinh dưỡng Quốc gia](https://viendinhduong.vn/vi/article/tin-tuc/6a70094d06fb0c475f0ac123), người trưởng thành khỏe mạnh cần khoảng **0,93 g đạm cho mỗi kg cân nặng mỗi ngày**. Đây là mức chung, chưa có khuyến nghị riêng cho người ăn chay. Bản 2026 cũng không còn đặt tỷ lệ bắt buộc giữa đạm động vật và đạm thực vật; điều quan trọng là phối hợp đa dạng nguồn đạm trong ngày.
 
 Quy đổi thành con số cụ thể:
 
-- Người 45 kg: khoảng 45–54 g đạm mỗi ngày.
-- Người 55 kg: khoảng 55–66 g.
-- Người 65 kg: khoảng 65–78 g.
+- Người 45 kg: khoảng 42 g đạm mỗi ngày.
+- Người 55 kg: khoảng 51 g.
+- Người 65 kg: khoảng 60 g.
 - Người tập luyện đều hoặc trên 50 tuổi: nâng lên 1,2–1,5 g/kg.
 
 Cách chia quan trọng không kém tổng lượng. Cơ thể không dự trữ đạm để dùng dần, nên **rải đều 18–25 g vào mỗi bữa chính** hiệu quả hơn nhiều so với dồn hết vào bữa tối. Bạn có thể đọc kỹ hơn ở bài [Cần bao nhiêu đạm mỗi ngày là đủ](can-bao-nhieu-dam-moi-ngay.html).
