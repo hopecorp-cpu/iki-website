@@ -10,7 +10,7 @@
   "updated": "2026-10-03",
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/dau-nanh-trong-bua-com-viet-hero.jpg",
-  "hero_alt": "Bát gốm xanh nhạt đặt trên đĩa gỗ, bên cạnh chén sứ trắng và lọ thuỷ tinh cắm cành lá xanh trên bàn gỗ (ảnh minh hoạ tạo bằng AI)",
+  "hero_alt": "Bát gốm xanh nhạt đặt trên đĩa gỗ, bên cạnh chén sứ trắng và lọ thuỷ tinh cắm cành lá xanh trên bàn gỗ",
   "category": "thuc-pham",
   "reading_min": 8,
   "no_product": true,

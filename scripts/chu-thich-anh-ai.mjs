@@ -13,8 +13,10 @@ export const CSS_CHU_THICH_AI = `
     .post-hero-fig .post-hero-img{display:block}
     .post-hero-cap{margin:8px 0 0;font-family:var(--font-sans,'Manrope'),system-ui,-apple-system,'Segoe UI',Roboto,Arial,sans-serif;font-size:13px;line-height:1.5;font-style:normal;font-weight:400;color:#4A4A4A}`;
 
+// CEO 12/10/2026 (đè quy tắc TH 07/10): "không giữ và cũng không có dòng chú thích" -> TẮT HẲN với mọi bài,
+// kể cả bài có "anh_ai": true. Cờ anh_ai vẫn để trong bản nháp làm hồ sơ nguồn ảnh, không còn in ra trang.
 export function coChuThichAi(fm, heroSrc) {
-  return Boolean(heroSrc) && fm.anh_ai === true;
+  return false;
 }
 
 // imgHtml: thẻ <img class="post-hero-img" ...> đã dựng sẵn. Trả về chuỗi HTML đặt vào khối .post-hero.

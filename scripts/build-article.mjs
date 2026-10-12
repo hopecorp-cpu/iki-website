@@ -7,7 +7,7 @@
  * KHÔNG thư viện ngoài — MD converter tối giản đủ dùng (h2/h3, ul/ol, blockquote,
  *   :::case / :::note box, **bold** *italic* [link](url), đoạn văn).
  *
- * Frontmatter "anh_ai": true → in chú thích ảnh AI dưới hero (mặc định TẮT).
+ * Chú thích ảnh AI dưới hero: TẮT HẲN (CEO 12/10/2026), cờ "anh_ai" không còn in ra trang.
  *
  * Chạy:  node scripts/build-article.mjs blog-drafts/<slug>.md
  *        node scripts/build-article.mjs --all        (dựng lại toàn bộ blog-drafts)
@@ -27,7 +27,7 @@ import { khoiCauNoi, CSS_CAU_NOI } from "./cau-noi-chi-muc.mjs";
 import { ogPinDoc } from "./pin-bai.mjs";
 import { laDongBang, laDongPhanCach, dungBang, CSS_BANG } from "./bang-markdown.mjs";
 import { inline, nhanChuyenMuc } from "./md-inline.mjs";
-// Chú thích "Ảnh minh hoạ được tạo bằng AI." dưới hero: CHỈ bật khi frontmatter có "anh_ai": true
+// Chú thích ảnh AI dưới hero: CEO 12/10/2026 TẮT HẲN (đè quy tắc TH 07/10 bên dưới); coChuThichAi luôn false.
 // (TH chốt 07/10 10:44). Không cờ / false → tắt. Logic ở chu-thich-anh-ai.mjs (coChuThichAi).
 import { heroHtml, coChuThichAi, CSS_CHU_THICH_AI } from "./chu-thich-anh-ai.mjs";
 
