@@ -1,5 +1,7 @@
 # Ảnh AI — ngoại lệ
 
+**CEO 12/10/2026 đè quyết định TH 07/10 dưới đây: KHÔNG có dòng chú thích ảnh AI trên trang nào.** Đã gỡ khỏi 594 trang (VI 428, EN 88, JA 78) và tắt trong `scripts/chu-thich-anh-ai.mjs`. Cờ `anh_ai` trong bản nháp giữ làm hồ sơ nguồn ảnh, không in ra trang. Ảnh hero cũ đang được thay dần bằng ảnh làm qua giao diện ChatGPT. Phần dưới là lịch sử.
+
 TH chốt 07/10/2026: 18 bài EXISTING và 366 ảnh hero không rõ nguồn gắn `anh_ai: true` và câu chú thích, trừ ảnh có bằng chứng là ảnh thật hoặc ảnh kho có giấy phép. Bằng chứng được nhận: code máy viết gọi Unsplash/Pexels cho đúng ảnh đó, EXIF máy ảnh (Make/Model) trong file, hoặc file gốc của IKI. Ảnh được trừ thì bỏ cờ; nếu giấy phép đòi ghi nguồn thì thêm credit.
 
 Phạm vi: 383 file. 366 file trong danh sách không rõ nguồn, cộng 17 file `{slug}-hero.jpg` của nhóm EXISTING. Bài `lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau` dùng `assets/blog/lo-trinh-nguoi-moi-hero.jpg`, file này đã nằm trong 366.

@@ -23,34 +23,14 @@ const capCss = (CSS_CHU_THICH_AI.match(/\.post-hero-cap\{[^}]*\}/) || [""])[0];
 const src = fs.readFileSync(path.join(path.dirname(fileURLToPath(import.meta.url)), "build-article.mjs"), "utf8");
 
 const CA = [
-  // [ten, ra, mong]
-  ["chu dung nguyen van", CHU_THICH_AI, "Ảnh minh hoạ được tạo bằng AI."],
-  ["anh_ai:true + hero -> bat", coChuThichAi({ anh_ai: true }, "x.png"), true],
-  ["KHONG co co + co hero -> tat (mac dinh tat)", coChuThichAi({}, "x.png"), false],
-  ["bai khong co -> chi anh, khong figure/figcaption", khongCo, IMG],
-  ["bai khong co -> khong co chu AI", /figcaption|figure|Ảnh minh hoạ được tạo bằng AI/.test(khongCo), false],
-  ["anh_ai chuoi \"true\" -> tat (chi nhan boolean)", coChuThichAi({ anh_ai: "true" }, "x.png"), false],
-  ["anh_ai:1 -> tat", coChuThichAi({ anh_ai: 1 }, "x.png"), false],
-  ["anh_ai:false -> tat", coChuThichAi({ anh_ai: false }, "x.png"), false],
-  ["khong co co -> khong chen CSS", coChuThichAi({ slug: "a" }, "../assets/blog/a-hero.png"), false],
-  ["co hero -> figure bao anh", coHero.startsWith('<figure class="post-hero-fig">') && coHero.trimEnd().endsWith("</figure>"), true],
-  ["anh nam trong figure, nguyen the img", coHero.includes(IMG), true],
-  ["figcaption ngay sau anh", /<img class="post-hero-img"[^>]*\/>\s*<figcaption class="post-hero-cap">Ảnh minh hoạ được tạo bằng AI\.<\/figcaption>\s*<\/figure>$/.test(coHero), true],
-  ["dung 1 figcaption", (coHero.match(/<figcaption/g) || []).length, 1],
-  ["anh_ai:false -> chi anh, khong chu thich", tat, IMG],
-  ["anh_ai:true + hero_image remote -> co chu thich", bat.includes(CHU_THICH_AI), true],
-  ["khong hero -> rong, ke ca anh_ai:true", heroHtml({ anh_ai: true }, "", "") + khongHero, ""],
-  ["khong hero -> khong chen CSS", coChuThichAi({ anh_ai: true }, ""), false],
-  ["css co 13px", /font-size:13px/.test(capCss), true],
-  ["css mau #4A4A4A", mau, "#4A4A4A"],
-  ["tuong phan tren nen trang >= 4.5", tuongPhan(mau || "#FFFFFF", "#FFFFFF") >= 4.5, true],
-  ["css chu dung (font-style:normal)", /font-style:normal/.test(capCss), true],
-  ["css khong italic", /italic/i.test(CSS_CHU_THICH_AI), false],
-  ["css khong monospace", /monospace|courier|consolas|menlo/i.test(CSS_CHU_THICH_AI), false],
-  ["chu thich khong dung em/i", /<(em|i)>/.test(coHero), false],
+  // [ten, ra, mong] — CEO 12/10/2026: khong bao gio in chu thich anh AI
+  ["anh_ai:true + hero -> TAT (CEO 12/10)", coChuThichAi({ anh_ai: true }, "x.png"), false],
+  ["anh_ai:true -> chi anh, khong figure/figcaption", coHero, IMG],
+  ["anh_ai:true remote -> khong chu AI", /figcaption|Ảnh minh hoạ được tạo bằng AI/.test(bat), false],
+  ["khong co co -> chi anh", khongCo, IMG],
+  ["anh_ai:false -> chi anh", tat, IMG],
+  ["khong hero -> rong", heroHtml({ anh_ai: true }, "", "") + khongHero, ""],
   ["noi day: build-article goi heroHtml cho anh hero", /heroHtml\(fm, heroSrc, `<img class="post-hero-img"/.test(src), true],
-  ["noi day: CSS chi chen khi co chu thich", src.includes('${coChuThichAi(fm, heroSrc) ? CSS_CHU_THICH_AI : ""}'), true],
-  ["noi day: khong con img hero tran ngoai heroHtml", /\$\{heroSrc \? `<img class="post-hero-img"/.test(src), false],
 ];
 
 let dat = 0, truot = 0;
@@ -59,6 +39,5 @@ for (const [ten, ra, mong] of CA) {
   ok ? dat++ : truot++;
   console.log(`  ${ok ? "dat  " : "TRUOT"} ${ten}${ok ? "" : ` -> ${JSON.stringify(ra)}`}`);
 }
-console.log(`  (tuong phan #4A4A4A/#FFFFFF = ${tuongPhan(mau || "#FFFFFF", "#FFFFFF").toFixed(2)}:1)`);
 console.log(`\nKET QUA: ${dat} dat / ${truot} truot`);
 process.exit(truot ? 1 : 0);

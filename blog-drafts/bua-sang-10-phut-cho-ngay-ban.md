@@ -9,7 +9,7 @@
   "updated": "2026-10-09",
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/bua-sang-10-phut-cho-ngay-ban-hero.png",
-  "hero_alt": "Bánh mì kẹp trứng ốp, dưa chuột và cà chua trên đĩa trắng, bát xôi rắc muối vừng lạc, hai quả chuối và cốc nước lọc trên bàn gỗ sáng (ảnh minh hoạ tạo bằng AI)",
+  "hero_alt": "Bánh mì kẹp trứng ốp, dưa chuột và cà chua trên đĩa trắng, bát xôi rắc muối vừng lạc, hai quả chuối và cốc nước lọc trên bàn gỗ sáng",
   "anh_ai": true,
   "category": "dinh-duong",
   "reading_min": 6,
