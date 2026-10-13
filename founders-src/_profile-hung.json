@@ -1,0 +1,99 @@
+{
+  "slug": "nguyen-van-hung",
+  "vi": {
+    "eyebrow": "HỒ SƠ NHÀ SÁNG LẬP",
+    "title": "Người dựng doanh nghiệp D2C HealthTech chạy bằng AI tại Việt Nam",
+    "desc": "Nguyễn Văn Hưng, Founder kiêm CEO HOPE CORP (IKI Beauty & Wellness): kỹ sư phần mềm, hơn 12 năm trong doanh nghiệp Nhật, đang vận hành công ty bằng hệ thống AI ba lớp.",
+    "stats": [
+      {
+        "n": "12 người",
+        "l": "Đội ngũ, 9 người toàn thời gian"
+      },
+      {
+        "n": ">60%",
+        "l": "Công việc do hệ thống AI 3 lớp tự động hoá"
+      },
+      {
+        "n": "1.294",
+        "l": "Khách trả tiền, tháng 3 đến tháng 9/2026"
+      },
+      {
+        "n": "40,5%",
+        "l": "Khách mới quay lại mua"
+      },
+      {
+        "n": "~66%",
+        "l": "Doanh thu đến từ khách mua lặp"
+      },
+      {
+        "n": "~1%",
+        "l": "Chi phí quảng cáo trên doanh thu"
+      }
+    ],
+    "body": "## Tôi làm gì\n\nTôi vận hành một doanh nghiệp D2C ngành sức khoẻ và sắc đẹp bằng AI, và chính tôi là người thiết kế hệ thống đó. Tôi là Founder, Chủ tịch HĐQT, CEO kiêm COO của HOPE CORP (HOPE SERVICE CORPORATION), thương hiệu IKI Beauty & Wellness: chăm sóc sức khoẻ và sắc đẹp từ bên trong cho phụ nữ và gia đình Việt. Tôi đồng thời đóng vai Chief AI Officer của chính công ty mình. AI ở đây không phải một dự án thử nghiệm đặt cạnh doanh nghiệp, mà nằm trong công việc hằng ngày: chăm sóc khách, nội dung, báo cáo, kiểm soát rủi ro. Tôi xuất thân kỹ sư phần mềm và có hơn 12 năm làm việc trong doanh nghiệp Nhật, nên quen với kỷ luật quy trình và thói quen nói bằng số đã kiểm chứng.\n\n## Bằng chứng từ doanh nghiệp thật\n\nNhững con số dưới đây là của HOPE CORP, đã đối soát, không phải ước tính cho đẹp hồ sơ.\n\n- Đội 12 người (9 toàn thời gian), vận hành cùng hệ thống AI 3 lớp nối với CRM; hơn 60% khối lượng công việc được tự động hoá.\n- 1.294 khách trả tiền từ tháng 3 đến tháng 9/2026; 40,5% khách mới quay lại mua; khách mua lặp tạo khoảng 66% doanh thu.\n- Biên gộp khoảng 60 đến 65%. Doanh thu thuần 9 tháng đầu 2026 khoảng 3,57 tỷ đồng (khoảng US$137K), run-rate khoảng US$170K mỗi năm. Chi phí quảng cáo chỉ khoảng 1% doanh thu.\n- Cộng đồng khoảng 240 nghìn người theo dõi và khoảng 9.700 thành viên Zalo. Học Viện IKI có hơn 400 bài. App IKI Beauty & Wellness đã lên App Store.\n- Chăm sóc khách: trong 30 ngày tới 10/10/2026, thời gian trả lời trung vị là 1 phút và 80% tin nhắn được đáp trong 15 phút.\n- Chất lượng AI được chấm mỗi Chủ nhật bằng 4 bộ đề tự động. Điểm ngày 10/10/2026: 20/22, 16/16, 15/15 và 12/13.\n- Tháng 10/2026, HOPE CORP là thành viên chương trình Claude Startups của Anthropic.\n\nVề kiểm soát: AI soạn nháp, người duyệt thì mới gửi. Máy không có quyền chuyển tiền. Chế độ quảng cáo tự chạy mặc định tắt, và có trần chi 1 triệu đồng mỗi ngày.\n\n## Những khung làm việc tôi dựng\n\n### AI đọc rộng, ghi hẹp\nAI được phép đọc nhiều nguồn dữ liệu để hiểu bức tranh, nhưng quyền ghi, gửi, chi tiền thì rất hẹp và có người duyệt. Rộng ở đầu vào giúp AI hữu ích; hẹp ở đầu ra giúp tôi ngủ yên.\n\n### Tổ chức AI ba lớp: điều hành, phòng ban, tác vụ\nLớp điều hành nhìn toàn công ty, lớp phòng ban hiểu nghiệp vụ từng mảng, lớp tác vụ làm từng việc nhỏ lặp lại. Tách lớp để mỗi phần có thể đo, sửa và thay thế mà không làm đổ cả hệ thống.\n\n### Vòng lặp LÀM, ĐO, HỌC\nMỗi việc có kết quả thật, được đo so với kế hoạch, rồi bài học được nạp ngược vào hệ thống. Không có bước học thì tự động hoá chỉ là lặp lại sai lầm nhanh hơn.\n\n### Mô hình sáu mảnh của một tổ chức\nTầm nhìn, chiến lược, năng lực, phần thưởng, nguồn lực, khẩn thiết. Thiếu mảnh nào ra triệu chứng đó: nhầm lẫn, khởi động sai, lo ngại, hạn chế phản ứng, nản lòng, thờ ơ. Tôi dùng khung này để chẩn đoán đội ngũ trước khi nghĩ tới công cụ.\n\n### Chỉ công bố số đã đối soát, một bộ số cho mọi hồ sơ\nMọi con số đi ra ngoài đều được đối chiếu với nguồn gốc, và dùng cùng một bộ số cho nhà đầu tư, đối tác, đơn đăng ký. Số nhỏ mà thật còn hơn số lớn mà phải giải thích. Bài viết về nguyên tắc này: [Chỉ công bố số đã đối soát](/founders/chi-cong-bo-so-da-doi-soat.html).\n\n### Rào pháp lý viết bằng code\nIKI là thực phẩm bổ sung. Các quy tắc về cách nói với khách được đưa thẳng vào hệ thống kiểm tra nội dung, để AI không thể vô tình vượt rào, thay vì chỉ nhắc bằng văn bản.\n\n## Hành trình\n\n- Kumamoto, Nhật Bản: học Khoa học Thông tin (kỹ thuật phần mềm) tại Đại học Sojo. Năm nào cũng có học bổng, luận văn tốt nghiệp xuất sắc, là người Việt duy nhất trong khoa hơn 150 sinh viên. Thời sinh viên tôi làm đủ nghề: cửa hàng tiện lợi ca đêm, xưởng linh kiện ô tô, McDonald's, nhà hàng, dạy tiếng Việt, phiên dịch.\n- Hơn 12 năm trong doanh nghiệp Nhật (FPT Software Japan, Scuti Japan): hơn 7 năm làm Kỹ sư cầu nối (BrSE), sau đó là Quản lý kinh doanh.\n- Hiện đang học Thạc sĩ Luật Kinh tế.\n- 23/08/2023: thành lập HOPE CORP, xây thương hiệu IKI Beauty & Wellness.\n- 2026: đội 12 người vận hành cùng hệ thống AI ba lớp; tháng 10 là thành viên Claude Startups; đang gọi vốn Pre-seed.\n\n## Tôi có thể chia sẻ về\n\n- AI trong vận hành doanh nghiệp D2C: từ chăm sóc khách đến báo cáo điều hành.\n- AI trong ngành sức khoẻ có kiểm soát pháp lý.\n- Xây đội nhỏ dùng AI làm đòn bẩy.\n- Gọi vốn bằng số đã đối soát.\n\nCâu tôi hay nói:\n\n> Mỗi người có một múi giờ riêng.\n\n## Làm việc cùng tôi\n\nTôi đang gọi vốn Pre-seed US$250K cho 20%. Vốn dự kiến dùng 40% để scale thương hiệu, 30% cho R&D dòng làm đẹp và sản phẩm dinh dưỡng chủ lực, 30% cho kênh và chương trình khách quay lại. Tôi muốn nói chuyện với:\n\n- **Nhà đầu tư Pre-seed** quan tâm D2C và healthtech. Tổng quan dành cho nhà đầu tư: [/investor/](/investor/).\n- **Đối tác kênh và thị trường** muốn đưa thương hiệu tới khách mới.\n- **Đối tác sản xuất và R&D** trong lĩnh vực làm đẹp và dinh dưỡng.\n\nLiên hệ: contact@ikihealing.com. Nếu muốn bắt đầu bằng một bài đọc, mời xem [Chỉ công bố số đã đối soát](/founders/chi-cong-bo-so-da-doi-soat.html).\n"
+  },
+  "en": {
+    "eyebrow": "FOUNDER PROFILE",
+    "title": "Building Vietnam's AI-operated D2C HealthTech company",
+    "desc": "Nguyen Van Hung, founder and CEO of HOPE CORP (IKI Beauty & Wellness): software engineer, 12+ years in Japanese companies, now running his company on a three-layer AI system.",
+    "stats": [
+      {
+        "n": "12 people",
+        "l": "Team, 9 of them full-time"
+      },
+      {
+        "n": ">60%",
+        "l": "Of work automated by a 3-layer AI system"
+      },
+      {
+        "n": "1,294",
+        "l": "Paying customers, Mar to Sep 2026"
+      },
+      {
+        "n": "40.5%",
+        "l": "Of new customers buy again"
+      },
+      {
+        "n": "~66%",
+        "l": "Of revenue from repeat customers"
+      },
+      {
+        "n": "~1%",
+        "l": "Ad spend as a share of revenue"
+      }
+    ],
+    "body": "## What I do\n\nI run a D2C health and beauty company on AI, and I designed the system myself. I am the Founder, Chairman, CEO and COO of HOPE CORP (HOPE SERVICE CORPORATION), the company behind IKI Beauty & Wellness: inside-out health and beauty care for Vietnamese women and families. I also act as Chief AI Officer of my own company. AI here is not a side experiment next to the business. It sits inside daily work: customer care, content, reporting and risk control. I started as a software engineer and spent more than 12 years in Japanese companies, so process discipline and speaking in verified numbers come naturally to me.\n\n## Evidence from a real business\n\nThese are HOPE CORP's own numbers. They are reconciled, not rounded up for a deck.\n\n- A team of 12 (9 full-time), working with a three-layer AI system connected to the CRM. More than 60% of the workload is automated.\n- 1,294 paying customers from March to September 2026. 40.5% of new customers buy again, and repeat customers generate about 66% of revenue.\n- Gross margin of roughly 60 to 65%. Net revenue for the first nine months of 2026 was about VND 3.57 billion (about US$137K), a run-rate of about US$170K a year. Advertising is only about 1% of revenue.\n- A community of about 240,000 followers and about 9,700 Zalo members. IKI Academy has more than 400 lessons. The IKI Beauty & Wellness app is live on the App Store.\n- Customer care: over the 30 days to 10 October 2026, median reply time was 1 minute and 80% of messages were answered within 15 minutes.\n- AI quality is graded every Sunday by four automated test sets. Scores on 10 October 2026: 20/22, 16/16, 15/15 and 12/13.\n- In October 2026, HOPE CORP became a member of Anthropic's Claude Startups program.\n\nOn control: AI drafts, and a person approves before anything is sent. The machine has no authority to move money. Automated advertising is off by default, with a spending cap of VND 1 million per day.\n\n## Frameworks I have built\n\n### AI reads wide, writes narrow\nAI may read many data sources so it understands the whole picture, but its power to write, send or spend is narrow and always has a human check. Wide inputs make AI useful. Narrow outputs let me sleep.\n\n### A three-layer AI organization: executive, department, task\nThe executive layer sees the whole company, the department layer understands each function, and the task layer does small repeatable jobs. Separating the layers means each part can be measured, fixed or replaced without bringing down the rest.\n\n### The loop: DO, MEASURE, LEARN\nEvery job produces a real result, is measured against the plan, and the lesson is fed back into the system. Without the learning step, automation just repeats mistakes faster.\n\n### The six-piece model of an organization\nVision, strategy, capability, reward, resources, urgency. A missing piece produces its own symptom: confusion, false starts, anxiety, limited response, frustration, indifference. I use this to diagnose the team before I think about tools.\n\n### Publish only reconciled numbers, one set of numbers for every document\nEvery figure that leaves the company is checked against its source, and the same set is used for investors, partners and applications. A small true number beats a big one that needs explaining. Essay on this principle: [Publish Only Reconciled Numbers](/en/founders/chi-cong-bo-so-da-doi-soat.html).\n\n### Legal guardrails written in code\nIKI is a dietary supplement. The rules on how we speak to customers are built into the content-checking system, so AI cannot cross them by accident, rather than relying on a reminder in a document.\n\n## Journey\n\n- Kumamoto, Japan: studied Information Science (software engineering) at Sojo University. Scholarship every year, an outstanding graduation thesis, and the only Vietnamese student in a department of more than 150. Along the way I worked many jobs: night shifts at a convenience store, an auto parts factory, McDonald's, a restaurant, teaching Vietnamese, interpreting.\n- More than 12 years in Japanese companies (FPT Software Japan, Scuti Japan): over 7 years as a Bridge System Engineer (BrSE), then Business Manager.\n- Currently pursuing a Master's in Economic Law.\n- 23 August 2023: founded HOPE CORP and built the IKI Beauty & Wellness brand.\n- 2026: a team of 12 runs alongside a three-layer AI system; in October, joined Claude Startups; currently raising a Pre-seed round.\n\n## What I can speak about\n\n- AI in D2C operations: from customer care to executive reporting.\n- AI in health-related business under legal controls.\n- Building a small team that uses AI as leverage.\n- Raising capital with reconciled numbers.\n\nA line I often say:\n\n> Everyone has their own time zone.\n\n## Work with me\n\nI am raising a US$250K Pre-seed round for 20%. The planned use of funds is 40% to scale the brand, 30% to R&D for the beauty line and the flagship nutrition product, and 30% to channels and the repeat-customer program. I would like to talk with:\n\n- **Pre-seed investors** interested in D2C and healthtech. Investor overview: [/investor/](/investor/).\n- **Channel and market partners** who want to bring the brand to new customers.\n- **Manufacturing and R&D partners** in beauty and nutrition.\n\nContact: contact@ikihealing.com. If you would like to start with one read, see [Publish Only Reconciled Numbers](/en/founders/chi-cong-bo-so-da-doi-soat.html).\n"
+  },
+  "ja": {
+    "eyebrow": "創業者プロフィール",
+    "title": "AIで動くD2Cヘルステック企業を、ベトナムでつくる",
+    "desc": "グエン・ヴァン・フン。HOPE CORP（IKI Beauty & Wellness）創業者兼CEO。ソフトウェアエンジニア出身で日系企業に12年以上在籍し、3層のAIシステムで自社を運営しています。",
+    "stats": [
+      {
+        "n": "12名",
+        "l": "チーム（うち9名は常勤）"
+      },
+      {
+        "n": "60%超",
+        "l": "3層AIシステムで自動化された業務"
+      },
+      {
+        "n": "1,294名",
+        "l": "有料顧客（2026年3月から9月）"
+      },
+      {
+        "n": "40.5%",
+        "l": "新規顧客のリピート率"
+      },
+      {
+        "n": "約66%",
+        "l": "リピート顧客による売上比率"
+      },
+      {
+        "n": "約1%",
+        "l": "売上に占める広告費"
+      }
+    ],
+    "body": "## 私の仕事\n\n私は、AIを使ってヘルス＆ビューティー分野のD2C事業を運営しており、そのシステムも自ら設計しています。HOPE CORP（HOPE SERVICE CORPORATION）の創業者、取締役会長、CEO兼COOであり、ブランド「IKI Beauty & Wellness」を通じて、ベトナムの女性とご家族に、内側からの健康と美しさのケアをお届けしています。同時に、自社のChief AI Officerも務めています。当社にとってAIは事業の脇にある実験ではなく、顧客対応、コンテンツ、レポート、リスク管理といった日々の業務の中にあります。もともとソフトウェアエンジニアで、日系企業に12年以上在籍しましたので、プロセスの規律と、検証済みの数字で語ることが身についています。\n\n## 実在する事業での根拠\n\n以下はHOPE CORP自身の数字です。突合済みであり、見栄えのために丸めたものではありません。\n\n- チームは12名（常勤9名）で、CRMと連携した3層のAIシステムと共に働いています。業務の60%超を自動化しています。\n- 2026年3月から9月の有料顧客は1,294名。新規顧客の40.5%が再購入し、リピート顧客が売上の約66%を生み出しています。\n- 粗利率は約60〜65%。2026年の最初の9か月の純売上は約35.7億ドン（約13.7万米ドル）、年換算で約17万米ドルです。広告費は売上の約1%にとどまります。\n- コミュニティはフォロワー約24万人、Zaloメンバー約9,700人。IKIアカデミーには400本以上のレッスンがあり、アプリ「IKI Beauty & Wellness」はApp Storeで公開済みです。\n- 顧客対応：2026年10月10日までの30日間で、返信時間の中央値は1分、メッセージの80%に15分以内に返信しました。\n- AIの品質は、毎週日曜日に4つの自動テストセットで採点しています。2026年10月10日の結果は20/22、16/16、15/15、12/13です。\n- 2026年10月、HOPE CORPはAnthropicのClaude Startupsプログラムのメンバーになりました。\n\n管理面では、AIが下書きを作成し、人が承認して初めて送信されます。システムには送金の権限がありません。広告の自動運用は初期設定でオフで、1日あたり100万ドンの上限を設けています。\n\n## 私が構築してきた考え方\n\n### AIは広く読み、狭く書く\nAIは全体像を理解するために多くのデータを読めますが、書き込み、送信、支出の権限は狭く、必ず人の確認が入ります。入力が広いからAIが役立ち、出力が狭いから安心して任せられます。\n\n### 3層のAI組織：経営、部門、タスク\n経営層は会社全体を見渡し、部門層は各機能の業務を理解し、タスク層は繰り返しの小さな作業を担います。層を分けることで、全体を止めずに各部分を測定、修正、交換できます。\n\n### 「実行、測定、学習」のループ\nすべての仕事は実際の成果を出し、計画と比較して測定され、学びがシステムに戻されます。学習の段階がなければ、自動化は間違いを速く繰り返すだけです。\n\n### 組織の「6つの要素」モデル\nビジョン、戦略、能力、報酬、リソース、切迫感。欠けた要素ごとに症状が現れます：混乱、誤った出発、不安、反応の限定、落胆、無関心。ツールを考える前に、このモデルでチームを診断します。\n\n### 突合済みの数字のみ公表し、すべての資料で同じ数字を使う\n社外に出る数字はすべて元データと照合し、投資家、パートナー、各種申請書で同じ一組の数字を使います。説明が必要な大きな数字より、小さくても確かな数字を選びます。この原則についての記事：[突合済みの数字だけを公表する](/ja/founders/chi-cong-bo-so-da-doi-soat.html)。\n\n### コードで書かれた法的ガードレール\nIKIは栄養補助食品です。お客様への表現に関するルールをコンテンツ検査システムに組み込み、文書上の注意喚起に頼らず、AIが誤って一線を越えられないようにしています。\n\n## これまでの歩み\n\n- 日本・熊本：崇城大学で情報科学（ソフトウェア工学）を学びました。毎年奨学金を受け、卒業論文は優秀と評価され、150名超の学科で唯一のベトナム人学生でした。学生時代は、コンビニの夜勤、自動車部品工場、マクドナルド、飲食店、ベトナム語の講師、通訳など、さまざまな仕事をしました。\n- 日系企業で12年以上（FPT Software Japan、Scuti Japan）：7年以上ブリッジSE（BrSE）を務め、その後は営業マネージャーを担当しました。\n- 現在、経済法の修士課程に在学中です。\n- 2023年8月23日：HOPE CORPを設立し、ブランド「IKI Beauty & Wellness」を立ち上げました。\n- 2026年：12名のチームが3層のAIシステムと共に運営。10月にClaude Startupsのメンバーとなり、現在プレシードラウンドの資金調達中です。\n\n## お話しできるテーマ\n\n- D2C運営におけるAI：顧客対応から経営レポートまで。\n- 法的管理下にあるヘルス関連事業でのAI活用。\n- AIをてことして使う少人数チームの作り方。\n- 突合済みの数字による資金調達。\n\nよく口にする言葉があります。\n\n> 人にはそれぞれ、自分の時間帯があります。\n\n## 一緒に取り組みませんか\n\n現在、プレシードで25万米ドルを20%の持分で調達中です。資金の使途は、ブランドの拡大に40%、ビューティーラインと主力の栄養製品のR&Dに30%、チャネルとリピート顧客プログラムに30%を予定しています。次の方々とお話ししたいと考えています。\n\n- **プレシード投資家**：D2Cとヘルステックに関心をお持ちの方。投資家向け概要は[/investor/](/investor/)をご覧ください。\n- **チャネル・市場パートナー**：新しいお客様にブランドを届けたい方。\n- **製造・R&Dパートナー**：美容と栄養の分野の方。\n\nご連絡先：contact@ikihealing.com。まず一本読んでみたい方は、[突合済みの数字だけを公表する](/ja/founders/chi-cong-bo-so-da-doi-soat.html)をご覧ください。\n"
+  }
+}
