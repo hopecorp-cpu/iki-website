@@ -1,3 +1,17 @@
 {
-  "vi": { "title": "Bộ Não Vận Hành: cách một founder D2C HealthTech dựng doanh nghiệp chạy bằng AI", "desc": "Ebook miễn phí khoảng 20 nghìn từ của Nguyễn Văn Hưng: từ sổ đơn hàng, chăm sóc khách, nội dung, rào pháp lý đến gọi vốn, kèm lộ trình 90 ngày và bộ prompt dùng được ngay.", "file": "/founders/ebook/bo-nao-van-hanh-vi.pdf" }
+  "vi": {
+    "title": "Bộ Não Vận Hành: cách một founder D2C HealthTech dựng doanh nghiệp chạy bằng AI",
+    "desc": "Ebook miễn phí khoảng 20 nghìn từ của Nguyễn Văn Hưng: từ sổ đơn hàng, chăm sóc khách, nội dung, rào pháp lý đến gọi vốn, kèm lộ trình 90 ngày và bộ prompt dùng được ngay.",
+    "file": "/founders/ebook/bo-nao-van-hanh-vi.pdf"
+  },
+  "en": {
+    "title": "The Operating Brain: how a D2C HealthTech founder builds a company that runs on AI",
+    "desc": "A free ebook of about 18,000 words by Nguyen Van Hung: order book, customer care, content, regulatory guardrails and fundraising, with a 90-day roadmap and ready-to-use prompts.",
+    "file": "/en/founders/ebook/the-operating-brain-en.pdf"
+  },
+  "ja": {
+    "title": "経営の頭脳：D2Cヘルステック創業者が、AIで動く会社をつくる方法",
+    "desc": "グエン・ヴァン・フンによる無料電子書籍。受注台帳、顧客対応、コンテンツ、法規制のガードレール、資金調達までを、90日ロードマップとすぐ使えるプロンプト集とともにまとめました。",
+    "file": "/ja/founders/ebook/keiei-no-zuno-ja.pdf"
+  }
 }
