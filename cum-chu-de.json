@@ -1,0 +1,84 @@
+{
+  "_ghi_chu": "Cụm chủ đề GĐ2 Chiến dịch Phủ Google (CEO 13/10/2026). scripts/cum-chu-de.mjs đọc file này: vệ tinh link về trụ, trụ liệt kê mọi vệ tinh. Một bài chỉ thuộc một cụm.",
+  "dam-thuc-vat": {
+    "ten": "Đạm thực vật và ăn chay đủ chất",
+    "tru": "can-bao-nhieu-dam-moi-ngay",
+    "ve_tinh": [
+      "dam-thuc-vat-la-gi",
+      "thuc-pham-giau-dam-thuc-vat",
+      "dau-hieu-co-the-thieu-dam",
+      "dam-thuc-vat-va-dong-vat",
+      "an-it-thit-co-thieu-dam-khong",
+      "dam-cho-nguoi-tren-50-giu-khoi-co",
+      "vi-sao-chon-dam-thuc-vat",
+      "true-vegan-protein-la-gi",
+      "dam-dau-nanh-dau-ha-lan-dam-gao-khac-nhau",
+      "30-ngay-dau-uong-dam-thuc-vat",
+      "thuc-don-7-ngay-cho-nguoi-an-chay-du-dam",
+      "an-chay-du-chat-can-bang",
+      "nguoi-an-chay-tap-gym-nen-an-gi",
+      "bua-sang-du-dam-cho-phu-nu-ban-ron",
+      "uong-dam-thuc-vat-bi-day-bung"
+    ]
+  },
+  "dep-tu-ben-trong": {
+    "ten": "Đẹp từ bên trong",
+    "tru": "an-gi-de-da-dep",
+    "ve_tinh": [
+      "dam-va-lan-da-toc-mong",
+      "thuc-pham-tang-sinh-collagen-tu-nhien",
+      "da-kho-thieu-chat-gi",
+      "toc-yeu-rung-dinh-duong",
+      "mong-tay-gion-de-gay-thieu-chat-gi",
+      "chat-chong-oxy-hoa-trong-thuc-pham",
+      "che-do-an-cho-da-mun-khoa-hoc-noi-gi",
+      "cham-soc-da-mua-hanh-kho",
+      "thuc-pham-giau-vitamin-e",
+      "kem-va-thuc-pham-giau-kem",
+      "moi-kho-nut-ne-thieu-chat-gi",
+      "rung-toc-sau-sinh-nen-an-gi",
+      "thuc-pham-giau-selen",
+      "nuoc-ham-xuong-co-bo-khong"
+    ]
+  },
+  "tieu-hoa-nhe-bung": {
+    "ten": "Tiêu hoá và bữa ăn nhẹ bụng",
+    "tru": "chat-xo-loi-khuan-duong-ruot",
+    "ve_tinh": [
+      "tao-bon-tieu-hoa-khoe",
+      "day-bung-kho-tieu-sau-an",
+      "an-nhieu-rau-van-tao-bon-vi-sao",
+      "thuc-pham-len-men-truyen-thong-viet",
+      "do-len-men-nhat-ban",
+      "sua-chua-va-loi-khuan-song",
+      "men-vi-sinh-va-men-tieu-hoa-khac-nhau",
+      "an-cham-nhai-ky",
+      "khong-thich-an-rau-phai-lam-sao",
+      "bua-toi-nhe-de-tieu",
+      "di-bo-sau-an",
+      "an-vat-lanh-manh",
+      "hay-bi-lanh-bung-nen-an-uong-the-nao",
+      "ngu-coc-nguyen-cam-gao-lut"
+    ]
+  },
+  "giac-ngu-buoi-toi": {
+    "ten": "Giấc ngủ và thói quen buổi tối",
+    "tru": "kho-ngu-tran-troc-nep-buoi-toi",
+    "ve_tinh": [
+      "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong",
+      "tra-khong-caffeine-uong-buoi-toi",
+      "tra-thanh-huong-la-gi",
+      "man-hinh-truoc-gio-ngu",
+      "nhip-sinh-hoc-giac-ngu-va-anh-sang",
+      "thoi-quen-doc-sach-truoc-khi-ngu",
+      "ca-phe-va-suc-khoe",
+      "mat-ngu-tien-man-kinh-nen-an-gi",
+      "ngu-muon-anh-huong-lan-da",
+      "hoa-nhai-trong-tra-huong-vi-va-cach-dung",
+      "an-toi-muon-co-sao-khong",
+      "suc-khoe-nguoi-lam-ca-dem",
+      "uong-tra-dung-cach",
+      "ngoi-thien-5-phut-moi-ngay"
+    ]
+  }
+}

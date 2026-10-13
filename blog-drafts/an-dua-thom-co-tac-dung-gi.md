@@ -1,9 +1,9 @@
 ---json
 {
   "title": "Ăn dứa có tác dụng gì? Ăn bao nhiêu là đủ, ăn lúc nào và ai nên thận trọng",
-  "seo_title": "Ăn dứa có tác dụng gì, ăn bao nhiêu là đủ",
+  "seo_title": "Ăn dứa có tác dụng gì? Ăn bao nhiêu, lúc nào là hợp lý",
   "slug": "an-dua-thom-co-tac-dung-gi",
-  "description": "Ăn dứa có tác dụng gì, mỗi ngày nên ăn bao nhiêu, ăn lúc nào thì hợp lý và vì sao hay bị rát lưỡi? Hướng dẫn ăn dứa đúng cách theo thể tạng, kèm lưu ý cho người bụng dạ nhạy cảm.",
+  "description": "Ăn dứa có tác dụng gì, mỗi ngày nên ăn bao nhiêu, ăn lúc nào và vì sao hay bị rát lưỡi? Hướng dẫn ăn dứa đúng cách, kèm lưu ý cho người cần thận trọng.",
   "keyword": "ăn dứa có tác dụng gì",
   "category": "Thực phẩm",
   "date": "2026-08-14",
@@ -13,19 +13,52 @@
   "reading_min": 14,
   "answer": "Ăn dứa có tác dụng gì? Dứa là nguồn vitamin C và chất xơ dồi dào, chứa enzyme bromelain giúp phân giải chất đạm nên nhiều người thấy bụng nhẹ hơn khi ăn dứa sau bữa nhiều thịt. Người trưởng thành nên ăn khoảng 100–150g dứa tươi mỗi lần, 2–3 lần một tuần, ăn sau bữa chính thay vì lúc bụng đói. Người hay ợ nóng, trào ngược hoặc bụng dạ nhạy cảm nên ăn ít và ăn kèm món khác. Dứa là thực phẩm trong bữa ăn hằng ngày, không phải thuốc và không thay thế thuốc.",
   "faq": [
-    {"q": "Ăn dứa có tác dụng gì với cơ thể?", "a": "Dứa cung cấp vitamin C, mangan, chất xơ và nước — những thứ cơ thể cần mỗi ngày. Điểm riêng của dứa là enzyme bromelain có khả năng phân giải chất đạm trong thức ăn, nên nhiều người có cảm giác bụng nhẹ nhàng hơn khi ăn một vài miếng dứa sau bữa nhiều thịt. Đây là đóng góp của một loại trái cây trong bữa ăn cân bằng, không phải tác dụng của thuốc."},
-    {"q": "Mỗi ngày nên ăn bao nhiêu dứa là đủ?", "a": "Khoảng 100–150g dứa tươi mỗi lần, tương đương 2–3 khoanh vừa, và 2–3 lần một tuần là mức hợp lý với người trưởng thành khoẻ mạnh. Ăn nhiều hơn không tốt hơn: dứa có vị chua và lượng đường tự nhiên khá cao, ăn quá nhiều dễ gây rát lưỡi, cồn cào bụng và làm bữa ăn mất cân đối."},
-    {"q": "Ăn dứa lúc nào là hợp lý nhất?", "a": "Tốt nhất là sau bữa chính khoảng 30–60 phút, hoặc ăn kèm ngay trong bữa như một phần món tráng miệng. Nên tránh ăn dứa khi bụng hoàn toàn trống, vì vị chua và enzyme trong dứa dễ gây cảm giác cồn cào, xót ruột ở người có dạ dày nhạy cảm."},
-    {"q": "Vì sao ăn dứa bị rát lưỡi, làm sao đỡ?", "a": "Cảm giác rát là do bromelain tác động lên lớp niêm mạc mỏng ở lưỡi và khoang miệng, cộng thêm vị chua của dứa. Cách đơn giản là ngâm miếng dứa đã gọt trong nước muối loãng vài phút rồi rửa lại, ăn kèm sữa chua hoặc một chút muối, và chọn quả chín vừa thay vì quả còn xanh. Nếu vẫn rát nhiều lần, nên giảm lượng ăn."},
-    {"q": "Ai nên thận trọng khi ăn dứa?", "a": "Người hay ợ nóng, trào ngược dạ dày, viêm loét dạ dày, người đang dùng thuốc chống đông máu, phụ nữ mang thai ba tháng đầu và người từng dị ứng với dứa nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi ăn thường xuyên. Trẻ nhỏ nên ăn lượng ít và ăn dứa chín kỹ."},
-    {"q": "Uống nước ép dứa có giống ăn dứa nguyên miếng không?", "a": "Không hoàn toàn. Khi ép, phần lớn chất xơ bị bỏ lại trong bã, nên ly nước ép ngọt hơn và no lâu kém hơn miếng dứa nguyên. Nếu bạn muốn giữ cảm giác nhẹ bụng và bền năng lượng, ăn nguyên miếng vẫn là lựa chọn hợp lý hơn; còn nếu ép, hãy uống lượng vừa và không thêm đường."}
+    {
+      "q": "Ăn dứa có tác dụng gì với cơ thể?",
+      "a": "Dứa cung cấp vitamin C, mangan, chất xơ và nước — những thứ cơ thể cần mỗi ngày. Điểm riêng của dứa là enzyme bromelain có khả năng phân giải chất đạm trong thức ăn, nên nhiều người có cảm giác bụng nhẹ nhàng hơn khi ăn một vài miếng dứa sau bữa nhiều thịt. Đây là đóng góp của một loại trái cây trong bữa ăn cân bằng, không phải tác dụng của thuốc."
+    },
+    {
+      "q": "Mỗi ngày nên ăn bao nhiêu dứa là đủ?",
+      "a": "Khoảng 100–150g dứa tươi mỗi lần, tương đương 2–3 khoanh vừa, và 2–3 lần một tuần là mức hợp lý với người trưởng thành khoẻ mạnh. Ăn nhiều hơn không tốt hơn: dứa có vị chua và lượng đường tự nhiên khá cao, ăn quá nhiều dễ gây rát lưỡi, cồn cào bụng và làm bữa ăn mất cân đối."
+    },
+    {
+      "q": "Ăn dứa lúc nào là hợp lý nhất?",
+      "a": "Tốt nhất là sau bữa chính khoảng 30–60 phút, hoặc ăn kèm ngay trong bữa như một phần món tráng miệng. Nên tránh ăn dứa khi bụng hoàn toàn trống, vì vị chua và enzyme trong dứa dễ gây cảm giác cồn cào, xót ruột ở người có dạ dày nhạy cảm."
+    },
+    {
+      "q": "Vì sao ăn dứa bị rát lưỡi, làm sao đỡ?",
+      "a": "Cảm giác rát là do bromelain tác động lên lớp niêm mạc mỏng ở lưỡi và khoang miệng, cộng thêm vị chua của dứa. Cách đơn giản là ngâm miếng dứa đã gọt trong nước muối loãng vài phút rồi rửa lại, ăn kèm sữa chua hoặc một chút muối, và chọn quả chín vừa thay vì quả còn xanh. Nếu vẫn rát nhiều lần, nên giảm lượng ăn."
+    },
+    {
+      "q": "Ai nên thận trọng khi ăn dứa?",
+      "a": "Người hay ợ nóng, trào ngược dạ dày, viêm loét dạ dày, người đang dùng thuốc chống đông máu, phụ nữ mang thai ba tháng đầu và người từng dị ứng với dứa nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi ăn thường xuyên. Trẻ nhỏ nên ăn lượng ít và ăn dứa chín kỹ."
+    },
+    {
+      "q": "Uống nước ép dứa có giống ăn dứa nguyên miếng không?",
+      "a": "Không hoàn toàn. Khi ép, phần lớn chất xơ bị bỏ lại trong bã, nên ly nước ép ngọt hơn và no lâu kém hơn miếng dứa nguyên. Nếu bạn muốn giữ cảm giác nhẹ bụng và bền năng lượng, ăn nguyên miếng vẫn là lựa chọn hợp lý hơn; còn nếu ép, hãy uống lượng vừa và không thêm đường."
+    }
   ],
   "related": [
-    {"title": "Ăn hoa quả trước hay sau bữa ăn thì tốt hơn", "url": "an-hoa-qua-truoc-hay-sau-bua-an.html"},
-    {"title": "Đầy bụng khó tiêu sau ăn: hiểu đúng và điều chỉnh", "url": "day-bung-kho-tieu-sau-an.html"},
-    {"title": "Trái cây theo mùa ở Việt Nam", "url": "trai-cay-theo-mua-o-viet-nam.html"},
-    {"title": "Vitamin C và sức đề kháng", "url": "vitamin-c-va-de-khang.html"},
-    {"title": "Nước ép và sinh tố dùng đúng cách", "url": "nuoc-ep-sinh-to-dung-cach.html"}
+    {
+      "title": "Ăn hoa quả trước hay sau bữa ăn thì tốt hơn",
+      "url": "an-hoa-qua-truoc-hay-sau-bua-an.html"
+    },
+    {
+      "title": "Đầy bụng khó tiêu sau ăn: hiểu đúng và điều chỉnh",
+      "url": "day-bung-kho-tieu-sau-an.html"
+    },
+    {
+      "title": "Trái cây theo mùa ở Việt Nam",
+      "url": "trai-cay-theo-mua-o-viet-nam.html"
+    },
+    {
+      "title": "Vitamin C và sức đề kháng",
+      "url": "vitamin-c-va-de-khang.html"
+    },
+    {
+      "title": "Nước ép và sinh tố dùng đúng cách",
+      "url": "nuoc-ep-sinh-to-dung-cach.html"
+    }
   ],
   "anh_ai": true
 }

@@ -3,7 +3,7 @@
   "title": "Không thích ăn rau phải làm sao: 9 cách bù chất xơ cho người lớn kén rau",
   "seo_title": "Không thích ăn rau phải làm sao? 9 cách bù chất xơ",
   "slug": "khong-thich-an-rau-phai-lam-sao",
-  "description": "Không thích ăn rau phải làm sao? Vì sao người lớn kén rau, mỗi ngày cần bao nhiêu chất xơ, 9 cách bù chất xơ ngoài rau xanh và lộ trình 14 ngày tăng dần dễ theo.",
+  "description": "Không thích ăn rau phải làm sao? Vì sao người lớn kén rau, mỗi ngày cần bao nhiêu chất xơ, 9 cách bù chất xơ ngoài rau lá và lộ trình 14 ngày tăng dần.",
   "keyword": "không thích ăn rau phải làm sao",
   "category": "dinh-duong",
   "date": "2026-08-16",

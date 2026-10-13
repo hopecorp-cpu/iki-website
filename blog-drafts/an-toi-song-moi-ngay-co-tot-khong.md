@@ -3,7 +3,7 @@
   "title": "Ăn tỏi sống mỗi ngày có tốt không? Ăn mấy tép, ăn lúc nào và ai nên cẩn trọng",
   "seo_title": "Ăn tỏi sống mỗi ngày có tốt không? Mấy tép là đủ",
   "slug": "an-toi-song-moi-ngay-co-tot-khong",
-  "description": "Ăn tỏi sống mỗi ngày có tốt không, nên ăn mấy tép và ăn vào lúc nào? Bài viết nói về cách ăn tỏi sống đúng, mẹo giảm hăng và hôi miệng, cùng những trường hợp nên cẩn trọng.",
+  "description": "Ăn tỏi sống mỗi ngày có tốt không, nên ăn mấy tép và lúc nào? Cách ăn đúng, mẹo giảm hăng và hôi miệng, cùng những nhóm người nên cẩn trọng.",
   "keyword": "ăn tỏi sống mỗi ngày có tốt không",
   "category": "Thực phẩm & nguyên liệu",
   "date": "2026-08-15",
@@ -14,20 +14,56 @@
   "reading_min": 13,
   "answer": "Với người trưởng thành khoẻ mạnh, ăn khoảng 1–2 tép tỏi sống mỗi ngày là mức được nhắc tới phổ biến và phù hợp với thói quen ăn uống của người Việt. Nên ăn cùng bữa hoặc ngay sau bữa ăn, tuyệt đối không ăn tỏi sống khi bụng đói vì dễ gây nóng rát và cồn cào dạ dày. Tỏi nên được băm hoặc đập dập rồi để ngoài không khí khoảng 10 phút trước khi ăn. Người có dạ dày yếu, người đang dùng thuốc chống đông máu, phụ nữ mang thai và người sắp phẫu thuật nên hỏi ý kiến bác sĩ trước khi ăn tỏi sống đều đặn.",
   "faq": [
-    {"q": "Ăn tỏi sống mỗi ngày có tốt không?", "a": "Với người trưởng thành khoẻ mạnh, một đến hai tép tỏi sống mỗi ngày là mức hợp lý và là thói quen ăn uống lành. Điều cần tránh là ăn quá nhiều với suy nghĩ càng nhiều càng tốt, và ăn khi bụng trống. Tỏi là gia vị trong bữa ăn, không phải cách xử lý một vấn đề sức khoẻ, và không thay thế việc đi khám khi cơ thể có dấu hiệu bất thường."},
-    {"q": "Nên ăn mấy tép tỏi sống một ngày?", "a": "Mức được nhắc tới phổ biến là 1–2 tép mỗi ngày với người trưởng thành, và không nên vượt quá khoảng một củ tỏi nhỏ. Ăn nhiều hơn thường không mang lại thêm lợi ích mà dễ gây nóng rát dạ dày, đầy hơi, ợ chua và hôi miệng kéo dài. Nếu mới bắt đầu, hãy thử nửa tép trong vài ngày để xem bụng có chịu được không."},
-    {"q": "Ăn tỏi sống lúc nào trong ngày là hợp lý?", "a": "Tốt nhất là ăn cùng bữa ăn hoặc ngay sau khi ăn, khi dạ dày đã có thức ăn. Nhiều người truyền tai nhau ăn tỏi sống lúc bụng đói buổi sáng, nhưng đây chính là cách dễ gây khó chịu nhất cho dạ dày. Nếu bạn thấy nóng rát hay cồn cào sau khi ăn tỏi sống, hãy chuyển sang ăn tỏi trong món ăn."},
-    {"q": "Vì sao nên đập dập tỏi rồi để 10 phút mới ăn?", "a": "Khi tép tỏi còn nguyên, các thành phần tạo nên hoạt chất đặc trưng của tỏi nằm tách biệt trong tế bào. Việc băm hoặc đập dập phá vỡ cấu trúc tế bào và cho phép enzyme tiếp xúc với tiền chất, tạo ra allicin — hợp chất tạo mùi hăng đặc trưng. Để ngoài không khí khoảng 10 phút giúp quá trình này diễn ra đầy đủ hơn trước khi ăn hoặc nấu."},
-    {"q": "Ai không nên ăn tỏi sống?", "a": "Người có bệnh dạ dày, hay ợ chua hoặc trào ngược nên hạn chế tỏi sống. Người đang dùng thuốc chống đông máu, người chuẩn bị phẫu thuật hoặc nhổ răng, phụ nữ mang thai giai đoạn cuối, người thể trạng suy nhược và người đang dùng thuốc dài ngày nên hỏi ý kiến bác sĩ. Trẻ nhỏ cũng không nên ăn tỏi sống mà nên dùng tỏi đã nấu chín trong món ăn."},
-    {"q": "Làm sao ăn tỏi sống mà đỡ hôi miệng?", "a": "Vài cách thực tế: ăn tỏi kèm rau thơm như mùi tây, bạc hà, húng quế; ăn kèm sữa chua hoặc uống sữa sau đó; ăn kèm táo hoặc rau xà lách; đánh răng và cạo lưỡi sau bữa. Một cách khác là ngâm tỏi giấm hoặc muối tỏi, vị dịu hơn hẳn và mùi cũng nhẹ đi nhiều so với tỏi tươi băm sống."}
+    {
+      "q": "Ăn tỏi sống mỗi ngày có tốt không?",
+      "a": "Với người trưởng thành khoẻ mạnh, một đến hai tép tỏi sống mỗi ngày là mức hợp lý và là thói quen ăn uống lành. Điều cần tránh là ăn quá nhiều với suy nghĩ càng nhiều càng tốt, và ăn khi bụng trống. Tỏi là gia vị trong bữa ăn, không phải cách xử lý một vấn đề sức khoẻ, và không thay thế việc đi khám khi cơ thể có dấu hiệu bất thường."
+    },
+    {
+      "q": "Nên ăn mấy tép tỏi sống một ngày?",
+      "a": "Mức được nhắc tới phổ biến là 1–2 tép mỗi ngày với người trưởng thành, và không nên vượt quá khoảng một củ tỏi nhỏ. Ăn nhiều hơn thường không mang lại thêm lợi ích mà dễ gây nóng rát dạ dày, đầy hơi, ợ chua và hôi miệng kéo dài. Nếu mới bắt đầu, hãy thử nửa tép trong vài ngày để xem bụng có chịu được không."
+    },
+    {
+      "q": "Ăn tỏi sống lúc nào trong ngày là hợp lý?",
+      "a": "Tốt nhất là ăn cùng bữa ăn hoặc ngay sau khi ăn, khi dạ dày đã có thức ăn. Nhiều người truyền tai nhau ăn tỏi sống lúc bụng đói buổi sáng, nhưng đây chính là cách dễ gây khó chịu nhất cho dạ dày. Nếu bạn thấy nóng rát hay cồn cào sau khi ăn tỏi sống, hãy chuyển sang ăn tỏi trong món ăn."
+    },
+    {
+      "q": "Vì sao nên đập dập tỏi rồi để 10 phút mới ăn?",
+      "a": "Khi tép tỏi còn nguyên, các thành phần tạo nên hoạt chất đặc trưng của tỏi nằm tách biệt trong tế bào. Việc băm hoặc đập dập phá vỡ cấu trúc tế bào và cho phép enzyme tiếp xúc với tiền chất, tạo ra allicin — hợp chất tạo mùi hăng đặc trưng. Để ngoài không khí khoảng 10 phút giúp quá trình này diễn ra đầy đủ hơn trước khi ăn hoặc nấu."
+    },
+    {
+      "q": "Ai không nên ăn tỏi sống?",
+      "a": "Người có bệnh dạ dày, hay ợ chua hoặc trào ngược nên hạn chế tỏi sống. Người đang dùng thuốc chống đông máu, người chuẩn bị phẫu thuật hoặc nhổ răng, phụ nữ mang thai giai đoạn cuối, người thể trạng suy nhược và người đang dùng thuốc dài ngày nên hỏi ý kiến bác sĩ. Trẻ nhỏ cũng không nên ăn tỏi sống mà nên dùng tỏi đã nấu chín trong món ăn."
+    },
+    {
+      "q": "Làm sao ăn tỏi sống mà đỡ hôi miệng?",
+      "a": "Vài cách thực tế: ăn tỏi kèm rau thơm như mùi tây, bạc hà, húng quế; ăn kèm sữa chua hoặc uống sữa sau đó; ăn kèm táo hoặc rau xà lách; đánh răng và cạo lưỡi sau bữa. Một cách khác là ngâm tỏi giấm hoặc muối tỏi, vị dịu hơn hẳn và mùi cũng nhẹ đi nhiều so với tỏi tươi băm sống."
+    }
   ],
   "related": [
-    {"title": "Gia vị Việt: gừng, nghệ, sả", "url": "gia-vi-viet-gung-nghe-sa.html"},
-    {"title": "Rau thơm Việt và lợi ích sức khoẻ", "url": "rau-thom-viet-va-loi-ich-suc-khoe.html"},
-    {"title": "Hôi miệng: nguyên nhân và thói quen chăm sóc", "url": "hoi-mieng-nguyen-nhan-va-thoi-quen-cham-soc.html"},
-    {"title": "Bụng dạ nhạy cảm nên ăn uống thế nào", "url": "bung-da-nhay-cam-nen-an-uong-the-nao.html"},
-    {"title": "Thực phẩm lên men truyền thống Việt", "url": "thuc-pham-len-men-truyen-thong-viet.html"},
-    {"title": "Ăn cay nhiều có hại không", "url": "an-cay-nhieu-co-hai-khong.html"}
+    {
+      "title": "Gia vị Việt: gừng, nghệ, sả",
+      "url": "gia-vi-viet-gung-nghe-sa.html"
+    },
+    {
+      "title": "Rau thơm Việt và lợi ích sức khoẻ",
+      "url": "rau-thom-viet-va-loi-ich-suc-khoe.html"
+    },
+    {
+      "title": "Hôi miệng: nguyên nhân và thói quen chăm sóc",
+      "url": "hoi-mieng-nguyen-nhan-va-thoi-quen-cham-soc.html"
+    },
+    {
+      "title": "Bụng dạ nhạy cảm nên ăn uống thế nào",
+      "url": "bung-da-nhay-cam-nen-an-uong-the-nao.html"
+    },
+    {
+      "title": "Thực phẩm lên men truyền thống Việt",
+      "url": "thuc-pham-len-men-truyen-thong-viet.html"
+    },
+    {
+      "title": "Ăn cay nhiều có hại không",
+      "url": "an-cay-nhieu-co-hai-khong.html"
+    }
   ],
   "anh_ai": true
 }
