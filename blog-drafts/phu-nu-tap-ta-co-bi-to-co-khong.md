@@ -222,5 +222,3 @@ Nếu chỉ giữ một câu từ bài này, hãy giữ câu này: tạ không l
 - Centers for Disease Control and Prevention — *Adult Activity: An Overview* (khuyến nghị vận động cho người trưởng thành, gồm hoạt động tăng sức cơ): [cdc.gov](https://www.cdc.gov/physical-activity-basics/guidelines/adults.html)
 - Morton RW và cộng sự — *A systematic review, meta-analysis and meta-regression of the effect of protein supplementation on resistance training-induced gains in muscle mass and strength in healthy adults*, British Journal of Sports Medicine 2018: [bjsm.bmj.com](https://bjsm.bmj.com/content/52/6/376)
 - Gardner B, Lally P, Wardle J — *Making health habitual: the psychology of 'habit-formation' and general practice*, British Journal of General Practice 2012: [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3505409/)
-
-Nội dung trong bài mang tính chia sẻ kiến thức về dinh dưỡng, vận động và thói quen sinh hoạt, không nhằm chẩn đoán, điều trị hay phòng ngừa bất kỳ bệnh nào và không thay thế tư vấn y khoa.
