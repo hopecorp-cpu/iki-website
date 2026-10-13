@@ -1,0 +1,16 @@
+{
+  "hung": {
+    "name": "Nguyễn Văn Hưng",
+    "photo": "/team-photos/nguyen-van-hung.jpg",
+    "vi": { "role": "Founder, Chairman & CEO — HOPE CORP", "bio": "Kỹ sư phần mềm đào tạo tại Nhật Bản, từng làm BrSE rồi Sales quốc tế, hơn 12 năm trong công nghệ và bán hàng ở môi trường doanh nghiệp Nhật, Thạc sĩ Luật Kinh tế. Dẫn dắt R&D, vận hành bằng AI và gọi vốn của HOPE CORP." },
+    "en": { "role": "Founder, Chairman & CEO — HOPE CORP", "bio": "Japan-trained software engineer who worked as a bridge systems engineer (BrSE) and later in international sales, with 12+ years in technology and sales in Japanese companies, and a master's degree in economic law. Leads R&D, AI-run operations and fundraising at HOPE CORP." },
+    "ja": { "role": "創業者・会長兼CEO — HOPE CORP", "bio": "日本で教育を受けたソフトウェアエンジニア。BrSE、その後は国際営業として、日本企業で12年以上テクノロジーと営業に携わる。経済法修士。HOPE CORPの研究開発、AIによる業務運営、資金調達を統括。" }
+  },
+  "tam": {
+    "name": "Phạm Ngọc Thanh Tâm",
+    "photo": "/team-photos/pham-ngoc-thanh-tam.jpg",
+    "vi": { "role": "Co-founder & CMO — HOPE CORP", "bio": "Đồng sáng lập, Giám đốc Marketing và chuyên gia thực dưỡng. Dẫn dắt cộng đồng theo lối sống dưỡng sinh phương Đông, phụ trách nội dung, cộng đồng và quan hệ đối tác trong hệ sinh thái IKI." },
+    "en": { "role": "Co-founder & CMO — HOPE CORP", "bio": "Co-founder, Chief Marketing Officer and macrobiotic nutrition specialist. Leads a community built around Eastern wellbeing traditions and is responsible for content, community and partnerships across the IKI ecosystem." },
+    "ja": { "role": "共同創業者・CMO — HOPE CORP", "bio": "共同創業者、マーケティング責任者、食養生の専門家。東洋の養生の考え方を軸にしたコミュニティを率い、IKIのコンテンツ、コミュニティ、パートナーシップを担当。" }
+  }
+}
