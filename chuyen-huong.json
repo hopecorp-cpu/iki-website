@@ -1,5 +1,19 @@
 {
   "dau-nanh-va-noi-tiet-to-nu": "dau-nanh-trong-bua-com-viet",
   "tra-thao-moc-tue-minh": "thuc-uong-am-tra-thao-moc",
-  "tra-tue-minh-la-gi": "cach-pha-tra-tui-loc-dung-cach"
+  "tra-tue-minh-la-gi": "cach-pha-tra-tui-loc-dung-cach",
+  "bot-dam-thuc-vat-nao-tot": "bot-dam-thuc-vat-loai-nao-tot",
+  "dam-thuc-vat-va-whey-khac-nhau-the-nao": "dam-whey-va-dam-thuc-vat-loai-nao-tot-hon",
+  "bao-quan-bot-dam-thuc-vat-dung-cach": "bao-quan-bot-dam-thuc-vat-sau-khi-mo-nap",
+  "pha-bot-dam-thuc-vat-voi-gi-cho-de-uong": "cach-pha-bot-dam-thuc-vat-cho-de-uong",
+  "an-toi-muon-co-anh-huong-gi-khong": "an-toi-muon-co-sao-khong",
+  "thuc-pham-giau-chat-chong-oxy-hoa": "chat-chong-oxy-hoa-trong-thuc-pham",
+  "kem-trong-bua-an-hang-ngay": "kem-va-thuc-pham-giau-kem",
+  "an-toi-moi-ngay-bao-nhieu-la-du": "an-toi-song-moi-ngay-co-tot-khong",
+  "doc-nhan-dinh-duong-thuc-pham": "doc-nhan-thuc-pham",
+  "cham-da-tu-ben-trong": "an-gi-de-da-dep",
+  "giu-nep-an-khi-di-xa": "an-uong-khi-di-du-lich",
+  "an-gi-de-tang-suc-de-khang-cho-nguoi-lon": "nguoi-lon-hay-om-vat-nen-an-gi",
+  "suc-khoe-cho-nhan-vien-hanh-chinh": "lo-trinh-dan-van-phong",
+  "cham-care-mat-nguoi-lon-tuoi": "cham-soc-mat-nguoi-lon-tuoi"
 }
