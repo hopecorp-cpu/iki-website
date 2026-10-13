@@ -1,9 +1,9 @@
 ---json
 {
   "title": "Đồ lên men kiểu Nhật (miso, natto) trong bữa ăn hằng ngày",
-  "seo_title": "Đồ lên men kiểu Nhật: miso, natto trong bữa ăn hằng ngày",
+  "seo_title": "Miso, natto là gì? Đồ lên men kiểu Nhật trong bữa ăn",
   "slug": "do-len-men-nhat-ban",
-  "description": "Miso, natto và các món lên men kiểu Nhật là nét ẩm thực lâu đời. Hiểu chúng là gì, cách dùng chừng mực và đưa tinh thần món lên men vào bữa ăn Việt hằng ngày.",
+  "description": "Miso, natto là gì và dùng thế nào cho hợp lý? Tìm hiểu các món lên men kiểu Nhật, những hiểu lầm hay gặp và cách đưa tinh thần đó vào bữa ăn Việt.",
   "keyword": "đồ lên men kiểu Nhật",
   "category": "thuc-pham",
   "date": "2026-07-22",

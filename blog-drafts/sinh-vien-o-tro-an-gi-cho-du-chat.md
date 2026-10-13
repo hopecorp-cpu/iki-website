@@ -1,9 +1,9 @@
 ---json
 {
   "title": "Sinh viên ở trọ nên ăn gì cho đủ chất? Cẩm nang ăn uống tiết kiệm mà không kiệt sức",
-  "seo_title": "Sinh viên ở trọ nên ăn gì cho đủ chất mà vẫn tiết kiệm",
+  "seo_title": "Sinh viên ở trọ nên ăn gì cho đủ chất mà tiết kiệm?",
   "slug": "sinh-vien-o-tro-an-gi-cho-du-chat",
-  "description": "Sinh viên ở trọ nên ăn gì cho đủ chất khi ngân sách hẹp và bếp chật? Công thức bữa ăn 3 phần, danh sách thực phẩm rẻ mà giàu chất, mẹo đi chợ và cách thoát khỏi vòng mì gói.",
+  "description": "Sinh viên ở trọ nên ăn gì khi ngân sách hẹp, bếp chật? Công thức bữa ăn ba phần, thực phẩm rẻ mà giàu chất, mẹo đi chợ và cách bỏ thói quen ăn mì gói.",
   "keyword": "sinh viên ở trọ nên ăn gì cho đủ chất",
   "category": "dinh-duong",
   "date": "2026-08-13",
@@ -14,19 +14,52 @@
   "reading_min": 15,
   "answer": "Nguyên tắc đơn giản nhất cho sinh viên ở trọ là mỗi bữa có đủ ba phần: một nguồn đạm (trứng, đậu phụ, đậu đỗ, cá rẻ tiền), một nguồn tinh bột (cơm, khoai, bún) và một phần rau. Chỉ cần giữ được công thức ba phần này, bữa ăn đã cân bằng hơn hẳn dù chi phí rất thấp. Trứng, đậu phụ, đậu đỗ và rau theo mùa là bốn nhóm rẻ nhất mà giàu chất nhất; mì gói nên là phương án dự phòng chứ không phải bữa chính, và nếu ăn thì nên thêm trứng cùng rau vào.",
   "faq": [
-    {"q": "Sinh viên ở trọ nên ăn gì cho đủ chất khi ngân sách rất hẹp?", "a": "Bốn nhóm rẻ mà giàu chất nhất là trứng, đậu phụ, đậu đỗ khô và rau theo mùa. Trứng là nguồn đạm rẻ và dễ chế biến nhất; đậu phụ và đậu đỗ cho đạm thực vật với chi phí thấp; rau đang vào mùa luôn rẻ hơn rau trái mùa. Giữ công thức mỗi bữa có một đạm, một tinh bột, một rau là đủ để cân bằng mà không cần tăng chi phí."},
-    {"q": "Ăn mì gói thường xuyên có sao không?", "a": "Vấn đề của mì gói không nằm ở bản thân gói mì mà ở chỗ nó thường được ăn một mình — nhiều tinh bột và muối, gần như không có đạm và rau. Ăn thỉnh thoảng thì bình thường; ăn thay bữa chính nhiều ngày liền sẽ khiến khẩu phần lệch hẳn. Nếu ăn, hãy đập thêm quả trứng và bỏ một nắm rau vào, đồng thời dùng khoảng nửa gói gia vị để giảm bớt muối."},
-    {"q": "Nấu ăn ở trọ không có bếp đầy đủ thì làm sao?", "a": "Chỉ cần một nồi cơm điện là đã nấu được phần lớn bữa ăn: cơm, luộc rau, luộc trứng, hấp đậu phụ, thậm chí nấu canh. Một chiếc bếp điện đơn nhỏ mở rộng thêm khả năng xào nấu. Ưu tiên các món luộc và hấp — vừa ít dụng cụ, ít dầu mỡ, ít phải rửa, vừa giữ được chất trong thực phẩm."},
-    {"q": "Ăn ở căng tin hay quán cơm bình dân thì chọn thế nào?", "a": "Vẫn áp dụng công thức ba phần: chọn một món mặn có đạm rõ ràng, xin thêm rau, và đừng chan quá nhiều nước sốt hay nước mỡ vào cơm. Nếu suất cơm ít rau, mua thêm một quả chuối hoặc một hộp sữa chua cho bữa đó. Ăn ngoài không phải vấn đề nếu bạn biết mình đang thiếu phần nào và bù lại ở bữa sau."},
-    {"q": "Thức khuya học bài nên ăn gì để không mệt hôm sau?", "a": "Tránh đồ ngọt và nước tăng lực vì chúng đẩy năng lượng lên nhanh rồi tụt xuống nhanh, khiến bạn mệt hơn. Lựa chọn hợp lý hơn là một nắm hạt, một quả chuối, một hộp sữa chua, hoặc một cốc sữa ấm. Và quan trọng hơn cả bữa đêm là giữ được bữa sáng hôm sau — bỏ sáng sau một đêm thức khuya là cách nhanh nhất để cả ngày hôm sau đổ vỡ."},
-    {"q": "Sinh viên có cần dùng thực phẩm bổ sung không?", "a": "Phần lớn không cần, nếu bữa ăn giữ được công thức ba phần. Thực phẩm bổ sung chỉ có ý nghĩa khi bữa ăn thật sự không thể đủ — ví dụ giai đoạn ôn thi ăn uống thất thường, hoặc bạn ăn chay và khó đảm bảo lượng đạm. Ưu tiên đầu tư vào thực phẩm thật trước; tiền dành cho một hộp bổ sung thường mua được nhiều trứng, đậu và rau hơn."}
+    {
+      "q": "Sinh viên ở trọ nên ăn gì cho đủ chất khi ngân sách rất hẹp?",
+      "a": "Bốn nhóm rẻ mà giàu chất nhất là trứng, đậu phụ, đậu đỗ khô và rau theo mùa. Trứng là nguồn đạm rẻ và dễ chế biến nhất; đậu phụ và đậu đỗ cho đạm thực vật với chi phí thấp; rau đang vào mùa luôn rẻ hơn rau trái mùa. Giữ công thức mỗi bữa có một đạm, một tinh bột, một rau là đủ để cân bằng mà không cần tăng chi phí."
+    },
+    {
+      "q": "Ăn mì gói thường xuyên có sao không?",
+      "a": "Vấn đề của mì gói không nằm ở bản thân gói mì mà ở chỗ nó thường được ăn một mình — nhiều tinh bột và muối, gần như không có đạm và rau. Ăn thỉnh thoảng thì bình thường; ăn thay bữa chính nhiều ngày liền sẽ khiến khẩu phần lệch hẳn. Nếu ăn, hãy đập thêm quả trứng và bỏ một nắm rau vào, đồng thời dùng khoảng nửa gói gia vị để giảm bớt muối."
+    },
+    {
+      "q": "Nấu ăn ở trọ không có bếp đầy đủ thì làm sao?",
+      "a": "Chỉ cần một nồi cơm điện là đã nấu được phần lớn bữa ăn: cơm, luộc rau, luộc trứng, hấp đậu phụ, thậm chí nấu canh. Một chiếc bếp điện đơn nhỏ mở rộng thêm khả năng xào nấu. Ưu tiên các món luộc và hấp — vừa ít dụng cụ, ít dầu mỡ, ít phải rửa, vừa giữ được chất trong thực phẩm."
+    },
+    {
+      "q": "Ăn ở căng tin hay quán cơm bình dân thì chọn thế nào?",
+      "a": "Vẫn áp dụng công thức ba phần: chọn một món mặn có đạm rõ ràng, xin thêm rau, và đừng chan quá nhiều nước sốt hay nước mỡ vào cơm. Nếu suất cơm ít rau, mua thêm một quả chuối hoặc một hộp sữa chua cho bữa đó. Ăn ngoài không phải vấn đề nếu bạn biết mình đang thiếu phần nào và bù lại ở bữa sau."
+    },
+    {
+      "q": "Thức khuya học bài nên ăn gì để không mệt hôm sau?",
+      "a": "Tránh đồ ngọt và nước tăng lực vì chúng đẩy năng lượng lên nhanh rồi tụt xuống nhanh, khiến bạn mệt hơn. Lựa chọn hợp lý hơn là một nắm hạt, một quả chuối, một hộp sữa chua, hoặc một cốc sữa ấm. Và quan trọng hơn cả bữa đêm là giữ được bữa sáng hôm sau — bỏ sáng sau một đêm thức khuya là cách nhanh nhất để cả ngày hôm sau đổ vỡ."
+    },
+    {
+      "q": "Sinh viên có cần dùng thực phẩm bổ sung không?",
+      "a": "Phần lớn không cần, nếu bữa ăn giữ được công thức ba phần. Thực phẩm bổ sung chỉ có ý nghĩa khi bữa ăn thật sự không thể đủ — ví dụ giai đoạn ôn thi ăn uống thất thường, hoặc bạn ăn chay và khó đảm bảo lượng đạm. Ưu tiên đầu tư vào thực phẩm thật trước; tiền dành cho một hộp bổ sung thường mua được nhiều trứng, đậu và rau hơn."
+    }
   ],
   "related": [
-    {"title": "Ăn uống lành mạnh mà vẫn tiết kiệm", "url": "an-uong-lanh-manh-ma-tiet-kiem.html"},
-    {"title": "Chuẩn bị bữa ăn cả tuần cho người đi làm", "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"},
-    {"title": "Ăn mì tôm thế nào cho đỡ hại", "url": "an-mi-tom-the-nao-cho-do-hai.html"},
-    {"title": "Ăn sáng thế nào cho một ngày tràn năng lượng", "url": "an-sang-tran-nang-luong.html"},
-    {"title": "Sức khoẻ học sinh mùa thi", "url": "suc-khoe-hoc-sinh-mua-thi.html"}
+    {
+      "title": "Ăn uống lành mạnh mà vẫn tiết kiệm",
+      "url": "an-uong-lanh-manh-ma-tiet-kiem.html"
+    },
+    {
+      "title": "Chuẩn bị bữa ăn cả tuần cho người đi làm",
+      "url": "chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html"
+    },
+    {
+      "title": "Ăn mì tôm thế nào cho đỡ hại",
+      "url": "an-mi-tom-the-nao-cho-do-hai.html"
+    },
+    {
+      "title": "Ăn sáng thế nào cho một ngày tràn năng lượng",
+      "url": "an-sang-tran-nang-luong.html"
+    },
+    {
+      "title": "Sức khoẻ học sinh mùa thi",
+      "url": "suc-khoe-hoc-sinh-mua-thi.html"
+    }
   ],
   "anh_ai": true
 }
