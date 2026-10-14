@@ -97,9 +97,13 @@ function coBanDich(ngon, duong) {
 }
 function noiLienKetCungTieng(html, ngon) {
   if (ngon === "vi") return html;
-  // tách dòng ghi chú bản gốc ra, chèn lại sau — liên kết trong đó phải trỏ bản Việt
+  // tách dòng ghi chú bản gốc ra, chèn lại sau — liên kết trong đó phải trỏ bản Việt.
+  // Bộ chuyển ngôn ngữ cũng phải giữ nguyên: khuôn vừa viết đúng đường sang từng thứ tiếng,
+  // nếu để hàm này sửa tiếp thì nút "Tiếng Việt" trên trang EN bị kéo về chính trang EN.
   const giu = [];
   let t = html.replace(/<p class="locale-note"[\s\S]*?<\/p>/g, (m) => { giu.push(m); return `@@GC${giu.length - 1}@@`; });
+  t = t.replace(/<div class="nav-lang"[^>]*>[\s\S]*?<\/div>/g, (m) => { giu.push(m); return `@@GC${giu.length - 1}@@`; });
+  t = t.replace(/<div class="language-options">[\s\S]*?<\/div>/g, (m) => { giu.push(m); return `@@GC${giu.length - 1}@@`; });
   t = t.replace(/<a\b[^>]*>/g, (the) => the.replace(/href="(?:https:\/\/ikihealing\.com)?(\/[^"]*)"/, (m, duong) => {
     if (duong.startsWith("/assets/") || duong.startsWith(`/${ngon}/`) || /^\/(en|ja)\//.test(duong)) return m;
     const dich = duong === "/" ? `/${ngon}/` : `/${ngon}${duong}`;
