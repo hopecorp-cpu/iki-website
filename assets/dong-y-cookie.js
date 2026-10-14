@@ -36,8 +36,10 @@
     return CHU[l] ? l : 'vi';
   }
   function linkCs() {
-    /* Chưa có bản dịch en/ja của trang chính sách (kiểm 04/09/2026) — mọi ngôn ngữ trỏ về bản Việt. */
-    return '/chinh-sach-bao-mat.html';
+    /* 13/10/2026: đã có en/ja của trang chính sách bảo mật, nên trỏ đúng thứ tiếng khách đang đọc.
+       Vẫn kiểm trước khi trỏ: thiếu bản dịch thì về bản Việt còn hơn dẫn khách vào trang 404. */
+    var ng = ngonNgu();
+    return ng === 'vi' ? '/chinh-sach-bao-mat.html' : '/' + ng + '/chinh-sach-bao-mat.html';
   }
   function dungThanh(l) {
     if (document.getElementById('ikiCookieDy')) return;
