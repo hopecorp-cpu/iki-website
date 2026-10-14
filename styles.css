@@ -6531,3 +6531,21 @@ h3 {
 @media (max-width: 720px) {
   .sticky-mobile-cta { display: block; }
 }
+/* Bộ chuyển ngôn ngữ ở đầu trang (khuôn cũ: trang chính sách + 404).
+   Trước 13/10/2026 chỗ này là ba lá cờ emoji nên không ai viết CSS cho nó; đổi sang chữ
+   "Tiếng Việt / English / 日本語" thì ba liên kết dính liền nhau, phải có khoảng cách và vạch ngăn. */
+.nav-lang { display: inline-flex; align-items: center; gap: 2px; white-space: nowrap; }
+.nav-lang a {
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-size: 13px;
+  line-height: 1.2;
+  color: var(--muted, #6b6560);
+  text-decoration: none;
+}
+.nav-lang a + a { border-left: 1px solid var(--line, #e7e1db); }
+.nav-lang a:hover, .nav-lang a:focus-visible { color: var(--ink, #2b2724); }
+.nav-lang a[aria-current="true"] { color: var(--ink, #2b2724); font-weight: 600; }
+@media (max-width: 720px) {
+  .nav-lang a { padding: 4px 6px; font-size: 12px; }
+}
