@@ -33,6 +33,14 @@ try {
 } finally { clearTimeout(t); }
 if (!ds || ds.length < 3 || ds.some((p) => !p?.n || !(p.price > 0))) { console.error("API trả thiếu/lệch khuôn (" + (ds?.length ?? 0) + " món), GIỮ mảng cũ"); process.exit(1); }
 
+// Còn hàng thì bỏ khoá het_hang để mảng dự phòng không bị viết lại chỉ vì API luôn trả false.
+ds = ds.map((p) => {
+  const q = { ...p };
+  if (q.het_hang === true) q.het_hang = true;
+  else delete q.het_hang;
+  return q;
+});
+
 const src = fs.readFileSync(FILE, "utf8");
 const m = /<script>const PRODUCTS=(\[[\s\S]*?\]);<\/script>/.exec(src);
 if (!m) { console.error("Không thấy mốc <script>const PRODUCTS=[...];</script>"); process.exit(1); }
@@ -56,6 +64,16 @@ out = out.replace(/("@type":\s*"Product",\s*"name":\s*")([^"]+)("[\s\S]*?"price"
   if (!p || String(p.price) === gia) return all;
   console.log("JSON-LD:", name, gia, "->", p.price);
   return a + name + b + p.price;
+});
+
+// JSON-LD availability theo cờ hết hàng. Không đụng giá ở nhánh này.
+out = out.replace(/("@type":\s*"Product",\s*"name":\s*")([^"]+)("[\s\S]*?"availability":\s*")([^"]+)(")/g, (all, a, name, b, avail, c) => {
+  const p = ds.find((x) => x.n === name);
+  if (!p) return all;
+  const muon = p.het_hang === true ? "https://schema.org/OutOfStock" : "https://schema.org/InStock";
+  if (avail === muon) return all;
+  console.log("JSON-LD availability:", name, "->", muon);
+  return a + name + b + muon + c;
 });
 
 if (out === src) { console.log("Không có gì đổi."); process.exit(0); }
