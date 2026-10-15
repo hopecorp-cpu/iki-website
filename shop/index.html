@@ -587,6 +587,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   .card .thumb img.photo{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
   .card:hover .thumb img.photo{transform:scale(1.04)}
   .badge{position:absolute;top:14px;left:14px;background:var(--brand);color:#fff;font-size:10px;font-weight:700;padding:6px 12px;border-radius:8px;letter-spacing:.1em;text-transform:uppercase;z-index:2}
+  .het-hang{display:inline-block;background:#9f1239;color:#fff;font-size:11px;font-weight:700;line-height:1.2;padding:4px 8px;border-radius:6px;letter-spacing:.02em}
+  .btn:disabled{opacity:.45;cursor:not-allowed}
+  #pdpHetHang{margin:10px 0 0}
   @media(prefers-color-scheme:dark){.badge{color:#0A160F}} :root[data-theme="dark"] .badge{color:#0A160F}
   .wish{position:absolute;top:12px;right:12px;width:36px;height:36px;border-radius:50%;background:var(--surface);border:1px solid var(--line);display:grid;place-items:center;color:var(--ink-soft);box-shadow:var(--shadow-sm);z-index:2}
   .wish:hover{color:var(--brand)}
@@ -1043,6 +1046,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <p class="subt" id="pdpSubt"></p>
       <div class="certs" id="pdpCerts" style="margin-bottom:16px"></div>
       <div class="pricebig" id="pdpPrice"></div>
+      <p id="pdpHetHang" class="het-hang" hidden>Hết hàng</p>
       <div class="variants" id="pdpVariants">
         <button class="variant on">Nguyên bản</button><button class="variant">Cacao</button><button class="variant">Trà xanh</button>
       </div>
@@ -1141,6 +1145,26 @@ document.getElementById('catList').innerHTML = cats.map(c=>`
 
 PRODUCTS.forEach((p,i)=>p._i=i);
 
+function laHetHang(p){return !!(p&&p.het_hang===true);}
+function capNhatSchema(){
+  var nodes=document.querySelectorAll('script[type="application/ld+json"]');
+  for(var i=0;i<nodes.length;i++){
+    try{
+      var data=JSON.parse(nodes[i].textContent||"");
+      var list=data&&data.mainEntity&&data.mainEntity.itemListElement;
+      if(!Array.isArray(list)) continue;
+      var doi=false;
+      list.forEach(function(el){
+        var item=el&&el.item;
+        if(!item||!item.offers||!item.name) return;
+        var sp=PRODUCTS.find(function(x){return x.n===item.name||x.vn===item.name;});
+        var muon=(sp&&sp.het_hang===true)?"https://schema.org/OutOfStock":"https://schema.org/InStock";
+        if(item.offers.availability!==muon){item.offers.availability=muon;doi=true;}
+      });
+      if(doi) nodes[i].textContent=JSON.stringify(data);
+    }catch(e){}
+  }
+}
 function card(p){
   const badge = p.badge ? `<span class="badge">${p.badge}</span>` : '';
   const certs = (p.certs||[]).map(c=>`<span>${check}${c}</span>`).join('');
@@ -1154,7 +1178,7 @@ function card(p){
       <div class="certs">${certs}</div>
       <div class="pname">${p.n}</div>
       <div class="ptag">${p.t}</div>
-      <div class="prow"><div class="price">${money(p.price)}</div>
+      <div class="prow"><div><div class="price">${money(p.price)}</div>${laHetHang(p)?'<span class="het-hang">Hết hàng</span>':''}</div>
         <button class="addbtn">Tư vấn</button></div>
     </div>
   </article>`;
@@ -1209,6 +1233,7 @@ function openDetail(p){
   document.getElementById('pdpSubt').textContent=p.intro||p.desc||p.t;
   document.getElementById('pdpCerts').innerHTML=(p.certs||[]).map(c=>`<span>${check}${c}</span>`).join('');
   document.getElementById('pdpPrice').textContent=money(p.price);
+  var nhanHet=document.getElementById('pdpHetHang'); if(nhanHet) nhanHet.hidden=!laHetHang(p);
   document.getElementById('pdpPhoto').src=p.img;
   currentProduct=p;
   renderConsult();
@@ -1233,7 +1258,7 @@ let cart=0; const cartCount=document.getElementById('cartCount');
 const toast=document.getElementById('toast'), toastMsg=document.getElementById('toastMsg');
 let toastT;
 function showToast(msg){toastMsg.textContent=msg;toast.classList.add('show');clearTimeout(toastT);toastT=setTimeout(()=>toast.classList.remove('show'),1900);}
-function addToCart(p,n){cart+=(n||1);cartCount.textContent=cart;showToast('Đã thêm: '+p.n);}
+function addToCart(p,n){if(laHetHang(p)){showToast('Sản phẩm đang hết hàng');return;}cart+=(n||1);cartCount.textContent=cart;showToast('Đã thêm: '+p.n);}
 
 // ==== global click handling ====
 document.addEventListener('click',e=>{
@@ -1269,7 +1294,7 @@ const phoneSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M5 4h4l2 5-3 2a11 
 const chatSvg='<svg class="ico" viewBox="0 0 24 24"><path d="M21 15a2 2 0 0 1-2 2H8l-5 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>';
 function renderConsult(){
   document.getElementById('consult').innerHTML =
-    `<button class="btn brand block" id="buyNow">Đặt mua ngay</button>
+    `${laHetHang(currentProduct)?'<button class="btn brand block" id="buyNow" type="button" disabled>Hết hàng</button>':'<button class="btn brand block" id="buyNow" type="button">Đặt mua ngay</button>'}
      <div class="consult-or">hoặc để lại số điện thoại để được tư vấn</div>
      <div class="consult-field">
        <input type="tel" id="leadPhone" placeholder="Nhập số điện thoại rồi bấm Nhận tư vấn" inputmode="tel" autocomplete="tel">
@@ -1295,7 +1320,7 @@ function renderConsult(){
        <div><b>Đã nhận yêu cầu tư vấn</b><p>Cảm ơn bạn! Nhân viên IKI sẽ gọi lại số <b>${inp.value}</b> trong ít phút để tư vấn ${nameTxt} và hỗ trợ đặt hàng.</p></div></div>`;
     showToast('Đã gửi — nhân viên sẽ gọi lại sớm');
   };
-  document.getElementById('buyNow').onclick=()=>{ if(currentProduct) openCheckout(currentProduct); };
+  var nutMua=document.getElementById('buyNow'); if(nutMua&&!laHetHang(currentProduct)) nutMua.onclick=()=>{ if(currentProduct) openCheckout(currentProduct); };
   document.getElementById('leadSubmit').onclick=sendLead;
   inp.addEventListener('keydown',e=>{if(e.key==='Enter')sendLead();});
   inp.addEventListener('input',()=>inp.style.borderColor='');
@@ -1311,9 +1336,13 @@ function coPayMode(){ const r=document.querySelector('input[name="copay"]:checke
 function coRefresh(){
   document.getElementById('coQ').textContent=coQty;
   document.getElementById('coTotal').textContent=money(coTotalV());
-  document.getElementById('coSubmit').textContent=(coPayMode()==='bank'?'Đặt hàng & lấy mã QR · ':'Xác nhận đặt hàng · ')+money(coTotalV());
+  var nut=document.getElementById('coSubmit');
+  if(laHetHang(coProduct)){ nut.disabled=true; nut.textContent='Hết hàng'; return; }
+  nut.disabled=false;
+  nut.textContent=(coPayMode()==='bank'?'Đặt hàng & lấy mã QR · ':'Xác nhận đặt hàng · ')+money(coTotalV());
 }
 function openCheckout(p){
+  if(laHetHang(p)){ showToast('Sản phẩm đang hết hàng'); return; }
   coProduct=p; coQty=1; if(coPoll){clearInterval(coPoll);coPoll=null;}
   document.getElementById('coImg').src=p.img;
   document.getElementById('coTitle').textContent=p.n;
@@ -1349,6 +1378,7 @@ function thankYou(p, phone, kind){
   res.scrollIntoView({block:'center'});
 }
 document.getElementById('coSubmit').onclick=async function(){
+  if(laHetHang(coProduct)){ showToast('Sản phẩm đang hết hàng'); return; }
   var name=(document.getElementById('coName').value||'').trim();
   var phone=(document.getElementById('coPhone').value||'').trim();
   var addr=(document.getElementById('coAddr').value||'').trim();
@@ -1441,6 +1471,7 @@ document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('da
 // ==== danh sách sản phẩm SỐNG: sửa ở hope-ops-hub /admin/cua-hang (thay Haravan, CEO 17/09/2026) ====
 // Hỏng mạng / API lỗi / trả ít hơn 3 món thì giữ nguyên danh sách gắn sẵn ở trên — khách vẫn mua được.
 (function(){
+  capNhatSchema();
   try{
     fetch('https://hope-ops-hub.vercel.app/api/shop/san-pham').then(function(r){return r.ok?r.json():null;}).then(function(d){
       var ds=d&&Array.isArray(d.sanPham)?d.sanPham:null;
@@ -1453,6 +1484,9 @@ document.getElementById('themeBtn').onclick=()=>{const cur=root.getAttribute('da
       document.getElementById('featList').innerHTML=PRODUCTS.slice(0,4).map(card).join('');
       renderCol();
       if(dangXem){ var m=PRODUCTS.find(function(p){return p._slug===dangXem;}); if(m) openDetail(m); }
+      if(coProduct){ var mo=PRODUCTS.find(function(p){return p.n===coProduct.n;}); if(mo) coProduct=mo; }
+      if(typeof coRefresh==='function') coRefresh();
+      capNhatSchema();
     }).catch(function(){});
   }catch(e){}
 })();

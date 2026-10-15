@@ -84,7 +84,7 @@ for (const b of BAN) {
           ...(x.desc ? { description: x.desc } : {}),
           ...(x.img ? { image: x.img } : {}),
           brand: { "@type": "Brand", name: "IKI by HOPE CORP" },
-          ...(x.price ? { offers: { "@type": "Offer", price: x.price, priceCurrency: "VND", availability: "https://schema.org/InStock", url: `${SITE}${b.duong}` } } : {}),
+          ...(x.price ? { offers: { "@type": "Offer", price: x.price, priceCurrency: "VND", availability: x.het_hang === true ? "https://schema.org/OutOfStock" : "https://schema.org/InStock", url: `${SITE}${b.duong}` } } : {}),
         },
       })),
     },
