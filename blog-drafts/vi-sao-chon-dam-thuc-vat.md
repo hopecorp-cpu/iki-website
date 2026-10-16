@@ -113,7 +113,7 @@ Nhìn tổng thể, một khẩu phần đạm thực vật lý tưởng thườ
 
 ## Đạm thực vật True Vegan Protein — một lựa chọn cho nếp sống bận rộn
 
-![Hộp bột đạm dinh dưỡng thực vật True Vegan Protein Pro 500g của IKI](../assets/san-pham/true-vegan-protein.jpg)
+![Hộp True Vegan Protein Pro 22 gói x 22 g của IKI](../assets/san-pham/true-vegan-protein-pro-hop-22-goi/hop-mat-truoc-va-goi.webp)
 
 Xem [thông tin đầy đủ về True Vegan Protein Pro](../san-pham/true-vegan-protein.html): thành phần, cách pha, ai dùng được và giá niêm yết.
 

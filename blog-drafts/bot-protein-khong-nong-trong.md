@@ -171,7 +171,7 @@ Không có loại bột nào "không gây nóng" cho tất cả mọi người, 
 
 Bài [đọc nhãn bột đạm thực vật](doc-nhan-bot-dam-thuc-vat.html) đi từng dòng nhãn với ảnh minh hoạ cụ thể, nếu bạn muốn đọc kỹ hơn.
 
-Về lựa chọn cụ thể, nếu bạn đang tìm một loại không có nền sữa, [bột đạm thực vật True Vegan Protein](https://trueveganprotein.com) được phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt, thuần chay, pha được với nước lọc, nước ấm hoặc sữa hạt tuỳ khẩu vị. Đây là một lựa chọn trong nhiều lựa chọn — điều quan trọng vẫn là bạn đọc nhãn và chọn thứ hợp với bụng mình, hợp với ngân sách và hợp với khẩu vị của chính mình.
+Về lựa chọn cụ thể, nếu bạn đang tìm một loại không có nền sữa, [bột đạm thực vật True Vegan Protein](https://trueveganprotein.com) được phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất, pha được với nước lọc, nước ấm hoặc sữa hạt tuỳ khẩu vị. Đây là một lựa chọn trong nhiều lựa chọn — điều quan trọng vẫn là bạn đọc nhãn và chọn thứ hợp với bụng mình, hợp với ngân sách và hợp với khẩu vị của chính mình.
 
 ## Bảy ngày tự rà soát: một lộ trình cụ thể
 

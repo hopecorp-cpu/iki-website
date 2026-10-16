@@ -199,7 +199,7 @@ Hộp trà này hợp làm quà cho người thích một nghi thức nhỏ bu�
 
 ### Ghép thêm cho bạn ăn chay
 
-Với người bạn theo lối sống thuần thực vật, bạn có thể ghép một hộp trà cùng một món ăn uống thuần chay khác. Bột [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro phối từ đạm đậu Hà Lan, đạm hạnh nhân và nhiều loại hạt, giá niêm yết 668.000đ cho hộp 500g, là một lựa chọn cho người bạn bận rộn muốn có thêm nguồn đạm tiện pha vào bữa sáng. Món quà kiểu này cho thấy bạn thật sự để ý tới lối sống của người nhận.
+Với người bạn theo lối sống thuần thực vật, bạn có thể ghép một hộp trà cùng một món ăn uống thuần chay khác. Bột [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất, giá 688.000đ một hộp 22 gói (đã gồm VAT), là một lựa chọn cho người bạn bận rộn muốn có thêm nguồn đạm tiện pha vào bữa sáng. Món quà kiểu này cho thấy bạn thật sự để ý tới lối sống của người nhận.
 
 Các sản phẩm khác như mật ong, dầu ép, hạt dinh dưỡng để ghép thành hộp quà theo ý bạn có trong [cửa hàng IKI](https://ikihealing.com/shop/).
 
