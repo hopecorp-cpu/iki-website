@@ -43,6 +43,7 @@ const CAM = {
   ja: [/治療/, /治す/, /完治/, /デトックス効果/, /解毒/, /機能性食品/, /\d+\s?%\s?(?:OFF|オフ|割引)/i],
 };
 
+const nm = (a, lang) => (a[lang] && a[lang].name) || a.name; // tên hiển thị theo ngôn ngữ (JA: katakana, CEO chốt 16/10/2026)
 const esc = (s) => String(s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const inline = (s) => esc(s)
   .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
@@ -132,9 +133,9 @@ const CSS = `
 
 function authorCard(a, lang) {
   const href = a.profile ? `${BASE[lang]}${a.profile}.html` : "";
-  const name = href ? `<a href="${href}">${esc(a.name)}</a>` : esc(a.name);
+  const name = href ? `<a href="${href}">${esc(nm(a, lang))}</a>` : esc(nm(a, lang));
   const more = href ? `<a class="pfm" href="${href}">${esc(T[lang].profile)} →</a>` : "";
-  return `<div class="author"><img src="${a.photo}" alt="${esc(a.name)}" width="72" height="72" loading="lazy"><div><h3>${name}</h3><p class="role">${esc(a[lang].role)}</p><p>${esc(a[lang].bio)}</p>${more}</div></div>`;
+  return `<div class="author"><img src="${a.photo}" alt="${esc(nm(a, lang))}" width="72" height="72" loading="lazy"><div><h3>${name}</h3><p class="role">${esc(a[lang].role)}</p><p>${esc(a[lang].bio)}</p>${more}</div></div>`;
 }
 
 // Khối ebook: chỉ hiện khi founders-src/_ebook.json có bản của ngôn ngữ đó
@@ -187,10 +188,10 @@ function main() {
       const alt = Object.fromEntries(LANGS.map((l) => [l, `${BASE[l]}${p.slug}.html`]));
       const others = posts.filter((x) => x.slug !== p.slug).slice(0, 3);
       const main = `<article class="fd"><div class="wrap">
-<header class="nh"><span class="eyebrow" style="color:var(--rose)">${esc(c.eyebrow || t.eyebrow)}</span><h1>${esc(c.title)}</h1><p class="lead">${esc(c.desc)}</p><p class="meta"><img src="${a.photo}" alt="" width="36" height="36"><span><strong>${esc(a.name)}</strong> · ${esc(a[lang].role)}</span><span>· ${p.date.split("-").reverse().join("/")}</span><span>· ${minutes(lang, c.body)} ${esc(t.min)}</span></p></header>
+<header class="nh"><span class="eyebrow" style="color:var(--rose)">${esc(c.eyebrow || t.eyebrow)}</span><h1>${esc(c.title)}</h1><p class="lead">${esc(c.desc)}</p><p class="meta"><img src="${a.photo}" alt="" width="36" height="36"><span><strong>${esc(nm(a, lang))}</strong> · ${esc(a[lang].role)}</span><span>· ${p.date.split("-").reverse().join("/")}</span><span>· ${minutes(lang, c.body)} ${esc(t.min)}</span></p></header>
 <div class="body">${md(c.body)}</div>
 <p class="sec">${esc(t.by).toUpperCase()}</p><div class="bio">${authorCard(a, lang)}</div>
-${others.length ? `<p class="sec">${esc(t.posts).toUpperCase()}</p><div class="list">${others.map((o) => `<a class="card" href="${BASE[lang]}${o.slug}.html"><h3>${esc(o[lang].title)}</h3><p>${esc(o[lang].desc)}</p><small>${esc(authors[o.author].name)}</small></a>`).join("")}</div>` : ""}
+${others.length ? `<p class="sec">${esc(t.posts).toUpperCase()}</p><div class="list">${others.map((o) => `<a class="card" href="${BASE[lang]}${o.slug}.html"><h3>${esc(o[lang].title)}</h3><p>${esc(o[lang].desc)}</p><small>${esc(nm(authors[o.author], lang))}</small></a>`).join("")}</div>` : ""}
 ${ctaBlock(lang)}
 <p><a href="${BASE[lang]}" style="color:var(--rose)">← ${esc(t.back)}</a></p>
 <p class="disc">${esc(t.note)}</p>
@@ -207,7 +208,7 @@ ${ctaBlock(lang)}
       const alt = Object.fromEntries(LANGS.map((l) => [l, `${BASE[l]}${pr.slug}.html`]));
       const ps = posts.filter((p) => p.author === pr.key);
       const main = `<article class="fd"><div class="wrap">
-<header class="nh"><div class="pfh"><img src="${a.photo}" alt="${esc(a.name)}" width="150" height="150"><div><span class="eyebrow" style="color:var(--rose)">${esc(c.eyebrow || t.eyebrow)}</span><h1>${esc(c.title)}</h1><p class="lead"><strong>${esc(a.name)}</strong> · ${esc(a[lang].role)}</p></div></div>
+<header class="nh"><div class="pfh"><img src="${a.photo}" alt="${esc(nm(a, lang))}" width="150" height="150"><div><span class="eyebrow" style="color:var(--rose)">${esc(c.eyebrow || t.eyebrow)}</span><h1>${esc(c.title)}</h1><p class="lead"><strong>${esc(nm(a, lang))}</strong> · ${esc(a[lang].role)}</p></div></div>
 ${c.stats?.length ? `<div class="pfs">${c.stats.map((x) => `<div class="pfst"><b>${esc(x.n)}</b><span>${esc(x.l)}</span></div>`).join("")}</div>` : ""}</header>
 <div class="body">${md(c.body)}</div>
 ${ebookBlock(ebook, lang)}
@@ -217,14 +218,14 @@ ${ctaBlock(lang)}
 <p class="disc">${esc(t.note)}</p>
 </div></article>`;
       const ld = { "@context": "https://schema.org", "@type": "ProfilePage", inLanguage: lang, url: `${SITE}${alt[lang]}`, mainEntity: { "@type": "Person", name: a.name, jobTitle: a.en.role, description: c.desc, image: `${SITE}${a.photo}`, alumniOf: { "@type": "CollegeOrUniversity", name: "Sojo University" }, worksFor: { "@type": "Organization", name: "HOPE SERVICE CORPORATION (HOPE CORP)", url: SITE }, email: "contact@ikihealing.com" } };
-      fs.writeFileSync(path.join(dir, `${pr.slug}.html`), shell(lang, { title: `${a.name} — ${c.title}`, desc: c.desc, altPaths: alt, ogImage: a.photo, ld, main }));
+      fs.writeFileSync(path.join(dir, `${pr.slug}.html`), shell(lang, { title: `${nm(a, lang)} — ${c.title}`, desc: c.desc, altPaths: alt, ogImage: a.photo, ld, main }));
       urls.push(`${SITE}${alt[lang]}`);
     }
 
     // Trang chuyên mục
     const alt = Object.fromEntries(LANGS.map((l) => [l, BASE[l]]));
     const byAuthor = (k) => posts.filter((p) => p.author === k);
-    const col = (k) => { const ps = byAuthor(k); const a = authors[k]; return `<p class="sec">${esc(a.name).toUpperCase()}</p>${ps.length ? `<div class="list">${ps.map((p) => `<a class="card" href="${BASE[lang]}${p.slug}.html"><h3>${esc(p[lang].title)}</h3><p>${esc(p[lang].desc)}</p><small>${p.date.split("-").reverse().join("/")} · ${minutes(lang, p[lang].body)} ${esc(t.min)}</small></a>`).join("")}</div>` : `<p class="lead" style="margin:0 0 40px">${esc(t.soon)}</p>`}`; };
+    const col = (k) => { const ps = byAuthor(k); const a = authors[k]; return `<p class="sec">${esc(nm(a, lang)).toUpperCase()}</p>${ps.length ? `<div class="list">${ps.map((p) => `<a class="card" href="${BASE[lang]}${p.slug}.html"><h3>${esc(p[lang].title)}</h3><p>${esc(p[lang].desc)}</p><small>${p.date.split("-").reverse().join("/")} · ${minutes(lang, p[lang].body)} ${esc(t.min)}</small></a>`).join("")}</div>` : `<p class="lead" style="margin:0 0 40px">${esc(t.soon)}</p>`}`; };
     const hubMain = `<article class="fd"><div class="wrap">
 <header class="nh"><span class="eyebrow" style="color:var(--rose)">${esc(t.eyebrow)}</span><h1>${esc(t.hub)}</h1><p class="lead">${esc(t.intro)}</p></header>
 <div class="authors">${Object.keys(authors).map((k) => authorCard(authors[k], lang)).join("")}</div>
