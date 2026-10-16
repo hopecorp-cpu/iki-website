@@ -60,7 +60,7 @@ const BAI_NGU_KHONG_TPBS = new Set([
   "uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong",
 ]);
 const KHUYEN_CAO_CAU = {
-  dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hũ 500 g), số tự công bố 01/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. Dành cho người từ 16 tuổi trở lên.",
+  dam: "Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hộp 22 gói x 22 g), số tự công bố 03/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, Số 40A Quang Trung, Phường Hải Dương, Thành phố Hải Phòng. Dành cho người từ 18 tuổi trở lên.",
   "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ là trà thảo mộc túi lọc, số tự công bố 01 PURE TEA/HOPE CORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
 };
 // EN/JA dịch đúng câu đã duyệt ở trên và A8/A4 (data/cau-duyet-lo-b.json). Giữ nguyên tên riêng,
@@ -69,13 +69,13 @@ export const KHUYEN_CAO_LOCALE = {
   en: {
     A8: "This article shares information for reference and does not replace a doctor's advice.",
     A4: "Trà Thanh Hương — herbal tea bags. Công ty CP TMDV HOPE is responsible.",
-    dam: "TRUE VEGAN PROTEIN PRO dietary supplement (500 g jar), self-declaration number 01/HOPECORP/2026. Organization responsible for the product: Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE, L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội. For people aged 16 and over.",
+    dam: "TRUE VEGAN PROTEIN PRO dietary supplement (box of 22 sachets x 22 g), self-declaration number 03/HOPECORP/2026. Organization responsible for the product: Công ty Cổ phần TMDV HOPE, Số 40A Quang Trung, Phường Hải Dương, Thành phố Hải Phòng. For people aged 18 and over.",
     "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ is herbal tea bags, self-declaration number 01 PURE TEA/HOPE CORP/2026. Organization responsible for the product: Công ty Cổ phần TMDV HOPE, số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng.",
   },
   ja: {
     A8: "この記事は参考情報の共有であり、医師の助言に代わるものではありません。",
     A4: "Trà Thanh Hương — ハーブティーのティーバッグ。Công ty CP TMDV HOPE が責任を負います。",
-    dam: "健康補助食品 TRUE VEGAN PROTEIN PRO（500g入り）。自己公表番号 01/HOPECORP/2026。製品の責任を負う組織：Chi nhánh Hà Nội - Công ty Cổ phần TMDV HOPE、L93 ô đất U03, Khu D, Khu đô thị mới Dương Nội, phường Yên Nghĩa, thành phố Hà Nội。16歳以上の方向け。",
+    dam: "健康補助食品 TRUE VEGAN PROTEIN PRO（22包 x 22g入り）。自己公表番号 03/HOPECORP/2026。製品の責任を負う組織：Công ty Cổ phần TMDV HOPE、Số 40A Quang Trung, Phường Hải Dương, Thành phố Hải Phòng。18歳以上の方向け。",
     "thanh-huong": "PURE AROMA BLISS TEA - THANH HƯƠNG TRÀ はハーブティーのティーバッグです。自己公表番号 01 PURE TEA/HOPE CORP/2026。製品の責任を負う組織：Công ty Cổ phần TMDV HOPE、số 63/253 đường Ngô Quyền, phường Lê Thanh Nghị, thành phố Hải Phòng。",
   },
 };

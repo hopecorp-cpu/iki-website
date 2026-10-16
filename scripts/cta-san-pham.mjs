@@ -45,8 +45,11 @@ async function layGiaShop() {
     const ds = (await r.json()).sanPham || [];
     const gia = {};
     for (const [slug, ten] of Object.entries(TEN_API)) {
-      const sp = ds.find((x) => boDau(x.n).includes(ten));
+      // 16/10/2026: cùng tên "true vegan protein pro" có cả hũ 500g (ngừng bán) lẫn hộp 22 gói — chỉ lấy món còn
+      // nhận đặt (không ngừng bán, không hết hàng). Không có món nào thì giữ giá bản chụp cho slug đó, không đoán.
+      const sp = ds.find((x) => boDau(x.n).includes(ten) && x.trangThai !== "ngung-ban" && x.het_hang !== true);
       if (sp && Number.isFinite(sp.price)) gia[slug] = sp.price;
+      else if (chup && Number.isFinite(chup.gia?.[slug])) gia[slug] = chup.gia[slug];
     }
     if (!Object.keys(gia).length) throw new Error("API không có sản phẩm nào khớp");
     if (!chup || JSON.stringify(chup.gia) !== JSON.stringify(gia)) {
@@ -134,11 +137,11 @@ export function ctaSanPham(fm = {}, goc = "../") {
           <div class="cta-sp-chu">
             <span class="cta-sp-nhan">${nhan}</span>
             <h3>${p.tenDayDu}</h3>
-            <p class="cta-sp-thongso">${p.quyCach} · ${tien(gia)}</p>
+            <p class="cta-sp-thongso">${p.quyCach} · ${tien(gia)}${p.trangThai === "sap-ra-mat" ? ` · Sắp ra mắt, dự kiến về ${p.ngayVe}` : ""}</p>
             <p class="cta-sp-mo">${moTa}</p>
             <div class="cta-sp-nut">
               <a class="cta-sp-chinh" href="${goc}san-pham/${p.slug}.html">Xem chi tiết sản phẩm</a>
-              <a class="cta-sp-phu" href="${goc}shop/?sp=${p.slug}">Đặt hàng tại cửa hàng IKI</a>
+              <a class="cta-sp-phu" href="${goc}shop/?sp=${p.slug}">${p.trangThai === "sap-ra-mat" ? "Đặt trước tại cửa hàng IKI" : "Đặt hàng tại cửa hàng IKI"}</a>
             </div>
           </div>
         </aside>`;

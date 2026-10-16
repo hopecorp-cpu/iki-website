@@ -132,6 +132,11 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null
     .sp-doc-them{background:#F7FAF6;border-radius:16px;padding:20px 24px;margin:30px 0}
     .sp-chua-ban{background:#ffffff;border-left:5px solid #E48AA8;border-radius:12px;padding:14px 18px;margin:16px 0;font-size:.97rem;color:#7a3450}
     .sp-doc-them ul{margin:8px 0 0;padding-left:20px}
+    .sp-dat-truoc{display:inline-block;background:#1F4D1F;color:#fff;font-size:.8rem;font-weight:700;padding:5px 10px;border-radius:6px;margin:4px 0 2px}
+    .sp-nhan{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:1.2rem 0}
+    .sp-nhan figure{margin:0;background:#F7FAF6;border:1px solid #e6ece3;border-radius:12px;padding:10px}
+    .sp-nhan img{width:100%;height:auto;border-radius:8px;display:block}
+    .sp-nhan figcaption{font-size:.85rem;color:#667085;margin-top:6px}
   </style>
 <script src="/assets/js/nguon.js" defer></script>
 </head>
@@ -157,7 +162,8 @@ function trang(sp) {
       url,
       priceCurrency: "VND",
       price: String(sp.gia),
-      availability: sp.an === true ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
+      availability: sp.an === true || sp.trangThai === "sap-ra-mat" ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
+      ...(sp.trangThai === "sap-ra-mat" && sp.ngayVeISO ? { availabilityStarts: sp.ngayVeISO } : {}),
       seller: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE" },
     },
   };
@@ -181,6 +187,12 @@ function trang(sp) {
   };
 
   const an = sp.an === true;
+  // Sắp ra mắt (16/10/2026, đạm hộp 22 gói): giá bán thật, nhãn ngày về hàng, nút dẫn tới ĐẶT TRƯỚC ở /shop (chưa thu tiền).
+  const datTruoc = !an && sp.trangThai === "sap-ra-mat";
+  const bangCot = (rows) => (rows || []).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join("");
+  const congDung = bangCot(sp.congDung);
+  const dinhDuong = bangCot(sp.dinhDuong100g);
+  const anhNhan = (sp.anhNhan || []).map(([f, cap]) => `<figure><img src="../assets/san-pham/${f}" alt="${escAttr(cap)}" loading="lazy" /><figcaption>${esc(cap)}</figcaption></figure>`).join("");
   const khoi = (dk, h) => (dk ? h : "");
   const bang = (sp.thongTinNhanh || []).map(([k, v]) => `<tr><th>${esc(k)}</th><td>${esc(v)}</td></tr>`).join("");
   const dung = (sp.cachDung || []).map((b) => `<li>${esc(b)}</li>`).join("");
@@ -203,10 +215,15 @@ ${header()}
         <div>
           <span class="sp-eyebrow">${esc(sp.loai)}</span>
           <h1>${esc(sp.h1)}</h1>
-          <div class="sp-gia">${tien(sp.gia)}<small>${an ? "Giá tham khảo — sản phẩm đã ngừng bán" : "Giá niêm yết"}${sp.quyCach ? ` · ${esc(sp.quyCach)}` : ""}</small></div>
+          <div class="sp-gia">${tien(sp.gia)}<small>${an ? "Giá tham khảo — sản phẩm đã ngừng bán" : sp.giaNhan ? esc(sp.giaNhan) : "Giá niêm yết"}${sp.quyCach ? ` · ${esc(sp.quyCach)}` : ""}</small></div>
+          ${datTruoc ? `<span class="sp-dat-truoc">Sắp ra mắt · dự kiến về hàng ${esc(sp.ngayVe || "")}</span>` : ""}
           <p class="sp-mota">${esc(sp.moTa)}</p>
           ${an ? `<div class="sp-chua-ban">Sản phẩm này hiện <strong>chưa mở bán</strong> trên IKI. Trang được giữ lại để tra thông tin. Cần hỏi thêm, chị nhắn Zalo <a href="https://zalo.me/0987931551">098 793 1551</a>.</div>
-          <div class="sp-cta"><a class="sp-btn phu" href="../shop/">Xem sản phẩm đang bán</a></div>` : `<div class="sp-cta">
+          <div class="sp-cta"><a class="sp-btn phu" href="../shop/">Xem sản phẩm đang bán</a></div>` : datTruoc ? `<div class="sp-cta">
+            <a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">${esc(sp.datTruocNut || "Đặt trước tại cửa hàng IKI")}</a>
+            <a class="sp-btn phu" href="../quiz/">Làm bài đọc thể trạng miễn phí</a>
+          </div>
+          <p style="font-size:.86rem;color:#667085;margin:6px 0 0">${esc(sp.datTruocChu || "")}</p>` : `<div class="sp-cta">
             <a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">Xem trong cửa hàng</a>
             <a class="sp-btn phu" href="../quiz/">Làm bài đọc thể trạng miễn phí</a>
           </div>
@@ -214,7 +231,7 @@ ${header()}
           ${sp.banMoi ? `<div class="sp-ban-moi">
             <strong>${esc(sp.banMoi.tieuDe)}</strong>
             <p>${esc(sp.banMoi.chu)}</p>
-            <a href="${escAttr(sp.banMoi.link)}" rel="noopener">${esc(sp.banMoi.nutChu)} &rarr;</a>
+            ${sp.banMoi.link ? `<a href="${escAttr(sp.banMoi.link)}" rel="noopener">${esc(sp.banMoi.nutChu)} &rarr;</a>` : ""}
           </div>` : ""}
         </div>
       </div>
@@ -224,8 +241,18 @@ ${header()}
       ${khoi(bang, `<h2>Thông tin nhanh</h2>
       <table><tbody>${bang}</tbody></table>`)}
 
-      ${khoi(sp.thanhPhanText, `<h2>Thành phần và điểm đáng chú ý</h2>
+      ${khoi(sp.thanhPhanText, `<h2>${esc(sp.thanhPhanTieuDe || "Thành phần và điểm đáng chú ý")}</h2>
       <p>${esc(sp.thanhPhanText || "")}</p>`)}
+
+      ${khoi(congDung, `<h2>Công dụng in trên nhãn</h2>
+      <table><thead><tr><th>Công dụng</th><th>Đến từ</th></tr></thead><tbody>${congDung}</tbody></table>`)}
+
+      ${khoi(sp.thanhPhanNhan, `<h2>Thành phần (theo nhãn)</h2>
+      <p>${esc(sp.thanhPhanNhan || "")}</p>`)}
+
+      ${khoi(dinhDuong, `<h2>Thành phần dinh dưỡng trong 100 g</h2>
+      <table><tbody>${dinhDuong}</tbody></table>
+      ${sp.dinhDuongGhiChu ? `<p style="font-size:.92rem;color:#667085">${esc(sp.dinhDuongGhiChu)}</p>` : ""}`)}
 
       ${khoi(dung, `<h2>Cách dùng</h2>
       <ol>${dung}</ol>`)}
@@ -234,6 +261,9 @@ ${header()}
       <p>${esc(sp.baoQuan || "")}</p>`)}
 
       ${khoi(sp.luuY, `<div class="sp-luu-y"><strong>Lưu ý:</strong> ${esc(sp.luuY || "")}</div>`)}
+
+      ${khoi(anhNhan, `<h2>Nhãn sản phẩm</h2>
+      <div class="sp-nhan">${anhNhan}</div>`)}
 
       ${khoi(faq, `<h2 id="faq">Câu hỏi thường gặp</h2>
       <div class="sp-faq">
@@ -265,7 +295,9 @@ function main() {
     const moiChu = [
       sp.h1, sp.seoTitle, sp.moTa, sp.thanhPhanText, sp.baoQuan, sp.luuY,
       ...(sp.cachDung || []), ...(sp.thongTinNhanh || []).flat(), ...(sp.faq || []).map((f) => `${f.q} ${f.a}`),
-      sp.banMoi ? `${sp.banMoi.tieuDe} ${sp.banMoi.chu} ${sp.banMoi.nutChu}` : "",
+      sp.banMoi ? `${sp.banMoi.tieuDe} ${sp.banMoi.chu} ${sp.banMoi.nutChu || ""}` : "",
+      sp.giaNhan, sp.datTruocNut, sp.datTruocChu, sp.thanhPhanTieuDe, sp.thanhPhanNhan, sp.dinhDuongGhiChu,
+      ...(sp.congDung || []).flat(), ...(sp.dinhDuong100g || []).flat(), ...(sp.anhNhan || []).map((a) => a[1]),
     ].join("\n");
     soiTuCam(moiChu, sp.ten);
 

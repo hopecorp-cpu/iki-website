@@ -7,89 +7,212 @@
   "KHÔNG gắn aggregateRating vào Product schema khi chưa có đánh giá thật: bịa đánh giá là vi phạm chính sách Google và là làm giả bằng chứng.",
   "Giá do CEO chốt. Máy CẤM tự đặt giá mới, CẤM tự chế khuyến mãi (khuyến mãi luôn là TẶNG QUÀ, không giảm phần trăm)."
  ],
- "capNhat": "2026-09-28",
+ "capNhat": "2026-10-16",
  "sanPham": [
   {
    "slug": "true-vegan-protein",
    "ten": "True Vegan Protein Pro",
-   "tenDayDu": "Bột Đạm Dinh Dưỡng True Vegan Protein Pro 500g",
+   "tenDayDu": "True Vegan Protein Pro — Bột đạm dinh dưỡng thực vật, hộp 22 gói x 22 g",
    "tuKhoa": "True Vegan Protein",
-   "h1": "True Vegan Protein Pro — bột đạm dinh dưỡng thực vật 500g",
-   "seoTitle": "True Vegan Protein Pro: thành phần, cách pha và giá 500g",
-   "moTa": "True Vegan Protein Pro là bột đạm dinh dưỡng thực vật thuần chay, hộp 500g, giá niêm yết 668.000đ. Xem thành phần, cách pha, ai dùng được và những câu hỏi thường gặp trước khi mua.",
-   "loai": "Thực phẩm bổ sung — bột đạm thực vật",
-   "anh": "true-vegan-protein.jpg",
-   "anhAlt": "Hộp bột đạm dinh dưỡng thực vật True Vegan Protein Pro 500g của IKI",
-   "gia": 668000,
-   "quyCach": "Hũ 500 g",
-   "danhCho": "Người từ 16 tuổi trở lên",
+   "h1": "True Vegan Protein Pro — bột đạm dinh dưỡng thực vật, hộp 22 gói x 22 g",
+   "seoTitle": "True Vegan Protein Pro hộp 22 gói: thành phần, cách dùng, giá",
+   "moTa": "True Vegan Protein Pro là thực phẩm bổ sung dạng bột đạm dinh dưỡng thực vật, hộp 22 gói x 22 g (484 g), giá 688.000đ đã gồm VAT. Sắp ra mắt, dự kiến về hàng 05/11/2026; hiện nhận đặt trước, chưa thu tiền.",
+   "loai": "Thực phẩm bổ sung — bột đạm dinh dưỡng thực vật",
+   "anh": "true-vegan-protein-pro-hop-22-goi/hop-mat-truoc-va-goi.webp",
+   "anhAlt": "Hộp True Vegan Protein Pro 22 gói x 22 g cạnh một gói, bột đạm dinh dưỡng thực vật của IKI",
+   "gia": 688000,
+   "giaNhan": "Giá bán, đã gồm VAT",
+   "quyCach": "Hộp 22 gói x 22 g (484 g)",
+   "danhCho": "Người từ 18 tuổi trở lên",
+   "trangThai": "sap-ra-mat",
+   "ngayVe": "05/11/2026",
+   "ngayVeISO": "2026-11-05",
+   "datTruocNut": "Đặt trước tại cửa hàng IKI",
+   "datTruocChu": "Trước ngày về hàng IKI chỉ nhận đặt trước, chưa thu tiền. Nhân viên gọi xác nhận trước khi giao.",
    "thongTinNhanh": [
     [
      "Loại sản phẩm",
-     "Thực phẩm bổ sung — bột đạm dinh dưỡng thực vật"
+     "Thực phẩm bổ sung — bột đạm dinh dưỡng thực vật (Plant-Based Nutritional Protein Powder)"
+    ],
+    [
+     "Thương hiệu",
+     "IKIHEALING (logo IKI)"
     ],
     [
      "Quy cách",
-     "Hũ 500 g"
+     "Hộp 22 gói x 22 g, khối lượng tịnh 484 g"
     ],
     [
      "Nguồn đạm",
-     "Phối từ nhiều loại hạt và đậu, thuần chay"
+     "Protein đậu Hà Lan (40%)"
+    ],
+    [
+     "Ba điểm nổi bật mặt trước",
+     "Bột Fucoidan · Protein thực vật · DHA từ tảo"
     ],
     [
      "Trên nhãn ghi",
-     "0 lactose, 0 cholesterol, 0 đạm động vật"
-    ],
-    [
-     "Chứng nhận in trên bao bì",
-     "ISO 22000, Vegan"
+     "0 Lactose · 0 Đạm động vật"
     ],
     [
      "Dành cho",
-     "Người từ 16 tuổi trở lên"
+     "Người từ 18 tuổi trở lên"
     ],
     [
-     "Số công bố",
-     "01/HOPECORP/2026 (hũ 500 g)"
+     "Số tự công bố",
+     "03/HOPECORP/2026"
     ],
     [
-     "Sản xuất tại",
-     "Công ty CP RV Nutrition Việt Nam"
+     "Mã vạch",
+     "8938553289103"
     ],
     [
-     "Giá niêm yết",
-     "668.000đ"
+     "Hạn sử dụng",
+     "16 tháng kể từ ngày sản xuất (NSX và HSD in dưới đáy hộp)"
+    ],
+    [
+     "Thương nhân chịu trách nhiệm",
+     "Công ty Cổ phần TMDV HOPE (HOPE SERVICE CORPORATION), Số 40A Quang Trung, Phường Hải Dương, Thành phố Hải Phòng"
+    ],
+    [
+     "Sản xuất bởi",
+     "Công ty Cổ phần RV Nutrition Việt Nam, Phượng Bãi, Phường Chương Mỹ, Thành phố Hà Nội. Sản xuất tại Việt Nam"
+    ],
+    [
+     "Giá bán",
+     "688.000đ một hộp, đã gồm VAT"
+    ],
+    [
+     "Tình trạng",
+     "Sắp ra mắt — dự kiến về hàng 05/11/2026, đang nhận đặt trước"
     ]
    ],
-   "thanhPhanText": "True Vegan Protein Pro là bột đạm dinh dưỡng có nguồn gốc thực vật, phối từ nhiều loại hạt và đậu thay vì dùng một nguồn đạm duy nhất. Cách phối nhiều nguồn là điều đáng chú ý nhất về mặt dinh dưỡng: mỗi loại hạt hay đậu thường thiếu một vài axit amin thiết yếu, phối lại thì bộ axit amin của sản phẩm đầy đặn hơn so với chỉ dùng một loại. Bao bì cũng ghi rõ sản phẩm không chứa lactose, không cholesterol và không có đạm động vật — đây là ba điểm khiến nhiều người ăn chay, người không hợp sữa hoặc người muốn giảm đạm động vật quan tâm.",
-   "cachDung": [
-    "Đong lượng bột theo hướng dẫn in trên bao bì, cho vào bình lắc hoặc cốc.",
-    "Thêm nước ấm khoảng 40 độ C hoặc nước nguội — không dùng nước đang sôi, vì nước quá nóng làm bột vón cục và khó tan.",
-    "Lắc hoặc khuấy đều khoảng 20 giây cho tới khi bột tan hết.",
-    "Uống ngay sau khi pha. Muốn dễ uống hơn có thể pha cùng chuối chín, sữa hạt hoặc cho vào bát yến mạch."
+   "thanhPhanTieuDe": "Giới thiệu trên nhãn",
+   "thanhPhanText": "TRUE Vegan Protein Pro là giải pháp dinh dưỡng toàn diện, kết hợp hài hoà nguồn Protein, DHA và các khoáng chất (Canxi, Phospho, Kẽm). Lựa chọn tối ưu và tiện lợi cho nhịp sống hiện đại.",
+   "congDung": [
+    [
+     "Giúp cung cấp năng lượng",
+     "Protein đậu Hà Lan"
+    ],
+    [
+     "Giúp cơ thể hình thành hệ xương vững chắc",
+     "Calci + Phospho"
+    ],
+    [
+     "Bổ sung các khoáng chất",
+     "Calci, Phospho, Kẽm"
+    ],
+    [
+     "Hỗ trợ sự phát triển của não bộ",
+     "DHA"
+    ]
    ],
-   "baoQuan": "Để nơi khô ráo, thoáng mát, tránh ánh nắng trực tiếp. Đậy kín nắp sau mỗi lần dùng và luôn dùng muỗng khô — muỗng ướt là nguyên nhân phổ biến nhất khiến bột bị vón trong khí hậu nồm ẩm.",
-   "luuY": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do người có chuyên môn chỉ định nên hỏi ý kiến bác sĩ hoặc chuyên gia dinh dưỡng trước khi thêm bột đạm vào khẩu phần hằng ngày.",
+   "thanhPhanNhan": "Protein đậu Hà Lan (40%), Bột kem thực vật, Bột yến mạch, Chất tạo ngọt tự nhiên erythritol, Chất tạo ngọt tổng hợp isomalt (INS 953), Đường hoa dừa hữu cơ, Bột fucoidan, Bột hạt kê, Bột cốm khô, Tricalci phosphat (INS 341(iii)), Inulin, Hương liệu tổng hợp (Hương Vani), Bột DHA từ tảo, Hương liệu tổng hợp (Hương gạo yến mạch), Bột hạt sen, Bột cốt sữa dừa, Kẽm, Nano curcumin, Muối hồng Himalaya, Bột tảo xoắn spirulina, Bột đậu đỏ, Bột gạo lứt, Bột đậu xanh, Bột chiết xuất astiso, Chất tạo ngọt tự nhiên (đường cỏ ngọt Steviten fresh (INS 960d)).",
+   "dinhDuong100g": [
+    [
+     "Năng lượng",
+     "377 kcal"
+    ],
+    [
+     "Chất đạm",
+     "30 g"
+    ],
+    [
+     "Chất béo",
+     "13,7 g"
+    ],
+    [
+     "Carbohydrat",
+     "31,4 g"
+    ],
+    [
+     "Đường tổng số",
+     "4,9 g"
+    ],
+    [
+     "Natri",
+     "355 mg"
+    ],
+    [
+     "Isomalt",
+     "3,9 g"
+    ],
+    [
+     "Inulin",
+     "947 mg"
+    ],
+    [
+     "DHA",
+     "148 mg"
+    ],
+    [
+     "Fucoidan",
+     "50 mg"
+    ],
+    [
+     "Phospho",
+     "531 mg"
+    ],
+    [
+     "Calci",
+     "366 mg"
+    ],
+    [
+     "Kẽm",
+     "26 mg"
+    ]
+   ],
+   "dinhDuongGhiChu": "Đạt tối thiểu 80% giá trị ghi trên nhãn. Mỗi gói 22 g có khoảng 6,6 g đạm — số tính từ bảng 100 g, không in riêng trên nhãn.",
+   "cachDung": [
+    "Rót 150 ml nước ấm (40°C) vào cốc.",
+    "Thêm 1 gói (22 g) bột.",
+    "Khuấy đều và thưởng thức ngay sau khi pha.",
+    "Khuyến nghị: 3 gói mỗi ngày."
+   ],
+   "baoQuan": "Bảo quản nơi thoáng mát, tránh ánh nắng chiếu trực tiếp. Không để sản phẩm trong tủ lạnh. Sản phẩm đã mở nắp phải được đậy kín và sử dụng tốt nhất trong vòng 3 tuần sau khi mở hộp. Hạn sử dụng 16 tháng kể từ ngày sản xuất; NSX và HSD in dưới đáy hộp.",
+   "luuY": "Dành cho người từ 18 tuổi trở lên. Khi pha xong phải dùng hết trong vòng 1 giờ, bỏ phần thừa sau khi uống. Không dùng sản phẩm khi hết hạn sử dụng hoặc có dấu hiệu hư hỏng.",
+   "anhNhan": [
+    [
+     "true-vegan-protein-pro-hop-22-goi/nhan-mat-sau-hop-ban-in.webp",
+     "Mặt sau hộp — cắt từ file in nhãn chốt 12/10/2026"
+    ],
+    [
+     "true-vegan-protein-pro-hop-22-goi/nhan-goi-ban-in.webp",
+     "Nhãn gói 22 g — cắt từ file in"
+    ],
+    [
+     "true-vegan-protein-pro-hop-22-goi/nhan-day-hop-phap-nhan-ban-in.webp",
+     "Đáy hộp: thương nhân chịu trách nhiệm và nơi sản xuất — cắt từ file in"
+    ],
+    [
+     "true-vegan-protein-pro-hop-22-goi/hop-va-2-goi.webp",
+     "Hộp và gói (ảnh dựng 3D)"
+    ]
+   ],
    "faq": [
     {
-     "q": "True Vegan Protein Pro là gì?",
-     "a": "Đây là bột đạm dinh dưỡng có nguồn gốc thực vật, thuần chay, đóng hộp 500 g, thuộc nhóm thực phẩm bổ sung. Sản phẩm phối đạm từ nhiều loại hạt và đậu, dùng để bổ sung thêm đạm vào khẩu phần ăn hằng ngày chứ không thay thế bữa ăn."
+     "q": "True Vegan Protein Pro hộp 22 gói là gì?",
+     "a": "Đây là thực phẩm bổ sung dạng bột đạm dinh dưỡng thực vật, đóng hộp 22 gói x 22 g (khối lượng tịnh 484 g). Nguồn đạm là protein đậu Hà Lan (40%), kèm bột DHA từ tảo, bột fucoidan và các khoáng chất canxi, phospho, kẽm. Trên nhãn ghi 0 lactose và 0 đạm động vật."
     },
     {
-     "q": "Một hộp True Vegan Protein Pro giá bao nhiêu?",
-     "a": "Giá niêm yết của hộp 500 g là 668.000đ. Cách so giá hợp lý giữa các loại bột đạm không phải là so giá mỗi hộp, mà là chia giá hộp cho số khẩu phần rồi chia tiếp cho số gam đạm trong mỗi khẩu phần, để ra giá trên mỗi gam đạm."
+     "q": "Giá bao nhiêu và khi nào có hàng?",
+     "a": "Giá bán 688.000đ một hộp, đã gồm VAT. Sản phẩm sắp ra mắt, dự kiến về hàng ngày 05/11/2026. Trước ngày đó IKI chỉ nhận đặt trước và chưa thu tiền; nhân viên gọi xác nhận trước khi giao."
     },
     {
-     "q": "Pha True Vegan Protein với nước nóng được không?",
-     "a": "Không nên dùng nước đang sôi. Nước quá nóng làm bột dễ vón cục và khó tan. Nên pha với nước ấm khoảng 40 độ C hoặc nước nguội, lắc đều khoảng 20 giây rồi uống ngay."
+     "q": "Mỗi gói có bao nhiêu đạm?",
+     "a": "Theo bảng thành phần dinh dưỡng trên nhãn, 100 g bột có 30 g chất đạm. Một gói 22 g vì thế có khoảng 6,6 g đạm. Đây là số tính từ bảng 100 g, nhãn không in riêng số cho từng gói."
     },
     {
-     "q": "Ai không nên tự ý dùng bột đạm thực vật?",
-     "a": "Sản phẩm dành cho người từ 16 tuổi trở lên. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc đang theo chế độ ăn do bác sĩ chỉ định nên hỏi ý kiến người có chuyên môn trước khi dùng đều đặn."
+     "q": "Pha True Vegan Protein Pro thế nào?",
+     "a": "Rót 150 ml nước ấm khoảng 40°C vào cốc, thêm 1 gói 22 g, khuấy đều và dùng ngay sau khi pha. Nhãn khuyến nghị 3 gói mỗi ngày. Pha xong nên dùng hết trong vòng 1 giờ, bỏ phần thừa."
     },
     {
-     "q": "Bột đạm thực vật có khó uống không?",
-     "a": "Bột đạm thực vật có vị hạt rõ hơn và kết cấu hơi dày hơn so với bột đạm từ sữa, đó là đặc điểm của nguyên liệu chứ không phải lỗi sản phẩm. Loại phối nhiều nguồn hạt thường dễ uống hơn loại đơn nguồn. Pha cùng chuối chín, sữa hạt hoặc cà phê nguội sẽ làm dịu vị hạt."
+     "q": "Ai dùng được sản phẩm này?",
+     "a": "Nhãn ghi dành cho người từ 18 tuổi trở lên. Người đang có bệnh nền, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ trước khi dùng."
+    },
+    {
+     "q": "Hũ 500 g trước đây còn bán không?",
+     "a": "Hũ 500 g là bản cũ và đã ngừng bán. Hộp 22 gói là bản nâng cấp với công thức và số tự công bố mới (03/HOPECORP/2026), nên thông tin của hai bản không dùng thay cho nhau."
     }
    ],
    "baiLienQuan": [
@@ -115,10 +238,8 @@
     ]
    ],
    "banMoi": {
-    "tieuDe": "Bản mới: hộp 22 gói chia sẵn — đang nhận đặt trước",
-    "chu": "Cùng dòng True Vegan Protein Pro, bao bì đổi từ hũ bột sang gói 22g chia sẵn: hộp 22 gói x 22g, khối lượng tịnh 484g, số tự công bố 03/HOPECORP/2026. Giá dự kiến 688.000đ một hộp. Hàng chưa về kho nên hiện chỉ ghi tên người đặt trước, chưa thu tiền và chưa chốt ngày giao. Bản hũ 500g trên trang này vẫn đang bán bình thường.",
-    "link": "https://trueveganprotein.com/#dat-truoc",
-    "nutChu": "Ghi tên đặt trước bản mới"
+    "tieuDe": "Hũ 500 g (bản cũ) đã ngừng bán",
+    "chu": "Hộp 22 gói x 22 g là bản nâng cấp thay cho hũ 500 g. Hũ 500 g không còn nhận đặt hàng; thông tin trên trang này là của hộp 22 gói."
    }
   },
   {
