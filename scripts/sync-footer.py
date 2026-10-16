@@ -20,7 +20,7 @@ NOTICE={
 # Câu EN đã gắn ở lượt trước; lần chạy sau đổi sang câu chốt ở trên.
 EN_CU='This content is for reference only and does not replace medical advice. IKI products are not medicines and do not replace medicines that treat disease.'
 # Không gắn câu miễn trừ: trang noindex dành cho đối tác (không phải trang nội dung công khai).
-SKIP_NOTICE={'investor/index.html'}
+SKIP_NOTICE={'investor/index.html','en/investor/index.html','ja/investor/index.html'}
 # 11 trang chính sách: câu chân trang riêng, gọi đúng Trà Thanh Hương và TRUE VEGAN PROTEIN PRO.
 # JA giữ tên Latinh «Thanh Hương茶» như các trang ja/ hiện có, không dùng タンフォン.
 POLICY_FILES={'404.html','chinh-sach.html','chinh-sach-bao-mat.html','chinh-sach-doi-tra.html','chinh-sach-gia.html','chinh-sach-giao-hang.html','chinh-sach-thanh-toan.html','dieu-khoan-su-dung.html','du-lieu-su-dung.html','giai-quyet-khieu-nai.html','quyen-du-lieu.html'}
