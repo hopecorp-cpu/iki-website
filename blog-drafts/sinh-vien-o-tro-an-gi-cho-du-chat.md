@@ -1,13 +1,13 @@
 ---json
 {
-  "title": "Sinh viên ở trọ nên ăn gì cho đủ chất? Cẩm nang ăn uống tiết kiệm mà không kiệt sức",
-  "seo_title": "Sinh viên ở trọ nên ăn gì cho đủ chất mà tiết kiệm?",
+  "title": "Sinh viên ở trọ nên ăn gì cho đủ chất? Thực đơn rẻ, nấu bằng nồi cơm điện",
+  "seo_title": "Sinh viên ở trọ nên ăn gì cho đủ chất? Thực đơn rẻ, dễ nấu",
   "slug": "sinh-vien-o-tro-an-gi-cho-du-chat",
-  "description": "Sinh viên ở trọ nên ăn gì khi ngân sách hẹp, bếp chật? Công thức bữa ăn ba phần, thực phẩm rẻ mà giàu chất, mẹo đi chợ và cách bỏ thói quen ăn mì gói.",
+  "description": "Sinh viên ở trọ nên ăn gì cho đủ chất? Công thức 3 phần mỗi bữa, 4 nhóm thực phẩm rẻ, món nấu bằng nồi cơm điện và thực đơn mẫu cả tuần tiết kiệm.",
   "keyword": "sinh viên ở trọ nên ăn gì cho đủ chất",
   "category": "dinh-duong",
   "date": "2026-08-13",
-  "updated": "2026-08-13",
+  "updated": "2026-10-28",
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/sinh-vien-o-tro-an-gi-cho-du-chat-hero.jpg",
   "hero_alt": "Mâm cơm đơn giản gồm cơm, rau luộc, đậu phụ và trứng trên bàn gỗ nhỏ",
@@ -37,6 +37,14 @@
     {
       "q": "Sinh viên có cần dùng thực phẩm bổ sung không?",
       "a": "Phần lớn không cần, nếu bữa ăn giữ được công thức ba phần. Thực phẩm bổ sung chỉ có ý nghĩa khi bữa ăn thật sự không thể đủ — ví dụ giai đoạn ôn thi ăn uống thất thường, hoặc bạn ăn chay và khó đảm bảo lượng đạm. Ưu tiên đầu tư vào thực phẩm thật trước; tiền dành cho một hộp bổ sung thường mua được nhiều trứng, đậu và rau hơn."
+    },
+    {
+      "q": "Sinh viên ăn chay ở trọ có đủ đạm không?",
+      "a": "Đủ được, nếu mỗi bữa đều có một nguồn đạm thực vật rõ ràng: đậu phụ, sữa đậu nành, đậu đỗ khô, lạc, vừng. Điều cần tránh là bữa chỉ có cơm với rau. Xoay vòng nhiều loại đậu và hạt trong tuần thay vì chỉ ăn một món giúp khẩu phần đa dạng hơn."
+    },
+    {
+      "q": "Mỗi ngày nên ăn bao nhiêu muối là vừa?",
+      "a": "Tổ chức Y tế Thế giới (WHO) khuyến nghị người trưởng thành ăn dưới 5 g muối mỗi ngày, tức chưa đến một thìa cà phê, tính cả muối trong nước mắm, nước tương và gói gia vị. Với sinh viên, cách giảm dễ nhất là dùng nửa gói gia vị mì, không uống hết nước mì và không chan nhiều nước sốt khi ăn cơm quán."
     }
   ],
   "related": [
@@ -69,6 +77,8 @@ Tháng tám, các phòng trọ quanh trường lại bắt đầu sáng đèn. V
 Câu hỏi đó nghe nhẹ nhàng, nhưng nó đi kèm ba ràng buộc thật: ngân sách có hạn, bếp thường chỉ là một chiếc nồi cơm điện đặt góc phòng, và thời gian thì bị chia nhỏ bởi lịch học, làm thêm, deadline. Trong ba ràng buộc đó, thứ dễ hy sinh nhất luôn là bữa ăn. Và hệ quả thì đến chậm nhưng chắc: hết học kỳ đầu tiên, nhiều bạn nhận ra mình hay mệt, hay ốm vặt, khó tập trung trên giảng đường, da xấu đi, tóc rụng nhiều hơn.
 
 Bài viết này không đưa ra một thực đơn lý tưởng mà không ai theo được. Nó đưa ra một công thức đủ đơn giản để nhớ được lúc đói và mệt, một danh sách thực phẩm rẻ mà giàu chất, và cách xử lý những tình huống thực tế: hết tiền cuối tháng, thức khuya học bài, ăn quán, và cái bẫy mang tên mì gói.
+
+**Trả lời ngắn:** sinh viên ở trọ ăn đủ chất khi mỗi bữa chính có một phần đạm (trứng, đậu phụ, đậu đỗ, cá nhỏ), một phần tinh bột (cơm, khoai, bún) và một phần rau theo mùa. Trứng, đậu phụ, đậu đỗ khô và rau đang vào mùa là bốn nhóm rẻ mà giàu chất nhất, và đều nấu được chỉ bằng một chiếc nồi cơm điện. Mì gói nên là phương án dự phòng, và nếu ăn thì thêm trứng cùng rau.
 
 ## Vấn đề thật không phải "ăn ít" mà là "ăn lệch"
 
@@ -104,7 +114,7 @@ Bài [Cách chia đĩa bữa ăn cân bằng](cach-chia-dia-bua-an-can-bang.html
 
 **1. Trứng.** Không có gì đánh bại được trứng về tỷ lệ chất dinh dưỡng trên mỗi đồng bỏ ra. Trứng có đạm chất lượng cao, các vitamin nhóm B, vitamin D, choline. Luộc được, rán được, đánh vào cháo được, thả vào mì được. Mua theo vỉ 10 hoặc 30 quả rẻ hơn mua lẻ. Để tủ lạnh hoặc nơi mát dùng được nhiều ngày.
 
-**2. Đậu phụ và các sản phẩm từ đậu nành.** Rẻ, có mặt ở mọi chợ, giàu đạm thực vật, ăn được cả nóng lẫn nguội. Đậu phụ luộc chấm nước tương, đậu phụ hấp với hành, đậu phụ kho — đều là món một nồi. Bài [Ăn đậu phụ có tốt không](an-dau-phu-co-tot-khong.html) trả lời những băn khoăn thường gặp quanh nhóm này.
+**2. Đậu phụ và các sản phẩm từ đậu nành.** Rẻ, có mặt ở mọi chợ, giàu đạm thực vật, ăn được cả nóng lẫn nguội. Đậu phụ luộc chấm nước tương, đậu phụ hấp với hành, đậu phụ kho — đều là món một nồi. Bài [Ăn đậu phụ có tốt không](an-dau-phu-co-tot-khong.html) trả lời những băn khoăn thường gặp quanh nhóm này, còn [Đậu nành trong bữa cơm Việt](dau-nanh-trong-bua-com-viet.html) gợi ý thêm cách đưa đậu nành vào bữa hằng ngày.
 
 **3. Đậu đỗ khô** — đậu xanh, đậu đen, đậu đỏ, đậu lăng. Đây là nhóm bị đánh giá thấp nhất. Một túi đậu khô giá rẻ, để được hàng tháng không hỏng, nấu ra vừa có đạm vừa có chất xơ. Nấu cháo đậu xanh, chè đậu đen ít đường, hoặc đơn giản là ninh đậu cho vào cơm.
 
@@ -112,7 +122,7 @@ Bài [Cách chia đĩa bữa ăn cân bằng](cach-chia-dia-bua-an-can-bang.html
 
 **Nhóm bổ trợ, khi có điều kiện:** cá nhỏ như cá nục cá bạc má thường rẻ hơn thịt nhiều mà giàu dinh dưỡng; lạc và vừng là nguồn chất béo lành cực rẻ trong bếp Việt; chuối là loại quả rẻ và tiện nhất để mang theo đến trường.
 
-Với các bạn ăn chay hoặc ăn ít thịt, cần chú ý hơn tới tổng lượng đạm cả ngày — [đạm thực vật](https://trueveganprotein.com) từ đậu, đỗ và hạt là nền tảng, và nên ăn xoay vòng nhiều loại thay vì chỉ trung thành với một món. Bài [Cần bao nhiêu đạm mỗi ngày](can-bao-nhieu-dam-moi-ngay.html) giúp bạn ước lượng nhanh xem mình đang ở đâu.
+Với các bạn ăn chay hoặc ăn ít thịt, cần chú ý hơn tới tổng lượng đạm cả ngày — [đạm thực vật](https://trueveganprotein.com) từ đậu, đỗ và hạt là nền tảng, và nên ăn xoay vòng nhiều loại thay vì chỉ trung thành với một món. Bài [Ăn chay đủ chất](an-chay-du-chat-can-bang.html) chỉ cách xây khẩu phần chay cân bằng, và [Cần bao nhiêu đạm mỗi ngày](can-bao-nhieu-dam-moi-ngay.html) giúp bạn ước lượng nhanh xem mình đang ở đâu.
 
 ## Nấu gì khi cả bếp chỉ có một chiếc nồi cơm điện
 
@@ -142,6 +152,8 @@ Cách sửa rất rẻ, chỉ mất thêm khoảng thời gian bằng lúc đợ
 - **Bỏ một nắm rau vào cùng.** Rau muống, cải, giá đỗ đều được — thả vào lúc nước đang sôi.
 - **Chỉ dùng khoảng nửa gói gia vị.** Phần lớn lượng muối nằm ở gói này.
 - **Không uống hết nước.** Phần lớn muối hoà trong đó.
+
+Để dễ hình dung: Tổ chức Y tế Thế giới (WHO) khuyến nghị người trưởng thành ăn dưới 5 g muối mỗi ngày, tức chưa đến một thìa cà phê, tính cả muối trong nước mắm, nước tương và gói gia vị. Một bữa mì húp cạn nước rất dễ chiếm phần lớn hạn mức đó.
 
 Một gói mì cộng một quả trứng cộng một nắm rau vẫn rẻ hơn nhiều so với một cốc trà sữa, và về mặt dinh dưỡng thì khác hẳn một trời một vực. Bài [Ăn mì tôm thế nào cho đỡ hại](an-mi-tom-the-nao-cho-do-hai.html) đi sâu hơn vào chủ đề này.
 
@@ -177,7 +189,7 @@ Ba phương án cho ba mức độ vội:
 
 **Nên tránh gì:** đồ ngọt và nước tăng lực. Chúng tạo cảm giác tỉnh táo giả trong khoảng một tiếng rồi để lại cảm giác tụt dốc còn tệ hơn lúc đầu.
 
-**Về cà phê:** uống được, nhưng nên dừng trước khoảng bảy tám giờ tối nếu bạn còn muốn ngủ được sau đó. Cà phê uống quá muộn không làm bạn học được nhiều hơn, chỉ khiến giấc ngủ vốn đã ngắn lại càng kém chất lượng. Nếu cần một thức uống ấm để tỉnh táo mà không muốn thêm cà phê, trà thảo mộc hoặc một cốc nước ấm là lựa chọn nhẹ nhàng hơn cho buổi tối muộn; bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) có thêm gợi ý.
+**Về cà phê:** uống được, nhưng nên dừng ít nhất khoảng sáu tiếng trước giờ định ngủ. Một nghiên cứu đăng trên Journal of Clinical Sleep Medicine (Drake và cộng sự, 2013) cho thấy một liều caffeine lớn uống sáu tiếng trước giờ đi ngủ vẫn làm tổng thời gian ngủ đo được giảm hơn một tiếng. Cà phê uống quá muộn không làm bạn học được nhiều hơn, chỉ khiến giấc ngủ vốn đã ngắn lại càng kém chất lượng. Nếu cần một thức uống ấm để tỉnh táo mà không muốn thêm cà phê, trà thảo mộc hoặc một cốc nước ấm là lựa chọn nhẹ nhàng hơn cho buổi tối muộn; bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) có thêm gợi ý.
 
 **Sau một đêm thức khuya**, điều quan trọng nhất không phải là ngủ bù cả ngày, mà là **giữ được bữa sáng hôm sau**. Bỏ sáng sau một đêm thiếu ngủ là cách nhanh nhất để cả ngày hôm đó đổ vỡ. Bài [Sức khoẻ học sinh mùa thi](suc-khoe-hoc-sinh-mua-thi.html) và [Ăn gì để tập trung làm việc](an-gi-de-tap-trung-lam-viec.html) viết riêng cho giai đoạn này.
 
@@ -217,6 +229,9 @@ Không cần hoàn hảo. Chỉ cần **phần lớn các bữa có đủ ba ph�
 Nếu bạn muốn một điểm khởi đầu cụ thể hơn cho riêng mình — cơ địa, nhịp sinh hoạt, những dấu hiệu đang gặp — bản [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ đưa ra bản phân tích cá nhân hoá miễn phí, thay vì một lời khuyên chung cho tất cả mọi người.
 
 ## Nguồn tham khảo
+
+- Tổ chức Y tế Thế giới (WHO) — *Salt reduction* (khuyến nghị dưới 5 g muối/ngày cho người trưởng thành): [who.int](https://www.who.int/news-room/fact-sheets/detail/salt-reduction)
+- Drake C, Roehrs T, Shambroom J, Roth T — *Caffeine Effects on Sleep Taken 0, 3, or 6 Hours before Going to Bed*, Journal of Clinical Sleep Medicine, 2013; 9(11): 1195-1200: [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3805807/)
 
 - Bách Hoá Xanh — *7 thực đơn giá rẻ nhưng vẫn đủ chất cho sinh viên*: [bachhoaxanh.com](https://www.bachhoaxanh.com/kinh-nghiem-hay/tham-khao-ngay-7-thuc-don-gia-re-nhung-van-du-chat-cho-sinh-vien-ngheo-1423326)
 - Báo Tiền Phong (Sinh Viên Việt Nam) — *Bạn trẻ trổ tài với những bữa cơm sinh viên đầy dinh dưỡng*: [svvn.tienphong.vn](https://svvn.tienphong.vn/ban-tre-yeu-bep-tro-tai-voi-nhung-bua-com-sinh-vien-day-dinh-duong-post1418256.tpo)
