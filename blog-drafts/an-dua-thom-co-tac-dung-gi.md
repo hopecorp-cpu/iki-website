@@ -173,7 +173,7 @@ Thời điểm ăn quan trọng không kém lượng ăn, và với dứa thì �
 Dứa là thực phẩm lành với đa số người, nhưng có vài nhóm nên ăn dè và hỏi ý kiến chuyên gia nếu muốn ăn thường xuyên.
 
 - **Người hay ợ nóng, trào ngược dạ dày.** Vị chua của dứa dễ làm cảm giác nóng rát sau xương ức rõ hơn. Nếu bạn thuộc nhóm này, hãy đọc thêm [Trào ngược dạ dày: hiểu và điều chỉnh thói quen](trao-nguoc-da-day.html) và ăn dứa với lượng rất nhỏ, luôn sau bữa no.
-- **Người có bệnh lý dạ dày đang điều trị.** Hãy theo chỉ dẫn của bác sĩ, không tự quyết dựa trên bài viết trên mạng.
+- **Người có bệnh lý dạ dày đang được bác sĩ theo dõi.** Hãy theo chỉ dẫn của bác sĩ, không tự quyết dựa trên bài viết trên mạng.
 - **Người đang dùng thuốc chống đông máu hoặc chuẩn bị phẫu thuật.** Bromelain có thể tương tác, cần hỏi bác sĩ.
 - **Phụ nữ mang thai, đặc biệt ba tháng đầu.** Kinh nghiệm dân gian Việt Nam vốn dè chừng dứa trong giai đoạn này. Dù lượng dứa ăn tráng miệng thông thường không giống liều bromelain tách chiết, cách an toàn nhất vẫn là hỏi bác sĩ sản khoa.
 - **Người từng dị ứng với dứa.** Biểu hiện có thể là ngứa miệng, nổi mẩn, sưng môi. Nếu đã từng gặp, hãy tránh hẳn.
