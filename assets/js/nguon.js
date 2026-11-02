@@ -83,6 +83,24 @@
     };
   } catch (e) { }
 
+  // 2b) ĐẾM LƯỢT BẤM ZALO / GỌI theo kênh (02/11/2026). Link zalo.me không mang mã nguồn vào cuộc
+  // chat, nên đếm ngay lúc bấm: bắn beacon {page: tên miền, step: bam_zalo|bam_goi, kenh} sang
+  // Ops Hub (/api/funnel → /pheu-mkt). Chỉ là SỐ ĐẾM, không gửi gì của khách. Hỏng thì link vẫn mở.
+  document.addEventListener("click", function (ev) {
+    try {
+      var a = ev.target && ev.target.closest ? ev.target.closest("a[href]") : null;
+      if (!a) return;
+      var h = a.getAttribute("href") || "";
+      var step = /zalo\.me\//i.test(h) ? "bam_zalo" : /^tel:/i.test(h) ? "bam_goi" : "";
+      if (!step) return;
+      var n = khoi();
+      var d = JSON.stringify({ page: location.hostname.replace(/^www\./, ""), step: step, kenh: n.s || (n.ref ? "ref:" + n.ref : "") });
+      var ep = "https://" + API + "/api/funnel";
+      if (!(navigator.sendBeacon && navigator.sendBeacon(ep, new Blob([d], { type: "application/json" }))))
+        goc ? goc(ep, { method: "POST", headers: { "Content-Type": "application/json" }, body: d, keepalive: true }).catch(function () { }) : 0;
+    } catch (e) { }
+  }, true);
+
   // 3) Form POST cổ điển (trang tài liệu): chèn input ẩn trước khi trang chuyển đi.
   document.addEventListener("submit", function (ev) {
     try {
