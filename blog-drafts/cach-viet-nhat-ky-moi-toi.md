@@ -33,7 +33,7 @@
     },
     {
       "q": "Viết nhật ký có thay được việc gặp chuyên gia tâm lý không?",
-      "a": "Không. Viết nhật ký là một thói quen chăm sóc bản thân hằng ngày, không phải một phương pháp điều trị. Nếu bạn thấy buồn bã, lo âu hoặc mất hứng thú kéo dài nhiều tuần, khó ngủ triền miên, hay có những ý nghĩ làm hại bản thân, hãy tìm tới bác sĩ hoặc chuyên gia tâm lý. Nhật ký có thể đi cùng quá trình đó, nhưng không đứng thay cho nó."
+      "a": "Không. Viết nhật ký là một thói quen chăm sóc bản thân hằng ngày, không thay cho sự hỗ trợ chuyên môn. Nếu bạn thấy buồn bã, lo âu hoặc mất hứng thú kéo dài nhiều tuần, khó ngủ triền miên, hay có những ý nghĩ làm hại bản thân, hãy tìm tới bác sĩ hoặc chuyên gia tâm lý. Nhật ký có thể đi cùng quá trình đó, nhưng không đứng thay cho nó."
     }
   ],
   "related": [
