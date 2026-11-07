@@ -200,7 +200,7 @@ Vài phương án không cần bếp:
 - Đậu hũ non ăn liền.
 - Một hộp đậu nấu sẵn trữ trong tủ lạnh dùng dần trong hai đến ba ngày.
 
-Với những ngày mà cả các phương án trên cũng không kịp, bột đạm thực vật là một cách gom đạm gọn. Sản phẩm **True Vegan Protein Pro hộp 22 gói x 22 g** của HOPE được phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất, giá 688.000đ (đã gồm VAT). Cách dùng đơn giản là pha với nước hoặc sữa hạt, uống vào bữa sáng vội hoặc bữa xế.
+Với những ngày mà cả các phương án trên cũng không kịp, bột đạm thực vật là một cách gom đạm gọn. Sản phẩm **True Vegan Protein Pro hộp 22 gói x 22 g** của HOPE được phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất, giá 699.000đ (đã gồm VAT). Cách dùng đơn giản là pha với nước hoặc sữa hạt, uống vào bữa sáng vội hoặc bữa xế.
 
 Cần nói cho rõ để không ai hiểu nhầm: đây là **thực phẩm bổ sung**, đóng vai trò một nguồn đạm tiện lợi cho ngày bận — giống như một phần đậu được đóng gói gọn hơn. Nó không phải sản phẩm chăm sóc da và không có tác dụng thay thế bữa ăn đa dạng. Nền tảng vẫn luôn là mâm cơm hằng ngày; bột đạm chỉ lấp chỗ trống khi mâm cơm không kịp có mặt.
 
