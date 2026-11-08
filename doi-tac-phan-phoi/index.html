@@ -1,0 +1,515 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<!-- TRANG ẨN (07/11/2026): chuẩn bị cho các kênh phân phối sắp tới, học theo khung trang
+     "Nhà phát triển sản phẩm" của Droppii nhưng đảo vai — IKI tuyển đối tác phân phối.
+     Ẩn = noindex + không có trong sitemap.xml + không trang nào trỏ link tới.
+     Chữ trên trang là BẢN NHÁP chờ CEO duyệt; các câu có cam kết chính sách đánh dấu data-cho-duyet.
+     Mở công khai: bỏ thẻ robots, thêm canonical + sitemap, gắn link ở footer. -->
+<meta name="robots" content="noindex,nofollow">
+<title>Đối tác phân phối IKI — sản phẩm sức khoẻ có hồ sơ rõ ràng</title>
+<link rel="stylesheet" href="/assets/iki-20260908/fonts.css">
+<link rel="stylesheet" href="/assets/iki-20260908/site.css?v=brand-20260914">
+<script src="/assets/iki-20260908/site.js?v=navigation-4" defer></script>
+<meta name="description" content="IKI tìm đối tác phân phối cho True Vegan Protein Pro, Trà Thanh Hương, Trà Tuệ Minh: đủ hồ sơ pháp lý, cơ sở gia công đạt ISO 22000:2018, kèm bộ nội dung bán hàng đã soát theo quy định quảng cáo thực phẩm bổ sung.">
+<link rel="icon" href="/assets/brand/20260914/iki-avatar-hong-1024.png">
+<script id="iki-consent-default">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});</script>
+<script src="/assets/dong-y-cookie.js" defer data-lang="vi"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9X3LTTL2N3"></script>
+<script>gtag('js',new Date());gtag('config','G-9X3LTTL2N3');</script>
+<style>
+  /* Trang đối tác phân phối — lớp riêng bắt đầu bằng pp- để không đè site.css.
+     Luật web CEO 06/10: nền trắng / xám lạnh, không kem; nút bo 8px; không nhãn đánh số. */
+  body{background:#fff}
+  .pp-soft{background:#f4f5f7}
+  .pp-crumb{font-size:11px;color:var(--muted);padding-top:22px}
+  .pp-crumb a{color:var(--rose)}
+  .pp-hero{display:grid;grid-template-columns:1.1fr 1fr;gap:60px;align-items:center;padding-top:40px;padding-bottom:70px}
+  .pp-hero h1{font-size:clamp(42px,5.2vw,76px);margin-bottom:24px}
+  .pp-lede{font-size:16px;color:var(--muted);max-width:560px}
+  .pp-shelf{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;background:#f4f5f7;border:1px solid var(--line);border-radius:14px;padding:22px}
+  .pp-shelf figure{margin:0;background:#fff;border-radius:10px;overflow:hidden;border:1px solid var(--line)}
+  .pp-shelf img{width:100%;aspect-ratio:3/4;object-fit:cover;display:block}
+  .pp-shelf figcaption{font-size:11px;padding:8px 10px;color:var(--ink);line-height:1.4}
+
+  .pp-stats{display:grid;grid-template-columns:repeat(4,1fr);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .pp-stats div{padding:26px 22px 24px 0;display:flex;gap:14px;align-items:flex-start}
+  .pp-stats div+div{border-left:1px solid var(--line);padding-left:22px}
+  .pp-stats svg{width:26px;height:26px;color:var(--rose);flex:none;margin-top:2px}
+  .pp-stats b{display:block;font-size:15px;line-height:1.35;color:var(--ink);margin-bottom:4px}
+  .pp-stats span{font-size:12px;color:var(--muted);line-height:1.5;display:block}
+
+  .pp-pain{background:var(--plum);color:#fff}
+  .pp-pain .wrap{display:grid;grid-template-columns:.9fr 1.1fr;gap:70px;align-items:start;padding-top:84px;padding-bottom:84px}
+  .pp-pain .eyebrow{color:var(--pink)}
+  .pp-pain h2{font-size:clamp(32px,3.6vw,50px);color:#fff}
+  .pp-pain p{color:#d9d3dc;font-size:14px;max-width:440px}
+  .pp-pain ul{list-style:none;margin:0;padding:0}
+  .pp-pain li{display:grid;grid-template-columns:28px 1fr;gap:14px;padding:18px 0;border-top:1px solid #4a3d4f}
+  .pp-pain li:first-child{border-top:0;padding-top:4px}
+  .pp-pain li svg{width:22px;height:22px;color:var(--pink);margin-top:3px}
+  .pp-pain li b{display:block;color:#fff;font-size:15px;margin-bottom:4px}
+  .pp-pain li span{font-size:13px;color:#d9d3dc;line-height:1.65}
+
+  .pp-head{max-width:760px;margin-bottom:44px}
+  .pp-head h2{font-size:clamp(32px,3.6vw,50px)}
+  .pp-head p{color:var(--muted);font-size:14px}
+  .pp-grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
+  .pp-card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:28px 26px}
+  .pp-card svg{width:30px;height:30px;color:var(--rose);margin-bottom:16px}
+  .pp-card h3{font-size:24px;margin-bottom:10px}
+  .pp-card p{font-size:13px;color:var(--muted);margin:0}
+  .pp-card.wide{grid-column:span 1}
+
+  .pp-chan{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border-top:1px solid var(--line)}
+  .pp-chan div{display:flex;gap:16px;padding:24px 22px 24px 0;border-bottom:1px solid var(--line)}
+  .pp-chan div:not(:nth-child(3n+1)){padding-left:22px;border-left:1px solid var(--line)}
+  .pp-chan svg{width:24px;height:24px;color:var(--rose);flex:none;margin-top:3px}
+  .pp-chan b{display:block;font-size:15px;margin-bottom:4px}
+  .pp-chan span{font-size:12px;color:var(--muted);line-height:1.6;display:block}
+
+  .pp-prods{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+  .pp-prod{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+  .pp-prod img{width:100%;aspect-ratio:4/3;object-fit:cover;background:#f4f5f7;display:block}
+  .pp-prod-body{padding:24px 24px 26px}
+  .pp-tag{display:inline-block;font-size:10px;letter-spacing:1px;font-weight:600;color:var(--rose);border:1px solid #e6abb9;border-radius:6px;padding:3px 8px;margin-bottom:12px}
+  .pp-prod h3{font-size:28px;margin-bottom:6px}
+  .pp-prod p{font-size:13px;color:var(--muted);margin:0 0 14px}
+  .pp-prod dl{margin:0;font-size:12px;display:grid;grid-template-columns:auto 1fr;gap:6px 14px;border-top:1px solid var(--line);padding-top:14px}
+  .pp-prod dt{color:var(--muted)}
+  .pp-prod dd{margin:0;color:var(--ink)}
+  .pp-price-note{margin-top:24px;font-size:13px;color:var(--muted);text-align:center}
+
+  .pp-docs{display:grid;grid-template-columns:.85fr 1.15fr;gap:60px;align-items:start}
+  .pp-docs-side p{font-size:14px;color:var(--muted);max-width:420px}
+  .pp-doclist{display:grid;grid-template-columns:1fr 1fr;gap:0 28px;list-style:none;margin:0;padding:0}
+  .pp-doclist li{display:flex;gap:12px;padding:14px 0;border-top:1px solid var(--line);font-size:13px;line-height:1.55}
+  .pp-doclist svg{width:18px;height:18px;color:var(--green);flex:none;margin-top:2px}
+  .pp-doclist small{display:block;color:var(--muted);font-size:12px}
+
+  .pp-flow{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;list-style:none;margin:0;padding:0}
+  .pp-flow li{background:#fff;border:1px solid var(--line);border-radius:12px;padding:24px 22px;position:relative}
+  .pp-flow li svg{width:28px;height:28px;color:var(--rose);margin-bottom:14px}
+  .pp-flow h3{font-size:22px;margin-bottom:8px}
+  .pp-flow p{font-size:13px;color:var(--muted);margin:0}
+
+  .pp-reg{display:grid;grid-template-columns:.85fr 1.15fr;gap:60px;align-items:start}
+  .pp-reg-side p{font-size:14px;color:var(--muted);max-width:420px}
+  .pp-next{list-style:none;padding:0;margin:24px 0;font-size:13px}
+  .pp-next li{display:flex;gap:12px;padding:12px 0;border-top:1px solid var(--line)}
+  .pp-next svg{width:20px;height:20px;color:var(--rose);margin-top:3px;flex:none}
+  .pp-contact{font-size:13px;color:var(--ink)}
+  .pp-contact a{color:var(--rose);border-bottom:1px solid #c49aa5}
+  .pp-form{background:#fff;border:1px solid var(--line);border-radius:16px;padding:34px;box-shadow:0 10px 30px rgba(42,32,48,.06)}
+  .pp-form h3{font-size:30px;margin-bottom:6px}
+  .pp-form .fine{margin-bottom:20px;font-size:12px;color:var(--muted)}
+  .pp-sub{font-size:11px;letter-spacing:1.4px;font-weight:600;color:#966171;margin:6px 0 12px;padding-top:14px;border-top:1px solid var(--line)}
+  .pp-sub:first-of-type{border-top:0;padding-top:0}
+  .pp-row{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  .pp-field{margin-bottom:16px;min-width:0}
+  .pp-field>label,.pp-field>.pp-lab{display:block;font-size:12px;font-weight:600;margin-bottom:6px;color:var(--ink)}
+  .pp-field label i{font-style:normal;color:var(--rose)}
+  .pp-field label small,.pp-lab small{font-weight:400;color:var(--muted)}
+  .pp-form input:not([type=checkbox]),.pp-form select,.pp-form textarea{display:block;width:100%;min-width:0;border:1px solid var(--line);background:#fff;border-radius:8px;padding:12px 14px;font:400 16px/1.4 Interface,Arial,sans-serif;color:var(--ink)}
+  .pp-form select{appearance:none;background:#fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%2374666c' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E") no-repeat right 14px center;padding-right:38px}
+  .pp-form textarea{min-height:90px;resize:vertical}
+  .pp-form input:focus,.pp-form select:focus,.pp-form textarea:focus{border-color:var(--rose);outline:2px solid #e6abb955}
+  .pp-checks{display:flex;flex-wrap:wrap;gap:8px}
+  .pp-checks label{display:flex;align-items:center;gap:8px;border:1px solid var(--line);border-radius:8px;padding:9px 12px;font-size:13px;cursor:pointer;background:#fff}
+  .pp-checks input{width:16px;height:16px;margin:0;accent-color:var(--rose)}
+  .pp-checks label:has(input:checked){border-color:var(--rose);color:var(--rose)}
+  .pp-hp{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;opacity:0!important}
+  .pp-consent{margin:6px 0 18px}
+  .pp-consent label{display:flex;align-items:flex-start;gap:10px;font-size:12px;line-height:1.55;color:var(--muted);margin-bottom:10px;cursor:pointer}
+  .pp-consent input[type=checkbox]{width:18px;height:18px;flex:none;margin:1px 0 0;accent-color:var(--rose)}
+  .pp-consent .iki-dy-coso{font-size:11px;color:var(--muted);line-height:1.6;margin:4px 0 0}
+  .pp-consent a{color:var(--rose);text-decoration:underline}
+  .pp-err{color:#b3261e;font-size:12px;font-weight:600;margin:6px 0 0;display:none}
+  .pp-err.on{display:block}
+  .pp-form .btn{width:100%;border:0;justify-content:center;gap:14px;font-size:13px}
+  .pp-form .btn[disabled]{opacity:.6;cursor:wait}
+  .pp-status{margin-top:14px;font-size:13px;display:none}
+  .pp-status.on{display:block}
+  .pp-status.bad{color:#b3261e}
+  .pp-done{display:none}
+  .pp-done.on{display:block}
+  .pp-done svg{width:40px;height:40px;color:var(--green);margin-bottom:12px}
+  .pp-done h3{font-size:32px}
+  .pp-done p{font-size:14px;color:var(--muted)}
+  .pp-med{max-width:930px;font-size:12px;color:var(--muted);border-top:1px solid var(--line);padding-top:22px;padding-bottom:70px}
+
+  @media(max-width:1000px){
+    .pp-grid3,.pp-prods{grid-template-columns:1fr 1fr}
+    .pp-flow{grid-template-columns:1fr 1fr}
+    .pp-chan{grid-template-columns:1fr 1fr}
+    .pp-chan div:not(:nth-child(3n+1)){padding-left:0;border-left:0}
+    .pp-chan div:nth-child(2n){padding-left:22px;border-left:1px solid var(--line)}
+    .pp-stats{grid-template-columns:1fr 1fr}
+    .pp-stats div:nth-child(3){border-left:0;padding-left:0;border-top:1px solid var(--line)}
+    .pp-stats div:nth-child(4){border-top:1px solid var(--line)}
+  }
+  @media(max-width:800px){
+    .pp-hero,.pp-pain .wrap,.pp-docs,.pp-reg{grid-template-columns:1fr;gap:36px}
+    .pp-pain .wrap{padding-top:56px;padding-bottom:56px}
+  }
+  @media(max-width:560px){
+    .pp-hero{padding-top:20px;padding-bottom:50px}
+    .pp-hero h1{font-size:40px}
+    .pp-lede{font-size:14px}
+    .pp-shelf{padding:12px;gap:8px}
+    .pp-shelf figcaption{font-size:10px;padding:6px}
+    .pp-grid3,.pp-prods,.pp-flow,.pp-chan,.pp-stats,.pp-doclist{grid-template-columns:1fr}
+    .pp-chan div:nth-child(2n){padding-left:0;border-left:0}
+    .pp-stats div+div{border-left:0;padding-left:0;border-top:1px solid var(--line)}
+    .pp-row{grid-template-columns:1fr;gap:0}
+    .pp-form{padding:22px 18px}
+  }
+</style>
+<script src="/assets/js/nguon.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Đến nội dung</a>
+<header class="sitehead"><div class="wrap headrow"><a class="brand" href="/"><img src="/assets/brand/20260914/iki-logo-hong.png" alt=""><span>IKI<small>BEAUTY & WELLNESS</small></span></a><button class="menubtn" aria-label="Mở menu" aria-controls="nav" aria-expanded="false"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button><nav id="nav" aria-label="Menu chính"><a href="/" >Trang chủ</a><a href="/hoc-vien.html" >Học Viện</a><a href="/blog/" >Blog</a><a href="/cong-dong.html" >Cộng đồng</a><a href="/shop/" >Sản phẩm</a><a href="/app.html" >Ứng dụng</a><a href="/ve-hope.html" >Về HOPE CORP</a></nav><details class="language-switch"><summary aria-label="Chọn ngôn ngữ"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12h18"/></svg> VI <span aria-hidden="true">⌄</span></summary><div class="language-options"><a href="/doi-tac-phan-phoi/" lang="vi" aria-current="true">Tiếng Việt</a><a href="/en/" lang="en">English · Trang chủ</a><a href="/ja/" lang="ja">日本語 · Trang chủ</a></div></details></div></header>
+
+<main id="main">
+  <nav class="wrap pp-crumb" aria-label="Đường dẫn"><a href="/">Trang chủ</a> &rsaquo; <a href="/ve-hope.html">Về HOPE CORP</a> &rsaquo; Đối tác phân phối</nav>
+
+  <!-- HERO: lời mời + kệ ba sản phẩm (Droppii mở bằng 4 con số; IKI mở bằng 4 bằng chứng hồ sơ) -->
+  <section class="wrap pp-hero">
+    <div>
+      <span class="eyebrow">ĐỐI TÁC PHÂN PHỐI · IKI BY HOPE CORP</span>
+      <h1>Phân phối sản phẩm sức khoẻ có hồ sơ rõ ràng.</h1>
+      <p class="pp-lede">IKI tìm đối tác phân phối cho ba sản phẩm chủ lực: bột đạm dinh dưỡng thực vật True Vegan Protein Pro, Trà Thanh Hương và Trà Tuệ Minh. Hồ sơ pháp lý đầy đủ, cơ sở gia công đạt ISO 22000:2018, kèm bộ nội dung bán hàng đã soát theo quy định quảng cáo thực phẩm bổ sung.</p>
+      <div class="actions">
+        <a class="btn" href="#dang-ky" data-cta="hero">Đăng ký làm đối tác <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h15m-6-6 6 6-6 6"/></svg></a>
+        <a class="btn secondary" href="#san-pham">Xem sản phẩm <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14m-6-6 6 6 6-6"/></svg></a>
+      </div>
+    </div>
+    <div class="pp-shelf" aria-label="Ba sản phẩm chủ lực của IKI">
+      <figure><img src="/assets/san-pham/true-vegan-protein.jpg" alt="Bột đạm dinh dưỡng thực vật True Vegan Protein Pro" loading="eager"><figcaption>True Vegan Protein Pro</figcaption></figure>
+      <figure><img src="/assets/san-pham/tra-thanh-huong.jpg" alt="Hộp Trà Thanh Hương 30 gói túi lọc" loading="eager"><figcaption>Trà Thanh Hương</figcaption></figure>
+      <figure><img src="/assets/san-pham/tra-tue-minh.jpg" alt="Hộp Trà Tuệ Minh 30 gói túi lọc" loading="eager"><figcaption>Trà Tuệ Minh</figcaption></figure>
+    </div>
+  </section>
+
+  <section class="wrap" aria-label="Điểm chính">
+    <div class="pp-stats">
+      <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 8 12 3 3 8v8l9 5 9-5z"/><path d="M3 8l9 5 9-5M12 13v8"/></svg><p><b>Ba sản phẩm chủ lực</b><span>Một bột đạm thực vật, hai trà thảo mộc túi lọc.</span></p></div>
+      <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21h18M5 21V9l7-5 7 5v12"/><path d="M9 21v-6h6v6"/></svg><p><b>Gia công đạt ISO 22000:2018</b><span>HOPE sở hữu công thức, thương hiệu và đứng tên tự công bố.</span></p></div>
+      <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M9 3h6M10 3v6L4 19a1.5 1.5 0 0 0 1.3 2h13.4a1.5 1.5 0 0 0 1.3-2L14 9V3"/><path d="M7 15h10"/></svg><p><b>Kiểm nghiệm ISO/IEC 17025</b><span>Phiếu kiểm nghiệm an toàn cho từng sản phẩm.</span></p></div>
+      <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="20" r="1.4"/><circle cx="18" cy="20" r="1.4"/><path d="M2 3h3l2.6 12.2a2 2 0 0 0 2 1.6h8.3a2 2 0 0 0 2-1.5L22 7H6"/></svg><p><b>Đang bán nhiều kênh</b><span>Website ikihealing.com, Shopee, TikTok Shop và đại lý.</span></p></div>
+    </div>
+  </section>
+
+  <!-- NỖI ĐAU: Droppii nói khó khăn của nhà sản xuất; IKI nói khó khăn của người nhận hàng về bán -->
+  <section class="pp-pain section">
+    <div class="wrap">
+      <div>
+        <span class="eyebrow">VÌ SAO HỒ SƠ ĐI TRƯỚC</span>
+        <h2>Nhận một sản phẩm sức khoẻ về bán, rủi ro thường nằm ở chỗ không nhìn thấy.</h2>
+        <p>Sản phẩm tốt chưa đủ. Kênh phân phối cần biết mình đang bán thứ có giấy tờ khớp nhãn, có câu chữ an toàn để tư vấn, và không bị chính nguồn hàng làm loạn giá.</p>
+      </div>
+      <ul>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6M9 14l6 0"/></svg><p><b>Hồ sơ thiếu hoặc không khớp nhãn</b><span>Sàn và chuỗi cửa hàng yêu cầu bản tự công bố, phiếu kiểm nghiệm. Thiếu một tờ là hàng bị gỡ, vốn nằm kho.</span></p></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4M12 17h.01"/><path d="M10.3 3.9 1.8 18a2 2 0 0 0 1.7 3h17a2 2 0 0 0 1.7-3L13.7 3.9a2 2 0 0 0-3.4 0z"/></svg><p><b>Lời quảng cáo quá đà</b><span>Người bán tự viết bài, lỡ nói quá công dụng là vi phạm quy định quảng cáo thực phẩm bổ sung, cả người bán lẫn thương hiệu cùng chịu.</span></p></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8"/><path d="M14 7h7v7"/></svg><p><b>Giá giữa các kênh lệch nhau</b><span>Khi nguồn hàng không giữ khung giá, đối tác bỏ công gây dựng khách rồi bị phá giá ngay trên kênh khác.</span></p></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><p><b>Sản phẩm không có câu chuyện</b><span>Sản phẩm mới, ít người biết, mà thiếu tài liệu và câu chuyện thương hiệu thì đội tư vấn khó mở lời.</span></p></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- GIẢI PHÁP: tương ứng 5 lợi ích Droppii (mạng lưới, chống giả, tiết kiệm quảng cáo, dòng tiền, kho) -->
+  <section class="section">
+    <div class="wrap">
+      <div class="pp-head">
+        <span class="eyebrow">IKI CHUẨN BỊ SẴN CHO ĐỐI TÁC</span>
+        <h2>Nhận hàng là có đủ thứ để bán đúng và bán lâu.</h2>
+      </div>
+      <div class="pp-grid3">
+        <div class="pp-card"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 4 6v6c0 5 3.5 8 8 9 4.5-1 8-4 8-9V6z"/><path d="m9 12 2 2 4-4"/></svg><h3>Hồ sơ đủ trước khi bán</h3><p>Giấy chứng nhận đăng ký doanh nghiệp, bản tự công bố, tiêu chuẩn nhà sản xuất, phiếu kiểm nghiệm, chứng nhận ISO của cơ sở gia công và hồ sơ nhãn hiệu, gửi một lần trọn bộ.</p></div>
+        <div class="pp-card"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16v16H4z"/><path d="M8 9h8M8 13h8M8 17h5"/></svg><h3>Nội dung bán hàng đã soát</h3><p>Bộ bài mẫu, ảnh sản phẩm và danh sách từ cần tránh theo quy định quảng cáo thực phẩm bổ sung. Đội của đối tác dùng ngay, không phải tự viết từ đầu.</p></div>
+        <div class="pp-card"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M2 6s3-2 10-2 10 2 10 2v13s-3-2-10-2-10 2-10 2z"/><path d="M12 4v13"/></svg><h3>Câu chuyện có thật để tư vấn</h3><p>IKI là hệ sinh thái chăm sóc sức khoẻ chủ động: Học Viện IKI, ứng dụng, blog kiến thức và cộng đồng. Khách mua sản phẩm có nơi để học cách dùng đều đặn mỗi ngày.</p></div>
+        <div class="pp-card" data-cho-duyet="khung-gia"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20.6 13.4 13.4 20.6a2 2 0 0 1-2.8 0L3 13V3h10l7.6 7.6a2 2 0 0 1 0 2.8z"/><circle cx="7.5" cy="7.5" r="1.5"/></svg><h3>Khung giá rõ theo từng cấp</h3><p>Báo giá phân phối bằng văn bản, kèm mã vạch từng sản phẩm. Đối tác cùng cấp nhận cùng một khung giá, để không ai phải cạnh tranh bằng cách hạ giá.</p></div>
+        <div class="pp-card" data-cho-duyet="dao-tao"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M22 10 12 5 2 10l10 5 10-5z"/><path d="M6 12v5c3 2 9 2 12 0v-5"/></svg><h3>Đào tạo sản phẩm cho đội tư vấn</h3><p>Buổi giới thiệu sản phẩm cho đội bán hàng của đối tác, kèm tài liệu hỏi đáp thường gặp: thành phần, cách dùng, cách nói cho đúng.</p></div>
+        <div class="pp-card"><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14 9V5a3 3 0 0 0-6 0v4"/><rect x="3" y="9" width="18" height="12" rx="2"/><path d="M12 14v3"/></svg><h3>Hàng chính hãng từ chủ thương hiệu</h3><p>Đối tác nhập trực tiếp từ Công ty Cổ phần TMDV HOPE, có hoá đơn VAT và thông tin lô hàng rõ ràng.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- KÊNH: tương ứng ô "đang bán trên những kênh nào" trong form Droppii -->
+  <section class="section pp-soft">
+    <div class="wrap">
+      <div class="pp-head">
+        <span class="eyebrow">KÊNH IKI ĐANG TÌM ĐỐI TÁC</span>
+        <h2>Phù hợp nhất với kênh bán bằng tư vấn.</h2>
+        <p>Sản phẩm IKI cần được giới thiệu cách dùng, nên hợp với nơi người bán trò chuyện cùng khách thay vì chỉ đặt lên kệ.</p>
+      </div>
+      <div class="pp-chan">
+        <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"/></svg><p><b>Nền tảng thương mại tư vấn</b><span>Nền tảng có mạng lưới người bán, cộng tác viên tư vấn sản phẩm.</span></p></div>
+        <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l1.5-5h15L21 9"/><path d="M4 9v11h16V9M3 9h18"/><path d="M10 20v-6h4v6"/></svg><p><b>Chuỗi cửa hàng chay, organic</b><span>Cửa hàng thực phẩm sạch, đồ chay, sản phẩm tự nhiên.</span></p></div>
+        <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M12 8v8M8 12h8"/></svg><p><b>Nhà thuốc, cửa hàng sức khoẻ</b><span>Quầy thực phẩm bổ sung có dược sĩ, nhân viên tư vấn.</span></p></div>
+        <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><p><b>Đại lý, nhà phân phối khu vực</b><span>Đơn vị giữ hàng và phát triển điểm bán tại một tỉnh, thành.</span></p></div>
+        <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 7h18v13H3z"/><path d="M8 7V5a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"/></svg><p><b>Siêu thị, cửa hàng tiện lợi</b><span>Hệ thống bán lẻ có quầy đồ uống, thực phẩm dinh dưỡng.</span></p></div>
+        <div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="8" width="18" height="4" rx="1"/><path d="M12 8v13M19 12v7a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-7"/><path d="M7.5 8a2.5 2.5 0 0 1 0-5C10 3 12 8 12 8s2-5 4.5-5a2.5 2.5 0 0 1 0 5"/></svg><p><b>Đơn vị quà tặng doanh nghiệp</b><span>Công ty làm hộp quà cho nhân viên, đối tác dịp lễ Tết.</span></p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SẢN PHẨM: không ghi giá — giá phân phối là của CEO, gửi kèm hồ sơ -->
+  <section class="section" id="san-pham">
+    <div class="wrap">
+      <div class="pp-head">
+        <span class="eyebrow">SẢN PHẨM PHÂN PHỐI</span>
+        <h2>Ba sản phẩm, một cách sống chăm sóc mỗi ngày.</h2>
+      </div>
+      <div class="pp-prods">
+        <article class="pp-prod">
+          <img src="/assets/san-pham/true-vegan-protein.jpg" alt="True Vegan Protein Pro" loading="lazy">
+          <div class="pp-prod-body">
+            <span class="pp-tag">THỰC PHẨM BỔ SUNG</span>
+            <h3>True Vegan Protein Pro</h3>
+            <p>Bột đạm dinh dưỡng từ thực vật, pha nhanh cho bữa sáng bận rộn hoặc bữa phụ.</p>
+            <dl><dt>Quy cách</dt><dd>Hộp 22 gói x 22 g</dd><dt>Nhóm</dt><dd>Dinh dưỡng thực vật</dd></dl>
+          </div>
+        </article>
+        <article class="pp-prod">
+          <img src="/assets/san-pham/tra-thanh-huong.jpg" alt="Trà Thanh Hương" loading="lazy">
+          <div class="pp-prod-body">
+            <span class="pp-tag">TRÀ THẢO MỘC</span>
+            <h3>Trà Thanh Hương</h3>
+            <p>Trà thảo mộc túi lọc từ hoa nhài, phục linh, hoa quế, trần bì. Hương dịu cho tách trà giữa ngày.</p>
+            <dl><dt>Quy cách</dt><dd>Hộp 30 gói x 2,6 g</dd><dt>Nhóm</dt><dd>Trà túi lọc</dd></dl>
+          </div>
+        </article>
+        <article class="pp-prod">
+          <img src="/assets/san-pham/tra-tue-minh.jpg" alt="Trà Tuệ Minh" loading="lazy">
+          <div class="pp-prod-body">
+            <span class="pp-tag">TRÀ THẢO MỘC</span>
+            <h3>Trà Tuệ Minh</h3>
+            <p>Trà thảo mộc túi lọc cho khoảng nghỉ yên tĩnh buổi tối, pha nhanh, dễ mang theo.</p>
+            <dl><dt>Quy cách</dt><dd>Hộp 30 gói x 2,6 g</dd><dt>Nhóm</dt><dd>Trà túi lọc</dd></dl>
+          </div>
+        </article>
+      </div>
+      <p class="pp-price-note">Giá phân phối và chính sách theo cấp được gửi bằng văn bản sau buổi trao đổi đầu tiên.</p>
+    </div>
+  </section>
+
+  <!-- HỒ SƠ: chính danh sách Droppii đòi nhà phát triển sản phẩm — IKI chủ động bày ra -->
+  <section class="section pp-soft">
+    <div class="wrap pp-docs">
+      <div class="pp-docs-side">
+        <span class="eyebrow">HỒ SƠ IKI GỬI ĐỐI TÁC</span>
+        <h2>Bộ hồ sơ mà phòng thu mua thường hỏi, IKI gửi sẵn.</h2>
+        <p>Mỗi đối tác nhận cùng một bộ, đã khớp với nhãn sản phẩm đang lưu hành. Thiếu giấy tờ nào cho kênh của quý đối tác, IKI bổ sung trước khi nhập hàng.</p>
+      </div>
+      <ul class="pp-doclist">
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Giấy chứng nhận đăng ký doanh nghiệp<small>CTCP TMDV HOPE, MST 0801404967</small></span></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Bản tự công bố sản phẩm<small>Kèm tiêu chuẩn nhà sản xuất</small></span></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Phiếu kiểm nghiệm<small>Phòng thí nghiệm đạt ISO/IEC 17025</small></span></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Chứng nhận của cơ sở gia công<small>ISO 22000:2018</small></span></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Hợp đồng gia công<small>Chứng minh nguồn gốc sản xuất</small></span></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Hồ sơ nhãn hiệu<small>Tài liệu đăng ký nhãn hiệu IKI</small></span></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Bảng báo giá có mã vạch<small>Theo từng sản phẩm, từng quy cách</small></span></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Catalogue và ảnh sản phẩm<small>Ảnh độ phân giải cao, dùng được cho sàn</small></span></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- QUY TRÌNH: không đánh số (luật web 06/10), thứ tự đọc từ trái sang phải -->
+  <section class="section">
+    <div class="wrap">
+      <div class="pp-head">
+        <span class="eyebrow">CÁCH BẮT ĐẦU</span>
+        <h2>Từ lúc gửi thông tin tới lô hàng đầu tiên.</h2>
+      </div>
+      <ol class="pp-flow">
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13M22 2l-7 20-4-9-9-4z"/></svg><h3>Gửi thông tin</h3><p>Quý đối tác điền form bên dưới: doanh nghiệp, kênh đang bán, khu vực.</p></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg><h3>Trao đổi nhu cầu</h3><p>Người phụ trách kênh phân phối của IKI liên hệ để hiểu mô hình bán và khách hàng của quý đối tác.</p></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6"/></svg><h3>Nhận hồ sơ, báo giá</h3><p>IKI gửi bộ hồ sơ sản phẩm, báo giá theo cấp và gửi mẫu khi cần.</p></li>
+        <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><h3>Ký hợp tác, nhập hàng</h3><p>Ký thoả thuận phân phối, nhận lô hàng đầu cùng bộ nội dung bán hàng.</p></li>
+      </ol>
+    </div>
+  </section>
+
+  <!-- FORM: các trường theo form Droppii (công ty, kênh, website, hồ sơ) rút gọn cho đối tác phân phối -->
+  <section class="section pp-soft" id="dang-ky">
+    <div class="wrap pp-reg">
+      <div class="pp-reg-side">
+        <span class="eyebrow">ĐĂNG KÝ ĐỐI TÁC</span>
+        <h2>Để lại thông tin, IKI liên hệ trong 2 ngày làm việc.</h2>
+        <p>Không cần cam kết ngay. Buổi trao đổi đầu tiên giúp hai bên xem sản phẩm IKI có hợp với khách hàng của quý đối tác hay không.</p>
+        <ul class="pp-next">
+          <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h4l2 5-3 2a11 11 0 0 0 5 5l2-3 5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2z"/></svg><span>Người phụ trách kênh phân phối gọi lại để hỏi rõ mô hình bán.</span></li>
+          <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M14 3H6a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M14 3v6h6"/></svg><span>Hồ sơ sản phẩm và báo giá gửi qua email hoặc Zalo.</span></li>
+          <li><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg><span>Chỉ ký hợp tác khi hai bên đã thống nhất chính sách.</span></li>
+        </ul>
+        <p class="pp-contact">Cần trao đổi ngay: gọi <a href="tel:0987931551">098 793 1551</a> hoặc email <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a>.</p>
+      </div>
+
+      <div class="pp-form">
+        <form id="ppForm" novalidate>
+          <h3>Thông tin đối tác</h3>
+          <p class="fine">Mục có dấu <span style="color:var(--rose)">*</span> là bắt buộc.</p>
+
+          <p class="pp-sub">DOANH NGHIỆP</p>
+          <div class="pp-row">
+            <div class="pp-field"><label for="ppCty">Tên doanh nghiệp, cửa hàng <i>*</i></label><input id="ppCty" name="cong_ty" type="text" autocomplete="organization" maxlength="80" required></div>
+            <div class="pp-field"><label for="ppKenh">Loại kênh <i>*</i></label>
+              <select id="ppKenh" name="loai_kenh" required>
+                <option value="">Chọn loại kênh</option>
+                <option>Nền tảng thương mại tư vấn</option>
+                <option>Chuỗi cửa hàng chay, organic</option>
+                <option>Nhà thuốc, cửa hàng sức khoẻ</option>
+                <option>Đại lý, nhà phân phối khu vực</option>
+                <option>Siêu thị, cửa hàng tiện lợi</option>
+                <option>Quà tặng doanh nghiệp</option>
+                <option>Khác</option>
+              </select>
+            </div>
+          </div>
+          <div class="pp-row">
+            <div class="pp-field"><label for="ppKhuVuc">Tỉnh, thành phố</label><input id="ppKhuVuc" name="khu_vuc" type="text" autocomplete="address-level1" maxlength="40"></div>
+            <div class="pp-field"><label for="ppWeb">Website hoặc fanpage</label><input id="ppWeb" name="website" type="text" inputmode="url" maxlength="120" placeholder="https://"></div>
+          </div>
+          <div class="pp-field"><span class="pp-lab">Sản phẩm quan tâm</span>
+            <div class="pp-checks" id="ppSp">
+              <label><input type="checkbox" value="True Vegan Protein Pro">True Vegan Protein Pro</label>
+              <label><input type="checkbox" value="Trà Thanh Hương">Trà Thanh Hương</label>
+              <label><input type="checkbox" value="Trà Tuệ Minh">Trà Tuệ Minh</label>
+            </div>
+          </div>
+
+          <p class="pp-sub">NGƯỜI LIÊN HỆ</p>
+          <div class="pp-row">
+            <div class="pp-field"><label for="ppTen">Họ và tên <i>*</i></label><input id="ppTen" name="ten" type="text" autocomplete="name" maxlength="80" required></div>
+            <div class="pp-field"><label for="ppSdt">Số điện thoại <i>*</i></label><input id="ppSdt" name="phone" type="tel" inputmode="tel" autocomplete="tel" maxlength="15" required></div>
+          </div>
+          <div class="pp-field"><label for="ppEmail">Email <small>(nhận hồ sơ, báo giá)</small></label><input id="ppEmail" name="email" type="email" autocomplete="email" maxlength="80"></div>
+          <div class="pp-field"><label for="ppGhiChu">Ghi chú <small>(số điểm bán, kênh đang bán, sản lượng dự kiến...)</small></label><textarea id="ppGhiChu" name="ghi_chu" maxlength="150"></textarea></div>
+          <input class="pp-hp" id="ppHp" name="_hp" type="text" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+          <div class="iki-dy pp-consent" id="dyDoiTac">
+            <label><input type="checkbox" id="dyXuLy" required><span>Tôi đồng ý để IKI (Công ty Cổ phần TMDV HOPE) dùng thông tin trên để liên hệ, trao đổi và gửi hồ sơ hợp tác phân phối.</span></label>
+            <label><input type="checkbox" id="dyTin"><span>Tôi muốn nhận thêm thông tin sản phẩm mới và chính sách đối tác từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+            <p class="iki-dy-coso">Dữ liệu được xử lý theo Nghị định 13/2023/NĐ-CP về bảo vệ dữ liệu cá nhân và <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách bảo mật</a> của IKI. Quý đối tác có thể yêu cầu xem, sửa hoặc xoá dữ liệu tại <a href="https://ikihealing.com/quyen-du-lieu.html" target="_blank" rel="noopener">trang quyền dữ liệu</a>.</p>
+            <p class="pp-err" id="ppErrDy">Vui lòng tick đồng ý để IKI được liên hệ và gửi hồ sơ.</p>
+          </div>
+
+          <button class="btn" type="submit" id="ppSubmit">Gửi đăng ký đối tác <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12h15m-6-6 6 6-6 6"/></svg></button>
+          <p class="pp-status" id="ppStatus" role="status" aria-live="polite"></p>
+        </form>
+        <div class="pp-done" id="ppDone" role="status" aria-live="polite" tabindex="-1">
+          <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="m8 12 3 3 5-6"/></svg>
+          <h3>Đã nhận đăng ký</h3>
+          <p>Cảm ơn quý đối tác. Người phụ trách kênh phân phối của IKI sẽ gọi lại số <b id="ppDoneSdt"></b> trong 2 ngày làm việc.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <p class="wrap pp-med">True Vegan Protein Pro là <strong>thực phẩm bổ sung</strong>, Trà Thanh Hương và Trà Tuệ Minh là <strong>trà thảo mộc</strong>. Sản phẩm không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Đối tác phân phối cam kết dùng nội dung giới thiệu đúng quy định quảng cáo thực phẩm hiện hành.</p>
+</main>
+
+<link rel="stylesheet" href="/assets/footer-20260909/footer.css?v=1"><footer id="footer" class="iki-standard-footer" data-iki-footer="20260909" lang="vi"><div class="if-wrap"><div class="if-grid"><section><a class="if-brand" href="https://ikihealing.com/" aria-label="IKI Beauty and Wellness"><img src="/assets/footer-20260909/iki-rose.png" width="32" height="64" alt="Logo IKI"><span>IKI<small>BEAUTY &amp; WELLNESS</small></span></a><strong class="if-company-name">CÔNG TY CỔ PHẦN TMDV HOPE</strong><span class="if-tagline">FROM NATURE, FOR LIFE</span><p>Chăm sóc sức khỏe chủ động cho phụ nữ và gia đình. Kết nối kiến thức, ứng dụng AI, cộng đồng và sản phẩm.</p><div class="if-social"><a href="https://www.facebook.com/profile.php?id=61572357961785" aria-label="Facebook IKI"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M14 21v-9h3l.5-4H14V6c0-1 .5-2 2-2h2V1h-3c-3 0-5 2-5 5v2H7v4h3v9"/></svg></a><a href="https://www.youtube.com/@ikibeautiful.wellness" aria-label="YouTube IKI"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="5" width="20" height="14" rx="4"/><path d="m10 9 5 3-5 3z"/></svg></a></div></section><nav aria-label="Hệ sinh thái IKI"><h2>Hệ sinh thái IKI</h2><a href="https://ikihealing.com/hoc-vien.html">Học Viện IKI</a><a href="https://ikihealing.com/blog/">Cẩm nang sức khỏe</a><a href="https://ikihealing.com/app.html">Ứng dụng IKI</a><a href="https://ikihealing.com/shop/">Cửa hàng IKI</a></nav><nav aria-label="Hỗ trợ"><h2>Hỗ trợ</h2><a href="https://ikihealing.com/tai-lieu/">Cẩm nang sức khỏe</a><a href="https://ikihealing.com/chinh-sach-bao-mat.html">Chính sách bảo mật</a><a href="https://ikihealing.com/chinh-sach-doi-tra.html">Chính sách đổi trả</a><a href="https://ikihealing.com/chinh-sach.html">Chính sách &amp; điều khoản</a><a href="mailto:contact@ikihealing.com">Liên hệ IKI</a><a href="tel:0987931551">098 793 1551</a></nav><section><h2>Chăm sóc cùng IKI</h2><p>Kiến thức và những thói quen nhỏ chăm da, ăn uống, nghỉ ngơi, vận động — cho phụ nữ và gia đình.</p><a class="if-community" href="https://ikihealing.com/cong-dong.html">Khám phá cộng đồng <span aria-hidden="true">→</span></a><a class="if-hope" href="https://ikihealing.com/ve-hope.html"><img  src="/assets/footer-20260909/hope.png" width="32" height="32" alt=""><span><b>HOPE</b><small>IKI là thương hiệu thuộc HOPE CORP</small></span></a></section></div><div class="if-legal"><div><strong>CÔNG TY CỔ PHẦN TMDV HOPE</strong><p>GPKD số 0801404967, đăng ký lần đầu ngày 23/08/2023, thay đổi lần 6 ngày 24/09/2026 tại Sở Tài chính TP Hải Phòng<br>Mã số thuế: 0801404967<br>Địa chỉ: Số 40A Quang Trung, P. Hải Dương, TP Hải Phòng, Việt Nam<br>Điện thoại: <a href="tel:0987931551">098 793 1551</a><br>Email: <a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></p><a class="if-bct" href="https://online.gov.vn/nen-tang/36b54e5b-6771-4f8a-a982-cdda06c1bd73" target="_blank" rel="noopener" title="Đã xác nhận với Bộ Công Thương" style="display:inline-block;margin-top:14px"><img src="https://fileserver.online.gov.vn/uploads/Resources/iconxacnhan/DaThongBao.png" alt="Đã xác nhận" style="height:44px;width:auto" loading="lazy"></a></div><nav aria-label="HOPE CORP"><a href="https://ikihealing.com/ve-hope.html">Về HOPE CORP</a><a href="https://ikihealing.com/team.html">Đội ngũ</a><a href="https://ikihealing.com/investor/">Đối tác & nhà đầu tư</a></nav></div><div class="if-bottom"><span>© 2026 IKI by HOPE CORP</span><span><a href="https://ikihealing.com/chinh-sach-bao-mat.html">Chính sách bảo mật</a> · <a href="https://ikihealing.com/chinh-sach-doi-tra.html">Chính sách đổi trả</a> · <a href="https://ikihealing.com/chinh-sach.html">Chính sách &amp; điều khoản</a></span></div></div></footer>
+
+<script>
+(function(){
+  // Lead đi cửa /api/web-lead (hope-ops-hub) như trang quà tặng doanh nghiệp.
+  // LƯU Ý trước khi mở công khai: web-lead đang insertAndAssign chia cho sale bán lẻ; lead đối tác phân phối
+  // nên chuyển cho người phụ trách kênh (CEO / GĐKD) — cần thêm nhánh theo source 'web:doi-tac-phan-phoi'.
+  var LEAD_ENDPOINT = 'https://hope-ops-hub.vercel.app/api/web-lead';
+  var FUNNEL_ENDPOINT = 'https://hope-ops-hub.vercel.app/api/funnel';
+  var PHEU = 'doi-tac-phan-phoi';
+  var daBan = {};
+  function fnl(step){
+    if (daBan[step]) return; daBan[step] = 1;
+    try { if (window.gtag) gtag('event', 'funnel_' + step, { funnel: PHEU }); } catch (e) {}
+    try {
+      var d = JSON.stringify({ page: PHEU, step: step });
+      if (!(navigator.sendBeacon && navigator.sendBeacon(FUNNEL_ENDPOINT, new Blob([d], { type: 'application/json' }))))
+        fetch(FUNNEL_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: d, keepalive: true }).catch(function(){});
+    } catch (e) {}
+  }
+  fnl('view');
+
+  // Khối đồng ý — chép nguyên khuôn ikiDongY của /qua-tang-doanh-nghiep (nhật ký NĐ 330 phía máy chủ).
+  function ikiDongY(box){box=(typeof box==='string')?document.querySelector(box):box;if(!box)return null;var vb=[],t=false;box.querySelectorAll('label').forEach(function(l){var c=l.querySelector('input[type=checkbox]');if(!c)return;if(c.id.indexOf('dyTin')===0)t=c.checked;vb.push((c.checked?'[x] ':'[ ] ')+(l.querySelector('span')||l).textContent.replace(/\s+/g,' ').trim());});var cs=box.querySelector('.iki-dy-coso');if(cs)vb.push('[x] '+cs.textContent.replace(/\s+/g,' ').trim());return {tinTuVan:t,vanBan:vb.join(' | '),phienBan:'v1-2026-09-04'};}
+
+  var form = document.getElementById('ppForm');
+  var $ = function(id){ return document.getElementById(id); };
+  form.addEventListener('focusin', function(){ fnl('start'); });
+
+  function loiO(el, msg){
+    var box = el.parentNode.querySelector('.pp-err-o');
+    if (!box) { box = document.createElement('p'); box.className = 'pp-err pp-err-o'; el.parentNode.appendChild(box); }
+    box.textContent = msg || ''; box.classList.toggle('on', !!msg);
+    if (msg) { el.setAttribute('aria-invalid', 'true'); el.style.borderColor = '#b3261e'; }
+    else { el.removeAttribute('aria-invalid'); el.style.borderColor = ''; }
+  }
+  function chuanSdt(v){ var s = String(v || '').replace(/\D/g, ''); if (s.indexOf('84') === 0 && s.length === 11) s = '0' + s.slice(2); return s; }
+  ['ppTen','ppCty','ppKenh','ppSdt','ppEmail'].forEach(function(id){ $(id).addEventListener('input', function(){ loiO($(id), ''); }); $(id).addEventListener('change', function(){ loiO($(id), ''); }); });
+  $('dyXuLy').addEventListener('change', function(){ $('ppErrDy').classList.remove('on'); });
+
+  function kiemTra(){
+    var coKF = !!window.KiemForm, dau = null;
+    var ten = $('ppTen').value.trim(), cty = $('ppCty').value.trim(), sdt = chuanSdt($('ppSdt').value), email = $('ppEmail').value.trim();
+    if (!cty) { loiO($('ppCty'), 'Vui lòng nhập tên doanh nghiệp hoặc cửa hàng.'); dau = dau || $('ppCty'); }
+    if (!$('ppKenh').value) { loiO($('ppKenh'), 'Vui lòng chọn loại kênh.'); dau = dau || $('ppKenh'); }
+    if (!ten) { loiO($('ppTen'), 'Vui lòng nhập tên người liên hệ.'); dau = dau || $('ppTen'); }
+    if (!/^0\d{9}$/.test(sdt)) { if (!coKF) loiO($('ppSdt'), 'Số điện thoại phải có đúng 10 số và bắt đầu bằng số 0.'); dau = dau || $('ppSdt'); }
+    else if (!coKF) loiO($('ppSdt'), '');
+    if (email && !/^[^\s@]+@[^\s@]+\.[A-Za-z]{2,}$/.test(email)) { if (!coKF) loiO($('ppEmail'), 'Email chưa đúng định dạng.'); dau = dau || $('ppEmail'); }
+    if (!$('dyXuLy').checked) { $('ppErrDy').classList.add('on'); dau = dau || $('dyXuLy'); }
+    return dau;
+  }
+  $('ppSubmit').addEventListener('click', function(){ kiemTra(); });
+
+  var dangGui = false;
+  form.addEventListener('submit', function(ev){
+    ev.preventDefault();
+    if (dangGui) return;
+    var dau = kiemTra();
+    if (dau) { try { dau.focus(); } catch (e) {} return; }
+    var sdt = chuanSdt($('ppSdt').value);
+    var sp = Array.prototype.map.call(document.querySelectorAll('#ppSp input:checked'), function(c){ return c.value; });
+    var email = $('ppEmail').value.trim(), web = $('ppWeb').value.trim(), kv = $('ppKhuVuc').value.trim(), gc = $('ppGhiChu').value.trim();
+    // leads.note máy chủ cắt ~230 ký tự — trường quan trọng lên trước, ghi chú cuối.
+    var note = ['ĐỐI TÁC PHÂN PHỐI', 'Cty: ' + $('ppCty').value.trim(), 'Kênh: ' + $('ppKenh').value, kv ? 'KV: ' + kv : '',
+      email ? 'Email: ' + email : '', web ? 'Web: ' + web : '', gc ? 'GC: ' + gc : ''].filter(Boolean).join(' · ').slice(0, 228);
+    var payload = {
+      customer: $('ppTen').value.trim(),
+      phone: sdt,
+      channel: 'website',
+      source: 'web:doi-tac-phan-phoi',
+      product: 'Đối tác phân phối' + (sp.length ? ' — ' + sp.join(', ') : ''),
+      note: note,
+      dongY: ikiDongY('#dyDoiTac'),
+      _hp: $('ppHp').value || ''
+    };
+    dangGui = true;
+    var nut = $('ppSubmit'), st = $('ppStatus');
+    nut.disabled = true; st.className = 'pp-status on'; st.textContent = 'Đang gửi đăng ký...';
+    fetch(LEAD_ENDPOINT, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify(payload) })
+      .then(function(r){ return r.json().catch(function(){ return {}; }).then(function(j){ return { ok: r.ok && j.ok !== false, j: j }; }); })
+      .then(function(res){
+        if (!res.ok) throw new Error((res.j && res.j.error) || 'gửi lỗi');
+        fnl('submit');
+        try { if (window.gtag) gtag('event', 'generate_lead', { form: PHEU }); } catch (e) {}
+        form.style.display = 'none';
+        $('ppDoneSdt').textContent = sdt;
+        var done = $('ppDone'); done.classList.add('on'); try { done.focus(); } catch (e) {}
+      })
+      .catch(function(){
+        st.className = 'pp-status on bad';
+        st.innerHTML = 'Chưa gửi được đăng ký. Quý đối tác vui lòng thử lại hoặc gọi <a class="textlink" href="tel:0987931551">098 793 1551</a>.';
+      })
+      .then(function(){ dangGui = false; nut.disabled = false; });
+  });
+})();
+</script>
+<script src="/assets/kiem-form.js" defer></script>
+</body>
+</html>
