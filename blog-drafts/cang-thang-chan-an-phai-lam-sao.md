@@ -1,38 +1,38 @@
 ---json
 {
-  "title": "Căng thẳng chán ăn phải làm sao? Cách giữ bữa khi đầu óc quá tải",
+  "title": "Căng thẳng chán ăn phải làm sao? Cách giữ bữa nhẹ nhàng",
   "seo_title": "Căng thẳng chán ăn phải làm sao? Cách giữ bữa nhẹ nhàng",
   "slug": "cang-thang-chan-an-phai-lam-sao",
-  "description": "Căng thẳng chán ăn phải làm sao? Vì sao áp lực khiến bụng đóng cửa, chán ăn ngắn ngày khác chán ăn kéo dài thế nào, và cách giữ bữa bằng phần nhỏ, món mềm, đồ uống có đạm mà không ép mình.",
+  "description": "Căng thẳng chán ăn phải làm sao? Hiểu vì sao bụng đóng cửa, khi nào cần đi khám và cách giữ bữa bằng phần nhỏ, món mềm, đủ đạm, kèm một ngày ăn mẫu.",
   "keyword": "căng thẳng chán ăn",
   "category": "thoi-quen",
   "date": "2026-11-09",
-  "updated": "2026-11-09",
+  "updated": "2026-11-14",
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/cang-thang-chan-an-phai-lam-sao-hero.jpg",
   "hero_alt": "Bát cháo nóng nhỏ và cốc nước ấm trên bàn gỗ cạnh cửa sổ buổi chiều",
-  "reading_min": 14,
-  "answer": "Căng thẳng chán ăn là phản ứng thường gặp: khi đầu óc ở trạng thái báo động, cơ thể tạm dồn sức cho việc đối phó và cảm giác đói lùi lại. Cách giữ bữa hiệu quả là ăn theo giờ thay vì đợi đói, chia nhỏ thành 5-6 lần, chọn món mềm có nước, ưu tiên đạm và uống đủ. Chán ăn kéo dài quá hai tuần hoặc sụt cân rõ thì nên đi khám.",
+  "reading_min": 11,
+  "answer": "Căng thẳng chán ăn là phản ứng thường gặp: khi đầu óc ở trạng thái báo động, cảm giác đói có thể lùi lại. Trong lúc đó, hãy ăn theo giờ thay vì chờ đói, chia nhỏ phần ăn, chọn món mềm có nước và giữ đủ đạm. Tự chăm sóc khoảng một tuần mà chưa đỡ thì nên đặt lịch khám; sụt cân rõ hoặc có triệu chứng kèm theo thì đi khám ngay.",
   "faq": [
     {
       "q": "Căng thẳng chán ăn có nguy hiểm không?",
-      "a": "Chán ăn vài ngày trong một đợt áp lực ngắn là phản ứng thường gặp và thường tự qua khi tình huống lắng xuống. Điều cần để ý là khi nó kéo dài nhiều tuần, vì cơ thể sẽ thiếu năng lượng và đạm, dễ mệt, khó tập trung, kém chịu đựng chính áp lực đang gặp. Nếu chán ăn quá hai tuần, sụt cân rõ mà không chủ ý, hoặc đi kèm buồn nôn, đau bụng, mất ngủ kéo dài, tâm trạng xuống thấp liên tục thì nên đi khám để bác sĩ tìm nguyên nhân."
+      "a": "Chán ăn vài ngày trong một đợt áp lực ngắn là phản ứng thường gặp. Điều cần để ý là khi nó kéo dài: tự chăm sóc khoảng một tuần mà chưa đỡ thì nên đặt lịch khám, còn sụt cân rõ hoặc có triệu chứng kèm theo như nôn, đau bụng, tâm trạng xuống thấp liên tục thì đi khám ngay. Chi tiết ở mục khi nào tự chăm sóc, khi nào cần đi khám."
     },
     {
       "q": "Chán ăn khi căng thẳng nên ăn gì?",
-      "a": "Nên chọn món mềm, có nước, dễ nuốt và dễ tiêu như cháo, súp, canh, đậu phụ non, trứng hấp, sữa chua, sinh tố, trái cây chín mềm. Ưu tiên có đạm trong mỗi lần ăn dù chỉ một phần nhỏ, vì đạm là thứ hay thiếu đầu tiên khi ăn ít. Một ly sinh tố có sữa hạt, chuối và một muỗng bột đạm là cách nạp năng lượng nhanh khi không thiết nhai."
+      "a": "Món mềm, ấm, có nước như cháo, canh, súp, trứng hấp, đậu phụ non, sữa chua, và mỗi lần ăn nên có một chút đạm. Danh sách món và lượng đạm ước tính của từng món nằm ở hai mục chọn món dễ nuốt và đủ đạm khi ăn ít."
     },
     {
       "q": "Không thấy đói có nên ép mình ăn không?",
-      "a": "Không nên ép ăn một bữa lớn, vì càng ép càng dễ ngán và buồn nôn. Cách hợp lý hơn là ăn theo giờ chứ không đợi đói: đặt mốc khoảng 3 tiếng một lần, mỗi lần chỉ vài thìa hoặc nửa bát. Lượng nhỏ nhưng đều đặn giúp cơ thể có năng lượng mà không gây áp lực thêm cho bạn."
+      "a": "Không nên ép một bữa lớn. Cách dễ làm hơn là ăn theo giờ, mỗi mốc chỉ vài thìa, như khung giờ gợi ý trong bài."
     },
     {
       "q": "Vì sao có người căng thẳng thì ăn nhiều, có người lại chán ăn?",
-      "a": "Phản ứng với căng thẳng khác nhau giữa từng người và từng loại áp lực. Áp lực đến đột ngột và dữ dội thường làm cảm giác đói giảm, trong khi áp lực âm ỉ kéo dài lại hay đẩy nhiều người về phía đồ ngọt và ăn vặt. Cùng một người cũng có thể chán ăn trong tuần căng nhất rồi ăn bù dữ dội khi mọi chuyện lắng xuống."
+      "a": "Phản ứng với căng thẳng khác nhau giữa từng người. Tài liệu của Trường Y Harvard mô tả xu hướng: căng thẳng ngắn hạn có thể làm giảm thèm ăn, còn khi căng thẳng kéo dài, cortisol có thể làm tăng thèm ăn. Đây là xu hướng chung, không phải quy luật cho mọi người."
     },
     {
       "q": "Uống trà buổi tối có giúp ăn ngon hơn không?",
-      "a": "Không có loại trà nào được xem là cách làm ăn ngon miệng. Giá trị của một tách trà ấm buổi tối nằm ở nhịp chậm lại: mười lăm phút rời màn hình, thở chậm, để đầu óc hạ nhiệt sau một ngày dài. Khi tinh thần dịu hơn và ngủ đều hơn, nhiều người thấy bữa sáng hôm sau dễ ăn hơn, nhưng đó là nhờ cả nhịp sống chứ không nhờ riêng tách trà."
+      "a": "Không có loại trà nào được xem là cách làm ăn ngon miệng. Tách trà ấm buổi tối có giá trị ở chỗ tạo ra mười lăm phút chậm lại, rời màn hình trước khi ngủ."
     }
   ],
   "related": [
@@ -62,213 +62,190 @@
 }
 ---
 
-Có những tuần mọi thứ dồn lại cùng lúc: hạn nộp báo cáo, con ốm, bố mẹ cần đưa đi khám, tin nhắn công việc kêu đến nửa đêm. Đến giờ trưa, bạn mở hộp cơm ra, nhìn một lúc rồi đóng lại. Không phải vì cơm dở, mà vì bụng như đóng cửa. Tối về cũng vậy, ăn vài miếng đã thấy nghẹn. Đây chính là căng thẳng chán ăn, một trải nghiệm rất nhiều phụ nữ đi làm từng gặp mà ít khi nói ra.
+Có những tuần mọi thứ dồn lại cùng lúc: hạn nộp báo cáo, con ốm, bố mẹ cần đưa đi khám, tin nhắn công việc kêu đến nửa đêm. Đến giờ trưa, bạn mở hộp cơm ra, nhìn một lúc rồi đóng lại. Cơm vẫn ngon như mọi hôm, chỉ có bụng như đóng cửa. Tối về ăn vài miếng đã thấy nghẹn. Cảm giác đó gọi là chán ăn do căng thẳng, và nếu bạn đang tìm "căng thẳng chán ăn phải làm sao", bài này dành cho bạn.
 
-Chúng ta nghe nhiều về chuyện căng thẳng làm người ta ăn nhiều, thèm đồ ngọt, mở tủ lạnh lúc nửa đêm. Mặt ngược lại ít được nhắc hơn: có người càng áp lực càng không nuốt nổi. Và vì ăn ít thì trông có vẻ "không sao", nhiều người để tình trạng này kéo dài cả tháng, đến lúc nhận ra thì cơ thể đã mệt rã, đầu óc chậm hẳn, và chính áp lực ban đầu càng khó gánh hơn.
+Chúng ta nghe nhiều về chuyện căng thẳng làm người ta ăn nhiều, thèm đồ ngọt. Mặt ngược lại ít được nhắc hơn: có người càng áp lực càng không nuốt nổi. Vì ăn ít trông có vẻ "không sao", nhiều người để tình trạng này kéo dài, đến khi nhận ra thì đã mệt rã. Mục tiêu ở đây là giữ cho cơ thể đủ nhiên liệu để đi qua giai đoạn khó, không phải ép mình ăn thật nhiều.
 
-Bài viết này đi theo bốn bước. Đầu tiên là hiểu vì sao căng thẳng làm mất cảm giác đói, vì hiểu cơ chế thì bớt lo và bớt tự trách. Tiếp theo là phân biệt chán ăn ngắn ngày, vốn thường gặp, với chán ăn cần được bác sĩ xem. Phần dài nhất là những cách giữ bữa cụ thể khi không thiết ăn: ăn theo giờ, chia nhỏ, chọn món mềm, ưu tiên đạm, uống đủ. Cuối bài là cách làm dịu nhịp ngày để cảm giác ngon miệng có đường quay về.
+## Vì sao căng thẳng làm chán ăn
 
-Một điều nói trước: đây không phải bài để ép bạn ăn. Mục tiêu không phải ăn thật nhiều, mà là giữ cho cơ thể đủ nhiên liệu để đi qua giai đoạn khó, rồi để cảm giác ngon miệng tự trở lại khi nhịp sống dịu xuống.
+Khi gặp áp lực, cơ thể kích hoạt phản ứng "chiến đấu hay bỏ chạy". Hiệp hội Tâm lý học Hoa Kỳ (APA) mô tả rằng lúc này tim đập nhanh hơn, cơ bắp căng lên, hơi thở gấp hơn, và căng thẳng cũng ảnh hưởng tới hệ tiêu hoá.
 
-## Vì sao căng thẳng làm mất cảm giác đói
+Trường Y Harvard viết rằng trong ngắn hạn, căng thẳng có thể làm tắt cảm giác thèm ăn: hệ thần kinh ra tín hiệu cho tuyến thượng thận tiết epinephrine (adrenaline), đưa cơ thể vào trạng thái đối phó, và cảm giác đói lùi lại. Phản ứng này hợp lý khi mối nguy chỉ kéo dài vài phút. Áp lực hiện đại thì thường kéo dài nhiều ngày: một dự án gấp, một chuyện khó trong gia đình, một nỗi lo tiền bạc.
 
-Khi gặp áp lực, cơ thể kích hoạt một phản ứng rất cổ xưa mà các nhà khoa học hay gọi là "chiến đấu hay bỏ chạy". Hiệp hội Tâm lý học Hoa Kỳ (APA) mô tả rằng lúc này hệ thần kinh chuyển sang trạng thái sẵn sàng: tim đập nhanh hơn, cơ bắp căng lên, hơi thở gấp hơn. Cơ thể tạm coi việc đối phó là ưu tiên số một.
+Ngoài cơ chế sinh lý, có vài yếu tố đời thường mà một số người nhận thấy làm chán ăn nặng hơn:
 
-Trong trạng thái đó, tiêu hoá bị xếp xuống hàng sau. Dòng máu tới dạ dày và ruột tạm giảm, nhu động chậm lại, và cảm giác đói lùi xa. Trường Y Harvard từng giải thích hiện tượng này khá rõ: trong ngắn hạn, căng thẳng có thể làm giảm cảm giác thèm ăn, vì cơ thể đang dồn sức cho tình huống khẩn cấp chứ không phải cho bữa ăn. Với tổ tiên chúng ta, điều này hợp lý: khi đang chạy trốn thú dữ thì không ai ngồi xuống ăn.
+- **Đầu óc bận đến mức quên ăn.** Tín hiệu đói nhẹ bị lấn át bởi danh sách việc
+- **Cảm giác nghẹn, thắt ở cổ họng hoặc dạ dày.** Có người ăn vài miếng là không nuốt thêm được
+- **Ngủ ít.** Nhịp ăn lệch đi; có người sáng dậy miệng nhạt, nhưng cũng có nhiều người lại thèm ăn hơn khi thiếu ngủ, nên đừng coi đây là quy luật
+- **Cà phê thay bữa.** Có người thấy uống cà phê lúc bụng rỗng làm bụng cồn cào, bữa sau càng khó ăn
+- **Ăn một mình trước màn hình.** Bữa ăn vội rất dễ bị bỏ dở
 
-Vấn đề là cuộc sống hiện đại hiếm khi có "thú dữ" kết thúc sau vài phút. Áp lực của chúng ta kéo dài nhiều ngày: một dự án gấp, một cuộc trò chuyện khó trong gia đình, một nỗi lo về tiền bạc. Phản ứng vốn dành cho vài phút bị kéo dài thành vài tuần, và bụng cũng "đóng cửa" lâu hơn mức cần.
+Hiểu điều này giúp bạn bớt tự trách. Chán ăn khi căng thẳng là phản ứng của cơ thể, không phải chuyện ý chí hay "làm quá".
 
-Ngoài cơ chế sinh lý, còn có những nguyên nhân rất đời thường khiến chán ăn nặng hơn khi căng thẳng:
+## Chán ăn khi căng thẳng hay ăn nhiều: mỗi người một kiểu
 
-- **Đầu óc bận đến mức quên ăn.** Tín hiệu đói nhẹ bị lấn át bởi danh sách việc, và khi nhớ ra thì đã quá giờ
-- **Cảm giác nghẹn, thắt ở cổ họng hoặc dạ dày.** Nhiều người mô tả như có một cục gì chặn lại, ăn vài miếng là không nuốt thêm được
-- **Ngủ ít.** Ngủ không đủ làm cả nhịp ăn lẫn nhịp tiêu hoá lệch đi, sáng dậy miệng nhạt và không muốn ăn sáng
-- **Cà phê thay bữa.** Khi mệt, nhiều người uống thêm cà phê để trụ, và cà phê lúc bụng rỗng càng khiến bữa sau khó ăn hơn
-- **Không có ai ăn cùng.** Bữa ăn một mình vội vàng trước màn hình rất dễ bị bỏ dở
+Nếu đồng nghiệp ngồi cạnh căng thẳng thì ăn vặt liên tục, còn bạn không nuốt nổi cơm, đó là vì phản ứng với áp lực khác nhau giữa từng người. Tổng quan của Torres và Nowson (2007) ghi nhận có người ăn nhiều hơn khi căng thẳng, có người ăn ít đi.
 
-Hiểu điều này giúp bạn bớt tự trách. Chán ăn khi căng thẳng không phải do bạn yếu đuối hay "làm quá". Đó là cơ thể đang phản ứng đúng như cách nó được thiết kế, chỉ là phản ứng ấy đang kéo dài hơn mức có lợi.
+Cũng theo bài của Trường Y Harvard, thời gian kéo dài của áp lực có liên quan: căng thẳng ngắn hạn có thể làm giảm thèm ăn, còn khi căng thẳng kéo dài, tuyến thượng thận tiết cortisol, và cortisol có thể làm tăng thèm ăn. Đây là xu hướng quan sát được, chưa phải quy luật cho mọi người. Cùng một người cũng có thể chán ăn trong tuần căng nhất rồi ăn bù khi mọi chuyện lắng xuống.
 
-## Chán ăn hay ăn nhiều: mỗi người một phản ứng
+Nếu bạn hay thèm ngọt và ăn theo cảm xúc, bài [Ăn theo cảm xúc: làm sao để dừng lại](an-theo-cam-xuc-lam-sao-de-dung-lai.html) viết riêng cho nhóm đó. Bài này dành cho những người càng áp lực càng ăn ít. Biết mình thuộc kiểu nào thì có thể chuẩn bị trước: để sẵn vài món dễ nuốt trong nhà và trong túi xách trước khi tuần khó đến.
 
-Nếu bạn từng thắc mắc vì sao đồng nghiệp ngồi cạnh căng thẳng thì ăn vặt liên tục, còn mình thì không nuốt nổi cơm, câu trả lời là phản ứng với áp lực khác nhau giữa từng người. Các nghiên cứu tổng quan về căng thẳng và lựa chọn thực phẩm cho thấy một phần người ăn nhiều hơn khi căng thẳng, một phần ăn ít đi, và một phần gần như không đổi.
+## Khi nào tự chăm sóc, khi nào cần đi khám
 
-Loại áp lực cũng quan trọng. Áp lực đến đột ngột và dữ dội, như một tin xấu, một sự cố ở chỗ làm, thường khiến cảm giác đói biến mất trong vài ngày. Áp lực âm ỉ kéo dài nhiều tháng lại hay đẩy người ta về phía đồ ngọt, đồ béo, ăn vặt. Cùng một người cũng có thể đi qua cả hai pha: chán ăn trong tuần căng nhất, rồi ăn bù dữ dội khi mọi chuyện lắng xuống.
+Bài này dùng một quy tắc thống nhất:
 
-Nếu bạn thuộc nhóm thứ hai, hay thèm ngọt và ăn theo cảm xúc, chúng tôi đã viết riêng trong bài [Ăn theo cảm xúc: làm sao để dừng lại](an-theo-cam-xuc-lam-sao-de-dung-lai.html). Bài này dành cho nhóm còn lại, những người càng áp lực càng ăn ít.
+- **Tự chăm sóc khoảng một tuần** khi chán ăn đi cùng một tình huống áp lực bạn gọi tên được, bạn vẫn ăn được món mềm, món mình thích, và không có triệu chứng nào khác. Các cách bên dưới dành cho giai đoạn này
+- **Sau một tuần mà chưa đỡ**, hoặc chán ăn vẫn còn khi tình huống áp lực đã qua: cân nhắc đặt lịch hẹn khám
+- **Đi khám ngay, không chờ hết tuần** khi sụt cân rõ mà không chủ ý (quần áo rộng hẳn ra), hoặc có kèm buồn nôn, nôn, đau bụng, đi ngoài bất thường, khó nuốt, sốt, hoặc tâm trạng xuống thấp liên tục, mất hứng thú với mọi thứ, mất ngủ kéo dài. Dịch vụ Y tế Quốc gia Anh (NHS) khuyên gặp bác sĩ khi bạn sụt cân mà không thay đổi chế độ ăn hay vận động
 
-Biết mình thuộc kiểu nào giúp bạn chuẩn bị trước. Người hay chán ăn khi căng thẳng nên có sẵn vài món "dễ nuốt" trong nhà và trong túi xách, để khi tuần khó đến thì không phải bắt đầu từ con số không. Mỗi người một thể trạng, một nhịp sống, nên cách giữ bữa hợp với mình cũng khác nhau. Nếu bạn muốn biết nhịp sinh hoạt và thể trạng hiện tại đang nghiêng về đâu, có thể [kiểm tra thể trạng trong 90 giây](https://ikihealing.com/quiz) để có một điểm khởi đầu cụ thể.
+Chán ăn có thể đến từ nhiều nguyên nhân ngoài căng thẳng: vấn đề tiêu hoá, tác dụng của thuốc đang dùng, bệnh lý cần được khám, hoặc lo âu, trầm cảm. Với lo âu và trầm cảm, thay đổi bữa ăn không đủ; bạn cần được bác sĩ hoặc chuyên gia sức khoẻ tinh thần đánh giá, vì có những cách hỗ trợ riêng như trị liệu tâm lý mà bài viết về ăn uống không thay được.
 
-## Chán ăn ngắn ngày và chán ăn cần bác sĩ xem
+**Nếu bạn đang dùng thuốc, đang mang thai, cho con bú, hoặc có bệnh đang theo dõi** (như tiểu đường, bệnh dạ dày, bệnh thận), hãy báo cho bác sĩ đang theo dõi mình ngay khi chán ăn kéo dài vài ngày, và hỏi trước khi thêm sản phẩm bổ sung hay thay đổi lượng đạm. Có những loại thuốc gây chán ăn, và cũng có những bệnh cần điều chỉnh lượng đạm riêng.
 
-Không phải mọi cơn chán ăn đều giống nhau. Phân biệt sớm giúp bạn biết lúc nào tự chăm sóc là đủ, lúc nào cần người có chuyên môn.
+**Nếu có lúc bạn thấy không chịu nổi hoặc có ý nghĩ làm hại bản thân**, hãy nói ngay với người thân. Ở Việt Nam, bạn có thể gọi **115** (cấp cứu) hoặc đến cơ sở y tế gần nhất nếu nguy hiểm tức thời. Để được lắng nghe và hỗ trợ tâm lý, có **Đường dây nóng Ngày Mai: 096 306 1414** (miễn phí, giờ trực có thể thay đổi, xem tại [findahelpline.com](https://findahelpline.com/organizations/ngay-mai)).
 
-**Chán ăn ngắn ngày thường gặp** có vài đặc điểm: nó đi cùng một tình huống áp lực cụ thể mà bạn gọi tên được, kéo dài vài ngày đến khoảng một tuần, bạn vẫn ăn được những món mềm, món mình thích, và khi tình huống lắng xuống thì cảm giác ngon miệng dần quay lại. Đây là kiểu chán ăn mà những cách trong bài này có thể giúp.
+## Ăn theo giờ, không chờ đói
 
-**Chán ăn cần đi khám** có những tín hiệu khác. Theo Dịch vụ Y tế Quốc gia Anh (NHS), bạn nên gặp bác sĩ khi:
+Đây là thay đổi quan trọng nhất. Khi căng thẳng làm tín hiệu đói tắt đi, chờ đói có thể nghĩa là cả ngày không ăn gì. Vì vậy, trong những tuần khó, hãy đặt các mốc cố định khoảng ba tiếng một lần và ăn một chút ở mỗi mốc dù không thấy đói.
 
-- Chán ăn kéo dài **quá hai tuần** mà không rõ lý do hoặc không đỡ dù tình huống đã qua
-- **Sụt cân rõ** mà không chủ ý, quần áo rộng hẳn ra trong vài tuần
-- Kèm theo **buồn nôn, nôn, đau bụng, đi ngoài bất thường**, khó nuốt, sốt
-- Kèm theo **tâm trạng xuống thấp liên tục**, mất hứng thú với mọi thứ, khó ngủ hoặc ngủ quá nhiều, cảm giác bất lực
-
-Chán ăn có thể đến từ nhiều nguyên nhân ngoài căng thẳng: các vấn đề tiêu hoá, tác dụng của thuốc đang dùng, các bệnh lý cần được khám, hoặc những khó khăn về sức khoẻ tinh thần như lo âu, trầm cảm. Những trường hợp này không nên tự xử lý bằng thay đổi bữa ăn. Một cuộc khám sớm giúp loại trừ nguyên nhân và cho bạn kế hoạch đúng.
-
-Nếu có lúc bạn cảm thấy không thể chịu nổi, có ý nghĩ làm hại bản thân, hãy nói ngay với người thân và tìm đến cơ sở y tế gần nhất. Đó là lúc cần hỗ trợ ngay, không phải lúc chờ đợi.
-
-## Nguyên tắc vàng: ăn theo giờ, không đợi đói
-
-Đây là thay đổi quan trọng nhất, và cũng ngược với bản năng nhất. Bình thường chúng ta ăn khi thấy đói. Nhưng khi căng thẳng làm tín hiệu đói tắt đi, đợi đói nghĩa là có thể cả ngày không ăn gì.
-
-Vì vậy, trong những tuần khó, hãy chuyển từ "ăn khi đói" sang **"ăn theo giờ"**. Đặt các mốc cố định, khoảng ba tiếng một lần, và ăn một chút ở mỗi mốc dù không thấy đói. Không cần nhiều, chỉ cần có.
-
-Một khung tham khảo cho người đi làm:
+Một khung tham khảo cho người đi làm (lượng đạm cụ thể của từng mốc ở mục đạm bên dưới):
 
 - **7 giờ**: vài thìa cháo, một lát bánh mì với đậu phụ, hoặc một ly sinh tố nhỏ
 - **10 giờ**: một hộp sữa chua, một quả chuối, vài hạt hạnh nhân
 - **12 giờ 30**: nửa suất cơm hoặc một bát bún, phở loãng, ưu tiên phần đạm và rau
-- **15 giờ 30**: một ly sữa hạt ấm, vài miếng trái cây chín mềm
+- **15 giờ 30**: một ly sữa đậu nành hoặc sữa hạt ấm, vài miếng trái cây chín mềm
 - **18 giờ 30**: bữa tối nhỏ, nhiều canh, món mềm
-- **Trước khi ngủ, nếu đói**: một cốc sữa ấm hoặc vài thìa sữa chua
 
-Bạn có thể đặt nhắc trên điện thoại cho các mốc này trong giai đoạn đầu. Nhắc không phải để ép, mà để thay cho tín hiệu đói đang tạm vắng mặt. Khi nhịp sống dịu lại và cảm giác đói quay về, bạn có thể bỏ nhắc và trở lại ba bữa chính quen thuộc.
+Vài mẹo để phần ăn nhỏ dễ xuống hơn:
 
-Nếu bạn hay bỏ bữa trưa vì bận, những hậu quả của việc đó với buổi chiều đã được nói kỹ trong bài [Bỏ bữa trưa có sao không](bo-bua-trua-co-sao-khong.html). Khi căng thẳng chồng lên chuyện bỏ bữa, buổi chiều thường là lúc bạn mệt nhất trong ngày.
+- **Dùng bát, đĩa nhỏ.** Nửa bát cơm trong chiếc bát nhỏ trông "đủ" hơn, ăn hết cho bạn cảm giác hoàn thành
+- **Ăn phần đạm trước**, rau và cơm sau, vì bạn biết mình chỉ ăn được ít
+- **Uống vài ngụm nước thay vì cả cốc ngay trước bữa**, để nước không chiếm chỗ của thức ăn
+- **Cho phép mình dừng** khi thấy vừa, lần ăn sau sẽ bù
 
-## Chia nhỏ phần ăn: ít nhưng đều
+Đặt nhắc trên điện thoại cho các mốc này trong giai đoạn đầu, như một cái chuông thay cho tín hiệu đói đang tạm vắng mặt. Khi cảm giác đói quay về, bỏ nhắc và trở lại ba bữa quen thuộc. Nếu bạn hay bỏ bữa trưa vì bận, bài [Bỏ bữa trưa có sao không](bo-bua-trua-co-sao-khong.html) nói kỹ hơn về buổi chiều sau một bữa trưa bị bỏ.
 
-Một đĩa cơm đầy có thể khiến người đang chán ăn thấy ngán ngay từ cái nhìn đầu tiên. Đổi sang **đĩa nhỏ, bát nhỏ** là một mẹo đơn giản mà hiệu quả. Nửa bát cơm trong một chiếc bát nhỏ trông "đủ" hơn nhiều so với nửa bát trong chiếc bát to, và ăn hết một phần nhỏ cho bạn cảm giác hoàn thành thay vì thất bại.
+## Chọn món dễ nuốt khi chán ăn do căng thẳng
 
-Vài nguyên tắc khi chia nhỏ:
+Khi cổ họng như thắt lại và miệng nhạt, kết cấu món ăn quan trọng không kém hương vị. Món khô, dai, nhiều dầu mỡ thường khó nuốt nhất; món mềm, ấm, có nước trôi dễ hơn. Mâm cơm Việt có sẵn nhiều lựa chọn:
 
-- **Mỗi lần ăn chỉ cần vài thìa.** Năm, sáu lần ăn nhỏ trong ngày cộng lại thường nhiều hơn hai bữa ăn được một nửa
-- **Ăn món giàu năng lượng trước.** Khi biết mình chỉ ăn được ít, hãy ăn phần đạm và phần có chất béo tốt trước, rau và cơm sau
-- **Đừng uống quá nhiều nước ngay trước bữa.** Với người đang chán ăn, một cốc nước lớn trước bữa có thể chiếm chỗ của thức ăn. Uống vài ngụm, phần còn lại để giữa các bữa
-- **Cho phép mình dừng.** Ăn đến khi thấy vừa thì dừng, không cố vét sạch. Lần ăn sau sẽ bù
-
-Cách chia nhỏ này cũng nhẹ nhàng hơn cho dạ dày. Khi căng thẳng, nhiều người thấy bụng nặng, đầy sau một bữa lớn. Phần ăn nhỏ đi qua dễ hơn và ít gây khó chịu.
-
-## Chọn món dễ nuốt: mềm, ấm, có nước
-
-Khi cổ họng như thắt lại và miệng nhạt, kết cấu của món ăn quan trọng không kém hương vị. Những món khô, dai, nhiều dầu mỡ thường khó nuốt nhất. Ngược lại, món mềm, ấm, có nước thường "trôi" dễ hơn nhiều.
-
-Mâm cơm Việt có sẵn rất nhiều lựa chọn như vậy:
-
-- **Cháo**: cháo gà xé, cháo đậu xanh, cháo yến mạch, cháo cá. Nấu một nồi nhỏ, chia vài hộp để tủ lạnh, hâm lại trong vài phút
-- **Súp và canh**: canh bí nấu đậu phụ, canh rau ngót, súp bí đỏ, súp khoai tây. Canh vừa có nước vừa có rau, ăn kèm vài thìa cơm là thành bữa
-- **Món hấp**: trứng hấp, đậu phụ non hấp, cá hấp gừng. Mềm, ít dầu, dễ tiêu
+- **Cháo**: cháo gà xé, cháo cá, cháo yến mạch, cháo đậu xanh
+- **Canh và súp**: canh bí nấu đậu phụ, canh rau ngót, súp bí đỏ, súp khoai tây
+- **Món hấp**: trứng hấp, đậu phụ non hấp, cá hấp gừng
 - **Bún, phở, miến nước**: nước dùng ấm giúp ăn dễ hơn cơm khô
-- **Món lạnh dịu**: sữa chua, chè đậu xanh ít đường, thạch, trái cây chín mềm như chuối, đu đủ, xoài
+- **Món mát dịu**: sữa chua, chè đậu xanh ít đường, trái cây chín mềm như chuối, đu đủ
 
-Một số người lại thấy món mát, lạnh dễ ăn hơn món nóng khi đang căng thẳng, nhất là sữa chua, sinh tố, trái cây. Không có quy tắc chung; hãy để ý xem cơ thể mình đang dễ nhận kiểu nào và chiều theo nó trong giai đoạn này.
+Có người lại thấy món mát dễ ăn hơn món nóng khi đang căng thẳng. Không có quy tắc chung; hãy để ý cơ thể mình dễ nhận kiểu nào. Một chút gừng, hành lá, rau thơm, vài giọt chanh có thể đánh thức miệng đang nhạt; bài [gia vị Việt gừng, nghệ, sả](gia-vi-viet-gung-nghe-sa.html) có thêm ý tưởng.
 
-Mùi vị cũng giúp. Một chút gừng, hành lá, rau thơm, vài giọt chanh có thể đánh thức miệng đang nhạt. Gia vị Việt như gừng, sả, nghệ không chỉ cho món ăn có hồn mà còn khiến bát cháo đơn giản trở nên dễ ăn hơn. Chúng tôi có một bài riêng về [gia vị Việt gừng, nghệ, sả](gia-vi-viet-gung-nghe-sa.html) nếu bạn muốn thêm ý tưởng.
+## Đủ đạm khi ăn ít: bao nhiêu là đủ và lấy từ đâu
 
-## Đừng để thiếu đạm: thứ hay hụt đầu tiên
+Khi ăn ít, đạm có thể bị hụt trước, vì thịt, cá, trứng hay bị gạt sang bên với lý do "nặng bụng" trong khi vài thìa cơm và ly trà sữa thì dễ xuống. Đạm là nguyên liệu để cơ thể duy trì cơ bắp và làm mới các mô mỗi ngày, nên đây là phần nên để ý nhất khi tổng lượng ăn giảm.
 
-Khi ăn ít, phần bị bỏ đầu tiên thường là phần đạm. Người chán ăn có xu hướng ăn vài thìa cơm trắng, vài cọng rau, uống ly trà sữa, và gần như bỏ qua thịt, cá, đậu, trứng vì chúng "nặng bụng". Sau một hai tuần như vậy, cơ thể thiếu đạm rõ rệt, và đó là lúc bạn thấy mệt mỏi, kém sức hơn hẳn.
+**Bao nhiêu là đủ?** Báo cáo chung của WHO, FAO và UNU (2007) về nhu cầu đạm đặt mức an toàn cho người trưởng thành khỏe mạnh là khoảng **0,83 g đạm cho mỗi kg cân nặng mỗi ngày**, tức khoảng **46 g** với người nặng 55 kg. Cách tính theo cân nặng của riêng bạn có trong bài [Cần bao nhiêu đạm mỗi ngày](can-bao-nhieu-dam-moi-ngay.html). Người mang thai, cho con bú hoặc có bệnh thận cần mức khác, nên hỏi bác sĩ.
 
-Đạm là nguyên liệu để cơ thể duy trì cơ bắp, làm mới các mô, tạo ra kháng thể và rất nhiều chất cần thiết khác mỗi ngày. Phụ nữ trưởng thành thường cần khoảng 0,8 đến 1 gam đạm cho mỗi kilôgam cân nặng mỗi ngày, tức khoảng 45 đến 55 gam với người nặng 55 kg. Chi tiết cách tính đã có trong bài [Cần bao nhiêu đạm mỗi ngày](can-bao-nhieu-dam-moi-ngay.html).
+**Lượng đạm ước tính của vài món dễ nuốt** (số làm tròn, theo cơ sở dữ liệu USDA FoodData Central; món thực tế chênh tuỳ cách nấu và loại hàng):
 
-Khi không thiết ăn, hãy chọn những nguồn đạm **mềm và dễ nuốt**:
+- **1 quả trứng gà (khoảng 50 g)**: khoảng 6 g
+- **100 g đậu phụ thường**: khoảng 8 g; **đậu phụ non** mềm hơn và ít đạm hơn, khoảng 5-7 g
+- **1 hộp sữa chua 100 g**: khoảng 3-4 g
+- **1 ly sữa đậu nành 200 ml không đường**: khoảng 6 g
+- **100 g cá hấp (cá trắng, đã chín)**: khoảng 18-22 g
+- **100 g đậu lăng nấu chín**: khoảng 9 g
+- **Nửa bát cơm (khoảng 80 g)**: khoảng 2 g
+- **10-12 hạt hạnh nhân (khoảng 15 g)**: khoảng 3 g
 
-- **Đậu phụ non**: hấp, nấu canh, chan nước tương. Mềm như thạch, gần như không cần nhai
-- **Trứng**: trứng hấp, trứng đánh vào cháo, trứng luộc lòng đào
-- **Sữa chua, sữa hạt, sữa đậu nành**: uống được cả khi không muốn ăn
-- **Cá hấp**: thịt cá mềm, ít mỡ, dễ tiêu hơn thịt đỏ
-- **Các loại đậu nấu nhừ**: chè đậu xanh ít đường, cháo đậu đỏ, súp đậu lăng
+**Một ngày mẫu khi ăn rất ít, tổng khoảng 48 g đạm:**
 
-Một cách nữa là **uống đạm thay vì ăn đạm** trong những ngày khó nhất. Một ly sinh tố gồm sữa hạt, nửa quả chuối, vài lát bơ và một muỗng bột [đạm thực vật](https://trueveganprotein.com) là cách nạp đạm nhanh mà không cần nhai, không cần nấu. Những gói bột đạm thực vật pha sẵn liều cũng tiện để trong ngăn bàn làm việc, pha với nước ấm hoặc sữa hạt vào cữ giữa buổi khi bạn không nuốt nổi bữa phụ khác. Hãy xem nó như một cách giữ nhịp trong giai đoạn bận, còn bữa ăn đủ món vẫn là nền chính khi bạn đã ăn lại được. Nếu bạn chưa quen vị bột đạm, bài [Pha bột đạm thực vật với gì cho dễ uống](pha-bot-dam-thuc-vat-voi-gi-cho-de-uong.html) có nhiều công thức nhẹ vị.
+- **7 giờ**: cháo yến mạch nấu với 1 quả trứng đánh vào, khoảng 10 g
+- **10 giờ**: 1 hộp sữa chua và 10 hạt hạnh nhân, khoảng 6 g
+- **12 giờ 30**: canh bí nấu 100 g đậu phụ và nửa bát cơm, khoảng 10 g
+- **15 giờ 30**: 1 ly sữa đậu nành 200 ml, khoảng 6 g
+- **18 giờ 30**: 70 g cá hấp gừng, canh rau và vài thìa cơm, khoảng 16 g
+
+Không có món nào trong ngày mẫu lớn hơn nửa suất bình thường. Phần lớn đều mềm, nấu được trong 15-20 phút, và nguyên liệu là thứ chợ nào cũng có.
+
+**Khi không thiết nhai, có thể uống đạm.** Những ngày khó nhất, một ly sinh tố gồm sữa hạt, nửa quả chuối và một gói bột [đạm thực vật](https://trueveganprotein.com) là cách nạp đạm không cần nấu. Nếu muốn dùng loại đóng gói sẵn, [True Vegan Protein Pro hộp 22 gói x 22 g](https://ikihealing.com/san-pham/true-vegan-protein.html) có trang ghi rõ thành phần và cách dùng; lượng đạm mỗi gói xem trên nhãn để cộng vào ngày của bạn. Đây là cách giữ nhịp trong giai đoạn bận, bữa ăn đủ món vẫn là nền chính. Bài [Pha bột đạm thực vật với gì cho dễ uống](pha-bot-dam-thuc-vat-voi-gi-cho-de-uong.html) có vài công thức nhẹ vị.
+
+Một lưu ý về trứng: trứng luộc lòng đào hay trứng đánh vào cháo chỉ nên dùng trứng sạch, còn hạn và nấu tới khi lòng trắng đông hẳn. Người đang mang thai nên ăn trứng chín kỹ cả lòng đỏ; người đang cho con bú hoặc đang mệt nhiều cũng nên ưu tiên trứng chín kỹ cho chắc.
 
 ## Uống đủ nước, và chọn đồ uống khéo
 
-Người đang chán ăn thường uống ít luôn, vì cảm giác khát cũng bị lấn át. Thiếu nước lại khiến miệng khô, mệt và khó tập trung hơn, vòng xoáy càng nặng.
-
-Một vài cách giữ nước mà không làm no bụng trước bữa:
+Người đang chán ăn thường uống ít luôn, vì cảm giác khát cũng bị lấn át. Thiếu nước làm miệng khô, mệt và khó tập trung hơn.
 
 - **Uống giữa các bữa**, không dồn trước bữa ăn
-- **Chọn đồ uống có chất**: sữa hạt, sữa đậu nành, nước canh, sinh tố loãng. Chúng vừa cho nước vừa cho chút năng lượng và đạm
+- **Chọn đồ uống có chất**: sữa đậu nành, sữa hạt, nước canh, sinh tố loãng cho cả nước lẫn chút năng lượng
 - **Uống ấm nếu thấy dễ chịu**: nước ấm có lát gừng, trà thảo mộc pha nhạt
-- **Hạn chế cà phê lúc bụng rỗng**: nếu cần một ly cà phê để trụ buổi sáng, hãy ăn vài thìa gì đó trước. Một [thức uống thay cà phê](https://ikihealing.com/shop/) nhẹ nhàng hơn cho cữ chiều cũng là cách giảm bớt lượng cà phê trong những tuần căng thẳng
+- **Nếu cần cà phê để trụ buổi sáng**, ăn vài thìa gì đó trước
 
-Đồ uống nhiều đường như trà sữa, nước ngọt đóng chai có thể cho cảm giác "tỉnh" nhanh, nhưng lại làm miệng ngọt và khiến bữa sau càng khó ăn. Trong giai đoạn chán ăn, chúng chiếm chỗ của những thứ bổ ích hơn.
+Trà sữa, nước ngọt đóng chai cho cảm giác tỉnh nhanh nhưng làm miệng ngọt và chiếm chỗ của những thứ bổ ích hơn trong giai đoạn đang ăn ít.
 
 ## Làm bữa ăn bớt áp lực
 
-Với người đang căng thẳng, chính bữa ăn đôi khi cũng trở thành một nguồn áp lực: phải nghĩ món, phải nấu, phải ngồi xuống ăn khi đầu óc vẫn đang chạy. Giảm bớt những việc đó giúp bữa ăn dễ xảy ra hơn.
+Với người đang căng thẳng, chính việc nghĩ món, nấu, ngồi xuống ăn cũng là một gánh. Giảm bớt những việc đó giúp bữa ăn dễ xảy ra hơn.
 
-**Chuẩn bị sẵn từ cuối tuần.** Nấu một nồi cháo hoặc súp, chia hộp nhỏ để tủ lạnh. Luộc sẵn vài quả trứng. Rửa sẵn trái cây. Khi tuần khó đến, bạn chỉ cần mở tủ và hâm lại.
+**Nấu theo mẻ, cất đúng cách.** Cuối tuần nấu một nồi cháo hoặc súp, để nguội nhanh rồi chia hộp nhỏ trong vòng hai giờ sau khi nấu. Phần định ăn trong 2-3 ngày tới để ngăn mát; phần còn lại cấp đông ngay. Bộ Nông nghiệp Hoa Kỳ (USDA) khuyên đồ ăn nấu sẵn để ngăn mát không quá 3-4 ngày; với người đang mệt, giữ ở mức 2-3 ngày là an toàn hơn. Khi ăn, hâm cháo, súp tới sôi kỹ, mỗi lần chỉ lấy đủ phần ăn. Luộc sẵn vài quả trứng, rửa sẵn trái cây.
 
-**Có sẵn "kho dễ nuốt" ở chỗ làm.** Vài hộp sữa hạt, vài gói yến mạch ăn liền, một túi hạt, vài gói bột đạm, vài quả chuối. Khi bạn bỏ lỡ bữa trưa vì cuộc họp kéo dài, ít nhất vẫn có thứ để ăn.
+**Có sẵn vài món dễ nuốt ở chỗ làm.** Hộp sữa đậu nành, gói yến mạch ăn liền, túi hạt, vài quả chuối. Khi cuộc họp kéo dài qua giờ trưa, ít nhất vẫn có thứ để ăn.
 
-**Rời màn hình khi ăn, dù chỉ mười phút.** Vừa ăn vừa đọc email giữ đầu óc ở trạng thái công việc, và bụng cũng khó mở ra. Ra khỏi bàn, ngồi gần cửa sổ, ăn chậm vài thìa. Mười phút đó cho hệ thần kinh một khoảng nghỉ nhỏ.
+**Rời màn hình khi ăn, dù chỉ mười phút.** Ra khỏi bàn, ngồi gần cửa sổ, ăn chậm vài thìa.
 
-**Ăn cùng ai đó nếu có thể.** Một bữa trưa với đồng nghiệp thân, một bữa tối có người nhà, thậm chí một cuộc gọi video với bạn khi ăn. Bữa ăn có người cùng ngồi thường kéo dài hơn và ăn được nhiều hơn bữa ăn một mình.
+**Ăn cùng ai đó nếu có thể.** Một bữa trưa với đồng nghiệp thân, một bữa tối có người nhà, hay một cuộc gọi video với bạn. Nhiều người thấy có người ngồi cùng thì dễ ngồi lâu hơn và ăn hết phần hơn.
 
-**Bỏ đi những luật lệ ăn uống không cần thiết.** Trong giai đoạn khó, không cần ăn "đúng chuẩn", không cần đếm calo, không cần tránh tinh bột. Ăn được là tốt. Khi đã qua giai đoạn này, bạn có thể quay lại nếp ăn cân bằng.
+**Bỏ những luật lệ ăn uống không cần thiết.** Trong giai đoạn khó, không cần đếm calo hay tránh tinh bột. Ăn được là tốt.
 
 ## Hạ nhịp căng thẳng để bụng mở lại
 
-Cách bền vững nhất để cảm giác ngon miệng quay lại là giảm bớt chính áp lực đang đè lên. Không phải lúc nào cũng gỡ được nguồn căng thẳng, nhưng có thể làm dịu phản ứng của cơ thể với nó.
+Không phải lúc nào cũng gỡ được nguồn áp lực, nhưng có thể làm dịu nhịp ngày quanh nó. Các cách dưới đây là gợi ý để thử, hiệu quả khác nhau tuỳ người.
 
-**Thở chậm vài phút trước bữa.** Hít vào bằng mũi khoảng bốn nhịp, thở ra chậm khoảng sáu nhịp, lặp lại năm đến mười lần. Thở ra dài hơn hít vào là cách đơn giản để nói với hệ thần kinh rằng tình huống khẩn cấp đã qua. Nhiều người thấy cổ họng bớt thắt và ăn dễ hơn sau vài phút thở như vậy. Bài [Thư giãn cân bằng bằng hơi thở](thu-gian-can-bang-hoi-tho.html) có hướng dẫn chi tiết hơn.
+**Thở chậm vài phút trước bữa.** Hít vào bằng mũi khoảng bốn nhịp, thở ra chậm khoảng sáu nhịp, lặp lại năm đến mười lần. Một số người thấy cổ họng bớt thắt sau vài phút như vậy. Bài [Thư giãn cân bằng bằng hơi thở](thu-gian-can-bang-hoi-tho.html) hướng dẫn chi tiết hơn.
 
-**Đi bộ ngắn.** Mười đến mười lăm phút đi bộ nhẹ, nhất là ngoài trời, giúp xả bớt căng thẳng và nhiều người thấy đói hơn sau khi đi bộ. Không cần tập nặng; nhẹ nhàng là đủ.
+**Đi bộ ngắn.** Mười đến mười lăm phút đi bộ nhẹ ngoài trời giúp rời khỏi bàn làm việc và đổi không khí; có người thấy dễ ăn hơn sau đó.
 
-**Viết ra những việc đang đè nặng.** Liệt kê ra giấy những gì đang lo, chọn một việc nhỏ nhất có thể làm ngay. Đầu óc bớt phải "giữ" mọi thứ cùng lúc thì cơ thể cũng bớt căng.
+**Viết ra những việc đang đè nặng.** Liệt kê ra giấy, chọn một việc nhỏ nhất có thể làm ngay.
 
-**Giữ giấc ngủ.** Ngủ đủ và đều là nền móng cho cả nhịp ăn. Khi ngủ được, sáng hôm sau cảm giác đói thường quay lại rõ hơn. Bài [Thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html) gợi ý cách dựng một khung 60 phút cuối ngày để đầu óc hạ nhiệt trước khi lên giường.
+**Giữ giờ ngủ đều.** Bài [Thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html) gợi ý cách dựng khung 60 phút cuối ngày để đầu óc hạ nhiệt trước khi lên giường.
 
-**Một nghi thức nhỏ cuối ngày.** Mười lăm phút rời điện thoại, tắt bớt đèn, pha một tách ấm và uống chậm. Một tách [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) với hương hoa nhài, chút ấm của hoa quế, vị dịu của phục linh và nốt cam của trần bì là một gợi ý cho khoảnh khắc ấy. Giá trị của tách trà nằm ở nhịp chậm lại mà nó tạo ra, ở việc tự cho mình một khoảng yên tĩnh sau một ngày dài, chứ không ở bản thân lá trà.
+**Một nghi thức nhỏ cuối ngày.** Mười lăm phút rời điện thoại, tắt bớt đèn, pha một tách ấm và uống chậm. Một tách [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) với hương hoa nhài, chút ấm của hoa quế, vị dịu của phục linh và nốt cam của trần bì là một gợi ý cho khoảnh khắc ấy. Thứ có ích ở đây là mười lăm phút yên tĩnh bạn dành cho mình.
 
-Chúng tôi cũng có một bài về những thực phẩm hay được nhắc khi nói đến căng thẳng: [Ăn gì để giảm căng thẳng, lo âu](an-gi-de-giam-cang-thang-lo-au.html). Thức ăn không thay được việc gỡ nguồn áp lực, nhưng một nền dinh dưỡng đủ giúp bạn có sức gánh nó.
+Bài [Ăn gì để giảm căng thẳng, lo âu](an-gi-de-giam-cang-thang-lo-au.html) nói thêm về nền dinh dưỡng trong giai đoạn áp lực. Thức ăn không thay được việc gỡ nguồn áp lực, nhưng ăn đủ giúp bạn có sức gánh nó.
 
 ## Ba tình huống thường gặp và cách xử lý
 
-**Chị đi làm văn phòng mùa chốt số cuối năm.** Sáng uống cà phê, trưa họp đến hai giờ, chiều làm tiếp, tối về chỉ ăn vài miếng. Cách giữ bữa: thay ly cà phê buổi sáng bằng một ly sinh tố có đạm uống trên đường đi làm; để sẵn một gói bột đạm và hộp sữa chua ở bàn cho cữ 10 giờ; trước cuộc họp dài, ăn một quả chuối và vài hạt; bữa tối ưu tiên canh và món mềm.
+**Chị đi làm văn phòng mùa chốt số cuối năm.** Sáng uống cà phê, trưa họp đến hai giờ, tối về chỉ ăn vài miếng. Cách giữ bữa: ăn vài thìa cháo hoặc uống một ly sinh tố có sữa đậu nành trước ly cà phê; để ở bàn làm việc vài gói bột đạm thực vật ([True Vegan Protein Pro](https://ikihealing.com/san-pham/true-vegan-protein.html) là một lựa chọn) cùng hộp sữa chua cho cữ 10 giờ; trước cuộc họp dài, ăn một quả chuối và vài hạt; bữa tối ưu tiên canh và cá hấp.
 
-**Mẹ bỉm vừa đi làm lại sau sinh.** Áp lực vừa con nhỏ vừa công việc, đêm ngủ chập chờn, sáng không thiết ăn. Cách giữ bữa: nấu sẵn cháo cho cả tuần, buổi sáng chỉ cần hâm lại vài thìa; nhờ người nhà cùng ăn bữa tối; giữ một cốc sữa ấm trước khi ngủ. Nếu đang cho con bú, nhu cầu năng lượng và nước cao hơn, càng không nên để mình ăn quá ít; hãy trao đổi với bác sĩ nếu chán ăn kéo dài. Bài [Mẹ đi làm chăm con nhỏ hay mệt](me-di-lam-cham-con-nho-hay-met.html) có thêm gợi ý cho giai đoạn này.
+**Mẹ bỉm vừa đi làm lại sau sinh.** Đêm ngủ chập chờn, sáng không thiết ăn. Cách giữ bữa: cuối tuần nấu một mẻ cháo, để ngăn mát phần ăn 2-3 ngày, cấp đông phần còn lại, sáng chỉ cần hâm sôi vài thìa; nhờ người nhà cùng ăn bữa tối; giữ một cốc sữa ấm trước khi ngủ. Nếu đang cho con bú, nhu cầu năng lượng và nước cao hơn, nên báo bác sĩ sớm khi ăn kém vài ngày liền. Bài [Mẹ đi làm chăm con nhỏ hay mệt](me-di-lam-cham-con-nho-hay-met.html) có thêm gợi ý.
 
-**Người đang chăm người thân ốm.** Những ngày trong bệnh viện hoặc chăm sóc ở nhà, bữa ăn của chính mình bị bỏ quên. Cách giữ bữa: mang theo đồ uống có chất như sữa hạt, sữa đậu nành; ăn theo giờ của người bệnh, cùng lúc họ ăn; nhờ người thân thay ca để mình có ít nhất một bữa ngồi xuống ăn đàng hoàng mỗi ngày. Chăm người khác thì trước hết mình phải còn sức.
+**Người đang chăm người thân ốm.** Những ngày trong bệnh viện, bữa ăn của chính mình bị bỏ quên. Cách giữ bữa: mang theo sữa đậu nành, sữa hạt; ăn cùng lúc người bệnh ăn; nhờ người thân thay ca để mình có ít nhất một bữa ngồi xuống ăn mỗi ngày.
 
 ## Lộ trình bảy ngày lấy lại nhịp ăn
 
-Nếu bạn đang ở giữa một giai đoạn chán ăn, đây là lộ trình bảy ngày nhẹ nhàng. Mỗi ngày thêm một việc nhỏ, việc cũ vẫn giữ.
+Mỗi ngày thêm một việc nhỏ, việc cũ vẫn giữ:
 
-- **Ngày 1**: đặt 4 đến 5 mốc ăn cố định trong ngày, mỗi mốc chỉ cần vài thìa. Đặt nhắc trên điện thoại
-- **Ngày 2**: chuẩn bị sẵn một nồi cháo hoặc súp, chia hộp để tủ lạnh
-- **Ngày 3**: đưa một nguồn đạm mềm vào ít nhất hai lần ăn: đậu phụ non, trứng, sữa chua hoặc một ly sinh tố có đạm
-- **Ngày 4**: để sẵn "kho dễ nuốt" ở chỗ làm: sữa hạt, chuối, hạt, gói bột đạm
-- **Ngày 5**: thử thở chậm năm phút trước bữa trưa, ăn trưa xa màn hình
-- **Ngày 6**: đi bộ mười lăm phút sau giờ làm, ăn bữa tối cùng người nhà hoặc bạn
+- **Ngày 1**: đặt 4-5 mốc ăn cố định, đặt nhắc trên điện thoại
+- **Ngày 2**: nấu một mẻ cháo hoặc súp, chia hộp, ngăn mát phần 2-3 ngày, cấp đông phần còn lại
+- **Ngày 3**: đưa một nguồn đạm mềm vào ít nhất hai lần ăn, dùng danh sách ước tính ở trên để cộng thử
+- **Ngày 4**: để sẵn vài món dễ nuốt ở chỗ làm, gồm một nguồn đạm uống được như sữa đậu nành hoặc sữa chua uống
+- **Ngày 5**: thở chậm năm phút trước bữa trưa, ăn trưa xa màn hình
+- **Ngày 6**: đi bộ mười lăm phút sau giờ làm, ăn tối cùng người nhà hoặc bạn
 - **Ngày 7**: nhìn lại cả tuần: mốc nào giữ được, món nào dễ ăn nhất, cảm giác đói đã quay lại chưa
 
-Ghi lại vài dòng mỗi ngày giúp bạn thấy quy luật của chính mình. Nếu bạn muốn một nơi ghi nhanh nhịp ăn, ngủ và tâm trạng trong vài chục giây mỗi ngày, [App IKI](https://ikihealing.com/app.html) có thể là người bạn đồng hành cho việc đó. Sau bảy ngày, nếu cảm giác ăn uống vẫn không cải thiện, hoặc bạn thấy mình sụt cân, đó là lúc đặt lịch khám.
-
-## Những hiểu lầm hay gặp
-
-**"Chán ăn thì nhịn luôn cho nhẹ người."** Nhịn ăn trong lúc căng thẳng khiến cơ thể càng thiếu nhiên liệu đúng lúc cần nhất. Bạn có thể thấy "nhẹ" vài ngày đầu, nhưng sau đó là mệt, chóng mặt, kém tập trung, và khó gánh áp lực hơn.
-
-**"Phải ăn đủ ba bữa to mới đúng."** Trong giai đoạn chán ăn, năm, sáu lần ăn nhỏ thường dễ làm và cho tổng lượng ăn nhiều hơn ba bữa bị bỏ dở.
-
-**"Ăn ít thì không cần uống đạm."** Ngược lại. Khi tổng lượng ăn giảm, đạm là thứ cần được giữ ưu tiên nhất, vì nó hay bị bỏ đầu tiên.
-
-**"Chán ăn là do yếu đuối, cố lên là được."** Chán ăn khi căng thẳng là phản ứng của cơ thể, không phải chuyện ý chí. Tự trách chỉ làm áp lực thêm nặng.
-
-**"Uống cà phê thay bữa cho tỉnh."** Cà phê có thể giúp tỉnh ngắn hạn, nhưng không cung cấp năng lượng hay đạm, và lúc bụng rỗng còn khiến nhiều người cồn cào, khó ăn bữa sau.
+Ghi vài dòng mỗi ngày giúp bạn thấy quy luật của chính mình; [App IKI](https://ikihealing.com/app.html) có chỗ ghi nhanh nhịp ăn, ngủ và tâm trạng. Hết bảy ngày mà chưa đỡ thì cân nhắc đặt lịch khám; còn nếu trong tuần thấy sụt cân rõ hoặc có triệu chứng kèm theo thì đi khám ngay, không chờ hết lộ trình.
 
 ## Tóm lại
 
-Căng thẳng chán ăn là phản ứng thường gặp: khi đầu óc ở trạng thái báo động, cơ thể tạm dồn sức cho việc đối phó và đẩy cảm giác đói lùi lại. Chán ăn vài ngày trong một đợt áp lực ngắn thường tự qua. Chán ăn quá hai tuần, sụt cân rõ, hoặc kèm buồn nôn, đau bụng, tâm trạng xuống thấp kéo dài thì cần đi khám.
+Căng thẳng chán ăn là phản ứng thường gặp. Trong lúc chờ nhịp sống dịu lại: ăn theo giờ với phần nhỏ, chọn món mềm có nước, cộng đủ khoảng 0,83 g đạm cho mỗi kg cân nặng, uống đủ giữa các bữa, và nấu theo mẻ để bữa ăn bớt thành gánh. Tự chăm sóc khoảng một tuần; chưa đỡ thì đặt lịch khám; sụt cân rõ hoặc có triệu chứng kèm theo thì đi khám ngay.
 
-Trong lúc chờ nhịp sống dịu lại, hãy ăn theo giờ thay vì đợi đói, chia nhỏ phần ăn, chọn món mềm, ấm, có nước, ưu tiên đạm trong mỗi lần ăn và uống đủ giữa các bữa. Chuẩn bị sẵn để bữa ăn bớt thành gánh nặng, và dành vài phút mỗi ngày để thở chậm, đi bộ, ngủ đủ. Cảm giác ngon miệng thường quay lại khi cơ thể được báo rằng tình huống khẩn cấp đã qua.
-
-Nếu bạn muốn hiểu rõ hơn nhịp sinh hoạt và thể trạng của mình để chọn những thay đổi phù hợp, hãy dành 90 giây để [kiểm tra thể trạng](https://ikihealing.com/quiz) và nhận một điểm khởi đầu cụ thể.
+Khi đã qua tuần khó và muốn nhìn lại nền sức khoẻ của mình, bạn có thể làm [bài kiểm tra sức khoẻ chủ động 12 câu](https://ikihealing.com/quiz) (khoảng 90 giây). Bài kiểm tra trả về bản phân tích 6 chỉ số sức khoẻ của riêng bạn kèm gợi ý thói quen; nó không chẩn đoán chán ăn hay căng thẳng, mà giúp bạn chọn thói quen nên bắt đầu trước.
 
 ## Nguồn tham khảo
 
 - American Psychological Association (APA) — *Stress effects on the body* (phản ứng chiến đấu hay bỏ chạy, ảnh hưởng của căng thẳng lên hệ tiêu hoá): [apa.org](https://www.apa.org/topics/stress/body)
-- Harvard Health Publishing — *Why stress causes people to overeat* (trong ngắn hạn căng thẳng có thể làm giảm cảm giác thèm ăn): [health.harvard.edu](https://www.health.harvard.edu/staying-healthy/why-stress-causes-people-to-overeat)
-- NHS — *Loss of appetite* (khi nào nên gặp bác sĩ vì chán ăn, sụt cân không chủ ý): [nhs.uk](https://www.nhs.uk/symptoms/loss-of-appetite/)
+- Harvard Health Publishing — *Why stress causes people to overeat* (căng thẳng ngắn hạn qua epinephrine có thể làm tắt thèm ăn; căng thẳng kéo dài, cortisol có thể làm tăng thèm ăn): [health.harvard.edu](https://www.health.harvard.edu/staying-healthy/why-stress-causes-people-to-overeat)
+- NHS — *Unintentional weight loss* (gặp bác sĩ khi sụt cân mà không thay đổi chế độ ăn hay vận động): [nhs.uk](https://www.nhs.uk/symptoms/unintentional-weight-loss/)
+- WHO/FAO/UNU (2007) — *Protein and amino acid requirements in human nutrition*, WHO Technical Report Series 935 (mức an toàn 0,83 g/kg/ngày cho người trưởng thành): [iris.who.int](https://iris.who.int/handle/10665/43411)
+- USDA FoodData Central — cơ sở dữ liệu thành phần thực phẩm (lượng đạm ước tính của trứng, đậu phụ, sữa chua, sữa đậu nành, cá, đậu lăng, cơm, hạnh nhân): [fdc.nal.usda.gov](https://fdc.nal.usda.gov/)
+- USDA FSIS — *Leftovers and Food Safety* (đồ ăn nấu sẵn để ngăn mát 3-4 ngày, cấp đông để lâu hơn, hâm súp tới sôi): [fsis.usda.gov](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
 - Torres S.J., Nowson C.A. (2007) — *Relationship between stress, eating behavior, and obesity*, Nutrition 23(11-12): 887-894 (người phản ứng với căng thẳng bằng ăn nhiều, người ăn ít đi)
+- Find A Helpline — Đường dây nóng Ngày Mai (hỗ trợ sức khoẻ tinh thần miễn phí tại Việt Nam): [findahelpline.com](https://findahelpline.com/organizations/ngay-mai)
 
 Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Các sản phẩm IKI nhắc trong bài là thực phẩm bổ sung và đồ uống dùng hằng ngày, không phải thuốc. Người đang mang thai, đang cho con bú, đang dùng thuốc hoặc có vấn đề sức khoẻ đang theo dõi nên hỏi ý kiến bác sĩ trước khi thay đổi chế độ ăn.
