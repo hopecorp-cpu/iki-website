@@ -16,23 +16,23 @@
   "faq": [
     {
       "q": "Tắm nước nóng mỗi ngày vào mùa đông có sao không?",
-      "a": "Tắm mỗi ngày vẫn ổn với phần lớn người lớn khoẻ mạnh, miễn là nước ấm vừa, tắm ngắn và dưỡng ẩm ngay sau đó. Cách giảm sữa tắm ở những vùng không cần nằm trong mục Bảy thói quen tắm làm da khô hơn."
+      "a": "Ổn với phần lớn người lớn khoẻ mạnh, nếu nước khoảng 37–40°C, mỗi lần 5–10 phút và thoa dưỡng ẩm trong vài phút sau khi lau khô. Ngày không ra nhiều mồ hôi thì chỉ cần sữa tắm ở nách, bẹn, bàn chân; phần còn lại tráng nước ấm là đủ."
     },
     {
       "q": "Làm sao biết nước có đang quá nóng không khi không có nhiệt kế?",
-      "a": "Thử bằng mặt trong cổ tay và nhìn da sau khi tắm: đỏ ửng rõ là nước đang nóng quá. Cách đo một lần rồi đánh dấu núm vặn nằm trong mục Bao nhiêu độ là vừa, tắm bao lâu là đủ."
+      "a": "Thử bằng mặt trong cổ tay: nước phải ấm dễ chịu, không rát. Da chân, bụng đỏ ửng rõ khi bước ra là nước đang nóng quá; đo một lần bằng nhiệt kế pha sữa rồi đánh dấu núm vặn ở mức 38–40°C là cách chắc nhất."
     },
     {
       "q": "Tắm nước nóng buổi tối có giúp dễ ngủ hơn không?",
-      "a": "Các nghiên cứu ghi nhận lợi ích khi tắm khoảng một đến hai tiếng trước giờ ngủ; con số nhiệt độ và cách dung hoà với làn da nằm trong mục Tắm buổi tối: mốc một đến hai tiếng trước giờ ngủ."
+      "a": "Có thể. Một tổng hợp 17 nghiên cứu (Sleep Medicine Reviews, 2019) ghi nhận tắm nước khoảng 40–42,5°C, chừng 10 phút, vào một đến hai tiếng trước giờ ngủ giúp người tham gia vào giấc nhanh hơn. Để giữ da, chọn mức khoảng 40°C và tắm ngắn."
     },
     {
       "q": "Có nên tắm nước lạnh vào mùa đông để da đỡ khô không?",
-      "a": "Không cần đi tới mức đó; nước ấm vừa là điểm cân bằng giữa làn da và cảm giác dễ chịu. Người có bệnh tim mạch, huyết áp nên tránh cả hai thái cực và hỏi bác sĩ đang theo dõi."
+      "a": "Không cần. Nước lạnh khoảng 11°C vẫn làm da mất nước, chỉ ít hơn nước nóng: chỉ số mất nước qua da tăng lên khoảng 35, so với khoảng 59 ở nước 41°C, trong một nghiên cứu năm 2022 đo trên tay. Người có bệnh tim mạch, huyết áp nên tránh cả hai thái cực và hỏi bác sĩ đang theo dõi."
     },
     {
       "q": "Trẻ nhỏ tắm nước nóng mùa đông cần lưu ý gì?",
-      "a": "Tắm cho trẻ bằng nước ấm, thời gian ngắn, sản phẩm dịu nhẹ không mùi và thoa kem dưỡng ngay khi lau khô. Chi tiết nằm trong mục Da chàm, da cơ địa và những ai cần thận trọng."
+      "a": "Viện Nhi khoa Hoa Kỳ khuyên tắm cho trẻ bằng nước ấm, thời gian ngắn, dùng sản phẩm dịu nhẹ không mùi và thoa kem dưỡng ngay khi lau khô. Với trẻ sơ sinh, thử nước bằng khuỷu tay người lớn trước khi đặt trẻ vào chậu."
     }
   ],
   "related": [
@@ -68,11 +68,11 @@ Những tối đầu mùa lạnh, gần như ai cũng thích khoảnh khắc m�
 
 Lớp ngoài cùng của da, còn gọi là lớp sừng, hoạt động giống một bức tường gạch. Các tế bào sừng là những viên gạch, còn "vữa" gắn chúng lại là một hỗn hợp chất béo tự nhiên. Bức tường này vừa chặn những thứ bên ngoài đi vào, vừa giữ nước bên trong không bay hơi quá nhanh.
 
-Nước nóng hoà tan bớt phần "vữa" ấy. Nước càng nóng, ngâm càng lâu, xà phòng càng mạnh thì lớp chất béo bị rửa trôi càng nhiều. Một nghiên cứu năm 2022 trên 50 người khoẻ mạnh (Herrero-Fernandez và cộng sự, Journal of Clinical Medicine) đo điều này khá rõ: sau 10 phút ngâm tay trong nước khoảng 41 độ C, lượng nước thoát qua da tăng từ khoảng 26 lên khoảng 59 đơn vị, tức hơn gấp đôi, kèm da đỏ hơn. Ngâm nước lạnh khoảng 11 độ C cũng làm chỉ số này tăng, nhưng chỉ lên khoảng 35.
+Nước nóng hoà tan bớt phần "vữa" ấy. Nước càng nóng, ngâm càng lâu, xà phòng càng mạnh thì lớp chất béo bị rửa trôi càng nhiều. Một nghiên cứu năm 2022 trên 50 người khoẻ mạnh (Herrero-Fernandez và cộng sự, Journal of Clinical Medicine) đo điều này khá rõ: sau 10 phút ngâm tay trong nước khoảng 41 độ C, lượng nước thoát qua da tăng từ khoảng 26 lên khoảng 59 đơn vị, tức hơn gấp đôi, kèm da đỏ hơn. Ngâm nước lạnh khoảng 11 độ C cũng làm chỉ số này tăng, nhưng chỉ lên khoảng 35. Thử nghiệm chỉ đo trên tay của 50 người khoẻ mạnh, nên chưa thể suy thẳng sang việc tắm toàn thân; nó cho thấy chiều hướng, chưa phải con số chính xác cho cả cơ thể.
 
-Đó là lý do da có thể thấy mềm ngay khi vừa tắm xong, rồi căng, ráp, ngứa sau đó nửa tiếng tới vài giờ. Cảm giác "căng là sạch" thực ra là dấu hiệu lớp chất béo đã mỏng đi; độ sạch đến từ việc làm sạch đúng vùng và tráng kỹ, nhiệt độ không làm da sạch hơn.
+Vì vậy da có thể thấy mềm ngay khi vừa tắm xong, rồi căng, ráp, ngứa sau đó nửa tiếng tới vài giờ. Cảm giác "căng là sạch" thực ra là dấu hiệu lớp chất béo đã mỏng đi; độ sạch đến từ việc làm sạch đúng vùng và tráng kỹ, nhiệt độ không làm da sạch hơn.
 
-Mùa lạnh làm chuyện này rõ hơn vì ba lý do cộng dồn: không khí khô hơn, nhất là ở miền Bắc khi gió mùa về; ta vặn nước nóng hơn và nán lại lâu hơn; và ta uống ít nước hơn vì ít thấy khát.
+Mùa lạnh làm chuyện này rõ hơn vì ba lý do cộng dồn: không khí khô hơn, nhất là ở miền Bắc khi gió mùa về; ta vặn nước nóng hơn và nán lại lâu hơn; và nhiều người cũng uống ít nước hơn vì ít thấy khát.
 
 ## Bao nhiêu độ là vừa, tắm bao lâu là đủ
 
@@ -85,7 +85,7 @@ Không có nhiệt kế thì có hai cách ước lượng:
 
 Về thời gian, mười phút nghe ngắn với người quen đứng dưới vòi hai mươi phút. Cách dễ giữ nhất là gắn lần tắm với thứ có độ dài cố định: ba bài hát quen dài khoảng ba phút rưỡi là vừa mười phút. Bài cuối hết là tắt vòi.
 
-Nếu sợ lạnh, hãy làm ấm **phòng tắm** thay vì làm nóng **nước**: đóng cửa và mở vòi nóng vài phút trước khi vào, bật đèn sưởi nếu có, để sẵn khăn và quần áo trong tầm tay. Cảm giác lạnh phần lớn đến lúc cởi đồ và lúc bước ra, ít khi đến từ dòng nước đang chảy.
+Nếu sợ lạnh, hãy làm ấm **phòng tắm** thay vì làm nóng **nước**: đóng cửa và mở vòi nóng vài phút trước khi vào, bật đèn sưởi nếu có, để sẵn khăn và quần áo trong tầm tay. Nhiều người thấy lạnh nhất lúc cởi đồ và lúc bước ra, chứ không phải lúc đang đứng dưới vòi; ở miền Bắc những ngày gió mùa, một phòng tắm đã được làm ấm thường giúp bạn bớt muốn vặn nước nóng thêm.
 
 ### Chỉnh bình nóng lạnh thế nào cho ra khoảng 40 độ
 
@@ -98,6 +98,12 @@ Phần lớn vòi sen nóng lạnh ở nhà ta không có vạch nhiệt độ, 
 
 Nên chỉnh ở **núm trộn của vòi**, đừng hạ nhiệt độ của chính bình chứa xuống quá thấp. Cơ quan An toàn và Sức khoẻ Lao động Anh (HSE) khuyên trữ nước nóng ở **ít nhất 60 độ C** để hạn chế vi khuẩn Legionella sinh sôi trong bình, rồi pha nước lạnh ở đầu vòi để ra nước dùng an toàn. Bình đang để mức rất cao thì càng nên đo, vì chỉ một chút lệch tay ở núm là nước ra đã quá nóng.
 
+Cách đánh dấu núm vặn dùng tốt nhất khi nhiệt nước nguồn ổn định. Mỗi loại thiết bị phổ biến ở nhà người Việt cần để ý một chút khác nhau:
+
+- **Bình nóng lạnh có bình chứa (loại gián tiếp, treo tường).** Nhiều loại có núm hoặc màn hình chỉnh nhiệt độ bình. Giữ bình ở mức nóng như trên, rồi chỉ chỉnh ở vòi trộn. Đo lại sau khi tắm được vài phút, vì nước trong bình nguội dần khi người trước đã dùng nhiều.
+- **Máy nước nóng trực tiếp (loại nhỏ, làm nóng ngay khi nước chảy qua).** Nhiệt nước ra phụ thuộc mức công suất đang bật và độ mạnh của dòng nước: mở nước yếu thì nước ra nóng hơn, mở mạnh thì nguội hơn. Đo một lần ở đúng mức công suất và độ mở vòi bạn hay dùng, đánh dấu cả hai.
+- **Máy nước nóng năng lượng mặt trời.** Nhiệt nước đổi theo nắng: chiều sau một ngày nắng gắt nước có thể rất nóng, ngày âm u lại chỉ âm ấm. Với loại này, vạch đánh dấu chỉ là điểm bắt đầu; mỗi lần tắm vẫn nên thử lại bằng cổ tay trước khi đứng vào dưới vòi.
+
 Nhà không có bình nóng lạnh, tắm bằng xô nước đun: **đổ nước lạnh vào xô trước, nước nóng sau**, khuấy đều rồi mới thử bằng cổ tay hoặc nhiệt kế. Thứ tự này giảm nguy cơ bỏng khi lỡ tay, nhất là trong nhà có trẻ nhỏ.
 
 Nếu nhà dùng nước giếng khoan hoặc nước cứng (ấm đun nước đóng cặn trắng nhanh), hãy để ý thêm khâu tráng. Một nghiên cứu năm 2018 của Đại học Sheffield và King's College London (Danby và cộng sự, Journal of Investigative Dermatology) ghi nhận nước cứng khiến chất tẩy rửa trong sữa tắm bám lại trên da nhiều hơn, làm da mất nước và kích ứng hơn, rõ nhất ở người có viêm da cơ địa. Dùng ít sữa tắm và tráng kỹ là việc làm được ngay.
@@ -105,17 +111,20 @@ Nếu nhà dùng nước giếng khoan hoặc nước cứng (ấm đun nước 
 ## Bảy thói quen tắm làm da khô hơn mà ít ai để ý
 
 **Dùng sữa tắm cho toàn thân.** Vùng thật sự cần chất tẩy rửa mỗi ngày là nách, bẹn, bàn chân. Cẳng chân và cánh tay vốn ít tuyến dầu, chỉ cần tráng nước ấm.
-**Chọn sữa tắm nhiều bọt, thơm nồng.** Bọt nhiều không đồng nghĩa với sạch hơn. AAD xếp hương liệu vào nhóm thành phần nên tránh khi da đang khô; với da khô, nên tìm chữ "fragrance-free" (không hương liệu) trên nhãn.
+
+**Ưu tiên sữa tắm nhiều bọt, thơm nồng.** Đừng chọn sữa tắm chỉ vì nhiều bọt, thơm nồng, vì bọt nhiều không đồng nghĩa với sạch hơn. AAD xếp hương liệu vào nhóm thành phần nên tránh khi da đang khô; với da khô, nên tìm chữ "fragrance-free" (không hương liệu) trên nhãn.
 
 **Kỳ cọ mạnh bằng bông tắm hoặc khăn ráp.** Da vừa ngậm nước nóng mềm và dễ trầy hơn. Nếu thích tẩy da chết, tối đa một đến hai lần mỗi tuần, và mùa hanh nên giảm về một lần.
 
 **Xả nước nóng thẳng lên mặt.** Da mặt mỏng hơn da thân. Rửa mặt riêng ở bồn rửa bằng nước ấm thay vì ngửa mặt dưới vòi sen nóng suốt lần tắm.
 
-**Gội đầu bằng nước rất nóng.** Da đầu cũng là da. Gội bằng nước cùng mốc ấm như khi tắm, xả lần cuối hơi mát hơn một chút. Nếu tóc dài và gội lâu, tách gội đầu ra khỏi lần tắm để thời gian dưới vòi không kéo lên hai mươi phút.
+**Ngâm lâu trong bồn nước nóng.** Nhà có bồn tắm thì tối mùa đông rất dễ nằm ngâm nửa tiếng. AAD giới hạn cả tắm vòi lẫn ngâm bồn trong khoảng 5 đến 10 phút với nước ấm; muốn thư giãn lâu hơn, hãy để nước nguội về mức ấm vừa và đứng dậy khi đầu ngón tay bắt đầu nhăn.
+
+**Gội đầu bằng nước rất nóng.** Hình dung căn phòng trọ không có bình nóng lạnh: đun một ấm nước sôi, đổ vào xô, pha vội chút nước lạnh rồi dội lên đầu vì sợ buốt. Nước lúc ấy thường nóng hơn hẳn mức da cần, và da đầu cũng là da. Pha cho tới khi nước ấm như lúc tắm, thử bằng cổ tay trước khi dội, lần xả cuối để hơi mát hơn một chút. Người tóc dài, gội lâu thì tách gội đầu ra khỏi lần tắm, để thời gian dưới vòi không kéo lên hai mươi phút.
 
 **Chà khăn để lau khô.** Lau mạnh từ trên xuống vừa làm mất nước vừa tạo ma sát. AAD khuyên thấm khô nhẹ, để lại một chút ẩm trên da rồi thoa dưỡng ẩm.
 
-**Tắm hai lần mỗi ngày vào mùa lạnh.** Mỗi lần tắm là thêm một lượt rửa trôi chất béo. Nếu không vận động ra nhiều mồ hôi, một lần mỗi ngày là đủ; hôm có tập, lần tắm thứ hai nên chỉ tráng nước, không cần sữa tắm toàn thân.
+**Tắm hai lần mỗi ngày vào mùa lạnh.** Nhiều nhà giữ nếp tắm sáng cho tỉnh, tắm tối cho ấm, và mỗi lần tắm là thêm một lượt rửa trôi chất béo trên da. Chiều thứ Bảy đá bóng về, người đẫm mồ hôi, tắm lại là đúng; nhưng lần đó chỉ cần sữa tắm ở nách, bẹn, bàn chân, phần còn lại tráng nước ấm. Ở Sài Gòn, nơi tháng mười hai vẫn oi, tắm hai lần một ngày là thói quen khó bỏ; khi đó cứ giữ cả hai lần ngắn và chỉ một lần dùng sữa tắm.
 
 Không cần đổi cả bảy trong một tuần. Chọn hai thói quen bạn đang làm nhiều nhất, đổi trước, rồi quan sát da trong hai tuần.
 
@@ -126,16 +135,16 @@ Ngay sau khi tắm, da đang ngậm nước. Khoá lượng nước đó lại b
 1. **Tắt vòi trước khi thấy lạnh**, để còn đủ thoải mái làm các bước sau thay vì vội mặc đồ.
 2. **Thấm khô nhẹ bằng khăn mềm**, để da còn hơi ẩm.
 3. **Thoa dưỡng ẩm ngay**, như AAD khuyên. Ưu tiên cẳng chân, khuỷu tay, mu bàn tay, gót chân.
-4. **Chọn kết cấu theo mùa.** Mùa lạnh, dạng kem hoặc thuốc mỡ đặc thường giữ ẩm tốt hơn sữa dưỡng mỏng với da khô.
+4. **Chọn kết cấu theo mùa.** AAD cho biết dạng thuốc mỡ và kem bổ sung ẩm cho da nhiều hơn sữa dưỡng (lotion); mùa lạnh, da khô nên ưu tiên hai dạng này.
 5. **Mặc lớp áo cotton bên trong**, để len thô không cọ trực tiếp lên da vừa thoa dưỡng.
 
 Đặt sẵn lọ dưỡng ẩm ngay trong phòng tắm, chỗ mắt nhìn thấy khi vừa tắt vòi. Lọ kem nằm ở phòng ngủ là lý do phổ biến nhất khiến bước này bị bỏ.
 
-Chăm sóc bên trong đi cùng, nhưng là nền chung chứ chưa phải lời giải cho da khô: uống đủ nước dù không khát và có chất béo tốt từ các loại hạt, dầu thực vật trong bữa ăn. Đạm cũng là phần nền dinh dưỡng cho cơ thể; chưa có bằng chứng cho thấy ăn thêm đạm làm da bớt khô, nên hãy coi một ly [đạm thực vật](https://trueveganprotein.com) buổi sáng chỉ là cách tiện để ngày bận không hụt bữa. Từng nhóm chất kèm món ăn trong bếp Việt nằm ở bài [Da khô thiếu chất gì](da-kho-thieu-chat-gi.html).
+Bữa ăn nuôi da từ bên trong ra sao thì bài [Da khô thiếu chất gì](da-kho-thieu-chat-gi.html) đi qua từng nhóm chất; còn nếu bạn cần một bữa sáng gọn cho ngày bận, [đạm thực vật True Vegan](https://trueveganprotein.com) là sản phẩm của IKI bạn có thể tham khảo.
 
 ## Tắm buổi tối: mốc một đến hai tiếng trước giờ ngủ
 
-Một tổng hợp nghiên cứu đăng trên Sleep Medicine Reviews năm 2019 (Haghayegh và cộng sự) ghi nhận tắm vòi sen hoặc ngâm bồn với nước **khoảng 40 đến 42,5 độ C**, **khoảng một đến hai tiếng trước giờ ngủ**, giúp người tham gia vào giấc nhanh hơn, và không cần tắm lâu hơn khoảng 10 phút. Khoảng nhiệt này nằm ở ngưỡng trên, thậm chí nhỉnh hơn mức tốt cho da đã nói ở trên. Cách dung hoà hợp lý là chọn mốc **khoảng 40 độ, tắm ngắn chừng mười phút**, và dời giờ tắm sớm lên thay vì vặn nóng thêm; tắm sát giờ lên giường thì cơ thể còn ấm, chưa kịp hạ nhiệt. Muốn dựng cả khung giờ thư thả sau bữa tối, xem bài [Thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html); hôm không kịp tắm, bài [Ngâm chân nước ấm trước khi ngủ](ngam-chan-nuoc-am-truoc-khi-ngu.html) có cách làm nhanh hơn.
+Một tổng hợp 17 nghiên cứu trên Sleep Medicine Reviews năm 2019 (Haghayegh và cộng sự) ghi nhận tắm nước ấm chừng 10 phút, vào khoảng một đến hai tiếng trước giờ ngủ, giúp người tham gia vào giấc nhanh hơn. Để vừa giữ da vừa tận dụng mốc giờ này, hãy chọn nước **khoảng 40 độ** và tắm chừng mười phút. Nếu muốn ấm người hơn, dời giờ tắm sớm lên thay vì vặn nóng thêm. Cả khung giờ thư thả sau bữa tối có ở bài [Thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html).
 
 ## Da chàm, da cơ địa và những ai cần thận trọng
 
@@ -150,28 +159,28 @@ Nên gặp bác sĩ da liễu khi da khô kèm ngứa dữ dội làm mất ng�
 
 ## Lịch đổi thói quen trong 14 ngày
 
-Mỗi chặng chỉ thêm một việc:
+Mỗi chặng chỉ thêm một việc. Để có cái mà so, mỗi tối trước khi ngủ ghi vào ghi chú điện thoại hai con số: **mức ngứa từ 0 đến 5** (0 là không ngứa, 5 là ngứa tới mức phải gãi) và **mức căng da sau khi tắm từ 0 đến 5**. Tối hôm trước ngày 1, ghi một lần làm mốc.
 
-- **Ngày 1 đến 3:** đo nước và đánh dấu núm vặn ở khoảng 38 đến 40 độ.
-- **Ngày 4 đến 6:** đặt lọ dưỡng ẩm trong phòng tắm, thoa ngay sau khi lau, ít nhất ở cẳng chân và mu bàn tay.
-- **Ngày 7 đến 9:** tắm theo ba bài hát, tắt vòi khi bài cuối hết.
-- **Ngày 10 đến 12:** chỉ dùng sữa tắm ở nách, bẹn, bàn chân.
-- **Ngày 13 đến 14:** dời giờ tắm tối lên sớm hơn giờ ngủ một đến hai tiếng.
+- **Ngày 1 đến 3:** đo nước và đánh dấu núm vặn ở khoảng 38 đến 40 độ. Ghi thêm: da chân, bụng có còn đỏ ửng khi bước ra không.
+- **Ngày 4 đến 6:** đặt lọ dưỡng ẩm trong phòng tắm, thoa ngay sau khi lau, ít nhất ở cẳng chân và mu bàn tay. Ghi thêm: buổi sáng mu bàn tay còn căng không.
+- **Ngày 7 đến 9:** tắm theo ba bài hát, tắt vòi khi bài cuối hết. Ghi thêm: đầu ngón tay có còn nhăn khi bước ra không, dấu hiệu bạn vẫn đang tắm lâu.
+- **Ngày 10 đến 12:** chỉ dùng sữa tắm ở nách, bẹn, bàn chân. Ghi thêm: cẳng chân còn vảy trắng không, có thể chụp một tấm ảnh cùng góc, cùng ánh sáng.
+- **Ngày 13 đến 14:** dời giờ tắm tối lên sớm hơn giờ ngủ một đến hai tiếng. Ghi thêm: lưng có còn ngứa lúc nửa đêm không.
 
-Sau hai tuần, để ý cẳng chân còn vảy trắng không, lưng còn ngứa lúc nửa đêm không, da tay buổi sáng còn căng không. Làn da còn chịu ảnh hưởng của thời tiết, cơ địa, giấc ngủ và bữa ăn, nên không có mốc thời gian nào đúng cho tất cả.
+Hết ngày 14, đặt các con số cạnh mốc ban đầu: điểm ngứa và điểm căng da có xu hướng giảm thì giữ các thói quen mới; đứng yên hoặc tăng thì xem lại chặng nào bạn chưa giữ được, hoặc đã tới lúc đi khám như mục trên. Làn da còn chịu ảnh hưởng của thời tiết, cơ địa, giấc ngủ và bữa ăn, nên không có mốc thời gian nào đúng cho tất cả.
 
 Nếu da khô đi kèm ngủ kém hay hay mệt khi trời trở lạnh, có thể nhịp sống chung đang lệch, và phòng tắm chỉ là một phần của bức tranh. Bạn có thể [kiểm tra thể trạng trong 90 giây](https://ikihealing.com/quiz) để xem nên chỉnh giấc ngủ, bữa ăn hay nhịp nghỉ trước.
 
 ## Tóm lại
 
-Tắm nước nóng không hại da khi nước ở khoảng 37 đến 40 độ C và mỗi lần tắm chỉ 5 đến 10 phút. Đo nước một lần rồi đánh dấu núm vặn, dùng ít sữa tắm, và thoa dưỡng ẩm ngay khi vừa lau khô là ba việc đáng làm nhất trong mùa lạnh.
+Đo nước một lần rồi đánh dấu núm vặn, dùng ít sữa tắm, và thoa dưỡng ẩm ngay khi vừa lau khô là ba việc đáng làm nhất để làn nước ấm mùa lạnh không làm da khô căng.
 
 ## Nguồn tham khảo
 
-- American Academy of Dermatology — *Dermatologists' top tips for relieving dry skin* (nước ấm thay vì nước nóng, 5 đến 10 phút, thấm khô nhẹ, dưỡng ẩm ngay sau tắm, tránh hương liệu): [aad.org](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dry-skin-relief)
+- American Academy of Dermatology — *Dermatologists' top tips for relieving dry skin* (nước ấm thay vì nước nóng, 5 đến 10 phút, thấm khô nhẹ, dưỡng ẩm ngay sau tắm, thuốc mỡ và kem hiệu quả hơn sữa dưỡng, tránh hương liệu): [aad.org](https://www.aad.org/public/everyday-care/skin-care-basics/dry/dry-skin-relief)
 - Herrero-Fernandez M. và cộng sự — *Impact of Water Exposure and Temperature Changes on Skin Barrier Function*, Journal of Clinical Medicine, 2022 (nước khoảng 41 độ C trong 10 phút làm lượng nước thoát qua da tăng hơn gấp đôi): [ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8778033/)
 - Danby S. G. và cộng sự — *The Effect of Water Hardness on Surfactant Deposition after Washing and Subsequent Skin Irritation in Atopic Dermatitis Patients and Healthy Control Subjects*, Journal of Investigative Dermatology, 2018: [eprints.whiterose.ac.uk](https://eprints.whiterose.ac.uk/120644/)
-- Haghayegh S. và cộng sự — *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis*, Sleep Medicine Reviews, 2019 (nước khoảng 40 đến 42,5 độ C, một đến hai tiếng trước giờ ngủ): [doi.org](https://doi.org/10.1016/j.smrv.2019.04.008)
+- Haghayegh S. và cộng sự — *Before-bedtime passive body heating by warm shower or bath to improve sleep: A systematic review and meta-analysis*, Sleep Medicine Reviews, 2019 (17 nghiên cứu; nước khoảng 40 đến 42,5 độ C, chừng 10 phút, một đến hai tiếng trước giờ ngủ): [doi.org](https://doi.org/10.1016/j.smrv.2019.04.008)
 - Health and Safety Executive (Anh) — *Managing legionella in hot and cold water systems* (trữ nước nóng ít nhất 60 độ C): [hse.gov.uk](https://www.hse.gov.uk/healthservices/legionella.htm)
 - National Eczema Association — *Bathing*: [nationaleczema.org](https://nationaleczema.org/eczema/treatment/bathing/)
 - American Academy of Pediatrics, HealthyChildren.org — *Avoiding Dry Winter Skin in Babies and Toddlers*: [healthychildren.org](https://www.healthychildren.org/English/health-issues/conditions/skin/Pages/Avoiding-Dry-Winter-Skin-in-Babies-and-Toddlers.aspx)
