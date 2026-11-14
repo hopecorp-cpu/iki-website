@@ -200,7 +200,7 @@ Trả lời gọn câu hỏi mở đầu: **ăn bưởi có tốt không?** Có,
 
 Điều duy nhất không được bỏ qua: **nếu bạn hoặc người thân đang dùng thuốc kê đơn dài ngày, hãy hỏi bác sĩ hoặc dược sĩ trước khi ăn bưởi thường xuyên**. Một câu hỏi ngắn có thể tránh được một rủi ro không đáng có.
 
-Bưởi không phải thần dược, cũng không cần phải là thần dược. Nó chỉ cần là một quả ngon của mùa đông, xuất hiện đều trong hộp cơm, trên mâm tráng miệng, giữa những buổi chiều bận rộn. Chăm sóc sức khoẻ chủ động bền nhất vẫn là thế: không tìm món thần kỳ, mà làm cho những bữa ăn bình thường tốt lên một chút mỗi ngày. Nếu muốn bắt đầu từ chính thể trạng của mình, bạn có thể [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có gợi ý phù hợp.
+Bưởi không phải điều kỳ diệu, cũng không cần phải là điều kỳ diệu. Nó chỉ cần là một quả ngon của mùa đông, xuất hiện đều trong hộp cơm, trên mâm tráng miệng, giữa những buổi chiều bận rộn. Chăm sóc sức khoẻ chủ động bền nhất vẫn là thế: không tìm món thần kỳ, mà làm cho những bữa ăn bình thường tốt lên một chút mỗi ngày. Nếu muốn bắt đầu từ chính thể trạng của mình, bạn có thể [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có gợi ý phù hợp.
 
 ## Nguồn tham khảo
 
