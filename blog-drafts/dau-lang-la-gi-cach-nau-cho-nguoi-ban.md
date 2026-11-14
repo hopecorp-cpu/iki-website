@@ -1,13 +1,13 @@
 ---json
 {
-  "title": "Đậu lăng là gì? Nguồn đạm thực vật nấu trong 20 phút cho phụ nữ bận rộn",
-  "seo_title": "Đậu lăng là gì? Cách nấu nhanh cho người bận",
+  "title": "Đậu lăng là gì? Cách nấu nhanh không cần ngâm cho phụ nữ bận rộn",
+  "seo_title": "Đậu lăng là gì? Cách nấu nhanh không cần ngâm",
   "slug": "dau-lang-la-gi-cach-nau-cho-nguoi-ban",
-  "description": "Đậu lăng là gì, có mấy loại, bao nhiêu đạm, có cần ngâm không và nấu bao lâu? Hướng dẫn đầy đủ cho phụ nữ bận rộn: sáu món đậu lăng kiểu Việt, cách nấu một mẻ dùng cả tuần và những ai cần thận trọng.",
+  "description": "Đậu lăng là gì? Loại đậu không cần ngâm, nấu 15–20 phút. Xem 4 loại đậu, lượng đạm và 6 món Việt có định lượng cho tối bận rộn.",
   "keyword": "đậu lăng",
   "category": "dinh-duong",
   "date": "2026-11-04",
-  "updated": "2026-11-04",
+  "updated": "2026-11-14",
   "author": "Đội ngũ Health Coach IKI",
   "hero_local": "assets/blog/dau-lang-la-gi-cach-nau-cho-nguoi-ban-hero.jpg",
   "hero_alt": "Ba bát nhỏ đựng đậu lăng đỏ, đậu lăng xanh và đậu lăng nâu đặt cạnh nồi canh cà chua trên mặt bếp gỗ",
@@ -16,23 +16,19 @@
   "faq": [
     {
       "q": "Đậu lăng có cần ngâm trước khi nấu không?",
-      "a": "Không bắt buộc. Khác với đậu đỏ, đậu đen hay đậu gà phải ngâm nhiều giờ, đậu lăng hạt nhỏ và mỏng vỏ nên có thể vo sạch rồi nấu ngay. Đậu lăng đỏ thường chín nhừ sau khoảng 15 đến 20 phút, đậu lăng xanh và nâu cần khoảng 20 đến 30 phút. Một số người ngâm thêm 30 phút đến vài giờ để hạt chín đều hơn và dễ tiêu hơn với bụng nhạy cảm, nhưng đây là tuỳ chọn. Điều bắt buộc là phải nấu chín hẳn, không ăn đậu lăng sống."
+      "a": "Không bắt buộc, chỉ cần vo sạch rồi nấu ngay; ngâm ngắn là tuỳ chọn cho người bụng nhạy cảm. Điều bắt buộc là phải nấu chín hẳn, không ăn đậu lăng sống."
     },
     {
       "q": "Đậu lăng có phải là đậu đỏ không?",
-      "a": "Không. Đậu đỏ quen thuộc trong chè và xôi ở Việt Nam là một loại đậu khác, hạt tròn hơn, vỏ dày hơn và thường phải ngâm lâu. Đậu lăng đỏ thật ra là đậu lăng đã tách vỏ, màu cam hồng, hạt nhỏ và dẹt như thấu kính, nấu rất nhanh và dễ nhừ thành dạng sệt. Hai loại khác nhau về hình dạng, thời gian nấu và cách dùng trong món ăn."
+      "a": "Không. Đậu lăng đỏ là đậu lăng đã tách vỏ, hạt dẹt và nấu nhanh, còn đậu đỏ nấu chè là một loại đậu khác, hạt tròn, vỏ dày và phải ngâm lâu."
     },
     {
       "q": "100g đậu lăng có bao nhiêu đạm?",
-      "a": "Cần phân biệt đậu lăng khô và đậu lăng đã nấu. Theo dữ liệu dinh dưỡng của Bộ Nông nghiệp Hoa Kỳ (USDA), 100g đậu lăng luộc chín có khoảng 9g đạm, khoảng 8g chất xơ và chừng 116 kcal. Đậu lăng khô chưa nấu đậm đặc hơn, vào khoảng 24 đến 25g đạm mỗi 100g, vì khi nấu hạt hút nước và nở ra gấp khoảng hai lần rưỡi. Khi tự tính khẩu phần, hãy ghi rõ mình đang cân đậu khô hay đậu chín."
+      "a": "Theo USDA, 100g đậu lăng luộc chín có khoảng 9g đạm; con số 24 đến 25g mà nhiều trang ghi là của đậu khô chưa nấu."
     },
     {
       "q": "Ăn đậu lăng bị đầy hơi phải làm sao?",
-      "a": "Đậu lăng, như các loại đậu khác, có một số loại đường mà ruột cần thời gian làm quen, nên người mới ăn có thể thấy đầy hơi. Cách giảm khá đơn giản: vo kỹ, có thể ngâm ngắn rồi đổ nước ngâm, nấu thật nhừ, bắt đầu với phần nhỏ chừng hai ba muỗng canh đậu chín rồi tăng dần trong vài tuần, ăn chậm và uống đủ nước. Nếu đầy bụng, đau bụng kéo dài hoặc kèm triệu chứng bất thường thì nên đi khám thay vì tự xử lý."
-    },
-    {
-      "q": "Đậu lăng mua ở đâu?",
-      "a": "Đậu lăng hiện bán ở nhiều siêu thị lớn tại các thành phố, cửa hàng thực phẩm chay, cửa hàng thực phẩm nhập khẩu và các sàn thương mại điện tử. Khi mua, chọn túi còn hạn dùng xa, hạt đều màu, khô, không vón cục, không có mọt hay mùi lạ. Nên đọc nhãn để biết xuất xứ, đơn vị nhập khẩu và hướng dẫn bảo quản. Sau khi mở túi, đổ sang hũ kín, để nơi khô mát."
+      "a": "Bắt đầu với hai ba muỗng canh đậu chín mỗi bữa, nấu thật nhừ và tăng dần trong vài tuần. Đầy bụng hay đau bụng kéo dài thì nên đi khám thay vì tự xử lý."
     }
   ],
   "related": [
@@ -62,34 +58,34 @@
 }
 ---
 
-Bảy giờ tối thứ Tư, chị Mai mở tủ lạnh và thấy đúng thứ chị đã thấy từ thứ Hai: nửa hộp đậu phụ, hai quả trứng và một bó rau muống. Chị đã định đổi món từ đầu tuần, nhưng đậu đỏ phải ngâm từ tối hôm trước, đậu gà phải ninh hơn một tiếng, mà tối nào chị về tới nhà cũng đã quá giờ để nghĩ tới chuyện ngâm hay ninh. Cuối cùng lại là trứng rán.
+Hãy hình dung một tình huống mà nhiều chị em đi làm sẽ thấy quen (chị Mai dưới đây là nhân vật minh hoạ). Bảy giờ tối thứ Tư, chị Mai mở tủ lạnh và thấy đúng thứ chị đã thấy từ thứ Hai: nửa hộp đậu phụ, hai quả trứng và một bó rau muống. Chị đã định đổi món từ đầu tuần, nhưng đậu đỏ phải ngâm từ tối hôm trước, đậu gà phải ninh hơn một tiếng, mà tối nào về tới nhà cũng đã quá giờ để nghĩ tới chuyện ngâm hay ninh. Cuối cùng lại là trứng rán.
 
-Nếu bạn cũng đang muốn có thêm một nguồn đạm từ thực vật cho bữa cơm, nhưng không có thời gian cho những loại đậu phải ngâm qua đêm, thì **đậu lăng** đáng để làm quen. Đây là loại đậu hạt nhỏ, không cần ngâm, nấu nhanh, và khá dễ đưa vào món Việt quen thuộc như canh cà chua, cháo hay đồ xào.
+Nếu bạn cũng muốn có thêm một nguồn đạm từ thực vật cho bữa cơm mà không có thời gian cho những loại đậu phải ngâm qua đêm, thì **đậu lăng** đáng để làm quen. Hạt nhỏ, nấu nhanh, lại dễ đưa vào món Việt quen thuộc như canh cà chua, cháo hay đồ xào.
 
-Bài viết này đi từ những điều cơ bản nhất: đậu lăng là gì, có mấy loại, trong đó có gì, rồi tới phần thực hành dài nhất là cách nấu, sáu món dễ làm, cách nấu một mẻ dùng cả tuần, và những ai nên thận trọng. Mục tiêu không phải biến đậu lăng thành "siêu thực phẩm", mà là giúp bạn có thêm một lựa chọn chắc chắn cho những tối bận như tối thứ Tư của chị Mai.
+Bài viết đi từ điều cơ bản nhất: đậu lăng là gì, có mấy loại, trong đó có gì và ăn vào có lợi gì. Sau đó là phần thực hành dài nhất: cách nấu, sáu món có định lượng cho hai người, cách nấu một mẻ dùng cả tuần, và những ai nên thận trọng. Mục tiêu không phải biến đậu lăng thành "siêu thực phẩm", mà là giúp bạn có thêm một lựa chọn chắc chắn cho những tối bận như tối thứ Tư của chị Mai.
 
 ## Đậu lăng là gì?
 
 Đậu lăng là hạt của một loại cây họ đậu, cùng họ với đậu xanh, đậu Hà Lan và đậu nành. Hạt đậu lăng nhỏ, dẹt và hơi phồng ở giữa, trông giống một thấu kính thu nhỏ. Đậu lăng được trồng và ăn từ rất lâu đời ở Trung Đông, Nam Á và vùng Địa Trung Hải, và ngày nay là món ăn hằng ngày của hàng trăm triệu người, đặc biệt ở Ấn Độ, nơi các món đậu hầm sệt ăn cùng cơm hoặc bánh mì dẹt là một phần quen thuộc của bữa cơm.
 
-Ở Việt Nam, đậu lăng chưa phổ biến bằng đậu xanh hay đậu đen, nhưng vài năm gần đây đã có mặt ở nhiều siêu thị, cửa hàng thực phẩm chay và sàn thương mại điện tử. Nhiều người lần đầu thấy túi đậu lăng đỏ còn tưởng là một loại đậu đỏ tách vỏ. Thật ra đây là hai loại khác nhau, và phần dưới sẽ nói rõ.
+Ở Việt Nam, đậu lăng chưa phổ biến bằng đậu xanh hay đậu đen, nhưng vài năm gần đây đã có mặt ở nhiều siêu thị và cửa hàng thực phẩm chay.
 
-Về mặt dinh dưỡng, đậu lăng được xếp vào nhóm đậu đỗ, nhóm thực phẩm mà các hướng dẫn ăn uống của Tổ chức Y tế Thế giới và Trường Y tế Công cộng Harvard đều khuyến khích ăn thường xuyên, vì vừa có đạm, vừa có chất xơ, lại ít chất béo. Đối với người muốn ăn bớt thịt hoặc ăn chay vài ngày trong tuần, đậu lăng là một trong những nguồn đạm thực vật dễ dùng nhất.
+Về mặt dinh dưỡng, đậu lăng thuộc nhóm đậu đỗ, nhóm thực phẩm mà hướng dẫn ăn uống của Tổ chức Y tế Thế giới (WHO) và Trường Y tế Công cộng Harvard đều khuyến khích ăn thường xuyên, vì vừa có đạm, vừa có chất xơ, lại ít chất béo. Với người muốn ăn bớt thịt hoặc ăn chay vài ngày trong tuần, đậu lăng là một trong những nguồn đạm thực vật dễ dùng nhất.
 
 ## Các loại đậu lăng thường gặp và nên chọn loại nào
 
-Trên kệ hàng, bạn thường gặp bốn loại. Mỗi loại có thời gian nấu và cách dùng hơi khác nhau, nên biết trước sẽ đỡ thất vọng khi nấu lần đầu.
+Trên kệ hàng, bạn thường gặp bốn loại. Thời gian nấu của từng loại ghi trong bảng thời gian ở mục "Cách nấu đậu lăng cơ bản" bên dưới.
 
-- **Đậu lăng đỏ (hoặc cam).** Thực chất là đậu lăng đã tách vỏ, nên hạt màu cam hồng, rất nhỏ. Đây là loại nấu nhanh nhất, khoảng 15 đến 20 phút là nhừ, và khi chín thường bở ra thành dạng sệt. Hợp với canh, súp, cháo và các món sốt. Đây là loại nên bắt đầu nếu bạn là người mới.
-- **Đậu lăng xanh.** Còn vỏ, màu xanh ô liu, hạt chắc hơn. Nấu khoảng 25 đến 30 phút, chín vẫn giữ được hình hạt, không nát. Hợp với salad, cơm trộn, món xào.
-- **Đậu lăng nâu.** Loại phổ biến và thường rẻ nhất. Nấu khoảng 20 đến 30 phút, giữ hình tương đối nhưng mềm hơn đậu xanh. Dùng được cho hầu hết món: hầm, xào, trộn.
-- **Đậu lăng đen.** Hạt nhỏ, đen bóng, nấu khoảng 20 đến 25 phút, giữ hình rất tốt, vị đậm. Đẹp mắt trong salad và cơm trộn, nhưng thường đắt và khó mua hơn.
+- **Đậu lăng đỏ (hoặc cam).** Thực chất là đậu lăng đã tách vỏ, nên hạt màu cam hồng, rất nhỏ. Nấu nhanh nhất trong bốn loại, và khi chín thường bở ra thành dạng sệt. Hợp với canh, súp, cháo và các món sốt. Người mới nên bắt đầu từ loại này.
+- **Đậu lăng xanh.** Còn vỏ, màu xanh ô liu, hạt chắc. Chín vẫn giữ được hình hạt, không nát. Hợp với salad, cơm trộn, món xào.
+- **Đậu lăng nâu.** Loại phổ biến và thường có giá dễ chịu nhất. Giữ hình tương đối nhưng mềm hơn đậu xanh. Dùng được cho hầu hết món: hầm, xào, trộn.
+- **Đậu lăng đen.** Hạt nhỏ, đen bóng, giữ hình rất tốt, vị đậm. Đẹp mắt trong salad và cơm trộn, nhưng thường đắt và khó mua hơn.
 
 Gợi ý thực tế: mua một túi đậu lăng đỏ để nấu canh, cháo những tối bận, và một túi đậu lăng nâu hoặc xanh để làm salad, cơm trộn mang đi làm. Hai túi này đủ cho phần lớn các món trong bài.
 
 ## Đậu lăng có phải là đậu đỏ không?
 
-Đây là câu hỏi hay gặp nhất của người mới, nên đáng một mục riêng. Câu trả lời ngắn: **không**.
+Câu hỏi hay gặp nhất của người mới, nên đáng một mục riêng. Câu trả lời ngắn: **không**. Nhiều người lần đầu thấy túi đậu lăng đỏ còn tưởng là đậu đỏ tách vỏ.
 
 Đậu đỏ mà người Việt dùng nấu chè, đồ xôi là một loại đậu khác. Hạt đậu đỏ tròn và hơi dài, vỏ dày, màu đỏ sẫm, thường phải ngâm vài giờ hoặc qua đêm rồi ninh khá lâu mới mềm. Đậu lăng đỏ thì hạt dẹt, nhỏ hơn nhiều, màu cam hồng vì đã bóc vỏ, không cần ngâm và chín rất nhanh.
 
@@ -109,31 +105,36 @@ Trong khoảng **100g đậu lăng đã nấu chín** (tương đương chừng 
 - **Kali:** khoảng 370mg.
 - **Chất béo:** dưới 1g.
 
-Một lưu ý rất hay bị nhầm khi đọc các bài trên mạng: **đậu lăng khô** có khoảng 24 đến 25g đạm mỗi 100g, vì chưa hút nước. Khi nấu, hạt nở ra khoảng gấp hai lần rưỡi, nên cùng 100g nhưng đậu chín chỉ còn khoảng 9g đạm. Một số trang ghi "đậu lăng có 25g đạm" mà không nói rõ là khô hay chín, đọc vào dễ tính sai khẩu phần. Khi tự tính, hãy ghi rõ mình đang cân loại nào.
-
-Đặt vào bữa ăn thực tế: một bát canh đậu lăng đỏ nấu từ khoảng 40g đậu khô cho một người sẽ có chừng 9 đến 10g đạm. Một hộp cơm trộn có khoảng một bát con đậu lăng chín (khoảng 150 đến 180g) sẽ có chừng 14 đến 16g đạm. Đây là những con số có ý nghĩa, đặc biệt với người đang cố ăn đủ đạm mà không muốn ngày nào cũng thịt cá.
+Một lưu ý rất hay bị nhầm khi đọc các bài trên mạng: **đậu lăng khô** có khoảng 24 đến 25g đạm mỗi 100g, vì chưa hút nước. Khi nấu, hạt nở ra khoảng gấp hai lần rưỡi, nên cùng 100g nhưng đậu chín chỉ còn khoảng 9g đạm. Một số trang ghi "đậu lăng có 25g đạm" mà không nói rõ là khô hay chín, đọc vào dễ tính sai khẩu phần. Khi tự tính, hãy ghi rõ mình đang cân loại nào. Các con số đạm trong phần món ăn và thực đơn bên dưới đều tính theo quy đổi này.
 
 ### Đạm trong đậu lăng có "đủ" không?
 
-Đạm từ đậu lăng, như đa số đạm thực vật, có hàm lượng một vài axit amin thấp hơn đạm từ trứng hay thịt. Cụ thể, đậu đỗ thường ít methionine, còn ngũ cốc như gạo thì ít lysine. Tin tốt là hai nhóm này bù cho nhau. Bạn không cần ăn chúng trong cùng một bữa; chỉ cần trong ngày có cả đậu đỗ và ngũ cốc là cơ thể có đủ nguyên liệu. Với mâm cơm Việt vốn đã có cơm, thêm một món đậu lăng là một cặp ghép rất tự nhiên.
+Đạm từ đậu lăng, như đa số đạm thực vật, có hàm lượng một vài axit amin thấp hơn đạm từ trứng hay thịt. Theo bài tổng quan của Hertzler và cộng sự đăng trên tạp chí *Nutrients* (2020), đậu đỗ thường ít các axit amin chứa lưu huỳnh như methionine, còn ngũ cốc thì thường ít lysine, và ăn hai nhóm này trong cùng một ngày giúp chúng bù cho nhau. Trang về đạm của Trường Y tế Công cộng Harvard cũng khuyên người ăn chay ăn đa dạng nhiều loại thực phẩm thực vật có đạm mỗi ngày để có đủ các axit amin cơ thể cần. Bạn không cần ăn chúng trong cùng một bữa. Với mâm cơm Việt vốn đã có cơm, thêm một món đậu lăng là một cặp ghép rất tự nhiên.
 
-Nếu bạn muốn nhìn rộng hơn về các nguồn đạm từ thực vật, bài [thực phẩm giàu đạm thực vật dễ mua ở chợ Việt](thuc-pham-giau-dam-thuc-vat.html) có danh sách 20 thực phẩm kèm lượng đạm ước tính.
+## Ăn đậu lăng có lợi gì?
+
+Trước hết cần đặt đúng kỳ vọng: những lợi ích dưới đây là của **nhóm đậu đỗ nói chung** trong một chế độ ăn đa dạng, thường được ghi nhận khi đậu đỗ **thay một phần thịt chế biến sẵn hoặc tinh bột tinh chế** (cơm trắng, bánh mì trắng, mì ăn liền) trong khẩu phần. Đậu lăng không phải "thần dược", ăn thêm một bát đậu mà giữ nguyên mọi thứ khác thì không mang lại điều đó.
+
+- **Tốt cho tim mạch trong một chế độ ăn lành mạnh.** Harvard tổng hợp rằng chất xơ, folate và các hợp chất thực vật trong đậu đỗ có thể có lợi cho tim. Trong các nghiên cứu quan sát mà Harvard dẫn, ăn đậu đỗ khoảng bốn lần mỗi tuần đi kèm nguy cơ bệnh mạch vành thấp hơn khoảng 14%. Đây là mối liên quan ở cấp dân số, không phải lời hứa cho từng người.
+- **Đường trong máu sau bữa lên từ từ hơn.** Đậu đỗ có chỉ số đường huyết thấp, nhiều chất xơ và có tinh bột kháng tiêu hoá chậm, nên khi thay một phần cơm trắng, bữa ăn thường không làm đường trong máu tăng vọt như bữa toàn tinh bột tinh chế. Harvard cũng nói rõ là chưa có câu trả lời dứt khoát về việc đậu đỗ giúp phòng bệnh đái tháo đường type 2.
+- **Nuôi vi khuẩn có lợi trong ruột.** Chất xơ trong đậu đỗ đóng vai trò như thức ăn cho các vi khuẩn có lợi, hỗ trợ nhu động ruột đều đặn. Mặt trái là người mới ăn dễ đầy hơi, nên cần tăng từ từ (xem mục "Ai nên thận trọng").
+- **Chắc bụng hơn.** Harvard ghi nhận đạm cùng chất xơ hoà tan và không hoà tan trong đậu đỗ có thể làm tăng cảm giác no, và chất xơ cần nhai lâu hơn nên làm chậm nhịp ăn.
+
+WHO cũng xếp đậu đỗ cùng rau, quả, hạt và ngũ cốc nguyên hạt vào nhóm thực phẩm nên có mặt trong chế độ ăn lành mạnh hằng ngày.
 
 ## Vì sao đậu lăng hợp với phụ nữ bận rộn
 
 Có nhiều loại đậu bổ dưỡng. Đậu lăng không hẳn "tốt hơn" đậu đen hay đậu xanh. Điều làm nó đáng để ý với phụ nữ đi làm là chuyện **thời gian và độ tiện**.
 
-**Không cần ngâm.** Đây là lý do lớn nhất. Đa số người không nấu đậu không phải vì không thích, mà vì quên ngâm từ tối hôm trước. Đậu lăng xoá bước đó.
+**Không cần ngâm.** Lý do lớn nhất. Đa số người không nấu đậu không phải vì không thích, mà vì quên ngâm từ tối hôm trước. Đậu lăng xoá bước đó: vo sạch là cho vào nồi được.
 
-**Nấu nhanh.** Đậu lăng đỏ chín trong khoảng thời gian bạn thái rau và nấu cơm. Một nồi canh đậu lăng cà chua có thể xong trong 20 phút tính cả sơ chế.
+**Nấu nhanh.** Đậu lăng đỏ chín trong khoảng thời gian bạn thái rau và nấu cơm. Nồi canh đậu lăng cà chua ở phần món ăn xong trong khoảng 25 phút, tính cả sơ chế.
 
-**Giữ no khá lâu.** Đạm và chất xơ cùng có mặt trong một món giúp bữa ăn chắc bụng hơn. Với nhiều chị em hay đói và thèm ngọt lúc ba bốn giờ chiều, một hộp cơm trưa có đậu lăng thường giữ được tới cuối giờ làm tốt hơn hộp cơm chỉ có rau và tinh bột.
+**Chắc bụng tới chiều.** Như đã nói ở mục trên, đạm và chất xơ cùng có mặt giúp bữa ăn chắc bụng hơn. Nhiều người thấy hộp cơm trưa có đậu lăng giữ no tới cuối giờ làm tốt hơn hộp chỉ có rau và tinh bột, dù cảm giác no khác nhau khá nhiều giữa người với người.
 
 **Góp thêm sắt và folate.** Phụ nữ trong độ tuổi sinh đẻ được khuyến nghị lượng sắt cao hơn nam giới, và nhiều chị em ăn ít thịt đỏ. Đậu lăng là một trong những thực phẩm thực vật có lượng sắt khá. Tuy nhiên sắt từ thực vật cơ thể hấp thu kém hơn sắt từ thịt, nên cách ăn kèm sẽ quyết định nhiều (mục sau nói rõ).
 
-**Rẻ và để được lâu.** Một túi đậu lăng khô để được nhiều tháng trong hũ kín. Đây là kiểu thực phẩm "dự phòng" rất hợp với nhà ít thời gian đi chợ.
-
-Đậu lăng cũng là một phần của bức tranh lớn hơn: làn da, tóc, móng đều được dựng từ đạm, và ăn đủ đạm đều đặn mỗi ngày là nền tảng cho cơ thể vận hành tốt. Bài [đạm và làn da: vì sao thiếu đạm thì da, tóc, móng yếu đi](dam-va-lan-da-toc-mong.html) giải thích kỹ hơn mối liên hệ này. Còn nếu bạn chưa rõ cơ thể mình hợp với nhịp ăn nào, có thể dành 90 giây [kiểm tra thể trạng](https://ikihealing.com/quiz) để có một điểm khởi đầu riêng.
+**Rẻ và để được lâu.** Một túi đậu lăng khô để được nhiều tháng trong hũ kín, là kiểu thực phẩm "dự phòng" rất hợp với nhà ít thời gian đi chợ.
 
 ## Ăn đậu lăng thế nào để hấp thu sắt tốt hơn
 
@@ -143,76 +144,139 @@ Vài thói quen nhỏ giúp tận dụng sắt từ đậu lăng tốt hơn:
 
 - **Ăn kèm thực phẩm giàu vitamin C.** Cà chua, ớt chuông, rau cải, bông cải xanh, hoặc một quả cam, quả ổi tráng miệng. Vitamin C giúp cơ thể hấp thu sắt thực vật tốt hơn. Canh đậu lăng nấu cà chua là một cặp ghép rất hợp lý.
 - **Tách trà, cà phê ra khỏi bữa ăn.** Một số chất trong trà và cà phê làm giảm hấp thu sắt. Nếu bạn quen uống trà ngay sau bữa, thử lùi lại khoảng một giờ.
-- **Để ý canxi liều cao.** Canxi cũng cạnh tranh với sắt. Nếu bạn đang uống viên canxi, có thể hỏi bác sĩ hoặc dược sĩ về cách uống cách xa bữa có nhiều sắt. Bài [uống canxi và sắt cách nhau bao lâu](uong-canxi-va-sat-cach-nhau-bao-lau.html) có thêm thông tin.
+- **Để ý canxi liều cao.** Canxi cũng cạnh tranh với sắt. Nếu bạn đang uống viên canxi, có thể hỏi bác sĩ hoặc dược sĩ về cách uống cách xa bữa có nhiều sắt.
 
-Một điều cần nói rõ: đậu lăng là một phần của bữa ăn đa dạng, không phải cách xử lý tình trạng thiếu sắt. Nếu bạn hay mệt, chóng mặt, da xanh xao kéo dài, hãy đi khám và xét nghiệm để biết chính xác tình trạng của mình. Bài [thực phẩm giàu sắt](thuc-pham-giau-sat.html) và bài [người ăn chay bổ sung sắt thế nào](nguoi-an-chay-bo-sung-sat-the-nao.html) có danh sách đầy đủ hơn các nguồn sắt trong bữa ăn hằng ngày.
+Một điều cần nói rõ: đậu lăng là một phần của bữa ăn đa dạng, không phải cách xử lý tình trạng thiếu sắt. Nếu bạn hay mệt, chóng mặt, da xanh xao kéo dài, hãy đi khám và xét nghiệm để biết chính xác tình trạng của mình. Muốn có thêm lựa chọn ngoài đậu lăng, bạn có thể xem [danh sách thực phẩm giàu sắt](thuc-pham-giau-sat.html) cho bữa ăn hằng ngày.
 
 ## Cách nấu đậu lăng cơ bản
 
-Trước khi đi vào món cụ thể, đây là cách nấu "nền" mà món nào cũng dùng tới.
+Trước khi đi vào món cụ thể, dưới đây là cách nấu "nền" mà món nào cũng dùng tới. Tỉ lệ nước tính theo **thể tích**: dùng cùng một cái cốc để đong đậu khô và đong nước.
 
-**Bước một: nhặt và vo.** Đổ đậu ra đĩa, nhặt bỏ hạt lép, sạn nhỏ nếu có. Vo hai ba lần bằng nước lạnh tới khi nước trong.
+**Bảng thời gian nấu (đun liu riu sau khi sôi, không ngâm), dùng cho cả bài:**
 
-**Bước hai: ngâm hay không.** Không bắt buộc. Nếu bụng bạn nhạy cảm với đồ đậu, ngâm 30 phút đến vài giờ rồi đổ nước ngâm đi có thể giúp dễ chịu hơn. Nếu không có thời gian, bỏ qua bước này.
+- **Đậu lăng đỏ:** 15 đến 20 phút, nhừ thành dạng sệt.
+- **Đậu lăng nâu:** 20 đến 30 phút, mềm, còn hình hạt.
+- **Đậu lăng xanh:** 25 đến 30 phút, chắc hạt.
+- **Đậu lăng đen:** 20 đến 25 phút, chắc hạt.
 
-**Bước ba: tỉ lệ nước.** Với đậu lăng nâu hoặc xanh để ăn nguyên hạt, dùng khoảng ba phần nước cho một phần đậu. Với đậu lăng đỏ nấu canh, súp, cháo thì nhiều nước hơn tuỳ độ loãng bạn muốn.
+**Bảng tỉ lệ nước:**
 
-**Bước bốn: đun.** Cho đậu vào nước lạnh, đun sôi rồi hạ lửa nhỏ, đun liu riu. Hớt bọt nổi lên ở mấy phút đầu. Đậu lăng đỏ khoảng 15 đến 20 phút, đậu lăng nâu khoảng 20 đến 30 phút, đậu lăng xanh và đen khoảng 25 đến 30 phút. Nếm thử: hạt mềm, không còn lõi cứng là được.
+- **Đậu lăng đỏ nấu món sệt** (súp xay, sốt, chè): 1 phần đậu với 3 đến 4 phần nước.
+- **Đậu lăng đỏ nấu canh:** 1 phần đậu với 5 phần nước trở lên, tuỳ độ loãng bạn muốn.
+- **Đậu lăng nâu, xanh, đen để ăn nguyên hạt** (salad, cơm trộn, sốt): 1 phần đậu với 3 phần nước, chín tới thì chắt bớt nước thừa.
 
-**Bước năm: nêm muối lúc gần chín.** Nhiều người nấu quen kinh nghiệm cho muối vào gần cuối để hạt chín đều. Nếu nấu để làm salad, chín tới là tắt bếp, xả qua nước lạnh để hạt không nhừ tiếp.
+Các bước:
 
-**Dùng nồi áp suất hay nồi cơm điện?** Được. Nồi áp suất rút thời gian xuống còn vài phút sau khi lên áp, nhưng đậu lăng đỏ rất dễ nát, nên chỉ hợp khi nấu món sệt. Nồi cơm điện cũng nấu được cháo đậu lăng: cho gạo và đậu lăng đỏ vào cùng, nước nhiều hơn nấu cơm, bấm nút nấu cháo nếu có.
+1. **Nhặt và vo.** Đổ đậu ra đĩa, nhặt bỏ hạt lép, sạn nhỏ nếu có. Vo hai ba lần bằng nước lạnh tới khi nước trong.
+2. **Ngâm hay không.** Không bắt buộc. Nếu bụng bạn nhạy cảm với đồ đậu, ngâm 30 phút đến vài giờ rồi đổ nước ngâm đi có thể giúp dễ chịu hơn.
+3. **Đun.** Cho đậu vào nước lạnh theo tỉ lệ ở trên, đun sôi rồi hạ lửa nhỏ, đun liu riu theo bảng thời gian. Hớt bọt nổi lên ở mấy phút đầu. Nếm thử: hạt mềm, không còn lõi cứng là được.
+4. **Nêm muối lúc gần chín.** Nhiều người quen cho muối vào gần cuối để hạt chín đều. Nếu nấu để làm salad, chín tới là tắt bếp, xả qua nước lạnh để hạt không nhừ tiếp.
+
+**Dùng nồi áp suất hay nồi cơm điện?** Được. Nồi áp suất rút thời gian xuống còn vài phút sau khi lên áp, nhưng đậu lăng đỏ rất dễ nát, nên chỉ hợp khi nấu món sệt. Nồi cơm điện nấu được cháo đậu lăng theo định lượng ở món Hai bên dưới, bấm nút nấu cháo nếu có.
 
 **Một điều không được bỏ qua:** đậu lăng, như các loại đậu khác, phải ăn chín hẳn. Không ăn đậu lăng sống hoặc nấu dở.
 
 ## Sáu món đậu lăng kiểu Việt dễ làm
 
-Đậu lăng xuất phát từ ẩm thực Trung Đông và Ấn Độ, nhưng hoàn toàn có thể vào mâm cơm Việt mà không cần gia vị lạ. Dưới đây là sáu món đã được thử với khẩu vị quen thuộc. Mỗi món ghi khẩu phần cho hai người và thời gian ước tính.
+Đậu lăng xuất phát từ ẩm thực Trung Đông và Ấn Độ, nhưng hoàn toàn có thể vào mâm cơm Việt mà không cần gia vị lạ. Mỗi món dưới đây ghi định lượng cho **hai người**, khối lượng đậu là **đậu khô** (trừ món Năm dùng đậu đã nấu sẵn), kèm thời gian và lượng đạm ước tính phần đậu lăng mỗi người.
 
-**Một: canh đậu lăng đỏ cà chua (khoảng 20 phút).** Phi thơm hành tím, cho hai quả cà chua thái múi vào xào mềm, thêm khoảng 80g đậu lăng đỏ đã vo và nước vừa đủ. Đun liu riu 15 phút tới khi đậu nhừ, nêm muối, chút nước mắm chay hoặc nước mắm, rắc hành lá và rau mùi. Canh có vị chua nhẹ, hơi sánh, ăn với cơm rất đưa. Đây là món nên thử đầu tiên, và cà chua cũng góp phần vitamin C như đã nói ở trên.
+### Món Một: canh đậu lăng đỏ cà chua (khoảng 25 phút)
 
-**Hai: cháo đậu lăng gạo tẻ (khoảng 30 phút).** Một nắm gạo, một nắm đậu lăng đỏ, nước gấp tám đến mười lần. Nấu như nấu cháo thường. Khi gần được, thêm ít cà rốt băm hoặc bí đỏ, nêm nhạt, cuối cùng thả rau cải thái nhỏ. Món này hợp bữa sáng hoặc tối nhẹ, những hôm muốn ăn ấm bụng. Có thể nấu sẵn nhiều, chia hộp.
+**Nguyên liệu:** 80g đậu lăng đỏ khô · 2 quả cà chua vừa (khoảng 250g) · 1 củ hành tím · 700ml nước · hành lá, rau mùi, muối, nước mắm hoặc nước mắm chay.
 
-**Ba: đậu lăng sốt cà chua kiểu đậu phụ sốt (khoảng 25 phút).** Luộc khoảng 120g đậu lăng nâu tới chín tới, để ráo. Phi hành tỏi, xào cà chua thành sốt sệt, cho đậu lăng vào đảo, nêm vừa ăn, rắc hành lá. Món này giống đậu phụ sốt cà chua nhưng có độ bùi riêng, ăn với cơm trắng hoặc cơm gạo lứt đều hợp.
+1. Vo đậu. Phi thơm hành tím băm với chút dầu, cho cà chua thái múi vào xào mềm (khoảng 5 phút).
+2. Đổ 700ml nước và đậu vào, đun sôi rồi hạ lửa liu riu 15 đến 20 phút tới khi đậu nhừ.
+3. Nêm muối, nước mắm cho vừa, tắt bếp, rắc hành lá và rau mùi.
 
-**Bốn: salad đậu lăng xanh dưa chuột (khoảng 30 phút, phần lớn là thời gian luộc).** Luộc đậu lăng xanh chín tới, xả nước lạnh, để ráo. Trộn với dưa chuột thái hạt lựu, cà chua bi, hành tây tím thái mỏng, rau thơm. Nước trộn: dầu ô liu hoặc dầu mè, nước cốt chanh, chút muối, tiêu, có thể thêm ít mật ong. Đây là món mang đi làm rất hợp vì để được, không bị ra nước nhiều như salad lá.
+Muốn kịp trong 20 phút thì phi hành và xào cà chua ngay trong lúc đun đậu ở một nồi riêng, rồi đổ chung. Đạm từ đậu: khoảng 10g mỗi người. Cà chua cũng góp vitamin C như đã nói ở mục sắt.
 
-**Năm: cơm trộn đậu lăng rau củ (khoảng 15 phút nếu có sẵn đậu chín).** Một bát cơm, một bát con đậu lăng nâu đã nấu sẵn, rau cải luộc, cà rốt xào, một quả trứng ốp la hoặc vài miếng đậu phụ áp chảo, rưới chút nước tương pha tỏi ớt. Món này là "bữa trưa dự phòng" tốt nhất cho người nấu sẵn đậu từ cuối tuần.
+### Món Hai: cháo đậu lăng gạo tẻ (khoảng 35 phút)
 
-**Sáu: súp đậu lăng bí đỏ (khoảng 30 phút).** Phi hành tây, cho bí đỏ thái miếng, đậu lăng đỏ và nước vào nấu tới khi bí và đậu nhừ. Xay mịn hoặc dằm nhuyễn, nêm muối tiêu, có thể thêm chút nước cốt dừa cho béo. Súp có màu vàng cam đẹp, ăn với bánh mì vào những tối se lạnh.
+**Nguyên liệu:** 50g gạo tẻ (khoảng 4 muỗng canh) · 40g đậu lăng đỏ khô (khoảng 3 muỗng canh) · 1 lít nước · 100g cà rốt hoặc bí đỏ băm nhỏ · 100g rau cải thái nhỏ · muối.
 
-Một gợi ý thêm cho người thích ngọt: đậu lăng đỏ cũng nấu chè được, ăn với nước cốt dừa. Nhưng như đã nói, chè sẽ sánh chứ không có hạt. Và chè thì vẫn là món ngọt, nên để làm món tráng miệng thỉnh thoảng, bớt đường so với chè thông thường.
+1. Vo gạo và đậu, cho cùng 1 lít nước vào nồi, đun sôi rồi hạ lửa nhỏ, khuấy thỉnh thoảng cho khỏi bén đáy.
+2. Sau khoảng 20 phút, cho cà rốt hoặc bí đỏ vào, nấu thêm 10 phút tới khi cháo nhừ.
+3. Nêm nhạt, thả rau cải, đun thêm 1 đến 2 phút rồi tắt bếp.
+
+Hợp bữa sáng hoặc tối nhẹ. Đạm từ đậu: khoảng 5g mỗi người; ăn kèm một quả trứng hoặc ít đậu phụ nếu muốn chắc bụng hơn.
+
+### Món Ba: đậu lăng sốt cà chua (khoảng 35 phút, 15 phút nếu có đậu nấu sẵn)
+
+**Nguyên liệu:** 100g đậu lăng nâu khô (được khoảng 250g đậu chín) · 400ml nước để luộc · 3 quả cà chua (khoảng 350g) · 2 tép tỏi · 1 củ hành tím · 100ml nước · hành lá, muối.
+
+1. Luộc đậu với 400ml nước 20 đến 25 phút tới khi chín tới, chắt ráo.
+2. Phi hành tỏi, cho cà chua thái nhỏ cùng 100ml nước vào xào thành sốt sệt (khoảng 7 phút).
+3. Cho đậu vào đảo đều 3 đến 4 phút, nêm vừa ăn, rắc hành lá.
+
+Món giống đậu phụ sốt cà chua nhưng có độ bùi riêng, ăn với cơm trắng hoặc cơm gạo lứt. Đạm từ đậu: khoảng 12g mỗi người.
+
+### Món Bốn: salad đậu lăng xanh dưa chuột (khoảng 35 phút, phần lớn là thời gian luộc)
+
+**Nguyên liệu:** 80g đậu lăng xanh khô (được khoảng 200g đậu chín) · 250ml nước để luộc · 1 quả dưa chuột (khoảng 200g) · 150g cà chua bi · nửa củ hành tây tím · một nắm rau thơm. Nước trộn: 2 muỗng canh dầu ô liu hoặc dầu mè, 1,5 muỗng canh nước cốt chanh, 1/4 muỗng cà phê muối, chút tiêu, 1 muỗng cà phê mật ong (tuỳ chọn).
+
+1. Luộc đậu 25 đến 30 phút tới khi chín tới, xả nước lạnh, để ráo.
+2. Thái dưa chuột hạt lựu, bổ đôi cà chua bi, thái mỏng hành tây.
+3. Khuấy đều nước trộn, trộn với đậu và rau củ, rắc rau thơm.
+
+Món mang đi làm rất hợp vì để được, không ra nước nhiều như salad lá. Đạm từ đậu: khoảng 10g mỗi người.
+
+### Món Năm: cơm trộn đậu lăng rau củ (khoảng 15 phút nếu có đậu nấu sẵn)
+
+**Nguyên liệu:** 2 bát cơm · 300g đậu lăng nâu đã nấu chín (từ khoảng 120g đậu khô) · 200g rau cải · 1 củ cà rốt (khoảng 100g) · 2 quả trứng hoặc 150g đậu phụ · 2 muỗng canh nước tương pha tỏi ớt.
+
+1. Luộc rau cải, thái sợi và xào nhanh cà rốt.
+2. Ốp la trứng hoặc áp chảo đậu phụ.
+3. Xếp cơm, đậu lăng, rau củ, trứng hoặc đậu phụ vào bát, rưới nước tương.
+
+Đây là "bữa trưa dự phòng" tốt nhất cho người nấu sẵn đậu từ cuối tuần. Đạm từ đậu: khoảng 13 đến 14g mỗi người.
+
+### Món Sáu: súp đậu lăng bí đỏ (khoảng 35 phút)
+
+**Nguyên liệu:** 100g đậu lăng đỏ khô · 300g bí đỏ đã gọt · nửa củ hành tây · 700ml nước · 50ml nước cốt dừa (tuỳ chọn) · muối, tiêu.
+
+1. Phi hành tây thái nhỏ, cho bí đỏ thái miếng vào đảo 2 phút.
+2. Thêm đậu và 700ml nước, đun liu riu khoảng 20 phút tới khi bí và đậu nhừ.
+3. Xay mịn hoặc dằm nhuyễn, nêm muối tiêu, khuấy nước cốt dừa nếu dùng.
+
+Súp màu vàng cam, ăn với bánh mì vào những tối se lạnh. Đạm từ đậu: khoảng 12g mỗi người.
 
 ## Nấu một mẻ, ăn cả tuần: cách chuẩn bị cho người đi làm
 
 Với phụ nữ đi làm, cách giữ đậu lăng trong thực đơn bền nhất không phải là nấu mỗi tối, mà là **nấu một mẻ cuối tuần**.
 
-**Chủ nhật, 40 phút.** Nấu khoảng 300g đậu lăng nâu hoặc xanh khô, được chừng 700 đến 750g đậu chín. Để nguội hẳn, chia vào ba bốn hộp có nắp.
+**Chủ nhật, 40 phút.** Nấu khoảng 300g đậu lăng nâu hoặc xanh khô với khoảng 1,1 lít nước (tỉ lệ 1:3 theo thể tích), được chừng 700 đến 750g đậu chín. Chia ngay vào ba bốn hộp nông có nắp để đậu nguội nhanh.
 
-**Bảo quản.** Đậu lăng đã nấu để ngăn mát tủ lạnh, dùng trong khoảng ba đến bốn ngày, theo khuyến nghị chung về đồ ăn thừa của các cơ quan an toàn thực phẩm. Phần không dùng kịp thì cấp đông ngay từ đầu, rã đông trong ngăn mát tối hôm trước. Luôn dùng muỗng sạch khi lấy, không để hộp ở nhiệt độ phòng quá lâu.
+**Bảo quản, theo hướng dẫn của Cục An toàn và Kiểm định Thực phẩm, Bộ Nông nghiệp Hoa Kỳ (USDA FSIS):**
 
-**Thứ Hai đến thứ Năm, mỗi ngày dưới 15 phút.** Từ một hộp đậu chín, bạn có thể xoay vòng: thứ Hai cơm trộn mang đi làm, thứ Ba sốt cà chua ăn tối, thứ Tư trộn salad, thứ Năm cho vào nồi canh rau. Đậu lăng đỏ thì không cần nấu trước, vì bản thân nó đã nhanh.
+- Cho vào tủ lạnh **trong vòng 2 giờ** sau khi nấu; trời nóng trên 32°C thì trong vòng 1 giờ. Đồ đã nấu để ngoài nhiệt độ phòng quá 2 giờ thì nên bỏ.
+- Ngăn mát giữ ở **4°C trở xuống**, dùng trong **3 đến 4 ngày**.
+- Phần không dùng kịp thì cấp đông ngay từ đầu (FSIS gợi ý dùng trong 3 đến 4 tháng để giữ chất lượng), rã đông trong ngăn mát tối hôm trước.
+- Hâm lại cho nóng đều, sôi lăn tăn với món có nước. Luôn dùng muỗng sạch khi lấy.
 
-Cách làm này cũng chính là lời giải cho tối thứ Tư của chị Mai ở đầu bài: thay vì nghĩ "tối nay ăn gì" lúc đã mệt, quyết định đã được đưa ra từ Chủ nhật. Bài [chuẩn bị bữa ăn cả tuần cho người đi làm](chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html) có thêm khung chuẩn bị cho cả thực đơn, còn bài [cơm hộp mang đi làm đủ chất và an toàn](com-hop-mang-di-lam-du-chat-an-toan.html) nói kỹ về các mốc thời gian bảo quản cơm hộp.
+**Thứ Hai đến thứ Năm, mỗi ngày dưới 15 phút.** Từ các hộp đậu chín, bạn có thể xoay vòng: thứ Hai cơm trộn mang đi làm, thứ Ba sốt cà chua ăn tối, thứ Tư trộn salad, thứ Năm cho vào nồi canh rau. Đậu lăng đỏ thì không cần nấu trước, vì bản thân nó đã nhanh.
+
+Cách làm này cũng là lời giải cho tối thứ Tư của chị Mai ở đầu bài: thay vì nghĩ "tối nay ăn gì" lúc đã mệt, quyết định đã được đưa ra từ Chủ nhật. Nếu bạn muốn lên kế hoạch cho cả thực đơn chứ không riêng đậu lăng, có thể tham khảo khung [chuẩn bị bữa ăn cả tuần cho người đi làm](chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html).
 
 ## Đậu lăng trong một ngày ăn đủ đạm
 
-Đậu lăng là một mảnh ghép, không phải cả bức tranh. Một ngày ăn đủ đạm của phụ nữ đi làm thường cần nhiều nguồn cộng lại. Đây là một ví dụ tham khảo, không phải thực đơn bắt buộc:
+**Cần bao nhiêu đạm?** Theo Viện Hàn lâm Y khoa Hoa Kỳ (được Harvard trích dẫn), người trưởng thành khoẻ mạnh cần **tối thiểu khoảng 0,8g đạm cho mỗi kg cân nặng mỗi ngày**. Một phụ nữ nặng 50kg cần khoảng 40g, nặng 60kg cần khoảng 48g. Đây là mức tối thiểu tham khảo; người tập luyện nặng, mang thai, cho con bú hoặc có bệnh thận nên hỏi bác sĩ về lượng phù hợp.
 
-- **Bữa sáng:** bánh mì nguyên cám kẹp trứng, một hộp sữa đậu nành không đường. Bài [bữa sáng đủ đạm cho phụ nữ bận rộn](bua-sang-du-dam-cho-phu-nu-ban-ron.html) có bảy gợi ý dưới mười phút.
-- **Bữa trưa:** hộp cơm trộn đậu lăng nâu, rau cải luộc, vài miếng đậu phụ áp chảo.
-- **Bữa phụ chiều:** một nắm hạt và một quả trái cây.
-- **Bữa tối:** canh đậu lăng đỏ cà chua, cá hoặc đậu phụ, rau xanh, cơm.
+Đậu lăng là một mảnh ghép, không phải cả bức tranh. Dưới đây là một ví dụ tham khảo, không phải thực đơn bắt buộc. Lượng đạm ước tính dựa trên dữ liệu USDA, làm tròn, và sẽ chênh tuỳ khẩu phần thật:
 
-Có những hôm bận tới mức không kịp nấu gì, hoặc đi công tác cả ngày. Khi đó, một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh với sữa hạt hoặc nước là cách tiện để không bỏ trống phần đạm của bữa ăn, ăn kèm một phần tinh bột và một quả trái cây. Nó không thay được bữa cơm có đậu, có rau, nhưng hữu ích cho những ngày lịch quá dày. Bài [phụ nữ uống đạm thực vật thế nào cho hợp](phu-nu-uong-dam-thuc-vat-the-nao-cho-hop.html) nói kỹ hơn về thời điểm và lượng dùng.
+- **Bữa sáng (khoảng 20g):** 2 lát bánh mì nguyên cám (khoảng 8g) kẹp 1 quả trứng (khoảng 6g), 1 hộp sữa đậu nành không đường 200ml (khoảng 6g).
+- **Bữa trưa (khoảng 21g):** hộp cơm trộn đậu lăng ở món Năm, với 150g đậu lăng chín (khoảng 13g), 1 bát cơm (khoảng 4g), 50g đậu phụ (khoảng 4g).
+- **Bữa phụ chiều (khoảng 4g):** khoảng 20g hạt hạnh nhân hoặc lạc, một quả trái cây.
+- **Bữa tối (khoảng 22g):** canh đậu lăng đỏ cà chua ở món Một (khoảng 10g), 100g đậu phụ (khoảng 8g), 1 bát cơm (khoảng 4g), rau xanh.
 
-Nếu bạn muốn theo dõi xem mỗi ngày mình đã ăn đủ nhóm chất chưa mà không phải ghi chép bằng tay, [App IKI](https://ikihealing.com/app.html) có nhật ký bữa ăn nhanh, giúp nhìn lại cả tuần trong một màn hình.
+**Cộng lại: khoảng 65 đến 70g đạm**, trên mức tối thiểu của phụ nữ 50 đến 60kg, mà không có bữa nào cần thịt. Bạn có thể thay đậu phụ bữa tối bằng cá nếu muốn đổi vị.
+
+Có những hôm bận tới mức không kịp nấu gì, hoặc đi công tác cả ngày. Khi đó, một ly [đạm thực vật](https://trueveganprotein.com) pha nhanh với sữa hạt hoặc nước là cách tiện để không bỏ trống phần đạm của bữa ăn, ăn kèm một phần tinh bột và một quả trái cây. Nó không thay được bữa cơm có đậu, có rau, nhưng hữu ích cho những ngày lịch quá dày.
 
 ## Ai nên thận trọng khi ăn đậu lăng
 
 Với người khoẻ mạnh, đậu lăng nấu chín là thực phẩm quen thuộc ở nhiều nền ẩm thực. Tuy vậy, có vài nhóm nên để ý hơn:
 
-- **Người mới ăn đậu hoặc bụng nhạy cảm.** Đậu lăng có một số loại đường khó tiêu, nên dễ gây đầy hơi khi mới ăn nhiều. Bắt đầu bằng hai ba muỗng canh đậu chín mỗi bữa, tăng dần trong vài tuần, nấu thật nhừ, uống đủ nước. Bài [ăn đậu mỗi ngày có tốt không](an-dau-moi-ngay-co-tot-khong.html) có thêm ba thao tác bếp giúp đậu dễ tiêu hơn.
+- **Người mới ăn đậu hoặc bụng nhạy cảm.** Đậu lăng có một số loại đường khó tiêu, nên dễ gây đầy hơi khi mới ăn nhiều. Bắt đầu bằng hai ba muỗng canh đậu chín mỗi bữa, tăng dần trong vài tuần, nấu thật nhừ, uống đủ nước. Bạn có thể đọc thêm [ba thao tác bếp giúp đậu dễ tiêu hơn](an-dau-moi-ngay-co-tot-khong.html).
 - **Người có bệnh thận đang được bác sĩ dặn hạn chế kali, phốt pho hoặc đạm.** Đậu lăng có lượng kali và đạm đáng kể. Hãy hỏi bác sĩ hoặc chuyên gia dinh dưỡng đang theo dõi mình về lượng phù hợp.
 - **Người có bệnh gút hoặc đang theo chế độ ăn đặc biệt.** Nên hỏi bác sĩ đang theo dõi mình về cách đưa các loại đậu vào bữa ăn.
 - **Người có tiền sử dị ứng với các loại đậu.** Một số người dị ứng đậu Hà Lan, đậu phộng hoặc các loại đậu khác có thể phản ứng với đậu lăng. Nếu từng dị ứng, hãy hỏi bác sĩ trước khi thử.
@@ -223,27 +287,25 @@ Cuối cùng, nếu ăn xong mà thấy đau bụng nhiều, nổi mẩn, khó t
 
 ## Mua và bảo quản đậu lăng
 
-**Mua ở đâu.** Đậu lăng hiện có ở nhiều siêu thị lớn tại các thành phố, cửa hàng thực phẩm chay, cửa hàng hàng nhập khẩu và trên các sàn thương mại điện tử. Đậu lăng nâu thường dễ mua và mềm giá nhất; đậu lăng đen thường đắt hơn.
+**Mua ở đâu.** Đậu lăng hiện có ở nhiều siêu thị lớn tại các thành phố, cửa hàng thực phẩm chay, cửa hàng hàng nhập khẩu và trên các sàn thương mại điện tử. Đậu lăng nâu thường dễ mua và có giá dễ chịu nhất; đậu lăng đen thường đắt hơn.
 
 **Chọn thế nào.** Chọn túi còn hạn dùng xa, hạt đều màu, khô ráo, không vón cục, không lẫn mọt, không có mùi ẩm mốc. Đọc nhãn để biết xuất xứ, đơn vị nhập khẩu hoặc đóng gói, và hướng dẫn bảo quản. Nhãn tiếng Việt rõ ràng là một dấu hiệu tốt của hàng có nguồn gốc.
 
-**Bảo quản đậu khô.** Sau khi mở túi, đổ sang hũ thuỷ tinh hoặc hộp kín, để nơi khô mát, tránh ánh nắng và hơi ẩm từ bếp. Đậu khô để được khá lâu, nhưng đậu càng để lâu càng khô cứng và lâu chín hơn, nên mua lượng vừa dùng trong vài tháng là hợp lý. Bài [bảo quản thực phẩm đúng cách](bao-quan-thuc-pham-dung-cach.html) có thêm mẹo cho cả gian bếp.
-
-**Bảo quản đậu đã nấu.** Như đã nói ở mục nấu một mẻ: ngăn mát khoảng ba đến bốn ngày, cấp đông nếu muốn để lâu hơn.
+**Bảo quản đậu khô.** Sau khi mở túi, đổ sang hũ thuỷ tinh hoặc hộp kín, để nơi khô mát, tránh ánh nắng và hơi ẩm từ bếp. Đậu càng để lâu càng khô cứng và lâu chín hơn, nên mua lượng vừa dùng trong vài tháng là hợp lý. Đậu đã nấu thì bảo quản theo các mốc ở mục "Nấu một mẻ, ăn cả tuần".
 
 ## Lộ trình hai tuần làm quen với đậu lăng
 
-Đọc thì dễ, đưa vào bếp mới khó. Đây là một lộ trình hai tuần, mỗi tuần chỉ thêm hai ba việc nhỏ.
+Đọc thì dễ, đưa vào bếp mới khó. Lộ trình dưới đây chia ra hai tuần, mỗi tuần chỉ thêm hai ba việc nhỏ.
 
 **Tuần một, ngày đầu tiên:** mua một túi đậu lăng đỏ nhỏ. Chỉ vậy thôi.
 
-**Tuần một, một tối giữa tuần:** nấu canh đậu lăng đỏ cà chua, dùng khoảng hai muỗng canh đậu khô mỗi người. Để ý xem bụng mình phản ứng thế nào.
+**Tuần một, một tối giữa tuần:** nấu canh đậu lăng đỏ cà chua (món Một), dùng khoảng hai muỗng canh đậu khô mỗi người thay vì 40g, để bụng làm quen. Để ý xem bụng mình phản ứng thế nào.
 
-**Tuần một, cuối tuần:** thử nồi cháo đậu lăng cho bữa sáng Chủ nhật.
+**Tuần một, cuối tuần:** thử nồi cháo đậu lăng (món Hai) cho bữa sáng Chủ nhật.
 
-**Tuần hai, Chủ nhật:** mua thêm đậu lăng nâu hoặc xanh, nấu một mẻ khoảng 200g khô, chia hộp.
+**Tuần hai, Chủ nhật:** mua thêm đậu lăng nâu hoặc xanh, nấu một mẻ khoảng 200g khô với khoảng 750ml nước, chia hộp.
 
-**Tuần hai, các ngày làm việc:** dùng hộp đậu chín cho hai bữa trưa (cơm trộn, salad) và một bữa tối (sốt cà chua).
+**Tuần hai, các ngày làm việc:** dùng hộp đậu chín cho hai bữa trưa (cơm trộn, salad) và một bữa tối (sốt cà chua). Nếu muốn nhìn lại cả hai tuần mà không ghi chép tay, nhật ký bữa ăn trong [App IKI](https://ikihealing.com/app.html) giúp bạn thấy mình đã ăn đậu lăng mấy bữa và bụng phản ứng ra sao.
 
 **Cuối tuần hai: nhìn lại.** Món nào cả nhà thích? Món nào làm nhanh nhất? Bụng có quen hơn tuần trước không? Giữ lại hai món hợp nhất để xoay vòng.
 
@@ -251,16 +313,19 @@ Luật quan trọng nhất: không cần ngày nào cũng ăn đậu lăng. Hai 
 
 ## Tóm lại
 
-Đậu lăng là một loại hạt họ đậu nhỏ và dẹt, có bốn loại thường gặp: đỏ, xanh, nâu và đen. Khoảng 100g đậu lăng chín có chừng 9g đạm, gần 8g chất xơ, cùng với sắt và folate. Điều làm đậu lăng hợp với phụ nữ bận rộn không nằm ở chỗ nó "tốt hơn" các loại đậu khác, mà ở chỗ nó **không cần ngâm và nấu nhanh**, nên dễ giữ trong thực đơn hằng tuần.
+Đậu lăng là loại hạt họ đậu nhỏ và dẹt, có bốn loại thường gặp, khoảng 9g đạm mỗi 100g đậu chín, kèm chất xơ, sắt và folate. Điểm mạnh với người bận là không cần ngâm và nấu nhanh.
 
-Hãy bắt đầu bằng nồi canh đậu lăng đỏ cà chua, ăn kèm rau và cơm. Khi đã quen, nấu một mẻ đậu lăng nâu mỗi Chủ nhật để có sẵn cho những bữa trưa và tối bận rộn. Ăn kèm thực phẩm giàu vitamin C, tách trà và cà phê ra khỏi bữa, và tăng lượng từ từ để bụng làm quen.
+Hãy bắt đầu bằng nồi canh đậu lăng đỏ cà chua, rồi khi đã quen thì nấu một mẻ đậu lăng nâu mỗi Chủ nhật. Ăn kèm thực phẩm giàu vitamin C, tách trà và cà phê ra khỏi bữa, và tăng lượng từ từ để bụng làm quen.
 
-Mỗi người một thể trạng, một nhịp sống, nên cùng một món có người hợp, có người cần điều chỉnh. Nếu muốn biết nên bắt đầu thay đổi bữa ăn từ đâu cho hợp với mình, hãy dành 90 giây [kiểm tra thể trạng](https://ikihealing.com/quiz) — bản phân tích sẽ gợi ý những bước đầu tiên phù hợp với nhịp sống của bạn.
+Đậu lăng mới chỉ là một món. Nếu bạn đang tự hỏi nên đổi bữa ăn của mình từ đâu trước, đạm, rau hay giờ ăn, thì mỗi người một thể trạng và một nhịp sống sẽ có điểm bắt đầu khác nhau. Bạn có thể dành 90 giây [kiểm tra thể trạng](https://ikihealing.com/quiz) để nhận gợi ý những bước đầu tiên hợp với mình.
 
 ## Nguồn tham khảo
 
-- U.S. Department of Agriculture — *FoodData Central*, mục "Lentils, mature seeds, cooked, boiled, without salt" (đạm, chất xơ, sắt, folate, kali mỗi 100g): [fdc.nal.usda.gov](https://fdc.nal.usda.gov/)
-- Harvard T.H. Chan School of Public Health — *Legumes and Pulses* (vai trò của đậu đỗ trong bữa ăn, cách giảm đầy hơi): [hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu/legumes-pulses/)
+- U.S. Department of Agriculture — *FoodData Central*, mục "Lentils, mature seeds, cooked, boiled, without salt" (đạm, chất xơ, sắt, folate, kali mỗi 100g; dùng để ước lượng đạm trong món và thực đơn): [fdc.nal.usda.gov](https://fdc.nal.usda.gov/)
+- Harvard T.H. Chan School of Public Health — *Legumes and Pulses* (tim mạch, đường huyết, chất xơ và vi khuẩn đường ruột, cảm giác no, đầy hơi): [nutritionsource.hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu/legumes-pulses/)
+- Harvard T.H. Chan School of Public Health — *Protein* (mức tối thiểu 0,8g/kg/ngày theo Viện Hàn lâm Y khoa Hoa Kỳ, ăn đa dạng đạm thực vật): [nutritionsource.hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu/what-should-you-eat/protein/)
+- Hertzler SR và cộng sự (2020) — *Plant Proteins: Assessing Their Nutritional Quality and Effects on Health and Physical Function*, tạp chí Nutrients 12(12):3704 (đậu đỗ ít methionine, ngũ cốc ít lysine, bổ sung cho nhau trong ngày): [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7760812/)
+- USDA Food Safety and Inspection Service — *Leftovers and Food Safety* (2 giờ, 4°C, 3 đến 4 ngày, cấp đông): [fsis.usda.gov](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/leftovers-and-food-safety)
 - National Institutes of Health, Office of Dietary Supplements — *Iron: Fact Sheet for Consumers* (sắt từ thực vật, vitamin C và hấp thu sắt): [ods.od.nih.gov](https://ods.od.nih.gov/factsheets/Iron-Consumer/)
 - World Health Organization — *Healthy diet* (khuyến khích ăn đậu đỗ, rau quả, ngũ cốc nguyên hạt): [who.int](https://www.who.int/news-room/fact-sheets/detail/healthy-diet)
 
