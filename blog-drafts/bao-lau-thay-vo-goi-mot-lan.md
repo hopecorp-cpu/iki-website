@@ -58,13 +58,13 @@ Mỗi đêm, mặt bạn áp lên vỏ gối bảy đến tám tiếng, tức h�
 
 ## Bao lâu thay vỏ gối một lần: mốc theo từng nhóm người
 
-**Phần có nguồn.** [Sleep Foundation](https://www.sleepfoundation.org/bedding-information/how-often-should-you-wash-your-sheets) ghi rõ vỏ gối và ga giường nên giặt mỗi tuần một lần, giặt nhiều hơn vào mùa nóng, và ba đến bốn ngày một lần nếu thú cưng ngủ trên giường. Bác sĩ da liễu Sean McGregor trả lời [Cleveland Clinic](https://health.clevelandclinic.org/heres-how-often-you-should-wash-your-sheets-in-the-summer-and-the-disgusting-reasons-why/) cũng nêu mốc ít nhất mỗi tuần, và khuyên giặt thêm khi đang ốm hoặc khi dị ứng bùng lên. [Mayo Clinic](https://newsnetwork.mayoclinic.org/discussion/home-remedies-dealing-with-dust-mite-allergies) khuyên người dị ứng mạt bụi giặt ga gối hằng tuần bằng nước nóng.
+**Phần có nguồn.** [Sleep Foundation](https://www.sleepfoundation.org/bedding-information/how-often-should-you-wash-your-sheets) ghi rõ vỏ gối và ga giường nên giặt mỗi tuần một lần, giặt nhiều hơn vào mùa nóng, và ba đến bốn ngày một lần nếu thú cưng ngủ trên giường. Bài hướng dẫn của [Cleveland Clinic](https://health.clevelandclinic.org/heres-how-often-you-should-wash-your-sheets-in-the-summer-and-the-disgusting-reasons-why/) cũng nêu mốc ít nhất mỗi tuần, và nên giặt thêm trong những ngày cơ thể mệt, sổ mũi hoặc hay hắt hơi. [Mayo Clinic](https://newsnetwork.mayoclinic.org/discussion/home-remedies-dealing-with-dust-mite-allergies) khuyên người dị ứng mạt bụi giặt ga gối hằng tuần bằng nước nóng.
 
 **Phần là gợi ý của IKI.** Mốc hai đến ba ngày dưới đây là chúng tôi suy ra từ cơ chế (vỏ gối tích dầu và cặn nhanh hơn ở một số người), chưa có nghiên cứu nào xác định mốc chính xác. Hãy coi đó là điểm bắt đầu để thử, không phải quy định.
 
 - **Mỗi tuần một lần.** Da thường, ít ra mồ hôi, ngủ phòng thoáng mát. Đây là mức tối thiểu có nguồn.
 - **Hai đến ba ngày một lần.** Bạn thuộc một trong các nhóm sau: da dầu hoặc dễ nổi mụn · hay ra mồ hôi đêm, ngủ phòng không điều hoà mùa hè · hay đi ngủ khi tóc còn ẩm hoặc còn dầu dưỡng tóc · cơ địa dị ứng, sáng hay hắt hơi · ngủ chung với thú cưng. Lý do chung là vải ở những nhóm này tích dầu, ẩm hoặc bụi nhanh hơn.
-- **Mỗi ngày, trong mấy ngày đang ốm.** Cảm cúm, sổ mũi thì thay vỏ gối hằng ngày tới khi khoẻ lại. Cleveland Clinic khuyên giặt thêm bộ chăn gối khi đang ốm; thay hằng ngày là cách làm thận trọng của chúng tôi.
+- **Mỗi ngày, trong mấy ngày đang ốm.** Cảm cúm, sổ mũi thì thay vỏ gối hằng ngày tới khi khoẻ lại. Cleveland Clinic khuyên giặt thêm bộ chăn gối trong những ngày này; thay hằng ngày là cách làm thận trọng của chúng tôi.
 
 Với nhóm hai đến ba ngày, một cách đỡ tốn vỏ là lật mặt sau đêm đầu rồi thay hẳn sau đêm thứ hai.
 
@@ -177,7 +177,7 @@ Vỏ gối sạch là một việc nhỏ trong nhịp chăm sóc bản thân. N�
 ## Nguồn tham khảo
 
 - Sleep Foundation — *How Often Should You Wash Your Sheets?* (vỏ gối và ga giường mỗi tuần; mùa nóng giặt nhiều hơn; có thú cưng 3-4 ngày; nước nóng nhất nhãn cho phép; ruột gối 4-6 tháng): [sleepfoundation.org](https://www.sleepfoundation.org/bedding-information/how-often-should-you-wash-your-sheets)
-- Cleveland Clinic — *How Often You Should Wash Your Sheets* (bác sĩ da liễu Sean McGregor: ít nhất mỗi tuần, giặt thêm khi ốm hoặc dị ứng; tế bào da bong mỗi ngày; phát ban, chàm; nước nóng diệt mạt bụi): [health.clevelandclinic.org](https://health.clevelandclinic.org/heres-how-often-you-should-wash-your-sheets-in-the-summer-and-the-disgusting-reasons-why/)
+- Cleveland Clinic — *How Often You Should Wash Your Sheets* (ít nhất mỗi tuần, giặt thêm khi mệt hoặc dễ hắt hơi; tế bào da bong mỗi ngày; phát ban, chàm; nước nóng diệt mạt bụi): [health.clevelandclinic.org](https://health.clevelandclinic.org/heres-how-often-you-should-wash-your-sheets-in-the-summer-and-the-disgusting-reasons-why/)
 - Mayo Clinic News Network — *Home remedies: Dealing with dust mite allergies* (giặt chăn ga gối hằng tuần ở nước từ 54,4°C; vỏ bọc chống mạt bụi): [newsnetwork.mayoclinic.org](https://newsnetwork.mayoclinic.org/discussion/home-remedies-dealing-with-dust-mite-allergies)
 - American Academy of Dermatology — *10 skin care habits that can worsen acne* (sản phẩm chăm tóc gây mụn, ngủ khi còn trang điểm): [aad.org](https://www.aad.org/public/diseases/acne/skin-care/habits-stop)
 - Amerisleep — *Bacteria in your Bed* (thử nghiệm của doanh nghiệp, 3 tình nguyện viên, không bình duyệt; chỉ dùng để minh hoạ xu hướng): [amerisleep.com](https://amerisleep.com/blog/bacteria-in-your-bed/)
