@@ -248,7 +248,7 @@ Dù mua ở chợ, hiệu thuốc Bắc hay trên sàn thương mại điện t�
 
 1. **Thành phần ghi rõ từng vị**, không chỉ ghi chung "thảo mộc thiên nhiên".
 2. **Có nơi sản xuất, số tự công bố, hạn dùng** trên bao bì.
-3. **Cảnh giác với lời hứa chữa bệnh hay "tráng dương cấp tốc"**. Thực phẩm không được phép quảng cáo như thuốc. Nơi nào hứa như vậy là dấu hiệu nên bước tiếp.
+3. **Cảnh giác với lời hứa hẹn quá đà hay "tráng dương cấp tốc"**. Thực phẩm không được phép quảng cáo như thuốc. Nơi nào hứa như vậy là dấu hiệu nên bước tiếp.
 4. **Nhìn và ngửi**: hoa khô còn màu tự nhiên, không ẩm mốc, mùi thơm nhẹ chứ không hắc như hương liệu.
 5. **Bắt đầu bằng gói nhỏ** để thử khẩu vị trước khi mua nhiều.
 
