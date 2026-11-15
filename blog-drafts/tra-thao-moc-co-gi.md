@@ -171,7 +171,7 @@ Phần này là thứ ít bài viết hướng dẫn, trong khi đây lại là 
 
 **Bước 4: Xem thông tin pháp lý.** Tên và địa chỉ đơn vị chịu trách nhiệm, số tự công bố sản phẩm, ngày sản xuất và hạn sử dụng, khối lượng tịnh. Có tên công ty rõ ràng thì khi có vấn đề bạn biết hỏi ai.
 
-**Bước 5: Đọc những câu hứa.** Nhãn một đồ uống hằng ngày không được hứa tác dụng cho bệnh. Những câu như "hỗ trợ hết bệnh", "dùng thay thuốc", "kết quả sau 7 ngày" là cờ đỏ lớn nhất. Gói làm ăn nghiêm túc thường chỉ tả hương vị, cách pha và đối tượng nên thận trọng.
+**Bước 5: Đọc những câu hứa.** Nhãn một đồ uống hằng ngày không được hứa tác dụng cho bệnh. Những câu như "hỗ trợ hết bệnh", "kết quả sau 7 ngày" là cờ đỏ lớn nhất. Gói làm ăn nghiêm túc thường chỉ tả hương vị, cách pha và đối tượng nên thận trọng.
 
 **Bước 6: Nhìn nguyên liệu bằng mắt nếu được.** Với trà rời hoặc hộp có cửa sổ trong suốt: hoa còn nguyên dáng, màu tự nhiên, không vụn thành bột, không có đốm mốc hay mùi ẩm là dấu hiệu tốt. Màu quá rực so với nguyên liệu khô thì nên hỏi thêm.
 
