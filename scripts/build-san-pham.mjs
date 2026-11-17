@@ -157,7 +157,7 @@ function trang(sp) {
     category: sp.loai,
     brand: { "@type": "Brand", name: "IKI" },
     manufacturer: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE", taxID: "0801404967" },
-    offers: {
+    ...(sp.thayGia ? {} : { offers: {
       "@type": "Offer",
       url,
       priceCurrency: "VND",
@@ -165,7 +165,7 @@ function trang(sp) {
       availability: sp.an === true || sp.trangThai === "sap-ra-mat" ? "https://schema.org/PreOrder" : "https://schema.org/InStock",
       ...(sp.trangThai === "sap-ra-mat" && sp.ngayVeISO ? { availabilityStarts: sp.ngayVeISO } : {}),
       seller: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE" },
-    },
+    } }),
   };
   const ldFaq = {
     "@context": "https://schema.org",
@@ -215,7 +215,7 @@ ${header()}
         <div>
           <span class="sp-eyebrow">${esc(sp.loai)}</span>
           <h1>${esc(sp.h1)}</h1>
-          <div class="sp-gia">${tien(sp.gia)}<small>${an ? "Giá tham khảo — sản phẩm đã ngừng bán" : sp.giaNhan ? esc(sp.giaNhan) : "Giá niêm yết"}${sp.quyCach ? ` · ${esc(sp.quyCach)}` : ""}</small></div>
+          <div class="sp-gia">${sp.thayGia ? esc(sp.thayGia) : tien(sp.gia)}<small>${an ? "Giá tham khảo — sản phẩm đã ngừng bán" : sp.giaNhan ? esc(sp.giaNhan) : "Giá niêm yết"}${sp.quyCach ? ` · ${esc(sp.quyCach)}` : ""}</small></div>
           ${datTruoc ? `<span class="sp-dat-truoc">Sắp ra mắt · dự kiến về hàng ${esc(sp.ngayVe || "")}</span>` : ""}
           <p class="sp-mota">${esc(sp.moTa)}</p>
           ${an ? `<div class="sp-chua-ban">Sản phẩm này hiện <strong>chưa mở bán</strong> trên IKI. Trang được giữ lại để tra thông tin. Cần hỏi thêm, chị nhắn Zalo <a href="https://zalo.me/0987931551">098 793 1551</a>.</div>
@@ -224,7 +224,7 @@ ${header()}
             <a class="sp-btn phu" href="../quiz/">Làm bài đọc thể trạng miễn phí</a>
           </div>
           <p style="font-size:.86rem;color:#667085;margin:6px 0 0">${esc(sp.datTruocChu || "")}</p>` : `<div class="sp-cta">
-            <a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">Xem trong cửa hàng</a>
+            ${sp.goiTuVan ? `<a class="sp-btn chinh" href="tel:${sp.goiTuVan}">Gọi tư vấn ${sp.goiTuVan.replace(/(\d{3})(\d{3})(\d{4})/, "$1 $2 $3")}</a>` : `<a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">Xem trong cửa hàng</a>`}
             <a class="sp-btn phu" href="../quiz/">Làm bài đọc thể trạng miễn phí</a>
           </div>
           <p style="font-size:.86rem;color:#667085;margin:6px 0 0">Giao hàng toàn quốc, nhận hàng trả tiền hoặc chuyển khoản trước.</p>`}
