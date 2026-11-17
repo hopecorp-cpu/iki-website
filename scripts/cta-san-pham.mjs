@@ -137,11 +137,11 @@ export function ctaSanPham(fm = {}, goc = "../") {
           <div class="cta-sp-chu">
             <span class="cta-sp-nhan">${nhan}</span>
             <h3>${p.tenDayDu}</h3>
-            <p class="cta-sp-thongso">${p.quyCach} · ${tien(gia)}${p.trangThai === "sap-ra-mat" ? ` · Sắp ra mắt, dự kiến về ${p.ngayVe}` : ""}</p>
+            <p class="cta-sp-thongso">${p.quyCach} · ${p.thayGia || tien(gia)}${p.trangThai === "sap-ra-mat" ? ` · Sắp ra mắt, dự kiến về ${p.ngayVe}` : ""}</p>
             <p class="cta-sp-mo">${moTa}</p>
             <div class="cta-sp-nut">
               <a class="cta-sp-chinh" href="${goc}san-pham/${p.slug}.html">Xem chi tiết sản phẩm</a>
-              <a class="cta-sp-phu" href="${goc}shop/?sp=${p.slug}">${p.trangThai === "sap-ra-mat" ? "Đặt trước tại cửa hàng IKI" : "Đặt hàng tại cửa hàng IKI"}</a>
+              ${p.goiTuVan ? `<a class="cta-sp-phu" href="tel:${p.goiTuVan}">Gọi tư vấn ${p.goiTuVan.replace(/(\d{3})(\d{3})(\d{4})/, "$1 $2 $3")}</a>` : `<a class="cta-sp-phu" href="${goc}shop/?sp=${p.slug}">${p.trangThai === "sap-ra-mat" ? "Đặt trước tại cửa hàng IKI" : "Đặt hàng tại cửa hàng IKI"}</a>`}
             </div>
           </div>
         </aside>`;

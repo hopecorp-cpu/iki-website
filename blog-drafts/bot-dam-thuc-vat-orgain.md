@@ -191,7 +191,7 @@ Chị chọn hộp 920g chính ngạch. Với 1 muỗng mỗi ngày, hộp dùng
 - Nhãn phụ có tên đơn vị nhập khẩu tra được trên hệ thống công bố?
 - Dòng thành phần có chất tạo ngọt hoặc chất gây dị ứng mình muốn tránh?
 
-Orgain chỉ là một trong nhiều lựa chọn bột đạm thực vật. Nói rõ để bạn tự so: IKI có một sản phẩm [đạm thực vật](https://trueveganprotein.com) sản xuất trong nước là [True Vegan Protein Pro](../san-pham/true-vegan-protein.html), hộp 22 gói x 22g, giá 699.000đ (đã gồm VAT), phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất. Bạn có thể áp đúng năm câu hỏi trên cho nó như với Orgain: đọc lượng đạm mỗi gói trên bảng dinh dưỡng, tính giá mỗi gam đạm, rồi chọn cái hợp với mình. Nếu muốn gợi ý ăn uống theo thể trạng trước khi chọn sản phẩm, hãy [làm bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz).
+Orgain chỉ là một trong nhiều lựa chọn bột đạm thực vật. Nói rõ để bạn tự so: IKI có một sản phẩm [đạm thực vật](https://trueveganprotein.com) sản xuất trong nước là [True Vegan Protein Pro](../san-pham/true-vegan-protein.html), hộp 22 gói x 22g, phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất. Bạn có thể áp đúng năm câu hỏi trên cho nó như với Orgain: đọc lượng đạm mỗi gói trên bảng dinh dưỡng, tính giá mỗi gam đạm, rồi chọn cái hợp với mình. Nếu muốn gợi ý ăn uống theo thể trạng trước khi chọn sản phẩm, hãy [làm bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz).
 
 ## Nguồn tham khảo
 
