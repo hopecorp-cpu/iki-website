@@ -410,10 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <header class="site-header" id="site-header">
     <nav class="nav">
-      <a class="brand" href="../index.html" aria-label="IKIHEALING Trang chủ">
-        <img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64">
-        <img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36">
-      </a>
+      <a class="brand" href="../index.html" aria-label="IKIHEALING Trang chủ"><img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64"><img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36"></a>
       <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
         <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
         <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
@@ -551,7 +548,9 @@ function buildOne(srcPath) {
   const outDir = path.join(ROOT, "blog");
   fs.mkdirSync(outDir, { recursive: true });
   const outPath = path.join(outDir, `${fm.slug}.html`);
-  const html = render(fm, body);
+  // Link tới bài đã chuyển hướng → trỏ thẳng bài đích (khớp đợt dọn GĐ1 13/10, tránh đi vòng qua stub).
+  const html = render(fm, body).replace(/href="((?:\/blog\/|https:\/\/ikihealing\.com\/blog\/)?)([a-z0-9-]+)\.html(#[^"]*)?"/g,
+    (m, pre, slug, hash = "") => (slug in CHUYEN_HUONG ? `href="${pre}${CHUYEN_HUONG[slug]}.html${hash}"` : m));
   fs.writeFileSync(outPath, fm.website_shell ? blogHomeShell(html) : html, "utf8");
   console.log(`✓ ${path.relative(ROOT, srcPath)} → blog/${fm.slug}.html`);
   canhBaoThieuLink(fm, html);
