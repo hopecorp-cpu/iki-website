@@ -13,6 +13,7 @@
 import fs from "fs";
 import { BRAND_NAME, BRAND_DESCRIPTION, BRAND_SCOPE, APP_DESCRIPTION, LEGACY_APP_SLUGS } from "./brand-profile.mjs";
 import { blogHomeShell } from "./blog-home-shell.mjs";
+import { lintCamNhan } from "./lint-cam-nhan.mjs";
 import path from "path";
 import { fileURLToPath } from "url";
 
@@ -27,6 +28,23 @@ const esc = (s) => String(s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").
 const escAttr = (s) => esc(s).replace(/"/g, "&quot;");
 const clamp = (s, n) => { s = String(s || ""); return s.length <= n ? s : s.slice(0, n - 1).replace(/\s+\S*$/, "") + "…"; };
 
+// Cảm nhận cộng đồng: mẩu sạch (qua lint-cam-nhan) và các nhóm đang có mẩu (nhóm rỗng thì ẩn, không sinh trang).
+const TM_MOI_TRANG = 24;
+// Trang nhóm ít mẩu là trang mỏng: Google đang chỉ lập chỉ mục ~74/476 trang, thêm trang mỏng làm tệ thêm.
+// Nhóm dưới TM_INDEX_TU mẩu vẫn sinh trang cho người bấm chip, nhưng noindex và không vào sitemap.
+// Trang phân trang (-trang-N) luôn noindex. Đủ mẩu thì tự mở, không cần sửa code.
+const TM_INDEX_TU = 10;
+function camNhanSach(plan, inLoai) {
+  const all = Array.isArray(plan.testimonials) ? plan.testimonials : [];
+  return all.filter((t, i) => {
+    const v = lintCamNhan(t);
+    if (v.length && inLoai) console.warn(`  ! cảm nhận #${i + 1} (${t.name || "không tên"}) bị LOẠI, cần người duyệt sửa: ${v.map((x) => `${x.nhom} "${x.tu}"`).join("; ")}`);
+    return !v.length;
+  });
+}
+function nhomCoCamNhan(plan, tms) {
+  return (plan.testimonialGroups || []).map((g) => ({ ...g, count: tms.filter((t) => (t.tags || []).includes(g.slug)).length })).filter((g) => g.count);
+}
 const STRUCTURAL = new Set(["index", "lo-trinh", "moi-quan-tam", "cam-nhan-cong-dong", "mien-tru-trach-nhiem", "cam-on"]);
 function orphanTitle(slug) {
   try {
@@ -53,7 +71,7 @@ function orphanArticles(plan) {
   for (const f of fs.readdirSync(dir)) {
     if (!f.endsWith(".html")) continue;
     const slug = f.replace(/\.html$/, "");
-    if (STRUCTURAL.has(slug) || slug.startsWith("danh-muc-") || known.has(slug)) continue;
+    if (STRUCTURAL.has(slug) || slug.startsWith("danh-muc-") || slug.startsWith("cam-nhan-") || known.has(slug)) continue;
     out.push({ title: orphanTitle(slug), slug, category: orphanCategory(slug), status: "published", _orphan: true });
   }
   return out;
@@ -454,18 +472,55 @@ export function buildStructure() {
     + footer(), "utf8");
 
   // ---------- CẢM NHẬN CỘNG ĐỒNG (testimonials — bản đã lọc, hợp luật TPBS) ----------
-  const tms = Array.isArray(plan.testimonials) ? plan.testimonials : [];
-  const tmCards = tms.map((t) => `<figure class="tm-card"><blockquote>${esc(t.text)}</blockquote><figcaption><span class="tm-name">${esc(t.name)}</span>${t.place ? `<span class="tm-place">${esc(t.place)}</span>` : ""}</figcaption></figure>`).join("");
-  const tmStyle = `<style>.tm-wrap{max-width:1100px;margin:0 auto;padding:8px 20px 10px}.tm-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}.tm-card{background:#fff;border:1px solid #eef0f3;border-radius:16px;padding:22px 22px 18px;box-shadow:0 1px 2px rgba(16,24,40,.04),0 2px 10px rgba(16,24,40,.05);display:flex;flex-direction:column;gap:14px}.tm-card blockquote{margin:0;color:#344054;font-size:1.02rem;line-height:1.65}.tm-card blockquote::before{content:"\\201C";color:var(--iki-teal,#4BC0AB);font-family:var(--font-display,'Cormorant Garamond');font-size:2rem;line-height:0;vertical-align:-.35em;margin-right:2px}.tm-card figcaption{display:flex;flex-direction:column}.tm-name{font-weight:700;color:#101828}.tm-place{color:#98a2b3;font-size:.86rem}.tm-note{max-width:1100px;margin:6px auto 0;padding:0 20px;color:#98a2b3;font-size:.86rem;text-align:center}</style>`;
-  fs.writeFileSync(path.join(outDir, "cam-nhan-cong-dong.html"),
-    head("Cảm nhận cộng đồng | Blog IKI",
-      "Những chia sẻ chân thật của cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động mỗi ngày.",
-      `${SITE}/blog/cam-nhan-cong-dong.html`,
-      { "@context": "https://schema.org", "@type": "CollectionPage", name: "Cảm nhận cộng đồng IKI", url: `${SITE}/blog/cam-nhan-cong-dong.html`, inLanguage: "vi-VN" })
-    + header()
-    + tmStyle
-    + `<main><section class="blog-hero"><span class="eyebrow">Cảm nhận cộng đồng</span><h1>Những thói quen nhỏ, kể bằng lời thật</h1><p>Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Mỗi người một cảm nhận riêng.</p></section><div class="tm-wrap"><div class="tm-grid">${tmCards}</div></div><p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người.</p>${emailCta(plan, "cam-nhan-cong-dong")}</main>`
-    + footer(), "utf8");
+  // Chia theo MỐI QUAN TÂM + NHÓM NGƯỜI (testimonialGroups), KHÔNG theo tên bệnh (NĐ 15/2018 Đ.27).
+  // Mỗi mẩu qua lint-cam-nhan trước: dính từ cấm thì LOẠI khỏi trang và in ra cho người duyệt sửa.
+  // Trang chính + trang con cam-nhan-<nhóm>.html, mỗi trang TM_MOI_TRANG mẩu, trang sau -trang-N.html.
+  const tms = camNhanSach(plan, true);
+  const tmGroups = nhomCoCamNhan(plan, tms);
+  const gName = Object.fromEntries(tmGroups.map((g) => [g.slug, g.name]));
+  const tmCard = (t) => `<figure class="tm-card"><blockquote>${esc(t.text)}</blockquote><figcaption><span class="tm-name">${esc(t.name)}</span>${t.place ? `<span class="tm-place">${esc(t.place)}</span>` : ""}${t.product ? `<span class="tm-place">Sản phẩm: ${esc(t.product)}</span>` : ""}</figcaption>${(t.tags || []).some((x) => gName[x]) ? `<div class="tm-tags">${t.tags.filter((x) => gName[x]).map((x) => `<a href="cam-nhan-${x}.html">${esc(gName[x])}</a>`).join("")}</div>` : ""}</figure>`;
+  const chipRow = (label, type, cur) => {
+    const gs = tmGroups.filter((g) => g.type === type);
+    if (!gs.length) return "";
+    return `<div class="tm-chiprow"><span class="tm-chiplabel">${label}</span>${gs.map((g) => `<a class="tm-chip${g.slug === cur ? " is-on" : ""}" href="cam-nhan-${g.slug}.html"${g.slug === cur ? ' aria-current="page"' : ""}>${esc(g.name)}<span>${g.count}</span></a>`).join("")}</div>`;
+  };
+  const chips = (cur) => `<nav class="tm-chips" aria-label="Lọc cảm nhận theo nhóm"><div class="tm-chiprow"><a class="tm-chip${cur ? "" : " is-on"}" href="cam-nhan-cong-dong.html"${cur ? "" : ' aria-current="page"'}>Tất cả<span>${tms.length}</span></a></div>${chipRow("Theo mối quan tâm", "quan-tam", cur)}${chipRow("Theo nhóm người", "doi-tuong", cur)}</nav>`;
+  const tmStyle = `<style>.tm-wrap{max-width:1100px;margin:0 auto;padding:8px 20px 10px}.tm-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}.tm-card{background:#fff;border:1px solid #eef0f3;border-radius:16px;padding:22px 22px 18px;box-shadow:0 1px 2px rgba(16,24,40,.04),0 2px 10px rgba(16,24,40,.05);display:flex;flex-direction:column;gap:14px;margin:0}.tm-card blockquote{margin:0;color:#344054;font-size:1.02rem;line-height:1.65}.tm-card blockquote::before{content:"\\201C";color:var(--iki-teal,#4BC0AB);font-family:var(--font-display,'Cormorant Garamond');font-size:2rem;line-height:0;vertical-align:-.35em;margin-right:2px}.tm-card figcaption{display:flex;flex-direction:column}.tm-name{font-weight:700;color:#101828}.tm-place{color:#98a2b3;font-size:.86rem}.tm-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:auto}.tm-tags a{font-size:.8rem;color:#2E8975;background:#f3f7f2;border-radius:6px;padding:3px 8px;text-decoration:none}.tm-tags a:hover{background:#e3efe9}.tm-note{max-width:1100px;margin:6px auto 0;padding:0 20px;color:#98a2b3;font-size:.86rem;text-align:center}.tm-chips{max-width:1100px;margin:0 auto 18px;padding:0 20px;display:flex;flex-direction:column;gap:10px}.tm-chiprow{display:flex;flex-wrap:wrap;align-items:center;gap:8px}.tm-chiplabel{font-size:.86rem;font-weight:700;color:#475467;margin-right:4px}.tm-chip{display:inline-flex;align-items:center;gap:6px;border:1px solid #d0d5dd;border-radius:8px;padding:7px 12px;font-size:.9rem;color:#344054;background:#fff;text-decoration:none;min-height:36px}.tm-chip span{color:#98a2b3;font-size:.8rem}.tm-chip:hover{border-color:#4BC0AB}.tm-chip.is-on{background:#2E8975;border-color:#2E8975;color:#fff}.tm-chip.is-on span{color:#d1fadf}.tm-pages{display:flex;flex-wrap:wrap;justify-content:center;gap:8px;margin:22px auto 4px}.tm-pages a,.tm-pages span{min-width:40px;text-align:center;border:1px solid #d0d5dd;border-radius:8px;padding:7px 12px;color:#344054;text-decoration:none}.tm-pages span{background:#2E8975;border-color:#2E8975;color:#fff}@media(max-width:640px){.tm-chiprow{flex-wrap:nowrap;overflow-x:auto;padding-bottom:4px;-webkit-overflow-scrolling:touch}.tm-chip,.tm-chiplabel{flex:0 0 auto}}</style>`;
+  const tmNote = `<p class="tm-note">Các chia sẻ trên là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và không phải cam kết về sức khoẻ. Kết quả có thể khác nhau tuỳ cơ địa và mức độ kiên trì của mỗi người.</p>`;
+  const tmFile = (base, n) => (n === 1 ? `${base}.html` : `${base}-trang-${n}.html`);
+  const camNhanFiles = new Set();
+  const tmPages = ({ base, list, title, desc, eyebrow, h1, lead, cur, source, noindex }) => {
+    const total = Math.max(1, Math.ceil(list.length / TM_MOI_TRANG));
+    for (let n = 1; n <= total; n++) {
+      const file = tmFile(base, n);
+      camNhanFiles.add(file);
+      const slice = list.slice((n - 1) * TM_MOI_TRANG, n * TM_MOI_TRANG);
+      const pager = total > 1 ? `<nav class="tm-pages" aria-label="Phân trang">${Array.from({ length: total }, (_, k) => k + 1).map((k) => (k === n ? `<span aria-current="page">${k}</span>` : `<a href="${tmFile(base, k)}">${k}</a>`)).join("")}</nav>` : "";
+      const tt = n === 1 ? title : `${title.replace(/ \| Blog IKI$/, "")} - trang ${n} | Blog IKI`;
+      fs.writeFileSync(path.join(outDir, file),
+        head(tt, desc, `${SITE}/blog/${file}`,
+          { "@context": "https://schema.org", "@type": "CollectionPage", name: h1, url: `${SITE}/blog/${file}`, inLanguage: "vi-VN" }, noindex || n > 1)
+        + header()
+        + tmStyle
+        + `<main><section class="blog-hero"><span class="eyebrow">${esc(eyebrow)}</span><h1>${esc(h1)}</h1><p>${esc(lead)}</p></section>${chips(cur)}<div class="tm-wrap"><div class="tm-grid">${slice.map(tmCard).join("")}</div>${pager}</div>${tmNote}${emailCta(plan, source)}</main>`
+        + footer(), "utf8");
+    }
+  };
+  tmPages({ base: "cam-nhan-cong-dong", list: tms, cur: "", source: "cam-nhan-cong-dong",
+    title: "Cảm nhận cộng đồng | Blog IKI",
+    desc: "Những chia sẻ chân thật của cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động mỗi ngày.",
+    eyebrow: "Cảm nhận cộng đồng", h1: "Những thói quen nhỏ, kể bằng lời thật",
+    lead: "Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Chọn điều bạn quan tâm hoặc nhóm người giống mình ở bên dưới để đọc những chia sẻ gần với bạn nhất." });
+  for (const g of tmGroups) {
+    tmPages({ base: `cam-nhan-${g.slug}`, list: tms.filter((t) => (t.tags || []).includes(g.slug)), cur: g.slug, source: `cam-nhan-${g.slug}`, noindex: g.count < TM_INDEX_TU,
+      title: `Cảm nhận: ${g.name} | Blog IKI`,
+      desc: `Chia sẻ của cộng đồng IKI ${g.type === "quan-tam" ? "quan tâm tới" : "thuộc nhóm"} ${g.name.toLowerCase()}: thói quen nhỏ, cảm nhận thật mỗi ngày.`,
+      eyebrow: g.type === "quan-tam" ? "Cảm nhận theo mối quan tâm" : "Cảm nhận theo nhóm người",
+      h1: g.name,
+      lead: `${g.count} chia sẻ của thành viên cộng đồng IKI ${g.type === "quan-tam" ? `quan tâm tới ${g.name.toLowerCase()}` : `thuộc nhóm ${g.name.toLowerCase()}`}. Mỗi người một cảm nhận riêng.` });
+  }
+  // Dọn trang cảm nhận cũ do chính khối này sinh ra (nhóm đã hết mẩu, trang phân trang thừa).
+  for (const f of fs.readdirSync(outDir)) if (/^cam-nhan-.+\.html$/.test(f) && !camNhanFiles.has(f)) fs.unlinkSync(path.join(outDir, f));
 
   // ---------- MIỄN TRỪ TRÁCH NHIỆM (điều khoản nội dung) ----------
   // Không gọi trà là thực phẩm bổ sung. Mục 3: câu đạm (hộp 22 gói, đổi 16/10/2026) rồi A4. Không gắn A8 vào điều khoản.
@@ -595,6 +650,7 @@ function updateSitemap(plan) {
   const url = (loc, pri, freq, slug) => `  <url>\n    <loc>${loc}</loc>\n    <lastmod>${today}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${pri}</priority>${slug ? theVideo(slug) : ""}\n  </url>`;
   const urls = [url(`${SITE}/blog/`, "0.9", "daily"), url(`${SITE}/blog/tat-ca-bai-viet.html`, "0.9", "daily"), url(`${SITE}/blog/lo-trinh.html`, "0.8", "weekly"), url(`${SITE}/blog/moi-quan-tam.html`, "0.8", "weekly"), url(`${SITE}/blog/cam-nhan-cong-dong.html`, "0.6", "monthly"), url(`${SITE}/blog/mien-tru-trach-nhiem.html`, "0.3", "yearly")];
   for (const c of plan.categories) if (c.slug !== "lo-trinh") urls.push(url(`${SITE}/blog/danh-muc-${c.slug}.html`, "0.7", "weekly"));
+  for (const g of nhomCoCamNhan(plan, camNhanSach(plan))) if (g.count >= TM_INDEX_TU) urls.push(url(`${SITE}/blog/cam-nhan-${g.slug}.html`, "0.5", "weekly"));
   // Bài mồ côi (chưa vào content-plan) TRƯỚC ĐÂY bị loại khỏi khối tự sinh, nên chỉ còn sống nhờ
   // dòng <url> nối tay ngoài khối — một lần dựng lại là mất dấu. Cho chúng vào khối luôn.
   for (const a of plan.articles) if (isPublished(a.slug) && !khongDuaVaoChiMuc(a.slug)) urls.push(url(`${SITE}/blog/${a.slug}.html`, "0.8", "monthly", a.slug));
