@@ -6,7 +6,7 @@ import { fileURLToPath } from "node:url";
 import { BRAND_NAME, brandOrganization, LEGACY_APP_SLUGS, ARCHIVE_NOTE } from "./brand-profile.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const brandLink = '<a href="/ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.';
+const brandLink = '<a href="/ve-hope.html#dinh-vi-iki">IKIHEALING</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.';
 const replacements = [
   ['<a href="../quiz/">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số lối sống theo Đông y, miễn phí.', brandLink],
   ['<a href="https://ikihealing.com/quiz">Kiểm tra thể trạng 90 giây</a> — nhận bản phân tích 6 chỉ số lối sống theo Đông y, miễn phí.', brandLink],

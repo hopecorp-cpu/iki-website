@@ -2,7 +2,7 @@
 (() => {
   for (const id of ['ikiLogo', 'ikiLogoF', 'splitLogo']) {
     const logo = document.getElementById(id);
-    if (logo) logo.src = '/assets/logo/iki-mark.png';
+    if (logo) logo.src = '/assets/brand/20261119/iki-emblem.svg';
   }
   // Translated product names generate different slugs; vn is the existing canonical name.
   const requested = new URLSearchParams(location.search).get('sp');

@@ -9,6 +9,6 @@ export const ARCHIVE_NOTE = "Cập nhật 14/09/2026: Bài viết được lưu 
 export function brandOrganization() {
   return { "@context": "https://schema.org", "@type": "Organization", "@id": "https://ikihealing.com/#organization", name: BRAND_NAME,
     alternateName: ["IKI", "IKI Healing", "IKI by HOPE CORP"], description: BRAND_DESCRIPTION,
-    url: "https://ikihealing.com/", logo: "https://ikihealing.com/assets/brand/20260914/iki-avatar-hong-1024.png",
+    url: "https://ikihealing.com/", logo: "https://ikihealing.com/assets/brand/20261119/iki-icon-1024.png",
     parentOrganization: { "@type": "Organization", name: "CÔNG TY CỔ PHẦN TMDV HOPE", taxID: "0801404967" }, sameAs: BRAND_LINKS };
 }
