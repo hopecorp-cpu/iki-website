@@ -5,16 +5,16 @@
  *  - bỏ dòng sản phẩm (link tra.ikihealing.com / thanhhuongtra / trueveganprotein): khối chung không nêu tên sản phẩm;
  *  - bỏ ngoặc "(3 Ngày Reset · 7 Ngày Detox)" và các bản dịch;
  *  - VI: tiêu đề + aria-label = câu T1 đã duyệt (kiểm băm).
- *  - EN/JA: TH CHỐT 06/10/2026 CC-1/CC-1b — tiêu đề có Products/製品/商品 + aria-label → "IKI Beauty & Wellness Tools" /
- *    "IKI Beauty & Wellness のツール"; mọi dòng <li> có link app.html → nguyên văn
- *    "IKI App — a personalized health journal (optional)." / "IKIアプリ — パーソナライズされた健康日記(任意)。". Tiêu đề riêng khác giữ nguyên.
+ *  - EN/JA: TH CHỐT 06/10/2026 CC-1/CC-1b — tiêu đề có Products/製品/商品 + aria-label → "IKIHEALING Beauty & Wellness Tools" /
+ *    "IKIHEALING Beauty & Wellness のツール"; mọi dòng <li> có link app.html → nguyên văn
+ *    "IKIHEALING App — a personalized health journal (optional)." / "IKIHEALINGアプリ — パーソナライズされた健康日記(任意)。". Tiêu đề riêng khác giữ nguyên.
  *  - EN/JA announcement-bar và post-cta còn "AI Eastern … Coach" / "東洋医学AIコーチ"
  *    kể cả biến thể có khoảng trắng "東洋医学 AI コーチ" (KT-sau-1, TH CC-1b):
- *    thay bằng "IKI App — a personalized health journal (optional)." /
- *    "IKIアプリ — パーソナライズされた健康日記(任意)。". Giữ href app.html sẵn có.
- *  - VI (KT-sau-2): mọi bài còn câu app cũ ("Ứng dụng IKI Beauty", "đang phát triển", "AI Coach") trong
+ *    thay bằng "IKIHEALING App — a personalized health journal (optional)." /
+ *    "IKIHEALINGアプリ — パーソナライズされた健康日記(任意)。". Giữ href app.html sẵn có.
+ *  - VI (KT-sau-2): mọi bài còn câu app cũ ("Ứng dụng IKIHEALING Beauty", "đang phát triển", "AI Coach") trong
  *    brand-box, announcement-bar và post-cta → đúng câu khuôn
- *    "App IKI — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).". Giữ href app.html sẵn có.
+ *    "App IKIHEALING — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).". Giữ href app.html sẵn có.
  *    Không đụng chữ "đang phát triển" ngoài ba khối này (câu về trẻ đang lớn).
  * Idempotent. Chạy: node scripts/sua-khoi-cong-cu.mjs [--commit]
  */
@@ -26,8 +26,8 @@ import { cauDuyet } from "./cta-san-pham.mjs";
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const COMMIT = process.argv.includes("--commit");
 const T1 = cauDuyet("T1").replace(/&/g, "&amp;");
-const CAU_APP_VI = "App IKI — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).";
-const CO_APP_CU_VI = /Ứng dụng IKI Beauty|đang phát triển|Đang phát triển|AI Coach/;
+const CAU_APP_VI = "App IKIHEALING — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).";
+const CO_APP_CU_VI = /Ứng dụng IKIHEALING Beauty|đang phát triển|Đang phát triển|AI Coach/;
 const dem = {};
 // EN/JA (TH CC-1b): mọi <li> có link app.html → đúng nguyên văn câu đích, giữ thẻ <a> cũ (href/target/rel).
 const dongApp = (li, duoi) => {
@@ -46,22 +46,22 @@ for (const thu of ["blog", "en/blog", "ja/blog"]) {
         .replace(/\n?[ \t]*<li>(?:(?!<\/li>)[\s\S])*?(?:tra\.ikihealing\.com|thanhhuongtra\.ikihealing\.com|trueveganprotein\.com)[\s\S]*?<\/li>/g, "")
         .replace(/\s*[（(][^（）()]*?(?:Detox|デトックス|Refresh)[^（）()]*?[）)]/g, "");
       if (thu === "blog") {
-        k = k.replace('<h2>Sản phẩm &amp; công cụ IKI Healing</h2>', `<h2>${T1}</h2>`)
-          .replace('aria-label="Sản phẩm và công cụ IKI"', `aria-label="${T1}"`);
-        // Cùng câu App IKI mà build-article gắn cho bài có .md. Mọi bài VI còn câu cũ.
+        k = k.replace('<h2>Sản phẩm &amp; công cụ IKIHEALING</h2>', `<h2>${T1}</h2>`)
+          .replace('aria-label="Sản phẩm và công cụ IKIHEALING"', `aria-label="${T1}"`);
+        // Cùng câu App IKIHEALING mà build-article gắn cho bài có .md. Mọi bài VI còn câu cũ.
         k = k.replace(/<li>(?:(?!<\/li>)[\s\S])*?<\/li>/g, (li) => {
           if (!CO_APP_CU_VI.test(li) && !/app\.html/.test(li)) return li;
           if (!/app\.html/.test(li) || !CO_APP_CU_VI.test(li)) return li;
-          return dongApp(li, "App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).");
+          return dongApp(li, "App IKIHEALING</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).");
         });
       } else if (thu === "en/blog") {
-        k = k.replace(/<h2>[^<]*[Pp]roducts[^<]*<\/h2>/g, "<h2>IKI Beauty &amp; Wellness Tools</h2>")
-          .replace(/aria-label="(?:IKI products and tools|Sản phẩm và công cụ IKI)"/g, 'aria-label="IKI Beauty &amp; Wellness Tools"')
-          .replace(/<li>(?:(?!<\/li>)[\s\S])*?<\/li>/g, (li) => dongApp(li, "IKI App</a> — a personalized health journal (optional)."));
+        k = k.replace(/<h2>[^<]*[Pp]roducts[^<]*<\/h2>/g, "<h2>IKIHEALING Beauty &amp; Wellness Tools</h2>")
+          .replace(/aria-label="(?:IKIHEALING products and tools|Sản phẩm và công cụ IKIHEALING)"/g, 'aria-label="IKIHEALING Beauty &amp; Wellness Tools"')
+          .replace(/<li>(?:(?!<\/li>)[\s\S])*?<\/li>/g, (li) => dongApp(li, "IKIHEALING App</a> — a personalized health journal (optional)."));
       } else {
-        k = k.replace(/<h2>[^<]*(?:製品|商品)[^<]*<\/h2>/g, "<h2>IKI Beauty &amp; Wellness のツール</h2>")
-          .replace(/aria-label="IKI ?の(?:製品|商品)とツール"/g, 'aria-label="IKI Beauty &amp; Wellness のツール"')
-          .replace(/<li>(?:(?!<\/li>)[\s\S])*?<\/li>/g, (li) => dongApp(li, "IKIアプリ</a> — パーソナライズされた健康日記(任意)。"));
+        k = k.replace(/<h2>[^<]*(?:製品|商品)[^<]*<\/h2>/g, "<h2>IKIHEALING Beauty &amp; Wellness のツール</h2>")
+          .replace(/aria-label="IKIHEALING ?の(?:製品|商品)とツール"/g, 'aria-label="IKIHEALING Beauty &amp; Wellness のツール"')
+          .replace(/<li>(?:(?!<\/li>)[\s\S])*?<\/li>/g, (li) => dongApp(li, "IKIHEALINGアプリ</a> — パーソナライズされた健康日記(任意)。"));
       }
       return k;
     });
@@ -74,15 +74,15 @@ console.log("Khối công cụ — số bài đổi:", JSON.stringify(dem));
 // KT-sau-1 / TH CC-1b: announcement-bar và post-cta EN/JA. Không đụng câu dietary supplements của trao-nguoc-da-day.
 const COACH_EN = /AI Eastern (?:Wellness|Medicine) Coach|Eastern(?:[-\s]medicine)? AI Coach|AI Traditional Medicine Coach|Traditional Medicine AI Coach/i;
 const COACH_JA = /東洋医学\s*AI\s*コーチ/;
-const CAU_APP_EN = "IKI App — a personalized health journal (optional).";
-const CAU_APP_JA = "IKIアプリ — パーソナライズされた健康日記(任意)。";
+const CAU_APP_EN = "IKIHEALING App — a personalized health journal (optional).";
+const CAU_APP_JA = "IKIHEALINGアプリ — パーソナライズされた健康日記(任意)。";
 function thayCoach(html, lang) {
   const co = (s) => (lang === "en" ? COACH_EN.test(s) : COACH_JA.test(s));
   let out = html.replace(/<div class="announcement-bar">([\s\S]*?)<\/div>/g, (all, inner) => {
     if (!co(inner)) return all;
     const open = inner.match(/<a\b[^>]*>/);
     if (!open) return all;
-    const cau = lang === "en" ? `${open[0]}IKI App</a> — a personalized health journal (optional).` : `${open[0]}IKIアプリ</a> — パーソナライズされた健康日記(任意)。`;
+    const cau = lang === "en" ? `${open[0]}IKIHEALING App</a> — a personalized health journal (optional).` : `${open[0]}IKIHEALINGアプリ</a> — パーソナライズされた健康日記(任意)。`;
     const pad = (inner.match(/\n([ \t]+)/) || [, ""])[1];
     const tail = (inner.match(/\n([ \t]*)$/) || [, ""])[1];
     const prefix = pad ? `\n${pad}` : "";
@@ -117,7 +117,7 @@ function thayAppVi(html) {
     if (!CO_APP_CU_VI.test(inner)) return all;
     const open = inner.match(/<a\b[^>]*>/);
     if (!open) return all;
-    const cau = `${open[0]}App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).`;
+    const cau = `${open[0]}App IKIHEALING</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).`;
     const pad = (inner.match(/\n([ \t]+)/) || [, ""])[1];
     const tail = (inner.match(/\n([ \t]*)$/) || [, ""])[1];
     const prefix = pad ? `\n${pad}` : "";

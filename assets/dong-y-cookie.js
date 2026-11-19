@@ -11,9 +11,9 @@
   'use strict';
   var KHOA = 'iki_cookie_dy';
   var CHU = {
-    vi: { noi: 'IKI dùng cookie để đo lượt truy cập và quảng cáo phù hợp hơn. Bạn có thể chọn.', ok: 'Đồng ý', khong: 'Chỉ cookie cần thiết', cs: 'Chính sách dữ liệu' },
-    en: { noi: 'IKI uses cookies to measure visits and show more relevant ads. The choice is yours.', ok: 'Accept', khong: 'Essential cookies only', cs: 'Privacy policy' },
-    ja: { noi: 'IKIはアクセス測定と、より適切な広告表示のためにcookieを使用します。選択できます。', ok: '同意する', khong: '必須cookieのみ', cs: 'プライバシーポリシー' }
+    vi: { noi: 'IKIHEALING dùng cookie để đo lượt truy cập và quảng cáo phù hợp hơn. Bạn có thể chọn.', ok: 'Đồng ý', khong: 'Chỉ cookie cần thiết', cs: 'Chính sách dữ liệu' },
+    en: { noi: 'IKIHEALING uses cookies to measure visits and show more relevant ads. The choice is yours.', ok: 'Accept', khong: 'Essential cookies only', cs: 'Privacy policy' },
+    ja: { noi: 'IKIHEALINGはアクセス測定と、より適切な広告表示のためにcookieを使用します。選択できます。', ok: '同意する', khong: '必須cookieのみ', cs: 'プライバシーポリシー' }
   };
   function doc() { try { return localStorage.getItem(KHOA) || ''; } catch (e) { return ''; } }
   function ghi(v) { try { localStorage.setItem(KHOA, v); } catch (e) {} }

@@ -36,7 +36,7 @@ export const EXIT_POPUP_MAU = `<div id="ikiExit" role="dialog" aria-modal="true"
       <input type="email" class="ie-email" placeholder="Email của bạn..." aria-label="Email" required autocomplete="email" />
       <input type="tel" class="ie-sdt" placeholder="Số Zalo (không bắt buộc) — để nhận thêm thực đơn 3 ngày" aria-label="Số Zalo" autocomplete="tel" />
       <input type="text" class="ie-honey" tabindex="-1" autocomplete="off" aria-hidden="true" />
-      <label class="ie-dy"><input type="checkbox" class="ie-dy-cb" id="dyTin" /><span>Nhận thêm bài viết và ưu đãi từ IKI (có thể ngừng bất cứ lúc nào)</span></label>
+      <label class="ie-dy"><input type="checkbox" class="ie-dy-cb" id="dyTin" /><span>Nhận thêm bài viết và ưu đãi từ IKIHEALING (có thể ngừng bất cứ lúc nào)</span></label>
       <button type="submit" class="ie-btn">Nhận ebook miễn phí &rarr;</button>
     </form>
     <p class="ie-ok" role="status" hidden>&#10003; Xong! Bấm nút dưới để tải ngay. Bản PDF cũng đã gửi vào email (xem cả mục Quảng cáo / Spam).</p>
@@ -56,7 +56,7 @@ export const EXIT_POPUP_MAU = `<div id="ikiExit" role="dialog" aria-modal="true"
         <span class="ie-sp-xem">Xem chi tiết và giá &rarr;</span>
       </a>
     </div>
-    <p class="ie-note">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số Zalo để gửi ebook và thực đơn theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>. Nội dung chia sẻ kiến thức ẩm thực, không thay thế tư vấn y khoa.</p>
+    <p class="ie-note">Khi bấm gửi, bạn đồng ý để IKIHEALING (Công ty CP TMDV HOPE) dùng email/số Zalo để gửi ebook và thực đơn theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>. Nội dung chia sẻ kiến thức ẩm thực, không thay thế tư vấn y khoa.</p>
   </div>
 </div>
 <style>

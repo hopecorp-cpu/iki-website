@@ -13,7 +13,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9X3LTTL2N3"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-9X3LTTL2N3');</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>2-minute Eastern Constitution Quiz — IKI Healing</title>
+<title>2-minute Eastern Constitution Quiz — IKIHEALING</title>
 <meta name="description" content="10 questions on Cold–Heat and Deficiency–Excess — learn your Eastern constitution and how to eat in harmony with it."/>
 <link rel="canonical" href="https://ikihealing.com/en/quiz/"/>
 <link rel="alternate" hreflang="vi" href="https://ikihealing.com/quiz/co-dia/"/><link rel="alternate" hreflang="en" href="https://ikihealing.com/en/quiz/"/><link rel="alternate" hreflang="ja" href="https://ikihealing.com/ja/quiz/"/><link rel="alternate" hreflang="x-default" href="https://ikihealing.com/quiz/co-dia/"/>
@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="steps3">
     <div class="step"><b>Answer 10 questions</b><p>Everyday body signals — no lab test needed.</p></div>
     <div class="step"><b>Get your type</b><p>1 of 6 Eastern constitutions + foods that suit you.</p></div>
-    <div class="step"><b>Track 90 days</b><p>Get the IKI app: scan meals, re-check your shift every quarter.</p></div>
+    <div class="step"><b>Track 90 days</b><p>Get the IKIHEALING app: scan meals, re-check your shift every quarter.</p></div>
   </div>
   <button class="btn" onclick="start()">Start</button>
 </div>
@@ -85,17 +85,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div id="rfoods" style="text-align:center"></div>
   <div class="secT">One habit to keep</div>
   <p style="text-align:center;font-size:.94rem;margin:.2rem 0" id="rtip"></p>
-  <div class="teaser">This is just the opening — the full version (care guide, acupoints, 90-day progress tracking) lives in the free IKI app.</div>
-  <a class="btn" href="https://app.ikihealing.com/?utm_source=quiz_codia&utm_medium=web&utm_campaign=en" target="_blank" rel="noopener">Open the free IKI app →</a>
+  <div class="teaser">This is just the opening — the full version (care guide, acupoints, 90-day progress tracking) lives in the free IKIHEALING app.</div>
+  <a class="btn" href="https://app.ikihealing.com/?utm_source=quiz_codia&utm_medium=web&utm_campaign=en" target="_blank" rel="noopener">Open the free IKIHEALING app →</a>
   <div class="email">
     <b style="font-size:.95rem">Get a 90-day re-check reminder</b>
-    <p style="color:var(--muted);font-size:.86rem;margin:.3rem 0">Your constitution shifts with seasons and habits. Leave your email — IKI will remind you to re-check in 3 months.</p>
+    <p style="color:var(--muted);font-size:.86rem;margin:.3rem 0">Your constitution shifts with seasons and habits. Leave your email — IKIHEALING will remind you to re-check in 3 months.</p>
     <input id="em" type="email" placeholder="you@email.com"/>
     <button class="btn2" id="sendb" onclick="sendLead()">Remind me</button>
     <p id="sentmsg" class="hide" style="color:var(--teal);font-weight:700;font-size:.9rem">Registered! See you in 90 days.</p>
   </div>
 </div>
-<p class="legal">IKI is a wellness companion — not a medical service. Results are lifestyle guidance only.</p>
+<p class="legal">IKIHEALING is a wellness companion — not a medical service. Results are lifestyle guidance only.</p>
 </div>
 <script>
 const D={"qs":[{"key":"extremities","t":"How do your hands and feet usually feel?","o":[{"v":-2,"l":"Very cold, numb even in summer"},{"v":-1,"l":"Slightly cold, especially in the morning"},{"v":0,"l":"Normal, comfortably warm"},{"v":1,"l":"Often warm, sweaty palms"},{"v":2,"l":"Burning hot, flushed, always craving cool water"}]},{"key":"thirst","t":"When thirsty, what do you prefer to drink?","o":[{"v":-2,"l":"Warm or hot water, dislike cold drinks"},{"v":-1,"l":"Warm or room-temperature water"},{"v":0,"l":"No preference"},{"v":1,"l":"Prefer cool water, rarely hot"},{"v":2,"l":"Always crave ice water, still thirsty after drinking a lot"}]},{"key":"stool","t":"How are your bowel movements usually?","o":[{"v":-2,"l":"Loose, watery, multiple times a day"},{"v":-1,"l":"Slightly soft, not well formed"},{"v":0,"l":"Well-formed, healthy, once a day"},{"v":1,"l":"Slightly dry and hard"},{"v":2,"l":"Very dry, severe constipation"}]},{"key":"urine","t":"Urine (in the morning)","o":[{"v":-2,"l":"Clear, abundant, frequent"},{"v":-1,"l":"Pale, abundant"},{"v":0,"l":"Light yellow, normal volume"},{"v":1,"l":"Dark yellow, scant"},{"v":2,"l":"Deep yellow, burning sensation, very little"}]},{"key":"face","t":"Face and lip color","o":[{"v":-2,"l":"Pale, washed-out, dark lips"},{"v":-1,"l":"Slightly pale, low color"},{"v":0,"l":"Naturally rosy"},{"v":1,"l":"Pinker / redder than usual"},{"v":2,"l":"Flushed red, vivid cheeks, deep-red lips"}]},{"key":"climate","t":"How do you tolerate the weather?","o":[{"v":-2,"l":"Extremely cold-averse, wear a jacket even in summer"},{"v":-1,"l":"Feel colder than people around you"},{"v":0,"l":"Adapt normally to weather changes"},{"v":1,"l":"Often feel hot, rarely cold"},{"v":2,"l":"Heat-averse, sweat even in winter"}]},{"key":"energy","t":"Energy and stamina","o":[{"v":-2,"l":"Always exhausted, no motivation"},{"v":-1,"l":"Often tired in the afternoon, need a nap"},{"v":0,"l":"Steady energy throughout the day"},{"v":1,"l":"Full of energy, hard to sit still"},{"v":2,"l":"Wired, restless and hard to control"}]},{"key":"voice","t":"Voice and breathing","o":[{"v":-2,"l":"Weak, soft, shallow breath, often out of breath"},{"v":-1,"l":"Not very resonant, tire quickly when speaking long"},{"v":0,"l":"Normal"},{"v":1,"l":"Resonant and strong"},{"v":2,"l":"Loud and forceful, occasionally hoarse from internal heat"}]},{"key":"sweat","t":"Sweating","o":[{"v":-2,"l":"Sweat without reason (spontaneous sweating)"},{"v":-1,"l":"Sweat easily, prone to night sweats"},{"v":0,"l":"Sweat normally with heat or exercise"},{"v":1,"l":"Rarely sweat"},{"v":2,"l":"Almost never sweat, skin feels dry and rough"}]},{"key":"heaviness","t":"Feeling of heaviness, puffiness, or phlegm in the body","o":[{"v":0,"l":"Light, no such feeling"},{"v":1,"l":"Occasional bloating, heavy feeling after meals"},{"v":2,"l":"Frequent: bloating, leg puffiness, lots of phlegm, heavy head"}]}],"pt":{"duong_hu":{"name":"Yang Deficiency","desc":"Cold + Deficiency: the body lacks Yang Qi — internal coldness and weakness. Common in older adults, those with chronic fatigue, or after illness.","foods":["Fresh ginger, cinnamon, star anise","Lamb, slow-stewed black-bone chicken","Sticky rice, black sesame seeds"],"tip":"Sleep before 11pm to nourish Yang"},"am_hu":{"name":"Yin Deficiency","desc":"Heat + Deficiency: depleted Yin fluids — dryness, internal heat, restlessness. Common in perimenopausal women and those with chronic stress or insomnia.","foods":["Lotus seeds, lotus root, lotus shoots","Snow fungus (Tremella), white wood ear","Pear, strawberries, purple grapes"],"tip":"Sleep 7-8 hours; avoid late nights that burn Yin"},"han_thuc":{"name":"Cold-Excess (External Cold)","desc":"Cold + Excess: acute invasion of external Cold. Often after getting caught in rain, eating too much cold food, or prolonged AC exposure. Signs: cold abdominal pain, chills, stuffy nose.","foods":["Hot ginger and perilla congee","Ginger and scallion soup","Hot miso soup"],"tip":"Soak feet in warm ginger water 15 min nightly"},"nhiet_thuc":{"name":"Heat-Excess (Internal Heat)","desc":"Heat + Excess: accumulated heat in the organs, usually from spicy food, alcohol, or stress. Signs: inflamed acne, bad breath, constipation, strong thirst.","foods":["Pennywort (Centella), kudzu starch, artichoke","Bitter melon, winter melon, fish mint (diếp cá)","Mung bean (sweet soup, milk, broth)"],"tip":"Drink 2-2.5L water daily, spread evenly"},"dam_thap":{"name":"Damp-Phlegm","desc":"Stagnant Damp and Qi. Heavy body, frequent bloating, sticky phlegm, easy puffiness, tendency to gain weight. Sluggish metabolism, sleepy after meals.","foods":["Job's tears (coix seed / yi yi ren), red beans","Winter melon, Chinese yam, fish mint (diếp cá)","Artichoke tea, lotus tea"],"tip":"30 min of light exercise daily to drain Damp"},"can_bang":{"name":"Balanced (Harmonized)","desc":"Cold-Heat and Deficiency-Excess are both balanced. The body is healthy with stable organ function. Just maintain a moderate lifestyle.","foods":["A variety of whole grains","Seasonal vegetables","Beans, nuts, fish, lean meats in moderation"],"tip":"Sleep 7-8 hours on a consistent schedule"}}};
@@ -127,7 +127,7 @@ document.getElementById("sendb").classList.add("hide");document.getElementById("
 </style>
 <div class="zalo-chat-widget"
      data-oaid="599407064751177637"
-     data-welcome-message="Chào bạn, IKI có thể hỗ trợ gì cho bạn?"
+     data-welcome-message="Chào bạn, IKIHEALING có thể hỗ trợ gì cho bạn?"
      data-autopopup="0"
      data-width="350"
      data-height="420"></div>

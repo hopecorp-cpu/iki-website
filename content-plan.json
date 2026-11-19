@@ -1,5 +1,5 @@
 {
-  "_note": "Khung blog IKI theo mô hình lộ trình BeginGuru. 'chapters' = trục chính (chặng phủ dần, mỗi bài có tier). 'categories' = trụ (hub + đếm sidebar). 'roadmaps' = hub lộ trình theo đối tượng. 'articles' = master list. status: published nếu có blog-drafts/<slug>.md. Viết bài = thêm draft khớp slug + đổi status.",
+  "_note": "Khung blog IKIHEALING theo mô hình lộ trình BeginGuru. 'chapters' = trục chính (chặng phủ dần, mỗi bài có tier). 'categories' = trụ (hub + đếm sidebar). 'roadmaps' = hub lộ trình theo đối tượng. 'articles' = master list. status: published nếu có blog-drafts/<slug>.md. Viết bài = thêm draft khớp slug + đổi status.",
   "leadMagnet": {
     "tag": "Miễn phí",
     "title": "Nhận cẩm nang chăm sóc sức khoẻ chủ động",
@@ -41,7 +41,7 @@
     {
       "slug": "bao-cao",
       "name": "Báo cáo & Số liệu",
-      "desc": "Báo cáo dữ liệu độc quyền từ hoạt động thực tế của IKI Healing — số liệu hành vi chăm sóc sức khoẻ chủ động của người Việt, mở cho báo chí và cộng đồng trích dẫn."
+      "desc": "Báo cáo dữ liệu độc quyền từ hoạt động thực tế của IKIHEALING — số liệu hành vi chăm sóc sức khoẻ chủ động của người Việt, mở cho báo chí và cộng đồng trích dẫn."
     }
   ],
   "chapters": [
@@ -231,19 +231,19 @@
       "status": "published"
     },
     {
-      "title": "Nhật ký 30 giây mỗi ngày: cách App IKI giúp bạn nhìn ra quy luật cơ thể mình",
+      "title": "Nhật ký 30 giây mỗi ngày: cách App IKIHEALING giúp bạn nhìn ra quy luật cơ thể mình",
       "slug": "app-iki-nhat-ky-30-giay-phan-tich",
       "category": "thoi-quen",
       "status": "published"
     },
     {
-      "title": "\"Lão\" — người bạn đồng hành Đông y trong App IKI: nhắc bữa đúng thói quen, gợi ý theo tiết khí",
+      "title": "\"Lão\" — người bạn đồng hành Đông y trong App IKIHEALING: nhắc bữa đúng thói quen, gợi ý theo tiết khí",
       "slug": "app-iki-lao-dong-hanh-tiet-khi",
       "category": "thoi-quen",
       "status": "published"
     },
     {
-      "title": "Quét bữa ăn 5 giây: App IKI đọc calo và chấm điểm Âm-Dương thế nào?",
+      "title": "Quét bữa ăn 5 giây: App IKIHEALING đọc calo và chấm điểm Âm-Dương thế nào?",
       "slug": "app-iki-quet-bua-an-cham-am-duong",
       "category": "thoi-quen",
       "status": "published"
@@ -267,7 +267,7 @@
       "status": "published"
     },
     {
-      "title": "Báo cáo hành trình hỏi đáp trước khi mua: cần bao nhiêu lượt trao đổi để một người Việt quyết định mua sản phẩm sức khoẻ — theo dữ liệu của IKI by HOPE CORP",
+      "title": "Báo cáo hành trình hỏi đáp trước khi mua: cần bao nhiêu lượt trao đổi để một người Việt quyết định mua sản phẩm sức khoẻ — theo dữ liệu của IKIHEALING by HOPE CORP",
       "slug": "bao-cao-hanh-trinh-hoi-dap-2026",
       "category": "bao-cao",
       "status": "published"
@@ -279,13 +279,13 @@
       "status": "published"
     },
     {
-      "title": "Báo cáo bản đồ quan tâm sức khoẻ: người Việt chủ động nêu điều gì khi đi tìm sản phẩm — theo dữ liệu của IKI by HOPE CORP",
+      "title": "Báo cáo bản đồ quan tâm sức khoẻ: người Việt chủ động nêu điều gì khi đi tìm sản phẩm — theo dữ liệu của IKIHEALING by HOPE CORP",
       "slug": "bao-cao-ban-do-quan-tam-suc-khoe-2026",
       "category": "bao-cao",
       "status": "published"
     },
     {
-      "title": "Báo cáo cấu trúc giỏ hàng sức khoẻ: người Việt mua thử một món hay mua cả bộ — theo dữ liệu của IKI by HOPE CORP",
+      "title": "Báo cáo cấu trúc giỏ hàng sức khoẻ: người Việt mua thử một món hay mua cả bộ — theo dữ liệu của IKIHEALING by HOPE CORP",
       "slug": "bao-cao-cau-truc-gio-hang-2026",
       "category": "bao-cao",
       "status": "published"
@@ -519,7 +519,7 @@
       "status": "published"
     },
     {
-      "title": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI",
+      "title": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKIHEALING",
       "slug": "app-iki-ca-nhan-hoa",
       "category": "thoi-quen",
       "status": "published"
@@ -1605,13 +1605,13 @@
       "status": "published"
     },
     {
-      "title": "Báo cáo nhịp tiêu dùng sức khoẻ tháng 08/2026 — theo dữ liệu của IKI by HOPE CORP",
+      "title": "Báo cáo nhịp tiêu dùng sức khoẻ tháng 08/2026 — theo dữ liệu của IKIHEALING by HOPE CORP",
       "slug": "bao-cao-nhip-tieu-dung-thang-08-2026",
       "category": "bao-cao",
       "status": "published"
     },
     {
-      "title": "Báo cáo nhịp mùa của thị trường sức khoẻ chủ động: tháng nào người Việt chăm mình nhất — theo dữ liệu của IKI by HOPE CORP",
+      "title": "Báo cáo nhịp mùa của thị trường sức khoẻ chủ động: tháng nào người Việt chăm mình nhất — theo dữ liệu của IKIHEALING by HOPE CORP",
       "slug": "bao-cao-nhip-mua-theo-thang-2026",
       "category": "bao-cao",
       "status": "published"
@@ -3072,7 +3072,7 @@
     {
       "name": "Chị T.",
       "place": "Khách hàng mới",
-      "product": "Sữa đạm IKI",
+      "product": "Sữa đạm IKIHEALING",
       "tags": [
         "ngu-ngon"
       ],

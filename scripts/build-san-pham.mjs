@@ -3,7 +3,7 @@
  * build-san-pham.mjs — dựng trang sản phẩm tĩnh san-pham/<slug>.html từ san-pham-data.json.
  *
  * VÌ SAO CÓ (15/08/2026): tìm "đạm thực vật" hay "trà tuệ minh" trên Google không ra trang nào của
- * IKI. Một phần lý do là website KHÔNG HỀ CÓ trang riêng cho từng sản phẩm — sitemap chỉ có
+ * IKIHEALING. Một phần lý do là website KHÔNG HỀ CÓ trang riêng cho từng sản phẩm — sitemap chỉ có
  * /san-pham.html gộp chung, còn /shop/ dựng danh sách bằng JavaScript nên máy tìm kiếm và các
  * công cụ AI gần như không đọc được từng món. Truy vấn tên sản phẩm vì thế không có đích để đến.
  *
@@ -79,7 +79,7 @@ function head(sp, url, ld) {
   <link rel="alternate" hreflang="x-default" href="${url}" />
   <meta property="og:type" content="product" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
+  <meta property="og:site_name" content="IKIHEALING — by HOPE CORP" />
   <meta property="og:url" content="${url}" />
   <meta property="og:title" content="${escAttr(sp.h1)}" />
   <meta property="og:description" content="${escAttr(sp.moTa)}" />
@@ -155,7 +155,7 @@ function trang(sp) {
     image: [anhUrl],
     description: sp.moTa,
     category: sp.loai,
-    brand: { "@type": "Brand", name: "IKI" },
+    brand: { "@type": "Brand", name: "IKIHEALING" },
     manufacturer: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE", taxID: "0801404967" },
     ...(sp.thayGia ? {} : { offers: {
       "@type": "Offer",
@@ -218,9 +218,9 @@ ${header()}
           <div class="sp-gia">${sp.thayGia ? esc(sp.thayGia) : tien(sp.gia)}<small>${an ? "Giá tham khảo — sản phẩm đã ngừng bán" : sp.giaNhan ? esc(sp.giaNhan) : "Giá niêm yết"}${sp.quyCach ? ` · ${esc(sp.quyCach)}` : ""}</small></div>
           ${datTruoc ? `<span class="sp-dat-truoc">Sắp ra mắt · dự kiến về hàng ${esc(sp.ngayVe || "")}</span>` : ""}
           <p class="sp-mota">${esc(sp.moTa)}</p>
-          ${an ? `<div class="sp-chua-ban">Sản phẩm này hiện <strong>chưa mở bán</strong> trên IKI. Trang được giữ lại để tra thông tin. Cần hỏi thêm, chị nhắn Zalo <a href="https://zalo.me/0987931551">098 793 1551</a>.</div>
+          ${an ? `<div class="sp-chua-ban">Sản phẩm này hiện <strong>chưa mở bán</strong> trên IKIHEALING. Trang được giữ lại để tra thông tin. Cần hỏi thêm, chị nhắn Zalo <a href="https://zalo.me/0987931551">098 793 1551</a>.</div>
           <div class="sp-cta"><a class="sp-btn phu" href="../shop/">Xem sản phẩm đang bán</a></div>` : datTruoc ? `<div class="sp-cta">
-            <a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">${esc(sp.datTruocNut || "Đặt trước tại cửa hàng IKI")}</a>
+            <a class="sp-btn chinh" href="../shop/?sp=${sp.slug}">${esc(sp.datTruocNut || "Đặt trước tại cửa hàng IKIHEALING")}</a>
             <a class="sp-btn phu" href="../quiz/">Làm bài đọc thể trạng miễn phí</a>
           </div>
           <p style="font-size:.86rem;color:#667085;margin:6px 0 0">${esc(sp.datTruocChu || "")}</p>` : `<div class="sp-cta">
@@ -271,7 +271,7 @@ ${header()}
       </div>`)}
 
       ${khoi(doc, `<div class="sp-doc-them">
-        <strong>Đọc thêm trên blog IKI</strong>
+        <strong>Đọc thêm trên blog IKIHEALING</strong>
         <ul>
           ${doc}
         </ul>

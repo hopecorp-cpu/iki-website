@@ -207,7 +207,7 @@ const slugKhuon = tenKhuon.replace(/\.html$/, "");
 
 console.log(`Dịch sang ${NGON.toUpperCase()} · ${can.length} bài · khuôn: ${tenKhuon}${THU ? " · THỬ (không ghi)" : ""}`);
 
-const SYS = `Bạn dịch bài blog sức khoẻ từ tiếng Việt sang ${TEN_NGON} cho thương hiệu IKI.
+const SYS = `Bạn dịch bài blog sức khoẻ từ tiếng Việt sang ${TEN_NGON} cho thương hiệu IKIHEALING.
 
 LUẬT BẤT DI BẤT DỊCH:
 1. Giữ NGUYÊN VẸN mọi thẻ HTML, thuộc tính, class, id, href, src, và mọi đoạn mã. Chỉ dịch phần chữ người đọc thấy, cộng thêm thuộc tính alt và title.

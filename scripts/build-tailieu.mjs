@@ -78,7 +78,7 @@ function head(title, desc, canonical) {
   <link rel="canonical" href="${canonical}" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
+  <meta property="og:site_name" content="IKIHEALING — by HOPE CORP" />
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escAttr(title)}" />
   <meta property="og:description" content="${escAttr(desc)}" />
@@ -136,7 +136,7 @@ function header() {
   <div class="announcement-bar"><a href="/ve-hope.html#dinh-vi-iki">IKIHEALING</a> — chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</div>
   <header class="site-header" id="site-header">
     <nav class="nav">
-      <a class="brand" href="/index.html" aria-label="IKI Trang chủ"><img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64"><img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36"></a>
+      <a class="brand" href="/index.html" aria-label="IKIHEALING Trang chủ"><img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64"><img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36"></a>
       <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
         <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
         <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
@@ -156,13 +156,13 @@ function header() {
 const footer = () => `
   <footer class="site-footer"><div class="container">
     <div class="footer-grid">
-      <div><div class="footer-brand" style="display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:14px;font-size:0"><span style="display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border:1px solid rgba(245,197,24,.22);border-radius:14px;padding:12px 22px 10px"><img src="/assets/logo/hope-mark-512.png" alt="HOPE CORP" style="width:30px;height:auto;margin-bottom:3px" /><span style="font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1">HOPE</span><span style="font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem">CORP</span></span></div><div class="footer-company" style="margin:0 0 16px"><div style="font-weight:800;text-transform:uppercase;color:#FFFFFF;font-size:1.02rem;line-height:1.3;letter-spacing:.005em">Công ty Cổ phần TMDV HOPE</div><div style="margin-top:6px;font-weight:500;text-transform:uppercase;color:rgba(255,255,255,.52);font-size:.7rem;letter-spacing:.22em">From nature, for life</div></div><p>IKI là hệ sinh thái chăm sóc sức khoẻ chủ động cho phụ nữ và gia đình, kết nối kiến thức, công nghệ AI, cộng đồng và sản phẩm — đồng hành từ chăm làn da đến ăn uống, nghỉ ngơi và vận động mỗi ngày. IKI là thương hiệu của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p></div>
-      <div><h4>Hệ sinh thái</h4><ul><li><a href="/hoc-vien.html">Học Viện IKI</a></li><li><a href="/blog/index.html">Blog IKI</a></li><li><a href="/cong-dong.html">Cộng đồng IKI</a></li><li><a href="/app.html">Ứng dụng IKI</a></li></ul></div>
+      <div><div class="footer-brand" style="display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:14px;font-size:0"><span style="display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border:1px solid rgba(245,197,24,.22);border-radius:14px;padding:12px 22px 10px"><img src="/assets/logo/hope-mark-512.png" alt="HOPE CORP" style="width:30px;height:auto;margin-bottom:3px" /><span style="font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1">HOPE</span><span style="font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem">CORP</span></span></div><div class="footer-company" style="margin:0 0 16px"><div style="font-weight:800;text-transform:uppercase;color:#FFFFFF;font-size:1.02rem;line-height:1.3;letter-spacing:.005em">Công ty Cổ phần TMDV HOPE</div><div style="margin-top:6px;font-weight:500;text-transform:uppercase;color:rgba(255,255,255,.52);font-size:.7rem;letter-spacing:.22em">From nature, for life</div></div><p>IKIHEALING là hệ sinh thái chăm sóc sức khoẻ chủ động cho phụ nữ và gia đình, kết nối kiến thức, công nghệ AI, cộng đồng và sản phẩm — đồng hành từ chăm làn da đến ăn uống, nghỉ ngơi và vận động mỗi ngày. IKIHEALING là thương hiệu của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p></div>
+      <div><h4>Hệ sinh thái</h4><ul><li><a href="/hoc-vien.html">Học Viện IKIHEALING</a></li><li><a href="/blog/index.html">Blog IKIHEALING</a></li><li><a href="/cong-dong.html">Cộng đồng IKIHEALING</a></li><li><a href="/app.html">Ứng dụng IKIHEALING</a></li></ul></div>
       <div><h4>Tài liệu</h4><ul><li><a href="/tai-lieu/index.html">Tài liệu miễn phí</a></li><li><a href="/blog/lo-trinh.html">Lộ trình chăm sóc</a></li></ul></div>
       <div><h4>Liên hệ</h4><ul class="contact-list"><li class="contact-item"><span class="contact-label">Email</span><a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></li><li class="contact-item"><span class="contact-label">Tư vấn</span><a href="tel:0987931551">0987.931.551</a></li></ul></div>
     </div>
-    <div class="global-disclaimer"><p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p></div>
-    <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu của HOPE CORP.</span></div>
+    <div class="global-disclaimer"><p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKIHEALING không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p></div>
+    <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKIHEALING là thương hiệu của HOPE CORP.</span></div>
   </div></footer>
 <!-- Zalo OA chat widget -->
 <style>
@@ -171,7 +171,7 @@ const footer = () => `
 </style>
 <div class="zalo-chat-widget"
      data-oaid="599407064751177637"
-     data-welcome-message="Chào bạn, IKI có thể hỗ trợ gì cho bạn?"
+     data-welcome-message="Chào bạn, IKIHEALING có thể hỗ trợ gì cho bạn?"
      data-autopopup="0"
      data-width="350"
      data-height="420"></div>
@@ -208,7 +208,7 @@ function docPage(d) {
     }).catch(function(){ btn.disabled=false; btn.textContent='Nhận tài liệu →'; msg.textContent='Mạng chậm, bạn thử lại giúp nhé.'; });
   });
 })();</script>`;
-  return head(`${d.title} | Tài liệu miễn phí IKI`, d.desc, canonical)
+  return head(`${d.title} | Tài liệu miễn phí IKIHEALING`, d.desc, canonical)
     + header()
     + `<main>
   <section class="tl-hero"><span class="eyebrow">Tài liệu miễn phí</span><h1>${esc(d.title)}</h1></section>
@@ -222,15 +222,15 @@ function docPage(d) {
       <input type="email" name="email" placeholder="Email của bạn..." required aria-label="Email" />
       <input type="tel" name="phone" placeholder="Số điện thoại (không bắt buộc — để được tư vấn thêm)" aria-label="Số điện thoại" />
       <div class="iki-dy">
-        <label><input type="checkbox" id="dyTin" /><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKI qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
-        <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKI Healing (Công ty CP TMDV HOPE) dùng email/số điện thoại để gửi tài liệu và tư vấn thêm theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
+        <label><input type="checkbox" id="dyTin" /><span>Tôi muốn nhận thêm bài viết, thực đơn và ưu đãi từ IKIHEALING qua email/Zalo. Có thể ngừng bất cứ lúc nào.</span></label>
+        <p class="iki-dy-coso">Khi bấm gửi, bạn đồng ý để IKIHEALING (Công ty CP TMDV HOPE) dùng email/số điện thoại để gửi tài liệu và tư vấn thêm theo <a href="https://ikihealing.com/chinh-sach-bao-mat.html" target="_blank" rel="noopener">Chính sách dữ liệu</a>.</p>
       </div>
       <button type="submit">Nhận tài liệu →</button>
       <p class="tl-msg" id="dlMsg" role="status"></p>
     </form>
     <div id="dlReady" class="tl-ready" hidden>
       <a class="btn btn-primary" href="${escAttr(d.file)}" target="_blank" rel="noopener">${dlLabel}</a>
-      <p>Cảm ơn bạn! Tài liệu đã sẵn sàng. IKI cũng sẽ gửi thêm vài gợi ý chăm sóc sức khoẻ nhỏ, dễ làm vào email của bạn trong những ngày tới.</p>
+      <p>Cảm ơn bạn! Tài liệu đã sẵn sàng. IKIHEALING cũng sẽ gửi thêm vài gợi ý chăm sóc sức khoẻ nhỏ, dễ làm vào email của bạn trong những ngày tới.</p>
     </div>
   </div>
   <p class="tl-note">Nội dung mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán hay thay thế tư vấn y khoa.</p>
@@ -248,11 +248,11 @@ function indexPage() {
     <p>${esc(d.desc)}</p>
     <span class="tl-go">Nhận tài liệu →</span>
   </a>`).join("\n");
-  return head("Tài liệu chăm sóc sức khoẻ miễn phí | IKI Healing",
-    "Tải miễn phí các cẩm nang và ebook chăm sóc sức khoẻ chủ động từ IKI Healing.", canonical)
+  return head("Tài liệu chăm sóc sức khoẻ miễn phí | IKIHEALING",
+    "Tải miễn phí các cẩm nang và ebook chăm sóc sức khoẻ chủ động từ IKIHEALING.", canonical)
     + header()
     + `<main>
-  <section class="tl-hero"><span class="eyebrow">Tài liệu miễn phí</span><h1>Tài liệu chăm sóc sức khoẻ chủ động</h1><p>Cẩm nang và ebook do IKI biên soạn — để lại email là nhận được ngay.</p></section>
+  <section class="tl-hero"><span class="eyebrow">Tài liệu miễn phí</span><h1>Tài liệu chăm sóc sức khoẻ chủ động</h1><p>Cẩm nang và ebook do IKIHEALING biên soạn — để lại email là nhận được ngay.</p></section>
   <div class="tl-grid">${cards}</div>
   <p class="tl-note">Nội dung mang tính chia sẻ kiến thức, không nhằm chẩn đoán hay thay thế tư vấn y khoa.</p>
 </main>`

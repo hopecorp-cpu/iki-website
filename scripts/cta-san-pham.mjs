@@ -7,7 +7,7 @@
  * không biết bấm vào đâu.
  *
  * LUẬT: chữ trong khối này CHỈ lấy từ san-pham-data.json (bản đã rà rào thực phẩm bổ sung).
- * Cấm viết công dụng mới ở đây. Cấm chữ "MUA NGAY" (quy chuẩn thiết kế IKI).
+ * Cấm viết công dụng mới ở đây. Cấm chữ "MUA NGAY" (quy chuẩn thiết kế IKIHEALING).
  */
 import crypto from "crypto";
 import fs from "fs";
@@ -101,7 +101,7 @@ const KHONG_THE = new Set([
   "an-gi-de-giam-cang-thang-lo-au", "quang-tham-mat-do-dau", "nguoi-gay-kho-tang-can-nen-an-gi",
   "cham-soc-mat-nguoi-lon-tuoi",
 ]);
-// QĐ2: bài chủ đề đồ uống/trà → thẻ trà (L1 "Trà thảo mộc IKI"). TH mục B: chỉ chuyển 2.
+// QĐ2: bài chủ đề đồ uống/trà → thẻ trà (L1 "Trà thảo mộc IKIHEALING"). TH mục B: chỉ chuyển 2.
 const THE_TRA = new Set([
   "uong-gi-thay-ca-phe-buoi-sang", "nuoc-gao-lut-rang-co-tot-khong",
 ]);
@@ -127,12 +127,12 @@ export function ctaSanPham(fm = {}, goc = "../") {
   if (!p) return "";
   const gia = GIA[p.slug];
   if (!Number.isFinite(gia)) throw new Error(`không có giá API cho ${p.slug} — không gõ tay giá`);
-  // T4: Đạm giữ nhãn "Thực phẩm bổ sung IKI" (đúng hồ sơ); trà luôn là L1, không bao giờ gọi là thực phẩm bổ sung.
-  const nhan = p.slug === "true-vegan-protein" ? "Thực phẩm bổ sung IKI" : cauDuyet("L1");
+  // T4: Đạm giữ nhãn "Thực phẩm bổ sung IKIHEALING" (đúng hồ sơ); trà luôn là L1, không bao giờ gọi là thực phẩm bổ sung.
+  const nhan = p.slug === "true-vegan-protein" ? "Thực phẩm bổ sung IKIHEALING" : cauDuyet("L1");
   // T3: mô tả Đạm bỏ "thuần chay", "hộp 500g" → "hũ 500 g" (đúng hồ sơ).
   const moTa = p.slug === "true-vegan-protein" ? p.moTa.replace(/ thuần chay,/g, ",").replace(/hộp 500g/g, "hũ 500 g") : p.moTa;
   return `${MOC}
-        <aside class="cta-sp" aria-label="Sản phẩm IKI">
+        <aside class="cta-sp" aria-label="Sản phẩm IKIHEALING">
           <div class="cta-sp-anh"><img src="${goc}assets/san-pham/${p.anh}" alt="${p.anhAlt || p.tenDayDu}" loading="lazy" width="160" height="160" /></div>
           <div class="cta-sp-chu">
             <span class="cta-sp-nhan">${nhan}</span>
@@ -141,7 +141,7 @@ export function ctaSanPham(fm = {}, goc = "../") {
             <p class="cta-sp-mo">${moTa}</p>
             <div class="cta-sp-nut">
               <a class="cta-sp-chinh" href="${goc}san-pham/${p.slug}.html">Xem chi tiết sản phẩm</a>
-              ${p.goiTuVan ? `<a class="cta-sp-phu" href="tel:${p.goiTuVan}">Gọi tư vấn ${p.goiTuVan.replace(/(\d{3})(\d{3})(\d{4})/, "$1 $2 $3")}</a>` : `<a class="cta-sp-phu" href="${goc}shop/?sp=${p.slug}">${p.trangThai === "sap-ra-mat" ? "Đặt trước tại cửa hàng IKI" : "Đặt hàng tại cửa hàng IKI"}</a>`}
+              ${p.goiTuVan ? `<a class="cta-sp-phu" href="tel:${p.goiTuVan}">Gọi tư vấn ${p.goiTuVan.replace(/(\d{3})(\d{3})(\d{4})/, "$1 $2 $3")}</a>` : `<a class="cta-sp-phu" href="${goc}shop/?sp=${p.slug}">${p.trangThai === "sap-ra-mat" ? "Đặt trước tại cửa hàng IKIHEALING" : "Đặt hàng tại cửa hàng IKIHEALING"}</a>`}
             </div>
           </div>
         </aside>`;
