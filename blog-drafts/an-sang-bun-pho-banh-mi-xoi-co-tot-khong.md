@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-sang-bun-pho-banh-mi-xoi-co-tot-khong-hero.jpg",
   "hero_alt": "Bữa sáng Việt với bát phở nóng và đĩa rau sống bên cạnh",
   "reading_min": 14,
@@ -139,7 +139,7 @@ Vài cách điều chỉnh nhẹ nhàng:
 - Giảm dần độ ngọt thay vì bỏ hẳn. Vị giác cần khoảng hai đến ba tuần để quen với mức ngọt thấp hơn.
 - Uống cà phê **sau khi ăn** thay vì lúc bụng còn trống, nếu bạn hay thấy cồn cào.
 - Với người thấy bồn chồn, tim đập nhanh sau cà phê, các lựa chọn thay thế nhẹ hơn có trong bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html); một tách trà thảo mộc ban ngày cũng là cách nhiều người dùng để giữ sự tỉnh táo êm hơn.
-- Nếu bạn vẫn thích vị cà phê nhưng muốn phiên bản nhẹ nhàng hơn, có thể tham khảo các [thức uống trong cửa hàng IKI](https://ikihealing.com/shop/).
+- Nếu bạn vẫn thích vị cà phê nhưng muốn phiên bản nhẹ nhàng hơn, có thể tham khảo các [thức uống trong cửa hàng IKIHEALING](https://ikihealing.com/shop/).
 
 Và đừng quên một cốc nước ấm ngay khi thức dậy — thói quen nhỏ này giúp nhiều người thấy bữa sáng dễ chịu hơn hẳn.
 
@@ -184,7 +184,7 @@ Lời khuyên dân gian "sáng ăn cho mình" cũng đáng suy nghĩ: bữa sán
 - **Ngày 6:** đổi sang một món bạn ít ăn nhất trong tuần, để bữa sáng không bị lặp.
 - **Ngày 7:** nhìn lại xem hôm nào bạn thấy tỉnh táo nhất tới trưa, và lấy đó làm mẫu cho tuần sau.
 
-Nếu bạn khó nhớ lại cả tuần, [App IKI](../app.html) có phần nhật ký ghi nhanh từng bữa và tự tổng hợp giúp bạn.
+Nếu bạn khó nhớ lại cả tuần, [App IKIHEALING](../app.html) có phần nhật ký ghi nhanh từng bữa và tự tổng hợp giúp bạn.
 
 ## Kết: giữ món mình thích, đổi cách gọi món
 

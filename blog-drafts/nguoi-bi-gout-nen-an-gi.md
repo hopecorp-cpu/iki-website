@@ -8,7 +8,7 @@
   "category": "cam-nang-suc-khoe",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "no_product": true,
   "hero_local": "assets/blog/nguoi-bi-gout-nen-an-gi-hero.jpg",
   "hero_alt": "Bữa ăn nhẹ với rau xanh, trái cây và một ly nước lọc trên bàn gỗ",

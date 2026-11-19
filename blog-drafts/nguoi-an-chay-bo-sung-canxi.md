@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-04",
   "updated": "2026-08-04",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nguoi-an-chay-bo-sung-canxi-hero.jpg",
   "hero_alt": "Đậu phụ, mè, hạnh nhân và rau cải xanh bày trên bàn gỗ",
   "reading_min": 14,
@@ -51,7 +51,7 @@ Mức cần của mỗi người cũng khác nhau tuỳ tuổi, thể trạng v�
 
 Điều này dẫn tới nguyên tắc thực hành đầu tiên và quan trọng nhất: **chia canxi ra nhiều bữa trong ngày**. Cơ thể hấp thu canxi tốt hơn ở những lần nạp khoảng 300–500mg so với một lần nạp thật lớn. Ba bữa, mỗi bữa có một món giàu canxi, thường dễ đạt hơn nhiều so với việc dồn tất cả vào bữa tối.
 
-:::note Số liệu thực tế từ cộng đồng IKI
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
 Trong 660 cuộc tư vấn mà khách chủ động nêu vấn đề, **nhóm ăn chay và nguồn đạm chiếm 8%** (n = 55), còn nhóm được nêu nhiều nhất lại là băn khoăn về giá với 25% (n = 164). Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
 :::
 

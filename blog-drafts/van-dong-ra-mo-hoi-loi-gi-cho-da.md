@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-09-07",
   "updated": "2026-09-07",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/van-dong-ra-mo-hoi-loi-gi-cho-da-hero.jpg",
   "hero_alt": "Giày chạy, thảm tập cuộn, dây nhảy và bình nước xếp gọn trên sàn gỗ",
   "reading_min": 12,

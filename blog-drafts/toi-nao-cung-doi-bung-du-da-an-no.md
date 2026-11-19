@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-16",
   "updated": "2026-08-16",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/toi-nao-cung-doi-bung-du-da-an-no-hero.jpg",
   "hero_alt": "Gian bếp buổi tối yên tĩnh với một tách trà ấm và bát trái cây trên bàn",
   "reading_min": 14,
@@ -95,7 +95,7 @@ Buổi tối là lúc căng thẳng cả ngày lắng xuống và bạn ở mộ
 
 Dấu hiệu nhận ra: cơn "đói" đến rất nhanh sau một cuộc trò chuyện khó chịu, một tin nhắn công việc, hoặc sau khi bạn ngồi lướt điện thoại một lúc lâu. Nếu bạn thấy mình thuộc nhóm này, bài [Ăn theo cảm xúc: làm sao để dừng lại](an-theo-cam-xuc-lam-sao-de-dung-lai.html) nói kỹ hơn về cách nhận diện và tách hai tín hiệu này ra.
 
-Một thay thế đơn giản mà nhiều người thấy hiệu quả: thay thao tác "mở tủ lạnh" bằng thao tác "pha một tách ấm". Việc đun nước, chờ, cầm tách ấm trong tay tạo ra khoảng dừng vừa đủ để bạn nhận ra mình có thật sự đói không. Nếu bạn thích một thức uống ấm nhẹ dịu cho khung giờ trước khi ngủ, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thảo mộc IKI làm theo hướng thư giãn buổi tối — một thói quen để neo lại nếp sinh hoạt, chứ không phải cách để nhịn ăn.
+Một thay thế đơn giản mà nhiều người thấy hiệu quả: thay thao tác "mở tủ lạnh" bằng thao tác "pha một tách ấm". Việc đun nước, chờ, cầm tách ấm trong tay tạo ra khoảng dừng vừa đủ để bạn nhận ra mình có thật sự đói không. Nếu bạn thích một thức uống ấm nhẹ dịu cho khung giờ trước khi ngủ, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thảo mộc IKIHEALING làm theo hướng thư giãn buổi tối — một thói quen để neo lại nếp sinh hoạt, chứ không phải cách để nhịn ăn.
 
 ## Nguyên nhân 5: bạn đang khát chứ không đói
 
@@ -202,7 +202,7 @@ Hãy đi khám nếu cảm giác đói bất thường đi kèm bất kỳ dấu
 - **Ngày 6:** chuẩn bị sẵn một lựa chọn bữa phụ lành mạnh trong tủ, để khi đói bạn không phải chọn giữa mì gói và bánh kẹo.
 - **Ngày 7:** nhìn lại cả tuần — tối nào bạn thấy no đến giờ ngủ, tối nào không, và hai tối đó khác nhau ở điểm gì.
 
-Việc ghi lại vài dòng mỗi tối giúp bạn thấy quy luật nhanh hơn nhiều so với cố nhớ. [Ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
+Việc ghi lại vài dòng mỗi tối giúp bạn thấy quy luật nhanh hơn nhiều so với cố nhớ. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
 
 ## Kết: cơ thể không đòi hỏi vô lý
 

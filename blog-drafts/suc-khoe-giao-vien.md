@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suc-khoe-giao-vien-hero.jpg",
   "hero_alt": "Tách trà thảo mộc ấm và chai nước bên bàn làm việc của giáo viên",
   "reading_min": 13,
@@ -129,7 +129,7 @@ Mục tiêu ở đây không phải là xoá bỏ căng thẳng, điều gần n
 
 Nếu bạn thường trằn trọc dù đã mệt, hoặc thấy tâm trí khó buông công việc, bài [Giữ tinh thần cân bằng](giu-tinh-than-can-bang.html) gợi ý những cách nhẹ nhàng để làm dịu căng thẳng và tìm lại khoảng thở cho riêng mình.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Cô T., một giáo viên tiểu học, từng chia sẻ rằng cứ đến cuối tuần là giọng cô gần như khản đặc, cổ họng khô rát và người mệt lả sau năm ngày đứng lớp liên tục. Thay vì cố thay đổi tất cả cùng lúc, cô chọn hai việc nhỏ để bắt đầu: đặt một chai nước ngay trên bàn giáo viên để nhắc mình uống đều giữa các tiết, và mang theo một bình giữ nhiệt trà thảo mộc ấm để nhâm nhi trong giờ nghỉ thay cho ly cà phê thứ hai. Cô cũng tập thói quen tận dụng lúc học sinh làm bài để ngồi nghỉ và cho giọng vài phút yên lặng. Cô kể rằng cuối buổi dạy mình cảm thấy cổ họng dễ chịu hơn và bớt kiệt sức hơn khi tan trường. (Đây là chia sẻ cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 
@@ -151,6 +151,6 @@ Sức khoẻ của giáo viên không được quyết định bởi một kỳ 
 
 Bạn không cần làm hết cùng lúc. Hãy chọn một hoặc hai việc dễ nhất, thường là để chai nước trên bàn và giữ vài phút yên lặng cho giọng, làm cho tới khi thành phản xạ tự nhiên, rồi mới thêm việc tiếp theo. Chăm cho chính mình không phải là ích kỷ; một người thầy khoẻ giọng, đủ năng lượng và giữ được tinh thần cân bằng sẽ mang tới lớp học nhiều hơn một người đang gắng gượng qua ngày.
 
-Ở IKI, chúng tôi tin rằng những thói quen nhỏ nhưng bền bỉ là nền tảng của một lối sống dễ chịu. Các sản phẩm như trà thảo mộc hay [đạm thực vật](https://trueveganprotein.com) chỉ là những gợi ý nhẹ nhàng đi kèm để hỗ trợ hành trình đó, không phải cách thay thế cho việc chăm sóc y tế. Điều quan trọng nhất vẫn luôn là lắng nghe cơ thể mình mỗi ngày, và tìm tới chuyên gia khi cần.
+Ở IKIHEALING, chúng tôi tin rằng những thói quen nhỏ nhưng bền bỉ là nền tảng của một lối sống dễ chịu. Các sản phẩm như trà thảo mộc hay [đạm thực vật](https://trueveganprotein.com) chỉ là những gợi ý nhẹ nhàng đi kèm để hỗ trợ hành trình đó, không phải cách thay thế cho việc chăm sóc y tế. Điều quan trọng nhất vẫn luôn là lắng nghe cơ thể mình mỗi ngày, và tìm tới chuyên gia khi cần.
 
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có bệnh lý nền hoặc triệu chứng kéo dài, hãy hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.

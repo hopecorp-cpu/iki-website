@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-uong-lanh-manh-ma-tiet-kiem-hero.jpg",
   "hero_alt": "Rổ rau củ và các loại đậu bày trên mặt bàn gỗ mộc",
   "reading_min": 14,
@@ -167,7 +167,7 @@ Cách tiếp cận sai thường gặp là làm quyết liệt trong ba tuần r
 
 Cách bền hơn là dịch chuyển từng bậc. Tuần này thêm một bữa nấu tại nhà. Tuần sau lên thực đơn trước khi đi chợ. Tuần sau nữa dọn lại tủ lạnh cho đồ cũ ra trước. Mỗi bước nhỏ đều giữ được, và cộng dồn sau vài tháng thì khác biệt rất rõ.
 
-Việc theo dõi xem thay đổi nào thực sự trụ lại được là thứ dễ trôi qua mà không để lại dấu vết. [App IKI](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật của mình thay vì dựa vào cảm giác.
+Việc theo dõi xem thay đổi nào thực sự trụ lại được là thứ dễ trôi qua mà không để lại dấu vết. [App IKIHEALING](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật của mình thay vì dựa vào cảm giác.
 
 ## Tổng kết
 
@@ -181,8 +181,8 @@ Và điều đáng nhớ nhất: khoản chi lớn nhất trong ăn uống của
 
 Nếu bạn muốn một điểm khởi đầu cụ thể để biết nên ưu tiên nhóm thực phẩm nào theo cơ địa của mình, hãy thử [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz).
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKI Healing, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKIHEALING, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
 :::
 
 ## Nguồn tham khảo

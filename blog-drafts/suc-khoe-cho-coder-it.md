@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suc-khoe-cho-coder-it-hero.jpg",
   "hero_alt": "Bàn làm việc của lập trình viên",
   "reading_min": 14,
@@ -182,7 +182,7 @@ Quanh chuyện sức khoẻ của lập trình viên có vài quan niệm lệch
 
 **"Bận sprint thì đành bỏ hết, xong việc tính sau."** Đúng là có những giai đoạn cao điểm, nhưng đó chính là lúc nên hạ chuẩn thay vì bỏ hẳn: không đi bộ 15 phút được thì đứng dậy vươn vai mỗi giờ, không nấu được thì chọn suất ăn có rau. Giữ một phiên bản nhỏ của thói quen giúp bạn không mất luôn quán tính.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Anh T. làm lập trình, quen ngồi liền mạch nhiều giờ khi vào phiên tập trung và thường code tới khuya vì thấy đêm dễ làm việc. Anh chia sẻ rằng cuối ngày hay thấy vai gáy căng, mắt mỏi và tay đôi lúc tê nhẹ, phần vì gần như không rời khỏi ghế. Thay vì cố thay đổi mọi thứ, anh chọn vài việc nhỏ gắn thẳng vào nhịp code: mỗi lần chạy test thì nhìn ra xa cho mắt nghỉ, tận dụng lúc chờ build để đứng dậy vươn vai, và để chai nước cạnh bàn phím uống đều. Anh cũng tập kéo giờ ngủ về sớm dần và cất điện thoại khỏi giường trước khi ngủ. Sau một thời gian giữ nếp này, anh kể rằng buổi làm việc của mình bớt căng ở vai gáy hơn và ban ngày đỡ vật vã hơn. (Đây là chia sẻ cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 

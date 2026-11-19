@@ -9,7 +9,7 @@
   "category": "thoi-quen",
   "date": "2026-08-30",
   "updated": "2026-08-30",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-tra-thao-moc-moi-ngay-co-duoc-khong-hero.jpg",
   "hero_alt": "Ấm trà thảo mộc và tách trà ấm đặt cạnh cửa sổ buổi sáng",
   "reading_min": 13,

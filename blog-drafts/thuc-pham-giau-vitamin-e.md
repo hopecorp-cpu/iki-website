@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-giau-vitamin-e-hero.jpg",
   "hero_alt": "Hạt hướng dương, hạnh nhân, quả bơ và dầu thực vật trên thớt gỗ",
   "reading_min": 14,

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-canxi-va-sat-cach-nhau-bao-lau-hero.jpg",
   "hero_alt": "Hộp chia thuốc theo ngày, cốc nước và quả cam trên bàn gỗ sáng sớm",
   "reading_min": 14,
@@ -107,7 +107,7 @@ Ngoài chuyện canxi và sắt cạnh tranh nhau, còn vài thói quen rất Vi
 - **19h00 — bữa tối:** ăn nhẹ hơn, tránh quá muộn.
 - **Trước ngủ:** hạn chế uống nhiều nước và không đặt viên bổ sung nào vào khung này trừ khi có chỉ định riêng.
 
-Một mẹo giúp lịch này chạy được lâu: dùng hộp chia thuốc theo ngày có nhiều ngăn sáng, trưa, tối. Việc chia sẵn từ chủ nhật cho cả tuần loại bỏ hoàn toàn khả năng nhầm giờ, và bạn cũng biết ngay mình đã uống hay chưa mà không phải cố nhớ. Nếu muốn theo dõi có hệ thống hơn, [App IKI](../app.html) có phần nhật ký để bạn ghi lại nếp ăn uống và bổ sung mỗi ngày.
+Một mẹo giúp lịch này chạy được lâu: dùng hộp chia thuốc theo ngày có nhiều ngăn sáng, trưa, tối. Việc chia sẵn từ chủ nhật cho cả tuần loại bỏ hoàn toàn khả năng nhầm giờ, và bạn cũng biết ngay mình đã uống hay chưa mà không phải cố nhớ. Nếu muốn theo dõi có hệ thống hơn, [App IKIHEALING](../app.html) có phần nhật ký để bạn ghi lại nếp ăn uống và bổ sung mỗi ngày.
 
 ## Ăn uống vẫn là nền, viên bổ sung chỉ là phần bù
 
@@ -137,7 +137,7 @@ Nếu bạn không trả lời được ba câu hỏi sau, hãy tạm dừng và
 :::
 
 :::case Chị N. (Hà Nội) — chỉ đổi giờ, không đổi sản phẩm
-Chị N., 41 tuổi, kể rằng chị uống canxi và sắt cùng lúc mỗi sáng suốt nhiều tháng vì nghĩ uống một lần cho tiện và đỡ quên. Khi được góp ý trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị chỉ thay đổi đúng hai chi tiết: dời canxi sang sau bữa trưa, và uống sắt buổi sáng kèm một cốc nước cam nhỏ. Chị cũng bỏ thói quen uống trà đặc ngay sau bữa sáng, dời sang giữa chiều. Chị nói cái được rõ nhất là chị thấy yên tâm hơn vì biết mình đang làm đúng cách, thay vì uống mà không chắc cơ thể có nhận được không. (Đây là trải nghiệm cá nhân về cách sắp xếp thói quen, không phải lời khuyên y khoa; liều lượng và nhu cầu của mỗi người cần theo chỉ định của bác sĩ.)
+Chị N., 41 tuổi, kể rằng chị uống canxi và sắt cùng lúc mỗi sáng suốt nhiều tháng vì nghĩ uống một lần cho tiện và đỡ quên. Khi được góp ý trong cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chị chỉ thay đổi đúng hai chi tiết: dời canxi sang sau bữa trưa, và uống sắt buổi sáng kèm một cốc nước cam nhỏ. Chị cũng bỏ thói quen uống trà đặc ngay sau bữa sáng, dời sang giữa chiều. Chị nói cái được rõ nhất là chị thấy yên tâm hơn vì biết mình đang làm đúng cách, thay vì uống mà không chắc cơ thể có nhận được không. (Đây là trải nghiệm cá nhân về cách sắp xếp thói quen, không phải lời khuyên y khoa; liều lượng và nhu cầu của mỗi người cần theo chỉ định của bác sĩ.)
 :::
 
 ## Kết: thứ tự quan trọng ngang với số lượng

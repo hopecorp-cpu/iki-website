@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bao-quan-bot-dam-thuc-vat-sau-khi-mo-nap-hero.jpg",
   "hero_alt": "Hộp bột đạm thực vật đã mở nắp cùng muỗng khô đặt trên kệ bếp gỗ khô ráo",
   "reading_min": 14,
@@ -188,7 +188,7 @@ Bạn đã bỏ tiền cho một hộp bột, đã dành thời gian chọn lo�
 
 Nếu chỉ nhớ được một điều từ bài này, hãy nhớ điều quan trọng nhất: **kẻ thù số một của hộp bột là hơi nước.** Muỗng khô, nắp kín, chỗ cất khô ráo. Ba việc đó xử lý được phần lớn vấn đề.
 
-Và nếu bạn đang xây lại nếp ăn uống một cách bài bản hơn, hãy bắt đầu từ việc hiểu cơ địa của chính mình: [bài kiểm tra thể trạng 90 giây](../quiz/) sẽ cho bạn một bản phân tích để biết nên ưu tiên điều gì trước, còn [App IKI](../app.html) giúp ghi lại nhật ký ăn uống hằng ngày nếu bạn muốn theo dõi đều đặn hơn.
+Và nếu bạn đang xây lại nếp ăn uống một cách bài bản hơn, hãy bắt đầu từ việc hiểu cơ địa của chính mình: [bài kiểm tra thể trạng 90 giây](../quiz/) sẽ cho bạn một bản phân tích để biết nên ưu tiên điều gì trước, còn [App IKIHEALING](../app.html) giúp ghi lại nhật ký ăn uống hằng ngày nếu bạn muốn theo dõi đều đặn hơn.
 
 ## Nguồn tham khảo
 

@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng & ăn uống",
   "date": "2026-08-06",
   "updated": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/eat-clean-kieu-viet-van-an-com-hero.jpg",
   "hero_alt": "Mâm cơm Việt giản dị với cơm gạo lứt, rau luộc, đậu phụ và canh",
   "reading_min": 14,
@@ -220,8 +220,8 @@ Chi tiết cuối cùng quan trọng hơn người ta tưởng: hãy để đồ
 Nếu bạn chỉ được chọn một thay đổi cho tuần đầu tiên, hãy chọn: **thêm rau vào mọi bữa**. Không bỏ gì cả, không cấm gì cả — chỉ thêm. Đây là thay đổi ít gây kháng cự nhất, dễ duy trì nhất, và nó tự động đẩy lùi những phần khác trong bữa mà không cần bạn phải ép mình.
 :::
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Đo trên 1.541 đơn hàng thực tế của IKI Healing: **59% số đơn chỉ có một món**, và chỉ **16% số đơn có từ ba món trở lên**. Nói cách khác, phần lớn người Việt bắt đầu bằng một thay đổi nhỏ rồi mới mở rộng — đúng tinh thần của lộ trình bốn tuần dưới đây. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Đo trên 1.541 đơn hàng thực tế của IKIHEALING: **59% số đơn chỉ có một món**, và chỉ **16% số đơn có từ ba món trở lên**. Nói cách khác, phần lớn người Việt bắt đầu bằng một thay đổi nhỏ rồi mới mở rộng — đúng tinh thần của lộ trình bốn tuần dưới đây. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
 :::
 
 ## Bốn tuần đầu tiên: một lộ trình nhẹ
@@ -233,15 +233,15 @@ Nếu bạn chỉ được chọn một thay đổi cho tuần đầu tiên, hã
 
 Sau bốn tuần, bạn không cần "kết thúc" gì cả. Nếu nhịp này dễ chịu, cứ giữ nguyên và để nó trở thành cách ăn mặc định của gia đình. Nếu có tuần nào lệch nhịp vì công việc hay vì đi xa, quay lại từ tuần 1 — không phải bắt đầu lại từ đầu, mà chỉ là quay về bậc thang dễ nhất.
 
-:::case Từ cộng đồng IKI
-Trong các buổi chia sẻ của cộng đồng IKI, câu chuyện lặp lại nhiều nhất không phải "tôi đã bỏ được cơm" mà là "tôi vẫn ăn cơm, chỉ ăn vơi hơn và ăn nhiều rau hơn, và cả nhà ăn chung được". Những thay đổi giữ được lâu gần như luôn là những thay đổi mà mâm cơm gia đình không phải chia làm hai.
+:::case Từ cộng đồng IKIHEALING
+Trong các buổi chia sẻ của cộng đồng IKIHEALING, câu chuyện lặp lại nhiều nhất không phải "tôi đã bỏ được cơm" mà là "tôi vẫn ăn cơm, chỉ ăn vơi hơn và ăn nhiều rau hơn, và cả nhà ăn chung được". Những thay đổi giữ được lâu gần như luôn là những thay đổi mà mâm cơm gia đình không phải chia làm hai.
 :::
 
 ## Kết: ăn sạch không cần bỏ bản sắc bữa cơm Việt
 
 Eat clean kiểu Việt gọn lại trong ba việc: **giữ cấu trúc cơm - canh - rau - đạm, chỉnh tỷ lệ trong mâm, và cắt bớt phần siêu chế biến mới thêm vào trong vài chục năm gần đây**. Bạn không cần bỏ cơm, không cần bỏ nước mắm, không cần mua nguyên liệu nhập khẩu và không cần nấu riêng cho mình một nồi khác.
 
-Cơ địa mỗi người mỗi khác, nên tỷ lệ hợp lý với người này chưa chắc hợp với người kia. Nếu bạn muốn một điểm khởi đầu sát hơn với chính mình, hãy [làm khảo sát thể trạng 90 giây của IKI](https://ikihealing.com/quiz) để nhận bản phân tích sáu chỉ số lối sống và gợi ý điều chỉnh phù hợp. Và nếu muốn đi sâu hơn về nền tảng, hãy đọc thêm [8 nhóm thực phẩm lành mạnh nên có trong bếp](8-nhom-thuc-pham-lanh-manh.html) cùng [ăn uống lành mạnh mà vẫn tiết kiệm](an-uong-lanh-manh-ma-tiet-kiem.html).
+Cơ địa mỗi người mỗi khác, nên tỷ lệ hợp lý với người này chưa chắc hợp với người kia. Nếu bạn muốn một điểm khởi đầu sát hơn với chính mình, hãy [làm khảo sát thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) để nhận bản phân tích sáu chỉ số lối sống và gợi ý điều chỉnh phù hợp. Và nếu muốn đi sâu hơn về nền tảng, hãy đọc thêm [8 nhóm thực phẩm lành mạnh nên có trong bếp](8-nhom-thuc-pham-lanh-manh.html) cùng [ăn uống lành mạnh mà vẫn tiết kiệm](an-uong-lanh-manh-ma-tiet-kiem.html).
 
 ## Nguồn tham khảo
 

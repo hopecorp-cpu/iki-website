@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/van-dong-kieu-nhat-radio-taiso-hero.jpg",
   "hero_alt": "Vận động nhẹ buổi sáng kiểu Nhật",
   "reading_min": 13,
@@ -137,8 +137,8 @@ Quanh chuyện vận động có không ít quan niệm khiến nhiều người
 
 Hiểu đúng về vận động giúp bạn tiếp cận nó một cách nhẹ nhõm và bền bỉ, thay vì áp lực rồi bỏ cuộc.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị N., 32 tuổi, làm thiết kế đồ hoạ và ngồi máy tính gần như cả ngày, chia sẻ rằng chị thường thấy vai gáy cứng mỏi và người uể oải, nhưng cứ nghĩ đến việc "phải đi tập gym" là lại ngại và trì hoãn — chị từng đóng tiền ba tháng phòng tập mà chỉ đi được bốn buổi. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI và biết đến tinh thần vận động nhẹ kiểu Nhật, chị thử một việc rất nhỏ: mỗi sáng dành ba phút vươn vai, xoay cổ và xoay hông theo một video hướng dẫn, cộng với việc đặt hẹn giờ đứng dậy giãn người mỗi giờ ngồi làm. Sau vài tuần giữ nếp này, chị chia sẻ rằng mình cảm thấy vai gáy dễ chịu hơn, người bớt ì ạch và tinh thần trong ngày cũng nhẹ nhõm hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen vận động, không phải lời khuyên y tế hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
+Chị N., 32 tuổi, làm thiết kế đồ hoạ và ngồi máy tính gần như cả ngày, chia sẻ rằng chị thường thấy vai gáy cứng mỏi và người uể oải, nhưng cứ nghĩ đến việc "phải đi tập gym" là lại ngại và trì hoãn — chị từng đóng tiền ba tháng phòng tập mà chỉ đi được bốn buổi. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING và biết đến tinh thần vận động nhẹ kiểu Nhật, chị thử một việc rất nhỏ: mỗi sáng dành ba phút vươn vai, xoay cổ và xoay hông theo một video hướng dẫn, cộng với việc đặt hẹn giờ đứng dậy giãn người mỗi giờ ngồi làm. Sau vài tuần giữ nếp này, chị chia sẻ rằng mình cảm thấy vai gáy dễ chịu hơn, người bớt ì ạch và tinh thần trong ngày cũng nhẹ nhõm hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen vận động, không phải lời khuyên y tế hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Ông S. (Thái Bình) — vài phút vận động sáng cùng nhóm hàng xóm

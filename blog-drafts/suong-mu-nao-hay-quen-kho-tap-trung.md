@@ -8,7 +8,7 @@
   "category": "Thói quen & lối sống",
   "date": "2026-08-06",
   "updated": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suong-mu-nao-hay-quen-kho-tap-trung-hero.jpg",
   "hero_alt": "Bàn làm việc buổi sáng với tách trà ấm và sổ ghi chép bên cửa sổ mờ sương",
   "reading_min": 15,
@@ -148,7 +148,7 @@ Bạn không sửa được thứ mình không nhìn thấy. Thay vì đổi m�
 - **Ngày 6:** Tắt màn hình trước giờ ngủ một tiếng, thay bằng một nghi thức hạ nhiệt.
 - **Ngày 7:** Đọc lại bảy ngày ghi chép và tìm mối liên hệ — ngày nào bạn thấy rõ nhất, hôm trước đó bạn đã làm gì?
 
-Bảng ghi chép này không cần cầu kỳ; vài dòng trong sổ tay hoặc trong điện thoại là đủ. Nếu bạn muốn việc ghi nhẹ hơn và có phần tổng hợp lại theo thời gian, [ứng dụng IKI](https://ikihealing.com/app.html) có nhật ký sức khoẻ ngắn mỗi ngày và biểu đồ xu hướng để bạn nhìn ra quy luật của chính mình thay vì đoán.
+Bảng ghi chép này không cần cầu kỳ; vài dòng trong sổ tay hoặc trong điện thoại là đủ. Nếu bạn muốn việc ghi nhẹ hơn và có phần tổng hợp lại theo thời gian, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có nhật ký sức khoẻ ngắn mỗi ngày và biểu đồ xu hướng để bạn nhìn ra quy luật của chính mình thay vì đoán.
 
 Và vì cơ địa mỗi người mỗi khác — người dễ nóng trong, người dễ lạnh bụng, người ngủ nông, người ăn muộn vẫn ngủ ngon — nên cùng một lời khuyên có thể hợp với người này mà không hợp người kia. Bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có điểm khởi đầu sát với mình hơn.
 
@@ -170,8 +170,8 @@ Phần lớn trường hợp sương mù não gắn với lối sống và cải
 
 Bác sĩ có thể chỉ định các xét nghiệm cơ bản để loại trừ nguyên nhân cần điều trị. Việc đi khám sớm không phải chuyện làm quá — nó tiết kiệm cho bạn nhiều tháng loay hoay.
 
-:::case Câu chuyện thường gặp trong cộng đồng IKI
-Một tình huống lặp lại rất nhiều trong các buổi chia sẻ của cộng đồng IKI: một bạn nhân viên văn phòng mô tả cả năm trời "đầu óc như phủ sương", đã thử đổi vài loại đồ bổ mà không thấy khác. Khi ngồi rà lại lịch sinh hoạt thì lộ ra ba điểm cùng lúc — bỏ bữa sáng, ngày bốn ly cà phê và ly cuối lúc gần 5 giờ chiều, đi ngủ mỗi hôm một giờ khác nhau. Bạn ấy không đổi món ăn nào cả, chỉ dựng lại bữa sáng có đạm, chốt giờ cà phê và cố định giờ dậy. Điều bạn ấy kể lại sau vài tuần là buổi chiều không còn nặng như trước. (Đây là chia sẻ về trải nghiệm thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
+:::case Câu chuyện thường gặp trong cộng đồng IKIHEALING
+Một tình huống lặp lại rất nhiều trong các buổi chia sẻ của cộng đồng IKIHEALING: một bạn nhân viên văn phòng mô tả cả năm trời "đầu óc như phủ sương", đã thử đổi vài loại đồ bổ mà không thấy khác. Khi ngồi rà lại lịch sinh hoạt thì lộ ra ba điểm cùng lúc — bỏ bữa sáng, ngày bốn ly cà phê và ly cuối lúc gần 5 giờ chiều, đi ngủ mỗi hôm một giờ khác nhau. Bạn ấy không đổi món ăn nào cả, chỉ dựng lại bữa sáng có đạm, chốt giờ cà phê và cố định giờ dậy. Điều bạn ấy kể lại sau vài tuần là buổi chiều không còn nặng như trước. (Đây là chia sẻ về trải nghiệm thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết: sương mù thường tan từ những chỗ rất đời thường

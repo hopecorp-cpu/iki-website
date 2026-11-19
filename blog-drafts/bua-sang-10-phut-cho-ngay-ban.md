@@ -7,7 +7,7 @@
   "keyword": "bữa sáng 10 phút cho ngày bận",
   "date": "2026-10-09",
   "updated": "2026-10-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bua-sang-10-phut-cho-ngay-ban-hero.png",
   "hero_alt": "Bánh mì kẹp trứng ốp, dưa chuột và cà chua trên đĩa trắng, bát xôi rắc muối vừng lạc, hai quả chuối và cốc nước lọc trên bàn gỗ sáng",
   "anh_ai": true,
@@ -80,7 +80,7 @@ Khi đã quen nhịp, chị có thể đổi giữa bánh mì, cơm, bún, miế
 
 Chăm mình từ những thói quen nhỏ, mỗi ngày.
 
-Học Viện IKI là chương trình huấn luyện sức khoẻ chủ động của IKI Beauty & Wellness (HOPE CORP). Nếu chị muốn học thêm những thói quen nhỏ như thế này, chị có thể bắt đầu từ [kho kiến thức mở của Học Viện IKI](https://ikihealing.com/hoc-vien.html?utm_source=blog&utm_medium=bai-viet&utm_campaign=bua-sang-10-phut-cho-ngay-ban), không cần mua gì để tham gia.
+Học Viện IKIHEALING là chương trình huấn luyện sức khoẻ chủ động của IKIHEALING Beauty & Wellness (HOPE CORP). Nếu chị muốn học thêm những thói quen nhỏ như thế này, chị có thể bắt đầu từ [kho kiến thức mở của Học Viện IKIHEALING](https://ikihealing.com/hoc-vien.html?utm_source=blog&utm_medium=bai-viet&utm_campaign=bua-sang-10-phut-cho-ngay-ban), không cần mua gì để tham gia.
 
 ## Nguồn tham khảo
 - Harvard T.H. Chan School of Public Health, The Nutrition Source, “Healthy Eating Plate”, rà lần cuối 01/2023, https://nutritionsource.hsph.harvard.edu/healthy-eating-plate/

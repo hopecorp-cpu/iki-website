@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-07",
   "updated": "2026-08-07",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lanh-tay-chan-nen-an-gi-hero.jpg",
   "hero_alt": "Đôi tay ôm tách trà ấm bên cửa sổ buổi sáng",
   "reading_min": 14,
@@ -180,7 +180,7 @@ Chi tiết hơn về lượng nước và nhiệt độ nước phù hợp với
 - **Bữa tối (18h30)**: canh hầm đậu với rau củ, một phần đạm vừa phải, cơm lượng vừa. Ăn trước giờ ngủ ít nhất 3 tiếng.
 - **Trước khi ngủ (21h30)**: ngâm chân nước ấm 10 phút, một cốc trà ấm nhạt nếu bạn có thói quen đó.
 
-Nếu bạn thấy khung này hợp lý nhưng chưa chắc mình thuộc nhóm cơ địa nào, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKI](../quiz/) để nhận gợi ý sát hơn với chính mình thay vì áp một công thức chung.
+Nếu bạn thấy khung này hợp lý nhưng chưa chắc mình thuộc nhóm cơ địa nào, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKIHEALING](../quiz/) để nhận gợi ý sát hơn với chính mình thay vì áp một công thức chung.
 
 ## Những nhóm người cần lưu ý riêng
 
@@ -218,7 +218,7 @@ Thay vì đổi mọi thứ cùng lúc rồi bỏ cuộc sau ba ngày, hãy đi 
 
 **Ngày 13 đến 14 — thêm nếp buổi tối.** Ngâm chân nước ấm 10 phút và đi ngủ sớm hơn 30 phút so với thường lệ.
 
-Sau hai tuần, hãy nhìn lại: buổi sáng thức dậy có bớt lạnh không, buổi chiều còn tụt năng lượng không, giấc ngủ có sâu hơn không. Cách đánh giá tốt nhất không phải cảm giác mơ hồ mà là ghi chép ngắn mỗi ngày một dòng. Nếu muốn tự động hoá phần ghi chép này, [App IKI](../app.html) có nhật ký sức khoẻ 30 giây để bạn theo dõi thay đổi theo tuần.
+Sau hai tuần, hãy nhìn lại: buổi sáng thức dậy có bớt lạnh không, buổi chiều còn tụt năng lượng không, giấc ngủ có sâu hơn không. Cách đánh giá tốt nhất không phải cảm giác mơ hồ mà là ghi chép ngắn mỗi ngày một dòng. Nếu muốn tự động hoá phần ghi chép này, [App IKIHEALING](../app.html) có nhật ký sức khoẻ 30 giây để bạn theo dõi thay đổi theo tuần.
 
 ## Kết: cái ấm đến từ nền tảng, không đến từ một món ăn
 

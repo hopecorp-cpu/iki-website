@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-09-29",
   "updated": "2026-09-29",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngu-day-mat-bi-sung-hero.jpg",
   "hero_alt": "Góc giường buổi sáng với ly nước và gối vải lanh, tông xanh dịu",
   "reading_min": 14,
@@ -127,7 +127,7 @@ Tám nguyên nhân trên thường chồng lên nhau, nên cách hiệu quả nh
 
 Sau bảy ngày, bạn đặt các sáng chấm 2 hoặc 3 cạnh nhau và tìm điểm chung. Rất nhiều chị em phát hiện ra điều mà mình không ngờ: hóa ra sáng nào sưng cũng là sau tối ăn lẩu cùng đồng nghiệp, hoặc sau đêm lướt điện thoại tới một giờ. Khi đã thấy quy luật, việc điều chỉnh trở nên có chủ đích thay vì đoán mò.
 
-Nếu bạn ngại ghi chép trên giấy, [App IKI](https://ikihealing.com/app.html) cho phép ghi nhật ký ăn uống, giấc ngủ và cảm nhận hằng ngày trong vài giây, rồi tự gom thành xu hướng theo tuần để bạn nhìn ra nhịp của mình.
+Nếu bạn ngại ghi chép trên giấy, [App IKIHEALING](https://ikihealing.com/app.html) cho phép ghi nhật ký ăn uống, giấc ngủ và cảm nhận hằng ngày trong vài giây, rồi tự gom thành xu hướng theo tuần để bạn nhìn ra nhịp của mình.
 
 ## Nếp buổi tối giúp sáng hôm sau nhẹ mặt hơn
 
@@ -204,7 +204,7 @@ Ngủ dậy mặt bị sưng là cách cơ thể phản ánh một đêm nằm y
 
 Bạn không cần thay đổi tất cả. Hãy ghi nhật ký bảy buổi sáng để tìm ra một hai nguyên nhân chính của mình, rồi chọn đúng những việc nhỏ nhắm vào đó: bớt nửa bát nước chấm, dừng lướt điện thoại sớm hơn 30 phút, thay lon bia bằng một tách trà ấm, nâng gối cao hơn một chút. Sau một hai tuần, hãy nhìn lại nhật ký và xem buổi sáng của bạn đã khác đi thế nào.
 
-Nếu bạn muốn một nếp buổi tối trọn vẹn hơn, bài [thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html) gợi ý 60 phút thư thả trước khi ngủ. Và nếu bạn muốn biết nếp ăn ngủ nào hợp với cơ địa của mình, hãy dành 90 giây [làm bài kiểm tra thể trạng IKI](https://ikihealing.com/quiz) để nhận gợi ý cá nhân hóa.
+Nếu bạn muốn một nếp buổi tối trọn vẹn hơn, bài [thói quen buổi tối cho phụ nữ bận rộn](thoi-quen-buoi-toi-cho-phu-nu.html) gợi ý 60 phút thư thả trước khi ngủ. Và nếu bạn muốn biết nếp ăn ngủ nào hợp với cơ địa của mình, hãy dành 90 giây [làm bài kiểm tra thể trạng IKIHEALING](https://ikihealing.com/quiz) để nhận gợi ý cá nhân hóa.
 
 ## Nguồn tham khảo
 

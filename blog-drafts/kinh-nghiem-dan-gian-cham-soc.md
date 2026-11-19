@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/kinh-nghiem-dan-gian-cham-soc-hero.jpg",
   "hero_alt": "Gia vị dân gian Việt: gừng sả nghệ mật ong",
   "reading_min": 14,
@@ -63,7 +63,7 @@
 
 Trong ký ức nhiều người Việt, hình ảnh bà hay mẹ pha một ly nước gừng ấm cho cả nhà vào sáng mùa đông, hay dặn "trời lạnh thì ăn cháo hành cho ấm bụng", là một phần rất đỗi thân thuộc. Những lời dặn giản dị ấy không đến từ sách vở hàn lâm, mà từ sự quan sát tinh tế và kinh nghiệm được truyền lại qua nhiều thế hệ. Đó chính là kho tri thức dân gian về cách chăm sóc bản thân, một di sản mềm mại nằm ngay trong gian bếp và nếp sinh hoạt hằng ngày.
 
-Trong nhịp sống hiện đại, đôi khi chúng ta vội vàng gạt bỏ những kinh nghiệm này như thứ "cũ kỹ", hoặc ngược lại, tin theo một cách mù quáng đến mức lạm dụng. Cả hai thái độ đều đáng tiếc. Bài viết này của đội ngũ Health Coach IKI muốn cùng bạn nhìn lại kho kinh nghiệm dân gian Việt trong chăm sóc sức khoẻ hằng ngày với một tinh thần cân bằng: trân trọng phần khôn ngoan, hiểu đúng giới hạn, và áp dụng một cách nhẹ nhàng, hợp với cơ thể của chính mình.
+Trong nhịp sống hiện đại, đôi khi chúng ta vội vàng gạt bỏ những kinh nghiệm này như thứ "cũ kỹ", hoặc ngược lại, tin theo một cách mù quáng đến mức lạm dụng. Cả hai thái độ đều đáng tiếc. Bài viết này của đội ngũ Health Coach IKIHEALING muốn cùng bạn nhìn lại kho kinh nghiệm dân gian Việt trong chăm sóc sức khoẻ hằng ngày với một tinh thần cân bằng: trân trọng phần khôn ngoan, hiểu đúng giới hạn, và áp dụng một cách nhẹ nhàng, hợp với cơ thể của chính mình.
 
 ## Kinh nghiệm dân gian là gì và vì sao đáng trân trọng
 
@@ -132,7 +132,7 @@ Với người bận rộn hôm nay, cái khó không phải là thiếu kinh ng
 
 Bạn có thể bắt đầu rất nhẹ nhàng: một ly nước ấm ngay khi thức dậy; thêm vài lát gừng hay cây sả vào nồi canh những ngày trở lạnh; ưu tiên rau củ đúng mùa khi đi chợ; giữ ấm bụng khi ngủ; và cố gắng ngủ sớm hơn một chút. Không cần làm hết cùng lúc. Chọn một hoặc hai thói quen dễ nhất, duy trì cho thành nếp, rồi mới thêm dần.
 
-Điều thú vị là công nghệ hiện đại có thể trở thành người bạn đồng hành cho những thói quen xưa cũ này. Việc lắng nghe cơ thể và điều chỉnh theo cơ địa vốn là tinh thần cốt lõi của kinh nghiệm dân gian, và cũng là điều dễ bị lãng quên khi ta bận rộn. Nếu bạn muốn một công cụ giúp quan sát bản thân đều đặn hơn, [App IKI](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên, gợi ý cách chăm sóc cá nhân hoá theo thể tạng và ghi lại nếp sinh hoạt mỗi ngày, để bạn dần hiểu điều gì thật sự hợp với mình. Hãy xem đó như một cách hiện đại để nối tiếp sự quan sát tinh tế mà ông bà ta vẫn làm bằng trực giác.
+Điều thú vị là công nghệ hiện đại có thể trở thành người bạn đồng hành cho những thói quen xưa cũ này. Việc lắng nghe cơ thể và điều chỉnh theo cơ địa vốn là tinh thần cốt lõi của kinh nghiệm dân gian, và cũng là điều dễ bị lãng quên khi ta bận rộn. Nếu bạn muốn một công cụ giúp quan sát bản thân đều đặn hơn, [App IKIHEALING](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên, gợi ý cách chăm sóc cá nhân hoá theo thể tạng và ghi lại nếp sinh hoạt mỗi ngày, để bạn dần hiểu điều gì thật sự hợp với mình. Hãy xem đó như một cách hiện đại để nối tiếp sự quan sát tinh tế mà ông bà ta vẫn làm bằng trực giác.
 
 Và trong những buổi tối muốn chậm lại, việc pha một tách trà thảo mộc ấm là một nghi thức dân gian nhỏ mà dễ chịu. Hơi ấm và hương thơm thoảng nhẹ của tách trà giúp khép lại một ngày một cách nhẹ nhàng.
 
@@ -151,7 +151,7 @@ Xoay quanh chủ đề này có vài quan niệm lệch khiến nhiều người
 **"Đã dân gian thì không cần đúng liều, đúng cách."** Ngược lại, cách dùng và liều lượng luôn quan trọng. Một thứ tốt khi dùng đúng cách có thể thành bất lợi khi dùng sai. Sự vừa phải và đúng mực chính là phần tinh tế nhất của kinh nghiệm dân gian.
 
 :::case Chị N. và thói quen ăn uống ấm mỗi sáng
-Chị N., 46 tuổi, bán hàng tạp hoá tại nhà và là thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng chị vốn hay bị lạnh bụng và ăn sáng rất thất thường. Sạp hàng mở từ sáng sớm, khách ra vào liên tục nên có hôm chị chỉ kịp uống vội cốc nước lạnh, có hôm gần trưa mới ăn tạm cái bánh cho qua bữa. Cái nếp "bỏ bữa sáng cho tiện" ấy kéo dài nhiều năm, đến mức chị coi cảm giác cồn cào giữa buổi là chuyện đương nhiên. Sau khi tìm hiểu và nghe những gợi ý nương theo kinh nghiệm dân gian, chị tập một nếp đơn giản, vừa với người bận bán hàng: tối hôm trước vo sẵn gạo và cắt sẵn bí đỏ, cà rốt để sáng chỉ việc bắc nồi cháo. Buổi sáng chị bắt đầu bằng một ly nước ấm pha chút gừng và mật ong khi bụng còn đói, rồi ăn bát cháo nóng trước giờ đông khách, và giữ thói quen ưu tiên đồ ấm, hạn chế đồ lạnh trong ngày. Mấy hôm đầu chị thấy lích kích, nhưng khi đã quen thì mọi việc chỉ mất chừng mười lăm phút. Sau một thời gian giữ nếp này, điều chị thấy rõ nhất là cảm giác bụng dễ chịu hơn vào buổi sáng, và bản thân thấy ăn uống có nề nếp, thong thả hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
+Chị N., 46 tuổi, bán hàng tạp hoá tại nhà và là thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chia sẻ rằng chị vốn hay bị lạnh bụng và ăn sáng rất thất thường. Sạp hàng mở từ sáng sớm, khách ra vào liên tục nên có hôm chị chỉ kịp uống vội cốc nước lạnh, có hôm gần trưa mới ăn tạm cái bánh cho qua bữa. Cái nếp "bỏ bữa sáng cho tiện" ấy kéo dài nhiều năm, đến mức chị coi cảm giác cồn cào giữa buổi là chuyện đương nhiên. Sau khi tìm hiểu và nghe những gợi ý nương theo kinh nghiệm dân gian, chị tập một nếp đơn giản, vừa với người bận bán hàng: tối hôm trước vo sẵn gạo và cắt sẵn bí đỏ, cà rốt để sáng chỉ việc bắc nồi cháo. Buổi sáng chị bắt đầu bằng một ly nước ấm pha chút gừng và mật ong khi bụng còn đói, rồi ăn bát cháo nóng trước giờ đông khách, và giữ thói quen ưu tiên đồ ấm, hạn chế đồ lạnh trong ngày. Mấy hôm đầu chị thấy lích kích, nhưng khi đã quen thì mọi việc chỉ mất chừng mười lăm phút. Sau một thời gian giữ nếp này, điều chị thấy rõ nhất là cảm giác bụng dễ chịu hơn vào buổi sáng, và bản thân thấy ăn uống có nề nếp, thong thả hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết

@@ -7,7 +7,7 @@
   "keyword": "chế độ ăn cho da mụn",
   "category": "dinh-duong",
   "date": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/che-do-an-cho-da-mun-khoa-hoc-noi-gi-hero.jpg",
   "hero_alt": "Đĩa rau xanh, quả bơ và các loại hạt bên cạnh tách trà trên bàn sáng",
   "reading_min": 14,
@@ -128,7 +128,7 @@ Nói về ăn uống mà bỏ qua hai thứ này thì thiếu.
 
 **Căng thẳng.** Mối liên hệ giữa stress và các đợt bùng phát mụn là điều hầu như ai cũng tự quan sát được ở bản thân. Cơ chế đi qua trục nội tiết và cũng qua hành vi: người căng thẳng ngủ kém hơn, ăn nhiều đường hơn, chăm sóc da thất thường hơn. Bài [giữ tinh thần cân bằng](giu-tinh-than-can-bang.html) có vài cách thực tế để hạ nhịp trong ngày.
 
-Nếu bạn muốn theo dõi cả ba yếu tố cùng lúc thay vì nhớ trong đầu, [app IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn để ghi bữa ăn, giấc ngủ và cảm nhận trong vài chục giây rồi tự tổng hợp theo tuần, giúp bạn nhìn ra mẫu hình thay vì đoán.
+Nếu bạn muốn theo dõi cả ba yếu tố cùng lúc thay vì nhớ trong đầu, [app IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn để ghi bữa ăn, giấc ngủ và cảm nhận trong vài chục giây rồi tự tổng hợp theo tuần, giúp bạn nhìn ra mẫu hình thay vì đoán.
 
 ## Khung bốn tuần để tự quan sát
 

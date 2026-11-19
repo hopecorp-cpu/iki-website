@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-gi-cho-nang-luong-ben-hero.jpg",
   "hero_alt": "Bữa ăn cân bằng giữ năng lượng",
   "reading_min": 15,
@@ -135,7 +135,7 @@ Người lao động chân tay, vận động nhiều cần nhiều năng lượ
 
 Người có hệ tiêu hóa nhạy cảm nên ưu tiên các món dễ tiêu, ăn từ tốn và chia phần vừa phải, tránh ăn quá no một lúc. Đạm thực vật và các món nấu chín kỹ thường nhẹ nhàng hơn với nhóm này.
 
-Việc ăn theo thể tạng không phải quy tắc cứng nhắc, mà là một cách quan sát và tinh chỉnh dần. Nếu bạn có bệnh nền hoặc chế độ ăn đặc biệt, hãy trao đổi với chuyên gia dinh dưỡng hoặc bác sĩ để có gợi ý phù hợp riêng. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp ăn giữ sức nào hợp với mình. Nếu bạn muốn một công cụ nhắc nhở nếp ăn uống và ghi lại thói quen mỗi ngày, [App IKI](../app.html) có thể giúp bạn duy trì đều đặn hơn.
+Việc ăn theo thể tạng không phải quy tắc cứng nhắc, mà là một cách quan sát và tinh chỉnh dần. Nếu bạn có bệnh nền hoặc chế độ ăn đặc biệt, hãy trao đổi với chuyên gia dinh dưỡng hoặc bác sĩ để có gợi ý phù hợp riêng. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp ăn giữ sức nào hợp với mình. Nếu bạn muốn một công cụ nhắc nhở nếp ăn uống và ghi lại thói quen mỗi ngày, [App IKIHEALING](../app.html) có thể giúp bạn duy trì đều đặn hơn.
 
 ## Những hiểu lầm về năng lượng và ăn uống
 
@@ -154,7 +154,7 @@ Quanh chuyện ăn để có sức có không ít quan niệm lệch lạc. Hãy
 Hiểu đúng về năng lượng và ăn uống giúp bạn ra quyết định tự tin hơn, thay vì chạy theo những cú tỉnh táo ngắn ngủi rồi lại mệt.
 
 :::case Chị Thắm (31 tuổi, giao dịch viên ngân hàng, Hà Nội) — sửa lại bữa sáng trước tiên
-Chị Thắm, 31 tuổi, làm giao dịch viên tại một chi nhánh ngân hàng ở Hà Nội, nơi buổi sáng gần như không có phút nào ngơi khách. Chị kể rằng mình từng có thói quen ăn sáng qua loa bằng bánh ngọt mua vội ở sảnh và một cốc cà phê sữa, đến trưa đói cồn cào nên ăn thật nhiều cơm, rồi cả buổi chiều vật vờ buồn ngủ, phải với tay lấy trà sữa cho tỉnh. Có giai đoạn chị đặt trà sữa bốn, năm buổi chiều mỗi tuần, đến mức chị bán hàng quen còn nhớ cả công thức "ít đá, thêm trân châu" của chị. Điều làm chị muốn thay đổi là những buổi chiều kiểm quỹ, việc cần tập trung nhất thì đầu óc lại lơ mơ nhất. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị thử điều chỉnh từng bước: luộc sẵn trứng từ tối hôm trước để thêm đạm vào bữa sáng, ăn trưa vừa phải và gọi thêm một phần rau, còn ngăn kéo ở quầy thì để hộp hạt với vài quả chuối mua đầu tuần. Tuần đầu chị vẫn "phá lệ" hai lần, nhưng chị không bỏ cuộc mà chỉ quay lại nếp cũ vào hôm sau. Vài tuần sau, chị chia sẻ rằng buổi chiều của mình tỉnh táo hơn, bớt cơn buồn ngủ díp mắt và ít thèm đồ ngọt hơn trước. Giờ trà sữa với chị thành món vui vẻ cuối tuần thay vì "phao cứu sinh" mỗi chiều. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
+Chị Thắm, 31 tuổi, làm giao dịch viên tại một chi nhánh ngân hàng ở Hà Nội, nơi buổi sáng gần như không có phút nào ngơi khách. Chị kể rằng mình từng có thói quen ăn sáng qua loa bằng bánh ngọt mua vội ở sảnh và một cốc cà phê sữa, đến trưa đói cồn cào nên ăn thật nhiều cơm, rồi cả buổi chiều vật vờ buồn ngủ, phải với tay lấy trà sữa cho tỉnh. Có giai đoạn chị đặt trà sữa bốn, năm buổi chiều mỗi tuần, đến mức chị bán hàng quen còn nhớ cả công thức "ít đá, thêm trân châu" của chị. Điều làm chị muốn thay đổi là những buổi chiều kiểm quỹ, việc cần tập trung nhất thì đầu óc lại lơ mơ nhất. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKIHEALING, chị thử điều chỉnh từng bước: luộc sẵn trứng từ tối hôm trước để thêm đạm vào bữa sáng, ăn trưa vừa phải và gọi thêm một phần rau, còn ngăn kéo ở quầy thì để hộp hạt với vài quả chuối mua đầu tuần. Tuần đầu chị vẫn "phá lệ" hai lần, nhưng chị không bỏ cuộc mà chỉ quay lại nếp cũ vào hôm sau. Vài tuần sau, chị chia sẻ rằng buổi chiều của mình tỉnh táo hơn, bớt cơn buồn ngủ díp mắt và ít thèm đồ ngọt hơn trước. Giờ trà sữa với chị thành món vui vẻ cuối tuần thay vì "phao cứu sinh" mỗi chiều. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Anh Lộc (45 tuổi, chủ cửa hàng vật liệu xây dựng, Việt Trì) — cân lại bữa trưa để chiều đỡ đuối

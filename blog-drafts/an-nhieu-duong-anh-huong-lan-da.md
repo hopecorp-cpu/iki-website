@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-09-04",
   "updated": "2026-09-04",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-nhieu-duong-anh-huong-lan-da-hero.jpg",
   "hero_alt": "Trái cây tươi và hạt trong hộp mang đi làm, thay cho món ngọt xế chiều",
   "reading_min": 12,
@@ -139,7 +139,7 @@ Nguyên tắc chung: không cấm, mà đổi. Có sẵn một lựa chọn tron
 
 **Sữa hạt không đường.** Sữa đậu nành, sữa hạnh nhân, sữa óc chó loại không thêm đường vừa cho cảm giác "có gì đó để uống" giống trà sữa, vừa mang thêm chút đạm. Đây thường là bước chuyển dễ nhất cho người quen uống trà sữa mỗi chiều, vì nó giữ được thói quen cầm ly.
 
-**Một tách trà thảo mộc không đường.** Cái ta cần lúc ba giờ chiều nhiều khi không phải calo mà là một khoảng nghỉ có nghi thức: đun nước, pha, ngồi lại năm phút. Nếu bạn đang tìm một lựa chọn thay cho cà phê sữa buổi sáng, [gian hàng IKI](https://ikihealing.com/shop/) cũng có vài loại thức uống ấm cho khung giờ đó.
+**Một tách trà thảo mộc không đường.** Cái ta cần lúc ba giờ chiều nhiều khi không phải calo mà là một khoảng nghỉ có nghi thức: đun nước, pha, ngồi lại năm phút. Nếu bạn đang tìm một lựa chọn thay cho cà phê sữa buổi sáng, [gian hàng IKIHEALING](https://ikihealing.com/shop/) cũng có vài loại thức uống ấm cho khung giờ đó.
 
 **Một ly đạm pha nhanh vào những hôm bữa trưa hụt.** Nếu bữa trưa của bạn hôm đó gần như chỉ có tinh bột, cơn thèm chiều gần như chắc chắn sẽ tới. Một nguồn [đạm thực vật](https://trueveganprotein.com) pha nhanh là cách bù phần đạm còn thiếu cho ngày bận, đứng ở vai một nguồn đạm tiện lợi trong khẩu phần chứ không phải một món ăn vặt hay một cách thay thế bữa ăn.
 
@@ -189,7 +189,7 @@ Cắt phăng mọi thứ ngọt trong một ngày là công thức quen thuộc 
 
 **Ngày 7: xem lại và giữ những gì hợp.** Việc nào bạn làm được mà không thấy nặng nề thì giữ; việc nào quá sức thì bỏ hoặc làm nhẹ hơn. Mục tiêu là một nếp bạn duy trì được nhiều tháng, không phải một tuần hoàn hảo rồi trở lại như cũ.
 
-Nếu bạn muốn có gợi ý riêng theo nhịp sống và thể trạng của mình thay vì một lộ trình chung, [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ đưa ra hướng gợi ý cụ thể hơn, và [ứng dụng IKI](https://ikihealing.com/app.html) là nơi theo dõi những tín hiệu này đều đặn theo ngày.
+Nếu bạn muốn có gợi ý riêng theo nhịp sống và thể trạng của mình thay vì một lộ trình chung, [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ đưa ra hướng gợi ý cụ thể hơn, và [ứng dụng IKIHEALING](https://ikihealing.com/app.html) là nơi theo dõi những tín hiệu này đều đặn theo ngày.
 
 ## Khi nào nên gặp bác sĩ
 

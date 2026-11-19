@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-09-30",
   "updated": "2026-09-30",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-ca-phe-co-bi-den-da-khong-hero.jpg",
   "hero_alt": "Minh hoạ tách cà phê đen và tách trà thảo mộc trên mặt bàn gỗ trong nắng sớm",
   "reading_min": 14,
@@ -178,7 +178,7 @@ Thay vì bỏ hẳn cà phê — điều khiến nhiều người đau đầu, c
 Phần lớn chị em không thực sự cần ly cà phê thứ hai. Thứ ta cần lúc 14 giờ thường là một khoảng nghỉ, một thứ ấm trong tay, và một cớ để đứng dậy khỏi bàn làm việc. Những lựa chọn dưới đây đáp ứng được cả ba mà không lấy mất giấc ngủ đêm nay.
 
 - **Trà thảo mộc ban ngày.** Đây là lựa chọn hợp cho những ai muốn giữ nghi thức "pha một thứ gì đó ấm" mà không thêm caffeine vào buổi chiều.
-- **Thức uống thay cà phê.** Nếu bạn nhớ đúng hương vị rang và cảm giác một ly đậm, có thể thử các [thức uống thay cà phê của IKI](https://ikihealing.com/shop/) để giữ nghi thức quen mà giảm dần lượng caffeine trong ngày.
+- **Thức uống thay cà phê.** Nếu bạn nhớ đúng hương vị rang và cảm giác một ly đậm, có thể thử các [thức uống thay cà phê của IKIHEALING](https://ikihealing.com/shop/) để giữ nghi thức quen mà giảm dần lượng caffeine trong ngày.
 - **Nước ấm với vài lát gừng hoặc chanh**, không đường — đơn giản, rẻ, có sẵn ở hầu hết văn phòng.
 - **Một ly nước lọc và mười phút đi bộ.** Nghe đơn giản đến mức buồn cười, nhưng rất nhiều cơn buồn ngủ buổi chiều là do ngồi lâu và thiếu nước, không phải do thiếu caffeine.
 
@@ -204,7 +204,7 @@ Cà phê là thức uống an toàn với phần lớn người trưởng thành
 
 - Đang mang thai, đang cho con bú hoặc đang chuẩn bị mang thai — mức caffeine khuyến nghị thấp hơn người bình thường
 - Đang có bệnh tim mạch, rối loạn nhịp tim, huyết áp đang theo dõi, bệnh dạ dày hoặc trào ngược
-- Đang dùng thuốc điều trị dài ngày — một số thuốc tương tác với caffeine
+- Đang dùng thuốc theo chỉ định dài ngày — một số thuốc tương tác với caffeine
 - Hay mất ngủ, lo âu, hồi hộp kéo dài
 - Da xuất hiện đốm sắc tố mới, thay đổi hình dạng hoặc màu sắc nhanh, hoặc mảng sẫm màu lan rộng không rõ lý do — đây là việc của bác sĩ da liễu, không phải của chế độ ăn uống
 
@@ -214,7 +214,7 @@ Uống cà phê không làm đen da. Màu da do melanin quyết định, và mel
 
 Nhưng câu nhắc của mẹ không vô cớ. Những thứ đi quanh ly cà phê — sữa đặc nhiều đường, ly uống quá muộn làm mất giấc ngủ, thói quen uống cà phê thay nước, và buổi sáng ngồi nắng không che chắn — thì có thể làm da trông xỉn và mệt thật. Tin tốt là cả bốn thứ đó đều điều chỉnh được mà không cần từ bỏ ly cà phê bạn thích: chốt giờ đóng cửa caffeine, giảm dần sữa đặc, uống kèm nước lọc, và chuyển chỗ ngồi vào bóng râm.
 
-Nếu bạn muốn có một bức tranh rõ hơn về thể trạng và nhịp sống hiện tại của mình — để biết nên giữ ly cà phê ở mức nào, và nên ưu tiên điều chỉnh gì trước — hãy dành 90 giây để [kiểm tra thể trạng](https://ikihealing.com/quiz). Và nếu bạn muốn theo dõi giấc ngủ, nước uống và nhịp ăn mỗi ngày mà không phải ghi chép tay, [App IKI](https://ikihealing.com/app.html) có thể đồng hành cùng bạn.
+Nếu bạn muốn có một bức tranh rõ hơn về thể trạng và nhịp sống hiện tại của mình — để biết nên giữ ly cà phê ở mức nào, và nên ưu tiên điều chỉnh gì trước — hãy dành 90 giây để [kiểm tra thể trạng](https://ikihealing.com/quiz). Và nếu bạn muốn theo dõi giấc ngủ, nước uống và nhịp ăn mỗi ngày mà không phải ghi chép tay, [App IKIHEALING](https://ikihealing.com/app.html) có thể đồng hành cùng bạn.
 
 ## Nguồn tham khảo
 

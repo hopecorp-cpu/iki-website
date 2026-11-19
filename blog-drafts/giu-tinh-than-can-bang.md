@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/giu-tinh-than-can-bang-hero.jpg",
   "hero_alt": "Không gian tĩnh lặng giữ tinh thần cân bằng",
   "reading_min": 14,
@@ -151,7 +151,7 @@ Bạn có thể tạo cho mình một chuỗi việc quen thuộc, lặp lại m
 
 Điều làm nên sức mạnh của một nghi thức là sự lặp lại. Khi bạn thực hiện cùng một chuỗi việc mỗi tối, cơ thể dần học được rằng "đây là lúc thư giãn", và tự động chuyển sang trạng thái nghỉ. Bạn không cần một nghi thức cầu kỳ hay dài, chỉ cần vài phút đều đặn là đủ để tạo ranh giới rõ ràng giữa phần bận rộn và phần yên tĩnh của ngày.
 
-Nếu muốn có một người bạn đồng hành để duy trì những thói quen nhỏ này, [App IKI](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên, giúp bạn ghi lại tâm trạng và nếp sinh hoạt mỗi ngày, để dần hiểu điều gì thật sự giúp mình cân bằng.
+Nếu muốn có một người bạn đồng hành để duy trì những thói quen nhỏ này, [App IKIHEALING](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên, giúp bạn ghi lại tâm trạng và nếp sinh hoạt mỗi ngày, để dần hiểu điều gì thật sự giúp mình cân bằng.
 
 :::case Anh K. (Hải Phòng) — người kỹ sư học cách "chùng dây" giữa ngày
 Anh K., 43 tuổi, kỹ sư công trình ở Hải Phòng, chia sẻ rằng trước đây anh thường kết thúc ngày trong trạng thái căng đầu và dễ bực dọc với vợ con, dù công việc không có gì bất thường. Nghề của anh vốn nhiều cuộc gọi và phát sinh: sáng chạy ra công trường, chiều về ngồi báo cáo, điện thoại reo cả trong bữa cơm. Có lần con gái hỏi bài mà anh gắt lên vô cớ, xong lại ngồi ân hận, và chính khoảnh khắc đó khiến anh muốn thay đổi. Ngồi nhìn lại, anh nhận ra mình gần như không có lúc nào thật sự nghỉ: buổi sáng vội vàng, cả ngày dán mắt vào màn hình và điện thoại, tối lại cuộn mạng xã hội đến khuya. Anh bắt đầu bằng những việc rất nhỏ và đều đặn: mở đầu ngày bằng một cốc nước ấm thay vì cầm ngay điện thoại, trưa đứng dậy đi bộ vài phút quanh công trường, chiều về ngồi yên thở chậm dăm phút trong xe trước khi bước vào nhà. Buổi tối anh tạo một khoảng lặng: cất điện thoại, uống một tách trà thảo mộc ấm rồi mới đi ngủ. Vài tuần đầu anh hay quên, phải nhờ vợ nhắc, nhưng dần dần chuỗi việc ấy thành nếp. Sau vài tháng, điều anh thấy rõ nhất không phải là công việc bớt đi, mà là bản thân bớt căng hơn, dễ chịu hơn với mọi người và bữa cơm tối có tiếng cười trở lại. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)

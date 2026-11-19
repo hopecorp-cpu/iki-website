@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-04",
   "updated": "2026-08-04",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-dam-thuc-vat-co-hai-than-khong-hero.jpg",
   "hero_alt": "Một muỗng bột đạm thực vật bên ly nước và rau xanh trên khăn vải",
   "reading_min": 14,
@@ -145,7 +145,7 @@ Nếu bạn thuộc nhóm khoẻ mạnh và muốn bổ sung đạm một cách 
 
 **Theo dõi phản ứng của chính mình.** Đầy bụng, khó tiêu, thay đổi thói quen đi vệ sinh là những tín hiệu nên giảm liều hoặc đổi cách dùng. Cơ thể mỗi người phản hồi khác nhau, và tín hiệu của chính bạn đáng tin hơn lời khuyên chung chung.
 
-Việc theo dõi phản ứng theo ngày là thứ rất dễ quên. Đây cũng là lý do [App IKI](https://ikihealing.com/app.html) được xây dựng theo hướng ghi nhật ký ngắn mỗi ngày — vài giây để lưu lại cảm nhận, rồi nhìn lại xu hướng sau vài tuần, thay vì cố nhớ bằng trí nhớ.
+Việc theo dõi phản ứng theo ngày là thứ rất dễ quên. Đây cũng là lý do [App IKIHEALING](https://ikihealing.com/app.html) được xây dựng theo hướng ghi nhật ký ngắn mỗi ngày — vài giây để lưu lại cảm nhận, rồi nhìn lại xu hướng sau vài tuần, thay vì cố nhớ bằng trí nhớ.
 
 ## Đạm thực vật trong bữa ăn người Việt
 

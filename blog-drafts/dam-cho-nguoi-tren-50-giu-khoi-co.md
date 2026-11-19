@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-30",
   "updated": "2026-07-30",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dam-cho-nguoi-tren-50-giu-khoi-co-hero.jpg",
   "hero_alt": "Bữa ăn giàu đạm cho người trung niên với đậu hũ, cá và rau xanh",
   "reading_min": 14,
@@ -240,7 +240,7 @@ Nếu bạn muốn thử điều chỉnh, đây là một lộ trình nhẹ nhà
 
 Sau một tuần, hãy tự hỏi vài câu đơn giản: leo cầu thang có đỡ hụt hơi hơn không, có thấy no lâu hơn giữa các bữa không, có thấy dễ duy trì không. Những cảm nhận này quan trọng hơn bất kỳ con số nào, vì thứ bạn cần là một nếp ăn giữ được lâu dài chứ không phải một đợt ăn kiêng ngắn hạn.
 
-Nếu bạn muốn có gợi ý sát với thể trạng của riêng mình, [App IKI](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn và đưa gợi ý cá nhân hoá theo thói quen bạn ghi lại.
+Nếu bạn muốn có gợi ý sát với thể trạng của riêng mình, [App IKIHEALING](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn và đưa gợi ý cá nhân hoá theo thói quen bạn ghi lại.
 
 ## Kết: giữ cơ là giữ sự tự chủ
 
@@ -252,6 +252,6 @@ Không cần thay đổi tất cả trong một ngày. Thêm một quả trứng
 
 *Nguồn tham khảo: Báo Sức khoẻ & Đời sống (Người trên 50 tuổi cần bao nhiêu protein mỗi ngày để hạn chế mất cơ; Sau tuổi 50, nên ăn bao nhiêu protein sau khi tập để giữ cơ), Tuổi Trẻ Online (Người lớn tuổi cần bao nhiêu chất đạm mỗi ngày). Các mức đạm nêu trong bài là giá trị tham khảo phổ biến dành cho người khoẻ mạnh; nhu cầu cụ thể của từng người do bác sĩ hoặc chuyên gia dinh dưỡng xác định. Nội dung được biên soạn lại phục vụ mục đích cung cấp kiến thức tham khảo.*
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Nếu bạn thấy mình cần hỏi khá nhiều trước khi chọn, đó là chuyện bình thường. Đo trên **2.789 cuộc tư vấn thật** của IKI Healing, một quyết định mua sản phẩm sức khoẻ đi kèm **trung vị 16 lượt tin nhắn** qua lại, và 10% số cuộc vượt 36 lượt tin. Xem đầy đủ trong [Báo cáo hành trình hỏi đáp trước khi mua](bao-cao-hanh-trinh-hoi-dap-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Nếu bạn thấy mình cần hỏi khá nhiều trước khi chọn, đó là chuyện bình thường. Đo trên **2.789 cuộc tư vấn thật** của IKIHEALING, một quyết định mua sản phẩm sức khoẻ đi kèm **trung vị 16 lượt tin nhắn** qua lại, và 10% số cuộc vượt 36 lượt tin. Xem đầy đủ trong [Báo cáo hành trình hỏi đáp trước khi mua](bao-cao-hanh-trinh-hoi-dap-2026.html).
 :::

@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng & ăn uống",
   "date": "2026-08-14",
   "updated": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tre-em-uong-dam-thuc-vat-duoc-khong-hero.jpg",
   "hero_alt": "Ly sữa hạt bên các bát nhỏ đựng đậu nành, đậu Hà Lan và yến mạch trên bàn bếp gỗ sáng",
   "reading_min": 15,
@@ -156,7 +156,7 @@ Tổng cộng đã vượt nhu cầu một cách thoải mái, và **không cầ
 Bài [Ăn sáng cho trẻ đi học](an-sang-cho-tre-di-hoc.html) có thêm nhiều gợi ý bữa sáng nhanh mà vẫn đủ chất cho buổi học.
 
 :::note Hiểu cơ địa trước khi thay đổi thực đơn cả nhà
-Mỗi thành viên trong gia đình có nhu cầu khác nhau — trẻ đang lớn, người lớn đi làm, ông bà tuổi cao. Thay vì áp một thực đơn chung, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) cho người lớn trong nhà để có gợi ý sát hơn, và theo dõi bữa ăn hằng ngày cùng [App IKI](https://ikihealing.com/app.html). Riêng phần dinh dưỡng của trẻ, hãy để bác sĩ nhi hoặc chuyên gia dinh dưỡng đánh giá.
+Mỗi thành viên trong gia đình có nhu cầu khác nhau — trẻ đang lớn, người lớn đi làm, ông bà tuổi cao. Thay vì áp một thực đơn chung, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) cho người lớn trong nhà để có gợi ý sát hơn, và theo dõi bữa ăn hằng ngày cùng [App IKIHEALING](https://ikihealing.com/app.html). Riêng phần dinh dưỡng của trẻ, hãy để bác sĩ nhi hoặc chuyên gia dinh dưỡng đánh giá.
 :::
 
 ## Những hiểu lầm phổ biến của cha mẹ

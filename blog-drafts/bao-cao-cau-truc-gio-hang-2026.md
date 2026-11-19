@@ -1,13 +1,13 @@
 ---json
 {
-  "title": "Báo cáo cấu trúc giỏ hàng sức khoẻ: người Việt mua thử một món hay mua cả bộ — theo dữ liệu của IKI by HOPE CORP",
+  "title": "Báo cáo cấu trúc giỏ hàng sức khoẻ: người Việt mua thử một món hay mua cả bộ — theo dữ liệu của IKIHEALING by HOPE CORP",
   "seo_title": "Người Việt mua thử một món hay mua cả bộ sản phẩm sức khoẻ?",
   "slug": "bao-cao-cau-truc-gio-hang-2026",
   "description": "59% đơn hàng chỉ có một món, 16% đơn từ ba món trở lên, 6% đơn có món tặng kèm — đo trên 1.541 đơn hàng thật. Chân dung người tiêu dùng thận trọng của ngành sức khoẻ chủ động, số liệu mở cho báo chí trích dẫn.",
   "keyword": "người Việt mua sản phẩm sức khoẻ như thế nào",
   "category": "bao-cao",
   "date": "2026-08-12",
-  "author": "Đội ngũ IKI Healing",
+  "author": "Đội ngũ IKIHEALING",
   "hero_local": "assets/blog/bao-cao-cau-truc-gio-hang-2026-hero.jpg",
   "hero_alt": "Giỏ mây nhỏ đặt trên mặt bàn gỗ sáng, bên cạnh là vài hũ thuỷ tinh và tờ giấy in biểu đồ cột, ánh sáng tự nhiên buổi sáng",
   "reading_min": 8,
@@ -23,7 +23,7 @@
     },
     {
       "q": "Báo chí có được trích dẫn không?",
-      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
+      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKIHEALING, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
     }
   ],
   "anh_ai": true
@@ -32,7 +32,7 @@
 
 Trong ngành bán lẻ, giỏ hàng lớn là chỉ dấu quen thuộc của một thương vụ tốt: khách mua càng nhiều món một lần thì chi phí bán hàng trên mỗi đồng doanh thu càng thấp. Toàn bộ nghề bán hàng hiện đại được xây quanh ý đó — combo, bộ sản phẩm, gợi ý mua kèm.
 
-Ngành sức khoẻ chủ động lại không vận hành như vậy. Đây là báo cáo thứ bảy trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing, và nó trả lời một câu rất cụ thể: khi một người Việt quyết định mua sản phẩm sức khoẻ, họ mua thử một món hay sắm hẳn cả bộ?
+Ngành sức khoẻ chủ động lại không vận hành như vậy. Đây là báo cáo thứ bảy trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKIHEALING, và nó trả lời một câu rất cụ thể: khi một người Việt quyết định mua sản phẩm sức khoẻ, họ mua thử một món hay sắm hẳn cả bộ?
 
 ## Tổng quan
 
@@ -40,7 +40,7 @@ Ngành sức khoẻ chủ động lại không vận hành như vậy. Đây là
 - **16% đơn từ ba món trở lên.**
 - **6% đơn có món tặng kèm** (chính sách tặng quà thay vì giảm giá).
 
-Cỡ mẫu: **1.541 đơn hàng**. Kỳ dữ liệu tính đến đầu tháng 8/2026. Nguồn là dữ liệu vận hành nội bộ của IKI by HOPE CORP.
+Cỡ mẫu: **1.541 đơn hàng**. Kỳ dữ liệu tính đến đầu tháng 8/2026. Nguồn là dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP.
 
 ## 1. Gần sáu trên mười lần mua là một lần thử
 
@@ -70,7 +70,7 @@ Một chi tiết nữa của bảng số này đáng được ghi nhận thay v�
 
 **6% số đơn có món tặng kèm.** Đây là con số duy nhất trong báo cáo phản ánh chính sách của doanh nghiệp nhiều hơn phản ánh hành vi của người mua, nên cần đọc kèm bối cảnh.
 
-IKI Healing áp dụng chính sách **tặng quà thay vì giảm giá theo phần trăm**. Lý do không phải marketing: hạ giá niêm yết là một quyết định gần như không thể đảo ngược — khách đã quen mức giá thấp thì mọi lần bán sau đều bị so với mức đó, còn hàng đại lý và hàng bán lẻ thì rơi vào cảnh chênh nhau khó giải thích. Tặng thêm một món giữ được mặt bằng giá, đồng thời cho người mới một cơ hội thử thứ mà họ chưa chủ động chọn.
+IKIHEALING áp dụng chính sách **tặng quà thay vì giảm giá theo phần trăm**. Lý do không phải marketing: hạ giá niêm yết là một quyết định gần như không thể đảo ngược — khách đã quen mức giá thấp thì mọi lần bán sau đều bị so với mức đó, còn hàng đại lý và hàng bán lẻ thì rơi vào cảnh chênh nhau khó giải thích. Tặng thêm một món giữ được mặt bằng giá, đồng thời cho người mới một cơ hội thử thứ mà họ chưa chủ động chọn.
 
 Con số 6% cho thấy công cụ này đang được dùng như một **công cụ chọn lọc, không phải công cụ đại trà**. Nếu quà đi kèm phần lớn số đơn thì nó không còn là quà nữa mà đã trở thành một phần của giá — đúng cái bẫy mà chính sách này được lập ra để tránh.
 
@@ -92,7 +92,7 @@ Tương tự, báo cáo không nói gì về việc người mua một món có 
 
 ## Nguồn và phương pháp
 
-- **Nguồn:** dữ liệu vận hành nội bộ của IKI by HOPE CORP — hệ thống ghi nhận đơn hàng theo từng dòng hàng.
+- **Nguồn:** dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP — hệ thống ghi nhận đơn hàng theo từng dòng hàng.
 - **Cỡ mẫu:** 1.541 đơn hàng, thuộc 1.065 khách hàng.
 - **Kỳ dữ liệu:** tính đến đầu tháng 8/2026.
 - **Cách đo:** đếm số dòng hàng khác nhau trên mỗi đơn, rồi phân đơn vào ba nhóm được công bố: đơn một món, đơn từ ba món trở lên, và đơn có món tặng kèm. Tỉ lệ phần trăm tính trên tổng 1.541 đơn. Nhóm "đơn có món tặng kèm" chồng lấn với hai nhóm kia và không phải một nhóm loại trừ.
@@ -112,7 +112,7 @@ Nếu bạn đang ở đúng nhóm "chưa biết nên bắt đầu từ món nà
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKIHEALING, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
 Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.

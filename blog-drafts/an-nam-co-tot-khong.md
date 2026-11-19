@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-04",
   "updated": "2026-08-04",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-nam-co-tot-khong-hero.jpg",
   "hero_alt": "Nấm hương, nấm rơm và nấm kim châm tươi bày trên thớt gỗ",
   "reading_min": 14,

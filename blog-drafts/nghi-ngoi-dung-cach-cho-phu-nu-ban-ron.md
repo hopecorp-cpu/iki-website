@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-10-02",
   "updated": "2026-10-02",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nghi-ngoi-dung-cach-cho-phu-nu-ban-ron-hero.jpg",
   "hero_alt": "Góc ghế đọc sách cạnh cửa sổ với gối và chăn màu xanh lá dịu, chậu cây nhỏ trên bậu cửa",
   "reading_min": 13,
@@ -215,7 +215,7 @@ Không cần đổi cả nhịp sống. Hãy thử một tuần với mỗi ngà
 
 Cuối tuần, chấm nhanh ba thứ theo thang 1 đến 5 so với tuần trước: năng lượng buổi sáng, độ dễ cáu buổi tối, độ dễ vào giấc. Nếu một ngày nào đó trong tuần chị thấy dễ chịu rõ hơn, giữ lại đúng việc của ngày hôm đó và lặp lại tuần sau.
 
-Để không phải nhớ hết, chị có thể dùng [App IKI](https://ikihealing.com/app.html) để ghi nhật ký năng lượng và giấc ngủ mỗi ngày trong 30 giây. Sau vài tuần, nhìn lại sẽ thấy rõ quy luật cái mệt của chính mình: mệt nhất vào ngày nào, sau việc gì, và khoảng nghỉ nào thật sự giúp mình hồi lại.
+Để không phải nhớ hết, chị có thể dùng [App IKIHEALING](https://ikihealing.com/app.html) để ghi nhật ký năng lượng và giấc ngủ mỗi ngày trong 30 giây. Sau vài tuần, nhìn lại sẽ thấy rõ quy luật cái mệt của chính mình: mệt nhất vào ngày nào, sau việc gì, và khoảng nghỉ nào thật sự giúp mình hồi lại.
 
 ## Khi nào cái mệt cần được bác sĩ xem
 

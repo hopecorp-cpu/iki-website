@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/sau-khi-uong-khang-sinh-nen-an-gi-hero.jpg",
   "hero_alt": "Bát sữa chua trắng, chuối và cháo ấm đặt trên bàn bếp sáng dịu",
   "reading_min": 14,

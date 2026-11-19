@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-08-31",
   "updated": "2026-08-31",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-thao-moc-viet-va-tra-nhap-khau-hero.jpg",
   "hero_alt": "Hai hộp trà thảo mộc đặt cạnh nhau trên bàn gỗ, một tách trà ấm bên cạnh",
   "reading_min": 13,
@@ -172,7 +172,7 @@ Sau khi chấm đủ bảy tiêu chí, bạn sẽ thấy phần lớn quyết đ
 
 Trà trong nước thường có lợi thế tự nhiên ở độ tươi và ở khả năng truy nguồn tới tận hợp tác xã, khi đơn vị sản xuất chịu ghi tên mình lên bao bì. Trà nhập khẩu thường có lợi thế ở độ ổn định hương vị giữa các lô. Cả hai lợi thế đó chỉ thành hiện thực khi bao bì đủ tốt và hàng chưa nằm kho quá lâu — hai thứ bạn kiểm được ngay tại quầy trong ba mươi giây.
 
-Việc nhỏ nên làm ngay hôm nay: lấy hộp trà đang có trong bếp xuống, lật đáy hộp lên và tìm ngày đóng gói. Nếu nó đã quá một năm, đó là lý do cụ thể để lần mua sau bạn chọn kỹ hơn. Và nếu bạn muốn chọn loại hợp nếp sinh hoạt của mình thay vì chọn theo cảm tính, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKI](https://ikihealing.com/quiz) — kết quả sẽ cho bạn một điểm xuất phát rõ hơn nhiều so với việc đứng đoán trước kệ hàng.
+Việc nhỏ nên làm ngay hôm nay: lấy hộp trà đang có trong bếp xuống, lật đáy hộp lên và tìm ngày đóng gói. Nếu nó đã quá một năm, đó là lý do cụ thể để lần mua sau bạn chọn kỹ hơn. Và nếu bạn muốn chọn loại hợp nếp sinh hoạt của mình thay vì chọn theo cảm tính, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKIHEALING](https://ikihealing.com/quiz) — kết quả sẽ cho bạn một điểm xuất phát rõ hơn nhiều so với việc đứng đoán trước kệ hàng.
 
 Xin nhắc lại một lần nữa cho rõ: bài này bàn về cách chọn mua và bảo quản một thức uống. Trà thảo mộc là đồ uống dùng hằng ngày, không phải thuốc, và không thay thế bất kỳ chỉ định y khoa nào.
 

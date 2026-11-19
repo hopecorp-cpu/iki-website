@@ -8,7 +8,7 @@
   "category": "Chăm sóc sức khoẻ chủ động",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-nuoc-dung-cach-moi-ngay-hero.jpg",
   "hero_alt": "Một cốc nước ấm buổi sáng bên cửa sổ",
   "reading_min": 15,
@@ -18,7 +18,7 @@
     {"q": "Nên uống nước ấm hay nước lạnh?", "a": "Cả hai đều cung cấp nước cho cơ thể. Nước ấm hoặc nước ở nhiệt độ phòng thường dễ chịu hơn cho dạ dày, nhất là vào buổi sáng và với người có cơ địa dễ lạnh bụng. Nước đá có thể sảng khoái khi trời nóng, nhưng nên hạn chế uống nhiều khi bụng đói hoặc cơ thể đang mệt."},
     {"q": "Uống nhiều nước có tốt hơn không?", "a": "Không hẳn. Uống đủ theo nhu cầu quan trọng hơn là uống thật nhiều. Uống quá nhiều trong thời gian ngắn khiến cơ thể phải làm việc nhiều hơn và không mang lại lợi ích thêm. Hãy chia nhỏ lượng nước ra cả ngày."},
     {"q": "Uống nước trước hay sau bữa ăn?", "a": "Một cốc nước nhỏ khoảng 20–30 phút trước bữa ăn giúp bạn ăn chậm và điều độ hơn. Trong bữa nên uống lượng vừa phải để không làm loãng cảm giác ngon miệng. Đây là thói quen tham khảo, có thể điều chỉnh theo cảm nhận của mỗi người."},
-    {"q": "Thể tạng khác nhau thì uống nước khác nhau thế nào?", "a": "Người có cơ địa thiên về nóng thường thấy dễ chịu khi uống mát; người dễ lạnh bụng, tay chân hay lạnh lại hợp với nước ấm. IKI dùng khảo sát thể tạng để đưa ra gợi ý phù hợp hơn cho từng người, thay vì áp một công thức chung."},
+    {"q": "Thể tạng khác nhau thì uống nước khác nhau thế nào?", "a": "Người có cơ địa thiên về nóng thường thấy dễ chịu khi uống mát; người dễ lạnh bụng, tay chân hay lạnh lại hợp với nước ấm. IKIHEALING dùng khảo sát thể tạng để đưa ra gợi ý phù hợp hơn cho từng người, thay vì áp một công thức chung."},
     {"q": "Vì sao uống nước đá xong lại thấy mệt hơn?", "a": "Nhiều người tìm đến một ly nước đá hay trà sữa đá để tỉnh táo lúc xế chiều, nhưng khoảng một tiếng sau lại thấy nặng nề, bụng ấm ách. Nước quá lạnh lúc bụng đang trống dễ gây cảm giác đầy tức, khó chịu ở nhiều người; nếu thức uống còn nhiều đường thì cảm giác tụt năng lượng sau đó càng rõ. Một cốc nước ấm hoặc trà ấm nhạt thường là lựa chọn dịu dàng hơn cho những lúc mệt."},
     {"q": "Uống nước lúc nào trong ngày là hợp lý nhất?", "a": "Không có khung giờ 'thần kỳ'. Một nhịp dễ theo là: một cốc nước ấm ngay khi thức dậy, một ngụm nhỏ trước mỗi bữa ăn khoảng 20–30 phút, nhấp đều giữa các bữa, và một lượng vừa phải trước khi ngủ. Quan trọng là rải đều cả ngày thay vì đợi thật khát mới uống dồn một lúc."},
     {"q": "Làm sao nhắc mình uống đủ nước khi hay quên?", "a": "Hãy để một chai nước trong tầm mắt trên bàn làm việc, gắn việc uống nước vào các mốc quen thuộc (sau khi đánh răng, trước mỗi bữa, sau mỗi lần đi vệ sinh), và dùng chính màu nước tiểu làm tín hiệu nhắc nhở. Người lớn tuổi đôi khi ít thấy khát nên càng cần chủ động nhắc mình."}
@@ -26,9 +26,9 @@
   "related": [
     {"title": "Thói quen buổi sáng của người sống khoẻ", "url": "thoi-quen-buoi-sang.html"},
     {"title": "Ăn sáng thế nào cho một ngày tràn năng lượng", "url": "an-sang-tran-nang-luong.html"},
-    {"title": "Học Viện IKI — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"},
-    {"title": "Công nghệ IKI — AI cá nhân hoá theo thể tạng", "url": "../cong-nghe.html"},
-    {"title": "Cộng đồng IKI — đồng hành mỗi ngày", "url": "../cong-dong.html"}
+    {"title": "Học Viện IKIHEALING — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"},
+    {"title": "Công nghệ IKIHEALING — AI cá nhân hoá theo thể tạng", "url": "../cong-nghe.html"},
+    {"title": "Cộng đồng IKIHEALING — đồng hành mỗi ngày", "url": "../cong-dong.html"}
   ],
   "anh_ai": true
 }
@@ -91,7 +91,7 @@ Người xưa thường ưu tiên nước ấm, trà ấm và canh nóng, đặc
 Ngày nay, ta có thể hiểu điều này một cách giản dị: nước ấm dễ chịu cho dạ dày hơn, và một cốc nước ấm buổi sáng là cách khởi động ngày mới nhẹ nhàng. Trải nghiệm hằng ngày của nhiều người cũng tương đồng — uống nước quá lạnh lúc bụng trống dễ gây cảm giác đầy tức, khó chịu, trong khi đồ uống gần với thân nhiệt thường êm bụng hơn. Tri thức dân gian và cảm nhận cá nhân ở đây bổ sung cho nhau, chứ không thay thế lời khuyên của bác sĩ.
 
 :::note Đọc thêm
-5 thể tạng theo Đông y — Hàn, Nhiệt, Hư, Thực, Đàm thấp — là nền tảng để cá nhân hoá thói quen chăm sóc. Bạn có thể tìm hiểu cách IKI số hoá tri thức này trong phần [Công nghệ IKI](../cong-nghe.html).
+5 thể tạng theo Đông y — Hàn, Nhiệt, Hư, Thực, Đàm thấp — là nền tảng để cá nhân hoá thói quen chăm sóc. Bạn có thể tìm hiểu cách IKIHEALING số hoá tri thức này trong phần [Công nghệ IKIHEALING](../cong-nghe.html).
 :::
 
 ## Nước ấm hay nước lạnh: chọn theo thể tạng của bạn
@@ -103,7 +103,7 @@ Không có câu trả lời đúng cho tất cả mọi người — và đó ch
 - **Khi cơ thể đang mệt hoặc vừa vận động mạnh:** dù thuộc thể tạng nào, nước ấm hoặc nước nguội thường là lựa chọn dịu dàng hơn cho dạ dày so với nước đá.
 - **Người hay đầy bụng, tiêu hoá chậm sau ăn:** thường thấy dễ chịu hơn với nước ấm và việc uống lượng vừa phải, tránh vừa ăn no vừa uống nhiều nước đá cùng lúc.
 
-Chính vì mỗi người một khác, việc quan sát phản ứng của cơ thể quan trọng hơn là làm theo một quy tắc cứng nhắc. Đây cũng là triết lý của [Học Viện IKI](../hoc-vien.html): chăm sóc sức khoẻ nên bắt đầu từ việc hiểu đúng cơ địa của chính mình.
+Chính vì mỗi người một khác, việc quan sát phản ứng của cơ thể quan trọng hơn là làm theo một quy tắc cứng nhắc. Đây cũng là triết lý của [Học Viện IKIHEALING](../hoc-vien.html): chăm sóc sức khoẻ nên bắt đầu từ việc hiểu đúng cơ địa của chính mình.
 
 ## Gợi ý một thức uống ấm lành đơn giản
 
@@ -171,16 +171,16 @@ Bạn không cần thay đổi mọi thứ cùng lúc. Hãy thử một nhịp n
 
 Sau một tuần, hãy để ý xem buổi sáng của bạn có nhẹ nhõm hơn, tinh thần có tỉnh táo hơn không. Những thay đổi nhỏ nhưng đều đặn thường bền hơn nhiều so với các "chiến dịch" rầm rộ rồi bỏ dở. Nếu thấy hợp, bạn có thể giữ nguyên nhịp này và để nó tự nhiên trở thành một phần trong ngày.
 
-:::case Từ cộng đồng IKI
-Trong cộng đồng hơn 200.000 người theo dõi và thành viên của IKI, "một cốc nước ấm buổi sáng" là một trong những thói quen được nhắc lại nhiều nhất khi mọi người chia sẻ về ngày khởi đầu nhẹ nhõm. Điều thú vị không nằm ở bản thân cốc nước, mà ở chỗ nó trở thành một điểm neo để bắt đầu chăm sóc bản thân đều đặn hơn mỗi ngày.
+:::case Từ cộng đồng IKIHEALING
+Trong cộng đồng hơn 200.000 người theo dõi và thành viên của IKIHEALING, "một cốc nước ấm buổi sáng" là một trong những thói quen được nhắc lại nhiều nhất khi mọi người chia sẻ về ngày khởi đầu nhẹ nhõm. Điều thú vị không nằm ở bản thân cốc nước, mà ở chỗ nó trở thành một điểm neo để bắt đầu chăm sóc bản thân đều đặn hơn mỗi ngày.
 :::
 
 :::case Chị H. (Hải Phòng) — đổi thói quen nước đá xế chiều
-Chị H., 34 tuổi, nhân viên văn phòng, chia sẻ rằng chị từng có thói quen cứ đến giữa chiều thấy uể oải là tìm ngay một ly trà sữa hoặc cà phê sữa đá cho "tỉnh người". Nhưng chỉ khoảng một tiếng sau, chị lại thấy bụng ấm ách, người nặng nề và càng khó tập trung. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị thử một thay đổi nhỏ: giữ sẵn một bình nước ấm gừng quế trên bàn, và mỗi khi thấy mệt xế chiều thì nhấp vài ngụm ấm thay cho ly đá lạnh. Chị cũng tập uống đều hơn trong ngày thay vì đợi khát. Sau vài tuần, chị nói cảm giác dễ chịu nhất là buổi chiều bớt nặng nề, tinh thần vào việc êm hơn và chị không còn "nghiện" ly đá lạnh mỗi ngày như trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau. Nếu bạn có bệnh nền hoặc dùng thức uống thảo mộc thường xuyên, hãy tham khảo ý kiến chuyên gia.)
+Chị H., 34 tuổi, nhân viên văn phòng, chia sẻ rằng chị từng có thói quen cứ đến giữa chiều thấy uể oải là tìm ngay một ly trà sữa hoặc cà phê sữa đá cho "tỉnh người". Nhưng chỉ khoảng một tiếng sau, chị lại thấy bụng ấm ách, người nặng nề và càng khó tập trung. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chị thử một thay đổi nhỏ: giữ sẵn một bình nước ấm gừng quế trên bàn, và mỗi khi thấy mệt xế chiều thì nhấp vài ngụm ấm thay cho ly đá lạnh. Chị cũng tập uống đều hơn trong ngày thay vì đợi khát. Sau vài tuần, chị nói cảm giác dễ chịu nhất là buổi chiều bớt nặng nề, tinh thần vào việc êm hơn và chị không còn "nghiện" ly đá lạnh mỗi ngày như trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau. Nếu bạn có bệnh nền hoặc dùng thức uống thảo mộc thường xuyên, hãy tham khảo ý kiến chuyên gia.)
 :::
 
 ## Kết: chăm sóc chủ động bắt đầu từ những điều nhỏ
 
 Uống nước đúng cách không phải là một bí quyết phức tạp. Đó là sự kết hợp của ba điều giản dị: **uống đủ theo nhu cầu, ưu tiên nước ấm hợp với cơ địa, và uống đều đặn theo nhịp trong ngày**. Khi bạn lắng nghe cơ thể và điều chỉnh theo thể tạng của chính mình, một thói quen nhỏ như uống nước cũng trở thành nền tảng cho lối sống khoẻ mạnh dài lâu.
 
-Đó cũng là tinh thần chăm sóc sức khoẻ chủ động mà IKI theo đuổi: không áp công thức chung, mà đồng hành cùng bạn hiểu đúng cơ thể mình để chọn điều phù hợp nhất. Nếu bạn muốn xây trọn một buổi sáng lành mạnh quanh cốc nước ấm này, hãy xem thêm [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) và [Ăn sáng thế nào cho một ngày tràn năng lượng](an-sang-tran-nang-luong.html).
+Đó cũng là tinh thần chăm sóc sức khoẻ chủ động mà IKIHEALING theo đuổi: không áp công thức chung, mà đồng hành cùng bạn hiểu đúng cơ thể mình để chọn điều phù hợp nhất. Nếu bạn muốn xây trọn một buổi sáng lành mạnh quanh cốc nước ấm này, hãy xem thêm [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) và [Ăn sáng thế nào cho một ngày tràn năng lượng](an-sang-tran-nang-luong.html).

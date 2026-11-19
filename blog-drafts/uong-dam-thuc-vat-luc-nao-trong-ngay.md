@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-02",
   "updated": "2026-08-02",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-dam-thuc-vat-luc-nao-trong-ngay-hero.jpg",
   "hero_alt": "Ly đạm thực vật pha cùng sữa hạt và trái cây trên bàn gỗ buổi sáng",
   "reading_min": 14,
@@ -198,7 +198,7 @@ Ba lịch dưới đây là gợi ý tham khảo, bạn hoàn toàn có thể x�
 - 15h00 — Sữa hạt hoặc một nắm hạt.
 - 18h30 — Bữa tối có đậu, nấm, rau; nếu bữa tối ít đạm thì thêm nửa phần đạm pha loãng.
 
-Nếu bạn muốn theo dõi xem nhịp nào thực sự hợp với mình, [App IKI](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn ngắn để bạn nhìn lại cả tuần thay vì đoán theo cảm giác từng ngày.
+Nếu bạn muốn theo dõi xem nhịp nào thực sự hợp với mình, [App IKIHEALING](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn ngắn để bạn nhìn lại cả tuần thay vì đoán theo cảm giác từng ngày.
 
 ## Kết: chọn khung giờ bạn giữ được lâu nhất
 
@@ -210,6 +210,6 @@ Nếu bạn chưa rõ thể trạng mình nghiêng về hàn hay nhiệt, hợp 
 
 *Nguồn tham khảo: Báo Dân trí (Cân bằng dinh dưỡng bằng việc bổ sung đạm thực vật vào bữa ăn mỗi ngày), Bệnh viện Đa khoa Quốc tế Vinmec (chuyên mục dinh dưỡng và protein), Nhà thuốc FPT Long Châu (hướng dẫn sử dụng thực phẩm bổ sung đạm). Các mức đạm nêu trong bài là giá trị tham khảo phổ biến dành cho người khoẻ mạnh; nhu cầu cụ thể của từng người do bác sĩ hoặc chuyên gia dinh dưỡng xác định. Nội dung được biên soạn phục vụ mục đích cung cấp kiến thức tham khảo.*
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Nếu bạn thấy mình cần hỏi khá nhiều trước khi chọn, đó là chuyện bình thường. Đo trên **2.789 cuộc tư vấn thật** của IKI Healing, một quyết định mua sản phẩm sức khoẻ đi kèm **trung vị 16 lượt tin nhắn** qua lại, và 10% số cuộc vượt 36 lượt tin. Xem đầy đủ trong [Báo cáo hành trình hỏi đáp trước khi mua](bao-cao-hanh-trinh-hoi-dap-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Nếu bạn thấy mình cần hỏi khá nhiều trước khi chọn, đó là chuyện bình thường. Đo trên **2.789 cuộc tư vấn thật** của IKIHEALING, một quyết định mua sản phẩm sức khoẻ đi kèm **trung vị 16 lượt tin nhắn** qua lại, và 10% số cuộc vượt 36 lượt tin. Xem đầy đủ trong [Báo cáo hành trình hỏi đáp trước khi mua](bao-cao-hanh-trinh-hoi-dap-2026.html).
 :::

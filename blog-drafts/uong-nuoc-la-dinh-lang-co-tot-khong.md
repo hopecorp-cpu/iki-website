@@ -8,7 +8,7 @@
   "category": "Tri thức Đông y & dân gian",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-nuoc-la-dinh-lang-co-tot-khong-hero.jpg",
   "hero_alt": "Ấm đất và chén nước hãm màu nhạt bên cạnh lá đinh lăng tươi trên khay tre",
   "reading_min": 13,
@@ -161,7 +161,7 @@ Nếu đó là nhu cầu của bạn, đinh lăng **không phải lựa chọn p
 - **Nước lọc ấm** — nền tảng, và vẫn nên chiếm phần lớn lượng nước trong ngày. Xem [Uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html).
 - **Nước lá vối, chè xanh nhạt** — thức uống dân gian vốn được dùng loãng và uống đều.
 - **Trà thảo mộc.** Ban ngày, một ấm trà thảo mộc nhẹ dễ duy trì và không gây tỉnh táo quá mức. Buổi tối, khi cần một thức uống ấm hợp với nếp chuẩn bị đi ngủ, [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) là lựa chọn hợp hơn trà đặc hay cà phê.
-- **Nếu bạn quen uống cà phê buổi sáng** nhưng muốn giảm bớt, bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) và [gian hàng thức uống IKI](https://ikihealing.com/shop/) có vài phương án thay thế.
+- **Nếu bạn quen uống cà phê buổi sáng** nhưng muốn giảm bớt, bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) và [gian hàng thức uống IKIHEALING](https://ikihealing.com/shop/) có vài phương án thay thế.
 
 Mỗi người có một thể trạng riêng — người thể hàn, người hay nóng trong, người huyết áp thấp sẽ hợp với những loại nước rất khác nhau, và đây chính là chỗ mà lời khuyên chung trên mạng dễ sai nhất. Nếu bạn muốn biết mình thuộc kiểu nào trước khi chọn thức uống hằng ngày, [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ cho bạn một bản phân tích sáu chỉ số lối sống miễn phí.
 

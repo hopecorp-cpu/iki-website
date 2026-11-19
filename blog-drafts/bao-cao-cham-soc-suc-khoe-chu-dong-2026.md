@@ -3,32 +3,32 @@
   "title": "Báo cáo: Người Việt chăm sóc sức khoẻ chủ động 2026",
   "seo_title": "Báo cáo sức khoẻ chủ động 2026: số liệu người Việt mua gì, ở đâu",
   "slug": "bao-cao-cham-soc-suc-khoe-chu-dong-2026",
-  "description": "Theo những gì IKI ghi nhận từ khách hàng và cộng đồng IKI Healing: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì. Mở cho báo chí trích dẫn.",
+  "description": "Theo những gì IKIHEALING ghi nhận từ khách hàng và cộng đồng IKIHEALING: người Việt bắt đầu chăm sóc sức khoẻ chủ động từ đâu, mua gì, ở tỉnh nào và tin vào điều gì. Mở cho báo chí trích dẫn.",
   "keyword": "báo cáo sức khoẻ chủ động 2026",
   "category": "bao-cao",
   "date": "2026-07-29",
-  "author": "Đội ngũ IKI Healing",
+  "author": "Đội ngũ IKIHEALING",
   "hero_local": "assets/blog/bao-cao-cham-soc-suc-khoe-chu-dong-2026-hero.jpg",
   "hero_alt": "Bản báo cáo số liệu in trên bàn làm việc cạnh tách trà xanh",
   "reading_min": 9,
   "noindex": true,
-  "answer": "Báo cáo tổng hợp dữ liệu vận hành thực tế của IKI Healing kỳ 03–07/2026: đạm thực vật là phần lớn giá trị giỏ hàng sức khoẻ; một bộ phận khách quay lại mua tiếp trong vòng 5 tháng; phần lớn đơn hàng đến từ ngoài Hà Nội và TP.HCM; phần lớn giao dịch vẫn chọn thanh toán khi nhận hàng (COD); và phần lớn doanh thu đi qua kênh nhắn tin Zalo thay vì giỏ hàng thương mại điện tử. Nội dung mở cho báo chí và nhà nghiên cứu trích dẫn kèm nguồn.",
+  "answer": "Báo cáo tổng hợp dữ liệu vận hành thực tế của IKIHEALING kỳ 03–07/2026: đạm thực vật là phần lớn giá trị giỏ hàng sức khoẻ; một bộ phận khách quay lại mua tiếp trong vòng 5 tháng; phần lớn đơn hàng đến từ ngoài Hà Nội và TP.HCM; phần lớn giao dịch vẫn chọn thanh toán khi nhận hàng (COD); và phần lớn doanh thu đi qua kênh nhắn tin Zalo thay vì giỏ hàng thương mại điện tử. Nội dung mở cho báo chí và nhà nghiên cứu trích dẫn kèm nguồn.",
   "faq": [
     {
       "q": "Số liệu trong báo cáo này lấy từ đâu?",
-      "a": "Từ dữ liệu vận hành thực tế của Công ty Cổ phần TMDV HOPE (HOPE CORP): những gì IKI ghi nhận từ khách hàng trên hệ thống bán hàng kỳ 03–07/2026, vận đơn giao hàng dùng để phân tích địa lý, sao kê ngân hàng tháng 7/2026 cho cơ cấu thanh toán, và hoạt động của cộng đồng hơn 200.000 thành viên."
+      "a": "Từ dữ liệu vận hành thực tế của Công ty Cổ phần TMDV HOPE (HOPE CORP): những gì IKIHEALING ghi nhận từ khách hàng trên hệ thống bán hàng kỳ 03–07/2026, vận đơn giao hàng dùng để phân tích địa lý, sao kê ngân hàng tháng 7/2026 cho cơ cấu thanh toán, và hoạt động của cộng đồng hơn 200.000 thành viên."
     },
     {
       "q": "Báo chí có được trích dẫn số liệu này không?",
-      "a": "Có. Báo cáo mở cho báo chí, nhà nghiên cứu và người làm nội dung trích dẫn miễn phí, kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Cần bảng số chi tiết hơn hoặc phỏng vấn, liên hệ contact@ikihealing.com."
+      "a": "Có. Báo cáo mở cho báo chí, nhà nghiên cứu và người làm nội dung trích dẫn miễn phí, kèm ghi nguồn 'Báo cáo IKIHEALING, 2026' và liên kết về trang này. Cần bảng số chi tiết hơn hoặc phỏng vấn, liên hệ contact@ikihealing.com."
     },
     {
       "q": "Dữ liệu có đại diện cho toàn bộ người Việt không?",
-      "a": "Không. Đây là dữ liệu từ tệp khách hàng và cộng đồng của IKI Healing — những người đã quan tâm đến lối sống lành mạnh — nên phản ánh hành vi của nhóm chủ động chăm sóc sức khoẻ, không phải mẫu đại diện dân số. Báo cáo ghi rõ phương pháp và giới hạn ở phần cuối."
+      "a": "Không. Đây là dữ liệu từ tệp khách hàng và cộng đồng của IKIHEALING — những người đã quan tâm đến lối sống lành mạnh — nên phản ánh hành vi của nhóm chủ động chăm sóc sức khoẻ, không phải mẫu đại diện dân số. Báo cáo ghi rõ phương pháp và giới hạn ở phần cuối."
     },
     {
       "q": "Báo cáo có được cập nhật không?",
-      "a": "Có. IKI Healing dự kiến phát hành báo cáo định kỳ khi có thêm dữ liệu mới, gồm cả dữ liệu khảo sát thể tạng từ cộng đồng. Bản mới nhất luôn nằm trong chuyên mục Báo cáo & Số liệu của blog."
+      "a": "Có. IKIHEALING dự kiến phát hành báo cáo định kỳ khi có thêm dữ liệu mới, gồm cả dữ liệu khảo sát thể tạng từ cộng đồng. Bản mới nhất luôn nằm trong chuyên mục Báo cáo & Số liệu của blog."
     }
   ],
   "anh_ai": true
@@ -37,7 +37,7 @@
 
 Chăm sóc sức khoẻ chủ động — chăm cơ thể trước khi nó lên tiếng — được nói đến rất nhiều, nhưng hầu hết bài viết dừng ở lời khuyên. Câu hỏi ít ai trả lời được từ dữ liệu vận hành: **người Việt thực sự bắt đầu từ đâu, chi tiêu thế nào, ở những tỉnh nào, và tin vào điều gì khi mua sản phẩm sức khoẻ trên mạng?**
 
-Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKI Healing kỳ **tháng 3 – tháng 7/2026**. Nguồn dữ liệu là những gì IKI ghi nhận từ khách hàng, vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng hơn 200.000 thành viên. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
+Báo cáo này trả lời bằng dữ liệu vận hành thực tế của IKIHEALING kỳ **tháng 3 – tháng 7/2026**. Nguồn dữ liệu là những gì IKIHEALING ghi nhận từ khách hàng, vận đơn giao khắp ba miền, sao kê ngân hàng và hoạt động của cộng đồng hơn 200.000 thành viên. Toàn bộ số liệu là số tổng hợp, không chứa thông tin cá nhân, và **mở cho báo chí trích dẫn miễn phí kèm nguồn**.
 
 ## Những điểm chính
 
@@ -55,7 +55,7 @@ Trong cơ cấu giỏ hàng kỳ 03–07/2026, nhóm **đạm thực vật chi�
 Khi người Việt quyết định "sống lành hơn", hành động đầu tiên thường không phải là mua thiết bị đo hay đăng ký phòng tập — mà là **đổi bữa ăn**, bắt đầu từ nguồn đạm. Bữa sáng là điểm vào phổ biến nhất mà đội ngũ tư vấn ghi nhận.
 :::
 
-Theo những gì IKI ghi nhận, nhiều khách xem đây là khoản chi đều đặn cho sức khoẻ, không phải mua thử.
+Theo những gì IKIHEALING ghi nhận, nhiều khách xem đây là khoản chi đều đặn cho sức khoẻ, không phải mua thử.
 
 ## 2. Từ "mua thử" sang "thói quen": khách quay lại mua tiếp
 
@@ -85,13 +85,13 @@ Hai tín hiệu nói lên cùng một câu chuyện:
 
 Với ngành hàng đưa vào cơ thể, người Việt chưa mua bằng nút "Mua ngay" — họ mua bằng **niềm tin được xây qua đối thoại**: hỏi đáp trực tiếp, cộng đồng đông người thật, và quyền được cầm hàng trên tay rồi mới trả tiền.
 
-Đây cũng là lý do IKI Healing xây cộng đồng hơn 200.000 thành viên và đội ngũ tư vấn con người trước khi xây bất kỳ giỏ hàng nào.
+Đây cũng là lý do IKIHEALING xây cộng đồng hơn 200.000 thành viên và đội ngũ tư vấn con người trước khi xây bất kỳ giỏ hàng nào.
 
 ## 5. Phương pháp và giới hạn của báo cáo
 
 **Nguồn dữ liệu:**
 
-- Những gì IKI ghi nhận từ khách hàng trên hệ thống bán hàng của HOPE CORP, kỳ 08/03/2026 – 27/07/2026.
+- Những gì IKIHEALING ghi nhận từ khách hàng trên hệ thống bán hàng của HOPE CORP, kỳ 08/03/2026 – 27/07/2026.
 - Vận đơn giao hàng (đối chiếu địa chỉ nhận để phân tích địa lý).
 - Sao kê tài khoản ngân hàng doanh nghiệp tháng 7/2026 (cơ cấu COD/chuyển khoản).
 - Dữ liệu kênh bán tổng hợp từ hệ thống quản trị nội bộ.
@@ -105,7 +105,7 @@ Với ngành hàng đưa vào cơ thể, người Việt chưa mua bằng nút "
 
 ## Dành cho báo chí và người làm nội dung
 
-Nội dung báo cáo được **trích dẫn miễn phí** với điều kiện ghi nguồn: *"Báo cáo IKI Healing, 2026"* kèm liên kết về trang này.
+Nội dung báo cáo được **trích dẫn miễn phí** với điều kiện ghi nguồn: *"Báo cáo IKIHEALING, 2026"* kèm liên kết về trang này.
 
 - Cần bảng số chi tiết hơn, góc phân tích riêng cho bài viết của bạn, hoặc phỏng vấn đội ngũ: email **contact@ikihealing.com** — chúng tôi phản hồi trong 48 giờ làm việc.
 

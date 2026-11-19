@@ -8,7 +8,7 @@
   "category": "Chăm sóc sức khoẻ chủ động",
   "date": "2026-07-31",
   "updated": "2026-07-31",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam-hero.jpg",
   "hero_alt": "Các hộp thức ăn được chia phần gọn gàng trên bàn bếp",
   "reading_min": 15,
@@ -243,12 +243,12 @@ Sai lầm phổ biến nhất của người mới là tham vọng quá lớn ng
 1. **Rau để sống, luộc nhanh mỗi sáng** — 5 phút mỗi sáng đổi lại rau tươi ngon cả tuần — đáng giá.
 1. **Ghi lại cảm nhận sau mỗi bữa** — Món nào vẫn ngon ngày thứ ba, món nào không. Tuần sau chỉ giữ lại món đạt.
 
-Sau ba tuần làm ở quy mô này, bạn sẽ có một danh sách ngắn các món "chắc ăn" của riêng mình, và lúc đó việc mở rộng lên năm bữa mới thực sự bền. Nếu muốn ghi lại thực đơn và theo dõi cảm nhận cơ thể theo từng bữa, [App IKI](../app.html) có sẵn phần nhật ký để bạn không phải nhớ bằng đầu.
+Sau ba tuần làm ở quy mô này, bạn sẽ có một danh sách ngắn các món "chắc ăn" của riêng mình, và lúc đó việc mở rộng lên năm bữa mới thực sự bền. Nếu muốn ghi lại thực đơn và theo dõi cảm nhận cơ thể theo từng bữa, [App IKIHEALING](../app.html) có sẵn phần nhật ký để bạn không phải nhớ bằng đầu.
 
 Cuối cùng, hãy nhớ mục đích thật của việc này: không phải để bữa ăn trông đẹp trên mạng xã hội, mà để những ngày bạn mệt nhất vẫn có một bữa tử tế đang chờ sẵn trong tủ lạnh.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKI Healing, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKIHEALING, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
 :::
 
 ## Nguồn tham khảo

@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thu-gian-can-bang-hoi-tho-hero.jpg",
   "hero_alt": "Thư giãn và cân bằng hơi thở",
   "reading_min": 13,
@@ -63,7 +63,7 @@
 
 Có một nghịch lý quen thuộc trong đời sống hiện đại: chúng ta bận rộn hơn bao giờ hết, nhưng lại hiếm khi cho phép mình nghỉ ngơi thật sự. Một ngày trôi qua với chuỗi việc nối tiếp nhau, và ngay cả khi ngồi xuống, tay ta vẫn cầm điện thoại, mắt vẫn dán vào màn hình, tâm trí vẫn chạy theo hàng chục lo toan. Cơ thể tưởng như đang nghỉ, nhưng bên trong vẫn căng như dây đàn.
 
-Căng thẳng tích tụ theo cách âm thầm như vậy, và nếu không được giải toả, nó ảnh hưởng đến giấc ngủ, tiêu hoá, tâm trạng và cả những quyết định nhỏ trong ngày. Tin vui là bạn không cần đến một kỳ nghỉ dài hay một khoá thiền đắt tiền để lấy lại sự cân bằng. Có một công cụ luôn sẵn có, miễn phí và đi theo bạn khắp nơi: hơi thở. Bài viết này của đội ngũ Health Coach IKI sẽ cùng bạn tìm hiểu cách thư giãn chủ động qua hơi thở và nghỉ ngơi đúng cách, để hỗ trợ một tinh thần thư thái mỗi ngày.
+Căng thẳng tích tụ theo cách âm thầm như vậy, và nếu không được giải toả, nó ảnh hưởng đến giấc ngủ, tiêu hoá, tâm trạng và cả những quyết định nhỏ trong ngày. Tin vui là bạn không cần đến một kỳ nghỉ dài hay một khoá thiền đắt tiền để lấy lại sự cân bằng. Có một công cụ luôn sẵn có, miễn phí và đi theo bạn khắp nơi: hơi thở. Bài viết này của đội ngũ Health Coach IKIHEALING sẽ cùng bạn tìm hiểu cách thư giãn chủ động qua hơi thở và nghỉ ngơi đúng cách, để hỗ trợ một tinh thần thư thái mỗi ngày.
 
 ## Vì sao căng thẳng tích tụ mà ta không hay biết
 
@@ -141,7 +141,7 @@ Trở ngại lớn nhất thường là cảm giác "không có thời gian". Nh
 - **Cuối buổi chiều:** khi năng lượng xuống thấp, một quãng đi lại ngắn và vài nhịp thở sâu thường giúp tỉnh táo hơn là một ly nước ngọt.
 - **Buổi tối:** dành cho nghi thức thư giãn và giấc ngủ như đã nói ở trên.
 
-Chìa khoá là bắt đầu thật nhỏ và gắn thói quen mới vào một mốc sẵn có, ví dụ "sau khi pha cà phê sáng thì hít thở một phút". Cách này giúp thói quen dễ bám rễ hơn nhiều so với việc đặt mục tiêu lớn rồi bỏ dở. Nếu bạn muốn một công cụ nhắc mình dừng lại và quan sát bản thân đều đặn, [App IKI](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên, giúp bạn ghi lại tâm trạng và nếp sinh hoạt mỗi ngày, để dần hiểu điều gì thật sự giúp mình cân bằng.
+Chìa khoá là bắt đầu thật nhỏ và gắn thói quen mới vào một mốc sẵn có, ví dụ "sau khi pha cà phê sáng thì hít thở một phút". Cách này giúp thói quen dễ bám rễ hơn nhiều so với việc đặt mục tiêu lớn rồi bỏ dở. Nếu bạn muốn một công cụ nhắc mình dừng lại và quan sát bản thân đều đặn, [App IKIHEALING](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên, giúp bạn ghi lại tâm trạng và nếp sinh hoạt mỗi ngày, để dần hiểu điều gì thật sự giúp mình cân bằng.
 
 ## Những hiểu lầm về thư giãn
 
@@ -158,7 +158,7 @@ Quanh chuyện thư giãn có vài quan niệm khiến nhiều người ngần n
 **"Chỉ người căng thẳng nặng mới cần thư giãn."** Thư giãn chủ động là việc nên làm hằng ngày như một cách chăm sóc phòng ngừa, không phải chỉ khi đã kiệt sức. Chăm cho tinh thần đều đặn giúp bạn ít rơi vào trạng thái quá tải hơn.
 
 :::case Anh K. (Hải Phòng) và một khoảng lặng mỗi chiều
-Anh K., 43 tuổi, quản lý một xưởng cơ khí nhỏ ở Hải Phòng và là thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng công việc của anh gần như không có phút nào yên: điện thoại reo từ sáng tới tối, hết đơn hàng gấp lại đến chuyện thợ, chuyện máy móc. Anh kể mình quen mang nguyên cái đầu căng như dây đàn ấy về nhà, ăn tối mà mắt vẫn dán vào tin nhắn, lên giường rồi đầu vẫn chạy sổ sách. Có giai đoạn vợ anh nhận xét rằng anh ngồi cạnh con mà như đang ở chỗ khác. Sau khi tìm hiểu về nghỉ ngơi chủ động, anh tập một nếp giản dị: bắt đầu ngày bằng một cốc nước ấm uống chậm trước khi ra xưởng, giữa buổi chiều dành vài phút bước ra sân đi lại và hít thở chậm thay vì với tay lấy đồ ngọt hay châm thêm cà phê. Trước mỗi cuộc gọi khó, anh cho mình đúng một hơi thở thật sâu rồi mới bấm máy. Buổi tối, anh tạo một khoảng lặng nhỏ: tắt bớt đèn, cất điện thoại ra phòng khách, nhâm nhi một tách trà ấm rồi mới đi ngủ. Sau một thời gian giữ nếp này, điều anh thấy rõ nhất là tinh thần dễ chịu hơn, buổi tối bớt căng thẳng, bữa cơm với vợ con trọn vẹn hơn và bản thân thấy chủ động hơn với nhịp sống của mình. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
+Anh K., 43 tuổi, quản lý một xưởng cơ khí nhỏ ở Hải Phòng và là thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chia sẻ rằng công việc của anh gần như không có phút nào yên: điện thoại reo từ sáng tới tối, hết đơn hàng gấp lại đến chuyện thợ, chuyện máy móc. Anh kể mình quen mang nguyên cái đầu căng như dây đàn ấy về nhà, ăn tối mà mắt vẫn dán vào tin nhắn, lên giường rồi đầu vẫn chạy sổ sách. Có giai đoạn vợ anh nhận xét rằng anh ngồi cạnh con mà như đang ở chỗ khác. Sau khi tìm hiểu về nghỉ ngơi chủ động, anh tập một nếp giản dị: bắt đầu ngày bằng một cốc nước ấm uống chậm trước khi ra xưởng, giữa buổi chiều dành vài phút bước ra sân đi lại và hít thở chậm thay vì với tay lấy đồ ngọt hay châm thêm cà phê. Trước mỗi cuộc gọi khó, anh cho mình đúng một hơi thở thật sâu rồi mới bấm máy. Buổi tối, anh tạo một khoảng lặng nhỏ: tắt bớt đèn, cất điện thoại ra phòng khách, nhâm nhi một tách trà ấm rồi mới đi ngủ. Sau một thời gian giữ nếp này, điều anh thấy rõ nhất là tinh thần dễ chịu hơn, buổi tối bớt căng thẳng, bữa cơm với vợ con trọn vẹn hơn và bản thân thấy chủ động hơn với nhịp sống của mình. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết
@@ -169,6 +169,6 @@ Hãy bắt đầu từ một điều nhỏ ngay hôm nay: một phút thở ch�
 
 Cuối cùng, xin nhắc rằng những gợi ý trên phù hợp cho việc chăm sóc tinh thần hằng ngày. Nếu bạn thấy lo âu, căng thẳng hay mất ngủ kéo dài, ảnh hưởng đến cuộc sống, hãy tìm đến chuyên gia tâm lý hoặc bác sĩ. Chủ động tìm sự hỗ trợ khi cần là một biểu hiện đẹp của việc chăm sóc chính mình.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Theo những gì IKI ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Theo những gì IKIHEALING ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

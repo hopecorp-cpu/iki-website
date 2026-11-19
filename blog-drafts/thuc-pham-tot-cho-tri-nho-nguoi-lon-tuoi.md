@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-04",
   "updated": "2026-08-04",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-tot-cho-tri-nho-nguoi-lon-tuoi-hero.jpg",
   "hero_alt": "Óc chó, hạt bí, rau lá xanh và một tách trà ấm trên bàn gỗ",
   "reading_min": 14,
@@ -136,7 +136,7 @@ Vận động đều đặn ở mức vừa sức là một trong những việc
 
 Những việc đơn giản mà hiệu quả: đọc sách báo mỗi ngày, chơi cờ, tham gia câu lạc bộ dưỡng sinh hoặc hội người cao tuổi, học một điều mới dù nhỏ, gọi điện hoặc gặp gỡ bạn bè, chăm cháu, chăm cây. Bài [Thói quen đọc sách trước khi ngủ](thoi-quen-doc-sach-truoc-khi-ngu.html) là một gợi ý dễ bắt đầu.
 
-Mỗi người có thể trạng và nhịp sinh hoạt khác nhau, nên cùng một lời khuyên không hợp với tất cả. Bạn có thể [kiểm tra thể trạng 90 giây](../quiz/) để có bản phân tích cá nhân hoá cho cha mẹ mình, thay vì áp một công thức chung. Với gia đình muốn theo dõi đều đặn hơn, [App IKI](../app.html) cho phép ghi nhật ký sinh hoạt ngắn mỗi ngày và nhìn ra quy luật theo thời gian.
+Mỗi người có thể trạng và nhịp sinh hoạt khác nhau, nên cùng một lời khuyên không hợp với tất cả. Bạn có thể [kiểm tra thể trạng 90 giây](../quiz/) để có bản phân tích cá nhân hoá cho cha mẹ mình, thay vì áp một công thức chung. Với gia đình muốn theo dõi đều đặn hơn, [App IKIHEALING](../app.html) cho phép ghi nhật ký sinh hoạt ngắn mỗi ngày và nhìn ra quy luật theo thời gian.
 
 ## Một ngày ăn uống mẫu cho người lớn tuổi
 
@@ -156,7 +156,7 @@ Với người ăn được ít, hãy chia nhỏ thành 5–6 bữa thay vì c�
 
 ## Bốn hiểu lầm cần bỏ
 
-**"Có thuốc bổ não là đủ, không cần đổi ăn uống."** Không có sản phẩm nào thay thế được một chế độ ăn đa dạng và lối sống đều đặn. Mọi thực phẩm bổ sung, kể cả của IKI, đều chỉ là phần bổ trợ bên cạnh bữa ăn.
+**"Có thuốc bổ não là đủ, không cần đổi ăn uống."** Không có sản phẩm nào thay thế được một chế độ ăn đa dạng và lối sống đều đặn. Mọi thực phẩm bổ sung, kể cả của IKIHEALING, đều chỉ là phần bổ trợ bên cạnh bữa ăn.
 
 **"Người già ăn ít lại cho nhẹ người."** Đây là hiểu lầm gây hại nhất trong nhóm này. Ăn quá ít ở tuổi già dẫn tới thiếu đạm, mất cơ, yếu sức và dễ ngã. Người lớn tuổi cần ăn *đủ chất* trong khẩu phần nhỏ hơn, không phải ăn ít đi.
 

@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suc-khoe-cho-nhan-vien-sale-hero.jpg",
   "hero_alt": "Chăm sóc sức khoẻ khi di chuyển nhiều",
   "reading_min": 15,
@@ -211,8 +211,8 @@ Một dấu hiệu đơn giản để tự kiểm là màu nước tiểu: vàng
 
 **"Thực phẩm bổ sung sẽ bù lại được lối sống thất thường."** Thực phẩm bổ sung chỉ là thứ đi kèm hỗ trợ cho lối sống, không thay thế bữa ăn cân bằng, giấc ngủ hay việc uống điều độ. Nền tảng vẫn luôn là thói quen hằng ngày.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Anh D., một nhân viên kinh doanh mảng thiết bị, từng chia sẻ rằng suốt nhiều năm anh gần như bỏ bữa sáng và bữa trưa vì chạy khách liên tục, rồi tối lại ăn rất nhiều kèm những buổi tiếp khách kéo dài. Anh thường thấy mệt, khó tập trung vào buổi chiều và ngủ chập chờn. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, anh bắt đầu bằng đúng hai việc nhỏ: để sẵn một túi hạt và vài quả chuối trên xe để không bỏ bữa, và đặt cho mình một giới hạn số ly khi phải tiếp khách, uống xen kẽ nước lọc. Vài tuần sau anh kể rằng buổi chiều của mình đỡ uể oải hơn và anh thấy dễ chịu hơn khi không còn để bụng rỗng cả ngày. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
+Anh D., một nhân viên kinh doanh mảng thiết bị, từng chia sẻ rằng suốt nhiều năm anh gần như bỏ bữa sáng và bữa trưa vì chạy khách liên tục, rồi tối lại ăn rất nhiều kèm những buổi tiếp khách kéo dài. Anh thường thấy mệt, khó tập trung vào buổi chiều và ngủ chập chờn. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, anh bắt đầu bằng đúng hai việc nhỏ: để sẵn một túi hạt và vài quả chuối trên xe để không bỏ bữa, và đặt cho mình một giới hạn số ly khi phải tiếp khách, uống xen kẽ nước lọc. Vài tuần sau anh kể rằng buổi chiều của mình đỡ uể oải hơn và anh thấy dễ chịu hơn khi không còn để bụng rỗng cả ngày. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Chị H. (Hải Phòng) — người sale giữ giọng và giữ nhịp ngủ
@@ -223,6 +223,6 @@ Chị H. làm trưởng nhóm kinh doanh, mỗi ngày gọi hàng chục cuộc 
 
 Nghề kinh doanh, sale đòi hỏi bạn luôn ở trạng thái sẵn sàng, và chính điều đó khiến việc giữ sức khoẻ trở nên quan trọng hơn chứ không phải ít đi. Bạn không cần đảo lộn công việc hay từ bỏ những bàn tiếp khách quan trọng. Bạn chỉ cần đặt lại vài thói quen nhỏ vào đúng chỗ: một túi đồ ăn cầm tay trên xe để không bỏ bữa, một giới hạn rõ ràng khi tiếp khách, một bình nước ấm để giữ giọng, vài phút giãn cơ khi xuống xe, và một giấc ngủ được ưu tiên hơn một chút.
 
-Hãy chọn một việc dễ nhất để bắt đầu ngay tuần này — thường là chuẩn bị sẵn đồ ăn nhẹ hoặc uống đủ nước — làm cho tới khi nó thành phản xạ tự nhiên, rồi mới thêm việc tiếp theo. Đi chậm mà chắc, mỗi tháng vững thêm một thói quen, một năm sau bạn sẽ thấy mình vẫn giữ được phong độ mà nghề đòi hỏi. Ứng dụng IKI có thể là một người bạn đồng hành nhắc bạn giữ những thói quen nhỏ ấy giữa ngày bận, nhưng thứ tạo ra khác biệt vẫn là chính những lựa chọn đều đặn của bạn mỗi ngày.
+Hãy chọn một việc dễ nhất để bắt đầu ngay tuần này — thường là chuẩn bị sẵn đồ ăn nhẹ hoặc uống đủ nước — làm cho tới khi nó thành phản xạ tự nhiên, rồi mới thêm việc tiếp theo. Đi chậm mà chắc, mỗi tháng vững thêm một thói quen, một năm sau bạn sẽ thấy mình vẫn giữ được phong độ mà nghề đòi hỏi. Ứng dụng IKIHEALING có thể là một người bạn đồng hành nhắc bạn giữ những thói quen nhỏ ấy giữa ngày bận, nhưng thứ tạo ra khác biệt vẫn là chính những lựa chọn đều đặn của bạn mỗi ngày.
 
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có dấu hiệu bất thường kéo dài hoặc bệnh lý nền, hãy đi khám và hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.

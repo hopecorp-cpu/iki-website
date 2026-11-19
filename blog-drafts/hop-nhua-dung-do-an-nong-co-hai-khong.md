@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-20",
   "updated": "2026-08-20",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/hop-nhua-dung-do-an-nong-co-hai-khong-hero.jpg",
   "hero_alt": "Hộp đựng thức ăn bằng thuỷ tinh và nhựa xếp cạnh nhau trên bàn bếp",
   "reading_min": 13,

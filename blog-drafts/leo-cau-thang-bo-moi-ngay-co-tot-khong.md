@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/leo-cau-thang-bo-moi-ngay-co-tot-khong-hero.jpg",
   "hero_alt": "Cầu thang bộ trong toà nhà với ánh sáng tự nhiên từ cửa sổ",
   "reading_min": 13,
@@ -172,7 +172,7 @@ Vận động không có con số thì rất dễ nản vì cảm giác "chẳng
 - **Thời gian nhịp thở trở lại bình thường** sau khi leo. Ban đầu có thể mất vài phút, sau vài tuần thường ngắn lại rõ rệt.
 - **Cảm giác chân buổi sáng hôm sau.** Đau nhức nhẹ trong 1–2 ngày đầu là bình thường; đau nhói ở khớp thì không, và đó là tín hiệu nên giảm lượng hoặc đi khám.
 
-Ghi lại ba chỉ dấu này mỗi tuần một lần là đủ. Nếu muốn đặt chúng cạnh những mặt khác của lối sống — giấc ngủ, ăn uống, mức căng thẳng — [bài khảo sát thể trạng 90 giây](https://ikihealing.com/quiz) cho một điểm mốc để bạn đối chiếu lại sau vài tháng. Bạn có thể dùng sổ tay, hoặc ghi nhật ký thói quen và cảm nhận cơ thể trên [App IKI](https://ikihealing.com/app.html) để nhìn được xu hướng theo tháng thay vì đoán theo cảm tính.
+Ghi lại ba chỉ dấu này mỗi tuần một lần là đủ. Nếu muốn đặt chúng cạnh những mặt khác của lối sống — giấc ngủ, ăn uống, mức căng thẳng — [bài khảo sát thể trạng 90 giây](https://ikihealing.com/quiz) cho một điểm mốc để bạn đối chiếu lại sau vài tháng. Bạn có thể dùng sổ tay, hoặc ghi nhật ký thói quen và cảm nhận cơ thể trên [App IKIHEALING](https://ikihealing.com/app.html) để nhìn được xu hướng theo tháng thay vì đoán theo cảm tính.
 
 ## Kết: bậc thang gần nhất là phòng tập rẻ nhất bạn có
 

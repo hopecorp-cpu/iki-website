@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngu-bao-nhieu-tieng-la-du-theo-do-tuoi-hero.jpg",
   "hero_alt": "Chiếc giường gọn gàng bên cửa sổ đón ánh sáng dịu buổi sớm, không gian yên tĩnh",
   "reading_min": 15,
@@ -172,7 +172,7 @@ Khi đã biết nhu cầu ngủ của mình, việc còn lại là thiết kế 
 
 **Giữ 30 phút cuối cố định.** Cùng một chuỗi việc, cùng thứ tự, mỗi tối. Sự lặp lại chính là thứ tạo ra tín hiệu.
 
-Trong giai đoạn đầu, ghi lại vài dòng mỗi sáng giúp bạn thấy tiến triển và biết điều gì thật sự có tác dụng với mình. Nếu muốn theo dõi có hệ thống hơn mà không phải nhớ, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký 30 giây để ghi nhanh giấc ngủ và mức năng lượng trong ngày, rồi tổng hợp lại thành xu hướng theo tuần. Việc nhìn thấy dữ liệu của chính mình thường thuyết phục hơn nhiều so với đọc khuyến nghị chung.
+Trong giai đoạn đầu, ghi lại vài dòng mỗi sáng giúp bạn thấy tiến triển và biết điều gì thật sự có tác dụng với mình. Nếu muốn theo dõi có hệ thống hơn mà không phải nhớ, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký 30 giây để ghi nhanh giấc ngủ và mức năng lượng trong ngày, rồi tổng hợp lại thành xu hướng theo tuần. Việc nhìn thấy dữ liệu của chính mình thường thuyết phục hơn nhiều so với đọc khuyến nghị chung.
 
 Và nếu bạn chưa biết nên bắt đầu từ đâu, [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ gợi ý hướng phù hợp với cơ địa và nhịp sống hiện tại của bạn.
 

@@ -8,7 +8,7 @@
   "category": "cam-nang-suc-khoe",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/gan-nhiem-mo-hero.jpg",
   "hero_alt": "Rau xanh, trái cây và nước lọc cho chế độ ăn lành mạnh",
   "reading_min": 10,

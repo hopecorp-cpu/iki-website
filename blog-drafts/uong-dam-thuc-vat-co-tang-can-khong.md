@@ -7,7 +7,7 @@
   "keyword": "uống đạm thực vật có tăng cân không",
   "category": "dinh-duong",
   "date": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-dam-thuc-vat-co-tang-can-khong-hero.jpg",
   "hero_alt": "Ly bột đạm thực vật pha sẵn bên cạnh muỗng đong, hạt và trái cây trên bàn gỗ sáng",
   "reading_min": 14,
@@ -49,8 +49,8 @@ Một ly đạm thực vật đóng góp khoảng 100–150 kcal vào cột "n�
 
 > Không có công thức chung cho tất cả mọi người — nhu cầu năng lượng của một nhân viên văn phòng 45 tuổi và một người tập gym bốn buổi mỗi tuần chênh nhau rất xa. Nếu chưa rõ mình đang ở đâu, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có một điểm khởi đầu cụ thể trước khi tính toán.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKI — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKIHEALING — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
 :::
 
 ## Một khẩu phần đạm thực vật thực sự chứa bao nhiêu
@@ -190,7 +190,7 @@ Quay lại câu hỏi ban đầu — **uống đạm thực vật có tăng cân
 
 Ly đạm thực vật không phải phép màu và cũng không phải mối đe doạ. Nó là một công cụ đơn giản để bảo đảm khẩu phần của bạn có đủ đạm trong những lúc bữa ăn thật khó đáp ứng. Việc nó đưa cân bạn đi đâu hoàn toàn nằm ở cách bạn đặt nó vào bức tranh chung.
 
-Nếu bạn muốn có một điểm khởi đầu cá nhân hoá — biết cơ địa mình nên ưu tiên nhóm thực phẩm nào và nên bắt đầu từ đâu — hãy thử bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz). Và nếu bạn muốn theo dõi khẩu phần hằng ngày mà ngại ghi chép, [ứng dụng IKI](https://ikihealing.com/app.html) cho phép quét bữa ăn và ghi nhật ký nhanh để bạn nhìn được xu hướng của mình sau vài tuần.
+Nếu bạn muốn có một điểm khởi đầu cá nhân hoá — biết cơ địa mình nên ưu tiên nhóm thực phẩm nào và nên bắt đầu từ đâu — hãy thử bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz). Và nếu bạn muốn theo dõi khẩu phần hằng ngày mà ngại ghi chép, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) cho phép quét bữa ăn và ghi nhật ký nhanh để bạn nhìn được xu hướng của mình sau vài tuần.
 
 ## Nguồn tham khảo
 
@@ -198,4 +198,4 @@ Nếu bạn muốn có một điểm khởi đầu cá nhân hoá — biết cơ
 - Sức khoẻ & Đời sống (Bộ Y tế) — *Cách cân đối đạm thực vật trong bữa ăn*: [suckhoedoisong.vn](https://suckhoedoisong.vn/cach-can-doi-dam-thuc-vat-trong-bua-an-169251128090652081.htm)
 - Nhà thuốc Long Châu — *Ăn dư chất đạm sẽ bị gì? Một ngày ăn bao nhiêu đạm là đủ?*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/an-du-chat-dam-se-bi-gi-nen-an-bao-nhieu-dam-1-ngay.html)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*
+*Bài viết do Đội ngũ Health Coach IKIHEALING biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*

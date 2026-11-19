@@ -8,7 +8,7 @@
   "category": "Chăm sóc sức khoẻ chủ động",
   "date": "2026-07-31",
   "updated": "2026-07-31",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-gi-de-tap-trung-lam-viec-hero.jpg",
   "hero_alt": "Bàn làm việc gọn gàng với bữa sáng nhẹ và một tách trà ấm",
   "reading_min": 14,
@@ -72,7 +72,7 @@ Bên cạnh năng lượng, não còn cần nguyên liệu để tạo ra các c
 
 ## Bốn kiểu tụt tập trung thường gặp trong một ngày làm việc
 
-Trước khi đổi thực đơn, hãy nhận diện xem bạn đang rơi vào kiểu nào. Trong quá trình đồng hành cùng người dùng, đội ngũ Health Coach IKI thấy phần lớn các trường hợp gom về bốn nhóm quen thuộc sau.
+Trước khi đổi thực đơn, hãy nhận diện xem bạn đang rơi vào kiểu nào. Trong quá trình đồng hành cùng người dùng, đội ngũ Health Coach IKIHEALING thấy phần lớn các trường hợp gom về bốn nhóm quen thuộc sau.
 
 ### Kiểu 1: sáng dậy đã mờ mịt
 
@@ -124,7 +124,7 @@ Chỉ cần cơ thể thiếu nước nhẹ, khả năng chú ý và trí nhớ 
 
 Nếu chỉ được thay đổi một bữa duy nhất, hãy chọn bữa sáng. Đây là bữa quyết định bạn bước vào ba tiếng làm việc chất lượng nhất trong ngày với trạng thái nào.
 
-Công thức đơn giản mà đội ngũ IKI thường gợi ý: **một phần tinh bột chậm + một phần đạm + một chút béo tốt**. Ví dụ cụ thể để bạn dùng ngay:
+Công thức đơn giản mà đội ngũ IKIHEALING thường gợi ý: **một phần tinh bột chậm + một phần đạm + một chút béo tốt**. Ví dụ cụ thể để bạn dùng ngay:
 
 - Yến mạch nấu với sữa hoặc sữa hạt, thêm một thìa bơ đậu phộng và vài lát chuối.
 - Hai quả trứng luộc, một củ khoai lang vừa, một nắm rau luộc.
@@ -182,7 +182,7 @@ Caffeine hoạt động bằng cách chặn tạm thời tín hiệu buồn ng�
 
 Trà xanh chứa caffeine ở mức thấp hơn cà phê, đi kèm L-theanine — một hợp chất tạo cảm giác tỉnh táo mà thư thái, ít gây bồn chồn. Với người nhạy cảm với cà phê, đây thường là lựa chọn dễ chịu hơn nhiều cho buổi làm việc dài.
 
-Nếu bạn muốn giữ thói quen cầm một tách gì đó nóng mà giảm bớt cà phê, các [thức uống thay cà phê trong cửa hàng IKI](https://ikihealing.com/shop/) là hướng đáng thử. Bài [cà phê và sức khoẻ](ca-phe-va-suc-khoe.html) và [uống trà đúng cách](uong-tra-dung-cach.html) đi sâu hơn vào liều lượng và thời điểm.
+Nếu bạn muốn giữ thói quen cầm một tách gì đó nóng mà giảm bớt cà phê, các [thức uống thay cà phê trong cửa hàng IKIHEALING](https://ikihealing.com/shop/) là hướng đáng thử. Bài [cà phê và sức khoẻ](ca-phe-va-suc-khoe.html) và [uống trà đúng cách](uong-tra-dung-cach.html) đi sâu hơn vào liều lượng và thời điểm.
 
 ## Ba yếu tố nền không nằm trên đĩa thức ăn
 
@@ -210,7 +210,7 @@ Một vài quan sát thực tế:
 - **Người cơ địa thiên nhiệt** (hay nóng trong, dễ khát, dễ bứt rứt): ăn nhiều đồ chiên xào cay nóng dễ dẫn tới bồn chồn, khó ngồi yên, và cảm giác này rất dễ bị nhầm với "mất tập trung". Nhóm này hợp rau xanh, trái cây, đồ luộc hấp, uống nhiều nước.
 - **Người tỳ vị yếu** (dễ đầy bụng, tiêu hoá kém): ăn ba bữa lớn không hợp bằng chia nhỏ thành năm bữa vừa. Cùng một tổng lượng thức ăn, cách chia khác nhau cho cảm giác đầu óc khác hẳn.
 
-Đây là lý do IKI không đưa ra một thực đơn duy nhất cho tất cả mọi người. Bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) mô tả kỹ từng nhóm, còn bài [ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html) hướng dẫn cách điều chỉnh theo thời tiết. Nếu bạn muốn có kết quả nhanh, hãy làm [bài kiểm tra thể trạng 90 giây](../quiz/) — kết quả sẽ chỉ ra bạn nên bắt đầu từ đâu.
+Đây là lý do IKIHEALING không đưa ra một thực đơn duy nhất cho tất cả mọi người. Bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) mô tả kỹ từng nhóm, còn bài [ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html) hướng dẫn cách điều chỉnh theo thời tiết. Nếu bạn muốn có kết quả nhanh, hãy làm [bài kiểm tra thể trạng 90 giây](../quiz/) — kết quả sẽ chỉ ra bạn nên bắt đầu từ đâu.
 
 ## Lộ trình 7 ngày để tự kiểm chứng
 
@@ -226,7 +226,7 @@ Thay vì đổi tất cả cùng lúc rồi bỏ cuộc sau ba ngày, hãy thử
 1. **Đi bộ 10 phút sau bữa trưa** — Kể cả chỉ đi vòng quanh toà nhà. Đây thường là ngày cho cảm nhận rõ nhất.
 1. **Cố định giờ đi ngủ** — Đặt giờ tắt màn hình trước khi ngủ 45 phút và giữ đúng một khung giờ.
 
-Mẹo nhỏ nhưng quan trọng: mỗi ngày ghi lại một con số duy nhất — mức tập trung trung bình theo thang 1-10. Sau bảy ngày, nhìn lại dãy số đó bạn sẽ biết thay đổi nào thực sự có tác dụng với riêng mình, thay vì tin vào cảm giác mơ hồ. Nếu muốn tự động hoá việc ghi chép và nhận nhắc nhở theo thể trạng, [App IKI](../app.html) làm sẵn phần đó cho bạn.
+Mẹo nhỏ nhưng quan trọng: mỗi ngày ghi lại một con số duy nhất — mức tập trung trung bình theo thang 1-10. Sau bảy ngày, nhìn lại dãy số đó bạn sẽ biết thay đổi nào thực sự có tác dụng với riêng mình, thay vì tin vào cảm giác mơ hồ. Nếu muốn tự động hoá việc ghi chép và nhận nhắc nhở theo thể trạng, [App IKIHEALING](../app.html) làm sẵn phần đó cho bạn.
 
 Cuối cùng, hãy nhớ rằng tập trung là kết quả của một hệ thống, không phải của một món ăn. Ăn đều, ngủ đủ, uống đủ nước và vận động nhẹ xen kẽ — bốn việc nghe rất cũ này vẫn là nền tảng bền nhất, và chúng miễn phí.
 

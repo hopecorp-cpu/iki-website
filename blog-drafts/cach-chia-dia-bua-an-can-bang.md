@@ -8,7 +8,7 @@
   "category": "Thói quen ăn uống",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cach-chia-dia-bua-an-can-bang-hero.jpg",
   "hero_alt": "Một đĩa ăn chia phần rõ ràng gồm rau củ, đạm và tinh bột trên bàn gỗ",
   "reading_min": 14,
@@ -158,8 +158,8 @@ Vì quy tắc đĩa không dùng con số, nhiều người băn khoăn không b
 
 Ba tín hiệu này đáng tin hơn cân nặng đo hằng ngày, vì cân nặng dao động theo nước và muối trong ngắn hạn. Nếu bạn muốn ghi lại có hệ thống, hãy chụp lại đĩa ăn của mình trong một tuần — nhìn lại bảy tấm ảnh thường cho bạn nhiều thông tin hơn bảy lần đứng lên cân.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Thói quen "thử một thứ trước" không chỉ đúng với bữa ăn. Trong 1.541 đơn hàng thực tế của IKI Healing, **59% số đơn chỉ có một món** và **16% số đơn có từ ba món trở lên** — người mua chọn một thay đổi, làm cho quen, rồi mới tính bước tiếp theo. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Thói quen "thử một thứ trước" không chỉ đúng với bữa ăn. Trong 1.541 đơn hàng thực tế của IKIHEALING, **59% số đơn chỉ có một món** và **16% số đơn có từ ba món trở lên** — người mua chọn một thay đổi, làm cho quen, rồi mới tính bước tiếp theo. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
 :::
 
 ## Bảy ngày thực hành quy tắc đĩa
@@ -174,7 +174,7 @@ Thói quen "thử một thứ trước" không chỉ đúng với bữa ăn. Tro
 - **Ngày 6:** áp dụng quy tắc "đĩa đầu tiên" ở một bữa ăn ngoài.
 - **Ngày 7:** nhìn lại tuần vừa qua, giữ ba điều dễ nhất và bỏ những gì quá sức.
 
-Sau bảy ngày, thứ còn lại mới là thứ đáng giá. Cách xây thói quen theo chặng nhỏ này chính là tinh thần của [lộ trình chăm sóc sức khoẻ cho người mới bắt đầu](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html). Muốn theo dõi đều đặn hơn, bạn có thể ghi lại bữa ăn bằng [App IKI](https://ikihealing.com/app.html), hoặc bắt đầu bằng [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết tỷ lệ nào hợp với cơ địa mình hơn.
+Sau bảy ngày, thứ còn lại mới là thứ đáng giá. Cách xây thói quen theo chặng nhỏ này chính là tinh thần của [lộ trình chăm sóc sức khoẻ cho người mới bắt đầu](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html). Muốn theo dõi đều đặn hơn, bạn có thể ghi lại bữa ăn bằng [App IKIHEALING](https://ikihealing.com/app.html), hoặc bắt đầu bằng [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết tỷ lệ nào hợp với cơ địa mình hơn.
 
 ## Bốn hiểu lầm thường gặp
 

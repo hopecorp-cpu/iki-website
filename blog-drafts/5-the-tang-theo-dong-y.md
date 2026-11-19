@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/5-the-tang-theo-dong-y-hero.jpg",
   "hero_alt": "Bàn tay đang bắt mạch cổ tay bên cạnh khay trà thảo mộc và rau củ tươi, gợi hình ảnh quan sát cơ địa theo Đông y",
   "reading_min": 15,
@@ -238,7 +238,7 @@ Xu hướng cơ địa cũng đổi theo mùa, nên việc điều chỉnh bữa
 
 **"Thực phẩm bổ sung có thể thay đổi thể tạng."** Thực phẩm bổ sung, đúng như tên gọi, chỉ đóng vai trò hỗ trợ cho một chế độ ăn uống và sinh hoạt cân bằng, không phải là giải pháp thay thế cho lối sống lành mạnh hay cho việc thăm khám khi cần.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Chị M., một thành viên trong cộng đồng, ngoài 30 tuổi, làm thiết kế đồ hoạ — công việc ngồi máy tính từ sáng đến tối, chạy dự án gấp là hay đặt đồ ăn khuya. Chị kể mình vốn hay thấy người nặng nề, sáng dậy uể oải dù ngủ không ít, đầu óc lúc nào cũng như "chưa tỉnh hẳn", và ngồi làm việc cả ngày ít khi đứng lên. Sau khi đọc về các thể tạng và tự quan sát chừng hai tuần bằng vài dòng ghi chú mỗi tối, chị nhận ra mình nghiêng khá rõ về thể tạng Đàm thấp. Thay vì thay đổi ồ ạt, chị thử điều chỉnh vài thói quen nhỏ: giảm đồ chiên ngọt và trà sữa buổi tối, đặt báo nhắc mỗi giờ đứng dậy đi lại vài phút, và duy trì đi bộ nhanh 30 phút mỗi ngày — thường là quanh khu nhà sau giờ làm. Tuần đầu chị thấy khá gượng, nhất là khoản phải đứng dậy giữa lúc đang tập trung, nhưng dần dần những quãng nghỉ ngắn ấy lại thành lúc chị thấy dễ chịu nhất trong ngày. Sau một thời gian, chị nói mình cảm thấy nhẹ nhõm và có tinh thần hơn khi bắt đầu ngày mới, và bắt đầu để ý cơ thể theo cách chủ động hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 

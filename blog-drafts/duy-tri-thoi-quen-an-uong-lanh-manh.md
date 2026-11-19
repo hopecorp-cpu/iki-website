@@ -8,7 +8,7 @@
   "category": "Thói quen & lối sống",
   "date": "2026-08-06",
   "updated": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/duy-tri-thoi-quen-an-uong-lanh-manh-hero.jpg",
   "hero_alt": "Bếp gọn gàng với hộp rau đã sơ chế và trái cây để sẵn trên bàn",
   "reading_min": 14,
@@ -76,8 +76,8 @@ Nhìn thì chậm. Nhưng sau bốn tuần bạn có bốn thói quen còn sốn
 
 **Ưu tiên thay đổi kiểu "thêm" trước thay đổi kiểu "bỏ".** Thêm rau, thêm đạm, thêm nước — não không chống lại việc thêm. Bỏ trà sữa, bỏ đồ chiên, bỏ ăn khuya — não sẽ chống lại quyết liệt. Điều thú vị là khi bạn thêm đủ nhiều, phần cần bỏ tự co lại mà không cần phải chiến đấu với nó.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Dữ liệu 1.541 đơn hàng thực tế của IKI Healing cho thấy **59% số đơn chỉ có một món** — người Việt bước vào lối sống sức khoẻ chủ động bằng cách thử một thứ trước, không sắm cả bộ. Chỉ 16% số đơn có từ ba món trở lên. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Dữ liệu 1.541 đơn hàng thực tế của IKIHEALING cho thấy **59% số đơn chỉ có một món** — người Việt bước vào lối sống sức khoẻ chủ động bằng cách thử một thứ trước, không sắm cả bộ. Chỉ 16% số đơn có từ ba món trở lên. Xem đầy đủ trong [Báo cáo cấu trúc giỏ hàng sức khoẻ 2026](bao-cao-cau-truc-gio-hang-2026.html).
 :::
 
 ## 3. Neo thói quen mới vào việc bạn vốn đã làm
@@ -148,7 +148,7 @@ Con số trên cân thay đổi chậm, dao động vì nhiều lý do không li
 - Cơn thèm đồ ngọt lúc ba giờ chiều có bớt dữ dội không?
 - Bạn có còn phải quyết định "ăn gì" trong trạng thái đói và cáu không?
 
-Cách đơn giản để theo dõi: mỗi tối ghi ba dòng — hôm nay ăn thế nào, ngủ thế nào, mức năng lượng theo thang 1 đến 5. Sau ba tuần đọc lại, bạn sẽ thấy quy luật của chính mình rõ hơn bất kỳ lời khuyên chung nào. Nếu muốn việc ghi nhẹ hơn và có phần tổng hợp theo thời gian, [ứng dụng IKI](https://ikihealing.com/app.html) có nhật ký ngắn mỗi ngày và biểu đồ xu hướng.
+Cách đơn giản để theo dõi: mỗi tối ghi ba dòng — hôm nay ăn thế nào, ngủ thế nào, mức năng lượng theo thang 1 đến 5. Sau ba tuần đọc lại, bạn sẽ thấy quy luật của chính mình rõ hơn bất kỳ lời khuyên chung nào. Nếu muốn việc ghi nhẹ hơn và có phần tổng hợp theo thời gian, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có nhật ký ngắn mỗi ngày và biểu đồ xu hướng.
 
 ## 8. Đừng đi một mình
 
@@ -188,8 +188,8 @@ Nếu bạn muốn một khung cụ thể để bắt đầu ngay hôm nay:
 
 Sau ba mươi ngày, đừng "kết thúc". Chỉ cần giữ lại những gì đã thành nếp, rồi thêm một thay đổi mới khi bạn thấy sẵn sàng. Không có vạch đích trong chuyện này — và đó là tin tốt, vì nghĩa là bạn cũng không bao giờ có thể thua.
 
-:::case Từ cộng đồng IKI
-Điều lặp lại nhiều nhất trong các buổi chia sẻ của cộng đồng IKI không phải là ai đó tìm ra một chế độ ăn hoàn hảo, mà là họ hạ tiêu chuẩn xuống mức làm được mỗi ngày. Những người giữ được nếp lâu nhất thường mô tả cùng một thứ: một thay đổi nhỏ đến mức nghe qua tưởng chẳng đáng gì — thêm đĩa rau, uống cốc nước trước bữa, rửa sẵn rau tối Chủ Nhật — nhưng lặp lại đủ lâu để không còn phải nghĩ đến nữa.
+:::case Từ cộng đồng IKIHEALING
+Điều lặp lại nhiều nhất trong các buổi chia sẻ của cộng đồng IKIHEALING không phải là ai đó tìm ra một chế độ ăn hoàn hảo, mà là họ hạ tiêu chuẩn xuống mức làm được mỗi ngày. Những người giữ được nếp lâu nhất thường mô tả cùng một thứ: một thay đổi nhỏ đến mức nghe qua tưởng chẳng đáng gì — thêm đĩa rau, uống cốc nước trước bữa, rửa sẵn rau tối Chủ Nhật — nhưng lặp lại đủ lâu để không còn phải nghĩ đến nữa.
 :::
 
 ## Kết: thiết kế thắng ý chí

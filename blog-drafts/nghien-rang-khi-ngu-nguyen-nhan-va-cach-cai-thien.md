@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nghien-rang-khi-ngu-nguyen-nhan-va-cach-cai-thien-hero.jpg",
   "hero_alt": "Góc phòng ngủ yên tĩnh với ánh đèn ấm dịu và chiếc gối trắng phẳng phiu",
   "reading_min": 14,
@@ -186,7 +186,7 @@ Nghiến răng khi ngủ hiếm khi là một vấn đề đứng riêng. Phần
 
 Vì vậy hướng đi hợp lý là hai nhánh song song: **bảo vệ răng** bằng cách đi khám sớm để đánh giá mức mòn và cân nhắc máng nhai, đồng thời **gỡ dần nguyên nhân** bằng cách cắt chất kích thích buổi tối, giữ giờ ngủ đều và tạo một khoảng dừng thật sự trước khi lên giường.
 
-Bạn có thể bắt đầu ngay tối nay bằng việc dễ nhất: dừng cà phê sau buổi trưa, tắt màn hình sớm hơn 30 phút, và tự kiểm tra xem lúc thức mình có đang siết hàm không. Muốn đi xa hơn, hãy làm [bài kiểm tra thể trạng 90 giây](../quiz/) và tham khảo [ứng dụng IKI](../app.html) để theo dõi nếp ngủ của mình đều đặn hơn.
+Bạn có thể bắt đầu ngay tối nay bằng việc dễ nhất: dừng cà phê sau buổi trưa, tắt màn hình sớm hơn 30 phút, và tự kiểm tra xem lúc thức mình có đang siết hàm không. Muốn đi xa hơn, hãy làm [bài kiểm tra thể trạng 90 giây](../quiz/) và tham khảo [ứng dụng IKIHEALING](../app.html) để theo dõi nếp ngủ của mình đều đặn hơn.
 
 ## Nguồn tham khảo
 

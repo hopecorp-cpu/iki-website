@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-10-12",
   "updated": "2026-10-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/moi-kho-nut-ne-thieu-chat-gi-hero.jpg",
   "hero_alt": "Ly nước ấm, bát hạt và rau xanh trên bàn gỗ dưới ánh sáng dịu buổi sáng",
   "reading_min": 14,
@@ -246,7 +246,7 @@ Môi khô hay quay lại theo mùa, nên cách tốt nhất không phải là đ
 
 **Để son dưỡng ở ba chỗ:** bàn làm việc, túi xách, đầu giường. Thói quen tốt nhất là thói quen không cần nhớ.
 
-Nếu muốn có một người đồng hành nhắc nhịp uống nước, ăn uống và ngủ nghỉ theo đúng thể trạng của mình, [App IKI](https://ikihealing.com/app.html) có thể giúp bạn ghi lại bữa ăn trong 30 giây và nhận gợi ý cá nhân hoá mỗi ngày.
+Nếu muốn có một người đồng hành nhắc nhịp uống nước, ăn uống và ngủ nghỉ theo đúng thể trạng của mình, [App IKIHEALING](https://ikihealing.com/app.html) có thể giúp bạn ghi lại bữa ăn trong 30 giây và nhận gợi ý cá nhân hoá mỗi ngày.
 
 ## Tóm lại
 

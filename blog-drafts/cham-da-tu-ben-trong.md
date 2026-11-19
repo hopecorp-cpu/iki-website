@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cham-da-tu-ben-trong-hero.jpg",
   "hero_alt": "Dinh dưỡng cho làn da khoẻ",
   "reading_min": 13,
@@ -158,7 +158,7 @@ Quanh chuyện ăn uống và làn da có không ít quan niệm khiến nhiều
 Hiểu đúng giúp bạn chăm da một cách bình tĩnh và bền vững, thay vì chạy theo lời mách bảo truyền miệng rồi thất vọng.
 
 :::case Chị Trâm (32 tuổi, thiết kế đồ hoạ, Hà Nội) — chăm da bắt đầu từ đĩa cơm
-Chị Trâm, 32 tuổi, làm thiết kế đồ hoạ tự do ở Hà Nội, quen làm việc khuya theo deadline của khách. Chị chia sẻ rằng mình từng có nếp ăn khá thất thường: sáng bỏ bữa vì dậy muộn, trưa ăn vội trước màn hình, chiều tối hay dằn bụng bằng trà sữa và đồ ngọt vì cho rằng như vậy "đỡ tốn thời gian". Trớ trêu là chị đầu tư không ít cho mỹ phẩm — kệ đồ dưỡng da của chị đủ các bước — nhưng vẫn cảm thấy làn da thời gian đó kém tươi, hay khô và thiếu sức sống. Một người bạn hỏi đùa "thế bữa ăn của cậu có bước dưỡng nào chưa", câu nói làm chị nghĩ mãi. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị thử một thay đổi đơn giản: mỗi bữa đều có một nguồn đạm, thêm rau xanh, đổi món tráng miệng ngọt sang trái cây tươi và một nắm hạt, đồng thời để chai nước bên bàn làm việc để uống đều hơn. Những hôm chạy deadline, chị vẫn giữ được tối thiểu là quả trứng luộc và ít trái cây cắt sẵn trong tủ lạnh. Chị cũng tập đi ngủ sớm hơn được chừng một tiếng vào những ngày không gấp. Sau vài tuần giữ nếp này, chị nói điều chị thấy rõ nhất là bản thân ăn uống điều độ hơn, người nhẹ nhõm hơn và làn da có cảm giác dễ chịu, bớt khô hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống và sinh hoạt, không phải lời khuyên y khoa hay cam kết về làn da; mỗi người có thể cảm nhận khác nhau tuỳ cơ địa, và nếu da có vấn đề kéo dài nên gặp bác sĩ da liễu.)
+Chị Trâm, 32 tuổi, làm thiết kế đồ hoạ tự do ở Hà Nội, quen làm việc khuya theo deadline của khách. Chị chia sẻ rằng mình từng có nếp ăn khá thất thường: sáng bỏ bữa vì dậy muộn, trưa ăn vội trước màn hình, chiều tối hay dằn bụng bằng trà sữa và đồ ngọt vì cho rằng như vậy "đỡ tốn thời gian". Trớ trêu là chị đầu tư không ít cho mỹ phẩm — kệ đồ dưỡng da của chị đủ các bước — nhưng vẫn cảm thấy làn da thời gian đó kém tươi, hay khô và thiếu sức sống. Một người bạn hỏi đùa "thế bữa ăn của cậu có bước dưỡng nào chưa", câu nói làm chị nghĩ mãi. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chị thử một thay đổi đơn giản: mỗi bữa đều có một nguồn đạm, thêm rau xanh, đổi món tráng miệng ngọt sang trái cây tươi và một nắm hạt, đồng thời để chai nước bên bàn làm việc để uống đều hơn. Những hôm chạy deadline, chị vẫn giữ được tối thiểu là quả trứng luộc và ít trái cây cắt sẵn trong tủ lạnh. Chị cũng tập đi ngủ sớm hơn được chừng một tiếng vào những ngày không gấp. Sau vài tuần giữ nếp này, chị nói điều chị thấy rõ nhất là bản thân ăn uống điều độ hơn, người nhẹ nhõm hơn và làn da có cảm giác dễ chịu, bớt khô hơn trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống và sinh hoạt, không phải lời khuyên y khoa hay cam kết về làn da; mỗi người có thể cảm nhận khác nhau tuỳ cơ địa, và nếu da có vấn đề kéo dài nên gặp bác sĩ da liễu.)
 :::
 
 ## Một tuần ăn uống chăm da, bắt đầu từ đâu

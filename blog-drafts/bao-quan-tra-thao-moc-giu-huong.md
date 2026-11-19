@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-09-10",
   "updated": "2026-09-10",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bao-quan-tra-thao-moc-giu-huong-hero.jpg",
   "hero_alt": "Hũ gốm đựng trà thảo mộc đậy kín đặt trong ngăn tủ bếp khô thoáng, cạnh tách trà hoa khô",
   "reading_min": 13,
@@ -107,7 +107,7 @@ Cách làm cụ thể, mất năm phút mỗi tuần:
 
 Thói quen này hợp một cách tự nhiên với nhịp uống trà đều đặn. Người pha một tách trà mỗi tối theo kiểu [nghi thức khép lại một ngày](thoi-quen-buoi-toi-cho-phu-nu.html) sẽ thấy hộp con vơi đúng nhịp mỗi tuần — trà luôn được dùng khi còn thơm nhất, và việc tiếp trà mỗi cuối tuần trở thành một cái cớ nhỏ để dọn lại góc pha trà. Với những loại trà buổi tối thiên về hương hoa như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) — phối hoa nhài, phục linh, hoa quế và trần bì, phần hương hoa chính là phần dễ bay nhất — chia nhỏ kiểu này là cách thực tế nhất để tách trà thứ ba mươi vẫn thơm gần bằng tách đầu tiên.
 
-Nhân tiện, mỗi người hợp một nhịp trà khác nhau: có người hợp tách trà ấm ban ngày ở văn phòng, có người chỉ cần một tách dịu cuối ngày. Nếu chưa rõ mình thuộc kiểu nào, bạn có thể làm [bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz) — biết nhịp của mình rồi thì mua trà đúng lượng, uống hết khi còn thơm, và chẳng bao giờ phải tiếc một hộp trà bay hương vì mua nhiều quá dùng không kịp.
+Nhân tiện, mỗi người hợp một nhịp trà khác nhau: có người hợp tách trà ấm ban ngày ở văn phòng, có người chỉ cần một tách dịu cuối ngày. Nếu chưa rõ mình thuộc kiểu nào, bạn có thể làm [bài kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) — biết nhịp của mình rồi thì mua trà đúng lượng, uống hết khi còn thơm, và chẳng bao giờ phải tiếc một hộp trà bay hương vì mua nhiều quá dùng không kịp.
 
 ## Có nên để trà thảo mộc trong tủ lạnh không
 
@@ -153,7 +153,7 @@ Gấp bài này lại, đây là những việc có thể làm xong trước khi
 - **Ngửi và ghi ngày.** Mở từng hộp trà đang có, ngửi nhanh một lượt; hộp nào còn thơm thì ghi ngày mở lên nắp, hộp nào có mùi lạ thì xử lý theo mục trên.
 - **Chia hộp con.** Rót lượng dùng một tuần ra hộp nhỏ để chỗ pha trà; hộp lớn đậy kín cất đi.
 
-Năm việc này không tốn đồng nào, nhưng cộng lại thường là khác biệt giữa một hộp trà thơm tới túi cuối và một hộp trà bỏ dở giữa chừng. Trà ngon không chỉ nằm ở lúc chọn mua — nó nằm ở từng ngày cái hộp ấy đứng yên đúng chỗ trong bếp của bạn. Và nếu muốn đi thêm một bước — biết mình hợp nhịp trà nào, mua đúng lượng để luôn uống lúc trà còn thơm — hãy dành 90 giây làm [bài kiểm tra thể trạng của IKI](https://ikihealing.com/quiz) trước lần mua tới.
+Năm việc này không tốn đồng nào, nhưng cộng lại thường là khác biệt giữa một hộp trà thơm tới túi cuối và một hộp trà bỏ dở giữa chừng. Trà ngon không chỉ nằm ở lúc chọn mua — nó nằm ở từng ngày cái hộp ấy đứng yên đúng chỗ trong bếp của bạn. Và nếu muốn đi thêm một bước — biết mình hợp nhịp trà nào, mua đúng lượng để luôn uống lúc trà còn thơm — hãy dành 90 giây làm [bài kiểm tra thể trạng của IKIHEALING](https://ikihealing.com/quiz) trước lần mua tới.
 
 Xin nhắc lại lần cuối cho rõ: toàn bộ bài viết bàn về cách giữ hương vị của một thức uống trong sinh hoạt hằng ngày. Trà thảo mộc là đồ uống, không phải thuốc, và không thay thế bất kỳ chỉ định y khoa nào.
 

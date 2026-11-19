@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-08-27",
   "updated": "2026-08-27",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cach-pha-tra-tui-loc-dung-cach-hero.jpg",
   "hero_alt": "Tách trà túi lọc đang hãm bên ấm nước và nhiệt kế trên bàn bếp sáng dịu",
   "reading_min": 13,

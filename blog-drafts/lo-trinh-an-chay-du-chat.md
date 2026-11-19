@@ -8,7 +8,7 @@
   "category_label": "Lộ trình chăm sóc sức khoẻ",
   "date": "2026-09-08",
   "updated": "2026-09-08",
-  "author": "Ban biên tập IKI",
+  "author": "Ban biên tập IKIHEALING",
   "hero_local": "assets/blog/an-chay-du-chat-can-bang-hero.jpg",
   "hero_alt": "Ảnh minh hoạ: lộ trình ăn chay đủ chất",
   "reading_min": 7,

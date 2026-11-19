@@ -7,7 +7,7 @@
   "keyword": "cách đọc hạn sử dụng thực phẩm",
   "category": "thuc-pham",
   "date": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/doc-han-su-dung-thuc-pham-dung-cach-hero.jpg",
   "hero_alt": "Các hộp thực phẩm xếp trên kệ bếp với nhãn hạn sử dụng",
   "reading_min": 13,
@@ -157,7 +157,7 @@ Với sản phẩm không ghi rõ, đây là mốc tham khảo thông dụng:
 Mẹo đơn giản nhất và hiệu quả nhất: **dán một mảnh băng dính giấy ghi ngày mở nắp** lên hộp. Mất năm giây, xoá bỏ hoàn toàn việc phải đoán "hộp này mình mở từ bao giờ nhỉ".
 
 :::case Cách sắp tủ lạnh giúp ít phải vứt đồ nhất
-Nhiều thành viên cộng đồng IKI áp dụng nguyên tắc **hàng cũ ra trước**: mỗi lần đi chợ về, đẩy đồ cũ ra phía ngoài rồi mới xếp đồ mới vào trong. Thêm một ngăn nhỏ gọi là "ngăn ăn trước" đặt ngang tầm mắt, để những thứ sắp tới hạn. Chỉ hai thói quen này, không cần app hay danh sách gì, đã giảm đáng kể lượng đồ phải bỏ mỗi tuần — và tiết kiệm được một khoản không nhỏ.
+Nhiều thành viên cộng đồng IKIHEALING áp dụng nguyên tắc **hàng cũ ra trước**: mỗi lần đi chợ về, đẩy đồ cũ ra phía ngoài rồi mới xếp đồ mới vào trong. Thêm một ngăn nhỏ gọi là "ngăn ăn trước" đặt ngang tầm mắt, để những thứ sắp tới hạn. Chỉ hai thói quen này, không cần app hay danh sách gì, đã giảm đáng kể lượng đồ phải bỏ mỗi tuần — và tiết kiệm được một khoản không nhỏ.
 :::
 
 ## Bảo quản đúng thì hạn sử dụng mới có ý nghĩa
@@ -216,7 +216,7 @@ Lần tới khi cầm một hộp thực phẩm quá hạn trong tay, hãy hỏi
 
 Hai câu hỏi đó xử lý được gần hết các tình huống trong bếp mà không cần thuộc lòng bảng biểu nào.
 
-Việc ăn uống lành mạnh không chỉ nằm ở chọn món gì, mà còn ở việc thực phẩm trong nhà được giữ đúng cách và dùng đúng lúc. Nếu bạn muốn nhìn tổng thể hơn về cách sắp xếp bữa ăn theo cơ địa của mình, [khảo sát thể tạng 90 giây của IKI](https://ikihealing.com/quiz) là điểm khởi đầu nhanh gọn, và [ứng dụng IKI](https://ikihealing.com/app.html) có thể quét bữa ăn để bạn thấy khẩu phần thật của mình đang thiếu hay thừa nhóm nào.
+Việc ăn uống lành mạnh không chỉ nằm ở chọn món gì, mà còn ở việc thực phẩm trong nhà được giữ đúng cách và dùng đúng lúc. Nếu bạn muốn nhìn tổng thể hơn về cách sắp xếp bữa ăn theo cơ địa của mình, [khảo sát thể tạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) là điểm khởi đầu nhanh gọn, và [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có thể quét bữa ăn để bạn thấy khẩu phần thật của mình đang thiếu hay thừa nhóm nào.
 
 Cũng đừng quên nhóm thực phẩm dễ bị bỏ quên nhất trong tủ bếp: các loại trà thảo mộc và gia vị khô. Chúng không hỏng nhanh, nhưng để lâu thì mất gần hết hương — mà hương chính là toàn bộ lý do ta mua chúng.
 

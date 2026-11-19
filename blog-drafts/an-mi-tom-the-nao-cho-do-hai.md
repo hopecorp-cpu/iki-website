@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-mi-tom-the-nao-cho-do-hai-hero.jpg",
   "hero_alt": "Tô mì nóng thêm rau xanh và trứng trên bàn bếp sáng dịu",
   "reading_min": 14,
@@ -165,7 +165,7 @@ Trong một tuần, bạn có khoảng hai mươi mốt bữa chính. Nếu mộ
 
 Ngược lại, nếu bảy trên hai mươi mốt bữa là mì trơ, thì điều đáng làm không phải là "cai mì" bằng ý chí, mà là lấp đầy tủ bếp bằng những lựa chọn nhanh khác. Ý chí thường thua sự tiện lợi; cách bền hơn là làm cho lựa chọn tốt trở nên tiện ngang lựa chọn cũ.
 
-Việc theo dõi xem trong tuần mình thực sự đã ăn gì và cơ thể phản hồi ra sao là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKI](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật của mình thay vì dựa vào trí nhớ.
+Việc theo dõi xem trong tuần mình thực sự đã ăn gì và cơ thể phản hồi ra sao là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKIHEALING](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật của mình thay vì dựa vào trí nhớ.
 
 ## Tổng kết
 

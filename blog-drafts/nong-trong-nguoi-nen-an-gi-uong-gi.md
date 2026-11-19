@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nong-trong-nguoi-nen-an-gi-uong-gi-hero.jpg",
   "hero_alt": "Đĩa rau củ quả tươi mát với dưa leo, bí đao và rau má bên ly nước lọc",
   "reading_min": 15,
@@ -165,7 +165,7 @@ Giữ nguyên mọi thứ, chỉ đổi ba điều: uống đủ nước, cắt 
 
 **Giảm tải căng thẳng.** Không dễ, nhưng cũng không thể bỏ qua. Vài phút thở chậm trước khi ngủ, tắt màn hình sớm hơn ba mươi phút, đi bộ sau bữa tối đều là những bước nhỏ mà làm được ngay.
 
-**Theo dõi để nhận ra quy luật của mình.** Nhiều người phát hiện cảm giác khó chịu luôn xuất hiện sau những tuần cụ thể — tuần có tiệc, tuần deadline, tuần ngủ ít. Ghi lại vài dòng mỗi ngày là cách rẻ nhất để thấy quy luật đó; [App IKI](https://ikihealing.com/app.html) làm đúng việc này nếu bạn thích ghi trên điện thoại thay vì sổ tay.
+**Theo dõi để nhận ra quy luật của mình.** Nhiều người phát hiện cảm giác khó chịu luôn xuất hiện sau những tuần cụ thể — tuần có tiệc, tuần deadline, tuần ngủ ít. Ghi lại vài dòng mỗi ngày là cách rẻ nhất để thấy quy luật đó; [App IKIHEALING](https://ikihealing.com/app.html) làm đúng việc này nếu bạn thích ghi trên điện thoại thay vì sổ tay.
 
 ## Góc nhìn Đông y: hàn, nhiệt và chuyện hợp thể tạng
 

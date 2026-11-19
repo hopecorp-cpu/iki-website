@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-theo-nhom-mau-co-dung-khong-hero.jpg",
   "hero_alt": "Những bát gỗ nhỏ đựng đậu, hạt và rau củ xếp trên khăn vải",
   "reading_min": 14,
@@ -90,7 +90,7 @@ Kết quả đo được là: **mọi người đều cải thiện gần như n
 **Năm, những gì bảng nhóm máu khuyên thường trùng với những gì ai cũng nên làm.** Ăn nhiều rau, ăn đủ đạm, ăn ngũ cốc nguyên hạt, hạn chế đường — bốn điều này xuất hiện trong cả bốn nhóm, với liều lượng khác nhau. Bạn làm theo và khoẻ lên; điều đó chứng minh bốn nguyên tắc chung là đúng, chứ không chứng minh nhóm máu là đúng.
 
 :::note Chăm sóc chủ động là biết mình hợp gì
-Cùng một món ăn, người thấy nhẹ bụng, người thấy đầy tức — khác biệt phần lớn nằm ở cơ địa, nhịp sinh hoạt và cách ăn, chứ không nằm ở nhóm máu. Thay vì tra bảng, bạn có thể theo dõi phản ứng cơ thể mỗi ngày cùng [App IKI](https://ikihealing.com/app.html) để dần nhận ra bức tranh của riêng mình.
+Cùng một món ăn, người thấy nhẹ bụng, người thấy đầy tức — khác biệt phần lớn nằm ở cơ địa, nhịp sinh hoạt và cách ăn, chứ không nằm ở nhóm máu. Thay vì tra bảng, bạn có thể theo dõi phản ứng cơ thể mỗi ngày cùng [App IKIHEALING](https://ikihealing.com/app.html) để dần nhận ra bức tranh của riêng mình.
 :::
 
 ## Cái giá phải trả khi cắt bỏ một nhóm thực phẩm không cần thiết

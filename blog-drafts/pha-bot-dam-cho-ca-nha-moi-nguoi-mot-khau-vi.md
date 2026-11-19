@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-09-24",
   "updated": "2026-09-24",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/pha-bot-dam-cho-ca-nha-moi-nguoi-mot-khau-vi-hero.jpg",
   "hero_alt": "Những hũ gốm và lọ thuỷ tinh đựng bột xếp hàng trên bàn gỗ bếp gia đình trong nắng sáng",
   "reading_min": 14,

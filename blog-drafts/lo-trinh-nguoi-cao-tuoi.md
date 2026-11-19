@@ -8,7 +8,7 @@
   "category": "lo-trinh",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lo-trinh-nguoi-cao-tuoi-hero.jpg",
   "hero_alt": "Người cao tuổi ngồi bên bàn ăn sáng ấm áp cùng gia đình, có ly nước ấm và bát cháo mềm",
   "reading_min": 15,

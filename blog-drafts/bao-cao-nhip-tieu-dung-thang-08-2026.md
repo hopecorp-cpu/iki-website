@@ -1,20 +1,20 @@
 ---json
 {
-  "title": "Báo cáo nhịp tiêu dùng sức khoẻ tháng 08/2026 — theo dữ liệu của IKI by HOPE CORP",
+  "title": "Báo cáo nhịp tiêu dùng sức khoẻ tháng 08/2026 — theo dữ liệu của IKIHEALING by HOPE CORP",
   "seo_title": "Nhịp tiêu dùng sức khoẻ tháng 08/2026: bản tin số liệu",
   "slug": "bao-cao-nhip-tieu-dung-thang-08-2026",
   "description": "Bản tin định kỳ tháng 08/2026: đạm thực vật chiếm 72% giỏ hàng, thức uống thay cà phê 7%, trà thảo mộc 6%, dầu ăn 6%; chu kỳ tái mua trung vị 31 ngày. Đo trên 1.908 đơn hàng thật. Số liệu mở cho báo chí trích dẫn.",
   "keyword": "nhịp tiêu dùng sức khoẻ",
   "category": "bao-cao",
   "date": "2026-08-31",
-  "author": "Đội ngũ IKI Healing",
+  "author": "Đội ngũ IKIHEALING",
   "hero_local": "assets/blog/bao-cao-nhip-tieu-dung-thang-08-2026-hero.jpg",
   "hero_alt": "Nhiều hũ thuỷ tinh cao thấp xếp thành hàng trên mặt bàn gỗ sáng, nền tường xanh ô liu nhạt, ánh sáng tự nhiên dịu, không có người",
   "reading_min": 7,
-  "answer": "Trong tháng 08/2026, đạm thực vật chiếm 72% giỏ hàng sức khoẻ của IKI, tiếp theo là thức uống thay cà phê 7%, trà thảo mộc 6% và dầu ăn 6%. Kỳ dữ liệu 04–08/2026 gồm 1.908 đơn hàng và 1.226 khách hàng định danh, trong đó 32% khách quay lại mua tiếp và khoảng cách trung vị giữa hai lần mua là 31 ngày. Quy về chỉ số nhịp với tháng 04 làm mốc 100, tháng 08 đạt 59 — thấp hơn tháng 07 (74) và là tháng đủ ngày đầu tiên được đưa vào bảng kể từ báo cáo nhịp mùa trước đó.",
+  "answer": "Trong tháng 08/2026, đạm thực vật chiếm 72% giỏ hàng sức khoẻ của IKIHEALING, tiếp theo là thức uống thay cà phê 7%, trà thảo mộc 6% và dầu ăn 6%. Kỳ dữ liệu 04–08/2026 gồm 1.908 đơn hàng và 1.226 khách hàng định danh, trong đó 32% khách quay lại mua tiếp và khoảng cách trung vị giữa hai lần mua là 31 ngày. Quy về chỉ số nhịp với tháng 04 làm mốc 100, tháng 08 đạt 59 — thấp hơn tháng 07 (74) và là tháng đủ ngày đầu tiên được đưa vào bảng kể từ báo cáo nhịp mùa trước đó.",
   "faq": [
     {
-      "q": "Bản tin này khác gì các báo cáo trước của IKI?",
+      "q": "Bản tin này khác gì các báo cáo trước của IKIHEALING?",
       "a": "Các báo cáo trước mỗi bản đào sâu một lát cắt: bản đồ tỉnh thành, chu kỳ tái mua, cấu trúc giỏ hàng, nhịp mùa. Bản tin tháng là bản tổng hợp định kỳ, gom các chỉ số chính về cùng một trang theo từng tháng để có thể so sánh liên tục giữa các kỳ."
     },
     {
@@ -27,7 +27,7 @@
     },
     {
       "q": "Báo chí có được trích dẫn không?",
-      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
+      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKIHEALING, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
     }
   ],
   "anh_ai": true
@@ -36,7 +36,7 @@
 
 Thị trường sức khoẻ chủ động ở Việt Nam gần như không có bản tin số liệu định kỳ. Có báo cáo ngành theo năm, có khảo sát ý định mua, nhưng hầu như không có một bảng số nào nói được: tháng vừa rồi người ta thật sự bỏ tiền vào đâu.
 
-Đây là báo cáo thứ chín trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing, và cũng là số đầu tiên của một bản tin định kỳ theo tháng. Mỗi kỳ sẽ giữ nguyên bố cục này để các tháng so được với nhau.
+Đây là báo cáo thứ chín trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKIHEALING, và cũng là số đầu tiên của một bản tin định kỳ theo tháng. Mỗi kỳ sẽ giữ nguyên bố cục này để các tháng so được với nhau.
 
 ## Tổng quan tháng 08/2026
 
@@ -116,7 +116,7 @@ Hai bảng này không trùng nhau một tỉnh nào — đô thị lớn dẫn 
 
 Chủ đề dưỡng Can được ghi theo góc nhìn dưỡng sinh Đông y — đây là **điều khách quan tâm và chủ động nêu**, không phải mô tả công dụng của bất kỳ sản phẩm nào. Chi tiết ở [bản đồ quan tâm sức khoẻ](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
 
-Đi cùng với nhóm này là độ dài của một cuộc tư vấn: **trung vị 15 lượt tin nhắn** trên 3.028 cuộc hội thoại, và **10% số cuộc vượt 36 lượt tin**. Đối chiếu: **80–85% doanh thu của IKI đi qua kênh nhắn tin**, không qua giỏ hàng thương mại điện tử. Chi tiết ở [báo cáo hành trình hỏi đáp](bao-cao-hanh-trinh-hoi-dap-2026.html).
+Đi cùng với nhóm này là độ dài của một cuộc tư vấn: **trung vị 15 lượt tin nhắn** trên 3.028 cuộc hội thoại, và **10% số cuộc vượt 36 lượt tin**. Đối chiếu: **80–85% doanh thu của IKIHEALING đi qua kênh nhắn tin**, không qua giỏ hàng thương mại điện tử. Chi tiết ở [báo cáo hành trình hỏi đáp](bao-cao-hanh-trinh-hoi-dap-2026.html).
 
 :::note Ba điểm đáng chú ý của kỳ này
 Thứ nhất, phân khúc dẫn đầu thị phần (đạm thực vật, 72%) cũng là phân khúc giữ chân tốt nhất (27%) — hai chỉ số trùng hướng.
@@ -126,7 +126,7 @@ Thứ ba, rào cản đứng đầu trong hội thoại là **giá** chứ khôn
 
 ## Nguồn và phương pháp
 
-- **Nguồn:** dữ liệu vận hành nội bộ của IKI by HOPE CORP. Đơn hàng và phân khúc lấy từ sổ đơn nội bộ; địa bàn lấy từ vận đơn của đơn vị vận chuyển; hội thoại lấy từ hệ thống ghi nhận tư vấn.
+- **Nguồn:** dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP. Đơn hàng và phân khúc lấy từ sổ đơn nội bộ; địa bàn lấy từ vận đơn của đơn vị vận chuyển; hội thoại lấy từ hệ thống ghi nhận tư vấn.
 - **Kỳ dữ liệu:** 04–08/2026, tính đến hết ngày 31/08/2026.
 - **Cỡ mẫu:** 1.908 đơn hàng · 1.226 khách hàng định danh · 657 lượt tái mua · 1.737 vận đơn đọc được địa chỉ · 3.028 cuộc hội thoại · 711 cuộc khách chủ động nêu vấn đề.
 - **Phạm vi phân khúc:** báo cáo theo dõi bốn phân khúc chính. Phần giỏ hàng còn lại gồm các mặt hàng lẻ, không nằm trong phạm vi công bố và không được diễn giải.
@@ -134,7 +134,7 @@ Thứ ba, rào cản đứng đầu trong hội thoại là **giá** chứ khôn
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKIHEALING, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 Muốn biết mình đang ở đâu trong bức tranh này, bạn có thể làm [bài đọc thể trạng miễn phí](https://ikihealing.com/quiz) — 13 câu, khoảng 3 phút.
 

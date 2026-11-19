@@ -8,7 +8,7 @@
   "category": "cam-nang-suc-khoe",
   "date": "2026-08-25",
   "updated": "2026-08-25",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/doc-nhan-bot-dam-thuc-vat-hero.jpg",
   "hero_alt": "Hộp bột đạm thực vật đặt trên bàn bếp, mặt sau quay lên để đọc bảng thành phần",
   "reading_min": 14,
@@ -227,7 +227,7 @@ Sáu câu này không nhằm loại bỏ sản phẩm, mà để bạn biết ch
 
 Lần đầu đọc nhãn bột đạm sẽ mất khoảng năm phút và cảm giác hơi rối. Lần thứ ba trở đi, bạn chỉ cần liếc bảng thành phần và làm một phép chia là xong, mất chưa tới một phút. Kỹ năng này còn dùng được cho sữa hạt, ngũ cốc ăn sáng, thanh dinh dưỡng và gần như mọi thứ đóng gói khác — vì nguyên tắc thứ tự khối lượng và khẩu phần tham chiếu là chung cho toàn ngành thực phẩm.
 
-Điều cuối cùng đáng nói: một cái nhãn đẹp không thay được một chế độ ăn cân bằng. Bột đạm là phần bổ sung cho bữa ăn, không phải thứ thay thế bữa ăn, và phần lớn lượng đạm trong ngày của bạn vẫn nên đến từ thực phẩm nguyên bản — đậu, hạt, đậu phụ, trứng, cá. Nếu bạn chưa rõ mình đang thiếu hay đủ, một bước gọn nhẹ là [làm bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz) để có gợi ý sát với nhịp sinh hoạt của mình, rồi mới quyết định có cần thêm sản phẩm bổ sung nào hay không.
+Điều cuối cùng đáng nói: một cái nhãn đẹp không thay được một chế độ ăn cân bằng. Bột đạm là phần bổ sung cho bữa ăn, không phải thứ thay thế bữa ăn, và phần lớn lượng đạm trong ngày của bạn vẫn nên đến từ thực phẩm nguyên bản — đậu, hạt, đậu phụ, trứng, cá. Nếu bạn chưa rõ mình đang thiếu hay đủ, một bước gọn nhẹ là [làm bài kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) để có gợi ý sát với nhịp sinh hoạt của mình, rồi mới quyết định có cần thêm sản phẩm bổ sung nào hay không.
 
 ## Nguồn tham khảo
 

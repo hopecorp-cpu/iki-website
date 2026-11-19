@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-dam-thuc-vat-bi-day-bung-hero.jpg",
   "hero_alt": "Ly bột đạm thực vật pha với nước ấm bên bình lắc trên bàn gỗ",
   "reading_min": 14,
@@ -154,7 +154,7 @@ Nếu bạn đang bắt đầu lại từ đầu sau một lần bỏ dở, hãy
 - **Ngày 6:** giữ ba phần tư khẩu phần, thử pha cùng một quả chuối hoặc chút yến mạch cho bữa sáng đầy đủ hơn.
 - **Ngày 7:** nếu sáu ngày trước êm, lên đủ khẩu phần. Nếu vẫn còn hơi đầy, ở lại mức ba phần tư thêm một tuần nữa — không có gì phải vội.
 
-Điểm quan trọng của lịch này không nằm ở con số, mà ở thói quen **ghi lại cảm giác mỗi ngày**. Chỉ cần một dòng ngắn trong sổ tay hoặc trong [App IKI](../app.html) là đủ để sau một tuần bạn nhìn ra quy luật của chính mình: bụng bạn phản ứng với liều lượng, với nhiệt độ nước, hay với khung giờ.
+Điểm quan trọng của lịch này không nằm ở con số, mà ở thói quen **ghi lại cảm giác mỗi ngày**. Chỉ cần một dòng ngắn trong sổ tay hoặc trong [App IKIHEALING](../app.html) là đủ để sau một tuần bạn nhìn ra quy luật của chính mình: bụng bạn phản ứng với liều lượng, với nhiệt độ nước, hay với khung giờ.
 
 :::case Anh T. (Hải Phòng) — sửa ba thói quen, bỏ ý định đổi hộp bột
 Anh T., 41 tuổi, làm văn phòng, kể rằng anh từng uống hết nửa hộp bột đạm trong tâm trạng khó chịu vì sáng nào cũng thấy bụng căng đến gần trưa. Trước khi định đổi sang thương hiệu khác, anh thử ba điều chỉnh: giảm còn nửa liều, pha 320ml nước ấm thay vì 200ml nước mát, và uống rải trong khoảng bảy tám phút lúc ngồi vào bàn làm việc thay vì dốc một hơi trong lúc thay đồ. Sang ngày thứ tư, anh nói cảm giác căng bụng gần như không còn; đến cuối tuần thứ hai anh quay lại liều đầy đủ mà vẫn êm. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa; mỗi người có thể cảm nhận khác nhau.)

@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suc-khoe-hoc-sinh-mua-thi-hero.jpg",
   "hero_alt": "Bàn học gọn gàng với bữa phụ lành mạnh và ly nước cho mùa thi",
   "reading_min": 13,
@@ -111,4 +111,4 @@ Chị N., ngoài bốn mươi tuổi, làm kế toán và có con trai năm nay 
 
 Không có bí quyết thần kỳ nào cho mùa thi. Điều bền vững nhất luôn là những nguyên tắc giản dị: ăn cân bằng, ngủ đủ, nghỉ mắt và vận động, giữ tinh thần thoải mái, và một gia đình biết đồng hành. Khi bốn trụ cột này được chăm sóc mỗi ngày, con sẽ có đủ sức khoẻ và sự minh mẫn để làm tốt nhất khả năng của mình.
 
-Nếu bạn đang tìm một lựa chọn bữa phụ tiện lợi cho con giữa những buổi ôn dày đặc, sữa đạm thực vật của IKI có thể là một gợi ý nhẹ nhàng để bổ sung đạm vào khẩu phần hằng ngày, bên cạnh những bữa ăn chính đầy đủ. Đây là thực phẩm bổ sung dinh dưỡng, phù hợp như một phần của chế độ ăn cân bằng và không thay thế cho bữa ăn chính hay cho việc thăm khám y khoa khi con cần. Chúc con và gia đình một mùa thi khoẻ mạnh, vững vàng và nhẹ nhõm.
+Nếu bạn đang tìm một lựa chọn bữa phụ tiện lợi cho con giữa những buổi ôn dày đặc, sữa đạm thực vật của IKIHEALING có thể là một gợi ý nhẹ nhàng để bổ sung đạm vào khẩu phần hằng ngày, bên cạnh những bữa ăn chính đầy đủ. Đây là thực phẩm bổ sung dinh dưỡng, phù hợp như một phần của chế độ ăn cân bằng và không thay thế cho bữa ăn chính hay cho việc thăm khám y khoa khi con cần. Chúc con và gia đình một mùa thi khoẻ mạnh, vững vàng và nhẹ nhõm.

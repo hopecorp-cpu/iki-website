@@ -7,7 +7,7 @@
   "keyword": "lấy lại nếp ngủ cho trẻ trước năm học mới",
   "category": "thoi-quen",
   "date": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lay-lai-nep-ngu-cho-tre-truoc-nam-hoc-moi-hero.jpg",
   "hero_alt": "Góc phòng ngủ trẻ em ấm áp với đèn vàng dịu, cuốn sách và ly sữa trên bàn nhỏ buổi tối",
   "reading_min": 14,
@@ -211,7 +211,7 @@ Tiếp tục dịch tới giờ mục tiêu. Dựng nếp trước khi ngủ the
 
 Sau khi năm học bắt đầu, việc cần giữ nhất là **sự đều đặn** — kể cả cuối tuần. Một nếp ngủ ổn định trong tháng đầu tiên sẽ đặt nền cho cả năm học, và cũng làm những tháng cao điểm về sau nhẹ nhàng hơn nhiều.
 
-Nếu bạn muốn xây thói quen sinh hoạt cho cả nhà một cách bài bản hơn — không chỉ giấc ngủ mà cả bữa ăn và vận động — bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ gợi ý điểm nên bắt đầu theo cơ địa từng người, và [ứng dụng IKI](https://ikihealing.com/app.html) giúp theo dõi nếp sinh hoạt hằng ngày mà không cần ghi chép rườm rà.
+Nếu bạn muốn xây thói quen sinh hoạt cho cả nhà một cách bài bản hơn — không chỉ giấc ngủ mà cả bữa ăn và vận động — bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ gợi ý điểm nên bắt đầu theo cơ địa từng người, và [ứng dụng IKIHEALING](https://ikihealing.com/app.html) giúp theo dõi nếp sinh hoạt hằng ngày mà không cần ghi chép rườm rà.
 
 ## Nguồn tham khảo
 
@@ -219,4 +219,4 @@ Nếu bạn muốn xây thói quen sinh hoạt cho cả nhà một cách bài b�
 - Vinmec — *Cách giúp trẻ ngủ ngon sâu giấc*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/cach-giup-tre-so-sinh-ngu-ngon-sau-giac-vi)
 - Shop Trẻ Thơ — *Rèn lại nếp ngủ sớm cho trẻ lớn đã quen thức muộn*: [shoptretho.com.vn](https://shoptretho.com.vn/tin-tuc/ren-lai-nep-ngu-som-cho-tre-lon-da-quen-thuc-muon)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ nhi khoa. Nếu con bạn có vấn đề về giấc ngủ kéo dài, ngáy to, ngưng thở khi ngủ hoặc buồn ngủ quá mức ban ngày, hãy đưa con đi khám.*
+*Bài viết do Đội ngũ Health Coach IKIHEALING biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ nhi khoa. Nếu con bạn có vấn đề về giấc ngủ kéo dài, ngáy to, ngưng thở khi ngủ hoặc buồn ngủ quá mức ban ngày, hãy đưa con đi khám.*

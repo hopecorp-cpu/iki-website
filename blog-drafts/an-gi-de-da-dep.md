@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-09-01",
   "updated": "2026-10-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-gi-de-da-dep-hero.jpg",
   "hero_alt": "Mâm ăn nhiều màu với đậu, hạt, rau xanh và trái cây tươi",
   "reading_min": 15,
@@ -73,7 +73,7 @@ Câu hỏi **ăn gì để da đẹp** gần như luôn nằm trong danh sách t
 
 Có một cách nhìn hữu ích để bắt đầu: da không phải lớp trang trí bên ngoài, mà là cơ quan lớn nhất của cơ thể, được xây từ chính những gì bạn ăn, được sửa chữa trong lúc bạn ngủ và chịu ảnh hưởng từ nhịp sống. Tóc và móng cũng vậy. Khi hiểu thế, bạn sẽ bớt kỳ vọng vào một loại thực phẩm duy nhất và chú ý hơn tới những thứ lặp lại mỗi ngày, vốn mới là thứ tạo khác biệt.
 
-Bài dành cho phụ nữ 28 đến 45 tuổi, bận rộn, không có nhiều thời gian nấu nướng cầu kỳ. Vì thế mỗi mục lớn đều kết bằng một việc bạn làm được ngay hôm nay. Nếu muốn biết cơ thể mình đang thiên về kiểu nào trước khi đọc tiếp, bạn có thể dành 90 giây làm [bài kiểm tra thể trạng của IKI](https://ikihealing.com/quiz) để có gợi ý sát với mình hơn một công thức chung.
+Bài dành cho phụ nữ 28 đến 45 tuổi, bận rộn, không có nhiều thời gian nấu nướng cầu kỳ. Vì thế mỗi mục lớn đều kết bằng một việc bạn làm được ngay hôm nay. Nếu muốn biết cơ thể mình đang thiên về kiểu nào trước khi đọc tiếp, bạn có thể dành 90 giây làm [bài kiểm tra thể trạng của IKIHEALING](https://ikihealing.com/quiz) để có gợi ý sát với mình hơn một công thức chung.
 
 ## Thực phẩm giúp đẹp da gồm những nhóm chất nào?
 
@@ -262,7 +262,7 @@ Ghép tất cả lại, đây là hình dung về một ngày đủ chất khôn
 - **Bữa tối** — nhẹ hơn bữa trưa, nhiều rau, đạm vừa phải, ăn trước giờ ngủ khoảng ba tiếng. Sau bữa đi bộ 20 phút.
 - **Trước khi ngủ** — một tách trà ấm không đường nếu bạn thích, tắt màn hình, giữ giờ ngủ ổn định.
 
-Cấu trúc này không đòi hỏi bạn nấu ăn giỏi hay nhiều thời gian; chỉ đòi hỏi sự lặp lại. Nếu muốn theo dõi mình giữ được bao nhiêu phần trong nhịp này, [ứng dụng IKI](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn và nhịp sinh hoạt để bạn nhìn lại theo tuần thay vì đoán bằng cảm giác.
+Cấu trúc này không đòi hỏi bạn nấu ăn giỏi hay nhiều thời gian; chỉ đòi hỏi sự lặp lại. Nếu muốn theo dõi mình giữ được bao nhiêu phần trong nhịp này, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn và nhịp sinh hoạt để bạn nhìn lại theo tuần thay vì đoán bằng cảm giác.
 
 ## Bảy việc nhỏ mỗi ngày để nuôi da từ bên trong
 

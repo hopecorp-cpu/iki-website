@@ -8,9 +8,9 @@
   "category": "thoi-quen",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/hay-them-do-ngot-phai-lam-sao-hero.jpg",
-  "hero_alt": "Nền thương hiệu IKI cho bài viết về cơn thèm đồ ngọt",
+  "hero_alt": "Nền thương hiệu IKIHEALING cho bài viết về cơn thèm đồ ngọt",
   "reading_min": 13,
   "answer": "Hay thèm đồ ngọt hầu như không phải do thiếu ý chí. Cơn thèm thường đến từ tám nguyên nhân rất cụ thể: bữa ăn thiếu đạm và chất xơ, đường huyết lên xuống thất thường, thiếu ngủ, căng thẳng kéo dài, thói quen theo khung giờ, bỏ bữa, uống ít nước và ăn quá nhạt vị. Cách xử lý hiệu quả là sửa bữa ăn trước, trì hoãn cơn thèm 10 phút, rồi tập lại khẩu vị trong 14 ngày thay vì cắt đường đột ngột.",
   "faq": [
@@ -182,7 +182,7 @@ Lịch này không yêu cầu bỏ món nào. Mỗi giai đoạn chỉ thêm ho�
 
 **Ngày 13-14 — Chốt nếp và giữ khoảng linh hoạt.** Chọn hai bữa trong tuần được ăn món ngọt yêu thích, ăn có kế hoạch và ăn ngon lành, không kèm cảm giác tội lỗi.
 
-Sau 14 ngày, phần lớn mọi người nhận ra hai điều: đồ uống trước đây thấy vừa giờ thấy gắt, và cơn thèm chiều không còn đến đúng giờ như đồng hồ nữa. Nếu bạn muốn theo dõi thay đổi này một cách có hệ thống, [app IKI](https://ikihealing.com/app.html) cho phép ghi nhật ký bữa ăn và cảm giác trong ngày để nhìn ra quy luật của chính mình.
+Sau 14 ngày, phần lớn mọi người nhận ra hai điều: đồ uống trước đây thấy vừa giờ thấy gắt, và cơn thèm chiều không còn đến đúng giờ như đồng hồ nữa. Nếu bạn muốn theo dõi thay đổi này một cách có hệ thống, [app IKIHEALING](https://ikihealing.com/app.html) cho phép ghi nhật ký bữa ăn và cảm giác trong ngày để nhìn ra quy luật của chính mình.
 
 ## Khi nào nên đi khám thay vì tự điều chỉnh
 

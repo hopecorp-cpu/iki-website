@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lo-trinh-dan-van-phong-hero.jpg",
   "hero_alt": "Bàn làm việc gọn gàng, chăm sóc sức khoẻ văn phòng",
   "reading_min": 14,

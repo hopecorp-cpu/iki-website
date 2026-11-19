@@ -7,7 +7,7 @@
   "keyword": "tuổi 30 chuyển hoá chậm nên ăn uống thế nào",
   "category": "dinh-duong",
   "date": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-uong-tuoi-30-chuyen-hoa-cham-hero.jpg",
   "hero_alt": "Bữa sáng cân bằng với yến mạch, hạt và trái cây trên bàn gỗ",
   "reading_min": 15,
@@ -185,7 +185,7 @@ Người xưa cũng lưu ý rằng **thức khuya kéo dài** là thứ hao tổ
 Mỗi người có một thể tạng khác nhau — có người dễ nóng trong, có người dễ lạnh bụng, có người dễ tích nước. Cùng một khẩu phần có thể hợp với người này và không hợp với người kia. Bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) mô tả từng nhóm, và bạn có thể [làm khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) để biết mình nghiêng về nhóm nào trước khi điều chỉnh.
 
 :::case Điều nhiều người phát hiện khi ghi lại bữa ăn
-Trong cộng đồng IKI, phần lớn người ở tuổi 30 khi ghi lại bữa ăn hai tuần đều gặp cùng một điều: họ **không ăn quá nhiều**, mà **ăn lệch** — bữa sáng gần như không có đạm, bữa trưa vội và ít rau, bữa tối dồn hết cả ngày vào lúc 21h. Việc sửa lại phân bố này, không cần cắt giảm gì, thường là thay đổi đầu tiên mang lại cảm giác khác biệt rõ nhất về năng lượng trong ngày.
+Trong cộng đồng IKIHEALING, phần lớn người ở tuổi 30 khi ghi lại bữa ăn hai tuần đều gặp cùng một điều: họ **không ăn quá nhiều**, mà **ăn lệch** — bữa sáng gần như không có đạm, bữa trưa vội và ít rau, bữa tối dồn hết cả ngày vào lúc 21h. Việc sửa lại phân bố này, không cần cắt giảm gì, thường là thay đổi đầu tiên mang lại cảm giác khác biệt rõ nhất về năng lượng trong ngày.
 :::
 
 ## Những nhầm lẫn thường gặp
@@ -203,7 +203,7 @@ Tuổi 30 không phải một dốc xuống. Dữ liệu cho thấy bộ máy ch
 
 Nếu phải rút gọn thành bốn việc: **đủ đạm và chia đều ra các bữa**, **2–3 buổi vận động kháng lực mỗi tuần**, **ngủ đủ 7–8 tiếng**, và **rau chiếm nửa đĩa**. Bốn việc này không hào nhoáng, không có gì mới, và chính vì thế mà chúng bền.
 
-Điều còn lại là làm sao biết mình đang thực sự ăn gì. Nhiều người ngạc nhiên khi thấy khoảng cách giữa "mình nghĩ mình ăn thế nào" và "mình thực sự ăn thế nào". [Ứng dụng IKI](https://ikihealing.com/app.html) có thể quét bữa ăn và đối chiếu giúp bạn, còn nếu muốn một điểm khởi đầu cá nhân hoá theo cơ địa, hãy bắt đầu bằng [khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ gợi ý hướng ăn uống và sinh hoạt phù hợp với nhóm thể tạng của bạn, thay vì một công thức chung cho tất cả.
+Điều còn lại là làm sao biết mình đang thực sự ăn gì. Nhiều người ngạc nhiên khi thấy khoảng cách giữa "mình nghĩ mình ăn thế nào" và "mình thực sự ăn thế nào". [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có thể quét bữa ăn và đối chiếu giúp bạn, còn nếu muốn một điểm khởi đầu cá nhân hoá theo cơ địa, hãy bắt đầu bằng [khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ gợi ý hướng ăn uống và sinh hoạt phù hợp với nhóm thể tạng của bạn, thay vì một công thức chung cho tất cả.
 
 ## Nguồn tham khảo
 

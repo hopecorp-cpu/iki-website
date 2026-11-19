@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-11-15",
   "updated": "2026-11-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bot-dam-thuc-vat-orgain-hero.jpg",
   "hero_alt": "Hộp bột đạm thực vật đặt trên bàn bếp cạnh muỗng đong và ly nước, mặt sau bao bì quay ra để đọc nhãn",
   "reading_min": 11,
@@ -63,7 +63,7 @@
 
 Bạn đang cân nhắc mua **bột đạm thực vật Orgain** và cần biết dòng nào hợp, giá bao nhiêu là hợp lý, mua ở đâu để có người chịu trách nhiệm. Bài này trả lời ba câu đó bằng số trên nhãn, giá khảo sát ngày 15/11/2026 và kết quả kiểm nghiệm kim loại nặng có tên Orgain.
 
-Bài viết không phải trang bán hàng của Orgain, và IKI cũng không phân phối Orgain.
+Bài viết không phải trang bán hàng của Orgain, và IKIHEALING cũng không phân phối Orgain.
 
 ## Orgain là gì và bột đạm thực vật của họ gồm những gì
 
@@ -191,7 +191,7 @@ Chị chọn hộp 920g chính ngạch. Với 1 muỗng mỗi ngày, hộp dùng
 - Nhãn phụ có tên đơn vị nhập khẩu tra được trên hệ thống công bố?
 - Dòng thành phần có chất tạo ngọt hoặc chất gây dị ứng mình muốn tránh?
 
-Orgain chỉ là một trong nhiều lựa chọn bột đạm thực vật. Nói rõ để bạn tự so: IKI có một sản phẩm [đạm thực vật](https://trueveganprotein.com) sản xuất trong nước là [True Vegan Protein Pro](../san-pham/true-vegan-protein.html), hộp 22 gói x 22g, phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất. Bạn có thể áp đúng năm câu hỏi trên cho nó như với Orgain: đọc lượng đạm mỗi gói trên bảng dinh dưỡng, tính giá mỗi gam đạm, rồi chọn cái hợp với mình. Nếu muốn gợi ý ăn uống theo thể trạng trước khi chọn sản phẩm, hãy [làm bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz).
+Orgain chỉ là một trong nhiều lựa chọn bột đạm thực vật. Nói rõ để bạn tự so: IKIHEALING có một sản phẩm [đạm thực vật](https://trueveganprotein.com) sản xuất trong nước là [True Vegan Protein Pro](../san-pham/true-vegan-protein.html), hộp 22 gói x 22g, phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất. Bạn có thể áp đúng năm câu hỏi trên cho nó như với Orgain: đọc lượng đạm mỗi gói trên bảng dinh dưỡng, tính giá mỗi gam đạm, rồi chọn cái hợp với mình. Nếu muốn gợi ý ăn uống theo thể trạng trước khi chọn sản phẩm, hãy [làm bài kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz).
 
 ## Nguồn tham khảo
 

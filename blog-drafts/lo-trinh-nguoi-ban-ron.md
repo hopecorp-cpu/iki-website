@@ -8,7 +8,7 @@
   "category_label": "Lộ trình chăm sóc sức khoẻ",
   "date": "2026-09-08",
   "updated": "2026-09-08",
-  "author": "Ban biên tập IKI",
+  "author": "Ban biên tập IKIHEALING",
   "hero_local": "assets/blog/lo-trinh-dan-van-phong-hero.jpg",
   "hero_alt": "Ảnh minh hoạ: lộ trình chăm sóc sức khoẻ cho người bận rộn",
   "reading_min": 7,
@@ -19,7 +19,7 @@
 }
 ---
 
-Một lịch kín không cần thêm một danh sách chăm sóc bản thân dài hơn. Hãy chọn một việc giúp ngày của bạn dễ sống hơn, đặt nó cạnh việc vốn đã làm, rồi giữ lại điều phù hợp. Lộ trình dưới đây là gợi ý tổ chức thói quen của IKI; bảy ngày là thời gian thử cách sắp xếp, không phải lời hứa thay đổi sức khoẻ.
+Một lịch kín không cần thêm một danh sách chăm sóc bản thân dài hơn. Hãy chọn một việc giúp ngày của bạn dễ sống hơn, đặt nó cạnh việc vốn đã làm, rồi giữ lại điều phù hợp. Lộ trình dưới đây là gợi ý tổ chức thói quen của IKIHEALING; bảy ngày là thời gian thử cách sắp xếp, không phải lời hứa thay đổi sức khoẻ.
 
 ## Bắt đầu từ điểm hay bị bỏ quên
 

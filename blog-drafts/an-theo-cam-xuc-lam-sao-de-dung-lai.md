@@ -7,7 +7,7 @@
   "keyword": "ăn theo cảm xúc",
   "category": "thoi-quen",
   "date": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-theo-cam-xuc-lam-sao-de-dung-lai-hero.jpg",
   "hero_alt": "Bàn làm việc buổi tối với tách trà ấm và cuốn sổ tay mở",
   "reading_min": 14,
@@ -165,7 +165,7 @@ Cột thứ tư là cột quan trọng nhất. Nó cho bạn bằng chứng củ
 
 Khi đã thấy mẫu, bạn có thể can thiệp đúng chỗ thay vì cố gắng chung chung. Biết cơn thường đến lúc chín giờ tối sau khi ngồi vào sofa với điện thoại thì việc cần làm rất cụ thể: chín giờ tối pha trà và ngồi chỗ khác.
 
-Nếu bạn muốn việc ghi chép này gọn hơn thay vì mở sổ tay, [app IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn để ghi lại cảm nhận và bữa ăn trong vài chục giây rồi tự tổng hợp thành mẫu theo tuần, nên bạn không phải tự ngồi đối chiếu.
+Nếu bạn muốn việc ghi chép này gọn hơn thay vì mở sổ tay, [app IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn để ghi lại cảm nhận và bữa ăn trong vài chục giây rồi tự tổng hợp thành mẫu theo tuần, nên bạn không phải tự ngồi đối chiếu.
 
 ## Đừng đánh đồng một lần trượt với thất bại
 

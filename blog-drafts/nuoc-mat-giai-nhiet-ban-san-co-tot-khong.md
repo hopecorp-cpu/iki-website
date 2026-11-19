@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nuoc-mat-giai-nhiet-ban-san-co-tot-khong-hero.jpg",
   "hero_alt": "Bình nước mát nấu từ thảo mộc đặt bên ly thuỷ tinh trên bàn gỗ",
   "reading_min": 13,

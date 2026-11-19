@@ -1,18 +1,18 @@
 ---json
 {
-  "title": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI",
-  "seo_title": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKI",
+  "title": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKIHEALING",
+  "seo_title": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng cùng App IKIHEALING",
   "slug": "app-iki-ca-nhan-hoa",
-  "description": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng là gì và chọn công cụ đồng hành thế nào? Tiêu chí chọn app, so sánh cách theo dõi thói quen và gợi ý App IKI với nhật ký, gợi ý theo thể tạng.",
+  "description": "Chăm sóc sức khoẻ cá nhân hoá theo thể tạng là gì và chọn công cụ đồng hành thế nào? Tiêu chí chọn app, so sánh cách theo dõi thói quen và gợi ý App IKIHEALING với nhật ký, gợi ý theo thể tạng.",
   "keyword": "chăm sóc sức khoẻ cá nhân hoá",
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/app-iki-ca-nhan-hoa-hero.jpg",
-  "hero_alt": "Chăm sóc sức khoẻ cá nhân hoá cùng App IKI",
+  "hero_alt": "Chăm sóc sức khoẻ cá nhân hoá cùng App IKIHEALING",
   "reading_min": 13,
-  "answer": "Chăm sóc sức khoẻ cá nhân hoá nghĩa là điều chỉnh thói quen ăn uống, vận động, nghỉ ngơi theo đặc điểm cơ thể và nếp sống của riêng bạn, thay vì áp một công thức chung. Một công cụ đồng hành tốt nên dễ dùng, nhắc nhở nhẹ nhàng, cho gợi ý phù hợp và giúp bạn duy trì thói quen đều đặn. App IKI là một lựa chọn cho việc này, với nhật ký ngắn mỗi ngày, gợi ý tham khảo theo thể tạng Đông y, audio bài giảng và cộng đồng. Đây là công cụ đồng hành và tham khảo, không thay thế chẩn đoán hay tư vấn của bác sĩ; khi có vấn đề sức khoẻ hãy gặp chuyên gia y tế.",
+  "answer": "Chăm sóc sức khoẻ cá nhân hoá nghĩa là điều chỉnh thói quen ăn uống, vận động, nghỉ ngơi theo đặc điểm cơ thể và nếp sống của riêng bạn, thay vì áp một công thức chung. Một công cụ đồng hành tốt nên dễ dùng, nhắc nhở nhẹ nhàng, cho gợi ý phù hợp và giúp bạn duy trì thói quen đều đặn. App IKIHEALING là một lựa chọn cho việc này, với nhật ký ngắn mỗi ngày, gợi ý tham khảo theo thể tạng Đông y, audio bài giảng và cộng đồng. Đây là công cụ đồng hành và tham khảo, không thay thế chẩn đoán hay tư vấn của bác sĩ; khi có vấn đề sức khoẻ hãy gặp chuyên gia y tế.",
   "faq": [
     {
       "q": "Chăm sóc sức khoẻ cá nhân hoá nghĩa là gì?",
@@ -23,8 +23,8 @@
       "a": "Bốn tiêu chí đáng cân nhắc là: dễ dùng để duy trì lâu dài, cho gợi ý phù hợp với bạn thay vì chung chung, nhắc nhở nhẹ nhàng không gây áp lực, và minh bạch về việc đây là công cụ tham khảo chứ không thay thế bác sĩ. Một app bạn mở lên mỗi ngày mà không thấy phiền sẽ hữu ích hơn nhiều so với app nhiều tính năng nhưng rối rắm."
     },
     {
-      "q": "App IKI giúp được gì cho việc chăm sóc sức khoẻ hằng ngày?",
-      "a": "App IKI là công cụ đồng hành giúp bạn duy trì thói quen chăm sóc sức khoẻ chủ động: ghi nhật ký ngắn mỗi ngày, nhận gợi ý tham khảo được cá nhân hoá theo thể tạng Đông y, nghe audio bài giảng và tham gia cộng đồng cùng mối quan tâm. Đây là nơi tập hợp các thói quen lành mạnh vào một chỗ để bạn dễ theo dõi và bền bỉ hơn, không phải công cụ chẩn đoán hay tư vấn y khoa."
+      "q": "App IKIHEALING giúp được gì cho việc chăm sóc sức khoẻ hằng ngày?",
+      "a": "App IKIHEALING là công cụ đồng hành giúp bạn duy trì thói quen chăm sóc sức khoẻ chủ động: ghi nhật ký ngắn mỗi ngày, nhận gợi ý tham khảo được cá nhân hoá theo thể tạng Đông y, nghe audio bài giảng và tham gia cộng đồng cùng mối quan tâm. Đây là nơi tập hợp các thói quen lành mạnh vào một chỗ để bạn dễ theo dõi và bền bỉ hơn, không phải công cụ chẩn đoán hay tư vấn y khoa."
     },
     {
       "q": "App theo thể tạng có thay thế được việc đi khám không?",
@@ -35,8 +35,8 @@
       "a": "Cả hai cách đều được, tuỳ bạn thấy hợp. Sổ tay giấy đơn giản và riêng tư, nhưng dễ quên và khó nhìn lại xu hướng. App tiện nhắc nhở, tổng hợp và cho gợi ý, nhưng cần bạn chịu khó mở lên. Với người mới, một công cụ nhắc nhẹ nhàng và gom thói quen vào một chỗ thường giúp duy trì đều đặn hơn trong giai đoạn đầu xây nếp."
     },
     {
-      "q": "Chi phí dùng App IKI thế nào?",
-      "a": "App IKI có bản dùng cơ bản và gói IKI Pro với chi phí 499.000đ mỗi năm, mở khoá thêm các tính năng chăm sóc sức khoẻ cá nhân hoá. Bạn nên cân nhắc dựa trên nhu cầu thật của mình và mức độ bạn sẽ dùng đều đặn. Tốt nhất là trải nghiệm bản cơ bản trước để xem app có hợp với nếp sống của bạn không rồi mới quyết định nâng cấp."
+      "q": "Chi phí dùng App IKIHEALING thế nào?",
+      "a": "App IKIHEALING có bản dùng cơ bản và gói IKIHEALING Pro với chi phí 499.000đ mỗi năm, mở khoá thêm các tính năng chăm sóc sức khoẻ cá nhân hoá. Bạn nên cân nhắc dựa trên nhu cầu thật của mình và mức độ bạn sẽ dùng đều đặn. Tốt nhất là trải nghiệm bản cơ bản trước để xem app có hợp với nếp sống của bạn không rồi mới quyết định nâng cấp."
     }
   ],
   "related": [
@@ -63,7 +63,7 @@
 
 Bạn đã bao giờ đọc một lời khuyên sức khoẻ nghe rất hợp lý, hào hứng làm theo, rồi vài tuần sau lại bỏ dở? Hoặc thử áp dụng đúng công thức mà một người bạn khen là "thần kỳ", nhưng với mình lại chẳng thấy hợp? Đây là trải nghiệm rất quen thuộc, và nó chỉ ra một sự thật giản dị: không có một công thức chăm sóc sức khoẻ nào đúng cho tất cả mọi người. Cơ thể mỗi người mỗi khác, nếp sống mỗi người mỗi khác, nên cách chăm sóc cũng cần được điều chỉnh cho riêng mình.
 
-Đó chính là tinh thần của việc chăm sóc sức khoẻ cá nhân hoá. Nhưng cá nhân hoá nói thì dễ, làm mới khó, bởi nó đòi hỏi bạn phải quan sát cơ thể, ghi nhớ, điều chỉnh và duy trì đều đặn, giữa một cuộc sống vốn đã đầy việc. Đây là lúc một công cụ đồng hành có thể giúp ích. Bài viết này sẽ cùng bạn hiểu vì sao chăm sóc sức khoẻ cần cá nhân hoá, dựa vào tiêu chí nào để chọn một công cụ đồng hành phù hợp, so sánh các cách theo dõi thói quen, rồi nhìn tới một gợi ý cụ thể là App IKI. Xin nói rõ ngay: đây là câu chuyện về một công cụ giúp duy trì thói quen lành mạnh, mang tính tham khảo và đồng hành, không phải công cụ chẩn đoán hay thay thế bác sĩ.
+Đó chính là tinh thần của việc chăm sóc sức khoẻ cá nhân hoá. Nhưng cá nhân hoá nói thì dễ, làm mới khó, bởi nó đòi hỏi bạn phải quan sát cơ thể, ghi nhớ, điều chỉnh và duy trì đều đặn, giữa một cuộc sống vốn đã đầy việc. Đây là lúc một công cụ đồng hành có thể giúp ích. Bài viết này sẽ cùng bạn hiểu vì sao chăm sóc sức khoẻ cần cá nhân hoá, dựa vào tiêu chí nào để chọn một công cụ đồng hành phù hợp, so sánh các cách theo dõi thói quen, rồi nhìn tới một gợi ý cụ thể là App IKIHEALING. Xin nói rõ ngay: đây là câu chuyện về một công cụ giúp duy trì thói quen lành mạnh, mang tính tham khảo và đồng hành, không phải công cụ chẩn đoán hay thay thế bác sĩ.
 
 ## Vì sao chăm sóc sức khoẻ cần cá nhân hoá
 
@@ -109,19 +109,19 @@ Có nhiều cách để theo dõi và duy trì thói quen chăm sóc sức kho�
 
 Không có cách nào đúng tuyệt đối cho tất cả. Người thích sự tối giản có thể hợp với sổ tay, người muốn được nhắc nhở và gợi ý sẽ thấy app đồng hành hữu ích hơn. Điều quan trọng là chọn cách bạn thật sự duy trì được. Nếu bạn đang xây nếp từ đầu, bài [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) sẽ cho bạn một khung đi từng bước.
 
-## App IKI — gợi ý theo thể tạng, nhật ký và đồng hành
+## App IKIHEALING — gợi ý theo thể tạng, nhật ký và đồng hành
 
-Trong nhóm app đồng hành sức khoẻ tổng hợp, [App IKI](../app.html) là một gợi ý đáng cân nhắc, nhất là với những ai quan tâm tới việc chăm sóc sức khoẻ theo góc nhìn thể tạng Đông y. Hãy soi nó qua các tiêu chí ở trên.
+Trong nhóm app đồng hành sức khoẻ tổng hợp, [App IKIHEALING](../app.html) là một gợi ý đáng cân nhắc, nhất là với những ai quan tâm tới việc chăm sóc sức khoẻ theo góc nhìn thể tạng Đông y. Hãy soi nó qua các tiêu chí ở trên.
 
-Về sự dễ dùng, App IKI được xây quanh một nhật ký ngắn mỗi ngày, chỉ tốn chừng nửa phút để ghi lại cảm nhận và thói quen. Thao tác nhẹ nhàng này giúp việc theo dõi không trở thành gánh nặng, đáp ứng đúng tiêu chí "thứ bạn mở lên đều đặn mới hữu ích".
+Về sự dễ dùng, App IKIHEALING được xây quanh một nhật ký ngắn mỗi ngày, chỉ tốn chừng nửa phút để ghi lại cảm nhận và thói quen. Thao tác nhẹ nhàng này giúp việc theo dõi không trở thành gánh nặng, đáp ứng đúng tiêu chí "thứ bạn mở lên đều đặn mới hữu ích".
 
-Về sự cá nhân hoá, đây là điểm nổi bật của App IKI. Ứng dụng đưa ra các gợi ý tham khảo được điều chỉnh theo thể tạng của bạn, dựa trên nền tảng tri thức thực dưỡng kết hợp với công nghệ dữ liệu. Thay vì những lời khuyên chung chung, bạn nhận được gợi ý có ngữ cảnh hơn cho nếp ăn uống, nghỉ ngơi của mình, để quan sát và điều chỉnh dần.
+Về sự cá nhân hoá, đây là điểm nổi bật của App IKIHEALING. Ứng dụng đưa ra các gợi ý tham khảo được điều chỉnh theo thể tạng của bạn, dựa trên nền tảng tri thức thực dưỡng kết hợp với công nghệ dữ liệu. Thay vì những lời khuyên chung chung, bạn nhận được gợi ý có ngữ cảnh hơn cho nếp ăn uống, nghỉ ngơi của mình, để quan sát và điều chỉnh dần.
 
-Về nội dung và cộng đồng, App IKI còn có audio bài giảng để bạn học thêm về chăm sóc sức khoẻ chủ động, và một cộng đồng những người cùng mối quan tâm để đồng hành, chia sẻ. Với nhiều người, cảm giác không đơn độc trên hành trình xây thói quen là một động lực đáng kể. Tất cả những khía cạnh này được gom vào một chỗ, giúp bạn dễ theo dõi bức tranh tổng thể thay vì dùng nhiều app rời rạc.
+Về nội dung và cộng đồng, App IKIHEALING còn có audio bài giảng để bạn học thêm về chăm sóc sức khoẻ chủ động, và một cộng đồng những người cùng mối quan tâm để đồng hành, chia sẻ. Với nhiều người, cảm giác không đơn độc trên hành trình xây thói quen là một động lực đáng kể. Tất cả những khía cạnh này được gom vào một chỗ, giúp bạn dễ theo dõi bức tranh tổng thể thay vì dùng nhiều app rời rạc.
 
-Về chi phí, App IKI có bản dùng cơ bản và gói IKI Pro với mức 499.000đ mỗi năm, mở khoá thêm các tính năng chăm sóc sức khoẻ cá nhân hoá. Bạn có thể trải nghiệm bản cơ bản trước để xem app có hợp với nếp sống của mình không rồi mới cân nhắc nâng cấp.
+Về chi phí, App IKIHEALING có bản dùng cơ bản và gói IKIHEALING Pro với mức 499.000đ mỗi năm, mở khoá thêm các tính năng chăm sóc sức khoẻ cá nhân hoá. Bạn có thể trải nghiệm bản cơ bản trước để xem app có hợp với nếp sống của mình không rồi mới cân nhắc nâng cấp.
 
-Cần nói rõ để tránh hiểu lầm: App IKI là một công cụ đồng hành và tham khảo, giúp bạn duy trì thói quen lành mạnh và quan sát cơ thể mình. Các gợi ý theo thể tạng mang tính tham khảo, không phải chẩn đoán y khoa và không thay thế việc thăm khám. Khi bạn có dấu hiệu bất thường hay vấn đề sức khoẻ, hãy tìm tới bác sĩ và chuyên gia có chuyên môn. Nếu bạn quan tâm, có thể tìm hiểu thêm các tính năng tại trang [App IKI](../app.html) rồi tự cân nhắc xem nó có hợp với nhu cầu của mình không.
+Cần nói rõ để tránh hiểu lầm: App IKIHEALING là một công cụ đồng hành và tham khảo, giúp bạn duy trì thói quen lành mạnh và quan sát cơ thể mình. Các gợi ý theo thể tạng mang tính tham khảo, không phải chẩn đoán y khoa và không thay thế việc thăm khám. Khi bạn có dấu hiệu bất thường hay vấn đề sức khoẻ, hãy tìm tới bác sĩ và chuyên gia có chuyên môn. Nếu bạn quan tâm, có thể tìm hiểu thêm các tính năng tại trang [App IKIHEALING](../app.html) rồi tự cân nhắc xem nó có hợp với nhu cầu của mình không.
 
 ## Dùng công cụ đồng hành sao cho hiệu quả
 
@@ -153,4 +153,4 @@ Trước khi cài một app sức khoẻ để dùng lâu dài, nhiều người
 
 Chăm sóc sức khoẻ cá nhân hoá không phải là chạy theo một xu hướng, mà là hành trình lắng nghe và điều chỉnh cho hợp với chính cơ thể mình. Đó là công việc bền bỉ, và một công cụ đồng hành tốt có thể giúp bạn nhớ, nhìn lại và giữ nhịp, để những thói quen tốt không bùng lên rồi tắt.
 
-Khi chọn công cụ, hãy ưu tiên sự dễ dùng, khả năng cho gợi ý phù hợp, cách nhắc nhở nhẹ nhàng và sự minh bạch về vai trò. Nếu bạn quan tâm tới việc chăm sóc theo góc nhìn thể tạng và muốn một nơi gom các thói quen lành mạnh vào một chỗ, [App IKI](../app.html) là một lựa chọn đáng thử. Nhưng dù dùng công cụ nào, hãy nhớ rằng nó chỉ là người đồng hành; người xây nên sức khoẻ của bạn, từng lựa chọn nhỏ mỗi ngày, vẫn luôn là chính bạn. Nếu muốn bắt đầu bằng những thói quen nền tảng, bài [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) là một điểm khởi đầu nhẹ nhàng.
+Khi chọn công cụ, hãy ưu tiên sự dễ dùng, khả năng cho gợi ý phù hợp, cách nhắc nhở nhẹ nhàng và sự minh bạch về vai trò. Nếu bạn quan tâm tới việc chăm sóc theo góc nhìn thể tạng và muốn một nơi gom các thói quen lành mạnh vào một chỗ, [App IKIHEALING](../app.html) là một lựa chọn đáng thử. Nhưng dù dùng công cụ nào, hãy nhớ rằng nó chỉ là người đồng hành; người xây nên sức khoẻ của bạn, từng lựa chọn nhỏ mỗi ngày, vẫn luôn là chính bạn. Nếu muốn bắt đầu bằng những thói quen nền tảng, bài [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html) là một điểm khởi đầu nhẹ nhàng.

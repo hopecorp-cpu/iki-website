@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/com-nguoi-ham-lai-co-tot-khong-hero.jpg",
   "hero_alt": "Bát cơm trắng và hộp đựng cơm nguội trên bàn bếp gọn gàng",
   "reading_min": 13,
@@ -137,7 +137,7 @@ Và một nguyên tắc bao trùm: **khi nghi ngờ thì bỏ**. Cơm có mùi l
 - **Ngày 6:** cấp đông một hộp cơm để dành cho ngày bận.
 - **Ngày 7:** nhìn lại xem tuần này bạn đã bỏ đi bao nhiêu cơm. Con số ấy thường khiến người ta bất ngờ, và nó là động lực tự nhiên để giữ thói quen mới.
 
-Nếu bạn muốn theo dõi bữa ăn đều đặn hơn thay vì chỉ ước lượng trong đầu, [App IKI](../app.html) có phần nhật ký ăn uống ghi nhanh trong vài giây mỗi bữa.
+Nếu bạn muốn theo dõi bữa ăn đều đặn hơn thay vì chỉ ước lượng trong đầu, [App IKIHEALING](../app.html) có phần nhật ký ăn uống ghi nhanh trong vài giây mỗi bữa.
 
 ## Kết: câu hỏi nên đổi lại một chút
 

@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-16",
   "updated": "2026-08-16",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/di-lam-ve-met-khong-muon-nau-an-hero.jpg",
   "hero_alt": "Gian bếp buổi tối đơn giản với một bát cháo ấm, trứng luộc và tách trà",
   "reading_min": 14,
@@ -181,7 +181,7 @@ Khi tủ đã có sẵn những thứ này, câu hỏi buổi tối đổi từ 
 
 **Đi ngủ sớm hơn 30 phút.** Đây là điều chỉnh có sức nặng nhất trong danh sách. Rất nhiều người tìm món ăn để bớt mệt, trong khi thứ họ thiếu thật sự là ngủ.
 
-Ghi lại vài dòng mỗi tối — hôm nay ăn gì, mấy giờ, ngủ thế nào — giúp bạn nhìn ra quy luật nhanh hơn nhiều so với cố nhớ. [Ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này, chỉ mất chừng ba mươi giây mỗi tối.
+Ghi lại vài dòng mỗi tối — hôm nay ăn gì, mấy giờ, ngủ thế nào — giúp bạn nhìn ra quy luật nhanh hơn nhiều so với cố nhớ. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này, chỉ mất chừng ba mươi giây mỗi tối.
 
 ## Khi mệt kéo dài không chỉ vì công việc
 

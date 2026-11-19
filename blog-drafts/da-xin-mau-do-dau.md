@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-10-17",
   "updated": "2026-10-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/da-xin-mau-do-dau-hero.jpg",
   "hero_alt": "Bàn trang điểm gỗ sáng cạnh cửa sổ buổi sáng, một ly nước, đĩa cam cắt lát và chiếc gương nhỏ",
   "reading_min": 15,

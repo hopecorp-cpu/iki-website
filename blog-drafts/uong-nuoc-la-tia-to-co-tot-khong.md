@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-nuoc-la-tia-to-co-tot-khong-hero.jpg",
   "hero_alt": "Lá tía tô tươi bày cạnh ly nước lá tía tô ấm màu hồng nhạt trên khay gỗ",
   "reading_min": 13,

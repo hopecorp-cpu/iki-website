@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-16",
   "updated": "2026-08-16",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/khong-thich-an-rau-phai-lam-sao-hero.jpg",
   "hero_alt": "Bàn ăn sáng với đậu, hạt, trái cây và một tách trà ấm bên cạnh đĩa rau",
   "reading_min": 14,
@@ -190,7 +190,7 @@ Kết luận công bằng: các sản phẩm này có chỗ đứng như phần 
 
 **Ngày 13-14.** Thử một món rau đúng nghĩa nhưng nấu theo cách bạn thấy dễ chịu nhất: xào tỏi, nướng cháy cạnh, hoặc nấu mềm trong canh. Ăn vào đầu bữa lúc còn đói.
 
-Sau hai tuần, nhìn lại xem điều gì bạn duy trì được và điều gì bạn bỏ. Giữ phần duy trì được, và đừng ép phần còn lại — bạn sẽ quay lại nó sau, khi khẩu vị đã dịch chuyển thêm. Việc ghi lại vài dòng mỗi ngày giúp thấy quy luật nhanh hơn nhiều so với cố nhớ; [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
+Sau hai tuần, nhìn lại xem điều gì bạn duy trì được và điều gì bạn bỏ. Giữ phần duy trì được, và đừng ép phần còn lại — bạn sẽ quay lại nó sau, khi khẩu vị đã dịch chuyển thêm. Việc ghi lại vài dòng mỗi ngày giúp thấy quy luật nhanh hơn nhiều so với cố nhớ; [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
 
 ## Ăn nhiều chất xơ rồi mà vẫn khó chịu thì sao
 

@@ -8,7 +8,7 @@
   "category": "cam-nang-suc-khoe",
   "date": "2026-09-25",
   "updated": "2026-09-25",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-de-ngu-mua-o-dau-hero.jpg",
   "hero_alt": "Bàn tay cầm hộp trà thảo mộc xoay ra mặt sau để đọc nhãn thành phần, bên cạnh là đĩa hoa nhài và vỏ quýt khô dưới ánh đèn tối",
   "reading_min": 14,
@@ -140,7 +140,7 @@ Cái sai của chị không phải là mua nhầm, mà là mua theo mặt trư�
 
 Mỗi người có một nhịp tối khác nhau, người thì cần ngồi yên, người thì cần rời điện thoại, người thì cần ăn tối sớm hơn. Nếu muốn biết nhịp của mình đang thiếu chỗ nào trước khi chọn trà, bạn có thể [kiểm tra thể trạng trong 90 giây](https://ikihealing.com/quiz) để có một gợi ý ban đầu.
 
-## IKI làm từng điều trên như thế nào
+## IKIHEALING làm từng điều trên như thế nào
 
 Đến đây là phần nói về sản phẩm của chính chúng tôi, và cách công bằng nhất là đặt nó qua đúng sáu bước ở trên, để bạn tự đối chiếu như với bất kỳ hộp trà nào.
 

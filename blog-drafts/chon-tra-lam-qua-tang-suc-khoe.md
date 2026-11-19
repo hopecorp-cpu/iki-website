@@ -9,7 +9,7 @@
   "category": "cam-nang",
   "date": "2026-09-17",
   "updated": "2026-09-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/chon-tra-lam-qua-tang-suc-khoe-hero.jpg",
   "hero_alt": "Hộp quà gói giấy kraft buộc dây, cài nhành hoa nhỏ, đặt trên bàn gỗ",
   "reading_min": 15,
@@ -187,9 +187,9 @@ Một vài cách ghép dễ làm:
 
 Khi ghép chung hộp, đặt bánh và trà ở hai ngăn riêng, vì bánh có mùi bơ, mùi hạt dễ ám vào trà. Nếu bạn quan tâm tới chuyện ăn bánh sao cho vừa phải trong mùa này, bài [ăn bánh Trung Thu thế nào cho đỡ ngán](an-banh-trung-thu-the-nao-cho-do-ngan.html) có nhiều mẹo thực tế.
 
-## Gợi ý từ tủ trà thảo mộc Việt của IKI
+## Gợi ý từ tủ trà thảo mộc Việt của IKIHEALING
 
-Nếu bạn đang tìm một hộp trà thảo mộc Việt, nguồn gốc rõ ràng, dạng túi lọc dễ pha để làm quà, dưới đây là hai lựa chọn trong tủ trà của IKI. Phần mô tả chỉ nói nguồn gốc, thành phần, hương vị và cách dùng, để bạn tự cân xem có hợp người nhận không.
+Nếu bạn đang tìm một hộp trà thảo mộc Việt, nguồn gốc rõ ràng, dạng túi lọc dễ pha để làm quà, dưới đây là hai lựa chọn trong tủ trà của IKIHEALING. Phần mô tả chỉ nói nguồn gốc, thành phần, hương vị và cách dùng, để bạn tự cân xem có hợp người nhận không.
 
 ### Trà Thanh Hương: hộp trà cho nhịp chậm cuối ngày
 
@@ -201,7 +201,7 @@ Hộp trà này hợp làm quà cho người thích một nghi thức nhỏ bu�
 
 Với người bạn theo lối sống thuần thực vật, bạn có thể ghép một hộp trà cùng một món ăn uống thuần chay khác. Bột [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất, là một lựa chọn cho người bạn bận rộn muốn có thêm nguồn đạm tiện pha vào bữa sáng. Món quà kiểu này cho thấy bạn thật sự để ý tới lối sống của người nhận.
 
-Các sản phẩm khác như mật ong, dầu ép, hạt dinh dưỡng để ghép thành hộp quà theo ý bạn có trong [cửa hàng IKI](https://ikihealing.com/shop/).
+Các sản phẩm khác như mật ong, dầu ép, hạt dinh dưỡng để ghép thành hộp quà theo ý bạn có trong [cửa hàng IKIHEALING](https://ikihealing.com/shop/).
 
 ## Những lỗi hay gặp khi tặng trà
 
@@ -223,7 +223,7 @@ Chọn trà làm quà tặng không khó nếu đi đúng thứ tự: nghĩ về
 
 Điều làm một món quà trà được nhớ không phải giá tiền mà là cảm giác "người này hiểu mình". Mười phút gói ghém và viết lời nhắn thường đáng giá hơn một hộp trà đắt tiền mua vội.
 
-Nếu bạn muốn chọn quà cho cả nhà mà vẫn phân vân mỗi người hợp nhịp sinh hoạt nào, hãy thử [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) của IKI. Bạn sẽ có một điểm khởi đầu cụ thể để chọn thức uống và bữa ăn hợp với mình, rồi từ đó dễ chọn quà cho người thân hơn.
+Nếu bạn muốn chọn quà cho cả nhà mà vẫn phân vân mỗi người hợp nhịp sinh hoạt nào, hãy thử [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) của IKIHEALING. Bạn sẽ có một điểm khởi đầu cụ thể để chọn thức uống và bữa ăn hợp với mình, rồi từ đó dễ chọn quà cho người thân hơn.
 
 ## Nguồn tham khảo
 

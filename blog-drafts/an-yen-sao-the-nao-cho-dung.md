@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-yen-sao-the-nao-cho-dung-hero.jpg",
   "hero_alt": "Chén sứ trắng đựng món chưng ấm điểm vài quả kỷ tử, đặt bên cửa sổ",
   "reading_min": 14,
@@ -125,7 +125,7 @@ Yến **không hợp vai** thay bữa ăn chính, không phải nguồn đạm h
 Nguồn đạm hằng ngày nên đến từ bữa ăn: thịt cá trứng sữa với người ăn mặn; đậu, đậu phụ, các loại hạt với người ăn thiên thực vật. Vào những ngày bận không kịp nấu, [đạm thực vật](https://trueveganprotein.com) dạng bột là cách bù nhanh và rẻ hơn nhiều so với dùng yến cho mục đích này. Hai thứ phục vụ hai mục đích khác nhau, đừng thay thế lẫn nhau.
 
 :::note Chăm sóc chủ động là biết mình đang cần gì
-Trước khi mua một hộp yến lớn, hãy hỏi: mình đang cần bồi bổ một giai đoạn, hay đang cần sửa lại nền ăn uống hằng ngày? Hai câu trả lời dẫn tới hai việc rất khác nhau. Bạn có thể theo dõi phản ứng cơ thể và nhịp ăn uống mỗi ngày cùng [App IKI](https://ikihealing.com/app.html) để biết mình đang ở tình huống nào.
+Trước khi mua một hộp yến lớn, hãy hỏi: mình đang cần bồi bổ một giai đoạn, hay đang cần sửa lại nền ăn uống hằng ngày? Hai câu trả lời dẫn tới hai việc rất khác nhau. Bạn có thể theo dõi phản ứng cơ thể và nhịp ăn uống mỗi ngày cùng [App IKIHEALING](https://ikihealing.com/app.html) để biết mình đang ở tình huống nào.
 :::
 
 ## Góc nhìn Đông y: yến hợp với ai, kết hợp thế nào

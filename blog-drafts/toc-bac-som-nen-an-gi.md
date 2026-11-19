@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-07",
   "updated": "2026-08-07",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/toc-bac-som-nen-an-gi-hero.jpg",
   "hero_alt": "Bát mè đen, các loại hạt và rau lá xanh trên bàn gỗ",
   "reading_min": 14,
@@ -155,7 +155,7 @@ Cắt tinh bột, cắt chất béo, ăn rất ít trong nhiều tuần là côn
 - **Bữa tối**: canh đậu hầm rau củ, một phần đạm vừa phải, cơm lượng vừa, nhiều rau. Ăn trước giờ ngủ ít nhất ba tiếng.
 - **Cuối tuần**: một bữa chè đậu đen ít đường hoặc cháo đậu đỏ như món ăn vui, đồng thời bổ sung nhóm đậu.
 
-Muốn theo dõi xem mình có thực sự duy trì được nếp này không, bạn có thể ghi nhật ký ngắn mỗi ngày. [App IKI](../app.html) có phần nhật ký 30 giây và bản tổng kết theo tuần để bạn nhìn ra xu hướng thay vì chỉ dựa vào cảm giác.
+Muốn theo dõi xem mình có thực sự duy trì được nếp này không, bạn có thể ghi nhật ký ngắn mỗi ngày. [App IKIHEALING](../app.html) có phần nhật ký 30 giây và bản tổng kết theo tuần để bạn nhìn ra xu hướng thay vì chỉ dựa vào cảm giác.
 
 :::case Anh K. (TP.HCM) — sửa nền tảng trước khi lo mái tóc
 Anh K., 34 tuổi, làm ngành công nghệ, kể rằng anh phát hiện tóc bạc nhiều ở hai bên thái dương trong khoảng một năm làm dự án căng. Lúc đó anh ngủ trung bình 5 tiếng, ăn sáng bằng cà phê, ăn trưa bằng đồ giao nhanh và ăn tối lúc 10 giờ đêm. Thay vì tìm mua các loại viên uống cho tóc, anh chọn sửa nền tảng: đặt giờ ngủ cố định, chuyển bữa sáng sang cháo yến mạch với hạt, và giữ bữa trưa luôn có một phần đạm rõ ràng. Sau vài tháng, anh nói điều thay đổi rõ nhất không phải màu tóc mà là anh bớt mệt, tóc rụng ít hơn khi gội và tinh thần vào việc ổn hơn. Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.

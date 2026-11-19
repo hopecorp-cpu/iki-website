@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/hat-chia-dung-the-nao-cho-dung-hero.jpg",
   "hero_alt": "Ly thuỷ tinh đựng hạt chia đã ngâm nở bên cạnh thìa gỗ",
   "reading_min": 13,
@@ -160,7 +160,7 @@ Hạt chia là thực phẩm, không phải thuốc. Nó không tạo ra thay đ
 
 Điều thực tế hơn là quan sát cảm nhận của chính mình: bạn thấy bụng dễ chịu hơn hay khó chịu hơn, có no lâu hơn giữa các bữa không, có uống đủ nước kèm theo không. Những tín hiệu này hữu ích hơn nhiều so với việc đếm ngày.
 
-Việc theo dõi phản ứng của cơ thể với một thay đổi nhỏ trong ăn uống là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKI](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật thay vì dựa vào trí nhớ.
+Việc theo dõi phản ứng của cơ thể với một thay đổi nhỏ trong ăn uống là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKIHEALING](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật thay vì dựa vào trí nhớ.
 
 ## Tổng kết
 

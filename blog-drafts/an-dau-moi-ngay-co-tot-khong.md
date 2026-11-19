@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-dau-moi-ngay-co-tot-khong-hero.jpg",
   "hero_alt": "Các loại đậu Việt Nam trong bát gốm trên mặt bàn gỗ",
   "reading_min": 14,
@@ -186,7 +186,7 @@ Trong kinh nghiệm dân gian và Y học Cổ truyền phương Đông, các lo
 - **Đậu xanh** (màu xanh, ứng với can) gắn với các món mùa hè, được xem là mát và dễ chịu khi thời tiết oi bức.
 - **Đậu nành và các chế phẩm** có tính bình, hợp với hầu hết thể tạng, là lý do đậu hũ có mặt quanh năm trong mọi bữa cơm.
 
-Điểm chung của tri thức này với dinh dưỡng hiện đại là tinh thần **ăn theo mùa và theo cơ địa**, thay vì áp một thực đơn cố định cho tất cả. Người dễ lạnh bụng thường hợp món đậu hầm nóng có gừng; người hay thấy nóng trong lại thấy dễ chịu với chè đậu xanh nhạt. Nếu muốn biết cơ địa mình nghiêng về hướng nào, [bài khảo sát thể trạng của IKI](https://ikihealing.com/quiz) đưa ra gợi ý theo sáu chỉ số lối sống, còn [App IKI](https://ikihealing.com/app.html) giúp ghi lại phản ứng của cơ thể sau mỗi thay đổi trong bữa ăn để bạn tự đối chiếu.
+Điểm chung của tri thức này với dinh dưỡng hiện đại là tinh thần **ăn theo mùa và theo cơ địa**, thay vì áp một thực đơn cố định cho tất cả. Người dễ lạnh bụng thường hợp món đậu hầm nóng có gừng; người hay thấy nóng trong lại thấy dễ chịu với chè đậu xanh nhạt. Nếu muốn biết cơ địa mình nghiêng về hướng nào, [bài khảo sát thể trạng của IKIHEALING](https://ikihealing.com/quiz) đưa ra gợi ý theo sáu chỉ số lối sống, còn [App IKIHEALING](https://ikihealing.com/app.html) giúp ghi lại phản ứng của cơ thể sau mỗi thay đổi trong bữa ăn để bạn tự đối chiếu.
 
 ## Kết: đậu không cần cầu kỳ, chỉ cần đều
 

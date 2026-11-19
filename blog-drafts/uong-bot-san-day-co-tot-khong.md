@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-10",
   "updated": "2026-08-10",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-bot-san-day-co-tot-khong-hero.jpg",
   "hero_alt": "Ly bột sắn dây pha ấm bên khung cửa sổ buổi sáng",
   "reading_min": 14,
@@ -181,7 +181,7 @@ Một cách sắp xếp dễ theo:
 
 - **Nền cả ngày:** nước lọc, uống ấm hoặc nhiệt độ phòng, rải đều — đây là phần chiếm chủ yếu.
 - **Ngày nắng gắt, người bức bối:** một ly sắn dây pha chín, ít đường, sau bữa trưa.
-- **Buổi sáng cần tỉnh táo mà không muốn cà phê:** một thức uống ấm nhẹ. Nếu bạn vẫn thích vị cà phê, các lựa chọn thay thế dịu hơn có ở [cửa hàng IKI](https://ikihealing.com/shop/).
+- **Buổi sáng cần tỉnh táo mà không muốn cà phê:** một thức uống ấm nhẹ. Nếu bạn vẫn thích vị cà phê, các lựa chọn thay thế dịu hơn có ở [cửa hàng IKIHEALING](https://ikihealing.com/shop/).
 - **Buổi tối, khi muốn chậm lại:** trà thảo mộc ấm cho nếp thư giãn trước giờ ngủ.
 - **Ngày trời trở lạnh hoặc người thấy mệt:** ưu tiên đồ ấm, tạm gác các thức uống mát sang một bên.
 
@@ -199,7 +199,7 @@ Nếu bạn muốn kiểm tra xem sắn dây có thực sự hợp với mình k
 4. **Ngày 6:** uống lại một ly nhỏ pha chín sau bữa trưa, không đường hoặc rất ít.
 5. **Ngày 7:** đọc lại ghi chú cả tuần và tự trả lời: mình thấy dễ chịu nhất ở cách nào?
 
-Sau bảy ngày bạn sẽ có câu trả lời riêng, đáng tin hơn mọi lời khuyên chung chung — kể cả bài viết này. Nếu muốn theo dõi những quan sát kiểu này lâu dài mà không phải ghi sổ tay, [App IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn để bạn ghi lại cảm nhận mỗi ngày và nhìn ra quy luật sau vài tuần.
+Sau bảy ngày bạn sẽ có câu trả lời riêng, đáng tin hơn mọi lời khuyên chung chung — kể cả bài viết này. Nếu muốn theo dõi những quan sát kiểu này lâu dài mà không phải ghi sổ tay, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn để bạn ghi lại cảm nhận mỗi ngày và nhìn ra quy luật sau vài tuần.
 
 ## Kết: đặt ly sắn dây vào đúng chỗ của nó
 
@@ -215,4 +215,4 @@ Chăm sóc sức khoẻ chủ động không phải là tìm ra một thứ nư�
 - Nhà thuốc FPT Long Châu — [Uống bột sắn dây mỗi ngày có tốt không? Uống như thế nào là tốt nhất?](https://nhathuoclongchau.com.vn/bai-viet/uong-bot-san-day-moi-ngay-co-tot-khong-uong-nhu-the-nao-la-tot-nhat.html)
 - Hello Bacsi — [Mùa nắng nóng, uống bột sắn dây mỗi ngày có tốt không?](https://hellobacsi.com/an-uong-lanh-manh/bi-quyet-an-uong-lanh-manh/uong-bot-san-day-moi-ngay-co-tot-khong/)
 
-Bài viết do **Đội ngũ Health Coach IKI** biên soạn, tổng hợp từ các nguồn y tế phổ thông và kinh nghiệm chăm sóc sức khoẻ chủ động. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.
+Bài viết do **Đội ngũ Health Coach IKIHEALING** biên soạn, tổng hợp từ các nguồn y tế phổ thông và kinh nghiệm chăm sóc sức khoẻ chủ động. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.

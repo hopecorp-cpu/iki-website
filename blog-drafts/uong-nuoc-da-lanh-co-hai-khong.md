@@ -8,7 +8,7 @@
   "category": "Thói quen",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-nuoc-da-lanh-co-hai-khong-hero.jpg",
   "hero_alt": "Một ly nước ấm và một ly nước đá đặt cạnh nhau trên bàn gỗ",
   "reading_min": 13,
@@ -135,7 +135,7 @@ Mục tiêu không phải là bắt bạn uống nước nóng giữa trưa hè.
 
 **5. Thử trà thảo mộc để nguội.** Một bình trà thảo mộc ban ngày hãm buổi sáng, để nguội tự nhiên rồi uống dần trong ngày là cách giữ cảm giác thanh mát mà không cần đá. Nhiều người thấy dễ duy trì hơn nước lọc vì có hương vị.
 
-**6. Với người quen ly cà phê đá mỗi trưa** — nếu bạn thuộc nhóm bụng dạ nhạy, thử đổi vài buổi trong tuần sang thức uống ấm nhẹ hơn. Các lựa chọn thay cà phê ở [gian hàng của IKI](https://ikihealing.com/shop/) là một cách chuyển tiếp, và bài [uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) có thêm gợi ý.
+**6. Với người quen ly cà phê đá mỗi trưa** — nếu bạn thuộc nhóm bụng dạ nhạy, thử đổi vài buổi trong tuần sang thức uống ấm nhẹ hơn. Các lựa chọn thay cà phê ở [gian hàng của IKIHEALING](https://ikihealing.com/shop/) là một cách chuyển tiếp, và bài [uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) có thêm gợi ý.
 
 **7. Buổi tối thì nghiêng hẳn về ấm.** Cuối ngày là lúc cơ thể chuẩn bị nghỉ; một tách [trà thư giãn buổi tối](https://thanhhuongtra.ikihealing.com) ấm nhẹ hợp với nhịp đó hơn là ly nước đá. Đây là thức uống, không phải thuốc — giá trị nằm ở thói quen đều đặn nó tạo ra trước giờ ngủ.
 
@@ -149,7 +149,7 @@ Mọi lời khuyên trong bài này đều là mức trung bình. Cách duy nh�
 
 **Tuần 3 — so sánh.** Đọc lại hai tuần. Nếu khác biệt rõ, bạn đã biết mình thuộc nhóm nhạy cảm và nên duy trì. Nếu chẳng thấy khác gì, bạn thuộc nhóm chịu được và không cần lo lắng thêm.
 
-Cách làm này đáng giá hơn mọi tranh luận trên mạng, vì kết quả là của riêng bạn. Nếu ngại ghi sổ, [App IKI](https://ikihealing.com/app.html) có phần nhật ký 30 giây mỗi ngày để bạn không phải nhớ bằng trí nhớ.
+Cách làm này đáng giá hơn mọi tranh luận trên mạng, vì kết quả là của riêng bạn. Nếu ngại ghi sổ, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký 30 giây mỗi ngày để bạn không phải nhớ bằng trí nhớ.
 
 ## Khi nào cần đi khám
 
@@ -169,7 +169,7 @@ Uống nước đá lạnh **không hại** với người khoẻ mạnh uống 
 
 Ba điều đáng nhớ nhất: tránh sáu thời điểm nhạy (bụng đói, ngay sau ăn, sau vận động mạnh, vừa từ nắng vào, đang ốm, kỳ kinh); quan tâm đến vệ sinh của đá nhiều hơn nhiệt độ của nó; và đổi thói quen "đá đầy ly" thành "mát vừa, uống chậm, uống đều".
 
-Muốn biết cơ địa mình nghiêng về nóng hay lạnh để chọn nhịp uống phù hợp? Hãy dành 90 giây làm [bài kiểm tra thể trạng của IKI](https://ikihealing.com/quiz) — miễn phí, và bản phân tích sẽ gợi ý cụ thể hơn cho riêng bạn.
+Muốn biết cơ địa mình nghiêng về nóng hay lạnh để chọn nhịp uống phù hợp? Hãy dành 90 giây làm [bài kiểm tra thể trạng của IKIHEALING](https://ikihealing.com/quiz) — miễn phí, và bản phân tích sẽ gợi ý cụ thể hơn cho riêng bạn.
 
 ## Nguồn tham khảo
 
@@ -177,4 +177,4 @@ Muốn biết cơ địa mình nghiêng về nóng hay lạnh để chọn nhị
 - VnExpress Sức khoẻ — Hiểu lầm uống nước lạnh gây hại tiêu hoá: [vnexpress.net](https://vnexpress.net)
 - Báo Tuổi Trẻ — Uống nước lạnh mùa nắng nóng và những vấn đề cần lưu ý: [tuoitre.vn](https://tuoitre.vn)
 
-*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có bệnh dạ dày, đại tràng, tim mạch hoặc đang điều trị dài ngày, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen ăn uống.*
+*Bài viết mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không thay thế chẩn đoán hay tư vấn của bác sĩ. Nếu bạn có bệnh dạ dày, đại tràng, tim mạch hoặc đang dùng thuốc dài ngày, hãy tham khảo ý kiến chuyên môn trước khi thay đổi thói quen ăn uống.*

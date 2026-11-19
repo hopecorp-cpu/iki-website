@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao-hero.jpg",
   "hero_alt": "Tách trà hoa cúc ấm với những bông cúc khô bên cạnh trên bàn gỗ sáng",
   "reading_min": 14,
@@ -81,7 +81,7 @@ Tầng thứ hai là **nghi thức**. Giấc ngủ không bắt đầu lúc bạ
 
 Tầng thứ ba là **hơi ấm dễ chịu**. Uống một thứ ấm khiến cơ thể thư giãn nhẹ và tạo cảm giác được chăm sóc. Với nhiều người, đó là phần quan trọng nhất trong cả buổi tối.
 
-Nếu bạn thích ý tưởng một tách ấm khép lại ngày nhưng muốn hương vị tròn hơn hoa cúc đơn thuần, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thảo mộc IKI làm riêng cho khung giờ thư giãn buổi tối, phối nhiều nguyên liệu quen thuộc của bếp Việt.
+Nếu bạn thích ý tưởng một tách ấm khép lại ngày nhưng muốn hương vị tròn hơn hoa cúc đơn thuần, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là dòng trà thảo mộc IKIHEALING làm riêng cho khung giờ thư giãn buổi tối, phối nhiều nguyên liệu quen thuộc của bếp Việt.
 
 Nhưng xin nhắc lại điều đã nói ở trên, vì nó quan trọng: tách trà là **một phần** của nếp ngủ, không phải toàn bộ. Giờ đi ngủ đều đặn, ánh sáng buổi tối, mức vận động ban ngày và bữa tối ăn gì đều nặng ký hơn nhiều.
 
@@ -165,7 +165,7 @@ Ngược lại, người thiên hàn — tay chân hay lạnh, bụng dễ ọc 
 
 Cách hiểu này giải thích một hiện tượng rất hay gặp: hai người cùng uống một loại trà, một người khen dễ chịu, người kia bảo lạnh bụng. Không ai sai cả — chỉ là cơ địa khác nhau.
 
-Đó cũng là lý do IKI xây [bài kiểm tra thể trạng 90 giây](../quiz/) thay vì đưa ra một công thức chung cho tất cả: biết mình nghiêng về hướng nào thì việc chọn thức uống, chọn bữa ăn, chọn giờ sinh hoạt đều bớt mò mẫm.
+Đó cũng là lý do IKIHEALING xây [bài kiểm tra thể trạng 90 giây](../quiz/) thay vì đưa ra một công thức chung cho tất cả: biết mình nghiêng về hướng nào thì việc chọn thức uống, chọn bữa ăn, chọn giờ sinh hoạt đều bớt mò mẫm.
 
 Cần nói rõ để tránh hiểu lầm: cách phân loại hàn — nhiệt là **khung tham chiếu về thói quen sinh hoạt**, không phải chẩn đoán y khoa và không thay thế việc thăm khám.
 

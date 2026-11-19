@@ -8,7 +8,7 @@
   "category": "Thực phẩm & nguyên liệu",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-toi-song-moi-ngay-co-tot-khong-hero.jpg",
   "hero_alt": "Củ tỏi và các tép tỏi đã bóc vỏ đặt trên thớt gỗ mộc",
   "reading_min": 13,

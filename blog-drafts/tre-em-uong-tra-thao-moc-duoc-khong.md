@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tre-em-uong-tra-thao-moc-duoc-khong-hero.jpg",
   "hero_alt": "Cốc nước hãm thảo mộc ấm nhạt màu đặt cạnh bình nước lọc trên bàn ăn gia đình",
   "reading_min": 13,

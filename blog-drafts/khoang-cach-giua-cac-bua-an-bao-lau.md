@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-20",
   "updated": "2026-08-20",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/khoang-cach-giua-cac-bua-an-bao-lau-hero.jpg",
   "hero_alt": "Đồng hồ bếp bên cạnh bát cơm và đĩa rau bày gọn trên bàn",
   "reading_min": 14,

@@ -8,9 +8,9 @@
   "category": "dinh-duong",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nguoi-tap-yoga-nen-an-gi-hero.jpg",
-  "hero_alt": "Nền thương hiệu IKI cho bài viết dinh dưỡng cho người tập yoga",
+  "hero_alt": "Nền thương hiệu IKIHEALING cho bài viết dinh dưỡng cho người tập yoga",
   "reading_min": 13,
   "answer": "Người tập yoga nên ăn nhẹ và dễ tiêu trước buổi tập khoảng 30-60 phút, hoặc ăn bữa chính cách buổi tập 2-3 tiếng. Món trước tập nên ưu tiên tinh bột dễ tiêu như chuối, một lát bánh mì nguyên cám hoặc vài hạt, tránh đồ nhiều dầu mỡ và nhiều chất xơ thô. Sau buổi tập khoảng 30-60 phút, nên có một bữa gồm đạm và tinh bột chậm để phục hồi. Với lớp tập sáng sớm, một bữa rất nhẹ hoặc chỉ nước ấm là đủ với đa số người.",
   "faq": [
@@ -210,7 +210,7 @@ Người tập yoga nên ăn gì? Nguyên tắc gọn trong ba dòng:
 2. **Sau tập** — đạm cộng tinh bột chậm trong vòng một giờ, bù nước rải rác.
 3. **Cả ngày** — đủ đạm chia đều các bữa, đủ rau, đủ nước.
 
-Nếu chỉ chọn được một việc để đổi từ tuần này, hãy đổi thời điểm ăn thay vì đổi món. Với yoga, đúng giờ thường tạo ra khác biệt lớn hơn đúng thực đơn. Muốn theo dõi xem thay đổi có hiệu quả không, [app IKI](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn và cảm nhận sau buổi tập để bạn nhìn ra quy luật của riêng mình.
+Nếu chỉ chọn được một việc để đổi từ tuần này, hãy đổi thời điểm ăn thay vì đổi món. Với yoga, đúng giờ thường tạo ra khác biệt lớn hơn đúng thực đơn. Muốn theo dõi xem thay đổi có hiệu quả không, [app IKIHEALING](https://ikihealing.com/app.html) có phần ghi nhật ký bữa ăn và cảm nhận sau buổi tập để bạn nhìn ra quy luật của riêng mình.
 
 ## Nguồn tham khảo
 

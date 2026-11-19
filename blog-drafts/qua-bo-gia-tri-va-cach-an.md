@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/qua-bo-gia-tri-va-cach-an-hero.jpg",
   "hero_alt": "Quả bơ chín cắt đôi bày trên thớt gỗ cùng bánh mì và rau xanh trong bữa sáng",
   "reading_min": 13,
@@ -182,7 +182,7 @@ Quanh quả bơ có khá nhiều lời đồn. Cùng gỡ vài hiểu lầm ph�
 
 **"Dầu bơ và quả bơ là một."** Dầu bơ là sản phẩm chiết xuất, đã qua chế biến và cô đặc năng lượng, khác với ăn nguyên quả bơ vốn còn giữ chất xơ và cảm giác no. Ăn nguyên quả thường là lựa chọn gần với tự nhiên hơn.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Chị P., ngoài ba mươi tuổi, làm hành chính ở TP.HCM, chia sẻ rằng suốt nhiều năm chị luôn né quả bơ vì nghe bạn bè bảo "ăn vào là mập", dù rất thích vị béo bùi của nó. Bữa sáng của chị trước kia thường là bánh mì phết phô mai béo hoặc ổ bánh ngọt mua vội trước cổng công ty, ăn xong đến giữa buổi lại đói và với tay lấy bánh kẹo ở văn phòng. Sau khi hiểu ra vấn đề nằm ở khẩu phần chứ không phải bản thân quả bơ, chị thử đổi cách: mua vài quả bơ sáp để chín dần trên bàn bếp, mỗi sáng dằm khoảng nửa quả với chút muối, tiêu và vài giọt chanh, phết lên bánh mì nguyên cám thay cho lớp phô mai cũ. Chị cũng tự dặn mình không ăn thêm bơ sau bữa tối đã đủ no. Mấy tuần giữ nếp này, chị kể rằng bữa sáng của mình no lâu hơn, giữa buổi ít khi phải ăn vặt, và chị được ăn món mình thích mà không còn cảm giác dè chừng. Điều chị tâm đắc là hiểu được "ăn thay" khác với "ăn thêm" — một thay đổi nhỏ trong cách nghĩ nhưng làm bữa ăn nhẹ nhõm đi nhiều. (Đây là trải nghiệm cá nhân được chia sẻ để tham khảo, không phải lời khuyên y tế và không đại diện cho kết quả của mọi người; nhu cầu dinh dưỡng của mỗi người mỗi khác, khi có vấn đề sức khỏe cụ thể bạn nên hỏi ý kiến chuyên gia dinh dưỡng hoặc bác sĩ.)
 :::
 
@@ -202,7 +202,7 @@ Những lưu ý này không nhằm khiến bạn e ngại quả bơ, mà để v
 
 ## Kết
 
-Quả bơ là một ví dụ đẹp cho triết lý ăn uống mà cộng đồng IKI theo đuổi: **không có thực phẩm thần kỳ, cũng không có thực phẩm xấu, chỉ có cách ăn hợp lý hay không.** Bơ giàu chất béo lành mạnh, chất xơ và khoáng chất; đồng thời khá giàu năng lượng nên cần chú ý khẩu phần. Ăn khoảng một phần ba đến nửa quả mỗi ngày, tính vào tổng bữa ăn, dùng thay cho một phần chất béo khác, và kết hợp trong một thực đơn đa dạng, đó là cách để tận dụng giá trị của bơ một cách bền vững.
+Quả bơ là một ví dụ đẹp cho triết lý ăn uống mà cộng đồng IKIHEALING theo đuổi: **không có thực phẩm thần kỳ, cũng không có thực phẩm xấu, chỉ có cách ăn hợp lý hay không.** Bơ giàu chất béo lành mạnh, chất xơ và khoáng chất; đồng thời khá giàu năng lượng nên cần chú ý khẩu phần. Ăn khoảng một phần ba đến nửa quả mỗi ngày, tính vào tổng bữa ăn, dùng thay cho một phần chất béo khác, và kết hợp trong một thực đơn đa dạng, đó là cách để tận dụng giá trị của bơ một cách bền vững.
 
 Nếu bạn muốn xây dựng một nếp ăn uống cân bằng hơn từng bước, có thể tham khảo thêm [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) và cách [ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html) để chọn thực phẩm phù hợp với chính mình.
 

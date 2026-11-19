@@ -9,7 +9,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-10-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/kho-ngu-tran-troc-nep-buoi-toi-hero.jpg",
   "hero_alt": "Góc thư giãn buổi tối trước khi ngủ",
   "reading_min": 17,
@@ -164,7 +164,7 @@ Nếu bạn hay đói nhẹ trước khi ngủ, bài [Ăn gì trước khi ngủ
 
 Cách tự kiểm tra nhanh: đọc phần thành phần, nếu thấy "trà xanh", "trà đen", "green tea", "black tea", "maté", "guarana" thì có khả năng chứa caffeine. Bài [Trà không caffeine buổi tối: chọn thế nào và uống trước giờ ngủ bao lâu](tra-khong-caffeine-uong-buoi-toi.html) hướng dẫn chi tiết hơn, còn bài [Uống trà đúng cách](uong-tra-dung-cach.html) nói về thời điểm và liều lượng.
 
-Trong số các lựa chọn không caffeine, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) của IKI là hỗn hợp bốn vị thảo mộc có hương dịu, nhiều gia đình pha vào cuối ngày như một phần của nghi thức buổi tối; bạn có thể xem thành phần và cách pha trong bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html). Đây là thực phẩm bổ sung, không phải thuốc và không thay thế một nếp sinh hoạt tốt.
+Trong số các lựa chọn không caffeine, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) của IKIHEALING là hỗn hợp bốn vị thảo mộc có hương dịu, nhiều gia đình pha vào cuối ngày như một phần của nghi thức buổi tối; bạn có thể xem thành phần và cách pha trong bài [Trà Thanh Hương là gì](tra-thanh-huong-la-gi.html). Đây là thực phẩm bổ sung, không phải thuốc và không thay thế một nếp sinh hoạt tốt.
 
 ## Uống trà buổi tối có mất ngủ không?
 
@@ -224,7 +224,7 @@ Khoảng một tiếng trước giờ ngủ là lúc gửi cho cơ thể tín hi
 
 Một ví dụ về buổi tối chừng 45 phút: 21 giờ 15 đặt điện thoại sạc ngoài phòng khách, viết ba việc ngày mai; 21 giờ 25 ngâm chân nước ấm kèm một tách trà thảo mộc; 21 giờ 45 rửa mặt, hạ đèn; 21 giờ 55 đọc vài trang rồi tắt đèn. Bạn không cần đủ cả bảy bước. Chọn ba bước dễ nhất và giữ đều ba tuần trước khi thêm.
 
-Nếu bạn cần công cụ nhắc nhở, đặt lời nhắc giờ đi ngủ hoặc ghi lại nếp buổi tối trong [App IKI](https://ikihealing.com/app.html) có thể giúp giữ thói quen mà không phải nhớ thủ công.
+Nếu bạn cần công cụ nhắc nhở, đặt lời nhắc giờ đi ngủ hoặc ghi lại nếp buổi tối trong [App IKIHEALING](https://ikihealing.com/app.html) có thể giúp giữ thói quen mà không phải nhớ thủ công.
 
 ## Phòng ngủ nên sắp xếp thế nào cho dễ ngủ?
 
@@ -287,6 +287,6 @@ Hãy bắt đầu từ một thay đổi nhỏ ngay tối nay: đặt điện th
 CDC, "About Sleep" (khuyến nghị 7 giờ trở lên cho người lớn 18 đến 60 tuổi): cdc.gov/sleep. Drake C, Roehrs T, Shambroom J, Roth T. Caffeine effects on sleep taken 0, 3, or 6 hours before going to bed. J Clin Sleep Med, 2013. Chang AM, Aeschbach D, Duffy JF, Czeisler CA. Evening use of light-emitting eReaders negatively affects sleep, circadian timing, and next-morning alertness. PNAS, 2015. Qaseem A và cộng sự. Management of Chronic Insomnia Disorder in Adults: A Clinical Practice Guideline From the American College of Physicians. Ann Intern Med, 2016. Nội dung mang tính thông tin về lối sống, không thay thế tư vấn y tế.
 :::
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Theo những gì IKI ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Theo những gì IKIHEALING ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/vi-sao-chon-dam-thuc-vat-hero.jpg",
   "hero_alt": "Chọn nguồn đạm thực vật",
   "reading_min": 13,
@@ -113,7 +113,7 @@ Nhìn tổng thể, một khẩu phần đạm thực vật lý tưởng thườ
 
 ## Đạm thực vật True Vegan Protein — một lựa chọn cho nếp sống bận rộn
 
-![Hộp True Vegan Protein Pro 22 gói x 22 g của IKI](../assets/san-pham/true-vegan-protein-pro-hop-22-goi/hop-mat-truoc-va-goi.webp)
+![Hộp True Vegan Protein Pro 22 gói x 22 g của IKIHEALING](../assets/san-pham/true-vegan-protein-pro-hop-22-goi/hop-mat-truoc-va-goi.webp)
 
 Xem [thông tin đầy đủ về True Vegan Protein Pro](../san-pham/true-vegan-protein.html): thành phần, cách pha, ai dùng được và giá niêm yết.
 
@@ -138,7 +138,7 @@ Nếu bạn quyết định thêm một loại bột đạm thực vật vào n�
 4. **Nghe cơ thể trong vài tuần đầu.** Khi thêm nhiều đạm thực vật và chất xơ, một số người cần thời gian để tiêu hóa quen dần, nên tăng từ từ là hợp lý. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp bổ sung đạm nào hợp với mình.
 5. **Hỏi chuyên gia nếu có nhu cầu đặc biệt.** Người mang thai, cho con bú, có bệnh nền như bệnh thận, hoặc đang theo chế độ ăn riêng nên trao đổi với bác sĩ hay chuyên gia dinh dưỡng để cá nhân hóa khẩu phần.
 
-:::case Cảm nhận từ cộng đồng IKI (ẩn danh)
+:::case Cảm nhận từ cộng đồng IKIHEALING (ẩn danh)
 Một thành viên trong cộng đồng chia sẻ rằng trước đây chị hay thấy khó chịu, nặng bụng sau những bữa nhiều đạm động vật. Sau khi tìm hiểu, chị thử chuyển bớt sang các nguồn đạm thực vật, thêm đậu hũ và các loại đậu vào bữa chính, và dùng thêm một ly bột đạm thực vật vào những ngày bận không kịp nấu. Chị kể lại rằng cảm giác sau ăn của mình nhẹ nhõm và dễ chịu hơn trước, và việc giữ đủ đạm mỗi ngày cũng bớt vất vả hơn nhờ có thêm lựa chọn tiện lợi. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau ở mỗi người.)
 :::
 

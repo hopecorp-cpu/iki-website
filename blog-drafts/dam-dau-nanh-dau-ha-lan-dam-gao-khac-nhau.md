@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-21",
   "updated": "2026-08-21",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dam-dau-nanh-dau-ha-lan-dam-gao-khac-nhau-hero.jpg",
   "hero_alt": "Các loại hạt và đậu dùng làm nguồn đạm thực vật bày trên nền bếp",
   "reading_min": 13,
@@ -170,7 +170,7 @@ Sau khi đã hiểu cơ chế, câu hỏi thực tế còn lại rất đơn gi�
 
 Nếu bạn quen và thích vị đậu nành, không thấy ngán khi dùng đều, thì một sản phẩm lấy đậu nành làm nguồn chính hoàn toàn ổn về mặt dinh dưỡng. Nếu bạn từng thử đậu nành và thấy khó duy trì vì vị, hoặc muốn đa dạng nguồn, thì hỗn hợp lấy đậu Hà Lan làm nền cộng thêm ngũ cốc và hạt sẽ dễ đi đường dài hơn. Nếu bạn nhạy cảm về kết cấu, để ý tỷ lệ đạm gạo và hạt gai dầu vì đó là hai thứ hay gây cảm giác thô.
 
-Ngoài chuyện khẩu vị, còn một lớp nữa là cơ địa và nếp sinh hoạt của mỗi người — người hay lạnh bụng, người ăn sáng vội, người tập luyện buổi tối đều có nhu cầu khác nhau. Khảo sát thể trạng của IKI được dựng để trả lời đúng lớp câu hỏi đó; bạn có thể [làm bài kiểm tra thể trạng miễn phí tại đây](https://ikihealing.com/quiz) và nhận bản phân tích riêng thay vì áp một công thức chung cho tất cả mọi người.
+Ngoài chuyện khẩu vị, còn một lớp nữa là cơ địa và nếp sinh hoạt của mỗi người — người hay lạnh bụng, người ăn sáng vội, người tập luyện buổi tối đều có nhu cầu khác nhau. Khảo sát thể trạng của IKIHEALING được dựng để trả lời đúng lớp câu hỏi đó; bạn có thể [làm bài kiểm tra thể trạng miễn phí tại đây](https://ikihealing.com/quiz) và nhận bản phân tích riêng thay vì áp một công thức chung cho tất cả mọi người.
 
 Cuối cùng, hãy nhớ rằng bột đạm chỉ là một phần nhỏ trong bức tranh. Tổng lượng đạm cả ngày và sự đa dạng của bữa ăn quan trọng hơn nhiều so với việc chọn đúng thương hiệu. Nếu chưa rõ mình cần bao nhiêu, bài [cần bao nhiêu đạm mỗi ngày và lấy từ đâu](can-bao-nhieu-dam-moi-ngay.html) có cách tính theo cân nặng.
 

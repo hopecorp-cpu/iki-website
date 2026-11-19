@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-xanh-matcha-thoi-quen-nhat-hero.jpg",
   "hero_alt": "Trà xanh matcha và nghi thức trà Nhật",
   "reading_min": 14,
@@ -150,8 +150,8 @@ Quanh chuyện trà xanh và matcha có không ít quan niệm dễ gây nhầm 
 
 Hiểu đúng về trà giúp bạn tận hưởng nó thoải mái và an tâm, thay vì kỳ vọng sai lệch rồi thất vọng.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị L., 27 tuổi, chuyên viên truyền thông thường xuyên phải trực bài đăng đến tối muộn, chia sẻ rằng trước đây mỗi chiều chị hay đặt một ly cà phê sữa đá thật ngọt để "chống buồn ngủ", và dần thấy mình phụ thuộc vào vị ngọt ấy, chưa kể những hôm uống muộn thì đêm nằm trằn trọc. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị thử thay thói quen đó bằng một tách trà xanh ấm tự pha ở văn phòng vào đầu giờ chiều, pha nhạt và không đường, và tự đặt luật không uống trà sau bốn giờ chiều. Ban đầu chị thấy hơi nhạt miệng, nhưng sau vài tuần thì quen và bắt đầu thích cái vị thanh nhẹ ấy. Chị chia sẻ rằng khoảnh khắc dừng tay pha trà mỗi chiều trở thành một khoảng nghỉ dễ chịu, giúp chị thấy tỉnh táo hơn và bớt thèm đồ ngọt. (Đây là trải nghiệm cá nhân về thay đổi thói quen uống, không phải lời khuyên y tế hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
+Chị L., 27 tuổi, chuyên viên truyền thông thường xuyên phải trực bài đăng đến tối muộn, chia sẻ rằng trước đây mỗi chiều chị hay đặt một ly cà phê sữa đá thật ngọt để "chống buồn ngủ", và dần thấy mình phụ thuộc vào vị ngọt ấy, chưa kể những hôm uống muộn thì đêm nằm trằn trọc. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chị thử thay thói quen đó bằng một tách trà xanh ấm tự pha ở văn phòng vào đầu giờ chiều, pha nhạt và không đường, và tự đặt luật không uống trà sau bốn giờ chiều. Ban đầu chị thấy hơi nhạt miệng, nhưng sau vài tuần thì quen và bắt đầu thích cái vị thanh nhẹ ấy. Chị chia sẻ rằng khoảnh khắc dừng tay pha trà mỗi chiều trở thành một khoảng nghỉ dễ chịu, giúp chị thấy tỉnh táo hơn và bớt thèm đồ ngọt. (Đây là trải nghiệm cá nhân về thay đổi thói quen uống, không phải lời khuyên y tế hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Anh Đ. (Đà Nẵng) — một bát matcha cho buổi sáng chậm lại
@@ -164,6 +164,6 @@ Trà xanh và matcha không chỉ là những thức uống, mà là một cánh
 
 Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là pha một tách trà xanh đầu giờ chiều thay cho ly nước ngọt, hoặc thử tự đánh một bát matcha vào buổi sáng và uống thật chậm. Những khoảnh khắc nhỏ đều đặn ấy, cùng với thói quen ăn uống cân bằng và ngủ đủ, chính là cách bạn chăm sóc cả cơ thể lẫn tinh thần mỗi ngày.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Theo những gì IKI ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Theo những gì IKIHEALING ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

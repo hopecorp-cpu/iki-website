@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-16",
   "updated": "2026-08-16",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-bao-nhieu-trai-cay-moi-ngay-la-du-hero.jpg",
   "hero_alt": "Đĩa trái cây tươi theo mùa được cắt sẵn đặt cạnh tách trà trên bàn gỗ",
   "reading_min": 14,
@@ -189,7 +189,7 @@ Biết con số là một chuyện, duy trì được lại là chuyện khác. 
 - **Mua theo mùa.** Quả chính vụ vừa rẻ vừa ngon hơn, nên khả năng bạn ăn hết trước khi hỏng cũng cao hơn. Bài [Trái cây theo mùa ở Việt Nam](trai-cay-theo-mua-o-viet-nam.html) có lịch mùa vụ theo tháng.
 - **Đa dạng màu sắc trong tuần.** Mỗi màu tương ứng với một nhóm hợp chất thực vật khác nhau, nên ăn năm loại quả khác nhau trong tuần tốt hơn ăn một loại năm lần.
 
-Ghi lại vài dòng mỗi ngày về những gì mình ăn giúp bạn thấy rõ mình đang thừa hay thiếu ở nhóm nào; [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
+Ghi lại vài dòng mỗi ngày về những gì mình ăn giúp bạn thấy rõ mình đang thừa hay thiếu ở nhóm nào; [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
 
 ## Kết: con số là để định hướng, không phải để ám ảnh
 

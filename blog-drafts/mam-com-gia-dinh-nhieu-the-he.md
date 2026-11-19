@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-07",
   "updated": "2026-08-07",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/mam-com-gia-dinh-nhieu-the-he-hero.jpg",
   "hero_alt": "Mâm cơm gia đình Việt với canh, rau luộc và món mặn trên chiếu",
   "reading_min": 14,
@@ -118,7 +118,7 @@ Cách sửa đơn giản: mỗi bữa tối hãy nhìn vào mâm và tự hỏi 
 
 Với những ngày thực sự bận, khi bữa tối chỉ kịp có cơm rau và canh, một phần [đạm thực vật](https://trueveganprotein.com) pha với nước ấm hoặc sữa hạt là cách bổ sung tiện cho người lớn trong nhà, đặc biệt với người ăn chay hoặc người khó tiêu với đạm động vật. Đây là thực phẩm bổ sung cho khẩu phần, không phải vật thay thế bữa ăn, và với trẻ nhỏ thì nên hỏi ý kiến chuyên gia dinh dưỡng trước khi dùng.
 
-Nhu cầu đạm của mỗi người khác nhau theo tuổi, cân nặng và mức vận động. Nếu bạn chưa chắc nhà mình đang đủ hay thiếu, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKI](../quiz/) để có điểm khởi đầu rõ ràng hơn.
+Nhu cầu đạm của mỗi người khác nhau theo tuổi, cân nặng và mức vận động. Nếu bạn chưa chắc nhà mình đang đủ hay thiếu, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKIHEALING](../quiz/) để có điểm khởi đầu rõ ràng hơn.
 
 ## Khung mâm cơm 7 ngày để bạn khỏi phải nghĩ
 
@@ -192,7 +192,7 @@ Vì vậy, nếu phải chọn giữa một mâm cơm cầu kỳ ăn lệch gi�
 - **Tuần 3**: dành một tiếng cuối tuần để sơ chế sẵn cho cả tuần.
 - **Tuần 4**: đặt một khung giờ ăn tối cố định và giữ nó như một cuộc hẹn.
 
-Sau một tháng, hãy nhìn lại: bữa tối có bớt căng thẳng không, ông bà có ăn được nhiều hơn không, trẻ có chịu thử món mới không, và bản thân bạn có còn phải nấu tới chín giờ tối không. Nếu muốn theo dõi những thay đổi này một cách có hệ thống thay vì dựa vào cảm giác, [App IKI](../app.html) có phần nhật ký ngắn mỗi ngày và bản tổng kết theo tuần.
+Sau một tháng, hãy nhìn lại: bữa tối có bớt căng thẳng không, ông bà có ăn được nhiều hơn không, trẻ có chịu thử món mới không, và bản thân bạn có còn phải nấu tới chín giờ tối không. Nếu muốn theo dõi những thay đổi này một cách có hệ thống thay vì dựa vào cảm giác, [App IKIHEALING](../app.html) có phần nhật ký ngắn mỗi ngày và bản tổng kết theo tuần.
 
 Một mâm cơm hợp cả nhà không phải là mâm cơm hoàn hảo. Đó là mâm cơm mà người nấu vẫn còn sức ngồi xuống ăn cùng mọi người.
 

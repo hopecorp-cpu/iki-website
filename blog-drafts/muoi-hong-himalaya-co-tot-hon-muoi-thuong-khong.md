@@ -7,7 +7,7 @@
   "keyword": "muối hồng Himalaya có tốt hơn muối thường không",
   "category": "thuc-pham",
   "date": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/muoi-hong-himalaya-co-tot-hon-muoi-thuong-khong-hero.jpg",
   "hero_alt": "Hai chén muối hồng và muối trắng đặt cạnh nhau trên mặt gỗ",
   "reading_min": 13,
@@ -121,7 +121,7 @@ Vậy nên câu trả lời thực tế cho câu hỏi ở tiêu đề là: **đ
 
 **Tăng kali từ rau củ.** Kali và natri hoạt động như hai đầu của một cán cân trong cơ thể. Khẩu phần nhiều rau xanh, chuối, khoai lang, đậu tự nó giúp cân bằng lại phần nào.
 
-:::case Từ cộng đồng IKI
+:::case Từ cộng đồng IKIHEALING
 Một thay đổi được nhiều thành viên nhắc lại vì dễ làm nhất: **bỏ chén nước mắm khỏi mâm cơm**, chỉ nêm trong lúc nấu. Tuần đầu cả nhà thấy nhạt, tuần thứ ba thì không ai nhắc nữa — và khi ăn ở ngoài, nhiều người bắt đầu thấy đồ ăn hàng quán mặn hơn hẳn so với trước. Vị giác thay đổi nhanh hơn ta tưởng.
 :::
 
@@ -150,7 +150,7 @@ Nếu bạn thích hũ muối hồng trên kệ bếp vì hạt giòn, màu đ�
 
 Câu hỏi thực sự đáng đặt ra không phải "muối nào tốt hơn" mà là **"cả nhà mình đang ăn bao nhiêu muối mỗi ngày, và phần lớn nó đến từ đâu"**. Với hầu hết gia đình Việt, câu trả lời nằm ở chén nước mắm, gói hạt nêm và đồ ăn ngoài — chứ không phải ở lọ muối.
 
-Một tuần thử ghi lại xem mỗi bữa mình nêm những gì, dùng bao nhiêu nước mắm, ăn ngoài mấy bữa — thường đủ để nhìn ra bức tranh thật. [Ứng dụng IKI](https://ikihealing.com/app.html) có thể quét bữa ăn và ước lượng giúp bạn, còn nếu muốn một điểm khởi đầu cá nhân hơn, [khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) sẽ gợi ý hướng điều chỉnh phù hợp với cơ địa của bạn.
+Một tuần thử ghi lại xem mỗi bữa mình nêm những gì, dùng bao nhiêu nước mắm, ăn ngoài mấy bữa — thường đủ để nhìn ra bức tranh thật. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có thể quét bữa ăn và ước lượng giúp bạn, còn nếu muốn một điểm khởi đầu cá nhân hơn, [khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) sẽ gợi ý hướng điều chỉnh phù hợp với cơ địa của bạn.
 
 Và nếu buổi tối bạn quen có một thức uống ấm để kết thúc bữa nhẹ nhàng, một tách [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) là thói quen dễ giữ hơn nhiều so với việc đổi cả hũ muối.
 

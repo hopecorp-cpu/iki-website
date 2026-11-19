@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-02",
   "updated": "2026-10-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-don-7-ngay-cho-nguoi-an-chay-du-dam-hero.jpg",
   "hero_alt": "Mâm cơm chay với đậu hũ, các loại đậu, rau xanh và gạo lứt trên bàn gỗ",
   "reading_min": 15,
@@ -242,15 +242,15 @@ Chi tiết hơn về cách chuẩn bị bữa ăn theo tuần có ở bài [Chu�
 
 **Phụ nữ mang thai, cho con bú, trẻ nhỏ.** Đây là các nhóm có nhu cầu đặc biệt, nên xây thực đơn dưới hướng dẫn của bác sĩ hoặc chuyên gia dinh dưỡng thay vì áp dụng thực đơn chung.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKI Healing, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKIHEALING, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
 :::
 
 ## Kết: một khung để bám vào, không phải một luật bắt buộc
 
 Thực đơn bảy ngày ở trên không phải là thứ phải làm theo từng chữ. Giá trị của nó nằm ở khung tư duy phía sau: **mỗi bữa chính đều nhìn thấy rõ một nguồn đạm, mỗi ngày đều có mặt cả nhóm đậu lẫn nhóm ngũ cốc, mỗi tuần đều có hạt và rau lá xanh đậm.** Giữ được ba điều đó thì bạn có thể tự do đổi món theo mùa, theo khẩu vị và theo những gì chợ hôm ấy có.
 
-Hãy bắt đầu bằng việc áp dụng ba ngày đầu tiên trong tuần này, xem cảm giác no, mức năng lượng buổi chiều và tiêu hoá của bạn thế nào, rồi điều chỉnh tiếp. Nếu muốn ghi lại tiện hơn, [App IKI](https://ikihealing.com/app.html) có phần nhật ký bữa ăn ngắn để bạn nhìn lại cả tuần theo biểu đồ.
+Hãy bắt đầu bằng việc áp dụng ba ngày đầu tiên trong tuần này, xem cảm giác no, mức năng lượng buổi chiều và tiêu hoá của bạn thế nào, rồi điều chỉnh tiếp. Nếu muốn ghi lại tiện hơn, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký bữa ăn ngắn để bạn nhìn lại cả tuần theo biểu đồ.
 
 Chưa rõ cơ địa mình hợp kiểu ăn nào? Dành 90 giây làm [bài kiểm tra thể trạng](https://ikihealing.com/quiz) để có gợi ý sát hơn với chính mình. Bạn cũng có thể đọc thêm [Ăn chay đủ chất và cân bằng](an-chay-du-chat-can-bang.html) để nắm bức tranh tổng thể.
 

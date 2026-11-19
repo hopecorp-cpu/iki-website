@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thoi-quen-buoi-sang-hero.jpg",
   "hero_alt": "Buổi sáng nhẹ nhàng bên cửa sổ với cốc nước ấm",
   "reading_min": 15,
@@ -165,12 +165,12 @@ Một mốc tham khảo dễ nhớ: hãy cho mỗi thói quen mới khoảng hai
 
 Hiểu đúng về buổi sáng giúp bạn ra quyết định tự tin hơn, thay vì chạy theo những lời khuyên truyền miệng thiếu cơ sở.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Một thành viên trong cộng đồng — chị giáo viên tiểu học ngoài 30 — chia sẻ rằng trước đây buổi sáng của chị luôn vội vã: thức dậy muộn, lướt điện thoại, bỏ bữa sáng rồi lao đi dạy trong trạng thái uể oải. Chị bắt đầu thay đổi bằng đúng một việc nhỏ — uống một cốc nước ấm ngay khi dậy. Vài tuần sau, chị thêm việc giãn cơ vài phút và ăn sáng đơn giản. Chị nói điều quý nhất không phải là một buổi sáng "hoàn hảo", mà là cảm giác chủ động và nhẹ nhõm hơn khi bắt đầu ngày mới. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 
 :::case Anh T. (Hải Phòng) — đổi buổi sáng "nặng nề" bằng ba việc nhỏ
-Anh T., một nhân viên văn phòng ngoài 40, chia sẻ rằng trước đây sáng nào thức dậy anh cũng thấy người nặng trĩu, đầu óc chậm chạp, phải nhờ một ly cà phê đá thật đậm mới thấy "tỉnh" — nhưng chỉ được một lúc rồi lại uể oải. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, anh thử ba việc rất nhỏ mỗi sáng: dậy đúng giờ và mở cửa đón nắng, uống một cốc nước ấm thay cho ly đá lạnh đầu ngày, và đi bộ nhẹ mười phút quanh khu nhà. Anh cũng để ý ăn tối sớm và nhẹ hơn. Sau khoảng một tháng giữ nếp, điều anh thấy rõ nhất là buổi sáng bớt cảm giác nặng nề, tinh thần vào việc dễ hơn và anh không còn phụ thuộc vào ly cà phê đá để "gượng dậy". (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, là kết quả của cả một quá trình điều chỉnh nếp ngủ, ăn uống và vận động; không phải lời khuyên y khoa hay cam kết về sức khoẻ, và kết quả có thể khác nhau tùy cơ địa và mức độ kiên trì của mỗi người.)
+Anh T., một nhân viên văn phòng ngoài 40, chia sẻ rằng trước đây sáng nào thức dậy anh cũng thấy người nặng trĩu, đầu óc chậm chạp, phải nhờ một ly cà phê đá thật đậm mới thấy "tỉnh" — nhưng chỉ được một lúc rồi lại uể oải. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, anh thử ba việc rất nhỏ mỗi sáng: dậy đúng giờ và mở cửa đón nắng, uống một cốc nước ấm thay cho ly đá lạnh đầu ngày, và đi bộ nhẹ mười phút quanh khu nhà. Anh cũng để ý ăn tối sớm và nhẹ hơn. Sau khoảng một tháng giữ nếp, điều anh thấy rõ nhất là buổi sáng bớt cảm giác nặng nề, tinh thần vào việc dễ hơn và anh không còn phụ thuộc vào ly cà phê đá để "gượng dậy". (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, là kết quả của cả một quá trình điều chỉnh nếp ngủ, ăn uống và vận động; không phải lời khuyên y khoa hay cam kết về sức khoẻ, và kết quả có thể khác nhau tùy cơ địa và mức độ kiên trì của mỗi người.)
 :::
 
 ## Kết: một buổi sáng nhẹ, một ngày chủ động

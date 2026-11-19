@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-10-15",
   "updated": "2026-10-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bo-bua-trua-co-sao-khong-hero.jpg",
   "hero_alt": "Hộp cơm trưa còn đậy nắp đặt cạnh bàn phím và chồng giấy tờ trên bàn làm việc văn phòng",
   "reading_min": 14,
@@ -88,7 +88,7 @@ Cũng nên nói rõ: một số người có hoàn cảnh riêng cần nhịp ă
 
 ## Vì sao phụ nữ văn phòng hay bỏ bữa trưa
 
-Lời khuyên "nhớ ăn trưa nhé" thất bại vì nó bỏ qua lý do người ta bỏ trưa. Theo những gì chúng tôi nghe được khi trò chuyện với khách hàng nữ của IKI, có năm lý do lặp lại nhiều nhất. Bạn có thể đang gặp một, hoặc cùng lúc vài lý do.
+Lời khuyên "nhớ ăn trưa nhé" thất bại vì nó bỏ qua lý do người ta bỏ trưa. Theo những gì chúng tôi nghe được khi trò chuyện với khách hàng nữ của IKIHEALING, có năm lý do lặp lại nhiều nhất. Bạn có thể đang gặp một, hoặc cùng lúc vài lý do.
 
 **Một: việc đến đúng giờ ăn.** Họp kéo dài quá trưa, khách gọi lúc mười hai giờ, sếp cần gấp một bản số liệu. Đây là lý do phổ biến nhất và cũng khó né nhất, vì nó không nằm trong tay mình.
 
@@ -228,7 +228,7 @@ Trong cách nhìn truyền thống của người Á Đông, chuyện ăn uống
 
 Với người văn phòng, "ăn đúng nhịp" có thể dịch thành một việc rất cụ thể: giữ bữa trưa ở khoảng giữa hai bữa sáng và tối, không để khoảng trống giữa hai bữa kéo quá dài. Bài [khoảng cách giữa các bữa ăn bao lâu](khoang-cach-giua-cac-bua-an-bao-lau.html) nói kỹ hơn về chuyện giãn bữa.
 
-Nếu bạn muốn theo dõi nhịp ăn của mình mà không phải ghi chép thủ công, [App IKI](https://ikihealing.com/app.html) có nhật ký bữa ăn nhanh, giúp nhìn lại cả tuần trong một màn hình.
+Nếu bạn muốn theo dõi nhịp ăn của mình mà không phải ghi chép thủ công, [App IKIHEALING](https://ikihealing.com/app.html) có nhật ký bữa ăn nhanh, giúp nhìn lại cả tuần trong một màn hình.
 
 ## Khi nào nên đi khám thay vì tự điều chỉnh
 

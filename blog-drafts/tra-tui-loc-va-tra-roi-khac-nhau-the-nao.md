@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-08-28",
   "updated": "2026-08-28",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-tui-loc-va-tra-roi-khac-nhau-the-nao-hero.jpg",
   "hero_alt": "Một túi trà lọc và một nhúm trà lá rời đặt cạnh nhau trên bàn gỗ sáng dịu",
   "reading_min": 14,
@@ -185,7 +185,7 @@ Trà túi lọc và trà rời khác nhau ở kích thước nguyên liệu, ch�
 
 Nếu ngày của bạn nhiều việc và bạn muốn giữ được thói quen uống ấm đều đặn, túi lọc là thứ giúp thói quen ấy sống sót. Nếu bạn có những khoảng thời gian chậm và muốn dùng chúng cho một việc tử tế với chính mình, trà rời trả lại đúng thứ bạn bỏ vào. Và nếu bạn có cả hai kiểu ngày, hãy giữ cả hai loại trong bếp.
 
-Mỗi người một nếp sinh hoạt, một thể trạng và một khẩu vị. Nếu bạn muốn một điểm khởi đầu cụ thể hơn cho nếp chăm sóc hằng ngày của mình thay vì tự đoán, hãy thử [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) rồi đối chiếu với thói quen uống hiện tại. Bạn cũng có thể ghi lại nếp uống của mình mỗi ngày trong [App IKI](https://ikihealing.com/app.html) để nhìn ra nhịp thật của bản thân sau vài tuần.
+Mỗi người một nếp sinh hoạt, một thể trạng và một khẩu vị. Nếu bạn muốn một điểm khởi đầu cụ thể hơn cho nếp chăm sóc hằng ngày của mình thay vì tự đoán, hãy thử [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) rồi đối chiếu với thói quen uống hiện tại. Bạn cũng có thể ghi lại nếp uống của mình mỗi ngày trong [App IKIHEALING](https://ikihealing.com/app.html) để nhìn ra nhịp thật của bản thân sau vài tuần.
 
 ## Nguồn tham khảo
 

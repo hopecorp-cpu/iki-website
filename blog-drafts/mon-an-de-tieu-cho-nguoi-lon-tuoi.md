@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng người cao tuổi",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/mon-an-de-tieu-cho-nguoi-lon-tuoi-hero.jpg",
   "hero_alt": "Bát cháo ấm và đĩa rau hấp mềm trên bàn ăn gia đình",
   "reading_min": 14,

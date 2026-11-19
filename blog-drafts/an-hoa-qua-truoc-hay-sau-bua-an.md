@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-hoa-qua-truoc-hay-sau-bua-an-hero.jpg",
   "hero_alt": "Đĩa trái cây tươi nhiều màu đặt cạnh bàn ăn buổi sáng",
   "reading_min": 13,
@@ -151,7 +151,7 @@ Không cần đổi mọi thứ cùng lúc. Hãy thử một tuần theo nhịp 
 - **Ngày 6:** đổi loại quả sang một màu bạn ít ăn nhất trong tuần.
 - **Ngày 7:** chọn lại nhịp nào bạn thấy êm nhất và giữ nó làm mặc định.
 
-Sau một tuần, thứ bạn thu được không phải là một quy tắc cứng, mà là **dữ liệu về chính cơ thể mình** — thứ đáng tin hơn mọi lời khuyên chung chung. Nếu muốn theo dõi đều đặn hơn, [App IKI](../app.html) có phần nhật ký ăn uống giúp bạn nhìn lại cả tuần chỉ trong vài giây.
+Sau một tuần, thứ bạn thu được không phải là một quy tắc cứng, mà là **dữ liệu về chính cơ thể mình** — thứ đáng tin hơn mọi lời khuyên chung chung. Nếu muốn theo dõi đều đặn hơn, [App IKIHEALING](../app.html) có phần nhật ký ăn uống giúp bạn nhìn lại cả tuần chỉ trong vài giây.
 
 ## Kết: câu hỏi đúng không phải "trước hay sau"
 

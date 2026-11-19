@@ -1,17 +1,17 @@
 ---json
 {
-  "title": "Báo cáo hành trình hỏi đáp trước khi mua: cần bao nhiêu lượt trao đổi để một người Việt quyết định mua sản phẩm sức khoẻ — theo dữ liệu của IKI by HOPE CORP",
+  "title": "Báo cáo hành trình hỏi đáp trước khi mua: cần bao nhiêu lượt trao đổi để một người Việt quyết định mua sản phẩm sức khoẻ — theo dữ liệu của IKIHEALING by HOPE CORP",
   "seo_title": "Cần bao nhiêu tin nhắn để quyết định mua đồ sức khoẻ?",
   "slug": "bao-cao-hanh-trinh-hoi-dap-2026",
-  "description": "Trung vị 16 lượt tin nhắn cho một quyết định mua, 10% cuộc vượt 36 lượt — đo trên 2.789 cuộc tư vấn thật của IKI Healing. Số liệu mở cho báo chí trích dẫn.",
+  "description": "Trung vị 16 lượt tin nhắn cho một quyết định mua, 10% cuộc vượt 36 lượt — đo trên 2.789 cuộc tư vấn thật của IKIHEALING. Số liệu mở cho báo chí trích dẫn.",
   "keyword": "hành trình mua hàng sản phẩm sức khoẻ",
   "category": "bao-cao",
   "date": "2026-08-04",
-  "author": "Đội ngũ IKI Healing",
+  "author": "Đội ngũ IKIHEALING",
   "hero_local": "assets/blog/bao-cao-hanh-trinh-hoi-dap-2026-hero.jpg",
   "hero_alt": "Bàn làm việc gỗ với giấy ghi chép và bút chì dưới ánh sáng tự nhiên",
   "reading_min": 8,
-  "answer": "Đo trên 2.789 cuộc hội thoại tư vấn thật của IKI Healing, một quyết định mua sản phẩm sức khoẻ đi kèm trung vị 16 lượt tin nhắn giữa người mua và người tư vấn. Nhóm cần nhiều thông tin nhất chiếm 10% số cuộc và vượt 36 lượt tin. Con số này ăn khớp với một đặc điểm cơ cấu: 80-85% doanh thu của IKI đi qua kênh nhắn tin, không qua giỏ hàng thương mại điện tử. Nói cách khác, ngành hàng đưa vào cơ thể gần như không bán được bằng một nút bấm.",
+  "answer": "Đo trên 2.789 cuộc hội thoại tư vấn thật của IKIHEALING, một quyết định mua sản phẩm sức khoẻ đi kèm trung vị 16 lượt tin nhắn giữa người mua và người tư vấn. Nhóm cần nhiều thông tin nhất chiếm 10% số cuộc và vượt 36 lượt tin. Con số này ăn khớp với một đặc điểm cơ cấu: 80-85% doanh thu của IKIHEALING đi qua kênh nhắn tin, không qua giỏ hàng thương mại điện tử. Nói cách khác, ngành hàng đưa vào cơ thể gần như không bán được bằng một nút bấm.",
   "faq": [
     {
       "q": "Con số 16 lượt tin nhắn được đo như thế nào?",
@@ -23,7 +23,7 @@
     },
     {
       "q": "Báo chí có được trích dẫn không?",
-      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
+      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKIHEALING, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
     }
   ],
   "anh_ai": true
@@ -32,13 +32,13 @@
 
 Thương mại điện tử Việt Nam kể một câu chuyện quen thuộc: khách thấy sản phẩm, bấm mua, thanh toán, xong. Nhưng có một nhóm ngành hàng gần như không chạy theo kịch bản đó — nhóm hàng **đưa vào cơ thể**. Ở đó, giữa lúc quan tâm và lúc quyết định là một quãng hỏi đáp dài, và cho tới nay chưa có đơn vị nào tại Việt Nam công bố quãng đó dài bao nhiêu.
 
-Đây là báo cáo thứ tư trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing. Lần này chúng tôi đo một chỉ số hành vi mà dữ liệu bán hàng thông thường không nhìn thấy: **số lượt trao đổi cần có trước một quyết định mua**.
+Đây là báo cáo thứ tư trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKIHEALING. Lần này chúng tôi đo một chỉ số hành vi mà dữ liệu bán hàng thông thường không nhìn thấy: **số lượt trao đổi cần có trước một quyết định mua**.
 
 ## Tổng quan
 
 - **Trung vị 16 lượt tin nhắn** mỗi cuộc tư vấn (n = 2.789 cuộc hội thoại).
 - **Nhóm cần nhiều thông tin nhất: 10% số cuộc vượt 36 lượt tin.**
-- Đối chiếu cơ cấu kênh: **80-85% doanh thu của IKI đi qua kênh nhắn tin**, không qua giỏ hàng thương mại điện tử.
+- Đối chiếu cơ cấu kênh: **80-85% doanh thu của IKIHEALING đi qua kênh nhắn tin**, không qua giỏ hàng thương mại điện tử.
 
 Ba dòng trên đến từ cùng một tệp dữ liệu vận hành nội bộ, kỳ đo tính đến đầu tháng 8/2026.
 
@@ -86,7 +86,7 @@ Kỳ dữ liệu này ghi nhận **1.541 đơn hàng** trên **1.065 khách hàn
 
 ## Nguồn và phương pháp
 
-- **Nguồn:** dữ liệu vận hành nội bộ của IKI by HOPE CORP — hệ thống ghi nhận hội thoại tư vấn chăm sóc khách hàng và hệ thống bán hàng.
+- **Nguồn:** dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP — hệ thống ghi nhận hội thoại tư vấn chăm sóc khách hàng và hệ thống bán hàng.
 - **Cỡ mẫu:** 2.789 cuộc hội thoại tư vấn cho chỉ số độ dài trao đổi; 1.541 đơn hàng trên 1.065 khách hàng cho các chỉ số mua lại.
 - **Kỳ dữ liệu:** tính đến đầu tháng 8/2026.
 - **Cách đo:** đếm số lượt tin nhắn qua lại trong từng cuộc hội thoại, lấy trung vị cho chỉ số chung và phân vị 90 cho nhóm đuôi dài. Chỉ số mua lại ghép theo số điện thoại định danh.
@@ -104,7 +104,7 @@ Nếu bạn đang ở đầu quãng hỏi đáp đó, bài kiểm tra thể tr�
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKIHEALING, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
 Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/sinh-vien-o-tro-an-gi-cho-du-chat-hero.jpg",
   "hero_alt": "Mâm cơm đơn giản gồm cơm, rau luộc, đậu phụ và trứng trên bàn gỗ nhỏ",
   "reading_min": 15,

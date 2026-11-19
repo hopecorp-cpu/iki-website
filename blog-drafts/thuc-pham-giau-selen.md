@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-giau-selen-hero.jpg",
   "hero_alt": "Các loại hạt, cá và trứng bày trên khay gỗ trong ánh sáng tự nhiên dịu",
   "reading_min": 14,
@@ -215,7 +215,7 @@ Với người ăn uống đa dạng, có cá, có trứng, có ngũ cốc nguy�
 
 Điều đáng nhớ nhất khi rời khỏi bài viết này: **đừng bổ sung selen bằng viên uống nếu không có lý do rõ ràng và không có chỉ định.** Đây là vi chất mà việc ăn đủ dễ hơn nhiều so với việc sửa sai khi đã dùng quá.
 
-Nếu bạn muốn xây một thực đơn cân bằng vi chất theo cơ địa của mình, hãy bắt đầu từ [bài kiểm tra thể trạng 90 giây](../quiz/), và tham khảo [ứng dụng IKI](../app.html) nếu muốn theo dõi bữa ăn hằng ngày đều đặn hơn.
+Nếu bạn muốn xây một thực đơn cân bằng vi chất theo cơ địa của mình, hãy bắt đầu từ [bài kiểm tra thể trạng 90 giây](../quiz/), và tham khảo [ứng dụng IKIHEALING](../app.html) nếu muốn theo dõi bữa ăn hằng ngày đều đặn hơn.
 
 ## Nguồn tham khảo
 

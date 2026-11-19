@@ -7,7 +7,7 @@
   "keyword": "sữa hạt cho trẻ mấy tuổi",
   "category": "dinh-duong",
   "date": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/sua-hat-cho-tre-may-tuoi-uong-duoc-hero.jpg",
   "hero_alt": "Bình sữa hạt tự làm bên cạnh bát hạt sen và hạnh nhân trên bàn bếp",
   "reading_min": 14,

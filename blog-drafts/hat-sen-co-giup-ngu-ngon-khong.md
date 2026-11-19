@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-11",
   "updated": "2026-08-11",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/hat-sen-co-giup-ngu-ngon-khong-hero.jpg",
   "hero_alt": "Bát hạt sen khô và tách trà ấm bên cạnh khăn vải thô trong ánh sáng chiều dịu",
   "reading_min": 14,
@@ -132,7 +132,7 @@ Còn ban ngày, nếu tình trạng khó ngủ của bạn liên quan đến vi�
 
 **Vận động ban ngày, nhưng không tập nặng sát giờ ngủ.** Đi bộ 30 phút trong ngày giúp giấc ngủ đêm sâu hơn; tập cường độ cao lúc chín giờ tối thì thường ngược lại.
 
-Nếu bạn muốn thấy rõ điều gì đang ảnh hưởng đến giấc ngủ của mình thay vì phỏng đoán, việc ghi lại vài ngày là cách nhanh nhất: giờ ngủ, giờ thức, cà phê cuối cùng lúc mấy giờ, bữa tối ăn gì và lúc nào. [Ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký để ghi những mốc này rồi xem lại theo tuần — thường chỉ sau một tuần là mối liên hệ tự hiện ra.
+Nếu bạn muốn thấy rõ điều gì đang ảnh hưởng đến giấc ngủ của mình thay vì phỏng đoán, việc ghi lại vài ngày là cách nhanh nhất: giờ ngủ, giờ thức, cà phê cuối cùng lúc mấy giờ, bữa tối ăn gì và lúc nào. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký để ghi những mốc này rồi xem lại theo tuần — thường chỉ sau một tuần là mối liên hệ tự hiện ra.
 
 ## Một nếp bảy ngày để thử
 

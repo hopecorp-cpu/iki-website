@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-banh-trung-thu-the-nao-cho-do-ngan-hero.jpg",
   "hero_alt": "Bánh trung thu cắt miếng nhỏ bày trên đĩa sứ bên tách trà ấm",
   "reading_min": 13,
@@ -163,7 +163,7 @@ Có một điều dễ quên giữa những hộp bánh xếp chồng: Trung thu
 
 Chiếc bánh chỉ là cái cớ đẹp đẽ để mọi người quây quần. Khi nhớ điều đó, việc ăn ít hay nhiều tự nhiên không còn là vấn đề — bạn cắt bánh ra đĩa, mỗi người một miếng nhỏ, rót trà, và phần còn lại của buổi tối dành cho câu chuyện.
 
-Cách tiếp cận này cũng là điều IKI theo đuổi trong mọi dịp lễ: **không kiêng khem cứng nhắc, cũng không buông xuôi**. Bài [Ăn uống khi đi tiệc, liên hoan](an-uong-khi-di-tiec-lien-hoan.html) và [Chăm sóc sức khoẻ ngày Tết](cham-soc-suc-khoe-ngay-tet.html) áp dụng cùng nguyên tắc cho những mùa lễ khác trong năm.
+Cách tiếp cận này cũng là điều IKIHEALING theo đuổi trong mọi dịp lễ: **không kiêng khem cứng nhắc, cũng không buông xuôi**. Bài [Ăn uống khi đi tiệc, liên hoan](an-uong-khi-di-tiec-lien-hoan.html) và [Chăm sóc sức khoẻ ngày Tết](cham-soc-suc-khoe-ngay-tet.html) áp dụng cùng nguyên tắc cho những mùa lễ khác trong năm.
 
 Vì cuối cùng, mục tiêu không phải là vượt qua mùa Trung thu mà không ăn miếng bánh nào. Mục tiêu là ăn nó một cách thong thả, ngon miệng, và sáng hôm sau thức dậy vẫn thấy nhẹ nhõm.
 

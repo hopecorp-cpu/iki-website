@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suc-khoe-cho-tai-xe-cong-nghe-shipper-hero.jpg",
   "hero_alt": "Chai nước và mũ bảo hiểm đặt cạnh nhau dưới bóng râm bên đường phố buổi trưa",
   "reading_min": 15,

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-09-22",
   "updated": "2026-09-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bot-dam-thanh-dam-sua-dam-pha-san-chon-dang-nao-hero.jpg",
   "hero_alt": "Ba dạng bổ sung đạm đặt cạnh nhau trên bàn bếp gỗ: hũ bột đạm thực vật, thanh đạm bọc giấy và chai sữa đạm pha sẵn",
   "reading_min": 16,

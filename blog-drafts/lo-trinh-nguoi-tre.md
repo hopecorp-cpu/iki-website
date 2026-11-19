@@ -8,7 +8,7 @@
   "category": "lo-trinh",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lo-trinh-nguoi-tre-hero.jpg",
   "hero_alt": "Một người trẻ ngồi bên bàn làm việc với ly nước và bữa ăn nhẹ lành mạnh, ánh sáng buổi sáng dịu",
   "reading_min": 14,
@@ -149,7 +149,7 @@ Những mẹo này nghe rất nhỏ, nhưng chính chúng là thứ phân biệt
 
 **"Đã lỡ một hôm ăn uống thất thường thì coi như hỏng."** Không có chuyện "hỏng cả lộ trình" vì một ngày. Sức khoẻ được xây bằng xu hướng của nhiều tháng, không phải bằng sự hoàn hảo của từng ngày.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Một bạn nữ làm truyền thông, cuối tuổi hai mươi, từng chia sẻ rằng lịch của bạn gần như không có chỗ cho bản thân: sáng bỏ bữa, trưa ăn vội trước màn hình, tối làm khuya rồi cuộn điện thoại tới một, hai giờ sáng. Những đợt chạy chiến dịch cao điểm, bạn có thể ăn mì gói ba tối liền và quên hẳn chuyện uống nước, tới mức nhiều hôm đau đầu nhẹ mà không hiểu vì sao. Thay vì cố thay đổi tất cả cùng lúc, bạn chọn đúng một việc để bắt đầu là để chai nước trên bàn và uống đều trong giờ làm — một ngụm sau mỗi cuộc họp, một ly khi vừa ngồi xuống. Vài tuần sau bạn thêm thói quen đi bộ 15 phút giờ nghỉ trưa cùng đồng nghiệp, rồi tập tắt điện thoại sớm hơn trước khi ngủ. Bạn kể rằng điều khiến mình vui nhất không phải là con số nào cả, mà là cảm giác chủ động hơn với ngày của mình, và việc những thay đổi nhỏ ấy đủ nhẹ để duy trì được. (Đây là chia sẻ cá nhân về hành trình thay đổi thói quen, không phản ánh kết quả sức khoẻ và không đại diện cho trải nghiệm của mọi người.)
 :::
 

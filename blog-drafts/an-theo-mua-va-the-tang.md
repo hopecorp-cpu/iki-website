@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng theo Đông y",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-theo-mua-va-the-tang-hero.jpg",
   "hero_alt": "Rau củ quả tươi theo mùa tại chợ Việt",
   "reading_min": 16,
@@ -16,7 +16,7 @@
   "faq": [
     {"q": "Ăn theo mùa nghĩa là gì?", "a": "Là ưu tiên những thực phẩm đang vào vụ tại địa phương trong thời điểm đó của năm — ví dụ rau cải, củ cải vào mùa lạnh; rau muống, mướp, các loại quả mát vào mùa nóng. Thực phẩm đúng mùa thường tươi ngon, giá hợp lý và hợp với nhu cầu cơ thể theo thời tiết."},
     {"q": "Thể tạng theo Đông y gồm những kiểu nào?", "a": "Đông y thường mô tả cơ địa qua các xu hướng như Hàn (thiên lạnh), Nhiệt (thiên nóng), Hư (thiếu, yếu), Thực (dư, tích) và Đàm thấp (nặng nề, trì trệ). Đây là cách quan sát xu hướng của cơ thể để chăm sóc cho phù hợp, không phải chẩn đoán bệnh."},
-    {"q": "Làm sao biết mình thuộc thể tạng nào?", "a": "Bạn có thể tự quan sát: hay lạnh hay nóng, thích đồ ấm hay đồ mát, tiêu hoá nhanh hay chậm, năng lượng dồi dào hay dễ mệt. Những dấu hiệu này gợi ý xu hướng cơ địa. IKI dùng một khảo sát ngắn để đưa ra gợi ý cá nhân hoá thay vì áp công thức chung."},
+    {"q": "Làm sao biết mình thuộc thể tạng nào?", "a": "Bạn có thể tự quan sát: hay lạnh hay nóng, thích đồ ấm hay đồ mát, tiêu hoá nhanh hay chậm, năng lượng dồi dào hay dễ mệt. Những dấu hiệu này gợi ý xu hướng cơ địa. IKIHEALING dùng một khảo sát ngắn để đưa ra gợi ý cá nhân hoá thay vì áp công thức chung."},
     {"q": "Có thực phẩm nào tốt cho tất cả mọi người không?", "a": "Rất ít khi có một thực phẩm hợp tuyệt đối với mọi người. Cùng một món, người hợp người không, tuỳ cơ địa và thời điểm. Vì vậy quan sát phản ứng của chính cơ thể quan trọng hơn là chạy theo danh sách 'siêu thực phẩm'."},
     {"q": "Ăn theo mùa và thể tạng có phức tạp không?", "a": "Không cần phức tạp. Chỉ cần bắt đầu bằng hai thói quen: chọn thực phẩm đang vào vụ, và để ý xem món nào khiến bạn thấy dễ chịu, món nào khiến bạn nặng bụng. Dần dần bạn sẽ hiểu cơ thể mình rõ hơn."},
     {"q": "Người thiên hàn (hay lạnh) nên ưu tiên và hạn chế gì?", "a": "Người hay lạnh tay chân, dễ lạnh bụng thường thấy dễ chịu với các món ấm nóng, nấu chín kỹ: canh gừng, món hầm với các loại củ, cháo ấm, trà gừng ấm. Trong kinh nghiệm dân gian, gừng, hành, quế, sả được xem là thực phẩm có tính ấm hỗ trợ cảm giác dễ chịu cho người thiên hàn. Nên hạn chế đồ uống lạnh buốt, đồ sống nhiều khi bụng đang đói, và các loại quả rất mát ăn lúc sáng sớm. Đây là gợi ý quan sát để tự điều chỉnh, không phải quy tắc cứng."},
@@ -25,8 +25,8 @@
   ],
   "related": [
     {"title": "Uống nước đúng cách mỗi ngày theo thể tạng", "url": "uong-nuoc-dung-cach-moi-ngay.html"},
-    {"title": "Học Viện IKI — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"},
-    {"title": "Công nghệ IKI — AI cá nhân hoá theo thể tạng", "url": "../cong-nghe.html"}
+    {"title": "Học Viện IKIHEALING — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"},
+    {"title": "Công nghệ IKIHEALING — AI cá nhân hoá theo thể tạng", "url": "../cong-nghe.html"}
   ],
   "anh_ai": true
 }
@@ -41,7 +41,7 @@ Trong kinh nghiệm dân gian, con người được xem là một phần của 
 
 > Ăn theo mùa không phải là một quy tắc cứng nhắc, mà là lời nhắc nhẹ nhàng để ta ăn tươi hơn, đa dạng hơn và gần với nhịp tự nhiên hơn.
 
-:::note Số liệu thực tế từ cộng đồng IKI
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
 Đo trên 660 cuộc tư vấn thật mà khách là bên chủ động nêu vấn đề, **21% số cuộc được khách mở đầu bằng khái niệm dưỡng Can theo góc nhìn Đông y** (n = 138) — khung tư duy Đông y vẫn là cách nhiều người Việt diễn đạt mối quan tâm sức khoẻ của mình. Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
 :::
 
@@ -55,7 +55,7 @@ Nếu "ăn theo mùa" trả lời câu hỏi *ăn gì theo thời tiết*, thì 
 - **Thực (dư, tích):** cơ thể "đầy", tiêu hoá trì trệ, hợp với ăn thanh đạm.
 - **Đàm thấp (nặng nề):** hay thấy nặng người, uể oải, cần thực phẩm nhẹ và dễ tiêu.
 
-Mỗi người thường mang một xu hướng nổi trội, đôi khi pha trộn, và có thể thay đổi theo tuổi tác, mùa và lối sống. Hiểu xu hướng của mình là bước đầu để chọn món ăn hợp lý — đây cũng chính là nền tảng của [Công nghệ IKI](../cong-nghe.html), khi AI dựa trên khảo sát thể tạng để đưa ra gợi ý cá nhân hoá.
+Mỗi người thường mang một xu hướng nổi trội, đôi khi pha trộn, và có thể thay đổi theo tuổi tác, mùa và lối sống. Hiểu xu hướng của mình là bước đầu để chọn món ăn hợp lý — đây cũng chính là nền tảng của [Công nghệ IKIHEALING](../cong-nghe.html), khi AI dựa trên khảo sát thể tạng để đưa ra gợi ý cá nhân hoá.
 
 ### Tự quan sát: bạn nghiêng về xu hướng nào
 
@@ -112,7 +112,7 @@ Bạn có thể lưu lại danh sách dưới đây như một tấm bản đồ
 - **Người thiên nhiệt, vào mùa hè:** hợp với rau mát, quả mọng nước; nên tiết chế đồ chiên rán, cay nóng để tránh cảm giác bức bối.
 - **Người hay nặng bụng (đàm thấp), quanh năm:** ưu tiên món hấp, luộc, thanh đạm; hạn chế đồ nhiều dầu mỡ, nhất là vào những ngày thời tiết ẩm.
 
-Như bạn thấy, không có một "thực đơn vàng" cho tất cả. Cùng một bát canh cua rau đay mát lành rất hợp người thiên nhiệt ngày hè, nhưng người thiên hàn lại thấy dễ chịu hơn với bát canh gừng ấm. Đây chính là tinh thần của [Học Viện IKI](../hoc-vien.html): chăm sóc sức khoẻ nên bắt đầu từ việc hiểu đúng cơ thể mình.
+Như bạn thấy, không có một "thực đơn vàng" cho tất cả. Cùng một bát canh cua rau đay mát lành rất hợp người thiên nhiệt ngày hè, nhưng người thiên hàn lại thấy dễ chịu hơn với bát canh gừng ấm. Đây chính là tinh thần của [Học Viện IKIHEALING](../hoc-vien.html): chăm sóc sức khoẻ nên bắt đầu từ việc hiểu đúng cơ thể mình.
 
 :::note Liên quan
 Thói quen uống nước cũng nên điều chỉnh theo thể tạng và mùa. Xem thêm: [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html).
@@ -137,7 +137,7 @@ Bạn không cần thay đổi toàn bộ bữa ăn ngay. Hãy thử ba bước 
 Chỉ sau một thời gian ngắn, bạn sẽ tự vẽ được "bản đồ ăn uống" của riêng mình — thứ mà không một thực đơn chung nào thay thế được.
 
 :::case Bác Thịnh (58 tuổi, giáo viên về hưu, Huế) — đi chợ theo mùa như một thói quen dưỡng sinh
-Bác Thịnh, 58 tuổi, là giáo viên tiểu học mới nghỉ hưu ở Huế, người đảm nhận việc đi chợ nấu ăn cho gia đình ba thế hệ. Bác kể rằng có thời gian bác chạy theo các danh sách "siêu thực phẩm" đọc trên mạng, mua cả những thứ đắt tiền trái mùa về ép cả nhà ăn, nhưng vừa tốn kém vừa chẳng ai hào hứng. Bước ngoặt của bác, giống như nhiều người theo dõi và thành viên trong cộng đồng IKI chia sẻ, không phải là một món ăn đặc biệt nào, mà là khoảnh khắc bắt đầu để ý xem cơ thể mình phản ứng thế nào với từng món. Bác nhận ra mình vốn hay lạnh bụng, ăn đồ sống lạnh vào buổi sáng là cả ngày khó chịu, trong khi bát cháo ấm hay canh rau nấu chín lại rất hợp. Từ đó bác đổi cách đi chợ: cứ hàng nào rau chất đầy, tươi và rẻ nhất thì mua, vì đó là thứ đang vào vụ. Mùa mưa xứ Huế ẩm lạnh, bác nấu nhiều món có gừng; ngày nắng nóng thì cả nhà có canh bí đao, rau muống luộc. Cháu nội bác giờ cũng thuộc câu "mùa nào thức nấy" bà hay nhắc mỗi bữa cơm. Bác nói bữa cơm nhẹ nhõm và dễ chịu hơn, mà tiền chợ mỗi tuần lại giảm đi trông thấy — một thay đổi nhỏ nhưng bền. (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
+Bác Thịnh, 58 tuổi, là giáo viên tiểu học mới nghỉ hưu ở Huế, người đảm nhận việc đi chợ nấu ăn cho gia đình ba thế hệ. Bác kể rằng có thời gian bác chạy theo các danh sách "siêu thực phẩm" đọc trên mạng, mua cả những thứ đắt tiền trái mùa về ép cả nhà ăn, nhưng vừa tốn kém vừa chẳng ai hào hứng. Bước ngoặt của bác, giống như nhiều người theo dõi và thành viên trong cộng đồng IKIHEALING chia sẻ, không phải là một món ăn đặc biệt nào, mà là khoảnh khắc bắt đầu để ý xem cơ thể mình phản ứng thế nào với từng món. Bác nhận ra mình vốn hay lạnh bụng, ăn đồ sống lạnh vào buổi sáng là cả ngày khó chịu, trong khi bát cháo ấm hay canh rau nấu chín lại rất hợp. Từ đó bác đổi cách đi chợ: cứ hàng nào rau chất đầy, tươi và rẻ nhất thì mua, vì đó là thứ đang vào vụ. Mùa mưa xứ Huế ẩm lạnh, bác nấu nhiều món có gừng; ngày nắng nóng thì cả nhà có canh bí đao, rau muống luộc. Cháu nội bác giờ cũng thuộc câu "mùa nào thức nấy" bà hay nhắc mỗi bữa cơm. Bác nói bữa cơm nhẹ nhõm và dễ chịu hơn, mà tiền chợ mỗi tuần lại giảm đi trông thấy — một thay đổi nhỏ nhưng bền. (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, mang tính tham khảo cá nhân, không phải lời khuyên y khoa và có thể khác nhau ở mỗi người.)
 :::
 
 :::case Chị Hoà (43 tuổi, nội trợ, Hải Phòng) — nghe theo cơ thể thay vì nghe theo trào lưu
@@ -148,4 +148,4 @@ Chị Hoà, 43 tuổi, là nội trợ ở Hải Phòng, có hai con đang tuổ
 
 Chăm sóc sức khoẻ chủ động không đến từ việc chạy theo trào lưu ăn uống mới nhất, mà từ hai nguyên tắc giản dị mà ông bà ta đã sống theo: **ăn thực phẩm đúng mùa, và chọn món hợp với cơ địa của mình**. Khi bạn kết hợp trí tuệ dân gian với sự lắng nghe cơ thể, mỗi bữa ăn trở thành một bước chăm sóc bản thân nhẹ nhàng mỗi ngày.
 
-Đó cũng là điều IKI đồng hành cùng bạn: không áp một công thức chung, mà giúp bạn hiểu đúng thể tạng của mình để chọn điều phù hợp nhất theo từng mùa.
+Đó cũng là điều IKIHEALING đồng hành cùng bạn: không áp một công thức chung, mà giúp bạn hiểu đúng thể tạng của mình để chọn điều phù hợp nhất theo từng mùa.

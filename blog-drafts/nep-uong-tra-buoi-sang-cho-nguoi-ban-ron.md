@@ -9,7 +9,7 @@
   "category": "thoi-quen",
   "date": "2026-09-11",
   "updated": "2026-09-11",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nep-uong-tra-buoi-sang-cho-nguoi-ban-ron-hero.jpg",
   "hero_alt": "Tách trà và ấm nước để sẵn trên bệ cửa sổ buổi sáng",
   "reading_min": 15,
@@ -211,7 +211,7 @@ Một nếp đã "vào" khi bạn làm nó mà không phải nghĩ. Có vài d�
 
 Để theo dõi mà không mệt, bạn có thể dùng một cách rất thô sơ: đánh một dấu lên lịch mỗi ngày giữ được nếp, kể cả phiên bản tối thiểu. Mục tiêu không phải là chuỗi ngày hoàn hảo, mà là thấy các dấu ngày càng dày lên. Nhớ lại con số trung bình 66 ngày của nghiên cứu Lally — nếu đến tuần thứ ba bạn vẫn phải cố, điều đó hoàn toàn bình thường.
 
-Nếu bạn muốn nhìn rộng hơn — không chỉ tách trà mà cả giờ ngủ, bữa ăn, lượng nước trong ngày tác động thế nào đến cảm nhận của mình — [app IKI](https://ikihealing.com/app.html) giúp bạn ghi lại những thói quen nhỏ này và nhìn ra nhịp của chính mình theo thời gian, thay vì đoán. Còn nếu bạn đang dựng lại cả buổi sáng chứ không chỉ tách trà, bài [thói quen buổi sáng](thoi-quen-buoi-sang.html) có thêm những gợi ý khác để ghép vào.
+Nếu bạn muốn nhìn rộng hơn — không chỉ tách trà mà cả giờ ngủ, bữa ăn, lượng nước trong ngày tác động thế nào đến cảm nhận của mình — [app IKIHEALING](https://ikihealing.com/app.html) giúp bạn ghi lại những thói quen nhỏ này và nhìn ra nhịp của chính mình theo thời gian, thay vì đoán. Còn nếu bạn đang dựng lại cả buổi sáng chứ không chỉ tách trà, bài [thói quen buổi sáng](thoi-quen-buoi-sang.html) có thêm những gợi ý khác để ghép vào.
 
 ## Những điều cần lưu ý khi uống trà mỗi sáng
 

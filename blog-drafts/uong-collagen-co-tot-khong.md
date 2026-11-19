@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-collagen-co-tot-khong-hero.jpg",
   "hero_alt": "Ly nước ấm và vài lát cam trên bàn gỗ dưới ánh sáng dịu buổi sáng",
   "reading_min": 14,
@@ -136,7 +136,7 @@ Vì mức thay đổi thường vừa phải và diễn ra chậm, trí nhớ l�
 - **Ghi lại một cảm nhận cụ thể.** Ví dụ độ khô của da vào buổi chiều, hay cảm giác ở đầu gối khi lên cầu thang. Ghi theo thang điểm từ 1 tới 5 mỗi tuần.
 - **Cho nó ít nhất ba tháng và giữ nguyên các yếu tố khác.** Nếu cùng lúc bạn đổi cả sữa rửa mặt, cả giờ ngủ và cả chế độ ăn, bạn sẽ không bao giờ biết thứ nào có tác dụng.
 
-Nếu bạn muốn theo dõi nhiều thói quen cùng lúc mà không phải ghi tay, [ứng dụng IKI](https://ikihealing.com/app.html) ghi nhận giấc ngủ, bữa ăn và cảm nhận cơ thể theo ngày, rồi chỉ ra mối liên hệ giữa chúng theo thời gian.
+Nếu bạn muốn theo dõi nhiều thói quen cùng lúc mà không phải ghi tay, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) ghi nhận giấc ngủ, bữa ăn và cảm nhận cơ thể theo ngày, rồi chỉ ra mối liên hệ giữa chúng theo thời gian.
 
 ## Kết: một lớp hỗ trợ, không phải nền móng
 
@@ -144,7 +144,7 @@ Uống collagen có tốt không? Với người trưởng thành khoẻ mạnh,
 
 Nền móng gồm bốn thứ ai cũng làm được: ăn đủ đạm, đủ rau quả tươi để có vitamin C, che chắn nắng, và ngủ đủ giấc. Nếu bốn thứ đó chưa vững, tiền mua collagen sẽ mang lại rất ít khác biệt. Nếu bốn thứ đó đã vững, collagen có thể là lớp bổ sung hợp lý cho người trên ba mươi lăm tuổi hoặc người vận động nhiều.
 
-Muốn biết nền móng của bạn đang thiếu ở đâu, hãy dành 90 giây làm [bài khảo sát thể trạng của IKI](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ chỉ ra hai tới ba việc nên làm trước, để mỗi đồng bạn bỏ ra đều đi đúng chỗ.
+Muốn biết nền móng của bạn đang thiếu ở đâu, hãy dành 90 giây làm [bài khảo sát thể trạng của IKIHEALING](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ chỉ ra hai tới ba việc nên làm trước, để mỗi đồng bạn bỏ ra đều đi đúng chỗ.
 
 ## Nguồn tham khảo
 

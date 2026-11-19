@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngay-den-do-nen-an-gi-hero.jpg",
   "hero_alt": "Một tách trà ấm và bát cháo nhẹ bên cửa sổ buổi sáng",
   "reading_min": 14,
@@ -126,7 +126,7 @@ Với người ăn chay hoặc đang giảm bớt đồ động vật, [thực �
 
 Xin nói trước: đây không phải danh sách cấm. Không ai phải sống khổ hạnh năm ngày mỗi tháng. Đây là những thứ mà **nhiều người thấy khiến mình khó chịu hơn**, đáng để thử giảm rồi tự quan sát.
 
-**Cà phê quá đặc, uống nhiều ly.** Caffeine có thể làm cảm giác hồi hộp, căng tức rõ hơn ở người nhạy cảm, và ảnh hưởng giấc ngủ nếu uống muộn. Nếu bạn vốn nghiện cà phê, không cần cắt hẳn — giữ một ly buổi sáng, uống sau khi đã ăn, và tránh ly thứ hai sau 14 giờ. Những ngày muốn nghỉ cà phê, các lựa chọn ấm nhẹ hơn ở [gian hàng thức uống của IKI](https://ikihealing.com/shop/) là cách chuyển tiếp êm hơn là bỏ cái rụp.
+**Cà phê quá đặc, uống nhiều ly.** Caffeine có thể làm cảm giác hồi hộp, căng tức rõ hơn ở người nhạy cảm, và ảnh hưởng giấc ngủ nếu uống muộn. Nếu bạn vốn nghiện cà phê, không cần cắt hẳn — giữ một ly buổi sáng, uống sau khi đã ăn, và tránh ly thứ hai sau 14 giờ. Những ngày muốn nghỉ cà phê, các lựa chọn ấm nhẹ hơn ở [gian hàng thức uống của IKIHEALING](https://ikihealing.com/shop/) là cách chuyển tiếp êm hơn là bỏ cái rụp.
 
 **Đồ ngọt nhiều đường.** Bánh kẹo, trà sữa, nước ngọt làm đường huyết lên nhanh rồi tụt nhanh, kéo theo cảm giác mệt và cáu kỉnh — đúng thứ bạn không cần thêm trong tuần này. Cách xử lý thực tế: ăn đủ bữa chính có đạm, rồi cho phép mình một phần ngọt nhỏ sau bữa thay vì ăn vặt liên tục lúc bụng đói.
 
@@ -190,7 +190,7 @@ Nhiều người chỉ chú ý đến mấy ngày hành kinh, nhưng nếu nhìn
 
 **Tuần sau kỳ kinh.** Cơ thể đang phục hồi, đây là giai đoạn tốt để bồi lại sắt và đạm, quay lại nhịp vận động bình thường. Nhiều người thấy năng lượng và tinh thần tốt nhất trong giai đoạn này.
 
-Việc ghi lại vài dòng mỗi ngày — ăn gì, ngủ ra sao, bụng thế nào — trong hai ba chu kỳ sẽ cho bạn bức tranh cá nhân chính xác hơn mọi lời khuyên chung. Một cuốn sổ nhỏ là đủ; nếu thích ghi trên điện thoại, [App IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn để bạn không phải nhớ bằng trí nhớ.
+Việc ghi lại vài dòng mỗi ngày — ăn gì, ngủ ra sao, bụng thế nào — trong hai ba chu kỳ sẽ cho bạn bức tranh cá nhân chính xác hơn mọi lời khuyên chung. Một cuốn sổ nhỏ là đủ; nếu thích ghi trên điện thoại, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn để bạn không phải nhớ bằng trí nhớ.
 
 ## Vận động và nghỉ ngơi: phần bổ trợ không thể thiếu
 
@@ -220,7 +220,7 @@ Ngày đèn đỏ nên ăn gì? Câu trả lời gọn nhất: **ăn ấm, ăn m
 
 Điều quan trọng hơn cả danh sách món ăn là thói quen tự quan sát. Cơ thể mỗi người phản ứng khác nhau, và chỉ có bạn mới biết món nào khiến mình dễ chịu, món nào không. Hãy thử trong hai ba chu kỳ, ghi lại, rồi giữ những gì hợp với mình.
 
-Nếu bạn muốn một điểm bắt đầu cụ thể thay vì tự mò, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKI](https://ikihealing.com/quiz) — bản phân tích sẽ cho biết cơ địa bạn nghiêng về nhóm nào và gợi ý nhịp ăn uống, sinh hoạt phù hợp hơn cho những ngày trong tháng.
+Nếu bạn muốn một điểm bắt đầu cụ thể thay vì tự mò, hãy dành 90 giây làm [bài kiểm tra thể trạng của IKIHEALING](https://ikihealing.com/quiz) — bản phân tích sẽ cho biết cơ địa bạn nghiêng về nhóm nào và gợi ý nhịp ăn uống, sinh hoạt phù hợp hơn cho những ngày trong tháng.
 
 ## Nguồn tham khảo
 

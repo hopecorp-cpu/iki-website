@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-09-28",
   "updated": "2026-09-28",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/quang-tham-mat-do-dau-hero.jpg",
   "hero_alt": "Chiếc gối trắng và tách trà trên giường cạnh ô cửa sổ trong ánh sáng buổi sớm",
   "reading_min": 14,
@@ -243,7 +243,7 @@ Hãy dành hai phút quan sát trước gương để đoán mình nghiêng về
 
 Và quan trọng nhất: đặt kỳ vọng đúng mức. Nếp sống tốt giúp vẻ mặt tươi hơn và không cộng thêm mệt mỏi lên nền sẵn có. Nó không biến bạn thành một người khác, và bạn cũng không cần phải như vậy.
 
-Nếu bạn muốn biết nên bắt đầu từ mắt xích nào trong nhịp sống của mình, [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để nhận một bản phân tích ngắn về giấc ngủ, mức căng thẳng và thói quen ăn uống, rồi chọn đúng một việc để làm trước. Muốn có người đồng hành nhắc nhịp hằng ngày, [App IKI](https://ikihealing.com/app.html) giúp bạn theo dõi giấc ngủ và bữa ăn theo thể trạng của riêng mình.
+Nếu bạn muốn biết nên bắt đầu từ mắt xích nào trong nhịp sống của mình, [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để nhận một bản phân tích ngắn về giấc ngủ, mức căng thẳng và thói quen ăn uống, rồi chọn đúng một việc để làm trước. Muốn có người đồng hành nhắc nhịp hằng ngày, [App IKIHEALING](https://ikihealing.com/app.html) giúp bạn theo dõi giấc ngủ và bữa ăn theo thể trạng của riêng mình.
 
 ## Nguồn tham khảo
 

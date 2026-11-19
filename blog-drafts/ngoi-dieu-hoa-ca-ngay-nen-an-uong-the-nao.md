@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngoi-dieu-hoa-ca-ngay-nen-an-uong-the-nao-hero.jpg",
   "hero_alt": "Bàn làm việc có chai nước và tách trà ấm bên cửa sổ sáng dịu",
   "reading_min": 13,
@@ -166,7 +166,7 @@ Phần lớn cảm giác khô và mệt khi ngồi phòng lạnh sẽ dịu đi 
 
 Đây là những dấu hiệu cần đánh giá chuyên môn, không nên quy hết cho điều hoà.
 
-Việc theo dõi xem thay đổi nào thực sự làm bạn dễ chịu hơn là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKI](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật thay vì dựa vào cảm giác của riêng hôm nay.
+Việc theo dõi xem thay đổi nào thực sự làm bạn dễ chịu hơn là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKIHEALING](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày, để sau vài tuần bạn nhìn được xu hướng thật thay vì dựa vào cảm giác của riêng hôm nay.
 
 ## Tổng kết
 

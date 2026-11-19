@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/toc-yeu-rung-dinh-duong-hero.jpg",
   "hero_alt": "Thực phẩm dinh dưỡng cho mái tóc",
   "reading_min": 13,
@@ -63,7 +63,7 @@
 
 Bạn có bao giờ chải tóc buổi sáng và thấy một nhúm tóc còn vương trên lược, hay nhìn cọng tóc rụng trên sàn nhà tắm mà thấy hơi chột dạ? Với nhiều người, tóc yếu, khô xơ và dễ gãy là một nỗi bận tâm âm thầm nhưng dai dẳng. Chúng ta thường phản xạ đầu tiên là đổi dầu gội, mua dầu xả đắt tiền hay tìm loại tinh dầu ủ tóc mới. Những cách chăm sóc bên ngoài ấy có vai trò của chúng, nhưng có một khía cạnh dễ bị bỏ quên: mái tóc được nuôi dưỡng từ bên trong, từ chính những gì bạn ăn mỗi ngày.
 
-Bài viết này của đội ngũ Health Coach IKI sẽ cùng bạn nhìn mái tóc dưới góc độ dinh dưỡng: vì sao ăn uống lại liên quan tới sợi tóc, những nhóm chất và thực phẩm nào hỗ trợ mái tóc chắc khoẻ, và làm sao đưa chúng vào bữa ăn một cách nhẹ nhàng. Đây không phải câu chuyện về một phép màu cấp tốc, mà là cách chăm sóc bản thân từ gốc rễ, kiên nhẫn và bền bỉ.
+Bài viết này của đội ngũ Health Coach IKIHEALING sẽ cùng bạn nhìn mái tóc dưới góc độ dinh dưỡng: vì sao ăn uống lại liên quan tới sợi tóc, những nhóm chất và thực phẩm nào hỗ trợ mái tóc chắc khoẻ, và làm sao đưa chúng vào bữa ăn một cách nhẹ nhàng. Đây không phải câu chuyện về một phép màu cấp tốc, mà là cách chăm sóc bản thân từ gốc rễ, kiên nhẫn và bền bỉ.
 
 ## Vì sao mái tóc phản ánh dinh dưỡng bên trong
 
@@ -154,7 +154,7 @@ Xoay quanh chuyện chăm tóc từ bên trong có không ít quan niệm chưa 
 **"Thực phẩm bổ sung cho tóc là bắt buộc."** Với người ăn cân bằng, phần lớn dưỡng chất cho tóc có thể lấy từ thức ăn. Thực phẩm bổ sung chỉ nên là phương án khi có thiếu hụt cụ thể, và tốt nhất dùng theo tư vấn của bác sĩ.
 
 :::case Chị H. (Hải Phòng) và một hộp hạt cho bữa xế
-Chị H., 38 tuổi, phụ trách hành chính nhân sự cho một doanh nghiệp ở Hải Phòng và là thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng chị vốn hay bỏ bữa và ăn uống thất thường: sáng thường chỉ kịp một chiếc bánh mì ăn dở trên xe, trưa ăn qua loa theo lịch họp, bữa phụ là bánh ngọt để sẵn trong ngăn kéo cho nhanh. Chị để ý mái tóc mỏng dần theo những mùa bận, nhưng phản xạ đầu tiên vẫn là đổi dầu gội hết loại này sang loại khác. Sau khi tìm hiểu về việc chăm sóc cơ thể từ dinh dưỡng, chị mới nhận ra mình chăm phần ngọn mà quên phần gốc, và bắt đầu điều chỉnh dần. Bữa sáng chị cố gắng có một quả trứng luộc chuẩn bị từ tối hôm trước; bữa xế đổi sang một hộp nhỏ mix hạt bí, óc chó và hạnh nhân chị chia sẵn cho cả tuần vào tối Chủ nhật; các bữa chính thêm một đĩa rau xanh đậm. Chị cũng tập ngủ sớm hơn và bớt mang việc về nhà. Sau một thời gian giữ nếp này, điều chị thấy rõ nhất không phải là một thay đổi lớn lao nào, mà là cảm giác cơ thể nhẹ nhõm hơn, ăn uống có nề nếp hơn và bản thân bớt lo lắng vặt về chuyện chăm sóc mình. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
+Chị H., 38 tuổi, phụ trách hành chính nhân sự cho một doanh nghiệp ở Hải Phòng và là thành viên trong cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chia sẻ rằng chị vốn hay bỏ bữa và ăn uống thất thường: sáng thường chỉ kịp một chiếc bánh mì ăn dở trên xe, trưa ăn qua loa theo lịch họp, bữa phụ là bánh ngọt để sẵn trong ngăn kéo cho nhanh. Chị để ý mái tóc mỏng dần theo những mùa bận, nhưng phản xạ đầu tiên vẫn là đổi dầu gội hết loại này sang loại khác. Sau khi tìm hiểu về việc chăm sóc cơ thể từ dinh dưỡng, chị mới nhận ra mình chăm phần ngọn mà quên phần gốc, và bắt đầu điều chỉnh dần. Bữa sáng chị cố gắng có một quả trứng luộc chuẩn bị từ tối hôm trước; bữa xế đổi sang một hộp nhỏ mix hạt bí, óc chó và hạnh nhân chị chia sẵn cho cả tuần vào tối Chủ nhật; các bữa chính thêm một đĩa rau xanh đậm. Chị cũng tập ngủ sớm hơn và bớt mang việc về nhà. Sau một thời gian giữ nếp này, điều chị thấy rõ nhất không phải là một thay đổi lớn lao nào, mà là cảm giác cơ thể nhẹ nhõm hơn, ăn uống có nề nếp hơn và bản thân bớt lo lắng vặt về chuyện chăm sóc mình. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết
