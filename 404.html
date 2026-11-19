@@ -115,6 +115,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <style>
   .zalo-chat-widget{right:16px!important;bottom:24px!important;z-index:95!important}
   @media (max-width:880px){.zalo-chat-widget{bottom:92px!important}}
+  /* Trang 404: menu chật ở khổ vừa đè logo (19/11/2026) - giữ logo, ẩn bớt; tiêu đề không nghiêng (luật thiết kế 06/10). */
+  .site-header .brand{flex:none}
+  @media (min-width:881px) and (max-width:1260px){.site-header .nav-lang{display:none}}
+  @media (min-width:881px) and (max-width:960px){.site-header .brand img.brand-wm{display:none}}
+  .philosophy-quote{font-style:normal}
+  .philosophy-quote em{font-style:normal;font-weight:700}
 </style>
 <div class="zalo-chat-widget"
      data-oaid="599407064751177637"
