@@ -91,19 +91,19 @@ function head(sp, url, ld) {
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
-  <link rel="icon" type="image/png" href="/assets/brand/20260914/iki-avatar-hong-1024.png" />
-  <link rel="stylesheet" href="../styles.css" />
+  <link rel="icon" type="image/png" href="/assets/brand/20261119/iki-icon-1024.png" />
+  <link rel="stylesheet" href="../styles.css?v=mau-20261119" />
   <script src="../script.js" defer></script>
 ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null, 2)}\n  </script>`).join("\n")}
   <style>
     .sp-wrap{max-width:1080px;margin:0 auto;padding:34px 20px 10px}
     .sp-crumb{font-size:.86rem;color:#667085;margin-bottom:18px}
-    .sp-crumb a{color:#2E8975;text-decoration:none;font-weight:600}
+    .sp-crumb a{color:#094938;text-decoration:none;font-weight:600}
     .sp-top{display:grid;grid-template-columns:minmax(0,420px) minmax(0,1fr);gap:38px;align-items:start}
     @media(max-width:820px){.sp-top{grid-template-columns:1fr;gap:24px}}
     .sp-anh{background:#F7FAF6;border:1px solid #e6ece3;border-radius:20px;padding:18px;text-align:center}
     .sp-anh img{max-width:100%;height:auto;border-radius:12px}
-    .sp-eyebrow{color:#2E8975;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.78rem}
+    .sp-eyebrow{color:#094938;font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.78rem}
     .sp-ban-moi{margin:16px 0 0;padding:13px 15px;border:1.5px solid #8fb93f;border-radius:14px;background:#f7fbf1}
     .sp-ban-moi strong{display:block;font-size:.97rem;color:#2f6b1f;margin:0 0 5px}
     .sp-ban-moi p{font-size:.88rem;line-height:1.55;color:#4a5a44;margin:0 0 9px}
@@ -114,12 +114,12 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null
     .sp-mota{color:#475467;font-size:1.05rem;line-height:1.7;margin:12px 0 20px}
     .sp-cta{display:flex;gap:12px;flex-wrap:wrap;margin:18px 0 8px}
     .sp-btn{display:inline-block;padding:14px 26px;border-radius:8px;font-weight:700;text-decoration:none;font-size:1rem}
-    .sp-btn.chinh{background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));color:#fff}
-    .sp-btn.phu{background:#fff;color:#2E8975;border:1.5px solid #A8D254}
+    .sp-btn.chinh{background:var(--iki-gradient,linear-gradient(135deg,#daa74b,#2c6e5c));color:#fff}
+    .sp-btn.phu{background:#fff;color:#094938;border:1.5px solid #daa74b}
     .sp-body{max-width:820px;margin:0 auto;padding:8px 20px 20px;font-size:1.07rem;line-height:1.78;color:#1d2430}
     .sp-body h2{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.45rem,3vw,2rem);margin:2.1rem 0 .7rem}
     .sp-body p{margin:0 0 1.05rem} .sp-body ol,.sp-body ul{margin:0 0 1.1rem;padding-left:22px} .sp-body li{margin:.4rem 0}
-    .sp-body a{color:#2E8975;font-weight:600}
+    .sp-body a{color:#094938;font-weight:600}
     /* Bảng phải cuộn ngang được: màn hình điện thoại hẹp hơn bảng 2 cột có chữ dài. */
     .sp-body table{display:block;overflow-x:auto;width:100%;border-collapse:collapse;margin:1.3rem 0;font-size:.99rem}
     .sp-body th,.sp-body td{border:1px solid #e3e8ef;padding:10px 13px;text-align:left;vertical-align:top}
@@ -130,7 +130,7 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null
     .sp-faq summary{font-weight:700;cursor:pointer}
     .sp-faq p{margin:.6rem 0 0;color:#475467}
     .sp-doc-them{background:#F7FAF6;border-radius:16px;padding:20px 24px;margin:30px 0}
-    .sp-chua-ban{background:#ffffff;border-left:5px solid #E48AA8;border-radius:12px;padding:14px 18px;margin:16px 0;font-size:.97rem;color:#7a3450}
+    .sp-chua-ban{background:#ffffff;border-left:5px solid #daa74b;border-radius:12px;padding:14px 18px;margin:16px 0;font-size:.97rem;color:#0b2e25}
     .sp-doc-them ul{margin:8px 0 0;padding-left:20px}
     .sp-dat-truoc{display:inline-block;background:#1F4D1F;color:#fff;font-size:.8rem;font-weight:700;padding:5px 10px;border-radius:6px;margin:4px 0 2px}
     .sp-nhan{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:1.2rem 0}

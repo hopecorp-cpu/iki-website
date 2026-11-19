@@ -22,7 +22,7 @@ function overlaySvg() {
     <rect x="${px}" y="${py}" width="${pillW}" height="${pillH}" rx="${pillH / 2}" fill="#ffffff" fill-opacity="0.93"/>
     <image x="${iconX}" y="${iconY}" width="${iconSz}" height="${iconSz}" xlink:href="data:image/png;base64,${ICON_B64}"/>
     <text x="${txtX}" y="${txtY - 5}" font-family="Manrope, Arial, sans-serif" font-size="19" font-weight="800" fill="#16241F" letter-spacing="0.5">IKI</text>
-    <text x="${txtX}" y="${txtY + 15}" font-family="Manrope, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#2E8975" letter-spacing="1.2">by HOPE CORP</text>
+    <text x="${txtX}" y="${txtY + 15}" font-family="Manrope, Arial, sans-serif" font-size="11.5" font-weight="700" fill="#094938" letter-spacing="1.2">by HOPE CORP</text>
   </g>
 </svg>`);
 }

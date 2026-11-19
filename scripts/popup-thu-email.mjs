@@ -69,25 +69,25 @@ export const EXIT_POPUP_MAU = `<div id="ikiExit" role="dialog" aria-modal="true"
 #ikiExit.ie-show{opacity:1}
 #ikiExit .ie-card{position:relative;background:#fff;width:100%;max-width:430px;border-radius:22px;padding:34px 26px 22px;text-align:center;box-shadow:0 24px 70px rgba(16,24,40,.28);transform:translateY(14px) scale(.98);transition:transform .28s cubic-bezier(.2,.8,.25,1);font-family:var(--font-sans,'Manrope',system-ui,sans-serif)}
 #ikiExit.ie-show .ie-card{transform:none}
-#ikiExit .ie-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;border-radius:22px 22px 0 0;background:linear-gradient(90deg,#A8D254,#4BC0AB)}
+#ikiExit .ie-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;border-radius:22px 22px 0 0;background:linear-gradient(90deg,#daa74b,#2c6e5c)}
 #ikiExit .ie-x{position:absolute;top:12px;right:14px;border:none;background:none;font-size:26px;line-height:1;color:#98a2b3;cursor:pointer}
 #ikiExit .ie-x:hover{color:#475467}
-#ikiExit .ie-ico{width:38px;height:38px;color:#2E8975;margin:2px auto 8px;display:block}
-#ikiExit .ie-tag{display:inline-block;font-weight:700;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:#2E8975}
+#ikiExit .ie-ico{width:38px;height:38px;color:#094938;margin:2px auto 8px;display:block}
+#ikiExit .ie-tag{display:inline-block;font-weight:700;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:#094938}
 #ikiExit h3{font-family:var(--font-display,'Cormorant Garamond',serif);font-weight:700;font-size:1.6rem;line-height:1.12;margin:8px 0 8px;color:#12261f}
 #ikiExit p{color:#667085;font-size:1rem;margin:0 auto 16px;max-width:340px;line-height:1.5}
-#ikiExit p strong{color:#2E8975}
+#ikiExit p strong{color:#094938}
 #ikiExit .ie-form{display:flex;flex-direction:column;gap:10px;max-width:340px;margin:0 auto}
 #ikiExit .ie-email,#ikiExit .ie-sdt{border:1px solid #d0d5dd;border-radius:12px;padding:14px 16px;font-size:1rem;font-family:inherit;outline:none}
 #ikiExit .ie-sdt{font-size:.92rem}
-#ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#4BC0AB;box-shadow:0 0 0 3px rgba(75,192,171,.16)}
+#ikiExit .ie-email:focus,#ikiExit .ie-sdt:focus{border-color:#2c6e5c;box-shadow:0 0 0 3px rgba(44,110,92,.16)}
 #ikiExit .ie-honey{display:none}
-#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#2E8975,#4BC0AB);cursor:pointer;font-family:inherit}
+#ikiExit .ie-btn{border:none;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:linear-gradient(135deg,#094938,#2c6e5c);cursor:pointer;font-family:inherit}
 #ikiExit .ie-btn:disabled{opacity:.6;cursor:default}
 #ikiExit .ie-dy{display:flex;align-items:flex-start;gap:8px;text-align:left;font-size:.8rem;color:#667085;line-height:1.4;cursor:pointer;margin:0}
 #ikiExit .ie-dy input{width:15px;height:15px;flex:none;margin:2px 0 0;accent-color:#2E6B2D}
 #ikiExit .ie-note a{color:#2E6B2D;text-decoration:underline}
-#ikiExit .ie-ok{color:#2E8975;font-weight:600;margin:6px auto 0}
+#ikiExit .ie-ok{color:#094938;font-weight:600;margin:6px auto 0}
 #ikiExit .ie-tai{display:block;max-width:340px;margin:12px auto 0;border-radius:8px;padding:14px;font-size:1rem;font-weight:700;color:#fff;background:#1F4D1F;text-decoration:none}
 #ikiExit .ie-tai:hover{background:#2E6B2D}
 #ikiExit .ie-err{color:#d92d20;font-weight:600;margin:6px auto 0}
@@ -96,7 +96,7 @@ export const EXIT_POPUP_MAU = `<div id="ikiExit" role="dialog" aria-modal="true"
 #ikiExit .ie-sp{margin-top:14px;padding-top:14px;border-top:1px solid #eef0f3}
 #ikiExit .ie-sp-hay{display:block;color:#98a2b3;font-size:.76rem;margin-bottom:8px}
 #ikiExit .ie-sp-lien,#ikiExit .ie-sp-sau{display:block;text-decoration:none;border:1px solid #e6e6da;border-radius:14px;padding:11px 14px;background:#fafbfa;transition:border-color .18s ease,background .18s ease}
-#ikiExit .ie-sp-lien:hover,#ikiExit .ie-sp-sau:hover{border-color:#A8D254;background:#f5faee}
+#ikiExit .ie-sp-lien:hover,#ikiExit .ie-sp-sau:hover{border-color:#daa74b;background:#f5faee}
 #ikiExit .ie-sp-sau{margin-top:12px}
 #ikiExit .ie-sp-ten{display:block;color:#12261f;font-weight:700;font-size:.95rem}
 #ikiExit .ie-sp-loai{display:block;color:#667085;font-size:.78rem;margin-top:2px}

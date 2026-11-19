@@ -1,5 +1,5 @@
 /* Approved shop-derived footer; isolated from legacy page styles. */
-footer.iki-standard-footer{--if-bg:#ffffff;--if-text:#3b303a;--if-muted:#70616c;--if-line:#e4d8db;--if-accent:#a53653;background:var(--if-bg)!important;color:var(--if-text)!important;border-top:1px solid var(--if-line);padding:72px 0 28px!important;margin:32px 0 0!important;font-family:Interface,Arial,sans-serif!important;font-size:16px!important;line-height:1.7!important;text-align:left!important;width:100%;box-sizing:border-box;}
+footer.iki-standard-footer{--if-bg:#ffffff;--if-text:#0b2e25;--if-muted:#70616c;--if-line:#d8e4e1;--if-accent:#094938;background:var(--if-bg)!important;color:var(--if-text)!important;border-top:1px solid var(--if-line);padding:72px 0 28px!important;margin:32px 0 0!important;font-family:Interface,Arial,sans-serif!important;font-size:16px!important;line-height:1.7!important;text-align:left!important;width:100%;box-sizing:border-box;}
 footer.iki-standard-footer.if-green{--if-bg:#f3f7f1;--if-text:#243c31;--if-muted:#53685b;--if-line:#d5e1d5;--if-accent:#285e4b;}
 footer.iki-standard-footer *,footer.iki-standard-footer *:before,footer.iki-standard-footer *:after{box-sizing:border-box;}
 footer.iki-standard-footer .if-wrap{max-width:1240px;width:100%;padding:0 28px;margin:0 auto;}
@@ -39,8 +39,8 @@ footer.iki-standard-footer .if-bottom a,footer.iki-standard-footer .if-legal p a
 /* Inherit each site's established palette, including the shop's light/dark switch. */
 footer.iki-standard-footer{--if-bg:var(--cream,#ffffff);}
 body.course-page footer.iki-standard-footer{--if-bg:var(--cream,#f3f7f2);--if-text:var(--ink,#203b32);--if-muted:var(--muted,#5e7168);--if-line:var(--line,#d4e0d5);--if-accent:var(--rose,#285e4b);}
-body.iki-v2 footer.iki-standard-footer{--if-bg:var(--v-soft,#edf0e5);--if-text:var(--v-ink,#342933);--if-muted:var(--v-muted,#6e6466);--if-line:var(--v-line,#ded6cd);--if-accent:var(--v-accent,#4c603d);}
-footer.iki-standard-footer:has(#hopeLogoF){--if-bg:var(--surface,#ffffff);--if-text:var(--ink,#342933);--if-muted:var(--ink-soft,#766974);--if-line:var(--line,#e3d6d4);--if-accent:var(--brand,#a53653);}
+body.iki-v2 footer.iki-standard-footer{--if-bg:var(--v-soft,#edf0e5);--if-text:var(--v-ink,#0b2e25);--if-muted:var(--v-muted,#6e6466);--if-line:var(--v-line,#ded6cd);--if-accent:var(--v-accent,#4c603d);}
+footer.iki-standard-footer:has(#hopeLogoF){--if-bg:var(--surface,#ffffff);--if-text:var(--ink,#0b2e25);--if-muted:var(--ink-soft,#766974);--if-line:var(--line,#d4e3df);--if-accent:var(--brand,#094938);}
 /* Logo kênh + nút liên hệ nổi (11/10/2026). */
 footer.iki-standard-footer .if-social{flex-wrap:wrap;}
 footer.iki-standard-footer .if-social a:hover{border-color:var(--if-accent);text-decoration:none;}
@@ -62,3 +62,5 @@ footer.iki-standard-footer .if-brand img.brand-em{width:auto!important;height:84
 footer.iki-standard-footer .if-brand img.brand-wm{width:auto!important;height:40px!important}
 footer.iki-standard-footer .if-social a{background:#FFFFFF}
 @media(max-width:560px){footer.iki-standard-footer .if-brand img.brand-em{height:64px!important}footer.iki-standard-footer .if-brand img.brand-wm{height:30px!important}}
+footer.iki-standard-footer .if-brand{flex-wrap:wrap;gap:12px 18px;max-width:100%}
+footer.iki-standard-footer .if-brand img.brand-wm{max-width:100%!important;object-fit:contain;object-position:left center}

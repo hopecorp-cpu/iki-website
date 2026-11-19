@@ -82,41 +82,41 @@ function head(title, desc, canonical) {
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escAttr(title)}" />
   <meta property="og:description" content="${escAttr(desc)}" />
-  <meta property="og:image" content="${SITE}/assets/brand/20260914/iki-beauty-wellness-share.png" />
+  <meta property="og:image" content="${SITE}/assets/brand/20261119/ikihealing-share.png" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
-  <link rel="icon" type="image/png" href="/assets/brand/20260914/iki-avatar-hong-1024.png" />
-  <link rel="stylesheet" href="/styles.css" />
+  <link rel="icon" type="image/png" href="/assets/brand/20261119/iki-icon-1024.png" />
+  <link rel="stylesheet" href="/styles.css?v=mau-20261119" />
   <script src="/script.js" defer></script>
   <style>
     .tl-hero{max-width:900px;margin:0 auto;padding:44px 20px 8px;text-align:center}
-    .tl-hero .eyebrow{color:var(--iki-teal-deep,#2E8975);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem}
+    .tl-hero .eyebrow{color:var(--iki-teal-deep,#094938);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem}
     .tl-hero h1{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(2rem,5vw,3rem);margin:.4rem 0 .5rem}
     .tl-hero p{color:#667085;max-width:620px;margin:0 auto;font-size:1.05rem}
     .tl-grid{max-width:960px;margin:22px auto 0;padding:0 20px;display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px}
-    .tl-card{display:flex;flex-direction:column;gap:8px;background:#fff;border:1px solid #eef0f3;border-top:3px solid var(--iki-teal,#4BC0AB);border-radius:16px;padding:20px 22px;text-decoration:none;color:inherit;box-shadow:0 1px 2px rgba(16,24,40,.04);transition:transform .15s,box-shadow .15s}
+    .tl-card{display:flex;flex-direction:column;gap:8px;background:#fff;border:1px solid #eef0f3;border-top:3px solid var(--iki-teal,#2c6e5c);border-radius:16px;padding:20px 22px;text-decoration:none;color:inherit;box-shadow:0 1px 2px rgba(16,24,40,.04);transition:transform .15s,box-shadow .15s}
     .tl-card:hover{transform:translateY(-3px);box-shadow:0 6px 20px rgba(16,24,40,.10)}
-    .tl-tag{font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#2E8975)}
+    .tl-tag{font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--iki-teal-deep,#094938)}
     .tl-card h2{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:1.35rem;line-height:1.2;margin:0}
     .tl-card p{color:#475467;font-size:.93rem;line-height:1.5;margin:0}
-    .tl-card .tl-go{margin-top:auto;font-weight:700;color:var(--iki-teal-deep,#2E8975);font-size:.92rem}
+    .tl-card .tl-go{margin-top:auto;font-weight:700;color:var(--iki-teal-deep,#094938);font-size:.92rem}
     .tl-wrap{max-width:640px;margin:24px auto 40px;padding:0 20px}
     .tl-box{background:linear-gradient(135deg,#12261f,#1c3a30);border-radius:22px;padding:36px 28px;color:#fff}
-    .tl-box .tl-tag{color:var(--iki-lime,#A8D254)}
+    .tl-box .tl-tag{color:var(--iki-lime,#daa74b)}
     .tl-box h1{font-family:var(--font-display,'Cormorant Garamond');font-size:clamp(1.7rem,3.6vw,2.3rem);margin:8px 0 8px;color:#fff}
     .tl-box .lead-desc{color:rgba(255,255,255,.85);margin:0 0 16px}
     .tl-benefits{list-style:none;margin:0 0 20px;padding:0;display:flex;flex-direction:column;gap:8px}
     .tl-benefits li{color:rgba(255,255,255,.9);font-size:.95rem;padding-left:26px;position:relative}
-    .tl-benefits li::before{content:"";position:absolute;left:0;top:3px;width:16px;height:16px;border-radius:50%;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB))}
+    .tl-benefits li::before{content:"";position:absolute;left:0;top:3px;width:16px;height:16px;border-radius:50%;background:var(--iki-gradient,linear-gradient(135deg,#daa74b,#2c6e5c))}
     .tl-form input[type=email],.tl-form input[type=tel]{display:block;width:100%;border:none;border-radius:12px;padding:14px 16px;font-size:1rem;font-family:inherit;margin-bottom:10px}
-    .tl-form button{width:100%;border:none;border-radius:12px;padding:14px 24px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#A8D254,#4BC0AB));cursor:pointer;font-family:inherit}
+    .tl-form button{width:100%;border:none;border-radius:12px;padding:14px 24px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#daa74b,#2c6e5c));cursor:pointer;font-family:inherit}
     .tl-form button:hover{opacity:.94} .tl-form button:disabled{opacity:.7;cursor:default}
     .iki-dy{margin:0 0 10px;text-align:left}
     .iki-dy label{display:flex;align-items:flex-start;gap:8px;margin:0 0 6px;font-size:.8rem;font-weight:400;color:rgba(255,255,255,.8);line-height:1.45;cursor:pointer}
-    .iki-dy input[type=checkbox]{width:16px;height:16px;flex:none;margin:2px 0 0;accent-color:var(--iki-lime,#A8D254)}
+    .iki-dy input[type=checkbox]{width:16px;height:16px;flex:none;margin:2px 0 0;accent-color:var(--iki-lime,#daa74b)}
     .iki-dy-coso{font-size:.76rem;color:rgba(255,255,255,.62);line-height:1.45;margin:6px 0 0}
-    .iki-dy-coso a{color:var(--iki-lime,#A8D254);text-decoration:underline}
+    .iki-dy-coso a{color:var(--iki-lime,#daa74b);text-decoration:underline}
     .tl-msg{color:#ffd7cf;font-size:.88rem;margin:10px 0 0;min-height:1em}
     .tl-ready .btn{display:inline-block;margin-bottom:10px}
     .tl-ready p{color:rgba(255,255,255,.85);font-size:.92rem;margin:0}
@@ -133,7 +133,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 function header() {
   return `
-  <div class="announcement-bar"><a href="/ve-hope.html#dinh-vi-iki">IKI Beauty &amp; Wellness</a> — chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</div>
+  <div class="announcement-bar"><a href="/ve-hope.html#dinh-vi-iki">IKIHEALING</a> — chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</div>
   <header class="site-header" id="site-header">
     <nav class="nav">
       <a class="brand" href="/index.html" aria-label="IKI Trang chủ"><img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64"><img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36"></a>

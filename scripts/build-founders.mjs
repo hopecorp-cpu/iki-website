@@ -196,7 +196,7 @@ ${ctaBlock(lang)}
 <p><a href="${BASE[lang]}" style="color:var(--rose)">← ${esc(t.back)}</a></p>
 <p class="disc">${esc(t.note)}</p>
 </div></article>`;
-      const ld = { "@context": "https://schema.org", "@type": "Article", headline: c.title, description: c.desc, inLanguage: lang, datePublished: p.date, dateModified: p.updated || p.date, author: { "@type": "Person", name: a.name, jobTitle: a.en.role, worksFor: { "@type": "Organization", name: "HOPE SERVICE CORPORATION (HOPE CORP)" } }, publisher: { "@type": "Organization", name: "IKI Beauty & Wellness", logo: { "@type": "ImageObject", url: `${SITE}/assets/brand/20260914/iki-avatar-hong-1024.png` } }, image: `${SITE}${a.photo}`, mainEntityOfPage: `${SITE}${alt[lang]}` };
+      const ld = { "@context": "https://schema.org", "@type": "Article", headline: c.title, description: c.desc, inLanguage: lang, datePublished: p.date, dateModified: p.updated || p.date, author: { "@type": "Person", name: a.name, jobTitle: a.en.role, worksFor: { "@type": "Organization", name: "HOPE SERVICE CORPORATION (HOPE CORP)" } }, publisher: { "@type": "Organization", name: "IKI Beauty & Wellness", logo: { "@type": "ImageObject", url: `${SITE}/assets/brand/20261119/iki-icon-1024.png` } }, image: `${SITE}${a.photo}`, mainEntityOfPage: `${SITE}${alt[lang]}` };
       fs.writeFileSync(path.join(dir, `${p.slug}.html`), shell(lang, { title: `${c.title} | Founders HOPE CORP`, desc: c.desc, altPaths: alt, ogImage: a.photo, ld, main }));
       urls.push(`${SITE}${alt[lang]}`);
     }

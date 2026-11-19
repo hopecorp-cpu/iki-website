@@ -7,14 +7,14 @@ const co = (hits, code) => ma(hits).includes(code);
 
 const CA = [
   ["#FBEAE4 la am-sang", amSang(251, 234, 228), true],
-  ["#f3e8e8 la am-sang", amSang(243, 232, 232), true],
+  ["#e8f3f0 la am-sang", amSang(243, 232, 232), true],
   ["#f3f7f2 xanh lanh khong am", amSang(243, 247, 242), false],
   ["#ffffff khong am", amSang(255, 255, 255), false],
   ["#f5f5f5 xam deu khong am", amSang(245, 245, 245), false],
-  ["#f3e4e7 hong G<B khong nam nguong", amSang(243, 228, 231), false],
+  ["#e4f3ef hong G<B khong nam nguong", amSang(243, 228, 231), false],
   ["nen #FBEAE4", co(quetMot("x{background:#FBEAE4}", "a.css"), "a"), true],
   ["chu #FBEAE4 khong tinh", co(quetMot("x{color:#FBEAE4}", "a.css"), "a"), false],
-  ["vien #f3e8e8 khong tinh", co(quetMot("x{border:1px solid #f3e8e8}", "a.css"), "a"), false],
+  ["vien #e8f3f0 khong tinh", co(quetMot("x{border:1px solid #e8f3f0}", "a.css"), "a"), false],
   ["bien --alert-s", co(quetMot(":root{--alert-s:#FBEAE4}", "a.css"), "a"), true],
   ["--ink chu toi khong tinh", co(quetMot(":root{--ink:#f8f0e9}body{color:var(--ink)}", "a.css"), "a"), false],
   ["#f3f7f2 nen giu", co(quetMot("x{background:#f3f7f2}", "a.css"), "a"), false],
