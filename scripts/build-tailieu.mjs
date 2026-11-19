@@ -143,7 +143,6 @@ function header() {
       </button>
       <ul class="nav-links" id="primary-nav">
         <li><a href="/index.html">Trang chủ</a></li>
-        <li><a href="/hoc-vien.html">Học Viện</a></li>
         <li><a href="/blog/index.html">Blog</a></li>
         <li><a href="/cong-dong.html">Cộng đồng</a></li>
         <li><a href="https://ikihealing.com/shop" target="_blank" rel="noopener noreferrer">Sản phẩm ↗</a></li>
