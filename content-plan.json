@@ -2916,36 +2916,214 @@
       ]
     }
   ],
+  "testimonialGroups": [
+    {
+      "slug": "tieu-hoa",
+      "name": "Tiêu hoá nhẹ nhàng",
+      "type": "quan-tam"
+    },
+    {
+      "slug": "ngu-ngon",
+      "name": "Ngủ ngon & thư giãn",
+      "type": "quan-tam"
+    },
+    {
+      "slug": "nang-luong",
+      "name": "Năng lượng mỗi ngày",
+      "type": "quan-tam"
+    },
+    {
+      "slug": "an-can-bang",
+      "name": "Ăn uống cân bằng",
+      "type": "quan-tam"
+    },
+    {
+      "slug": "hieu-co-the",
+      "name": "Hiểu cơ thể theo Đông y",
+      "type": "quan-tam"
+    },
+    {
+      "slug": "da-toc",
+      "name": "Da & tóc khoẻ",
+      "type": "quan-tam"
+    },
+    {
+      "slug": "tinh-than",
+      "name": "Tinh thần thư thái",
+      "type": "quan-tam"
+    },
+    {
+      "slug": "dan-van-phong",
+      "name": "Dân văn phòng",
+      "type": "doi-tuong"
+    },
+    {
+      "slug": "nguoi-an-chay",
+      "name": "Người ăn chay, ăn thực dưỡng",
+      "type": "doi-tuong"
+    },
+    {
+      "slug": "me-bim",
+      "name": "Mẹ bỉm",
+      "type": "doi-tuong"
+    },
+    {
+      "slug": "sau-tuoi-35",
+      "name": "Sau tuổi 35",
+      "type": "doi-tuong"
+    },
+    {
+      "slug": "nguoi-cao-tuoi",
+      "name": "Ông bà, cha mẹ lớn tuổi",
+      "type": "doi-tuong"
+    },
+    {
+      "slug": "nguoi-tap-luyen",
+      "name": "Người tập luyện",
+      "type": "doi-tuong"
+    }
+  ],
   "testimonials": [
     {
       "name": "Chị H.",
       "place": "Thành viên cộng đồng",
-      "text": "Điều mình tâm đắc nhất là sự kiên trì. Mình chia sẻ công thức nước ấm chanh–gừng–mật ong buổi sáng cho nhiều người, nhưng mười người nghe thì hiếm ai đủ kiên nhẫn làm đều đặn. Từ ngày giữ được thói quen nhỏ đó mỗi sáng và tối, cả nhà mình thấy dễ chịu hơn khi thời tiết đổi mùa."
+      "text": "Điều mình tâm đắc nhất là sự kiên trì. Mình chia sẻ công thức nước ấm chanh–gừng–mật ong buổi sáng cho nhiều người, nhưng mười người nghe thì hiếm ai đủ kiên nhẫn làm đều đặn. Từ ngày giữ được thói quen nhỏ đó mỗi sáng và tối, cả nhà mình thấy dễ chịu hơn khi thời tiết đổi mùa.",
+      "tags": [
+        "hieu-co-the"
+      ]
     },
     {
       "name": "Anh K.",
       "place": "Hải Phòng",
-      "text": "Ngày của mình giờ có nhịp rõ ràng: sáng dậy uống một cốc nước ấm, trưa ăn bữa chính đủ chất, chiều tập thể dục rồi uống một ly đạm thực vật, tối ăn nhẹ nhiều rau và hoa quả. Không cầu kỳ, nhưng nhờ giữ đều mà mình thấy sức khoẻ và tinh thần ổn định hơn hẳn."
+      "text": "Ngày của mình giờ có nhịp rõ ràng: sáng dậy uống một cốc nước ấm, trưa ăn bữa chính đủ chất, chiều tập thể dục rồi uống một ly đạm thực vật, tối ăn nhẹ nhiều rau và hoa quả. Không cầu kỳ, nhưng nhờ giữ đều mà mình thấy sức khoẻ và tinh thần ổn định hơn hẳn.",
+      "tags": [
+        "nang-luong",
+        "sau-tuoi-35",
+        "nguoi-tap-luyen"
+      ]
     },
     {
       "name": "Cô Th.",
       "place": "Học viên",
-      "text": "Mình duy trì bài thể dục buổi sáng mỗi ngày, thấy cơ thể nhẹ nhõm và đầu óc tỉnh táo hơn. Đúng tinh thần thân khoẻ – tâm an – trí sáng mà mình luôn muốn hướng tới."
+      "text": "Mình duy trì bài thể dục buổi sáng mỗi ngày, thấy cơ thể nhẹ nhõm và đầu óc tỉnh táo hơn. Đúng tinh thần thân khoẻ – tâm an – trí sáng mà mình luôn muốn hướng tới.",
+      "tags": [
+        "nang-luong",
+        "tinh-than"
+      ]
     },
     {
       "name": "Chị N.",
       "place": "Thành viên cộng đồng",
-      "text": "Mình vốn hay lạnh bụng nên chuyển sang ăn uống ấm: sáng uống nước ấm pha chanh với chút gừng nướng, ăn cháo gạo lứt nấu cùng hạt kê, bí đỏ, cà rốt, hạn chế đồ lạnh. Sau một thời gian giữ nếp này, mình thấy bụng dạ dễ chịu hơn nhiều."
+      "text": "Mình vốn hay lạnh bụng nên chuyển sang ăn uống ấm: sáng uống nước ấm pha chanh với chút gừng nướng, ăn cháo gạo lứt nấu cùng hạt kê, bí đỏ, cà rốt, hạn chế đồ lạnh. Sau một thời gian giữ nếp này, mình thấy bụng dạ dễ chịu hơn nhiều.",
+      "tags": [
+        "tieu-hoa",
+        "hieu-co-the"
+      ]
     },
     {
       "name": "Chị M.",
       "place": "Khách hàng",
-      "text": "Trước đây mình hay khó tiêu khi dùng đạm động vật. Từ khi chuyển sang đạm thực vật, mình thấy nhẹ bụng và dễ chịu hơn, hợp với cơ thể mình hơn."
+      "text": "Trước đây ăn đạm động vật mình hay thấy nặng bụng. Từ khi chuyển sang đạm thực vật, mình thấy nhẹ bụng và dễ chịu hơn, hợp với cơ thể mình hơn.",
+      "tags": [
+        "tieu-hoa",
+        "an-can-bang"
+      ]
     },
     {
       "name": "Anh D.",
       "place": "Khách hàng",
-      "text": "Mình mua sản phẩm cho mẹ dùng, mẹ dùng thấy ưng và hài lòng. Cảm ơn đội ngũ đã tư vấn nhiệt tình, chu đáo."
+      "text": "Mình mua sản phẩm cho mẹ dùng, mẹ dùng thấy ưng và hài lòng. Cảm ơn đội ngũ đã tư vấn nhiệt tình, chu đáo.",
+      "tags": [
+        "nguoi-cao-tuoi"
+      ]
+    },
+    {
+      "name": "Chị C.",
+      "place": "Theo lối ăn thực dưỡng nhiều năm",
+      "product": "True Vegan Protein",
+      "tags": [
+        "tieu-hoa",
+        "an-can-bang",
+        "nguoi-an-chay"
+      ],
+      "text": "Ăn thực dưỡng đã lâu nên mình khá nhạy với những gì đưa vào người. Sữa uống vào thấy dễ chịu, khoẻ khoắn, không có phản ứng gì khó chịu, cảm thấy nhiều dinh dưỡng và bụng dạ nhẹ nhàng. Giờ cả nhà mình cùng dùng."
+    },
+    {
+      "name": "Một chị dân văn phòng",
+      "place": "Khách hàng",
+      "product": "True Vegan Protein",
+      "tags": [
+        "dan-van-phong",
+        "nang-luong",
+        "an-can-bang"
+      ],
+      "text": "Chị vui vì tìm được loại đạm uy tín. Buổi sáng chị chỉ uống một ly là no tới trưa, uống hoài không ngán. Bột True Vegan chị xách đi cho mấy bạn uống thử, ai cũng khen ngon."
+    },
+    {
+      "name": "Anh Th.",
+      "place": "Người tập thể thao",
+      "product": "True Vegan Protein",
+      "tags": [
+        "nguoi-tap-luyen",
+        "nang-luong"
+      ],
+      "text": "Mình pha một, hai ly mỗi ngày, uống quanh buổi tập hoặc làm bữa phụ. Sản phẩm bên mình dùng tốt thật, cảm ơn công ty."
+    },
+    {
+      "name": "Chị T.",
+      "place": "Khách hàng mới",
+      "product": "Sữa đạm IKI",
+      "tags": [
+        "ngu-ngon"
+      ],
+      "text": "Chị uống sữa vào thấy ngủ ngon em ạ."
+    },
+    {
+      "name": "Một khách hàng",
+      "place": "Mua đạm cho bà",
+      "product": "Đạm True Vegan",
+      "tags": [
+        "nguoi-cao-tuoi",
+        "an-can-bang"
+      ],
+      "text": "Em nhận hàng rồi, bà khen ngon. Ngày bà uống mấy lần thì vừa hả chị?"
+    },
+    {
+      "name": "Một chú khách quen",
+      "place": "Khách hàng lâu năm",
+      "product": "True Vegan Protein",
+      "tags": [
+        "nguoi-cao-tuoi",
+        "an-can-bang"
+      ],
+      "text": "Chào cháu. Chú uống sữa thấy đậm đà, ngon hơn loại sữa cũ."
+    },
+    {
+      "name": "Anh N.",
+      "place": "Khách hàng",
+      "product": "Trà Thanh Hương",
+      "tags": [
+        "tinh-than"
+      ],
+      "text": "Uống thấy ok đó em. Thơm mát, thanh thanh. Anh pha một gói với 200ml nước, để một lúc cho nước chuyển sang ấm ấm rồi mới uống."
+    },
+    {
+      "name": "Một khách hàng",
+      "place": "Được tặng kèm khi mua đạm",
+      "product": "Trà Thanh Hương",
+      "tags": [
+        "tinh-than"
+      ],
+      "text": "Giờ chị mới uống. Ok thật. Tốt và ngon, khó đạt được."
+    },
+    {
+      "name": "Một khách hàng",
+      "place": "Được tặng một gói dùng thử",
+      "product": "Trà Thanh Hương",
+      "tags": [
+        "tinh-than"
+      ],
+      "text": "Hôm nay mới uống. Ngon thật. Giá hơi đắt nhưng ngon thực sự, uống rất ổn."
     }
   ]
 }
