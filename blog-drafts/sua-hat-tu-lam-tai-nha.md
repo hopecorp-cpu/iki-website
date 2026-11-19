@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-07-30",
   "updated": "2026-07-30",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/sua-hat-tu-lam-tai-nha-hero.jpg",
   "hero_alt": "Ly sữa hạt bên cạnh bát hạnh nhân và hạt điều trên bàn gỗ",
   "reading_min": 14,

@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-bien-doi-gen-co-hai-khong-hero.jpg",
   "hero_alt": "Đĩa gỗ đựng những bắp ngô vàng đặt bên cửa sổ",
   "reading_min": 14,
@@ -123,7 +123,7 @@ Vài điều cần tách bạch:
 Với người đang xây bữa ăn thiên thực vật, điều đáng dành thời gian nhất không phải câu hỏi GMO, mà là **đủ đạm, đủ sắt, đủ kẽm và đủ vitamin B12**. Nếu bạn dùng [đạm thực vật](https://trueveganprotein.com) dạng bột để bù vào những ngày bận, tiêu chí chọn nên là: nguồn nguyên liệu rõ ràng, bảng thành phần ngắn và dễ hiểu, ít đường thêm vào, và nhà sản xuất công bố đầy đủ thông tin.
 
 :::note Chăm sóc chủ động là chọn đúng thứ để lo
-Trong bữa ăn hằng ngày, lượng đường thêm vào, lượng muối và tỷ trọng đồ siêu chế biến ảnh hưởng tới bạn rõ rệt hơn nhiều so với việc nguyên liệu có biến đổi gen hay không. Bạn có thể theo dõi những chỉ số dễ quan sát này mỗi ngày cùng [App IKI](https://ikihealing.com/app.html) thay vì dồn hết sự lo lắng vào một dòng chữ trên nhãn.
+Trong bữa ăn hằng ngày, lượng đường thêm vào, lượng muối và tỷ trọng đồ siêu chế biến ảnh hưởng tới bạn rõ rệt hơn nhiều so với việc nguyên liệu có biến đổi gen hay không. Bạn có thể theo dõi những chỉ số dễ quan sát này mỗi ngày cùng [App IKIHEALING](https://ikihealing.com/app.html) thay vì dồn hết sự lo lắng vào một dòng chữ trên nhãn.
 :::
 
 ## Nếu bạn muốn hạn chế, đây là cách thực tế

@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cac-loai-hat-dinh-duong-hero.jpg",
   "hero_alt": "Nhiều loại hạt dinh dưỡng như hạnh nhân, óc chó, hạt bí, hạt chia bày trong bát gỗ trên bàn bếp",
   "reading_min": 14,
@@ -60,7 +60,7 @@
 
 Có những món ăn tưởng nhỏ bé mà lại "gói" trong mình rất nhiều thứ tốt cho cơ thể. Các loại hạt là một ví dụ điển hình. Chỉ một nắm nhỏ hạnh nhân, óc chó hay hạt bí bỏ vào túi mang đi làm cũng đủ giúp bạn có một bữa phụ gọn gàng, no lâu và giàu dưỡng chất hơn nhiều so với gói bim bim hay chiếc bánh ngọt.
 
-Nhưng quanh chuyện ăn hạt cũng có không ít băn khoăn rất thật: ăn bao nhiêu là đủ, ăn nhiều có mập không, có "nóng" không, loại nào hợp với mình, mua về bảo quản thế nào cho khỏi hỏng. Bài viết này của đội ngũ Health Coach IKI sẽ cùng bạn đi qua các loại hạt dinh dưỡng phổ biến một cách thực tế, gần gũi, để việc thêm hạt vào bữa ăn hằng ngày trở nên nhẹ nhàng chứ không phức tạp.
+Nhưng quanh chuyện ăn hạt cũng có không ít băn khoăn rất thật: ăn bao nhiêu là đủ, ăn nhiều có mập không, có "nóng" không, loại nào hợp với mình, mua về bảo quản thế nào cho khỏi hỏng. Bài viết này của đội ngũ Health Coach IKIHEALING sẽ cùng bạn đi qua các loại hạt dinh dưỡng phổ biến một cách thực tế, gần gũi, để việc thêm hạt vào bữa ăn hằng ngày trở nên nhẹ nhàng chứ không phức tạp.
 
 ## Vì sao các loại hạt là "siêu thực phẩm nhỏ"
 

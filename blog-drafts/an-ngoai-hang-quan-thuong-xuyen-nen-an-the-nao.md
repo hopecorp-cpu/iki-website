@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao-hero.jpg",
   "hero_alt": "Hộp cơm trưa mang đi gồm cơm, rau xanh và phần đạm nướng đặt trên bàn quán nhỏ",
   "reading_min": 14,
@@ -128,7 +128,7 @@ Cố làm mọi bữa hoàn hảo là cách chắc chắn để bỏ cuộc sau 
 
 **Nguyên tắc theo tuần:** hãy đặt mục tiêu dạng tỷ lệ thay vì mệnh lệnh tuyệt đối. Ví dụ, trong 14 bữa chính của tuần: 8–9 bữa theo nguyên tắc (có rau, đạm rõ ràng, ít chiên), 3–4 bữa bình thường, 1–2 bữa hoàn toàn thoải mái theo ý thích. Tỷ lệ này duy trì được lâu dài, và lâu dài mới là thứ quyết định kết quả.
 
-**Cách theo dõi mà không phải ghi sổ:** đếm hai thứ duy nhất trong tuần — số bữa có rau, và số ly đồ uống có đường. Hai con số này phản ánh khá chính xác chất lượng ăn uống của người ăn ngoài thường xuyên, và dễ nhớ hơn mọi ứng dụng đếm năng lượng. Nếu muốn có bản ghi tự động cùng gợi ý theo thể trạng, [ứng dụng IKI](../app.html) làm được điều đó chỉ với vài giây mỗi bữa.
+**Cách theo dõi mà không phải ghi sổ:** đếm hai thứ duy nhất trong tuần — số bữa có rau, và số ly đồ uống có đường. Hai con số này phản ánh khá chính xác chất lượng ăn uống của người ăn ngoài thường xuyên, và dễ nhớ hơn mọi ứng dụng đếm năng lượng. Nếu muốn có bản ghi tự động cùng gợi ý theo thể trạng, [ứng dụng IKIHEALING](../app.html) làm được điều đó chỉ với vài giây mỗi bữa.
 
 ## Hai điểm tựa: bữa sáng và một bữa tối trong tuần
 

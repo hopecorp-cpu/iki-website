@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng cân bằng",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/che-do-an-chong-viem-cho-nguoi-viet-hero.jpg",
   "hero_alt": "Rau lá xanh, quả mọng, dầu ô liu và củ nghệ bày trên mặt bàn gỗ",
   "reading_min": 14,

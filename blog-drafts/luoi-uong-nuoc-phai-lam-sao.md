@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-10-21",
   "updated": "2026-10-21",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/luoi-uong-nuoc-phai-lam-sao-hero.jpg",
   "hero_alt": "Bình nước thuỷ tinh và chiếc cốc đặt trên bàn làm việc gỗ cạnh cửa sổ buổi sáng",
   "reading_min": 13,
@@ -171,7 +171,7 @@ Ly cà phê buổi chiều muộn vốn cũng là thứ dễ làm giấc ngủ t
 
 Nếu các cách trên vẫn chưa đủ, một lời nhắc trên điện thoại vài lần một ngày có thể giúp trong giai đoạn đầu. Đừng đặt nhắc mỗi ba mươi phút; quá nhiều thông báo sẽ khiến bạn tắt toàn bộ chỉ sau hai ngày. Ba đến bốn lần là vừa, đặt vào những khung giờ bạn hay quên nhất, thường là giữa buổi sáng và giữa buổi chiều.
 
-Ghi lại lượng nước trong ba đến năm ngày đầu cũng rất hữu ích, không phải để chấm điểm, mà để thấy quy luật của chính mình: buổi nào mình uống tốt, buổi nào gần như bỏ trống. Nếu bạn muốn một nơi ghi lại nhịp ăn uống và sinh hoạt mỗi ngày gọn trong vài chục giây, [App IKI](https://ikihealing.com/app.html) có thể là một người bạn đồng hành cho việc đó. Khi thói quen đã vào nếp, bạn có thể thôi ghi.
+Ghi lại lượng nước trong ba đến năm ngày đầu cũng rất hữu ích, không phải để chấm điểm, mà để thấy quy luật của chính mình: buổi nào mình uống tốt, buổi nào gần như bỏ trống. Nếu bạn muốn một nơi ghi lại nhịp ăn uống và sinh hoạt mỗi ngày gọn trong vài chục giây, [App IKIHEALING](https://ikihealing.com/app.html) có thể là một người bạn đồng hành cho việc đó. Khi thói quen đã vào nếp, bạn có thể thôi ghi.
 
 ## Uống nước mà không phải chạy đi vệ sinh liên tục
 
@@ -261,4 +261,4 @@ Quan trọng nhất: bắt đầu nhỏ, giữ đều, và đừng tự trách n
 - NHS — *Water, drinks and your health* (6 đến 8 cốc mỗi ngày, các loại đồ uống được tính, màu nước tiểu vàng nhạt): [nhs.uk](https://www.nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/water-drinks-nutrition/)
 - Harvard T.H. Chan School of Public Health — *The Nutrition Source: Water*: [hsph.harvard.edu](https://nutritionsource.hsph.harvard.edu/water/)
 
-Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Các sản phẩm IKI nhắc trong bài là thực phẩm bổ sung và đồ uống dùng hằng ngày, không phải thuốc. Người có bệnh tim, bệnh thận, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ về lượng nước phù hợp với mình.
+Nội dung trong bài mang tính chia sẻ kiến thức chăm sóc sức khoẻ chủ động, không nhằm chẩn đoán và không thay thế tư vấn y khoa. Các sản phẩm IKIHEALING nhắc trong bài là thực phẩm bổ sung và đồ uống dùng hằng ngày, không phải thuốc. Người có bệnh tim, bệnh thận, đang mang thai, đang cho con bú hoặc đang dùng thuốc nên hỏi ý kiến bác sĩ về lượng nước phù hợp với mình.

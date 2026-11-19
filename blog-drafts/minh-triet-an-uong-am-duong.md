@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/minh-triet-an-uong-am-duong-hero.jpg",
   "hero_alt": "Mâm cơm Việt cân bằng với món canh mát và món kho ấm",
   "reading_min": 15,
@@ -133,8 +133,8 @@ Với nhịp sống hiện đại bận rộn, việc ghi nhớ tất cả có t
 
 **"Ăn cân bằng âm dương sẽ cho kết quả tức thì."** Chăm sóc sức khoẻ chủ động là chuyện của thói quen bền bỉ, không phải phép màu ngắn hạn. Giá trị của minh triết này nằm ở sự đều đặn và hài hoà mỗi ngày, tích luỹ theo thời gian.
 
-:::case Từ cộng đồng IKI
-Một thành viên trong cộng đồng người dùng IKI, ngoài bốn mươi tuổi, làm nghề buôn bán ở chợ, chia sẻ rằng chị vốn quen ăn nhiều đồ chiên rán, cay nóng — phần vì hàng quán quanh chợ toàn những món như vậy, phần vì ăn vội cho xong bữa. Chị thường thấy bức bối, khó chịu trong người, nhất là vào những trưa hè đứng bán giữa trời nóng. Sau khi tìm hiểu nguyên tắc âm dương, chị không kiêng khem cực đoan mà chỉ điều chỉnh nhẹ: dặn nhà nấu thêm bát canh rau vào mỗi bữa tối, bớt đồ chiên vào ngày nóng, mang theo chai nước thay vì mua nước ngọt ở chợ. Ngày nào trời oi, chị đổi món trưa sang bún với nhiều rau sống thay cho cơm rang. Chị kể rằng bữa cơm trở nên nhẹ nhõm và dễ chịu hơn hẳn, và điều chị tâm đắc nhất là cảm giác được "hiểu" cơ thể mình thay vì chạy theo một thực đơn chung. Giờ chị còn hay nhắc mấy chị em cùng sạp hàng để ý phối món mát món ấm trong bữa. *(Đây là trải nghiệm cá nhân mang tính tham khảo, không phải lời khuyên y tế và không phản ánh kết quả ở mọi người; nếu bạn có vấn đề sức khoẻ, hãy tham vấn bác sĩ hoặc chuyên gia y tế.)*
+:::case Từ cộng đồng IKIHEALING
+Một thành viên trong cộng đồng người dùng IKIHEALING, ngoài bốn mươi tuổi, làm nghề buôn bán ở chợ, chia sẻ rằng chị vốn quen ăn nhiều đồ chiên rán, cay nóng — phần vì hàng quán quanh chợ toàn những món như vậy, phần vì ăn vội cho xong bữa. Chị thường thấy bức bối, khó chịu trong người, nhất là vào những trưa hè đứng bán giữa trời nóng. Sau khi tìm hiểu nguyên tắc âm dương, chị không kiêng khem cực đoan mà chỉ điều chỉnh nhẹ: dặn nhà nấu thêm bát canh rau vào mỗi bữa tối, bớt đồ chiên vào ngày nóng, mang theo chai nước thay vì mua nước ngọt ở chợ. Ngày nào trời oi, chị đổi món trưa sang bún với nhiều rau sống thay cho cơm rang. Chị kể rằng bữa cơm trở nên nhẹ nhõm và dễ chịu hơn hẳn, và điều chị tâm đắc nhất là cảm giác được "hiểu" cơ thể mình thay vì chạy theo một thực đơn chung. Giờ chị còn hay nhắc mấy chị em cùng sạp hàng để ý phối món mát món ấm trong bữa. *(Đây là trải nghiệm cá nhân mang tính tham khảo, không phải lời khuyên y tế và không phản ánh kết quả ở mọi người; nếu bạn có vấn đề sức khoẻ, hãy tham vấn bác sĩ hoặc chuyên gia y tế.)*
 :::
 
 :::case Anh B. (Hà Nội) — chuyện tách trà ấm thay ly nước đá sau bữa trưa
@@ -145,4 +145,4 @@ Anh B., một nhân viên văn phòng ở Hà Nội, kể rằng anh vốn có t
 
 Minh triết âm dương trong ăn uống không đòi hỏi bạn phải trở thành chuyên gia hay thuộc lòng những bảng phân loại phức tạp. Nó chỉ mời bạn nhìn bữa cơm bằng một con mắt hài hoà hơn: biết phối món mát với món ấm, biết ăn thuận theo mùa, và quan trọng nhất là biết lắng nghe cơ thể mình. Đó là tri thức mà ông bà ta đã sống theo qua bao thế hệ, giản dị mà sâu sắc.
 
-Chăm sóc sức khoẻ chủ động, xét cho cùng, bắt đầu từ những lựa chọn nhỏ mỗi ngày trên mâm cơm. Khi bạn hiểu tính chất của món ăn và xu hướng của cơ thể, mỗi bữa ăn không còn là chuyện ăn cho no, mà trở thành một cách nhẹ nhàng để nuôi dưỡng và cân bằng bản thân. Đó cũng là tinh thần mà IKI mong muốn đồng hành cùng bạn: không áp đặt một công thức chung, mà giúp bạn tìm về sự hài hoà phù hợp nhất với chính mình.
+Chăm sóc sức khoẻ chủ động, xét cho cùng, bắt đầu từ những lựa chọn nhỏ mỗi ngày trên mâm cơm. Khi bạn hiểu tính chất của món ăn và xu hướng của cơ thể, mỗi bữa ăn không còn là chuyện ăn cho no, mà trở thành một cách nhẹ nhàng để nuôi dưỡng và cân bằng bản thân. Đó cũng là tinh thần mà IKIHEALING mong muốn đồng hành cùng bạn: không áp đặt một công thức chung, mà giúp bạn tìm về sự hài hoà phù hợp nhất với chính mình.

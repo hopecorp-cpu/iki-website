@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-30",
   "updated": "2026-07-30",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/kem-va-thuc-pham-giau-kem-hero.jpg",
   "hero_alt": "Các loại hạt, đậu và hải sản giàu kẽm bày trên bàn gỗ",
   "reading_min": 14,

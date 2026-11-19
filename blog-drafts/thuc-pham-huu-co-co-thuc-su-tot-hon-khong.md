@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-huu-co-co-thuc-su-tot-hon-khong-hero.jpg",
   "hero_alt": "Rau củ và trái cây theo mùa trong giỏ tre trên bàn gỗ, cạnh tấm nhãn giấy đơn giản",
   "reading_min": 14,
@@ -167,7 +167,7 @@ Nếu phải chọn ba việc có tác động lớn nhất tới chất lượn
 
 **Thứ ba: rửa và nấu đúng.** Rửa kỹ dưới vòi nước chảy, nấu vừa chín tới, không ngâm lâu, không luộc quá kỹ rồi đổ nước. Phần lớn dưỡng chất bị mất trong bếp chứ không phải ngoài đồng.
 
-Nếu bạn muốn theo dõi xem bữa ăn hằng ngày của mình đã đủ đa dạng chưa và nhận gợi ý điều chỉnh theo thể trạng, [ứng dụng IKI](../app.html) làm việc đó bằng vài giây ghi nhận mỗi bữa.
+Nếu bạn muốn theo dõi xem bữa ăn hằng ngày của mình đã đủ đa dạng chưa và nhận gợi ý điều chỉnh theo thể trạng, [ứng dụng IKIHEALING](../app.html) làm việc đó bằng vài giây ghi nhận mỗi bữa.
 
 ## Kết: một câu trả lời trung thực
 

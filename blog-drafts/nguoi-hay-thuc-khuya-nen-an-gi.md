@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-10",
   "updated": "2026-08-10",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nguoi-hay-thuc-khuya-nen-an-gi-hero.jpg",
   "hero_alt": "Bát cháo ấm và cốc nước bên bàn làm việc đêm khuya",
   "reading_min": 15,
@@ -140,7 +140,7 @@ Gợi ý theo khung giờ:
 - **Chiều tối:** nước ấm uống rải đều.
 - **Đêm muộn:** nước ấm, uống từng ngụm nhỏ. Đừng uống dồn một lúc vì sẽ phải dậy đi vệ sinh giữa giấc ngủ vốn đã ngắn.
 - **Trước khi ngủ 30–60 phút:** một cốc trà thảo mộc dịu như [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) hợp với nếp chậm lại, báo hiệu cho cơ thể rằng phiên làm việc đã kết thúc. Nghi thức nhỏ này quan trọng hơn người ta tưởng: nó là ranh giới giúp đầu óc chịu tắt máy.
-- **Sáng hôm sau:** nếu vẫn cần vị đậm để tỉnh, các lựa chọn dịu hơn cà phê có ở [cửa hàng IKI](https://ikihealing.com/shop/) hoặc trong bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html).
+- **Sáng hôm sau:** nếu vẫn cần vị đậm để tỉnh, các lựa chọn dịu hơn cà phê có ở [cửa hàng IKIHEALING](https://ikihealing.com/shop/) hoặc trong bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html).
 
 ## Bữa sáng hôm sau: mắt xích quan trọng nhất
 
@@ -197,7 +197,7 @@ Cách nhìn này không thay thế được giấc ngủ — không có món ăn
 
 Khung này là điểm bắt đầu, không phải khuôn cứng. Người tiêu hoá nhanh có thể ăn đêm gần giờ ngủ hơn, người dễ đầy bụng thì cần lùi sớm hơn nữa — [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ cho bạn biết mình thuộc nhóm nào để chỉnh lịch cho vừa.
 
-Nếu bạn muốn theo dõi xem nhịp này có thực sự hợp với mình không, [App IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn 30 giây mỗi ngày để ghi lại mức năng lượng và chất lượng giấc ngủ; sau vài tuần bạn sẽ nhìn ra quy luật riêng của cơ thể mình rõ hơn mọi lời khuyên chung.
+Nếu bạn muốn theo dõi xem nhịp này có thực sự hợp với mình không, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn 30 giây mỗi ngày để ghi lại mức năng lượng và chất lượng giấc ngủ; sau vài tuần bạn sẽ nhìn ra quy luật riêng của cơ thể mình rõ hơn mọi lời khuyên chung.
 
 ## Kết: ăn đúng không thay được ngủ đủ, nhưng giúp bạn trụ được
 
@@ -213,4 +213,4 @@ Chăm sóc sức khoẻ chủ động, trong hoàn cảnh này, không có nghĩ
 - Cục An toàn thực phẩm (Bộ Y tế) — [Nếu buộc phải thức khuya, hãy có những thứ này trong tủ lạnh](https://vfa.gov.vn/dinh-duong-hop-ly/neu-buoc-phai-thuc-khuya-hay-co-nhung-thu-nay-trong-tu-lanh.html)
 - Nhà thuốc FPT Long Châu — [Khi thức khuya làm việc nên ăn gì để đảm bảo sức khoẻ?](https://nhathuoclongchau.com.vn/bai-viet/khi-thuc-khuya-lam-viec-nen-an-gi-de-dam-bao-suc-khoe-50533.html)
 
-Bài viết do **Đội ngũ Health Coach IKI** biên soạn, tổng hợp từ các nguồn y tế phổ thông và kinh nghiệm chăm sóc sức khoẻ chủ động. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.
+Bài viết do **Đội ngũ Health Coach IKIHEALING** biên soạn, tổng hợp từ các nguồn y tế phổ thông và kinh nghiệm chăm sóc sức khoẻ chủ động. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.

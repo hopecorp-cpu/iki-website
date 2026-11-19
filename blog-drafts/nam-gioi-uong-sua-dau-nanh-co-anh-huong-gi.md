@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-11",
   "updated": "2026-08-11",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nam-gioi-uong-sua-dau-nanh-co-anh-huong-gi-hero.jpg",
   "hero_alt": "Một ly sữa đậu nành ấm và bát hạt đậu nành khô đặt trên bàn gỗ sáng",
   "reading_min": 14,
@@ -162,7 +162,7 @@ Cụ thể hoá thành nếp hằng ngày, để không phải nghĩ nhiều:
 - **Cả ngày:** nước lọc vẫn là thức uống chính, sữa đậu nành chỉ là một phần.
 - **Đừng quên phần quan trọng hơn:** ngủ 7 tiếng, đi bộ 30 phút, và giảm số buổi rượu bia trong tuần.
 
-Nếu bạn muốn theo dõi những nếp này theo tuần thay vì cố nhớ trong đầu, [ứng dụng IKI](https://ikihealing.com/app.html) cho phép ghi nhật ký bữa ăn, giấc ngủ và vận động rồi xem lại xu hướng.
+Nếu bạn muốn theo dõi những nếp này theo tuần thay vì cố nhớ trong đầu, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) cho phép ghi nhật ký bữa ăn, giấc ngủ và vận động rồi xem lại xu hướng.
 
 ## Kết: nỗi lo đặt sai chỗ
 

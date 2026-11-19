@@ -7,7 +7,7 @@
   "keyword": "bụng dạ nhạy cảm nên ăn uống thế nào",
   "category": "dinh-duong",
   "date": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bung-da-nhay-cam-nen-an-uong-the-nao-hero.jpg",
   "hero_alt": "Bát cháo trắng, chuối chín và ly trà thảo mộc ấm trên bàn gỗ — bữa ăn nhẹ dịu bụng",
   "reading_min": 14,
@@ -106,7 +106,7 @@ Sau hai tuần, bạn đem ra đọc lại và tìm mẫu lặp. Điều bạn t
 
 Cột "bối cảnh" thường tiết lộ nhiều điều bất ngờ. Rất nhiều người sau khi ghi nhật ký mới nhận ra vấn đề của mình không nằm ở món ăn mà ở tốc độ ăn, ở giấc ngủ, hoặc ở việc bỏ bữa sáng rồi dồn vào bữa trưa quá no.
 
-Nếu ngại giấy bút, bạn có thể chụp lại bữa ăn kèm ghi chú ngắn trên điện thoại. [Ứng dụng IKI](https://ikihealing.com/app.html) được xây theo hướng này: quét bữa ăn và ghi nhật ký 30 giây, để sau vài tuần bạn có một chuỗi dữ liệu về chính mình thay vì trí nhớ mơ hồ.
+Nếu ngại giấy bút, bạn có thể chụp lại bữa ăn kèm ghi chú ngắn trên điện thoại. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) được xây theo hướng này: quét bữa ăn và ghi nhật ký 30 giây, để sau vài tuần bạn có một chuỗi dữ liệu về chính mình thay vì trí nhớ mơ hồ.
 
 ## Những món thường dễ chịu với bụng nhạy cảm
 
@@ -227,4 +227,4 @@ Nếu bạn muốn có điểm khởi đầu nhanh trước khi bắt tay vào b
 - Bệnh viện Đa khoa Trung tâm An Giang — *Tìm hiểu về FODMAP*: [bvag.com.vn](https://bvag.com.vn/tim-hieu-ve-fodmap/)
 - Nhà thuốc Long Châu — *Chế độ ăn FODMAP thấp dành cho bệnh nhân mắc hội chứng ruột kích thích*: [nhathuoclongchau.com.vn](https://nhathuoclongchau.com.vn/bai-viet/che-do-an-fodmap-thap-danh-cho-benh-nhan-mac-hoi-chung-ruot-kich-thich-68702.html)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*
+*Bài viết do Đội ngũ Health Coach IKIHEALING biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*

@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-20",
   "updated": "2026-08-20",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/mon-an-khong-nen-ham-lai-nhieu-lan-hero.jpg",
   "hero_alt": "Các hộp thức ăn được chia phần nhỏ xếp gọn trong tủ lạnh",
   "reading_min": 14,

@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nuoc-ion-kiem-co-tot-khong-hero.jpg",
   "hero_alt": "Một ly nước lọc trong đặt cạnh cửa sổ buổi sáng",
   "reading_min": 14,
@@ -31,9 +31,9 @@
   "anh_ai": true
 }
 ---
-Vài năm gần đây, máy lọc nước ion kiềm xuất hiện dày đặc trong các buổi giới thiệu sản phẩm, hội thảo sức khoẻ và cả trong nhóm chat gia đình. Mức giá thường không nhỏ, từ vài chục đến hơn trăm triệu đồng, đi kèm những lời giới thiệu rất hấp dẫn về khả năng cân bằng cơ thể. Câu hỏi mà nhiều người gửi về cho đội ngũ IKI cũng luôn là câu ngắn nhất: nước ion kiềm có tốt không, và có đáng bỏ tiền ra mua không.
+Vài năm gần đây, máy lọc nước ion kiềm xuất hiện dày đặc trong các buổi giới thiệu sản phẩm, hội thảo sức khoẻ và cả trong nhóm chat gia đình. Mức giá thường không nhỏ, từ vài chục đến hơn trăm triệu đồng, đi kèm những lời giới thiệu rất hấp dẫn về khả năng cân bằng cơ thể. Câu hỏi mà nhiều người gửi về cho đội ngũ IKIHEALING cũng luôn là câu ngắn nhất: nước ion kiềm có tốt không, và có đáng bỏ tiền ra mua không.
 
-Bài viết này trả lời câu hỏi đó một cách sòng phẳng. Chúng tôi không bán máy lọc nước, cũng không có lý do gì để nói xấu chúng. Điều đội ngũ IKI quan tâm là bạn hiểu đúng cơ thể mình vận hành thế nào, để mỗi đồng tiền và mỗi thói quen bạn bỏ ra đều đi đúng chỗ.
+Bài viết này trả lời câu hỏi đó một cách sòng phẳng. Chúng tôi không bán máy lọc nước, cũng không có lý do gì để nói xấu chúng. Điều đội ngũ IKIHEALING quan tâm là bạn hiểu đúng cơ thể mình vận hành thế nào, để mỗi đồng tiền và mỗi thói quen bạn bỏ ra đều đi đúng chỗ.
 
 ## Nước ion kiềm là gì và được tạo ra thế nào
 
@@ -110,7 +110,7 @@ Rất nhiều gia đình Việt đã có máy trong bếp, thường do người
 
 ## Năm việc nên làm trước khi nghĩ tới việc đổi loại nước
 
-Trong hàng nghìn lượt khảo sát thể trạng mà đội ngũ IKI ghi nhận, phần lớn người Việt đi làm không gặp vấn đề ở loại nước họ uống, mà ở lượng nước và nhịp uống. Đây là năm việc tạo khác biệt lớn hơn nhiều so với việc nâng độ pH.
+Trong hàng nghìn lượt khảo sát thể trạng mà đội ngũ IKIHEALING ghi nhận, phần lớn người Việt đi làm không gặp vấn đề ở loại nước họ uống, mà ở lượng nước và nhịp uống. Đây là năm việc tạo khác biệt lớn hơn nhiều so với việc nâng độ pH.
 
 **Một, uống đủ trước khi bàn tới uống loại nào.** Khoảng 1,5 đến 2 lít mỗi ngày với người trưởng thành hoạt động bình thường, nhiều hơn khi trời nóng hoặc vận động nhiều. Cách tự kiểm tra đơn giản nhất là màu nước tiểu: vàng nhạt là ổn, vàng đậm là dấu hiệu nên uống thêm. Bài [uống nước đúng cách mỗi ngày](uong-nuoc-dung-cach-moi-ngay.html) có hướng dẫn chi tiết theo từng thể tạng.
 
@@ -130,7 +130,7 @@ Theo cách nhìn này, người có cơ địa thiên về hàn, hay lạnh tay 
 
 Điểm hay là góc nhìn này dễ kiểm chứng bằng chính cảm nhận của bạn, trong khi độ pH thì phải tin vào máy đo của người bán. Nếu buổi tối bạn khó vào giấc và muốn một thức uống ấm, nhẹ, [trà thư giãn buổi tối như Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) là kiểu lựa chọn theo hướng này: không hứa hẹn điều gì kỳ diệu, chỉ tạo một nhịp nghỉ dễ chịu trước giờ ngủ.
 
-Ứng dụng IKI cũng đi theo hướng đó. Thay vì đưa ra một công thức chung cho tất cả, [ứng dụng cá nhân hoá theo thể trạng](https://ikihealing.com/app.html) ghi nhận thói quen ăn uống, giấc ngủ và cảm nhận cơ thể của bạn theo thời gian, rồi gợi ý những điều chỉnh nhỏ phù hợp với chính bạn.
+Ứng dụng IKIHEALING cũng đi theo hướng đó. Thay vì đưa ra một công thức chung cho tất cả, [ứng dụng cá nhân hoá theo thể trạng](https://ikihealing.com/app.html) ghi nhận thói quen ăn uống, giấc ngủ và cảm nhận cơ thể của bạn theo thời gian, rồi gợi ý những điều chỉnh nhỏ phù hợp với chính bạn.
 
 ## Bài toán chi phí: tiền đó nên đặt vào đâu
 
@@ -157,7 +157,7 @@ Nước ion kiềm là nước sạch có độ pH cao hơn nước thường. N
 
 Điều đáng đầu tư nhất vẫn là những việc bạn làm được mỗi ngày mà không cần thiết bị: uống đủ và uống đều, ăn đủ rau và đủ đạm, ngủ đúng giờ, vận động nhẹ đều đặn. Chúng không long lanh như một chiếc máy trong bếp, nhưng bằng chứng đứng sau chúng thì vững hơn nhiều.
 
-Nếu bạn muốn biết mình nên bắt đầu từ đâu thay vì làm tất cả cùng lúc, hãy dành 90 giây làm [bài khảo sát thể trạng của IKI](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ chỉ ra nhóm thói quen nào đang kéo bạn xuống nhiều nhất, để bạn sửa đúng chỗ ngay từ tuần đầu tiên.
+Nếu bạn muốn biết mình nên bắt đầu từ đâu thay vì làm tất cả cùng lúc, hãy dành 90 giây làm [bài khảo sát thể trạng của IKIHEALING](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ chỉ ra nhóm thói quen nào đang kéo bạn xuống nhiều nhất, để bạn sửa đúng chỗ ngay từ tuần đầu tiên.
 
 ## Nguồn tham khảo
 

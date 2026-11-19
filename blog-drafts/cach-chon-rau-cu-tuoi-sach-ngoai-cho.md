@@ -8,7 +8,7 @@
   "category": "Kiến thức thực phẩm",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cach-chon-rau-cu-tuoi-sach-ngoai-cho-hero.jpg",
   "hero_alt": "Rau lá xanh và củ quả tươi xếp trong giỏ tre trên mặt bàn gỗ ở chợ",
   "reading_min": 15,
@@ -162,7 +162,7 @@ Kinh nghiệm ăn uống phương Đông phân loại rau củ theo **tính** �
 
 Đây là kinh nghiệm dân gian để tham khảo cho việc chăm sóc bữa ăn hằng ngày, không phải chẩn đoán hay chỉ định y khoa.
 
-:::case Từ cộng đồng IKI
+:::case Từ cộng đồng IKIHEALING
 Một thay đổi nhỏ được nhiều thành viên nhắc lại như bước dễ làm nhất: thay vì cố "chọn rau thật sạch" ở mọi sạp, họ chuyển sang **đi chợ sớm hơn nửa tiếng và mua cố định một sạp quen**. Kết quả thường thấy sau vài tuần không phải là rau đẹp hơn, mà là rau **để được lâu hơn** — điều này gián tiếp nói lên nhiều về chất lượng, và cũng làm giảm hẳn lượng rau phải bỏ đi mỗi tuần.
 :::
 
@@ -178,7 +178,7 @@ Một thay đổi nhỏ được nhiều thành viên nhắc lại như bước 
 
 Chọn rau củ ngoài chợ không cần thiết bị hay kiến thức chuyên môn. Nó chỉ cần bốn động tác đã thành thói quen: **nhìn màu và kích thước, cầm thử độ nặng và độ giòn, ngửi mùi, và bỏ qua hàng đã sơ chế sẵn**. Cộng thêm ba lựa chọn nền tảng — **mua theo mùa, mua chỗ quen, đổi loại thường xuyên** — bạn đã xử lý được phần lớn rủi ro mà không cần lo lắng quá mức mỗi lần đi chợ.
 
-Và điều quan trọng cuối: đừng để việc lo lắng về rau sạch khiến bạn ăn ít rau đi. Rau củ, kể cả rau chợ thường mua và rửa cẩn thận, vẫn là nền tảng của một bữa ăn lành mạnh. Bài [Rau lá xanh mỗi ngày](rau-la-xanh-moi-ngay.html) nói về lượng rau nên có trong ngày, và nếu bạn muốn ghi lại bữa ăn để thấy mình đang thiếu nhóm nào, [ứng dụng IKI](https://ikihealing.com/app.html) có thể quét bữa ăn và đối chiếu giúp bạn.
+Và điều quan trọng cuối: đừng để việc lo lắng về rau sạch khiến bạn ăn ít rau đi. Rau củ, kể cả rau chợ thường mua và rửa cẩn thận, vẫn là nền tảng của một bữa ăn lành mạnh. Bài [Rau lá xanh mỗi ngày](rau-la-xanh-moi-ngay.html) nói về lượng rau nên có trong ngày, và nếu bạn muốn ghi lại bữa ăn để thấy mình đang thiếu nhóm nào, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có thể quét bữa ăn và đối chiếu giúp bạn.
 
 ## Nguồn tham khảo
 

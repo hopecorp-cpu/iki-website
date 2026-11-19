@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-giau-i-ot-hero.jpg",
   "hero_alt": "Rong biển khô, trứng và hũ muối i-ốt xếp trên mặt bàn gỗ sáng",
   "reading_min": 14,
@@ -174,7 +174,7 @@ I-ốt là ví dụ đẹp cho nguyên tắc "ít nhưng đều": cơ thể ch�
 
 Đồng thời, hãy nhớ hai giới hạn: không dùng nhiều muối hơn với lý do bổ sung i-ốt, và không ăn rong biển quá nhiều mỗi ngày. Cân bằng ở giữa vẫn là chỗ dễ chịu nhất.
 
-Nếu bạn muốn biết cơ địa mình đang cần chú ý điều gì trước tiên trong bữa ăn hằng ngày, [bài kiểm tra thể trạng 90 giây](../quiz/) sẽ cho bạn một bản phân tích ngắn để bắt đầu. Bạn cũng có thể ghi lại bữa ăn mỗi ngày trong [App IKI](../app.html) để sau một tuần nhìn ra khoảng trống của chính mình.
+Nếu bạn muốn biết cơ địa mình đang cần chú ý điều gì trước tiên trong bữa ăn hằng ngày, [bài kiểm tra thể trạng 90 giây](../quiz/) sẽ cho bạn một bản phân tích ngắn để bắt đầu. Bạn cũng có thể ghi lại bữa ăn mỗi ngày trong [App IKIHEALING](../app.html) để sau một tuần nhìn ra khoảng trống của chính mình.
 
 ## Nguồn tham khảo
 

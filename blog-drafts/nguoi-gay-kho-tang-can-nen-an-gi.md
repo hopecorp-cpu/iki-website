@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-02",
   "updated": "2026-08-02",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nguoi-gay-kho-tang-can-nen-an-gi-hero.jpg",
   "hero_alt": "Bữa ăn giàu dinh dưỡng với bơ, các loại hạt, trứng và ly sinh tố trên bàn gỗ",
   "reading_min": 15,
@@ -222,7 +222,7 @@ Nếu tình trạng đầy bụng kéo dài nhiều tuần, hãy đi khám tiêu
 - **18h30 —** 1,5 bát cơm + thịt kho trứng + đậu hũ sốt cà + rau luộc chấm dầu.
 - **21h00 —** 1 ly sữa ấm hoặc một phần đạm pha sữa hạt (nếu còn thấy nhẹ bụng).
 
-Nếu muốn theo dõi xem mình đã ăn đủ chưa mà không phải ghi chép rườm rà, [App IKI](https://ikihealing.com/app.html) có phần nhật ký bữa ăn ngắn để nhìn lại cả tuần theo biểu đồ thay vì đoán theo trí nhớ.
+Nếu muốn theo dõi xem mình đã ăn đủ chưa mà không phải ghi chép rườm rà, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký bữa ăn ngắn để nhìn lại cả tuần theo biểu đồ thay vì đoán theo trí nhớ.
 
 ## Năm sai lầm thường gặp
 

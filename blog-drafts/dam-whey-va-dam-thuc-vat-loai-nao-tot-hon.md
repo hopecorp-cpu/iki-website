@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dam-whey-va-dam-thuc-vat-loai-nao-tot-hon-hero.jpg",
   "hero_alt": "Hai ly bột đạm đặt cạnh nhau bên bình lắc và vài loại hạt trên mặt bàn gỗ sáng",
   "reading_min": 15,
@@ -46,8 +46,8 @@ Trên thị trường có ba dạng chính, khác nhau ở mức độ tinh lọ
 
 Điểm mạnh cốt lõi của whey nằm ở **hàm lượng leucine** — một axit amin đóng vai trò như công tắc khởi động quá trình tổng hợp cơ. Whey chứa leucine ở mức cao, và đó là lý do nó gắn liền với giới tập tạ suốt nhiều năm.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKI — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKIHEALING — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
 :::
 
 ## Đạm thực vật là gì và làm từ nguyên liệu nào
@@ -187,7 +187,7 @@ Quay lại câu hỏi ban đầu — **đạm whey và đạm thực vật loạ
 
 Whey có lợi thế về leucine, tốc độ hấp thu và vị. Đạm thực vật có lợi thế về khả năng dung nạp, chất xơ đi kèm và phù hợp với người ăn chay. Ở mức tập luyện của phần đông chúng ta, khác biệt về kết quả là nhỏ — còn khác biệt về cảm giác trong bụng mỗi sáng thì rất rõ.
 
-Nếu bạn chưa chắc mình hợp hướng nào, hãy bắt đầu bằng [bài kiểm tra thể trạng 90 giây](../quiz/) để hiểu cơ địa của mình, và tham khảo thêm [ứng dụng IKI](../app.html) nếu muốn theo dõi khẩu phần đạm mỗi ngày một cách đều đặn thay vì ước lượng.
+Nếu bạn chưa chắc mình hợp hướng nào, hãy bắt đầu bằng [bài kiểm tra thể trạng 90 giây](../quiz/) để hiểu cơ địa của mình, và tham khảo thêm [ứng dụng IKIHEALING](../app.html) nếu muốn theo dõi khẩu phần đạm mỗi ngày một cách đều đặn thay vì ước lượng.
 
 ## Nguồn tham khảo
 

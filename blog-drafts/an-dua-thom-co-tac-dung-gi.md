@@ -7,7 +7,7 @@
   "keyword": "ăn dứa có tác dụng gì",
   "category": "Thực phẩm",
   "date": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-dua-thom-co-tac-dung-gi-hero.jpg",
   "hero_alt": "Dứa chín cắt lát trên thớt gỗ bên cạnh ly nước",
   "reading_min": 14,
@@ -65,7 +65,7 @@
 ---
 Dứa — nhiều nơi ở miền Nam gọi là thơm, miền Trung gọi là khóm — là một trong những loại trái cây quen thuộc nhất trên mâm cơm người Việt. Nó xuất hiện trong nồi canh chua, đĩa lòng xào, món cá kho, và cũng là đĩa tráng miệng mát lành sau bữa ăn nhiều dầu mỡ. Nhưng khi được hỏi **ăn dứa có tác dụng gì**, phần lớn mọi người chỉ trả lời chung chung là "mát" hoặc "nhiều vitamin C". Trong khi đó, cũng chính quả dứa lại là thứ khiến không ít người rát lưỡi, cồn cào bụng, thậm chí phải bỏ dở nửa đĩa.
 
-Bài viết này nhìn quả dứa một cách sòng phẳng: nó thực sự đóng góp gì cho bữa ăn hằng ngày, mỗi lần nên ăn bao nhiêu, ăn vào lúc nào, vì sao lại rát lưỡi, và ai là những người nên ăn dè chừng. Tinh thần xuyên suốt vẫn là tinh thần chăm sóc sức khoẻ chủ động mà IKI theo đuổi: hiểu đúng một món ăn quen, rồi đặt nó vào đúng chỗ trong nhịp ăn uống của riêng bạn — chứ không thần thánh hoá, cũng không sợ hãi vô cớ.
+Bài viết này nhìn quả dứa một cách sòng phẳng: nó thực sự đóng góp gì cho bữa ăn hằng ngày, mỗi lần nên ăn bao nhiêu, ăn vào lúc nào, vì sao lại rát lưỡi, và ai là những người nên ăn dè chừng. Tinh thần xuyên suốt vẫn là tinh thần chăm sóc sức khoẻ chủ động mà IKIHEALING theo đuổi: hiểu đúng một món ăn quen, rồi đặt nó vào đúng chỗ trong nhịp ăn uống của riêng bạn — chứ không thần thánh hoá, cũng không sợ hãi vô cớ.
 
 ## Trong một miếng dứa có những gì
 
@@ -93,7 +93,7 @@ Khi gõ câu hỏi **ăn dứa có tác dụng gì** lên mạng, bạn sẽ g�
 
 **Về nước và điện giải trong ngày nắng.** Vào mùa nóng, dứa là cách bù nước dễ chịu và không nhàm chán. Với người ra nhiều mồ hôi, đĩa trái cây nhiều nước là một phần rất hợp lý của ngày — miễn là không thay thế hoàn toàn cho việc uống nước.
 
-Mỗi người có một cơ địa và một nhịp ăn uống khác nhau, nên cùng một quả dứa mà người thấy dễ chịu, người lại thấy xót ruột. Nếu bạn chưa rõ mình thuộc thể tạng nào và hợp với nhóm thực phẩm ra sao, có thể [làm bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz) để có một điểm khởi đầu rõ ràng hơn thay vì đoán mò.
+Mỗi người có một cơ địa và một nhịp ăn uống khác nhau, nên cùng một quả dứa mà người thấy dễ chịu, người lại thấy xót ruột. Nếu bạn chưa rõ mình thuộc thể tạng nào và hợp với nhóm thực phẩm ra sao, có thể [làm bài kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) để có một điểm khởi đầu rõ ràng hơn thay vì đoán mò.
 
 ## Bromelain — enzyme khiến quả dứa được nhắc nhiều
 
@@ -224,7 +224,7 @@ Nếu bạn muốn đưa dứa vào nhịp ăn uống một cách có ý thức,
 - **Ngày 6:** Thử dứa trong bữa sáng dạng salad hoặc sinh tố, xem có bền năng lượng tới trưa không.
 - **Ngày 7:** Nhìn lại cả tuần. Bạn hợp với dứa tươi hay dứa nấu? Lượng nào là vừa? Thời điểm nào dễ chịu nhất?
 
-Chỉ một tuần quan sát như vậy đã cho bạn nhiều thông tin hơn hàng chục bài "10 công dụng" trên mạng, bởi vì dữ liệu đó là của chính cơ thể bạn. Nếu bạn muốn ghi lại đều đặn mà không mất thời gian, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký nhanh chỉ mất vài chục giây mỗi bữa và tự tổng hợp lại theo tuần.
+Chỉ một tuần quan sát như vậy đã cho bạn nhiều thông tin hơn hàng chục bài "10 công dụng" trên mạng, bởi vì dữ liệu đó là của chính cơ thể bạn. Nếu bạn muốn ghi lại đều đặn mà không mất thời gian, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký nhanh chỉ mất vài chục giây mỗi bữa và tự tổng hợp lại theo tuần.
 
 ## Kết: một quả dứa đặt đúng chỗ
 
@@ -234,7 +234,7 @@ Quay lại câu hỏi ban đầu — **ăn dứa có tác dụng gì**? Câu tr�
 
 Cách dùng dứa cho khéo gói gọn trong bốn điều: **ăn lượng vừa (100–150g), ăn sau bữa chính, chọn quả chín vừa, và lắng nghe phản ứng của chính mình.** Nếu bạn thuộc nhóm dạ dày nhạy cảm hoặc cơ địa dễ lạnh bụng, hãy ăn ít hơn và ưu tiên dứa nấu chín.
 
-Đó cũng là cách IKI nhìn mọi thực phẩm: không có món thần kỳ, chỉ có món phù hợp với bạn, vào đúng lúc, với đúng lượng. Nếu bạn muốn có một điểm khởi đầu rõ ràng thay vì thử sai từng món một, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ gợi ý nhóm thực phẩm và thức uống hợp với cơ địa của bạn, để mỗi bữa ăn hằng ngày trở nên dễ chịu hơn một chút.
+Đó cũng là cách IKIHEALING nhìn mọi thực phẩm: không có món thần kỳ, chỉ có món phù hợp với bạn, vào đúng lúc, với đúng lượng. Nếu bạn muốn có một điểm khởi đầu rõ ràng thay vì thử sai từng món một, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ gợi ý nhóm thực phẩm và thức uống hợp với cơ địa của bạn, để mỗi bữa ăn hằng ngày trở nên dễ chịu hơn một chút.
 
 ## Nguồn tham khảo
 

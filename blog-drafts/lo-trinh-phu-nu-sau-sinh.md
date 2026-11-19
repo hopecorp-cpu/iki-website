@@ -8,7 +8,7 @@
   "category_label": "Lộ trình chăm sóc sức khoẻ",
   "date": "2026-09-08",
   "updated": "2026-09-08",
-  "author": "Ban biên tập IKI",
+  "author": "Ban biên tập IKIHEALING",
   "hero_local": "assets/blog/suc-khoe-phu-nu-sau-sinh-hero.jpg",
   "hero_alt": "Ảnh minh hoạ: lộ trình chăm sóc phụ nữ sau sinh",
   "reading_min": 7,

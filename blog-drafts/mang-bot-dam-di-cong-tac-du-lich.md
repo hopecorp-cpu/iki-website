@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-09-23",
   "updated": "2026-09-23",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/mang-bot-dam-di-cong-tac-du-lich-hero.jpg",
   "hero_alt": "Bộ đồ mang bột đạm đi du lịch trên bàn gỗ: bình lắc nhỏ, các túi zip đã chia liều, muỗng đong, hộ chiếu và thẻ lên máy bay",
   "reading_min": 14,
@@ -163,7 +163,7 @@ Khi chọn bột để mang đi xa, tiêu chí khác một chút so với khi mu
 - **Ít đường thêm vào.** Chuyến đi vốn đã nhiều đường từ nước ngọt, bánh ngọt và đồ uống tiếp khách. Đọc dòng "đường" trên nhãn trước khi đọc dòng "đạm".
 - **Nguồn đạm phối từ nhiều loại hạt và đậu** thay vì một nguồn duy nhất, để phần axit amin cân đối hơn khi bạn không ăn được đa dạng như ở nhà.
 
-Về phía IKI, sản phẩm [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro là bột phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất, hộp 22 gói x 22 g. Vị thuộc nhóm nhẹ nên pha với nước không vẫn uống được, và vì là bột thuần nên chia liều vào túi zip không có vấn đề gì về kết cấu. Đó là những thông tin về nguồn gốc, thành phần và cách dùng; sản phẩm này là thực phẩm bổ sung, không thay thế bữa ăn chính và không dùng để chữa hay phòng bệnh gì. Ai đang có bệnh nền, đang mang thai hoặc cho con bú nên hỏi ý kiến bác sĩ trước khi dùng, dù ở nhà hay đi xa.
+Về phía IKIHEALING, sản phẩm [đạm thực vật](https://trueveganprotein.com) True Vegan Protein Pro là bột phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất, hộp 22 gói x 22 g. Vị thuộc nhóm nhẹ nên pha với nước không vẫn uống được, và vì là bột thuần nên chia liều vào túi zip không có vấn đề gì về kết cấu. Đó là những thông tin về nguồn gốc, thành phần và cách dùng; sản phẩm này là thực phẩm bổ sung, không thay thế bữa ăn chính và không dùng để chữa hay phòng bệnh gì. Ai đang có bệnh nền, đang mang thai hoặc cho con bú nên hỏi ý kiến bác sĩ trước khi dùng, dù ở nhà hay đi xa.
 
 Nếu bạn còn phân vân giữa các loại bột trên thị trường, bài [đọc nhãn bột đạm thực vật](doc-nhan-bot-dam-thuc-vat.html) chỉ ra ba dòng trên nhãn đáng đọc nhất và những chỗ hay bị hiểu nhầm.
 
@@ -179,7 +179,7 @@ Bột đạm chỉ là một mảnh của bức tranh. Thứ thật sự giữ b
 
 Khung này giúp bạn trả lời được câu hỏi ở đầu bài một cách rất cụ thể: mang bao nhiêu túi. Đếm số bữa sáng có nguy cơ chỉ có bánh ngọt, cộng số bữa trưa có nguy cơ bỏ, đó là số túi cần mang, cộng một túi dự phòng.
 
-Nếu bạn muốn một chỗ để ghi lại từng ngày của chuyến đi thay vì nhớ trong đầu, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký để đánh dấu nhanh bữa ăn và nếp uống. Nhìn lại một tuần đi xa mà chuỗi ngày vẫn liền nhau là thứ động lực cụ thể hơn nhiều so với cảm giác "chuyến này ăn uống lung tung quá".
+Nếu bạn muốn một chỗ để ghi lại từng ngày của chuyến đi thay vì nhớ trong đầu, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký để đánh dấu nhanh bữa ăn và nếp uống. Nhìn lại một tuần đi xa mà chuỗi ngày vẫn liền nhau là thứ động lực cụ thể hơn nhiều so với cảm giác "chuyến này ăn uống lung tung quá".
 
 ## Danh sách xếp vali trong năm phút
 

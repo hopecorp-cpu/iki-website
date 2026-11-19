@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng gia đình",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tang-suc-de-khang-cho-tre-nen-an-gi-hero.jpg",
   "hero_alt": "Mâm cơm gia đình nhiều rau củ nhiều màu và trái cây tươi cho trẻ",
   "reading_min": 14,
@@ -174,7 +174,7 @@ Bài viết này là kiến thức chăm sóc thường ngày, không thay thế
 
 Sau một tuần, giữ lại điều gì làm được và bỏ điều gì quá sức. Cách xây thói quen theo chặng nhỏ này chính là tinh thần của [lộ trình chăm sóc sức khoẻ cho người mới bắt đầu](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html).
 
-Nếu bạn muốn có một bản gợi ý sát với thể trạng và nhịp sinh hoạt của gia đình mình hơn, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả miễn phí và có thể dùng làm điểm khởi đầu cho kế hoạch ăn uống của cả nhà. Người lớn muốn theo dõi đều đặn hơn có thể dùng thêm [App IKI](https://ikihealing.com/app.html) để ghi nhật ký bữa ăn và giấc ngủ.
+Nếu bạn muốn có một bản gợi ý sát với thể trạng và nhịp sinh hoạt của gia đình mình hơn, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả miễn phí và có thể dùng làm điểm khởi đầu cho kế hoạch ăn uống của cả nhà. Người lớn muốn theo dõi đều đặn hơn có thể dùng thêm [App IKIHEALING](https://ikihealing.com/app.html) để ghi nhật ký bữa ăn và giấc ngủ.
 
 ## Nguồn tham khảo
 

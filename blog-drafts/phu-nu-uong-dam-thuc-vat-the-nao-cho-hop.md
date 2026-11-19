@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-24",
   "updated": "2026-08-24",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/phu-nu-uong-dam-thuc-vat-the-nao-cho-hop-hero.jpg",
   "hero_alt": "Bữa sáng gọn nhẹ của người phụ nữ đi làm, có một ly bột đạm thực vật đã pha",
   "reading_min": 14,
@@ -156,7 +156,7 @@ Và nó cũng có giới hạn phải nói rõ. Bột đạm không thay đượ
 
 Về cách pha, ba lưu ý hay gặp: pha bằng nước ấm hoặc nguội thay vì nước sôi để bột tan mịn hơn; cho nước vào trước rồi mới cho bột để đỡ vón; và nếu thấy khó uống thì pha cùng sữa hạt, chuối hoặc một chút bột ca cao nguyên chất. Bài [cách pha bột đạm thực vật cho dễ uống](cach-pha-bot-dam-thuc-vat-cho-de-uong.html) có thêm vài công thức phối vị nếu bạn cần.
 
-Về sản phẩm cụ thể, [True Vegan Protein Pro](../san-pham/true-vegan-protein.html) là bột đạm dinh dưỡng thực vật của IKI, quy cách hộp 22 gói x 22 g, phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất. Bạn nên đọc trang thông tin sản phẩm để xem thành phần, cách pha và các câu hỏi thường gặp trước khi quyết định, thay vì chọn theo lời giới thiệu.
+Về sản phẩm cụ thể, [True Vegan Protein Pro](../san-pham/true-vegan-protein.html) là bột đạm dinh dưỡng thực vật của IKIHEALING, quy cách hộp 22 gói x 22 g, phối từ protein đậu Hà Lan, DHA từ tảo, bột fucoidan và khoáng chất. Bạn nên đọc trang thông tin sản phẩm để xem thành phần, cách pha và các câu hỏi thường gặp trước khi quyết định, thay vì chọn theo lời giới thiệu.
 
 ## Bốn nhóm phụ nữ và cách điều chỉnh cho hợp
 
@@ -201,7 +201,7 @@ Nếu bạn muốn bắt đầu ngay hôm nay, đây là nhịp bảy ngày đ�
 
 **Ngày 7 — nhìn lại.** Bạn thấy no lâu hơn không? Có bớt thèm vặt giữa buổi không? Việc bù đó có dễ duy trì không, hay mỗi lần đều phải cố? Câu trả lời cho câu hỏi thứ ba quan trọng hơn hai câu đầu, vì thứ duy trì được mới tạo ra khác biệt.
 
-Sau tuần đầu, nếu mốc thứ nhất đã thành phản xạ thì thêm mốc thứ hai. Không cần vội. Cơ thể mỗi người phản ứng khác nhau, và cách bền nhất luôn là đi chậm mà đều. Nếu bạn muốn có gợi ý bám sát cơ địa của mình hơn thay vì áp một khung chung, hãy làm [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ gợi ý nhịp ăn uống và sinh hoạt hợp với thể trạng bạn hơn. Nếu muốn được nhắc và theo dõi đều đặn mỗi ngày, [ứng dụng IKI](../app.html) là nơi ghi lại nhịp đó giúp bạn.
+Sau tuần đầu, nếu mốc thứ nhất đã thành phản xạ thì thêm mốc thứ hai. Không cần vội. Cơ thể mỗi người phản ứng khác nhau, và cách bền nhất luôn là đi chậm mà đều. Nếu bạn muốn có gợi ý bám sát cơ địa của mình hơn thay vì áp một khung chung, hãy làm [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ gợi ý nhịp ăn uống và sinh hoạt hợp với thể trạng bạn hơn. Nếu muốn được nhắc và theo dõi đều đặn mỗi ngày, [ứng dụng IKIHEALING](../app.html) là nơi ghi lại nhịp đó giúp bạn.
 
 ## Nguồn tham khảo
 

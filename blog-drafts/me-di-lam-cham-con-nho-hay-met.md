@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-10-01",
   "updated": "2026-10-01",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/me-di-lam-cham-con-nho-hay-met-hero.jpg",
   "hero_alt": "Bàn bếp buổi sớm với chén trà ấm và bát nhỏ, gợi nhịp sống của mẹ đi làm chăm con nhỏ",
   "reading_min": 15,
@@ -159,7 +159,7 @@ Một vài nếp nhỏ:
 - Mỗi lần cho con uống nước, mẹ cũng uống vài ngụm.
 - Uống một cốc nước ấm ngay khi thức dậy, trước khi bắt đầu chuỗi việc buổi sáng.
 
-**Cà phê:** nhiều mẹ sống nhờ cà phê, và một hai ly buổi sáng là bình thường với phần lớn người trưởng thành khoẻ mạnh. Vấn đề nằm ở ly cà phê thứ ba lúc ba giờ chiều để chống chọi cơn buồn ngủ. Ly đó có thể làm mẹ khó ngủ tối hôm ấy, rồi sáng hôm sau lại cần cà phê nhiều hơn. Nếu thấy mình rơi vào vòng này, hãy thử dừng cà phê sau giờ trưa, thay bằng nước lọc, một ly sữa đậu, hoặc một chén trà thảo mộc không caffeine. Nếu muốn tìm thêm thứ thay cà phê buổi sáng, bạn có thể xem các lựa chọn trong [cửa hàng IKI](https://ikihealing.com/shop/).
+**Cà phê:** nhiều mẹ sống nhờ cà phê, và một hai ly buổi sáng là bình thường với phần lớn người trưởng thành khoẻ mạnh. Vấn đề nằm ở ly cà phê thứ ba lúc ba giờ chiều để chống chọi cơn buồn ngủ. Ly đó có thể làm mẹ khó ngủ tối hôm ấy, rồi sáng hôm sau lại cần cà phê nhiều hơn. Nếu thấy mình rơi vào vòng này, hãy thử dừng cà phê sau giờ trưa, thay bằng nước lọc, một ly sữa đậu, hoặc một chén trà thảo mộc không caffeine. Nếu muốn tìm thêm thứ thay cà phê buổi sáng, bạn có thể xem các lựa chọn trong [cửa hàng IKIHEALING](https://ikihealing.com/shop/).
 
 **Đồ uống ngọt:** trà sữa hay nước ngọt lúc chiều cho cảm giác tỉnh táo nhanh, nhưng thường kéo theo một cơn tụt sức sau đó. Nếu thèm ngọt, hãy ăn kèm một thứ có đạm hoặc chất xơ, như sữa chua với trái cây, để cảm giác no kéo dài hơn.
 
@@ -214,7 +214,7 @@ Thử ghi trong bảy ngày, mỗi tối chỉ mất một phút:
 - Uống mấy ly cà phê, ly cuối lúc mấy giờ.
 - Mức mệt trong ngày từ một tới mười.
 
-Sau một tuần, đặt các dòng cạnh nhau và tìm điểm chung của những ngày đỡ mệt. Nếu muốn ghi nhanh hơn mà không phải nhớ, [App IKI](https://ikihealing.com/app.html) cho phép ghi nhật ký ăn uống và giấc ngủ trong vài giây, rồi tự gom lại để bạn nhìn ra nhịp của mình.
+Sau một tuần, đặt các dòng cạnh nhau và tìm điểm chung của những ngày đỡ mệt. Nếu muốn ghi nhanh hơn mà không phải nhớ, [App IKIHEALING](https://ikihealing.com/app.html) cho phép ghi nhật ký ăn uống và giấc ngủ trong vài giây, rồi tự gom lại để bạn nhìn ra nhịp của mình.
 
 ## Khi nào cái mệt cần được bác sĩ xem
 

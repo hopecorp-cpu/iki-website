@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-02",
   "updated": "2026-08-02",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngu-du-8-tieng-van-met-hero.jpg",
   "hero_alt": "Góc phòng ngủ yên tĩnh với đèn ngủ ấm và tách trà thảo mộc bên cạnh giường",
   "reading_min": 14,
@@ -185,7 +185,7 @@ Thay vì đoán, hãy đo. Trong bảy ngày, mỗi sáng ghi lại bốn con s�
 3. Cảm giác khi thức dậy, chấm từ 1 đến 5.
 4. Ba việc bạn đã làm tối hôm trước: có uống cà phê sau 14h không, có rượu bia không, có dùng điện thoại trong 60 phút cuối không.
 
-Sau bảy ngày, xếp các đêm theo điểm cảm giác khi thức dậy và nhìn xem những đêm điểm cao có điểm chung gì. Cách làm này thường chỉ ra thủ phạm nhanh hơn nhiều so với việc thay đổi cùng lúc mười thứ. Nếu bạn muốn ghi lại tiện hơn, [App IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn 30 giây mỗi ngày để nhìn lại cả tuần theo biểu đồ.
+Sau bảy ngày, xếp các đêm theo điểm cảm giác khi thức dậy và nhìn xem những đêm điểm cao có điểm chung gì. Cách làm này thường chỉ ra thủ phạm nhanh hơn nhiều so với việc thay đổi cùng lúc mười thứ. Nếu bạn muốn ghi lại tiện hơn, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn 30 giây mỗi ngày để nhìn lại cả tuần theo biểu đồ.
 
 ## Khi nào nên đi khám
 

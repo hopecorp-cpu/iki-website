@@ -7,7 +7,7 @@
   "keyword": "ăn chay cả tháng 7 âm lịch",
   "category": "dinh-duong",
   "date": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-chay-ca-thang-7-am-lich-du-chat-hero.jpg",
   "hero_alt": "Mâm cơm chay Việt với đậu hũ kho, rau luộc, canh nấm và cơm gạo lứt trên chiếu tre",
   "reading_min": 15,
@@ -209,7 +209,7 @@ Cách nào cũng có giá trị về mặt tâm ý và về mặt sức khoẻ, 
 
 Điều quan trọng nhất khi tháng 7 khép lại: đừng quay lại ăn uống thả ga ngay lập tức. Cơ thể vừa quen với khẩu phần nhẹ hơn, nhiều rau hơn. Hãy giữ lại vài thói quen tốt đã hình thành — nhiều rau hơn, ít đồ chiên hơn, có đậu hũ và các loại đậu trong tuần. Đó mới là phần giá trị lâu dài của tháng chay.
 
-Nếu bạn muốn biết cơ địa mình phù hợp với kiểu ăn chay nào và nên ưu tiên nhóm thực phẩm gì, hãy thử bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz). Và trong suốt tháng chay, [ứng dụng IKI](https://ikihealing.com/app.html) có thể giúp bạn quét bữa ăn để biết mâm cơm hôm nay đã đủ đạm chưa — hữu ích nhất là trong tuần đầu, khi bạn còn đang tập ước lượng.
+Nếu bạn muốn biết cơ địa mình phù hợp với kiểu ăn chay nào và nên ưu tiên nhóm thực phẩm gì, hãy thử bài [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz). Và trong suốt tháng chay, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có thể giúp bạn quét bữa ăn để biết mâm cơm hôm nay đã đủ đạm chưa — hữu ích nhất là trong tuần đầu, khi bạn còn đang tập ước lượng.
 
 ## Nguồn tham khảo
 
@@ -217,4 +217,4 @@ Nếu bạn muốn biết cơ địa mình phù hợp với kiểu ăn chay nào
 - Vinmec — *Bổ sung protein mỗi ngày bao nhiêu là đủ?*: [vinmec.com](https://www.vinmec.com/vie/bai-viet/bo-sung-protein-moi-ngay-bao-nhieu-la-du-vi)
 - Bệnh viện Tâm Anh — *Chất đạm: vai trò, chức năng và tác dụng với cơ thể*: [tamanhhospital.vn](https://tamanhhospital.vn/chat-dam/)
 
-*Bài viết do Đội ngũ Health Coach IKI biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*
+*Bài viết do Đội ngũ Health Coach IKIHEALING biên soạn, mang tính chia sẻ kiến thức chăm sóc sức khoẻ hằng ngày. Nội dung không nhằm chẩn đoán hay thay thế tư vấn của bác sĩ.*

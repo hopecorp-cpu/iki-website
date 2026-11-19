@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-chay-linh-hoat-flexitarian-hero.jpg",
   "hero_alt": "Mâm cơm nhiều rau củ, đậu phụ và một phần cá nhỏ",
   "reading_min": 14,
@@ -53,7 +53,7 @@ Cách ăn này khác biệt rõ với **ăn chay trường** (loại bỏ hoàn 
 
 Mỗi người có một thể trạng và điều kiện sống khác nhau, nên mức độ linh hoạt phù hợp cũng khác. Nếu chưa biết mình nên bắt đầu từ đâu, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có gợi ý cụ thể hơn theo cơ địa của mình.
 
-:::note Số liệu thực tế từ cộng đồng IKI
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
 Đo trên 660 cuộc tư vấn thật mà khách là bên chủ động nêu vấn đề (kỳ tính đến đầu tháng 8/2026), **ăn chay và nguồn đạm chiếm 8% số cuộc** (n = 55) — ngang với nhóm tiêu hoá và đường ruột. Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
 :::
 
@@ -188,7 +188,7 @@ Nếu bạn muốn thử, đây là kế hoạch bốn tuần đơn giản nhấ
 
 Không cần cân đo đong đếm, không cần app phức tạp. Cái cần nhất là sự đều đặn và một chút quan sát bản thân.
 
-Và nếu bạn muốn biết cơ địa mình hợp với hướng ăn nào — thiên về ấm hay mát, nên tăng nhóm thực phẩm nào trước — hãy dành 90 giây cho [bài kiểm tra thể trạng của IKI](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ cho bạn một điểm khởi đầu cụ thể thay vì làm theo công thức chung.
+Và nếu bạn muốn biết cơ địa mình hợp với hướng ăn nào — thiên về ấm hay mát, nên tăng nhóm thực phẩm nào trước — hãy dành 90 giây cho [bài kiểm tra thể trạng của IKIHEALING](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ cho bạn một điểm khởi đầu cụ thể thay vì làm theo công thức chung.
 
 ## Nguồn tham khảo
 

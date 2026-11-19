@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-do-hop-the-nao-cho-an-toan-hero.jpg",
   "hero_alt": "Vài hộp thực phẩm đóng hộp xếp ngay ngắn cạnh rau tươi trên mặt bàn bếp gỗ",
   "reading_min": 14,
@@ -188,7 +188,7 @@ Một tủ bếp hợp lý thường có cả ba nhóm, mỗi nhóm một ít, t
 
 Nếu chỉ nhớ được một câu từ bài này, hãy nhớ: **hộp phồng, móp sâu ở mép, rỉ sét hoặc rò rỉ thì bỏ, không tiếc, không nếm thử.**
 
-Và như mọi chuyện trong ăn uống, điều quyết định không phải một bữa mà là tỷ lệ chung của cả tuần. Đồ hộp chiếm một phần nhỏ trong bức tranh, với phần lớn còn lại là thực phẩm tươi, thì đó là một nếp ăn hợp lý. Nếu bạn muốn xây lại bức tranh đó theo cơ địa của mình, hãy bắt đầu với [bài kiểm tra thể trạng 90 giây](../quiz/), và dùng [App IKI](../app.html) nếu muốn ghi nhật ký bữa ăn đều đặn hơn.
+Và như mọi chuyện trong ăn uống, điều quyết định không phải một bữa mà là tỷ lệ chung của cả tuần. Đồ hộp chiếm một phần nhỏ trong bức tranh, với phần lớn còn lại là thực phẩm tươi, thì đó là một nếp ăn hợp lý. Nếu bạn muốn xây lại bức tranh đó theo cơ địa của mình, hãy bắt đầu với [bài kiểm tra thể trạng 90 giây](../quiz/), và dùng [App IKIHEALING](../app.html) nếu muốn ghi nhật ký bữa ăn đều đặn hơn.
 
 ## Nguồn tham khảo
 

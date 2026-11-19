@@ -8,7 +8,7 @@
   "category": "cam-nang-suc-khoe",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thieu-mau-hero.jpg",
   "hero_alt": "Thực phẩm giàu sắt: rau lá xanh, đậu và trái cây",
   "reading_min": 10,

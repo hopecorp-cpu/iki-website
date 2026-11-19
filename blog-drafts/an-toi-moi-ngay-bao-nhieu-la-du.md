@@ -7,7 +7,7 @@
   "keyword": "ăn tỏi mỗi ngày bao nhiêu là đủ",
   "category": "Thực phẩm",
   "date": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-toi-moi-ngay-bao-nhieu-la-du-hero.jpg",
   "hero_alt": "Củ tỏi và các tép tỏi bóc sẵn trên thớt gỗ trong gian bếp",
   "reading_min": 14,
@@ -65,7 +65,7 @@ Cần nói rõ ngay từ đầu để tránh hiểu lầm: **tỏi là gia vị,
 
 Nguyên tắc dễ nhớ: **tỏi là gia vị chứ không phải món ăn.** Vài tép rải đều trong các bữa của ngày là đủ. Ăn nguyên chục tép một lúc "cho bõ" không mang lại thêm gì ngoài khó chịu.
 
-Mỗi người lại chịu tỏi khác nhau — có người ăn tỏi sống thoải mái, người khác chỉ một tép đã nóng ruột. Nếu bạn muốn hiểu cơ địa mình nghiêng về nhóm nào để chọn cách dùng gia vị cho hợp, hãy thử [bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz).
+Mỗi người lại chịu tỏi khác nhau — có người ăn tỏi sống thoải mái, người khác chỉ một tép đã nóng ruột. Nếu bạn muốn hiểu cơ địa mình nghiêng về nhóm nào để chọn cách dùng gia vị cho hợp, hãy thử [bài kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz).
 
 ## Ăn tỏi sống hay tỏi nấu chín thì hơn
 
@@ -180,7 +180,7 @@ Nếu bạn muốn đưa tỏi vào bữa ăn một cách có ý thức thay vì
 - **Ngày 6:** Chú ý phản ứng cơ thể: có nóng rát, ợ chua, đầy hơi không? Nếu có, giảm lượng.
 - **Ngày 7:** Nhìn lại: lượng nào là vừa với bạn? Bạn hợp tỏi sống hay tỏi chín hơn?
 
-Nếu bạn muốn ghi lại những quan sát này mà không mất thời gian, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký bữa ăn nhanh và tự tổng hợp theo tuần — cách ghi cụ thể được hướng dẫn trong bài [Cách ghi nhật ký ăn uống trong 7 ngày](cach-ghi-nhat-ky-an-uong.html).
+Nếu bạn muốn ghi lại những quan sát này mà không mất thời gian, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký bữa ăn nhanh và tự tổng hợp theo tuần — cách ghi cụ thể được hướng dẫn trong bài [Cách ghi nhật ký ăn uống trong 7 ngày](cach-ghi-nhat-ky-an-uong.html).
 
 ## Kết: đúng lượng quan trọng hơn nhiều lượng
 
@@ -190,7 +190,7 @@ Trả lời gọn cho câu hỏi **ăn tỏi mỗi ngày bao nhiêu là đủ**:
 
 Và tỏi vẫn chỉ là tỏi: một gia vị làm bữa cơm ngon hơn, góp mặt trong một chế độ ăn đa dạng. Nó không phải thuốc, không thay thế thuốc, và không dùng để chẩn đoán hay điều trị bệnh. Bất cứ ai hứa hẹn hơn thế đều đang kể một câu chuyện, không phải nói về một củ tỏi.
 
-Đó là tinh thần chăm sóc sức khoẻ chủ động mà IKI theo đuổi: hiểu đúng những thứ quen thuộc nhất trong bếp nhà mình, dùng đúng lượng, và lắng nghe phản ứng của chính cơ thể. Nếu bạn muốn biết cơ địa mình hợp với nhóm gia vị và thực phẩm nào, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — mất chưa tới hai phút và cho bạn một hướng đi cụ thể hơn nhiều so với đọc thêm mười bài "công dụng".
+Đó là tinh thần chăm sóc sức khoẻ chủ động mà IKIHEALING theo đuổi: hiểu đúng những thứ quen thuộc nhất trong bếp nhà mình, dùng đúng lượng, và lắng nghe phản ứng của chính cơ thể. Nếu bạn muốn biết cơ địa mình hợp với nhóm gia vị và thực phẩm nào, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — mất chưa tới hai phút và cho bạn một hướng đi cụ thể hơn nhiều so với đọc thêm mười bài "công dụng".
 
 ## Nguồn tham khảo
 

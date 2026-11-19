@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/sua-hat-co-thay-duoc-sua-bo-khong-hero.jpg",
   "hero_alt": "Bình sữa hạt tự làm đặt cạnh bát hạnh nhân và hạt điều trên bàn bếp",
   "reading_min": 14,
@@ -75,7 +75,7 @@ Ba cách bù canxi cho người uống sữa hạt tự làm:
 
 Bài [người ăn chay bổ sung canxi thế nào](nguoi-an-chay-bo-sung-canxi.html) có bảng thực phẩm chi tiết hơn theo khẩu phần Việt.
 
-Nếu bạn không chắc chế độ ăn hiện tại của mình đang hụt ở đâu, hãy dành 90 giây [kiểm tra thể trạng cùng IKI](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ chỉ ra nhóm chất nào đang thiếu rõ nhất trong nếp ăn của bạn.
+Nếu bạn không chắc chế độ ăn hiện tại của mình đang hụt ở đâu, hãy dành 90 giây [kiểm tra thể trạng cùng IKIHEALING](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ chỉ ra nhóm chất nào đang thiếu rõ nhất trong nếp ăn của bạn.
 
 ## Ba vi chất thầm lặng: B12, vitamin D và i-ốt
 
@@ -150,7 +150,7 @@ Với trẻ dưới hai tuổi, câu trả lời là không, và mọi thay đ�
 
 Điều đáng nhớ nhất: vấn đề không nằm ở việc chọn phe sữa hạt hay sữa bò, mà nằm ở việc bạn có biết mình đang hụt gì hay không. Một người uống sữa hạt nhưng ăn đủ đậu phụ, rau xanh và đạm mỗi bữa sẽ khoẻ hơn hẳn một người uống sữa bò nhưng bỏ bữa sáng và ăn ít rau.
 
-Nếu bạn muốn biết chế độ ăn hiện tại của gia đình mình đang thiếu chỗ nào, hãy làm [bài khảo sát thể trạng 90 giây của IKI](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ đưa ra hai tới ba điều chỉnh cụ thể, đủ nhỏ để bắt đầu ngay trong tuần này.
+Nếu bạn muốn biết chế độ ăn hiện tại của gia đình mình đang thiếu chỗ nào, hãy làm [bài khảo sát thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ đưa ra hai tới ba điều chỉnh cụ thể, đủ nhỏ để bắt đầu ngay trong tuần này.
 
 ## Nguồn tham khảo
 

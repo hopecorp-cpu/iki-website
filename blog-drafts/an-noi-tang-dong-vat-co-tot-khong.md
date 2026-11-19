@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-11",
   "updated": "2026-08-11",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-noi-tang-dong-vat-co-tot-khong-hero.jpg",
   "hero_alt": "Đĩa rau thơm, gừng và hành đặt cạnh thớt gỗ trong bếp Việt",
   "reading_min": 14,

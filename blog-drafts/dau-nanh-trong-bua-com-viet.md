@@ -8,7 +8,7 @@
   "answer": "Đậu nành là một trong số ít nguồn đạm thực vật có đủ chín axit amin thiết yếu. Theo Bảng thành phần thực phẩm Việt Nam (Viện Dinh dưỡng, 2007), 100 g đậu phụ có khoảng 10,9 g đạm, 100 g sữa đậu nành có khoảng 3,1 g. Chị dùng đậu nành đã nấu chín, chọn sữa ít đường, và ghép thêm các loại đậu, hạt, ngũ cốc để bữa ăn đa dạng.",
   "date": "2026-08-04",
   "updated": "2026-10-03",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dau-nanh-trong-bua-com-viet-hero.jpg",
   "hero_alt": "Bát gốm xanh nhạt đặt trên đĩa gỗ, bên cạnh chén sứ trắng và lọ thuỷ tinh cắm cành lá xanh trên bàn gỗ",
   "category": "thuc-pham",
@@ -146,13 +146,13 @@ Một thói quen nhỏ có thể làm ngay hôm nay là nhìn lại ba bữa và
 
 Bột đạm có thể có đường bổ sung và các thành phần ngoài đạm. Đọc nhãn giúp chị biết mình thực sự đang thêm gì vào bữa ăn thay vì chỉ nhìn tên gọi ở mặt trước bao bì.
 
-Nếu chị dùng thêm bột đạm thực vật, hãy đọc nhãn trước: khẩu phần, lượng đạm mỗi lần pha, đường bổ sung và thành phần. Bột đạm thực vật True Vegan Protein Pro của IKI là thực phẩm bổ sung, phối từ nhiều loại hạt, đậu và ngũ cốc, dùng như một phần của bữa ăn, không thay bữa ăn đa dạng.
+Nếu chị dùng thêm bột đạm thực vật, hãy đọc nhãn trước: khẩu phần, lượng đạm mỗi lần pha, đường bổ sung và thành phần. Bột đạm thực vật True Vegan Protein Pro của IKIHEALING là thực phẩm bổ sung, phối từ nhiều loại hạt, đậu và ngũ cốc, dùng như một phần của bữa ăn, không thay bữa ăn đa dạng.
 
-## Học thêm cùng Học Viện IKI
+## Học thêm cùng Học Viện IKIHEALING
 
 Hiểu lượng đạm trong những món quen thuộc là một cách để việc chăm sóc bữa ăn bớt phức tạp. Chị không cần thay toàn bộ thực đơn cùng lúc. Có thể bắt đầu từ một bữa, đọc một nhãn thực phẩm hoặc thử ghép thêm một nguồn đạm khác trong ngày.
 
-Học Viện IKI là chương trình huấn luyện sức khoẻ chủ động của IKI Beauty & Wellness (HOPE CORP). Chị có thể bắt đầu từ kho kiến thức mở và lớp nhập môn miễn phí, không cần mua gì để tham gia. Muốn hỏi thêm về bữa ăn đủ đạm cho cả nhà, chị nhắn Zalo IKI tại [zalo.me/599407064751177637](https://zalo.me/599407064751177637).
+Học Viện IKIHEALING là chương trình huấn luyện sức khoẻ chủ động của IKIHEALING Beauty & Wellness (HOPE CORP). Chị có thể bắt đầu từ kho kiến thức mở và lớp nhập môn miễn phí, không cần mua gì để tham gia. Muốn hỏi thêm về bữa ăn đủ đạm cho cả nhà, chị nhắn Zalo IKIHEALING tại [zalo.me/599407064751177637](https://zalo.me/599407064751177637).
 
 ## Nguồn tham khảo
 

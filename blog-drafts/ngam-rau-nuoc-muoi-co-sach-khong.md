@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngam-rau-nuoc-muoi-co-sach-khong-hero.jpg",
   "hero_alt": "Rau lá xanh trong rổ inox được rửa dưới vòi nước chảy trên bàn bếp gỗ",
   "reading_min": 13,
@@ -158,7 +158,7 @@ Không cần bỏ. Rau sống là phần rất đặc trưng của ẩm thực V
 - Rau không rõ nguồn gốc, mua vội ngoài đường → ưu tiên nấu chín.
 - Người đang có sức đề kháng yếu, người mới ốm dậy, phụ nữ mang thai, trẻ nhỏ, người cao tuổi → hạn chế rau sống, ưu tiên rau chín kỹ.
 
-Đây cũng là tinh thần chăm sóc sức khoẻ chủ động: không hoảng sợ, không phó mặc, mà ra quyết định dựa trên hoàn cảnh cụ thể của mình. Nếu bạn muốn theo dõi bữa ăn hằng ngày và nhận gợi ý phù hợp với thể trạng riêng, [ứng dụng IKI](../app.html) làm được việc đó ngay trên điện thoại.
+Đây cũng là tinh thần chăm sóc sức khoẻ chủ động: không hoảng sợ, không phó mặc, mà ra quyết định dựa trên hoàn cảnh cụ thể của mình. Nếu bạn muốn theo dõi bữa ăn hằng ngày và nhận gợi ý phù hợp với thể trạng riêng, [ứng dụng IKIHEALING](../app.html) làm được việc đó ngay trên điện thoại.
 
 ## Sáu hiểu lầm còn lại về việc rửa rau
 

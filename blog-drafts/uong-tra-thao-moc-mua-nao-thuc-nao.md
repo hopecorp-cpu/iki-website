@@ -10,7 +10,7 @@
   "category_label": "Thói quen & lối sống",
   "date": "2026-09-18",
   "updated": "2026-09-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-tra-thao-moc-mua-nao-thuc-nao-hero.jpg",
   "hero_alt": "Bốn tách trà thảo mộc cho bốn mùa trong năm",
   "reading_min": 15,
@@ -78,7 +78,7 @@ Có ba lý do khiến nếp này tồn tại lâu đến vậy.
 
 **Thứ ba là nguyên tắc thuận mùa trong dưỡng sinh phương Đông.** Đông y có câu "xuân sinh, hạ trưởng, thu thu, đông tàng", nghĩa là mùa xuân nảy nở, mùa hè lớn mạnh, mùa thu thu lại, mùa đông cất giữ. Ăn uống, ngủ nghỉ được khuyên đi theo nhịp đó: mùa nóng ăn thanh đạm, mùa lạnh ăn ấm bụng. Ở đây bài viết chỉ mượn nguyên tắc nếp sống này, không bàn tới việc dùng thảo mộc để trị liệu, vì đó là chuyện của thầy thuốc và cần thăm khám riêng từng người.
 
-Nếu bạn muốn biết cơ thể mình thiên về nóng hay lạnh, thích ấm hay thích mát trước khi chọn vị trà, có thể dành 90 giây làm [bài kiểm tra thể trạng](https://ikihealing.com/quiz) của IKI. Kết quả không thay thế thăm khám, nhưng là một gợi ý để bạn bắt đầu chọn vị hợp mình.
+Nếu bạn muốn biết cơ thể mình thiên về nóng hay lạnh, thích ấm hay thích mát trước khi chọn vị trà, có thể dành 90 giây làm [bài kiểm tra thể trạng](https://ikihealing.com/quiz) của IKIHEALING. Kết quả không thay thế thăm khám, nhưng là một gợi ý để bạn bắt đầu chọn vị hợp mình.
 
 ## Bản đồ bốn mùa và bốn nhóm vị
 
@@ -217,7 +217,7 @@ Nếu bạn đang đọc bài này vào giữa tháng chín, trời miền Bắc
 3. **Cố định một khung giờ.** Chiều muộn hoặc tối sau bữa cơm, mỗi ngày một tách, cùng một giờ. Nếp hình thành từ giờ giấc, không từ số lượng.
 4. **Đổi cách pha khi thời tiết đổi.** Trời lạnh xuống thì nước nóng hơn, hãm lâu hơn. Không cần đổi loại trà ngay.
 
-Trước khi chọn vị, nếu bạn muốn hiểu thêm cơ thể mình đang thiên về nóng hay lạnh, thích ấm hay thích mát, hãy làm [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) của IKI. Kết quả gợi ý nhóm vị và nếp sinh hoạt hợp bạn, và bạn có thể xem trọn bộ trà thảo mộc IKI tại [cửa hàng IKI](https://ikihealing.com/shop/) để chọn một loại cho mùa đang tới.
+Trước khi chọn vị, nếu bạn muốn hiểu thêm cơ thể mình đang thiên về nóng hay lạnh, thích ấm hay thích mát, hãy làm [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) của IKIHEALING. Kết quả gợi ý nhóm vị và nếp sinh hoạt hợp bạn, và bạn có thể xem trọn bộ trà thảo mộc IKIHEALING tại [cửa hàng IKIHEALING](https://ikihealing.com/shop/) để chọn một loại cho mùa đang tới.
 
 ## Nguồn tham khảo
 

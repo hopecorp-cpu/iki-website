@@ -8,7 +8,7 @@
   "category": "Lộ trình chăm sóc sức khoẻ",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lo-trinh-nguoi-moi-hero.jpg",
   "hero_alt": "Người mới bắt đầu hành trình chăm sóc sức khoẻ chủ động",
   "reading_min": 17,
@@ -25,8 +25,8 @@
     {"q": "Người mới nên bắt đầu chăm sóc sức khoẻ từ đâu?", "a": "Từ một thói quen nhỏ, làm được ngay hôm nay — ví dụ uống một cốc nước ấm buổi sáng, đi bộ 15 phút, hoặc ngủ sớm hơn 30 phút. Khi thói quen đầu tiên đã vững, hãy thêm thói quen tiếp theo. Bắt đầu nhỏ và đều quan trọng hơn làm nhiều rồi bỏ."},
     {"q": "Bao lâu thì thấy thay đổi?", "a": "Chăm sóc sức khoẻ chủ động là hành trình dài, không phải liệu trình ngắn hạn. Điều nên kỳ vọng là cảm giác dễ chịu hơn theo thời gian và một nếp sống bền vững, chứ không phải một kết quả tức thì. Mỗi người mỗi khác, hãy tập trung vào sự đều đặn."},
     {"q": "Tôi bận rộn, không có nhiều thời gian thì sao?", "a": "Bạn không cần nhiều thời gian. Những thói quen nền tảng chỉ mất vài phút mỗi ngày: uống đủ nước, ăn chậm hơn, đi bộ ngắn, ngủ đúng giờ. Chăm sóc sức khoẻ chủ động được thiết kế để lồng vào cuộc sống bận rộn, không phải đảo lộn nó."},
-    {"q": "Cần dụng cụ hay chi phí gì để bắt đầu không?", "a": "Không. Những chặng đầu tiên hoàn toàn miễn phí và dựa trên thói quen. Nếu muốn có người đồng hành và gợi ý cá nhân hoá theo thể tạng, bạn có thể dùng App IKI (bản miễn phí) như một công cụ hỗ trợ."},
-    {"q": "Tôi nên tự làm hay cần người hướng dẫn?", "a": "Bạn hoàn toàn có thể tự bắt đầu với lộ trình này. Khi muốn đi sâu và hiểu rõ cơ thể mình hơn, cộng đồng và các khoá học tại Học Viện IKI là nơi bạn có thể học bài bản và có người đồng hành."},
+    {"q": "Cần dụng cụ hay chi phí gì để bắt đầu không?", "a": "Không. Những chặng đầu tiên hoàn toàn miễn phí và dựa trên thói quen. Nếu muốn có người đồng hành và gợi ý cá nhân hoá theo thể tạng, bạn có thể dùng App IKIHEALING (bản miễn phí) như một công cụ hỗ trợ."},
+    {"q": "Tôi nên tự làm hay cần người hướng dẫn?", "a": "Bạn hoàn toàn có thể tự bắt đầu với lộ trình này. Khi muốn đi sâu và hiểu rõ cơ thể mình hơn, cộng đồng và các khoá học tại Học Viện IKIHEALING là nơi bạn có thể học bài bản và có người đồng hành."},
     {"q": "Nên bắt đầu từ mấy chặng cùng lúc?", "a": "Chỉ một. Sai lầm phổ biến nhất của người mới là muốn đổi mọi thứ trong một tuần — ăn sạch, tập nặng, ngủ sớm, bỏ đường cùng lúc — rồi kiệt sức và bỏ hết. Hãy chọn một chặng dễ nhất với bạn, giữ nó cho tới khi thành phản xạ tự nhiên, rồi mới thêm chặng tiếp theo."},
     {"q": "Lỡ bỏ vài ngày thì có phải làm lại từ đầu không?", "a": "Không. Một hai ngày lệch nhịp không xoá đi những gì bạn đã xây. Thứ quyết định là xu hướng của nhiều tuần, không phải sự hoàn hảo của từng ngày. Cách xử lý lành mạnh là quay lại vào ngày hôm sau, nhẹ nhàng, không tự trách."},
     {"q": "Lộ trình này hợp với độ tuổi nào?", "a": "Sáu chặng nền tảng này hợp với hầu hết mọi người mới bắt đầu, ở mọi lứa tuổi. Khi đã quen, bạn có thể xem thêm lộ trình theo từng nhóm tuổi — người trẻ, trung niên hay cao tuổi — để điều chỉnh chi tiết cho phù hợp với giai đoạn của mình."}
@@ -37,7 +37,7 @@
     {"title": "Lộ trình chăm sóc sức khoẻ cho người trẻ (20–35 tuổi)", "url": "lo-trinh-nguoi-tre.html"},
     {"title": "Lộ trình chăm sóc sức khoẻ cho người trung niên (35–55)", "url": "lo-trinh-nguoi-trung-nien.html"},
     {"title": "Lộ trình chăm sóc sức khoẻ cho người cao tuổi (55+)", "url": "lo-trinh-nguoi-cao-tuoi.html"},
-    {"title": "Học Viện IKI — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"}
+    {"title": "Học Viện IKIHEALING — nền tảng tri thức chăm sóc sức khoẻ chủ động", "url": "../hoc-vien.html"}
   ],
   "anh_ai": true
 }
@@ -66,7 +66,7 @@ Chăm sóc sức khoẻ bắt đầu không phải bằng việc *làm gì đó*
 - Giấc ngủ đêm qua sâu hay chập chờn?
 - Bạn uống bao nhiêu nước, và có hay nhầm cơn khát với cơn đói không?
 
-Bạn có thể ghi lại vài dòng mỗi ngày. Việc này nghe đơn giản nhưng cực kỳ quan trọng: nó giúp bạn hiểu *điểm xuất phát* của mình, thay vì áp dụng máy móc lời khuyên của người khác. Đây cũng là lý do [App IKI](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên.
+Bạn có thể ghi lại vài dòng mỗi ngày. Việc này nghe đơn giản nhưng cực kỳ quan trọng: nó giúp bạn hiểu *điểm xuất phát* của mình, thay vì áp dụng máy móc lời khuyên của người khác. Đây cũng là lý do [App IKIHEALING](../app.html) đặt nhật ký sức khoẻ 30 giây làm bước đầu tiên.
 
 **Việc cần làm trong tuần đầu:** mỗi tối trước khi ngủ, dành đúng 30 giây ghi vào ghi chú điện thoại ba điều — hôm nay năng lượng cao hay thấp, bữa nào khiến bạn dễ chịu hoặc khó chịu nhất, và đêm qua ngủ ra sao. Sau bảy ngày, đọc lại. Bạn sẽ ngạc nhiên vì điểm cần chỉnh đầu tiên thường tự hiện lên rất rõ, mà không cần ai chỉ. Với người này đó là giấc ngủ, với người kia là chuyện quên uống nước, với người khác nữa là những bữa ăn vội đầy đồ ngọt. Chính điểm rõ nhất ấy sẽ là nơi bạn ưu tiên ở các chặng sau.
 
@@ -125,7 +125,7 @@ Nếu bạn hay trằn trọc hoặc ngủ chập chờn, bài [Giấc ngủ ch�
 
 Đến đây, bạn đã có nền tảng thói quen. Chặng này giúp bạn *cá nhân hoá* việc chăm sóc. Theo Y học Cổ truyền phương Đông, mỗi người có một xu hướng cơ địa khác nhau — thường được mô tả qua các kiểu như Hàn (thiên lạnh), Nhiệt (thiên nóng), Hư (thiếu, yếu), Thực (dư, tích) và Đàm thấp (nặng nề).
 
-Hiểu xu hướng của mình giúp bạn chọn món ăn, đồ uống và nhịp sinh hoạt phù hợp hơn — thay vì áp một công thức chung. Ví dụ, người thiên hàn hợp với đồ ấm và ít đồ lạnh; người thiên nhiệt thấy dễ chịu với các món mát. Đây chính là điều [Học Viện IKI](../hoc-vien.html) và [Công nghệ IKI](../cong-nghe.html) tập trung vào: giúp bạn hiểu đúng cơ thể mình. Bạn có thể đọc sâu hơn trong bài [Ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html).
+Hiểu xu hướng của mình giúp bạn chọn món ăn, đồ uống và nhịp sinh hoạt phù hợp hơn — thay vì áp một công thức chung. Ví dụ, người thiên hàn hợp với đồ ấm và ít đồ lạnh; người thiên nhiệt thấy dễ chịu với các món mát. Đây chính là điều [Học Viện IKIHEALING](../hoc-vien.html) và [Công nghệ IKIHEALING](../cong-nghe.html) tập trung vào: giúp bạn hiểu đúng cơ thể mình. Bạn có thể đọc sâu hơn trong bài [Ăn theo mùa và thể tạng](an-theo-mua-va-the-tang.html).
 
 Bạn không cần trở thành chuyên gia để bắt đầu. Chỉ cần nối lại những gì đã ghi ở Chặng 1 với vài câu hỏi đơn giản: bạn thường thấy dễ chịu với đồ ăn ấm hay mát; tay chân bạn hay lạnh hay hay nóng; món nào khiến bụng bạn nhẹ nhõm và món nào khiến bạn ậm ạch. Ghi nhận những quan sát này qua vài tuần, một bức tranh khá rõ về cơ thể bạn sẽ dần hiện ra, và việc điều chỉnh bữa ăn hay nhịp sống trở nên tự nhiên hơn nhiều. Hiểu thể tạng không phải để dán nhãn cứng nhắc cho mình, mà để có thêm một chiếc la bàn khi lựa chọn.
 
@@ -169,7 +169,7 @@ Trên đường bắt đầu, có vài quan niệm lệch khiến nhiều ngư�
 
 ## Lộ trình theo từng giai đoạn cuộc đời
 
-Sáu chặng ở trên là nền tảng chung, hợp với hầu hết mọi người mới bắt đầu. Khi đã quen, bạn có thể điều chỉnh chi tiết cho phù hợp với giai đoạn của mình. Cơ thể ở mỗi độ tuổi có nhu cầu riêng, và IKI có sẵn ba lộ trình đi sâu hơn:
+Sáu chặng ở trên là nền tảng chung, hợp với hầu hết mọi người mới bắt đầu. Khi đã quen, bạn có thể điều chỉnh chi tiết cho phù hợp với giai đoạn của mình. Cơ thể ở mỗi độ tuổi có nhu cầu riêng, và IKIHEALING có sẵn ba lộ trình đi sâu hơn:
 
 - Nếu bạn trong độ tuổi 20–35, bận rộn với công việc và hay thức khuya, hãy xem [Lộ trình chăm sóc sức khoẻ cho người trẻ](lo-trinh-nguoi-tre.html) — tập trung vào ăn ngoài khôn ngoan, lồng vận động vào ngày làm và giảm màn hình.
 - Nếu bạn trong độ tuổi 35–55, khi nhịp trao đổi chất của cơ thể dần thay đổi, [Lộ trình chăm sóc sức khoẻ cho người trung niên](lo-trinh-nguoi-trung-nien.html) nói kỹ về dinh dưỡng theo nhịp mới, giữ khối cơ và khám sức khoẻ định kỳ.
@@ -177,8 +177,8 @@ Sáu chặng ở trên là nền tảng chung, hợp với hầu hết mọi ng�
 
 Dù ở giai đoạn nào, nguyên tắc cốt lõi vẫn không đổi: bắt đầu nhỏ, giữ đều, và lắng nghe cơ thể.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Một thành viên trong cộng đồng IKI — chị làm kế toán, ngoài 30 tuổi, có hai con nhỏ — chia sẻ rằng khi mới bắt đầu, chị từng thử rất nhiều "chế độ" khắt khe: cắt hẳn tinh bột, đặt lịch tập mỗi sáng, mua đủ loại nguyên liệu về ép nước. Mỗi đợt như vậy thường chỉ kéo dài vài ngày, vì cứ đến kỳ chốt sổ cuối tháng hay khi con ốm là mọi kế hoạch đổ vỡ, và chị lại tự trách mình "không đủ ý chí". Thay đổi thật sự chỉ đến khi chị buông tham vọng đại tu, bắt đầu từ những việc nhỏ nhất: đặt sẵn cốc nước ấm cạnh máy pha cà phê để uống ngay sau khi thức dậy, đi bộ một vòng quanh khu nhà sau bữa tối cùng con, tắt điện thoại sớm hơn nửa tiếng. Những việc này nhỏ đến mức chị khó tìm được lý do để bỏ, kể cả trong tuần bận nhất. Có tuần chị vẫn lỡ nhịp vài hôm, nhưng thay vì bỏ hẳn như trước, chị chỉ đơn giản quay lại vào ngày hôm sau. Sau vài tháng duy trì, chị chia sẻ rằng điều quý nhất không phải là một con số cụ thể, mà là cảm giác chủ động và nhẹ nhõm hơn với chính cơ thể mình — lần đầu tiên việc chăm sóc bản thân không còn giống một cuộc chiến. *(Câu chuyện được kể lại ẩn danh, mang tính chia sẻ trải nghiệm lối sống, không phải cam kết kết quả sức khoẻ.)*
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
+Một thành viên trong cộng đồng IKIHEALING — chị làm kế toán, ngoài 30 tuổi, có hai con nhỏ — chia sẻ rằng khi mới bắt đầu, chị từng thử rất nhiều "chế độ" khắt khe: cắt hẳn tinh bột, đặt lịch tập mỗi sáng, mua đủ loại nguyên liệu về ép nước. Mỗi đợt như vậy thường chỉ kéo dài vài ngày, vì cứ đến kỳ chốt sổ cuối tháng hay khi con ốm là mọi kế hoạch đổ vỡ, và chị lại tự trách mình "không đủ ý chí". Thay đổi thật sự chỉ đến khi chị buông tham vọng đại tu, bắt đầu từ những việc nhỏ nhất: đặt sẵn cốc nước ấm cạnh máy pha cà phê để uống ngay sau khi thức dậy, đi bộ một vòng quanh khu nhà sau bữa tối cùng con, tắt điện thoại sớm hơn nửa tiếng. Những việc này nhỏ đến mức chị khó tìm được lý do để bỏ, kể cả trong tuần bận nhất. Có tuần chị vẫn lỡ nhịp vài hôm, nhưng thay vì bỏ hẳn như trước, chị chỉ đơn giản quay lại vào ngày hôm sau. Sau vài tháng duy trì, chị chia sẻ rằng điều quý nhất không phải là một con số cụ thể, mà là cảm giác chủ động và nhẹ nhõm hơn với chính cơ thể mình — lần đầu tiên việc chăm sóc bản thân không còn giống một cuộc chiến. *(Câu chuyện được kể lại ẩn danh, mang tính chia sẻ trải nghiệm lối sống, không phải cam kết kết quả sức khoẻ.)*
 :::
 
 :::case Anh N. (28 tuổi) — bắt đầu từ đúng một thói quen
@@ -189,6 +189,6 @@ Anh N. làm kỹ thuật, hay bỏ bữa sáng và uống rất ít nước vì 
 
 Bạn không cần đợi đến thứ Hai, đầu tháng hay năm mới. Hãy chọn **một** việc nhỏ trong Chặng 1 hoặc Chặng 2 và làm ngay hôm nay. Ngày mai, làm lại. Đó là cách mọi hành trình sức khoẻ bền vững bắt đầu — không phải bằng một cú nhảy vọt, mà bằng một bước chân đều đặn.
 
-Nếu bạn muốn đặt bữa sáng vào một buổi sáng trọn vẹn hơn, hãy xem thêm [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html). Và nếu bạn muốn có người đồng hành trên hành trình này, IKI luôn ở đây — với công cụ, cộng đồng và tri thức để giúp bạn hiểu đúng cơ thể mình và chăm sóc chủ động mỗi ngày.
+Nếu bạn muốn đặt bữa sáng vào một buổi sáng trọn vẹn hơn, hãy xem thêm [Thói quen buổi sáng của người sống khoẻ](thoi-quen-buoi-sang.html). Và nếu bạn muốn có người đồng hành trên hành trình này, IKIHEALING luôn ở đây — với công cụ, cộng đồng và tri thức để giúp bạn hiểu đúng cơ thể mình và chăm sóc chủ động mỗi ngày.
 
 > Nội dung trong bài chỉ mang tính tham khảo cho lối sống lành mạnh, không thay thế cho tư vấn, thăm khám của bác sĩ hoặc chuyên gia y tế. Nếu bạn có bệnh lý nền, hãy trao đổi với chuyên gia trước khi thay đổi chế độ sinh hoạt.

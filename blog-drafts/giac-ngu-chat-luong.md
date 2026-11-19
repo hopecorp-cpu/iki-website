@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/giac-ngu-chat-luong-hero.jpg",
   "hero_alt": "Phòng ngủ ấm cúng, ánh đèn vàng dịu, giường gọn gàng gợi cảm giác thư thái trước giờ đi ngủ",
   "reading_min": 15,
@@ -222,7 +222,7 @@ Xung quanh chuyện ngủ có khá nhiều quan niệm phổ biến nhưng chưa
 
 Hiểu đúng giúp bạn tập trung năng lượng vào những thói quen thực sự tạo khác biệt, thay vì đuổi theo các mẹo tạm thời.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 (Nội dung dưới đây được chia sẻ nhằm mục đích tham khảo, không phải lời khuyên y tế và không đại diện cho kết quả của mọi người. Mỗi người có cơ địa và hoàn cảnh khác nhau; nếu bạn có vấn đề sức khỏe, hãy tham khảo ý kiến bác sĩ.)
 
 Một thành viên trong cộng đồng kể rằng chị từng có thói quen mang điện thoại lên giường, vừa nằm vừa lướt cho đến khi mắt díu lại mới thôi. Sáng dậy chị thường thấy đầu óc nặng nề và phải dựa vào cà phê để "khởi động". Sau khi thử điều chỉnh vài thói quen nhỏ, chị bắt đầu đặt điện thoại ở phòng ngoài, cố định giờ đi ngủ và dành khoảng mười lăm phút đọc sách giấy trước khi tắt đèn. Chị chia sẻ rằng cảm giác buổi tối trở nên thư thái hơn và bản thân thấy dễ chịu khi bắt đầu ngày mới. Chị nói vui rằng thay đổi lớn nhất không phải là làm điều gì to tát, mà là kiên nhẫn giữ những thói quen nhỏ mỗi ngày.
@@ -240,6 +240,6 @@ Chăm sóc giấc ngủ chính là một phần rất thực tế của việc c
 
 Nếu bạn đang muốn xây dựng lối sống lành mạnh một cách bài bản, có thể tham khảo thêm [Lộ trình cho người mới bắt đầu (6 chặng)](lo-trinh-cham-soc-suc-khoe-nguoi-moi-bat-dau.html) để có cái nhìn tổng thể, và [Uống nước đúng cách mỗi ngày theo thể tạng](uong-nuoc-dung-cach-moi-ngay.html) để chăm sóc thêm những thói quen căn bản khác trong ngày. Từng bước nhỏ, đều đặn và kiên nhẫn, chính là con đường bền vững nhất để đêm ngon và ngày tỉnh táo.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Theo những gì IKI ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Theo những gì IKIHEALING ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

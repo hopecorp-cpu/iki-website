@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-giau-axit-folic-hero.jpg",
   "hero_alt": "Rau lá xanh đậm, măng tây, các loại đậu và trứng bày trên mặt bàn gỗ",
   "reading_min": 14,
@@ -159,7 +159,7 @@ Thêm vào đó là các loại đậu vài lần mỗi tuần, một quả tr�
 
 Riêng phụ nữ chuẩn bị mang thai hoặc đang mang thai, hãy trao đổi với bác sĩ sản khoa về việc bổ sung, vì đây là nhóm mà nhu cầu và thời điểm bổ sung đều quan trọng. Còn với mọi người khác, hãy bắt đầu từ bữa tối hôm nay: thêm một đĩa rau xanh đậm, hấp hoặc luộc nhanh, và giữ lại nước luộc.
 
-Bạn có thể ghi lại bữa ăn hằng ngày trong [App IKI](../app.html) để sau một tuần nhìn ra mình đang thiếu nhóm nào, hoặc bắt đầu bằng [bài kiểm tra thể trạng 90 giây](../quiz/) nếu muốn một điểm khởi đầu rõ ràng hơn.
+Bạn có thể ghi lại bữa ăn hằng ngày trong [App IKIHEALING](../app.html) để sau một tuần nhìn ra mình đang thiếu nhóm nào, hoặc bắt đầu bằng [bài kiểm tra thể trạng 90 giây](../quiz/) nếu muốn một điểm khởi đầu rõ ràng hơn.
 
 ## Nguồn tham khảo
 

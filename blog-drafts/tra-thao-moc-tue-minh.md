@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-thao-moc-tue-minh-hero.jpg",
   "hero_alt": "Trà thảo mộc uống ấm mỗi ngày",
   "reading_min": 13,
@@ -109,7 +109,7 @@ Nhìn chung, không có nhóm nào "đúng" cho tất cả mọi người. Lựa
 
 ## Trà Tuệ Minh — một lựa chọn thảo mộc Việt cho nếp uống ấm
 
-![Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKI](../assets/san-pham/tra-tue-minh.jpg)
+![Hộp Trà Tuệ Minh trà thảo mộc túi lọc 30 gói của IKIHEALING](../assets/san-pham/tra-tue-minh.jpg)
 
 Xem [thông tin đầy đủ về Trà Tuệ Minh](../san-pham/tra-tue-minh.html): thành phần, quy cách, cách pha đúng nhiệt độ và giá niêm yết.
 
@@ -132,8 +132,8 @@ Một tách trà thảo mộc chỉ thực sự có ý nghĩa khi nó trở thà
 4. **Luân phiên các loại.** Đổi vị theo mùa và tâm trạng giúp thói quen không nhàm chán. Ngày lạnh chọn vị ấm nồng, ngày oi chọn vị thanh mát nhẹ.
 5. **Lắng nghe cơ thể.** Mỗi người hợp một kiểu khác nhau. Nếu thấy một loại trà không dễ chịu với mình, hãy đổi loại khác; và nếu có bệnh nền, hãy hỏi ý kiến bác sĩ trước khi dùng đều đặn. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp uống ấm nào hợp với mình.
 
-:::case Cảm nhận từ cộng đồng IKI (ẩn danh)
-Chị N., 45 tuổi, làm kế toán ở Hải Dương, kể rằng nhiều năm liền thức uống quen thuộc của chị là cà phê sữa buổi sáng và nước đá suốt cả ngày, một phần vì văn phòng lúc nào cũng có sẵn bình nước lạnh. Mỗi tối về nhà, chị thấy mình "chạy" từ việc cơ quan sang việc nhà mà không có lấy một khoảng nghỉ đúng nghĩa. Khi tham gia cộng đồng IKI, chị bắt đầu từ một thay đổi rất nhỏ: chuyển sang ăn uống đồ ấm, tránh đồ lạnh, đặc biệt vào buổi sáng và buổi tối. Chị sắm một bình giữ nhiệt để trên bàn làm việc, sáng rót nước ấm mang theo, tối sau khi dọn dẹp xong thì hãm một tách trà thảo mộc, ngồi uống chậm rãi chừng mười phút trước khi nghỉ. Có hôm bận quá quên mất, chị cũng không tự trách, hôm sau lại quay về nếp cũ. Dần dần, cả nhà quen với hình ảnh chị ngồi bên tách trà bốc khói ở góc bếp mỗi tối. Điều chị tâm đắc nhất không phải là một loại trà cụ thể, mà là cảm giác dễ chịu khi giữ được nếp uống ấm đều đặn, và khoảnh khắc yên tĩnh hiếm hoi mà tách trà mang lại giữa một ngày bận rộn. Chị bảo tách trà tối giờ giống như một "dấu chấm xuống dòng" cho ngày của mình. (Đây là trải nghiệm cá nhân về thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau ở mỗi người.)
+:::case Cảm nhận từ cộng đồng IKIHEALING (ẩn danh)
+Chị N., 45 tuổi, làm kế toán ở Hải Dương, kể rằng nhiều năm liền thức uống quen thuộc của chị là cà phê sữa buổi sáng và nước đá suốt cả ngày, một phần vì văn phòng lúc nào cũng có sẵn bình nước lạnh. Mỗi tối về nhà, chị thấy mình "chạy" từ việc cơ quan sang việc nhà mà không có lấy một khoảng nghỉ đúng nghĩa. Khi tham gia cộng đồng IKIHEALING, chị bắt đầu từ một thay đổi rất nhỏ: chuyển sang ăn uống đồ ấm, tránh đồ lạnh, đặc biệt vào buổi sáng và buổi tối. Chị sắm một bình giữ nhiệt để trên bàn làm việc, sáng rót nước ấm mang theo, tối sau khi dọn dẹp xong thì hãm một tách trà thảo mộc, ngồi uống chậm rãi chừng mười phút trước khi nghỉ. Có hôm bận quá quên mất, chị cũng không tự trách, hôm sau lại quay về nếp cũ. Dần dần, cả nhà quen với hình ảnh chị ngồi bên tách trà bốc khói ở góc bếp mỗi tối. Điều chị tâm đắc nhất không phải là một loại trà cụ thể, mà là cảm giác dễ chịu khi giữ được nếp uống ấm đều đặn, và khoảnh khắc yên tĩnh hiếm hoi mà tách trà mang lại giữa một ngày bận rộn. Chị bảo tách trà tối giờ giống như một "dấu chấm xuống dòng" cho ngày của mình. (Đây là trải nghiệm cá nhân về thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau ở mỗi người.)
 :::
 
 ## Câu hỏi thường gặp khi chọn mua trà thảo mộc
@@ -154,6 +154,6 @@ Chọn một loại trà thảo mộc để uống đều mỗi ngày, suy cho c
 
 Nếu bạn thích một thức uống thảo mộc ấm với các vị Việt truyền thống, [Trà Tuệ Minh](https://tra.ikihealing.com) là một lựa chọn đáng thử cho nếp uống ấm thư thái. Nhưng dù chọn loại nào, hãy nhớ điều quan trọng nhất nằm ở chính khoảnh khắc bạn dừng lại, pha một tách trà và cho mình vài phút chậm lại. Đó là một cách giản dị để chăm sóc bản thân giữa nhịp sống bận rộn. Muốn hiểu thêm về thói quen uống ấm nói chung, bạn có thể đọc bài [Thức uống ấm mỗi ngày và trà thảo mộc](thuc-uong-am-tra-thao-moc.html).
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Theo những gì IKI ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Theo những gì IKIHEALING ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

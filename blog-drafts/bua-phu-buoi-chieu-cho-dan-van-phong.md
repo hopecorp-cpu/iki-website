@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bua-phu-buoi-chieu-cho-dan-van-phong-hero.jpg",
   "hero_alt": "Đĩa nhỏ đựng các loại hạt và một cốc nước đặt cạnh sổ tay trên bàn làm việc buổi chiều",
   "reading_min": 14,

@@ -8,7 +8,7 @@
   "category": "Kiến thức thực phẩm",
   "date": "2026-08-14",
   "updated": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-bao-nhieu-hat-moi-ngay-la-du-hero.jpg",
   "hero_alt": "Bát sứ nhỏ đựng hỗn hợp hạnh nhân, óc chó và hạt điều bên chiếc thìa gỗ",
   "reading_min": 14,
@@ -152,7 +152,7 @@ Bạn không cần thay đổi cả thực đơn. Một tuần với những bư
 Thứ đáng giữ lại sau bảy ngày không phải con số 28g, mà là **thói quen lấy ra một phần rồi cất gói đi**. Đó là thay đổi nhỏ nhưng quyết định gần như toàn bộ câu chuyện.
 
 :::note Ghép hạt vào một nhịp sống lớn hơn
-Một nắm hạt mỗi ngày chỉ là một mảnh trong bức tranh. Bức tranh đầy đủ gồm bữa ăn cân đối, giấc ngủ đủ, vận động nhẹ đều đặn và biết cơ địa mình hợp gì. Nếu bạn muốn một điểm khởi đầu có hệ thống thay vì góp nhặt từng mẹo lẻ, hãy [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để nhận bản gợi ý theo thể tạng, hoặc theo dõi các chỉ số ăn uống hằng ngày cùng [App IKI](https://ikihealing.com/app.html).
+Một nắm hạt mỗi ngày chỉ là một mảnh trong bức tranh. Bức tranh đầy đủ gồm bữa ăn cân đối, giấc ngủ đủ, vận động nhẹ đều đặn và biết cơ địa mình hợp gì. Nếu bạn muốn một điểm khởi đầu có hệ thống thay vì góp nhặt từng mẹo lẻ, hãy [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để nhận bản gợi ý theo thể tạng, hoặc theo dõi các chỉ số ăn uống hằng ngày cùng [App IKIHEALING](https://ikihealing.com/app.html).
 :::
 
 ## Những hiểu lầm hay gặp về hạt

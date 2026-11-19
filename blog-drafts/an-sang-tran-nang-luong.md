@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-sang-tran-nang-luong-hero.jpg",
   "hero_alt": "Bàn ăn sáng lành mạnh kiểu Việt với cháo yến mạch, trứng, rau xanh và trái cây tươi",
   "reading_min": 14,
@@ -185,8 +185,8 @@ Quanh chuyện ăn sáng có không ít quan niệm lệch lạc khiến nhiều
 
 Hiểu đúng về bữa sáng giúp bạn ra quyết định tự tin hơn, thay vì chạy theo những lời khuyên truyền miệng thiếu cơ sở.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị M., 29 tuổi, nhân viên văn phòng ở Hà Nội, từng có thói quen bỏ bữa sáng suốt nhiều năm vì "quen rồi và không thấy đói". Đến giữa buổi, chị thường mệt, khó tập trung và hay với tay lấy bánh ngọt cùng trà sữa để chống đói. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị bắt đầu thử một bữa sáng đơn giản mỗi ngày: yến mạch ngâm qua đêm với sữa chua, chuối và ít hạt, chuẩn bị sẵn từ tối. Vài tuần sau, chị chia sẻ rằng buổi sáng của mình cảm thấy nhẹ nhàng và dễ chịu hơn, ít cồn cào giữa buổi và thói quen ăn vặt tùy tiện cũng giảm bớt. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
+Chị M., 29 tuổi, nhân viên văn phòng ở Hà Nội, từng có thói quen bỏ bữa sáng suốt nhiều năm vì "quen rồi và không thấy đói". Đến giữa buổi, chị thường mệt, khó tập trung và hay với tay lấy bánh ngọt cùng trà sữa để chống đói. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKIHEALING, chị bắt đầu thử một bữa sáng đơn giản mỗi ngày: yến mạch ngâm qua đêm với sữa chua, chuối và ít hạt, chuẩn bị sẵn từ tối. Vài tuần sau, chị chia sẻ rằng buổi sáng của mình cảm thấy nhẹ nhàng và dễ chịu hơn, ít cồn cào giữa buổi và thói quen ăn vặt tùy tiện cũng giảm bớt. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Chị Th. (Quảng Nam) — kiên trì với một bữa sáng đủ đạm

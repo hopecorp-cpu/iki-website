@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-09-08",
   "updated": "2026-09-08",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cang-thang-anh-huong-lan-da-hero.jpg",
   "hero_alt": "Cuốn sổ mở và một tách trà trên bàn gỗ dưới ánh đèn bàn ấm buổi tối",
   "reading_min": 13,

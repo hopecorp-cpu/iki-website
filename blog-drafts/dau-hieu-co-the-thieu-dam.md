@@ -8,9 +8,9 @@
   "category": "dinh-duong",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dau-hieu-co-the-thieu-dam-hero.jpg",
-  "hero_alt": "Nền thương hiệu IKI cho bài viết về dấu hiệu cơ thể thiếu đạm",
+  "hero_alt": "Nền thương hiệu IKIHEALING cho bài viết về dấu hiệu cơ thể thiếu đạm",
   "reading_min": 14,
   "answer": "Dấu hiệu cơ thể thiếu đạm thường gặp gồm: mệt mỏi kéo dài, hay đói dù mới ăn, tóc yếu và rụng nhiều, móng giòn, da khô, vết thương lâu lành, dễ ốm vặt, khối cơ giảm và người thấy yếu sức, phù nhẹ ở tay chân, và tâm trạng thất thường khó tập trung. Ở người Việt, nguyên nhân thường không phải ăn quá ít đạm tổng thể mà là ăn lệch — bữa sáng và bữa trưa gần như không có đạm, dồn hết vào bữa tối.",
   "faq": [
@@ -47,7 +47,7 @@ Nếu tinh bột và chất béo là nhiên liệu, thì đạm là vật liệu
 
 Cơ thể không có kho dự trữ đạm như kho mỡ. Khi khẩu phần thiếu, nó buộc phải lấy từ nơi có sẵn — chủ yếu là cơ bắp — để phục vụ những chức năng sống còn hơn. Đó là lý do các dấu hiệu thiếu đạm xuất hiện ở nhiều nơi cùng lúc và thường bắt đầu từ những chỗ ít cấp thiết nhất: tóc, móng, da.
 
-:::note Số liệu thực tế từ cộng đồng IKI
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
 Trong 660 cuộc tư vấn mà khách chủ động nêu vấn đề (kỳ tính đến đầu tháng 8/2026), **ăn chay và nguồn đạm là mối quan tâm được nêu ở 8% số cuộc** (n = 55). Xem đầy đủ trong [Báo cáo bản đồ quan tâm sức khoẻ 2026](bao-cao-ban-do-quan-tam-suc-khoe-2026.html).
 :::
 
@@ -246,7 +246,7 @@ Ba việc đáng làm ngay:
 2. **Sửa bữa sáng trước**, vì đây gần như luôn là bữa thiếu nhất.
 3. **Chia đều thay vì dồn**, vì phân bố quan trọng không kém tổng lượng.
 
-Nếu chỉ chọn một việc cho tuần này, hãy chọn việc thứ hai. Thêm một phần đạm vào bữa sáng là thay đổi nhỏ nhất nhưng cho cảm nhận rõ nhất trong thời gian ngắn nhất. Muốn theo dõi thay đổi có thật hay không, [app IKI](https://ikihealing.com/app.html) cho phép ghi nhanh bữa ăn và xem lại xu hướng theo tuần.
+Nếu chỉ chọn một việc cho tuần này, hãy chọn việc thứ hai. Thêm một phần đạm vào bữa sáng là thay đổi nhỏ nhất nhưng cho cảm nhận rõ nhất trong thời gian ngắn nhất. Muốn theo dõi thay đổi có thật hay không, [app IKIHEALING](https://ikihealing.com/app.html) cho phép ghi nhanh bữa ăn và xem lại xu hướng theo tuần.
 
 ## Nguồn tham khảo
 

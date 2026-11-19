@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-07",
   "updated": "2026-08-07",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nuoc-ham-xuong-co-bo-khong-hero.jpg",
   "hero_alt": "Nồi nước dùng trong đang bốc khói trên bếp bên rau thơm",
   "reading_min": 13,
@@ -175,7 +175,7 @@ Vậy nên cách nhìn cân bằng nhất là: giữ nồi nước dùng như m�
 - **Nấu cho nhẹ**: chần xương, lửa nhỏ, hầm 1 đến 2 giờ, vớt mỡ, nêm nhạt.
 - **Một số nhóm cần hạn chế** nước dùng đặc và nên hỏi bác sĩ về khẩu phần của mình.
 
-Nếu bạn muốn xây một khẩu phần cân đối cho cả nhà thay vì trông cậy vào một món duy nhất, [App IKI](../app.html) có phần nhật ký bữa ăn 30 giây để bạn nhìn ra bức tranh cả tuần, và bài [kiểm tra thể trạng](../quiz/) sẽ cho bạn điểm khởi đầu phù hợp với chính mình.
+Nếu bạn muốn xây một khẩu phần cân đối cho cả nhà thay vì trông cậy vào một món duy nhất, [App IKIHEALING](../app.html) có phần nhật ký bữa ăn 30 giây để bạn nhìn ra bức tranh cả tuần, và bài [kiểm tra thể trạng](../quiz/) sẽ cho bạn điểm khởi đầu phù hợp với chính mình.
 
 ## Nguồn tham khảo
 

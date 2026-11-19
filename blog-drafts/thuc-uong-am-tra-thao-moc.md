@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-uong-am-tra-thao-moc-hero.jpg",
   "hero_alt": "Tách trà thảo mộc ấm",
   "reading_min": 14,
@@ -156,12 +156,12 @@ Quanh chuyện trà thảo mộc có không ít quan niệm dễ gây nhầm l�
 
 Hiểu đúng về trà thảo mộc giúp bạn tận hưởng nó một cách thoải mái và an tâm, thay vì kỳ vọng sai lệch rồi thất vọng.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị M., 34 tuổi, làm kế toán cho một công ty xây dựng, từng có thói quen uống nước ngọt và trà sữa gần như mỗi ngày để "tỉnh táo" giữa buổi chiều, nhất là vào mùa quyết toán khi chị ngồi lì với bảng số liệu từ sáng đến tối. Chị hay thấy người nặng nề, buổi tối lại khó thư giãn vì tâm trí cứ chạy theo những con số chưa khớp. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị thử một thay đổi nhỏ: để hẳn một chiếc cốc giữ nhiệt trên bàn làm việc, sáng rót nước ấm mang theo, còn ly trà sữa chiều thì thay bằng một tách trà thảo mộc nhạt, không đường. Ban đầu chị thấy thiêu thiếu, có hôm vẫn "phá lệ", nhưng chị không tự trách mà hôm sau quay lại nếp cũ. Điều bất ngờ với chị là chính vài phút đứng dậy hãm trà lại thành một quãng nghỉ ngắn giữa giờ mà trước đây chị không hề có. Vài tuần sau, chị chia sẻ rằng mình thấy nhẹ bụng hơn, buổi tối dễ chịu và thư thái hơn, và cái cảm giác "phải có gì đó ngọt mới qua được buổi chiều" cũng dịu bớt. (Đây là trải nghiệm cá nhân về thay đổi thói quen uống, đã được ẩn danh, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
+Chị M., 34 tuổi, làm kế toán cho một công ty xây dựng, từng có thói quen uống nước ngọt và trà sữa gần như mỗi ngày để "tỉnh táo" giữa buổi chiều, nhất là vào mùa quyết toán khi chị ngồi lì với bảng số liệu từ sáng đến tối. Chị hay thấy người nặng nề, buổi tối lại khó thư giãn vì tâm trí cứ chạy theo những con số chưa khớp. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKIHEALING, chị thử một thay đổi nhỏ: để hẳn một chiếc cốc giữ nhiệt trên bàn làm việc, sáng rót nước ấm mang theo, còn ly trà sữa chiều thì thay bằng một tách trà thảo mộc nhạt, không đường. Ban đầu chị thấy thiêu thiếu, có hôm vẫn "phá lệ", nhưng chị không tự trách mà hôm sau quay lại nếp cũ. Điều bất ngờ với chị là chính vài phút đứng dậy hãm trà lại thành một quãng nghỉ ngắn giữa giờ mà trước đây chị không hề có. Vài tuần sau, chị chia sẻ rằng mình thấy nhẹ bụng hơn, buổi tối dễ chịu và thư thái hơn, và cái cảm giác "phải có gì đó ngọt mới qua được buổi chiều" cũng dịu bớt. (Đây là trải nghiệm cá nhân về thay đổi thói quen uống, đã được ẩn danh, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Anh T. (Hải Phòng) — một tách trà ấm cho buổi tối chậm lại
-Anh T., 47 tuổi, mở một cửa hàng vật liệu xây dựng ở Hải Phòng, kể rằng buổi tối của anh trước đây thường trôi qua trong tình trạng vừa ăn khuya vừa xem điện thoại: đóng cửa hàng lúc bảy tám giờ, về đến nhà là ăn vội bát cơm nguội hoặc gọi đồ ăn khuya, rồi nằm lướt tin tức đến tận nửa đêm. Người anh lúc nào cũng thấy nặng và khó thả lỏng, sáng dậy thì uể oải dù chẳng làm gì nặng nhọc. Nghe một người bạn trong cộng đồng IKI kể về nếp uống ấm buổi tối, anh bắt đầu thay đổi bằng một việc duy nhất: sau bữa tối chừng nửa tiếng, anh pha một tách trà thảo mộc ấm, tắt bớt đèn, ngồi uống từ tốn và không cầm điện thoại trong mười phút. Có hôm vợ anh cũng ngồi uống cùng, hai vợ chồng nói dăm ba câu chuyện trong ngày, điều mà trước đây hiếm khi có. Anh cũng nhân tiện lùi giờ ăn tối sớm hơn để không còn cảnh ăn khuya sát giờ ngủ. Sau khoảng hai tháng giữ nếp này, điều anh thấy rõ nhất là buổi tối của mình chậm lại và dễ chịu hơn, người bớt cảm giác ì ạch và tinh thần thư thái hơn trước giờ đi ngủ. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, đã được ẩn danh, là kết quả của cả một nếp sống điều độ hơn; không phải lời khuyên y khoa hay cam kết về sức khỏe, và cảm nhận có thể khác nhau tùy mỗi người.)
+Anh T., 47 tuổi, mở một cửa hàng vật liệu xây dựng ở Hải Phòng, kể rằng buổi tối của anh trước đây thường trôi qua trong tình trạng vừa ăn khuya vừa xem điện thoại: đóng cửa hàng lúc bảy tám giờ, về đến nhà là ăn vội bát cơm nguội hoặc gọi đồ ăn khuya, rồi nằm lướt tin tức đến tận nửa đêm. Người anh lúc nào cũng thấy nặng và khó thả lỏng, sáng dậy thì uể oải dù chẳng làm gì nặng nhọc. Nghe một người bạn trong cộng đồng IKIHEALING kể về nếp uống ấm buổi tối, anh bắt đầu thay đổi bằng một việc duy nhất: sau bữa tối chừng nửa tiếng, anh pha một tách trà thảo mộc ấm, tắt bớt đèn, ngồi uống từ tốn và không cầm điện thoại trong mười phút. Có hôm vợ anh cũng ngồi uống cùng, hai vợ chồng nói dăm ba câu chuyện trong ngày, điều mà trước đây hiếm khi có. Anh cũng nhân tiện lùi giờ ăn tối sớm hơn để không còn cảnh ăn khuya sát giờ ngủ. Sau khoảng hai tháng giữ nếp này, điều anh thấy rõ nhất là buổi tối của mình chậm lại và dễ chịu hơn, người bớt cảm giác ì ạch và tinh thần thư thái hơn trước giờ đi ngủ. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, đã được ẩn danh, là kết quả của cả một nếp sống điều độ hơn; không phải lời khuyên y khoa hay cam kết về sức khỏe, và cảm nhận có thể khác nhau tùy mỗi người.)
 :::
 
 ## Kết
@@ -170,6 +170,6 @@ Một nếp uống ấm mỗi ngày và một tách trà thảo mộc nhẹ là 
 
 Hãy bắt đầu từ một thay đổi nhỏ ngay ngày mai. Có thể là rót một cốc nước ấm thay vì với ngay điện thoại buổi sáng, hoặc thay ly nước ngọt chiều bằng một tách trà thảo mộc không đường. Những bước nhỏ đều đặn này, cộng với thói quen ăn uống cân bằng và ngủ đủ, chính là cách bạn chăm sóc bản thân mỗi ngày. Nếu muốn đặt nếp uống này vào một buổi tối trọn vẹn hơn, bạn có thể xem thêm bài [Giấc ngủ chất lượng: thói quen cho đêm ngon, ngày tỉnh táo](giac-ngu-chat-luong.html) để một tách trà ấm trở thành phần mở đầu cho giấc ngủ dễ chịu.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Theo những gì IKI ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Theo những gì IKIHEALING ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

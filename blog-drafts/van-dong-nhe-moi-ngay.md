@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/van-dong-nhe-moi-ngay-hero.jpg",
   "hero_alt": "Người phụ nữ đi bộ thư thái trên con đường có nắng sớm và cây xanh hai bên",
   "reading_min": 14,
@@ -209,7 +209,7 @@ Bắt đầu thì dễ, duy trì mới là phần khó. Đây là nơi rất nhi
 
 **Tha thứ cho bản thân và quay lại.** Nghỉ một tuần vì ốm hay bận không có nghĩa là "hỏng hết rồi". Thói quen không phải chuyện hoàn hảo, mà là chuyện quay lại. Chỉ cần bước ra cửa lần nữa, bạn đã tiếp tục hành trình.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Chị B., 41 tuổi, một giáo viên tiểu học trong cộng đồng chăm sóc sức khoẻ chủ động, chia sẻ rằng chị từng nghĩ mình "không có gen thể thao". Sau nhiều lần đăng ký phòng tập rồi bỏ, chị quyết định thử điều nhỏ nhất: mỗi tối sau bữa cơm, chị đi bộ quanh khu nhà đúng 10 phút. Ban đầu chỉ là để không phải cảm thấy có lỗi. Vài tuần sau, 10 phút thành 20, rồi chị bắt đầu mong đến buổi tối để được ra ngoài hít thở, đầu óc nhẹ nhõm hơn hẳn. Điều chị tâm đắc nhất không phải là đi được bao xa, mà là chị đã tìm ra cách gắn bó với một thói quen thay vì lại bỏ dở. *(Đây là trải nghiệm cá nhân được chia sẻ với sự đồng ý, mang tính tham khảo, không phản ánh kết quả của mọi người. Cảm nhận và tình trạng mỗi người mỗi khác; nếu bạn có bệnh nền hãy hỏi ý kiến bác sĩ trước khi bắt đầu tập luyện.)*
 :::
 

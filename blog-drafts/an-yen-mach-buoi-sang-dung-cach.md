@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-04",
   "updated": "2026-08-04",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-yen-mach-buoi-sang-dung-cach-hero.jpg",
   "hero_alt": "Bát cháo yến mạch với chuối và các loại hạt trên bàn ăn sáng",
   "reading_min": 13,
@@ -148,7 +148,7 @@ Cùng một bát yến mạch nhưng cách phối hợp nên khác nhau tuỳ v�
 
 **Bảo quản đúng cách.** Yến mạch khô nên để trong hũ kín, nơi khô ráo, tránh ánh nắng trực tiếp. Khí hậu ẩm của Việt Nam khiến yến mạch để trong bao mở dễ bị ẩm mốc, và một mẻ yến mạch có mùi lạ thì nên bỏ chứ đừng tiếc.
 
-Việc theo dõi xem một thói quen mới có thực sự phù hợp với mình hay không cần vài tuần quan sát — thứ rất khó nhớ chính xác bằng trí nhớ. [App IKI](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày để bạn nhìn được xu hướng của chính mình, thay vì kết luận vội sau hai ba hôm.
+Việc theo dõi xem một thói quen mới có thực sự phù hợp với mình hay không cần vài tuần quan sát — thứ rất khó nhớ chính xác bằng trí nhớ. [App IKIHEALING](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày để bạn nhìn được xu hướng của chính mình, thay vì kết luận vội sau hai ba hôm.
 
 ## Tổng kết
 

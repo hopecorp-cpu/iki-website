@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-gi-de-tang-suc-de-khang-cho-nguoi-lon-hero.jpg",
   "hero_alt": "Mâm thực phẩm giao mùa gồm rau lá xanh, cam quýt, gừng và các loại hạt",
   "reading_min": 14,
@@ -170,7 +170,7 @@ Vài mẹo giữ chi phí thấp mà không hụt chất:
 
 Cách bền vững nhất là chọn hai đến ba thay đổi nhỏ, làm đều trong bốn tuần rồi nhìn lại. Ví dụ: thêm đạm vào bữa sáng, thêm một phần rau vào bữa tối, ngủ trước 23h. Sau bốn tuần, tự trả lời vài câu: mình có còn uể oải giữa buổi không, giấc ngủ có sâu hơn không, tháng này có bị cảm vặt lần nào không.
 
-Cách này thực tế hơn nhiều so với việc mua một hộp gì đó rồi chờ cảm giác "khoẻ lên" mơ hồ. Nếu muốn theo dõi có hệ thống hơn, [App IKI](https://ikihealing.com/app.html) ghi lại bữa ăn, giấc ngủ và mức năng lượng theo ngày rồi tổng hợp thành xu hướng theo tuần, để bạn nhìn được thay đổi thật thay vì dựa vào trí nhớ.
+Cách này thực tế hơn nhiều so với việc mua một hộp gì đó rồi chờ cảm giác "khoẻ lên" mơ hồ. Nếu muốn theo dõi có hệ thống hơn, [App IKIHEALING](https://ikihealing.com/app.html) ghi lại bữa ăn, giấc ngủ và mức năng lượng theo ngày rồi tổng hợp thành xu hướng theo tuần, để bạn nhìn được thay đổi thật thay vì dựa vào trí nhớ.
 
 Còn nếu bạn chưa biết cơ địa mình hợp món ấm hay món mát, tiêu hoá nhanh hay chậm — thứ quyết định thực đơn nào hợp với bạn — hãy bắt đầu bằng bản [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) miễn phí để có điểm xuất phát rõ ràng.
 

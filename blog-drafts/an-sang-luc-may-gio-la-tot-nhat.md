@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-20",
   "updated": "2026-08-20",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-sang-luc-may-gio-la-tot-nhat-hero.jpg",
   "hero_alt": "Bàn ăn sáng bên cửa sổ với ánh nắng sớm",
   "reading_min": 14,
@@ -31,7 +31,7 @@
   "anh_ai": true
 }
 ---
-Câu hỏi "ăn sáng lúc mấy giờ là tốt nhất" nghe có vẻ nhỏ, nhưng nó là câu hỏi mở đầu cho cả một ngày. Cùng một bát phở, ăn lúc 6h30 và ăn lúc 10h là hai câu chuyện hoàn toàn khác nhau: một bên đưa bạn êm ái vào buổi sáng làm việc, một bên khiến bạn vật vờ suốt ba tiếng rồi lại chẳng buồn đụng đến bữa trưa. Trong các buổi trò chuyện với người dùng IKI, chúng tôi nhận thấy phần lớn những than phiền quen thuộc như "sáng nào cũng uể oải", "chưa tới trưa đã đói cồn cào", "trưa ăn không nổi mà chiều lại thèm ngọt" đều có gốc rễ ở giờ ăn sáng chứ không phải ở món ăn sáng.
+Câu hỏi "ăn sáng lúc mấy giờ là tốt nhất" nghe có vẻ nhỏ, nhưng nó là câu hỏi mở đầu cho cả một ngày. Cùng một bát phở, ăn lúc 6h30 và ăn lúc 10h là hai câu chuyện hoàn toàn khác nhau: một bên đưa bạn êm ái vào buổi sáng làm việc, một bên khiến bạn vật vờ suốt ba tiếng rồi lại chẳng buồn đụng đến bữa trưa. Trong các buổi trò chuyện với người dùng IKIHEALING, chúng tôi nhận thấy phần lớn những than phiền quen thuộc như "sáng nào cũng uể oải", "chưa tới trưa đã đói cồn cào", "trưa ăn không nổi mà chiều lại thèm ngọt" đều có gốc rễ ở giờ ăn sáng chứ không phải ở món ăn sáng.
 
 Bài viết này sẽ trả lời câu hỏi giờ giấc một cách cụ thể: khung giờ nào được nhắc đến nhiều nhất và vì sao, quy tắc "một giờ sau khi thức dậy" nên hiểu thế nào, giờ ăn sáng cần khác đi ra sao với người dậy sớm, dân văn phòng, học sinh và người làm ca đêm, và điều gì cần sửa khi bạn ăn sáng đúng giờ mà vẫn đói sớm.
 
@@ -153,7 +153,7 @@ Ba gợi ý thực hành theo hướng này, dễ áp dụng ngay:
 - Ưu tiên món ấm cho bữa đầu ngày, để đồ lạnh vào các bữa sau.
 - Ăn chậm hơn bình thường một chút; bữa sáng là bữa hay bị nuốt vội nhất trong ngày.
 
-Nếu bạn muốn hiểu nền thể trạng của mình nghiêng về nóng hay lạnh để chọn kiểu bữa sáng phù hợp hơn, bài kiểm tra ở [phần khảo sát thể trạng của IKI](https://ikihealing.com/quiz) đưa ra gợi ý cá nhân hoá thay vì một công thức chung cho tất cả.
+Nếu bạn muốn hiểu nền thể trạng của mình nghiêng về nóng hay lạnh để chọn kiểu bữa sáng phù hợp hơn, bài kiểm tra ở [phần khảo sát thể trạng của IKIHEALING](https://ikihealing.com/quiz) đưa ra gợi ý cá nhân hoá thay vì một công thức chung cho tất cả.
 
 ## Bảy ngày để dời giờ ăn sáng về đúng nhịp
 

@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-09-09",
   "updated": "2026-09-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-thao-moc-cho-phu-nu-hero.jpg",
   "hero_alt": "Khay trà thảo mộc buổi chiều tối bên cửa sổ",
   "reading_min": 14,
@@ -96,7 +96,7 @@ Trên hộp có ghi rõ *từng* thành phần không, hay chỉ ghi chung chung
 
 Buổi sáng của phần lớn phụ nữ đi làm không có nhiều thời gian. Thứ cần ở khung giờ này là một thức uống ấm, dễ chuẩn bị, giúp bạn tỉnh táo mà không làm bụng khó chịu khi chưa ăn gì nhiều.
 
-**Nếu bạn hợp caffeine:** trà xanh là lựa chọn quen thuộc và nhẹ nhàng hơn cà phê đặc. Một số người thấy trà xanh cho cảm giác tỉnh táo êm hơn, ít bị hẫng giữa buổi. Nếu bạn đang muốn giảm bớt cà phê nhưng chưa muốn bỏ hẳn, chúng tôi có một bài riêng gợi ý các phương án chuyển tiếp ở [uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html). Với người vẫn muốn giữ cà phê nhưng đổi sang loại nguyên chất hơn, [bột cà phê trong cửa hàng IKI](https://ikihealing.com/shop/) là một lựa chọn robusta để bạn tham khảo.
+**Nếu bạn hợp caffeine:** trà xanh là lựa chọn quen thuộc và nhẹ nhàng hơn cà phê đặc. Một số người thấy trà xanh cho cảm giác tỉnh táo êm hơn, ít bị hẫng giữa buổi. Nếu bạn đang muốn giảm bớt cà phê nhưng chưa muốn bỏ hẳn, chúng tôi có một bài riêng gợi ý các phương án chuyển tiếp ở [uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html). Với người vẫn muốn giữ cà phê nhưng đổi sang loại nguyên chất hơn, [bột cà phê trong cửa hàng IKIHEALING](https://ikihealing.com/shop/) là một lựa chọn robusta để bạn tham khảo.
 
 **Nếu bạn không hợp caffeine buổi sáng sớm:** một cốc nước gừng ấm là cách khởi động rất Việt Nam và rất rẻ. Vị cay ấm hợp với những buổi sáng trời lạnh hoặc những hôm bạn dậy còn uể oải. Cách pha và lượng dùng hợp lý chúng tôi đã viết ở [uống nước gừng ấm buổi sáng](uong-nuoc-gung-am-buoi-sang.html).
 
@@ -187,7 +187,7 @@ Cuối cùng là câu hỏi thực tế: có nhất thiết phải mua trà đó
 
 Không nhất thiết. Trà tự pha từ nguyên liệu ngoài chợ — gừng tươi, sả, vỏ quýt phơi, hoa cúc khô — vừa rẻ vừa hoàn toàn dùng được, và nhiều người thích chính cái công đoạn tự làm ấy. Điểm yếu là bạn phải mua, phải phơi, phải bảo quản, và chất lượng thay đổi theo từng mẻ.
 
-Trà đóng gói đổi lại bằng ba thứ: **thành phần ghi rõ trên nhãn**, **hạn dùng và nguồn gốc minh bạch**, và **sự tiện lợi** — điều này có giá trị thật với người ngày nào cũng vội. Đây cũng chính là lý do các sản phẩm trà của IKI tồn tại, và chúng tôi nghĩ nên nói thẳng như vậy thay vì gán cho chúng những công dụng mà một tách nước hãm không thể có.
+Trà đóng gói đổi lại bằng ba thứ: **thành phần ghi rõ trên nhãn**, **hạn dùng và nguồn gốc minh bạch**, và **sự tiện lợi** — điều này có giá trị thật với người ngày nào cũng vội. Đây cũng chính là lý do các sản phẩm trà của IKIHEALING tồn tại, và chúng tôi nghĩ nên nói thẳng như vậy thay vì gán cho chúng những công dụng mà một tách nước hãm không thể có.
 
 Cách chọn tỉnh táo, dù bạn mua của ai:
 
@@ -196,7 +196,7 @@ Cách chọn tỉnh táo, dù bạn mua của ai:
 3. **Chọn theo khẩu vị của chính bạn**, không theo loại đang thịnh hành. Thứ bạn không thích uống sẽ nằm trong tủ đến hết hạn.
 4. **Bắt đầu bằng gói nhỏ.** Thử trước khi cam kết mua nhiều.
 
-Nếu bạn muốn theo dõi xem những thay đổi nhỏ trong ngày — giờ ngủ, bữa ăn, thức uống — thật sự tác động thế nào đến cảm nhận của mình, [app IKI](https://ikihealing.com/app.html) giúp bạn ghi lại và nhìn ra nhịp của chính mình theo thời gian, thay vì đoán.
+Nếu bạn muốn theo dõi xem những thay đổi nhỏ trong ngày — giờ ngủ, bữa ăn, thức uống — thật sự tác động thế nào đến cảm nhận của mình, [app IKIHEALING](https://ikihealing.com/app.html) giúp bạn ghi lại và nhìn ra nhịp của chính mình theo thời gian, thay vì đoán.
 
 ## Tóm lại
 

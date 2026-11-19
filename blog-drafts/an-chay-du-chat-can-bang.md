@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-chay-du-chat-can-bang-hero.jpg",
   "hero_alt": "Mâm cơm chay đa dạng với đậu hũ, các loại đậu, rau xanh và hạt",
   "reading_min": 15,

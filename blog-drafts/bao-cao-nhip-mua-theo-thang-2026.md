@@ -1,13 +1,13 @@
 ---json
 {
-  "title": "Báo cáo nhịp mùa của thị trường sức khoẻ chủ động: tháng nào người Việt chăm mình nhất — theo dữ liệu của IKI by HOPE CORP",
+  "title": "Báo cáo nhịp mùa của thị trường sức khoẻ chủ động: tháng nào người Việt chăm mình nhất — theo dữ liệu của IKIHEALING by HOPE CORP",
   "seo_title": "Tháng nào người Việt chăm sóc sức khoẻ nhiều nhất?",
   "slug": "bao-cao-nhip-mua-theo-thang-2026",
   "description": "Chỉ số nhịp theo tháng: tháng 04 là mốc 100, tháng 05 đạt 99, tháng 06 rơi xuống 56, tháng 07 hồi lên 74 — đo trên 1.804 đơn hàng thật. Số liệu mở cho báo chí trích dẫn.",
   "keyword": "nhịp mua sản phẩm sức khoẻ theo tháng",
   "category": "bao-cao",
   "date": "2026-08-17",
-  "author": "Đội ngũ IKI Healing",
+  "author": "Đội ngũ IKIHEALING",
   "hero_local": "assets/blog/bao-cao-nhip-mua-theo-thang-2026-hero.jpg",
   "hero_alt": "Bốn chiếc hũ và lọ cao thấp khác nhau xếp thành hàng trên mặt bàn gỗ sáng, nền tường xanh ô liu nhạt, một nhành lá khô cắm trong lọ, ánh sáng tự nhiên dịu",
   "reading_min": 8,
@@ -27,7 +27,7 @@
     },
     {
       "q": "Báo chí có được trích dẫn không?",
-      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
+      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKIHEALING, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
     }
   ],
   "anh_ai": true
@@ -36,7 +36,7 @@
 
 Hầu hết ngành hàng tiêu dùng đều có nhịp riêng của mình. Bia có mùa hè, bánh kẹo có Tết, đồ dùng học tập có tháng tám. Nhịp ấy quyết định cả chuỗi việc phía sau: nhập hàng lúc nào, tuyển người lúc nào, dồn ngân sách quảng cáo vào tuần nào.
 
-Ngành sức khoẻ chủ động ở Việt Nam thì gần như chưa có ai công bố nhịp. Đây là báo cáo thứ tám trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing, và nó trả lời một câu đơn giản mà chưa có bảng số nào ngoài kia trả lời: **trong một năm, tháng nào người Việt chăm mình nhiều nhất?**
+Ngành sức khoẻ chủ động ở Việt Nam thì gần như chưa có ai công bố nhịp. Đây là báo cáo thứ tám trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKIHEALING, và nó trả lời một câu đơn giản mà chưa có bảng số nào ngoài kia trả lời: **trong một năm, tháng nào người Việt chăm mình nhiều nhất?**
 
 ## Tổng quan
 
@@ -48,7 +48,7 @@ Chỉ số nhịp, lấy **tháng 04 làm mốc 100**:
 - **Tháng 07: chỉ số nhịp 74.**
 - **Cao điểm của kỳ: tháng 04. Thấp điểm của kỳ: tháng 06.**
 
-Cỡ mẫu: **1.804 đơn hàng**. Kỳ dữ liệu: tháng 04 đến tháng 07 năm 2026. Nguồn là dữ liệu vận hành nội bộ của IKI by HOPE CORP.
+Cỡ mẫu: **1.804 đơn hàng**. Kỳ dữ liệu: tháng 04 đến tháng 07 năm 2026. Nguồn là dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP.
 
 ## 1. Hai tháng đầu kỳ đi ngang gần như tuyệt đối
 
@@ -94,7 +94,7 @@ Nói cách khác: cùng một tệp dữ liệu trả lời tin cậy được c
 
 **Thứ ba, tháng 08 chưa có mặt trong bảng.** Tại thời điểm đo, tháng 08 mới đi được nửa chặng. Một tháng chưa trọn ngày thì luôn thấp hơn các tháng đủ ngày, và ghép vào bảng so sánh sẽ tạo ra một cú tụt giả không tồn tại. Tháng 08 sẽ vào bảng ở kỳ sau.
 
-**Thứ tư, đây là dữ liệu của một doanh nghiệp**, phản ánh tệp khách hàng của IKI Healing chứ không phải mẫu đại diện cho toàn thị trường Việt Nam. Điểm mạnh của nó là hành vi mua thật đã được ghi nhận, không phải câu trả lời khảo sát.
+**Thứ tư, đây là dữ liệu của một doanh nghiệp**, phản ánh tệp khách hàng của IKIHEALING chứ không phải mẫu đại diện cho toàn thị trường Việt Nam. Điểm mạnh của nó là hành vi mua thật đã được ghi nhận, không phải câu trả lời khảo sát.
 
 ## Điểm đáng chú ý
 
@@ -106,7 +106,7 @@ Nói cách khác: cùng một tệp dữ liệu trả lời tin cậy được c
 
 ## Nguồn và phương pháp
 
-- **Nguồn:** dữ liệu vận hành nội bộ của IKI by HOPE CORP — sổ ghi nhận đơn hàng, tổng hợp theo tháng ghi nhận.
+- **Nguồn:** dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP — sổ ghi nhận đơn hàng, tổng hợp theo tháng ghi nhận.
 - **Cỡ mẫu:** 1.804 đơn hàng.
 - **Kỳ dữ liệu:** tháng 04 đến tháng 07 năm 2026.
 - **Cách đo:** gom đơn hàng theo tháng ghi nhận, rồi quy tất cả về một thang chung với tháng 04 làm mốc 100. Chỉ số của mỗi tháng là mức của tháng đó so với tháng mốc. Báo cáo cố ý không công bố con số tuyệt đối, chỉ công bố chỉ số tương đối.
@@ -128,7 +128,7 @@ Nếu bạn đang phân vân nên bắt đầu từ đâu, bài kiểm tra thể
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKIHEALING, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
 Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.

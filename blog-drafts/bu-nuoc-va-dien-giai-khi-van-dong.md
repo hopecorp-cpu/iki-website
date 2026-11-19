@@ -8,7 +8,7 @@
   "category": "Thói quen & lối sống",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bu-nuoc-va-dien-giai-khi-van-dong-hero.jpg",
   "hero_alt": "Bình nước thuỷ tinh với vài lát cam chanh và một chút muối khoáng đặt trên băng ghế gỗ cùng khăn bông",
   "reading_min": 15,
@@ -168,7 +168,7 @@ Kinh nghiệm dưỡng sinh phương Đông có một quan sát rất khớp v�
 
 Mỗi người ra mồ hôi rất khác nhau, và điều này liên quan tới cơ địa nhiều hơn ta tưởng — người thiên về nóng trong thường ra mồ hôi nhiều và sớm, người thiên về hàn có thể tập lâu mới ra mồ hôi. Nếu bạn muốn biết mình thuộc nhóm nào để chọn cách bù phù hợp hơn, [bài kiểm tra thể tạng 90 giây](https://ikihealing.com/quiz) cho gợi ý sát với cơ thể mình thay vì áp một công thức chung.
 
-:::case Từ cộng đồng IKI
+:::case Từ cộng đồng IKIHEALING
 Một quan sát lặp lại nhiều lần trong các chia sẻ về buổi tập: người hay bị đau đầu nhẹ vào cuối buổi chiều sau khi tập sáng thường không phải tập quá sức, mà là **chưa bù đủ nước sau tập** — họ uống một ly khi vừa xong rồi coi như đã đủ, trong khi lượng mất đi cần vài giờ rải đều mới bù lại. Khi chuyển sang giữ một bình nước trên bàn làm việc và nhấp đều suốt buổi sáng sau tập, cảm giác nặng đầu buổi chiều thường giảm rõ mà không cần đổi gì trong bài tập.
 :::
 
@@ -197,7 +197,7 @@ Việc bù nước và điện giải khi vận động không cần phức tạ
 
 **Ba,** hãy **cân trước và sau một buổi tập** để biết con số thật của mình. Chỉ mất một buổi, nhưng nó thay thế mọi phỏng đoán và mọi lời khuyên chung chung — kể cả bài viết này.
 
-Chăm sóc sức khoẻ chủ động là như vậy: thay vì làm theo cảm giác hoặc theo quảng cáo, bạn đo cơ thể mình một lần rồi dùng chính con số đó. Nếu bạn muốn theo dõi mức nước, buổi tập và cảm giác năng lượng theo ngày để thấy mẫu hình lặp lại, [ứng dụng IKI](https://ikihealing.com/app.html) ghi lại và đối chiếu giúp bạn. Và nếu bạn hay ra nhiều mồ hôi cả những lúc không tập, bài [Ra nhiều mồ hôi nên ăn uống gì](do-mo-hoi-nhieu-nen-an-uong-gi.html) là bước tiếp theo hợp lý.
+Chăm sóc sức khoẻ chủ động là như vậy: thay vì làm theo cảm giác hoặc theo quảng cáo, bạn đo cơ thể mình một lần rồi dùng chính con số đó. Nếu bạn muốn theo dõi mức nước, buổi tập và cảm giác năng lượng theo ngày để thấy mẫu hình lặp lại, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) ghi lại và đối chiếu giúp bạn. Và nếu bạn hay ra nhiều mồ hôi cả những lúc không tập, bài [Ra nhiều mồ hôi nên ăn uống gì](do-mo-hoi-nhieu-nen-an-uong-gi.html) là bước tiếp theo hợp lý.
 
 ## Nguồn tham khảo
 

@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-11-14",
   "updated": "2026-11-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bao-lau-thay-vo-goi-mot-lan-hero.jpg",
   "hero_alt": "Chồng vỏ gối cotton sạch gấp gọn cạnh chiếc gối trên giường, ánh nắng sớm qua rèm",
   "reading_min": 9,
@@ -60,7 +60,7 @@ Mỗi đêm, mặt bạn áp lên vỏ gối bảy đến tám tiếng, tức h�
 
 **Phần có nguồn.** [Sleep Foundation](https://www.sleepfoundation.org/bedding-information/how-often-should-you-wash-your-sheets) ghi rõ vỏ gối và ga giường nên giặt mỗi tuần một lần, giặt nhiều hơn vào mùa nóng, và ba đến bốn ngày một lần nếu thú cưng ngủ trên giường. Bài hướng dẫn của [Cleveland Clinic](https://health.clevelandclinic.org/heres-how-often-you-should-wash-your-sheets-in-the-summer-and-the-disgusting-reasons-why/) cũng nêu mốc ít nhất mỗi tuần, và nên giặt thêm trong những ngày cơ thể mệt, sổ mũi hoặc hay hắt hơi. [Mayo Clinic](https://newsnetwork.mayoclinic.org/discussion/home-remedies-dealing-with-dust-mite-allergies) khuyên người dị ứng mạt bụi giặt ga gối hằng tuần bằng nước nóng.
 
-**Phần là gợi ý của IKI.** Mốc hai đến ba ngày dưới đây là chúng tôi suy ra từ cơ chế (vỏ gối tích dầu và cặn nhanh hơn ở một số người), chưa có nghiên cứu nào xác định mốc chính xác. Hãy coi đó là điểm bắt đầu để thử, không phải quy định.
+**Phần là gợi ý của IKIHEALING.** Mốc hai đến ba ngày dưới đây là chúng tôi suy ra từ cơ chế (vỏ gối tích dầu và cặn nhanh hơn ở một số người), chưa có nghiên cứu nào xác định mốc chính xác. Hãy coi đó là điểm bắt đầu để thử, không phải quy định.
 
 - **Mỗi tuần một lần.** Da thường, ít ra mồ hôi, ngủ phòng thoáng mát. Đây là mức tối thiểu có nguồn.
 - **Hai đến ba ngày một lần.** Bạn thuộc một trong các nhóm sau: da dầu hoặc dễ nổi mụn · hay ra mồ hôi đêm, ngủ phòng không điều hoà mùa hè · hay đi ngủ khi tóc còn ẩm hoặc còn dầu dưỡng tóc · cơ địa dị ứng, sáng hay hắt hơi · ngủ chung với thú cưng. Lý do chung là vải ở những nhóm này tích dầu, ẩm hoặc bụi nhanh hơn.
@@ -172,7 +172,7 @@ Thay vỏ gối vẫn là nếp tốt nên giữ, nhưng đừng dùng nó để
 
 Ít nhất mỗi tuần thay vỏ gối một lần, thường xuyên hơn nếu bạn rơi vào một trong các nhóm ở mục mốc; giặt nước nóng nhất mà nhãn cho phép và phơi thật khô trong mùa nồm.
 
-Vỏ gối sạch là một việc nhỏ trong nhịp chăm sóc bản thân. Nếu bạn muốn xem mình nên ưu tiên điều gì trước giữa giấc ngủ, bữa ăn và nhịp nghỉ, bạn có thể thử [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) của IKI để có thêm một góc nhìn.
+Vỏ gối sạch là một việc nhỏ trong nhịp chăm sóc bản thân. Nếu bạn muốn xem mình nên ưu tiên điều gì trước giữa giấc ngủ, bữa ăn và nhịp nghỉ, bạn có thể thử [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) của IKIHEALING để có thêm một góc nhìn.
 
 ## Nguồn tham khảo
 

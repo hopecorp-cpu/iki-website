@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-16",
   "updated": "2026-08-16",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-gi-tot-cho-phoi-khi-khong-khi-o-nhiem-hero.jpg",
   "hero_alt": "Mâm trái cây sẫm màu, cà chua, cà rốt và một tách trà ấm bên cửa sổ ngày trời mù",
   "reading_min": 14,
@@ -164,7 +164,7 @@ Nếu bạn chỉ nhớ được một phần của bài này, hãy nhớ phần
 - **Rửa mặt, rửa mũi bằng nước muối sinh lý, súc miệng và thay quần áo ngay khi về nhà** — thao tác đơn giản mà nhiều người bỏ qua.
 - **Ngủ đủ.** Thiếu ngủ làm mọi thứ tệ hơn, kể cả cảm giác mệt trong những ngày trời mù.
 
-Nếu bạn muốn theo dõi xem những điều chỉnh nhỏ này có thật sự làm bạn dễ chịu hơn không, việc ghi lại vài dòng mỗi tối là cách đơn giản nhất. [Ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn giúp bạn ghi nhanh cảm nhận trong ngày và nhìn lại theo tuần.
+Nếu bạn muốn theo dõi xem những điều chỉnh nhỏ này có thật sự làm bạn dễ chịu hơn không, việc ghi lại vài dòng mỗi tối là cách đơn giản nhất. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn giúp bạn ghi nhanh cảm nhận trong ngày và nhìn lại theo tuần.
 
 ## Bốn hiểu lầm thường gặp
 

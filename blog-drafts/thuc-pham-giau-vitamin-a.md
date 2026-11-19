@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-giau-vitamin-a-hero.jpg",
   "hero_alt": "Cà rốt, khoai lang, bí đỏ và rau lá xanh đậm xếp trên mặt bàn gỗ",
   "reading_min": 14,
@@ -187,7 +187,7 @@ Vì vậy nguyên tắc thực tế:
 - **Đọc kỹ nhãn** nếu đang dùng nhiều loại cùng lúc — vitamin A xuất hiện trong nhiều sản phẩm tổng hợp và rất dễ cộng dồn vượt ngưỡng mà không hay biết.
 - **Nhớ rằng thực phẩm bổ sung không phải thuốc** và không có tác dụng thay thế thuốc chữa bệnh.
 
-Muốn theo dõi xem mình có thực sự ăn đủ rau củ mỗi ngày hay chỉ đang nghĩ là mình ăn đủ, cách đơn giản là ghi lại bữa ăn trong hai tuần. [App IKI](https://ikihealing.com/app.html) cho phép quét hoặc ghi nhanh từng bữa rồi tổng hợp thành xu hướng theo tuần — thường thì con số thật khác khá xa với cảm giác.
+Muốn theo dõi xem mình có thực sự ăn đủ rau củ mỗi ngày hay chỉ đang nghĩ là mình ăn đủ, cách đơn giản là ghi lại bữa ăn trong hai tuần. [App IKIHEALING](https://ikihealing.com/app.html) cho phép quét hoặc ghi nhanh từng bữa rồi tổng hợp thành xu hướng theo tuần — thường thì con số thật khác khá xa với cảm giác.
 
 ## Nguồn tham khảo
 

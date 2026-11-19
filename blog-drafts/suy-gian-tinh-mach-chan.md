@@ -8,7 +8,7 @@
   "category": "cam-nang-suc-khoe",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suy-gian-tinh-mach-chan-hero.jpg",
   "hero_alt": "Giày đi bộ và chai nước bên lối đi trong công viên",
   "reading_min": 11,

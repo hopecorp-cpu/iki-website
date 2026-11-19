@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-09-03",
   "updated": "2026-09-03",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dam-va-lan-da-toc-mong-hero.jpg",
   "hero_alt": "Bữa ăn giàu đạm thực vật với đậu, hạt và rau xanh trên bàn gỗ",
   "reading_min": 13,
@@ -50,7 +50,7 @@ Khi nói tới **đạm và làn da**, phần lớn chúng ta nghĩ ngay tới c
 
 Bài này đi theo một đường thẳng: giải thích cấu trúc da, tóc, móng được làm từ đâu; vì sao khi khẩu phần thiếu đạm thì ba thứ đó lại là nơi biểu hiện sớm; những dấu hiệu phổ thông đáng để bạn xem lại bữa ăn; phụ nữ cần bao nhiêu đạm mỗi ngày theo cân nặng; và cách gom đủ lượng đó từ mâm cơm Việt quen thuộc mà không phải nấu nướng cầu kỳ.
 
-Đây là bài nhánh của [Ăn gì để da đẹp? Chế độ ăn nuôi làn da khoẻ từ bên trong](an-gi-de-da-dep.html) — nếu bạn muốn bức tranh đầy đủ gồm cả nước, chất béo tốt, rau củ và giấc ngủ thì nên đọc bài trụ đó trước. Còn nếu bạn đang muốn biết riêng chuyện đạm, thì mỗi người một nhịp sống và một nhu cầu khác nhau, bạn có thể dành 90 giây [kiểm tra thể trạng cùng IKI](https://ikihealing.com/quiz) để có gợi ý sát với mình hơn một công thức chung.
+Đây là bài nhánh của [Ăn gì để da đẹp? Chế độ ăn nuôi làn da khoẻ từ bên trong](an-gi-de-da-dep.html) — nếu bạn muốn bức tranh đầy đủ gồm cả nước, chất béo tốt, rau củ và giấc ngủ thì nên đọc bài trụ đó trước. Còn nếu bạn đang muốn biết riêng chuyện đạm, thì mỗi người một nhịp sống và một nhu cầu khác nhau, bạn có thể dành 90 giây [kiểm tra thể trạng cùng IKIHEALING](https://ikihealing.com/quiz) để có gợi ý sát với mình hơn một công thức chung.
 
 Một lưu ý đặt ngay từ đầu cho ngay ngắn: bài viết này nói về dinh dưỡng phổ thông và nếp sinh hoạt. Nếu bạn gặp vấn đề da dai dẳng như mụn nặng, nám sâu, dị ứng hay bất kỳ biểu hiện da liễu kéo dài nào, hãy gặp bác sĩ da liễu. Thực phẩm không thay thế được thăm khám.
 
@@ -204,7 +204,7 @@ Với những ngày mà cả các phương án trên cũng không kịp, bột �
 
 Cần nói cho rõ để không ai hiểu nhầm: đây là **thực phẩm bổ sung**, đóng vai trò một nguồn đạm tiện lợi cho ngày bận — giống như một phần đậu được đóng gói gọn hơn. Nó không phải sản phẩm chăm sóc da và không có tác dụng thay thế bữa ăn đa dạng. Nền tảng vẫn luôn là mâm cơm hằng ngày; bột đạm chỉ lấp chỗ trống khi mâm cơm không kịp có mặt.
 
-Nếu bạn muốn theo dõi nhịp ăn uống và sinh hoạt của mình đều đặn hơn, [App IKI](https://ikihealing.com/app.html) là công cụ đồng hành hằng ngày cho việc đó.
+Nếu bạn muốn theo dõi nhịp ăn uống và sinh hoạt của mình đều đặn hơn, [App IKIHEALING](https://ikihealing.com/app.html) là công cụ đồng hành hằng ngày cho việc đó.
 
 ## Ba việc làm được ngay trong tuần này
 

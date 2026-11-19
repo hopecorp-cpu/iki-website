@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ba-bau-uong-tra-thao-moc-duoc-khong-hero.jpg",
   "hero_alt": "Tách trà ấm đặt cạnh vài nhánh thảo mộc khô trên mặt bàn sáng dịu",
   "reading_min": 14,
@@ -195,7 +195,7 @@ Ba điều đáng nhớ nhất khi rời khỏi bài viết này:
 2. **Đọc nhãn quan trọng hơn đọc tên sản phẩm.** Cam thảo và trà xanh nấp trong rất nhiều hộp trà mang tên "thảo mộc".
 3. **Bác sĩ sản khoa của bạn là người quyết định cuối cùng**, vì họ biết hoàn cảnh cụ thể của thai kỳ này, các thuốc bạn đang dùng và các vấn đề đi kèm.
 
-Nếu bạn muốn hiểu thêm về cơ địa của mình để xây nếp chăm sóc phù hợp sau sinh, có thể tham khảo [bài kiểm tra thể trạng 90 giây](../quiz/) hoặc [ứng dụng IKI](../app.html) — nhưng trong thai kỳ, mọi thay đổi về ăn uống và thảo mộc vẫn nên đi qua bác sĩ trước.
+Nếu bạn muốn hiểu thêm về cơ địa của mình để xây nếp chăm sóc phù hợp sau sinh, có thể tham khảo [bài kiểm tra thể trạng 90 giây](../quiz/) hoặc [ứng dụng IKIHEALING](../app.html) — nhưng trong thai kỳ, mọi thay đổi về ăn uống và thảo mộc vẫn nên đi qua bác sĩ trước.
 
 ## Nguồn tham khảo
 

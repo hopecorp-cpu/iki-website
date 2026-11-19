@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-chay-truong-thieu-chat-gi-hero.jpg",
   "hero_alt": "Mâm cơm chay đủ nhóm với đậu hũ, rau xanh, các loại hạt và ngũ cốc nguyên cám",
   "reading_min": 15,

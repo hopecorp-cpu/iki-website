@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-11-12",
   "updated": "2026-11-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tam-nuoc-nong-co-hai-da-khong-hero.jpg",
   "hero_alt": "Góc phòng tắm ánh sáng ấm với khăn bông gấp gọn, chậu gỗ và lọ kem dưỡng không nhãn",
   "reading_min": 9,

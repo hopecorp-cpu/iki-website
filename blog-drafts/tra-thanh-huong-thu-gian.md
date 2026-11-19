@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-thanh-huong-thu-gian-hero.jpg",
   "hero_alt": "Thức uống thảo mộc thư giãn buổi tối",
   "reading_min": 13,
@@ -112,7 +112,7 @@ Một cách chọn thú vị nữa là để ý tới mùa và tâm trạng củ
 
 ## Trà Thanh Hương — nếp uống ấm thơm dịu cho buổi tối
 
-![Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKI cùng tách trà và túi lọc](../assets/san-pham/tra-thanh-huong.jpg)
+![Hộp Trà Thanh Hương trà thảo mộc túi lọc của IKIHEALING cùng tách trà và túi lọc](../assets/san-pham/tra-thanh-huong.jpg)
 
 Xem [thông tin đầy đủ về Trà Thanh Hương](../san-pham/tra-thanh-huong.html): bốn vị thảo mộc, cách pha và giá niêm yết.
 
@@ -136,7 +136,7 @@ Một tách trà chỉ phát huy hết sự dễ chịu khi nó nằm trong mộ
 5. **Lắng nghe cơ thể.** Mỗi người hợp một kiểu khác nhau. Nếu một loại trà không dễ chịu với bạn, hãy đổi loại khác; và nếu có bệnh nền, đang mang thai hay cho con bú, hãy hỏi ý kiến bác sĩ trước khi dùng đều đặn. Vì mỗi người một thể trạng khác nhau, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết nếp thư giãn và thức uống nào hợp với mình.
 
 :::case Chị D. (Hà Nội) — mười phút thơm dịu trước giờ nghỉ
-Chị D., 36 tuổi, chủ một tiệm may nhỏ ở Hà Nội và là thành viên cộng đồng chăm sóc sức khoẻ chủ động của IKI, chia sẻ rằng nghề của chị bận nhất vào buổi tối, khi khách tan làm ghé lấy đồ và những đơn sửa gấp dồn về cuối ngày. Đóng cửa tiệm xong, chị thường mang cả những lo toan về vải vóc, hẹn trả đồ lên giường, nằm rồi mà đầu vẫn tính việc ngày mai. Sau này chị tập cho mình một nếp nhỏ trước giờ nghỉ: pha một tách trà thảo mộc ấm, tắt bớt đèn tiệm và đèn phòng khách, ngồi yên vài phút hít hà mùi hương rồi mới đi ngủ. Chị chọn loại trà có hương hoa vì vốn thích mùi thơm dịu, và cố tình để hộp trà ngay cạnh ấm nước như một lời nhắc. Những hôm quá mệt, chị rút gọn còn dăm phút, nhưng không bỏ hẳn. Điều chị trân trọng nhất, như chị kể, không phải là loại trà nào, mà là khoảnh khắc chậm lại có chủ đích ấy, khi chị cho phép mình gác kéo, gác thước và thư thái đôi chút. Nếp này giúp buổi tối của chị cảm thấy nhẹ nhàng và dễ chịu hơn, ranh giới giữa giờ làm và giờ nghỉ rõ ràng hơn trước. (Đây là trải nghiệm cá nhân về thói quen sinh hoạt, đã được ẩn danh, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau ở mỗi người.)
+Chị D., 36 tuổi, chủ một tiệm may nhỏ ở Hà Nội và là thành viên cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chia sẻ rằng nghề của chị bận nhất vào buổi tối, khi khách tan làm ghé lấy đồ và những đơn sửa gấp dồn về cuối ngày. Đóng cửa tiệm xong, chị thường mang cả những lo toan về vải vóc, hẹn trả đồ lên giường, nằm rồi mà đầu vẫn tính việc ngày mai. Sau này chị tập cho mình một nếp nhỏ trước giờ nghỉ: pha một tách trà thảo mộc ấm, tắt bớt đèn tiệm và đèn phòng khách, ngồi yên vài phút hít hà mùi hương rồi mới đi ngủ. Chị chọn loại trà có hương hoa vì vốn thích mùi thơm dịu, và cố tình để hộp trà ngay cạnh ấm nước như một lời nhắc. Những hôm quá mệt, chị rút gọn còn dăm phút, nhưng không bỏ hẳn. Điều chị trân trọng nhất, như chị kể, không phải là loại trà nào, mà là khoảnh khắc chậm lại có chủ đích ấy, khi chị cho phép mình gác kéo, gác thước và thư thái đôi chút. Nếp này giúp buổi tối của chị cảm thấy nhẹ nhàng và dễ chịu hơn, ranh giới giữa giờ làm và giờ nghỉ rõ ràng hơn trước. (Đây là trải nghiệm cá nhân về thói quen sinh hoạt, đã được ẩn danh, không phải lời khuyên y khoa hay cam kết về sức khỏe; cảm nhận có thể khác nhau ở mỗi người.)
 :::
 
 ## Câu hỏi thường gặp khi chọn trà buổi tối
@@ -157,6 +157,6 @@ Một thức uống thảo mộc ấm, thơm dịu vào buổi tối có thể t
 
 Nếu bạn yêu hương thơm và muốn thử một tách trà êm ái cho buổi tối, [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) với hương hoa quế là một gợi ý đáng cân nhắc. Nhưng dù chọn loại nào, hãy nhớ rằng giá trị lớn nhất không nằm ở tách trà, mà ở chính quãng nghỉ mà bạn dành cho mình mỗi tối. Đó là một cách giản dị và tử tế để chăm sóc tinh thần của chính mình.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Theo những gì IKI ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Theo những gì IKIHEALING ghi nhận từ khách hàng, trà thảo mộc là nhóm sản phẩm được chọn nhiều thứ hai — chỉ sau đạm thực vật. Xem đầy đủ trong [Báo cáo chăm sóc sức khoẻ chủ động 2026](bao-cao-cham-soc-suc-khoe-chu-dong-2026.html).
 :::

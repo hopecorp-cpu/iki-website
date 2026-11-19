@@ -1,13 +1,13 @@
 {
   "_doc": "Câu đã duyệt (MKT-06 lô B, TH 03/10/2026; VHSP-01/02). Chép bằng script từ file nguồn, kiểm sha256. KHÔNG sửa tay.",
   "T1": {
-    "cau": "Công cụ IKI Beauty & Wellness",
-    "sha256": "6d1ef7af6f9794477719ad2ab33b7a492a8d387d85530658e42af7168a8b1e8f",
+    "cau": "Công cụ IKIHEALING Beauty & Wellness",
+    "sha256": "de2fa73cd3586027cf081e8c57f84e864e8a6fc1dc27b8aff5dba822315ac9bc",
     "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/T1.txt"
   },
   "L1": {
-    "cau": "Trà thảo mộc IKI",
-    "sha256": "6d09ba67d619cb47501bb3608c4c9e745c06691c80f92cd49ae573bad92244ab",
+    "cau": "Trà thảo mộc IKIHEALING",
+    "sha256": "0ed9c8a22d5119c8f873dd7437e57868220d707fd7e61eb251b6f50249c4bf89",
     "nguon": "~/.hope-grok/tasks/nguon/mkt-ra-soat/cau/L1.txt"
   },
   "C09": {

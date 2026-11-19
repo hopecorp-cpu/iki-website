@@ -8,7 +8,7 @@
   "category": "Thói quen & lối sống",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngu-bu-cuoi-tuan-co-bu-duoc-khong-hero.jpg",
   "hero_alt": "Chiếc giường trải ga trắng gọn gàng trong ánh sáng sớm và đồng hồ báo thức trên bàn đầu giường",
   "reading_min": 14,
@@ -140,7 +140,7 @@ Cách nói ấy dễ hiểu hơn khi đặt cạnh khái niệm nhịp sinh họ
 
 Đông y cũng lưu ý rằng thiếu ngủ kéo dài thường đi cùng những dấu hiệu quen thuộc như người khô, dễ nóng trong, mắt mỏi, tâm trí khó lắng — và cách chăm không phải là ngủ dồn một giấc thật dài, mà là gây dựng lại nếp đều đặn cùng với ăn uống ôn hoà. Đây là quan sát để tham khảo trong chăm sóc thói quen hằng ngày, không phải chẩn đoán y khoa; nếu tình trạng mất ngủ của bạn kéo dài hoặc nặng lên, hãy gặp bác sĩ.
 
-:::case Từ cộng đồng IKI
+:::case Từ cộng đồng IKIHEALING
 Trong các chia sẻ của thành viên về giấc ngủ, một mẫu hình lặp lại rất thường xuyên: người ta thay đổi được giờ **thức dậy** dễ hơn nhiều so với thay đổi giờ **đi ngủ**. Lý do khá đời: giờ đi ngủ phụ thuộc vào việc trong ngày còn tồn đọng bao nhiêu, còn giờ dậy thì mình quyết được bằng một cái báo thức. Vì vậy nhiều người bắt đầu từ việc cố định giờ dậy cả bảy ngày trong tuần, và thấy giờ đi ngủ tự động dịch sớm lại sau khoảng hai tuần — mà không phải cố gắng gì thêm.
 :::
 
@@ -162,7 +162,7 @@ Bạn không cần cải tổ toàn bộ lối sống. Một tuần đi theo nh�
 
 Điều đáng chú ý là hầu hết mọi người thấy thay đổi rõ nhất **không phải ở buổi sáng mà ở buổi chiều**: cái hố năng lượng lúc 15h nông đi hẳn. Đó là dấu hiệu nợ ngủ đang giảm thật, chứ không chỉ là bạn ngủ nhiều hơn một hôm.
 
-Nếu bạn muốn theo dõi nhịp này một cách có hệ thống hơn thay vì nhớ bằng cảm giác, [ứng dụng IKI](https://ikihealing.com/app.html) ghi lại giấc ngủ và mức năng lượng theo ngày rồi chỉ ra mẫu hình lặp lại — thứ rất khó tự nhận ra khi chỉ nhớ trong đầu.
+Nếu bạn muốn theo dõi nhịp này một cách có hệ thống hơn thay vì nhớ bằng cảm giác, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) ghi lại giấc ngủ và mức năng lượng theo ngày rồi chỉ ra mẫu hình lặp lại — thứ rất khó tự nhận ra khi chỉ nhớ trong đầu.
 
 ## Kết: ngủ đều quan trọng hơn ngủ nhiều
 

@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-11-16",
   "updated": "2026-11-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bui-min-anh-huong-den-da-hero.jpg",
   "hero_alt": "Mũ bảo hiểm, khẩu trang vải và khăn mặt sạch đặt cạnh cửa sổ nhìn ra phố mờ sương buổi sáng",
   "reading_min": 14,

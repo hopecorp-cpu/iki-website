@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/duong-va-do-che-bien-san-hero.jpg",
   "hero_alt": "Ăn uống điều độ với đường và đồ chế biến sẵn",
   "reading_min": 14,
@@ -63,7 +63,7 @@
 
 Hãy thử một phép tính nhỏ cho ngày hôm qua. Một ly cà phê sữa buổi sáng, một hộp sữa chua có hương lúc giữa buổi, một ly trà sữa buổi chiều với bạn bè, chút nước ngọt trong bữa tối. Nghe có vẻ bình thường, nhưng cộng lại, lượng đường thêm bạn nạp vào có thể đã vượt xa mức mà cơ thể thật sự cần, phần lớn đến từ những thứ "uống vào mà không nhớ".
 
-Đường và đồ chế biến sẵn là một phần khó tránh của đời sống hiện đại. Chúng tiện lợi, hấp dẫn và có mặt ở khắp nơi. Nhưng chính sự phổ biến ấy khiến ta dễ nạp nhiều hơn mình nghĩ mà không nhận ra. Bài viết này của đội ngũ Health Coach IKI không kêu gọi bạn tuyên chiến với đường hay loại bỏ mọi thứ đóng gói, một cách tiếp cận vừa khó bền vừa dễ gây căng thẳng. Thay vào đó, chúng ta sẽ cùng hiểu rõ đường ẩn nằm ở đâu, vì sao ta hay thèm ngọt, và làm sao ăn uống điều độ hơn bằng những bước nhỏ, nhẹ nhàng và thực tế.
+Đường và đồ chế biến sẵn là một phần khó tránh của đời sống hiện đại. Chúng tiện lợi, hấp dẫn và có mặt ở khắp nơi. Nhưng chính sự phổ biến ấy khiến ta dễ nạp nhiều hơn mình nghĩ mà không nhận ra. Bài viết này của đội ngũ Health Coach IKIHEALING không kêu gọi bạn tuyên chiến với đường hay loại bỏ mọi thứ đóng gói, một cách tiếp cận vừa khó bền vừa dễ gây căng thẳng. Thay vào đó, chúng ta sẽ cùng hiểu rõ đường ẩn nằm ở đâu, vì sao ta hay thèm ngọt, và làm sao ăn uống điều độ hơn bằng những bước nhỏ, nhẹ nhàng và thực tế.
 
 ## Đường không xấu, nhưng "đường thêm" thì nên để ý
 
@@ -142,7 +142,7 @@ Chủ đề này có nhiều quan niệm cực đoan theo cả hai hướng. Cù
 **"Đồ chế biến sẵn đều là xấu."** Không hẳn. Rau củ đông lạnh, cá đóng hộp, các loại đậu đóng lon là những lựa chọn tiện lợi và vẫn tốt. Điều quan trọng là phân biệt mức độ chế biến và ưu tiên nhóm nguyên bản hơn nhóm chế biến kỹ.
 
 :::case Chị M. và một hộp hạt thay ly trà sữa chiều
-Chị M., 30 tuổi, nhân viên văn phòng trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, kể rằng ly trà sữa lúc ba giờ chiều từng là "nghi thức" gần như cố định của cả nhóm làm cùng tầng. Buồn miệng là đặt, có hôm hai ly, rồi chỉ một lúc sau chị lại thấy uể oải, tối về ăn vội và hay cáu vặt. Đến khi ngồi cộng thử lượng đường của một ngày, chị mới giật mình vì phần lớn đến từ những thứ "uống vào mà không nhớ". Chị không cắt phăng tất cả, mà đổi dần từng thứ một: bữa trưa cố gắng gọi suất có đủ đạm và rau, để sẵn trong ngăn bàn một hộp nhỏ hạt và một phần trái cây cho bữa xế, và giao hẹn với bản thân trà sữa chỉ còn là món của chiều thứ Sáu. Những ngày đầu chị vẫn đặt theo nhóm cho vui, chỉ đổi sang trà không đường hoặc xin bớt ngọt. Khoảng một tháng sau, điều chị thấy rõ nhất là buổi chiều bớt hẳn cảm giác thèm ngọt, tinh thần dễ chịu hơn và bữa tối cũng thong thả hơn trước. Chị bảo vui nhất là vẫn giữ được "nghi thức" tụ tập với đồng nghiệp, chỉ là ly nước trên tay đã khác. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
+Chị M., 30 tuổi, nhân viên văn phòng trong cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, kể rằng ly trà sữa lúc ba giờ chiều từng là "nghi thức" gần như cố định của cả nhóm làm cùng tầng. Buồn miệng là đặt, có hôm hai ly, rồi chỉ một lúc sau chị lại thấy uể oải, tối về ăn vội và hay cáu vặt. Đến khi ngồi cộng thử lượng đường của một ngày, chị mới giật mình vì phần lớn đến từ những thứ "uống vào mà không nhớ". Chị không cắt phăng tất cả, mà đổi dần từng thứ một: bữa trưa cố gắng gọi suất có đủ đạm và rau, để sẵn trong ngăn bàn một hộp nhỏ hạt và một phần trái cây cho bữa xế, và giao hẹn với bản thân trà sữa chỉ còn là món của chiều thứ Sáu. Những ngày đầu chị vẫn đặt theo nhóm cho vui, chỉ đổi sang trà không đường hoặc xin bớt ngọt. Khoảng một tháng sau, điều chị thấy rõ nhất là buổi chiều bớt hẳn cảm giác thèm ngọt, tinh thần dễ chịu hơn và bữa tối cũng thong thả hơn trước. Chị bảo vui nhất là vẫn giữ được "nghi thức" tụ tập với đồng nghiệp, chỉ là ly nước trên tay đã khác. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, đã được ẩn danh, mang tính tham khảo và không phải lời khuyên y khoa hay cam kết về bất kỳ kết quả nào; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/mong-tay-gion-de-gay-thieu-chat-gi-hero.jpg",
   "hero_alt": "Bát hạt bí, hạnh nhân và rau lá xanh trên khăn vải — nhóm thực phẩm nuôi móng",
   "reading_min": 14,
@@ -144,7 +144,7 @@ Một điều bạn có thể tự kiểm chứng: người có móng giòn thư
 
 Tin tốt là điều ngược lại cũng đúng: khi bạn điều chỉnh bữa ăn cho móng, tóc và da thường cải thiện cùng lúc, dù mỗi thứ theo nhịp riêng — da nhanh nhất, tóc ở giữa, móng chậm nhất. Nếu bạn muốn nhìn bức tranh rộng hơn, hai bài [Tóc yếu rụng nhiều nhìn từ dinh dưỡng](toc-yeu-rung-dinh-duong.html) và [Chăm da từ bên trong](cham-da-tu-ben-trong.html) bổ sung cho nhau khá tốt.
 
-Đó cũng là cách tiếp cận mà IKI theo đuổi: không chữa từng triệu chứng lẻ, mà nhìn chúng như những tín hiệu từ cùng một nền tảng. Móng giòn không phải "bệnh của móng" — nó là lời nhắc rằng có gì đó trong nhịp ăn uống và sinh hoạt đang cần được xem lại.
+Đó cũng là cách tiếp cận mà IKIHEALING theo đuổi: không chữa từng triệu chứng lẻ, mà nhìn chúng như những tín hiệu từ cùng một nền tảng. Móng giòn không phải "bệnh của móng" — nó là lời nhắc rằng có gì đó trong nhịp ăn uống và sinh hoạt đang cần được xem lại.
 
 Nếu bạn muốn một điểm khởi đầu cụ thể thay vì đoán, bản [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ cho bạn một bản phân tích theo cơ địa riêng, kèm gợi ý điều chỉnh phù hợp hơn là áp một công thức chung cho tất cả mọi người.
 

@@ -8,7 +8,7 @@
   "category": "cam-nang-suc-khoe",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dau-nua-dau-hero.jpg",
   "hero_alt": "Không gian yên tĩnh với tách trà ấm, thư giãn dịu nhẹ",
   "reading_min": 12,

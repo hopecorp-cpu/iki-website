@@ -9,7 +9,7 @@
   "category": "thuc-pham",
   "date": "2026-08-29",
   "updated": "2026-08-29",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tra-thao-moc-nao-khong-co-caffeine-hero.jpg",
   "hero_alt": "Hoa thảo mộc khô bày trên khay gỗ cạnh bình hoa tươi trong ánh sáng tự nhiên",
   "reading_min": 14,

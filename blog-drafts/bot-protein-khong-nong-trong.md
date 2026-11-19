@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-09-20",
   "updated": "2026-09-20",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/bot-protein-khong-nong-trong-hero.jpg",
   "hero_alt": "Ly bột protein pha sẵn đặt cạnh bình nước lọc và đĩa rau xanh trên bàn bếp sáng dịu",
   "reading_min": 15,
@@ -185,7 +185,7 @@ Nếu bạn đang thấy khó chịu và muốn tìm nguyên nhân thay vì bỏ
 
 Sau bảy ngày, hãy ngồi lại và hỏi: triệu chứng nào đã hết, triệu chứng nào còn? Nếu còn, **bước tiếp theo là đổi loại bột** — cụ thể là đổi nền đạm, từ sữa sang thực vật hoặc ngược lại — và theo dõi thêm hai tuần nữa.
 
-Nếu bạn muốn một chỗ để ghi lại những thay đổi này theo ngày thay vì nhớ trong đầu, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký để bạn theo dõi nhịp ăn uống và sinh hoạt của mình. Còn nếu bạn chưa rõ nên bắt đầu từ đâu, [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ cho bạn một gợi ý ban đầu phù hợp với nhịp sống hiện tại.
+Nếu bạn muốn một chỗ để ghi lại những thay đổi này theo ngày thay vì nhớ trong đầu, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký để bạn theo dõi nhịp ăn uống và sinh hoạt của mình. Còn nếu bạn chưa rõ nên bắt đầu từ đâu, [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) sẽ cho bạn một gợi ý ban đầu phù hợp với nhịp sống hiện tại.
 
 ## Khi nào nên dừng lại và đi khám
 
@@ -198,7 +198,7 @@ Phần lớn cảm giác khó chịu nói trên là chuyện của thói quen, c
 - Mụn nặng lên nhiều, có mụn bọc đau, để lại sẹo.
 - Sụt cân không chủ đích, sốt kéo dài, mệt bất thường.
 
-Ngoài ra, có những nhóm cần hỏi ý kiến chuyên môn **trước khi** bắt đầu dùng bất kỳ sản phẩm bổ sung đạm nào: người có bệnh thận hoặc gan, người đang dùng thuốc điều trị dài ngày, phụ nữ mang thai hoặc đang cho con bú, người có tiền sử dị ứng đậu nành hoặc các loại hạt, và trẻ em. Với những trường hợp này, câu hỏi không phải là "loại nào đỡ nóng" mà là "tôi có nên dùng không, và bao nhiêu" — và người trả lời phải là bác sĩ hoặc chuyên gia dinh dưỡng đang theo dõi bạn.
+Ngoài ra, có những nhóm cần hỏi ý kiến chuyên môn **trước khi** bắt đầu dùng bất kỳ sản phẩm bổ sung đạm nào: người có bệnh thận hoặc gan, người đang dùng thuốc theo chỉ định dài ngày, phụ nữ mang thai hoặc đang cho con bú, người có tiền sử dị ứng đậu nành hoặc các loại hạt, và trẻ em. Với những trường hợp này, câu hỏi không phải là "loại nào đỡ nóng" mà là "tôi có nên dùng không, và bao nhiêu" — và người trả lời phải là bác sĩ hoặc chuyên gia dinh dưỡng đang theo dõi bạn.
 
 ## Tóm lại
 

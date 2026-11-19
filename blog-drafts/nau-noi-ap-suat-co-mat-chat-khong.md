@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nau-noi-ap-suat-co-mat-chat-khong-hero.jpg",
   "hero_alt": "Nồi áp suất trên bếp cùng rau củ và đậu chuẩn bị nấu",
   "reading_min": 13,
@@ -188,7 +188,7 @@ Nói cách khác, chiếc nồi áp suất bị mang tiếng oan trong khi thủ
 - **Đừng nấu quá thời gian cần.** Đặt hẹn giờ. Đậu nhừ rồi thì tắt; hầm thêm ba mươi phút không làm món bổ hơn, chỉ làm mất thêm vitamin.
 - **Luôn có một phần rau tươi hoặc chín tới trong ngày.** Đây là cách bù lại nhóm vitamin C mà mọi cách nấu lâu đều làm hao hụt.
 
-Cả ba đều không tốn thêm đồng nào và không tốn thêm thời gian — chỉ là thay đổi thứ tự và thói quen. Bạn có thể ghi lại thay đổi trong bữa ăn và cảm nhận cơ thể theo từng tuần bằng [App IKI](https://ikihealing.com/app.html) để biết điều chỉnh nào thật sự hợp với mình.
+Cả ba đều không tốn thêm đồng nào và không tốn thêm thời gian — chỉ là thay đổi thứ tự và thói quen. Bạn có thể ghi lại thay đổi trong bữa ăn và cảm nhận cơ thể theo từng tuần bằng [App IKIHEALING](https://ikihealing.com/app.html) để biết điều chỉnh nào thật sự hợp với mình.
 
 ## Kết: nồi áp suất là bạn, không phải kẻ phá chất
 

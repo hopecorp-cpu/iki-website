@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/mat-ong-nguyen-chat-phan-biet-va-dung-dung-cach-hero.jpg",
   "hero_alt": "Hũ thuỷ tinh đựng mật ong vàng óng cùng que khuấy gỗ đặt bên cửa sổ",
   "reading_min": 14,
@@ -109,7 +109,7 @@ Có hũ mật đáng tin rồi thì đây là phần quyết định.
 **Nên tránh:** uống mật đặc khi bụng đói với người dễ cồn ruột, và dùng mật như một loại nước giải khát uống cả ngày.
 
 :::note Chăm sóc chủ động là đọc đúng vai của từng thứ
-Mật ong là thứ tạo vị dễ chịu và thay được đường tinh luyện trong nhiều tình huống — đó đã là một giá trị thật. Nhưng nó không thay được bữa ăn cân đối, giấc ngủ đủ và vận động đều. Bạn có thể theo dõi những thay đổi nhỏ trong nếp ăn uống mỗi ngày cùng [App IKI](https://ikihealing.com/app.html) để thấy điều gì thật sự tạo ra khác biệt.
+Mật ong là thứ tạo vị dễ chịu và thay được đường tinh luyện trong nhiều tình huống — đó đã là một giá trị thật. Nhưng nó không thay được bữa ăn cân đối, giấc ngủ đủ và vận động đều. Bạn có thể theo dõi những thay đổi nhỏ trong nếp ăn uống mỗi ngày cùng [App IKIHEALING](https://ikihealing.com/app.html) để thấy điều gì thật sự tạo ra khác biệt.
 :::
 
 ## Ai không nên dùng mật ong

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-09-21",
   "updated": "2026-09-21",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/mua-hop-bot-dam-roi-bo-quen-vi-sao-hero.jpg",
   "hero_alt": "Hũ thuỷ tinh đựng bột đạm thực vật trên mặt bàn bếp gỗ, muỗng đong bằng gỗ để khô bên ngoài hũ",
   "reading_min": 14,
@@ -125,7 +125,7 @@ Chỉ chọn **một** mốc. Nhiều người hỏng ở chỗ định uống "
 
 Điều này cũng đúng với chuyện chọn giờ. Nếu bạn đang phân vân nên đặt mốc vào sáng, trưa hay tối, bài [uống đạm thực vật lúc nào trong ngày](uong-dam-thuc-vat-luc-nao-trong-ngay.html) phân tích kỹ từng khung giờ. Nhưng xin nói trước: mốc tốt nhất là mốc bạn giữ được, không phải mốc lý tưởng trên lý thuyết.
 
-Nếu bạn muốn một chỗ để ghi lại nếp này theo ngày thay vì nhớ trong đầu, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký để đánh dấu từng ngày. Nhìn thấy một chuỗi ngày liền nhau là động lực cụ thể hơn nhiều so với quyết tâm suông.
+Nếu bạn muốn một chỗ để ghi lại nếp này theo ngày thay vì nhớ trong đầu, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký để đánh dấu từng ngày. Nhìn thấy một chuỗi ngày liền nhau là động lực cụ thể hơn nhiều so với quyết tâm suông.
 
 ## Lý do thứ tư: mua hộp quá lớn ngay lần đầu
 
@@ -141,7 +141,7 @@ Cách làm hợp lý cho lần mua sau:
 2. **Chỉ chuyển sang hộp lớn sau khi đã giữ được nếp uống bốn tuần liên tục.** Lúc đó phần tiết kiệm mới là tiết kiệm thật.
 3. **Nếu lỡ đang có hộp lớn**, hãy chia nó ra. Chiết bột vào hai hoặc ba hũ nhỏ kín, để một hũ ngoài bàn bếp, cất phần còn lại. Cách này vừa cho cảm giác tiến triển, vừa bảo vệ phần bột chưa dùng khỏi hơi ẩm.
 
-Khi chọn hộp cho lần sau, dung lượng và độ trung tính của vị đáng cân nhắc hơn là con số đạm trên mỗi khẩu phần, vì con số đạm giữa các loại trong cùng phân khúc thường không chênh nhau nhiều. [True Vegan Protein](https://trueveganprotein.com) là dòng bột đạm thực vật của IKI, làm từ nguồn đạm thực vật phối hợp, vị trung tính để bạn pha được với nhiều thứ khác nhau — thông tin thành phần và cách dùng có đầy đủ trên trang sản phẩm để bạn tự đối chiếu với nhu cầu của mình.
+Khi chọn hộp cho lần sau, dung lượng và độ trung tính của vị đáng cân nhắc hơn là con số đạm trên mỗi khẩu phần, vì con số đạm giữa các loại trong cùng phân khúc thường không chênh nhau nhiều. [True Vegan Protein](https://trueveganprotein.com) là dòng bột đạm thực vật của IKIHEALING, làm từ nguồn đạm thực vật phối hợp, vị trung tính để bạn pha được với nhiều thứ khác nhau — thông tin thành phần và cách dùng có đầy đủ trên trang sản phẩm để bạn tự đối chiếu với nhu cầu của mình.
 
 ## Lý do thứ năm ít ai nói: chiếc muỗng ẩm và những cục vón
 
@@ -176,7 +176,7 @@ Trước khi bắt tay vào dùng hết chỗ bột còn lại, phải kiểm đ
 **Nếu còn phân vân thì bỏ.** Một hộp bột không đáng để bạn đánh cược. Không có cách nào cứu bột đã nhiễm ẩm sâu bằng việc sấy lại, rây lại hay phơi nắng, và bạn cũng không nhìn thấy được nấm mốc ở giai đoạn đầu.
 
 :::note Khi nào cần hỏi ý kiến chuyên môn
-Nếu bạn có bệnh thận hoặc gan, đang dùng thuốc điều trị dài ngày, đang mang thai hoặc cho con bú, có tiền sử dị ứng đậu nành hoặc các loại hạt, hoặc đang cân nhắc dùng cho trẻ em, thì câu hỏi cần hỏi không phải là "làm sao dùng hết hộp" mà là "tôi có nên dùng không, và bao nhiêu". Người trả lời phải là bác sĩ hoặc chuyên gia dinh dưỡng đang theo dõi bạn.
+Nếu bạn có bệnh thận hoặc gan, đang dùng thuốc theo chỉ định dài ngày, đang mang thai hoặc cho con bú, có tiền sử dị ứng đậu nành hoặc các loại hạt, hoặc đang cân nhắc dùng cho trẻ em, thì câu hỏi cần hỏi không phải là "làm sao dùng hết hộp" mà là "tôi có nên dùng không, và bao nhiêu". Người trả lời phải là bác sĩ hoặc chuyên gia dinh dưỡng đang theo dõi bạn.
 :::
 
 ## Kế hoạch mười bốn ngày để dùng hết chỗ bột còn lại

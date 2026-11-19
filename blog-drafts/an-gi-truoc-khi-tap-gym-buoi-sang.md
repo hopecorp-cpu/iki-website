@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng vận động",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-gi-truoc-khi-tap-gym-buoi-sang-hero.jpg",
   "hero_alt": "Bữa sáng nhẹ trước buổi tập gồm chuối, yến mạch và một ly nước",
   "reading_min": 14,
@@ -176,7 +176,7 @@ Không có một câu trả lời đúng cho tất cả mọi người, nhưng c
 - **Ngày 5–6:** thử phương án có đạm (yến mạch với sữa, bánh mì trứng) cách buổi tập 45–60 phút.
 - **Ngày 7:** so sánh và giữ lại phương án nào cho bạn cảm giác tốt nhất ở phút thứ 45 — đó là mốc phân biệt rõ nhất.
 
-Cách theo dõi này đơn giản nhưng hiệu quả hơn nhiều so với đọc thêm mười bài viết. Nếu muốn ghi lại có hệ thống, bạn có thể dùng [App IKI](https://ikihealing.com/app.html) để nhật ký bữa ăn và cảm giác sau tập, hoặc bắt đầu bằng [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết mình thuộc nhóm dễ nóng, dễ lạnh hay dễ đầy bụng — điều này ảnh hưởng khá nhiều tới việc bạn hợp bữa sáng nặng hay nhẹ. Buổi tối sau ngày tập nặng, một tách [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) là một cách để kết thúc ngày nhẹ nhàng hơn.
+Cách theo dõi này đơn giản nhưng hiệu quả hơn nhiều so với đọc thêm mười bài viết. Nếu muốn ghi lại có hệ thống, bạn có thể dùng [App IKIHEALING](https://ikihealing.com/app.html) để nhật ký bữa ăn và cảm giác sau tập, hoặc bắt đầu bằng [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết mình thuộc nhóm dễ nóng, dễ lạnh hay dễ đầy bụng — điều này ảnh hưởng khá nhiều tới việc bạn hợp bữa sáng nặng hay nhẹ. Buổi tối sau ngày tập nặng, một tách [trà thảo mộc thư giãn](https://thanhhuongtra.ikihealing.com) là một cách để kết thúc ngày nhẹ nhàng hơn.
 
 ## Nguồn tham khảo
 

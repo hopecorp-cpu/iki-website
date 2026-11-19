@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/com-hop-mang-di-lam-du-chat-an-toan-hero.jpg",
   "hero_alt": "Hộp cơm thuỷ tinh chia ngăn với cơm, rau luộc và món mặn đặt trên bàn bếp sáng",
   "reading_min": 15,

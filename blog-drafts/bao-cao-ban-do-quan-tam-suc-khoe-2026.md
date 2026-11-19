@@ -1,13 +1,13 @@
 ---json
 {
-  "title": "Báo cáo bản đồ quan tâm sức khoẻ: người Việt chủ động nêu điều gì khi đi tìm sản phẩm — theo dữ liệu của IKI by HOPE CORP",
+  "title": "Báo cáo bản đồ quan tâm sức khoẻ: người Việt chủ động nêu điều gì khi đi tìm sản phẩm — theo dữ liệu của IKIHEALING by HOPE CORP",
   "seo_title": "Người Việt chủ động hỏi gì khi tìm mua sản phẩm sức khoẻ?",
   "slug": "bao-cao-ban-do-quan-tam-suc-khoe-2026",
   "description": "Băn khoăn về giá đứng đầu với 25% số cuộc, dưỡng Can theo Đông y 21% — đo trên 660 cuộc tư vấn thật mà khách là bên chủ động nêu vấn đề. Số liệu mở cho báo chí trích dẫn.",
   "keyword": "người Việt quan tâm gì về sức khoẻ",
   "category": "bao-cao",
   "date": "2026-08-10",
-  "author": "Đội ngũ IKI Healing",
+  "author": "Đội ngũ IKIHEALING",
   "hero_local": "assets/blog/bao-cao-ban-do-quan-tam-suc-khoe-2026-hero.jpg",
   "hero_alt": "Bàn gỗ bên cửa sổ với cây xanh nhỏ, ly sứ trắng và tờ giấy in biểu đồ, ánh sáng tự nhiên",
   "reading_min": 8,
@@ -23,7 +23,7 @@
     },
     {
       "q": "Báo chí có được trích dẫn không?",
-      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKI Healing, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
+      "a": "Có, miễn phí — kèm ghi nguồn 'Báo cáo IKIHEALING, 2026' và liên kết về trang này. Liên hệ contact@ikihealing.com nếu cần bảng số chi tiết hoặc góc phân tích riêng, phản hồi trong 48 giờ làm việc."
     }
   ],
   "anh_ai": true
@@ -32,7 +32,7 @@
 
 Muốn biết người Việt quan tâm gì về sức khoẻ, cách phổ biến nhất là làm khảo sát: đưa ra một danh sách và mời người ta chọn. Cách đó có một điểm yếu ai cũng biết mà ít ai nói: **kết quả không thể vượt ra ngoài danh sách người soạn nghĩ ra**.
 
-Đây là báo cáo thứ sáu trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKI Healing. Lần này chúng tôi thử một cách đo khác: đọc điều khách hàng **tự nêu bằng lời của mình** trong các cuộc tư vấn có thật, không có đáp án gợi ý sẵn.
+Đây là báo cáo thứ sáu trong chuỗi [Báo cáo & Số liệu](danh-muc-bao-cao.html) của IKIHEALING. Lần này chúng tôi thử một cách đo khác: đọc điều khách hàng **tự nêu bằng lời của mình** trong các cuộc tư vấn có thật, không có đáp án gợi ý sẵn.
 
 ## Tổng quan
 
@@ -44,7 +44,7 @@ Muốn biết người Việt quan tâm gì về sức khoẻ, cách phổ biế
 - **Da và sắc đẹp: 2%** (n = 13).
 - **Muốn thấy bằng chứng: 2%** (n = 10).
 
-Cỡ mẫu chung: **660 cuộc hội thoại** mà khách là bên nêu vấn đề trước. Kỳ đo tính đến đầu tháng 8/2026, nguồn là dữ liệu vận hành nội bộ của IKI by HOPE CORP.
+Cỡ mẫu chung: **660 cuộc hội thoại** mà khách là bên nêu vấn đề trước. Kỳ đo tính đến đầu tháng 8/2026, nguồn là dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP.
 
 ## 1. Đứng đầu bảng không phải một vấn đề cơ thể, mà là giá
 
@@ -102,7 +102,7 @@ Khi người tư vấn chủ động gửi một nội dung nào đó rồi khá
 
 ## Nguồn và phương pháp
 
-- **Nguồn:** dữ liệu vận hành nội bộ của IKI by HOPE CORP — hệ thống ghi nhận hội thoại tư vấn chăm sóc khách hàng.
+- **Nguồn:** dữ liệu vận hành nội bộ của IKIHEALING by HOPE CORP — hệ thống ghi nhận hội thoại tư vấn chăm sóc khách hàng.
 - **Cỡ mẫu:** 660 cuộc hội thoại mà khách là bên chủ động nêu vấn đề, lọc ra từ 2.765 cuộc có nhu cầu rõ.
 - **Kỳ dữ liệu:** tính đến đầu tháng 8/2026.
 - **Cách đo:** phân loại chủ đề mà khách tự nêu trong hội thoại, sau đó chỉ giữ những cuộc mà khách là bên nêu vấn đề trước; 2.105 cuộc còn lại bị loại để số không bị các nội dung tư vấn gửi sẵn làm phồng. Tỉ lệ phần trăm tính trên 660 cuộc đã lọc.
@@ -123,7 +123,7 @@ Nếu bạn muốn diễn đạt mối quan tâm của mình gọn hơn trước
 
 ## Dành cho báo chí
 
-Trích dẫn miễn phí kèm nguồn *"Báo cáo IKI Healing, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
+Trích dẫn miễn phí kèm nguồn *"Báo cáo IKIHEALING, 2026"* và liên kết về trang này. Cần thêm số, bảng chi tiết hoặc phỏng vấn: **contact@ikihealing.com** — phản hồi trong 48 giờ làm việc.
 
 :::note Ghi chú pháp lý
 Báo cáo phản ánh hành vi thị trường và thói quen tiêu dùng, không phải dữ liệu y khoa và không mô tả công dụng sản phẩm. Các sản phẩm được nhắc đến không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh. Nội dung không thay thế chẩn đoán hoặc tư vấn y khoa.

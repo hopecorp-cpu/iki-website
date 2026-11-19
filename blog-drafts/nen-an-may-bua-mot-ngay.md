@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nen-an-may-bua-mot-ngay-hero.jpg",
   "hero_alt": "Bàn ăn với các phần ăn nhỏ chia theo nhịp trong ngày",
   "reading_min": 14,
@@ -176,7 +176,7 @@ Bốn câu này đáng tin hơn bất kỳ con số nào, vì chúng dựa trên
 - **Ngày 6:** dịch bữa tối sớm hơn 30–60 phút và làm nó nhẹ hơn bữa trưa.
 - **Ngày 7:** nhìn lại cả tuần và chọn nhịp nào khiến bạn ít bị đói cồn cào nhất, ít buồn ngủ sau ăn nhất. Đó là nhịp của bạn.
 
-Ghi chép bằng tay dễ bỏ dở; nếu muốn nhẹ nhàng hơn, [App IKI](../app.html) có phần nhật ký ghi trong vài giây và tự tổng hợp lại theo tuần.
+Ghi chép bằng tay dễ bỏ dở; nếu muốn nhẹ nhàng hơn, [App IKIHEALING](../app.html) có phần nhật ký ghi trong vài giây và tự tổng hợp lại theo tuần.
 
 ## Kết: đừng đi tìm con số, hãy đi tìm nhịp của mình
 

@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-16",
   "updated": "2026-08-16",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cach-chon-sua-hat-dong-hop-mua-san-hero.jpg",
   "hero_alt": "Ly sữa hạt bên cạnh hạnh nhân, hạt điều và yến mạch trên bàn gỗ sáng",
   "reading_min": 14,
@@ -204,7 +204,7 @@ Chọn sữa hạt đóng hộp không khó — chỉ cần bạn chịu lật h
 
 Và hãy giữ đúng kỳ vọng: sữa hạt là một thức uống ngon, nhẹ bụng, phù hợp với nhiều người. Nó không phải nguồn đạm chính, không phải bữa ăn, và không phải giải pháp cho vấn đề sức khoẻ nào. Vị trí của nó trong ngày là một phần bổ sung dễ chịu — và như vậy đã là đủ tốt.
 
-Nếu bạn muốn biết nên ưu tiên bổ sung nhóm chất nào trước trong bữa ăn của mình, hãy làm [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz). Còn nếu muốn theo dõi xem những thay đổi nhỏ trong bữa sáng có làm bạn dễ chịu hơn không, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn cho việc đó.
+Nếu bạn muốn biết nên ưu tiên bổ sung nhóm chất nào trước trong bữa ăn của mình, hãy làm [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz). Còn nếu muốn theo dõi xem những thay đổi nhỏ trong bữa sáng có làm bạn dễ chịu hơn không, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn cho việc đó.
 
 ## Nguồn tham khảo
 

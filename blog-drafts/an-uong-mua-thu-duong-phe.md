@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-08-10",
   "updated": "2026-08-10",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-uong-mua-thu-duong-phe-hero.jpg",
   "hero_alt": "Bát cháo hạt sen và lê hấp trên bàn gỗ mùa thu",
   "reading_min": 15,
@@ -205,7 +205,7 @@ Uống đúng quan trọng ngang với ăn đúng, và mùa thu là mùa dễ u�
 - Tối: cơm, canh bí xanh, trứng hấp thịt, rau xào ít dầu.
 - Trước ngủ: một cốc nước ấm pha chút mật ong.
 
-Nếu bạn muốn theo dõi xem những điều chỉnh này có làm mình dễ chịu hơn thật không, [App IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn mỗi ngày để ghi lại cảm nhận; sau vài tuần bạn sẽ thấy rõ điều gì hợp với cơ thể mình và điều gì chỉ là lời khuyên chung.
+Nếu bạn muốn theo dõi xem những điều chỉnh này có làm mình dễ chịu hơn thật không, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn mỗi ngày để ghi lại cảm nhận; sau vài tuần bạn sẽ thấy rõ điều gì hợp với cơ thể mình và điều gì chỉ là lời khuyên chung.
 
 ## Kết: ăn theo mùa là cách chăm sóc rẻ nhất
 
@@ -221,4 +221,4 @@ Và cuối cùng, xin nhắc lại điều đã nói ở đầu bài: các biể
 - Sở Y tế Hà Tĩnh — [Phép dưỡng sinh ăn uống mùa thu](https://soyte.hatinh.gov.vn/tin-tuc-su-kien/thong-tin-y-te/phep-duong-sinh-an-uong-mua-thu.html)
 - Sở Y tế Nghệ An — [Nên ăn uống thế nào trong mùa thu theo Y học cổ truyền?](https://yte.nghean.gov.vn/cam-nang-suc-khoe/nen-an-uong-the-nao-trong-mua-thu-theo-y-hoc-co-truyen-691230)
 
-Bài viết do **Đội ngũ Health Coach IKI** biên soạn, tổng hợp từ các nguồn y tế phổ thông và tài liệu y học cổ truyền. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.
+Bài viết do **Đội ngũ Health Coach IKIHEALING** biên soạn, tổng hợp từ các nguồn y tế phổ thông và tài liệu y học cổ truyền. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.

@@ -8,7 +8,7 @@
   "category": "dong-y",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/hay-bi-lanh-bung-nen-an-uong-the-nao-hero.jpg",
   "hero_alt": "Bát cháo nóng và tách trà gừng ấm đặt trên bàn gỗ trong buổi sáng se lạnh",
   "reading_min": 15,
@@ -93,7 +93,7 @@ Ngoài bốn nguyên tắc trên, còn một điều thuộc về sinh hoạt ch
 - **Rượu bia lạnh.** Kết hợp giữa lạnh, cồn và thường đi kèm đồ nhắm nhiều dầu mỡ là bộ ba mà nhóm hay lạnh bụng thường phải trả giá ngay tối hôm đó.
 - **Cà phê đá lúc bụng đói.** Rất phổ biến trong nếp sinh hoạt Việt và cũng là thứ nhiều người thấy khó chịu nhất khi bụng trống.
 
-Cách tiếp cận nên là **quan sát và điều chỉnh theo phản ứng của chính mình**, chứ không phải áp dụng máy móc. Hãy thử ghi lại trong hai tuần: ăn gì, uống gì, và bụng phản ứng thế nào sau đó vài tiếng. Bạn sẽ nhanh chóng nhận ra danh sách của riêng mình, và nó có thể khác danh sách chung ở vài chỗ. [App IKI](../app.html) có phần nhật ký để ghi nhanh việc này mỗi ngày.
+Cách tiếp cận nên là **quan sát và điều chỉnh theo phản ứng của chính mình**, chứ không phải áp dụng máy móc. Hãy thử ghi lại trong hai tuần: ăn gì, uống gì, và bụng phản ứng thế nào sau đó vài tiếng. Bạn sẽ nhanh chóng nhận ra danh sách của riêng mình, và nó có thể khác danh sách chung ở vài chỗ. [App IKIHEALING](../app.html) có phần nhật ký để ghi nhanh việc này mỗi ngày.
 
 ## Cách chế biến quan trọng ngang với chọn nguyên liệu
 
@@ -157,7 +157,7 @@ Cùng một nguyên liệu, cách nấu quyết định phần lớn mức độ
 Bài viết chia sẻ kiến thức về thói quen ăn uống không thay thế được việc thăm khám. Nhận ra ranh giới này chính là một phần của việc chăm sóc sức khoẻ chủ động đúng nghĩa.
 
 :::case Chị L. (Hải Phòng) — ba thay đổi nhỏ trong một mùa hè
-Chị L., 36 tuổi, làm việc trong phòng máy lạnh cả ngày, kể rằng suốt mấy mùa hè chị luôn thấy bụng ậm ạch vào buổi chiều và hay phải chạy vào nhà vệ sinh sau bữa trưa có trà đá. Khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị thử ba điều: đổi ly trà đá trưa thành một tách trà ấm, mang theo một chiếc áo khoác mỏng che bụng khi ngồi máy lạnh, và thêm vài lát gừng vào bát canh mỗi bữa. Chị nói sau khoảng ba tuần, buổi chiều của chị dễ chịu hơn hẳn và chị không còn ngại bữa trưa như trước. Điều chị thấy đáng nói nhất là chị chẳng phải kiêng khem gì nhiều, chỉ đổi nhiệt độ của thứ mình ăn uống. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa; mỗi người có thể cảm nhận khác nhau. Nếu có dấu hiệu bất thường kéo dài, hãy đi khám.)
+Chị L., 36 tuổi, làm việc trong phòng máy lạnh cả ngày, kể rằng suốt mấy mùa hè chị luôn thấy bụng ậm ạch vào buổi chiều và hay phải chạy vào nhà vệ sinh sau bữa trưa có trà đá. Khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chị thử ba điều: đổi ly trà đá trưa thành một tách trà ấm, mang theo một chiếc áo khoác mỏng che bụng khi ngồi máy lạnh, và thêm vài lát gừng vào bát canh mỗi bữa. Chị nói sau khoảng ba tuần, buổi chiều của chị dễ chịu hơn hẳn và chị không còn ngại bữa trưa như trước. Điều chị thấy đáng nói nhất là chị chẳng phải kiêng khem gì nhiều, chỉ đổi nhiệt độ của thứ mình ăn uống. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa; mỗi người có thể cảm nhận khác nhau. Nếu có dấu hiệu bất thường kéo dài, hãy đi khám.)
 :::
 
 ## Kết: giữ ấm từ bên trong bằng những việc rất nhỏ

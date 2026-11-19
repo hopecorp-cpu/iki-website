@@ -7,7 +7,7 @@
   "keyword": "cách ghi nhật ký ăn uống",
   "category": "Thói quen",
   "date": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cach-ghi-nhat-ky-an-uong-hero.jpg",
   "hero_alt": "Cuốn sổ mở và cây bút bên cạnh bữa sáng đơn giản và tách trà",
   "reading_min": 14,
@@ -25,7 +25,7 @@
     {"title": "Duy trì thói quen ăn uống lành mạnh", "url": "duy-tri-thoi-quen-an-uong-lanh-manh.html"},
     {"title": "Cách chia đĩa bữa ăn cân bằng", "url": "cach-chia-dia-bua-an-can-bang.html"},
     {"title": "Ăn chậm nhai kỹ và những thay đổi nhỏ", "url": "an-cham-nhai-ky.html"},
-    {"title": "Nhật ký 30 giây trong ứng dụng IKI", "url": "app-iki-nhat-ky-30-giay-phan-tich.html"}
+    {"title": "Nhật ký 30 giây trong ứng dụng IKIHEALING", "url": "app-iki-nhat-ky-30-giay-phan-tich.html"}
   ],
   "anh_ai": true
 }
@@ -98,7 +98,7 @@ Riêng cột "cảm giác sau 1–2 tiếng" thì đương nhiên phải quay l�
 
 - **Sổ giấy nhỏ.** Ưu điểm: chậm rãi, không bị phân tâm bởi thông báo, cảm giác "viết ra" giúp nhớ lâu hơn. Nhược điểm: dễ quên mang theo.
 - **Ghi chú trên điện thoại.** Luôn có sẵn, gõ nhanh. Nhược điểm: mở điện thoại ra là dễ bị cuốn sang việc khác.
-- **Ứng dụng chuyên dụng.** Ưu điểm lớn nhất là nó tự tổng hợp lại: bạn không phải ngồi đọc lại bảy trang ghi tay để tìm quy luật. [Ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký nhanh khoảng 30 giây mỗi bữa và tự nhóm lại theo tuần, chỉ ra những gì lặp lại — cách hoạt động cụ thể được mô tả trong bài [Nhật ký 30 giây trong ứng dụng IKI](app-iki-nhat-ky-30-giay-phan-tich.html).
+- **Ứng dụng chuyên dụng.** Ưu điểm lớn nhất là nó tự tổng hợp lại: bạn không phải ngồi đọc lại bảy trang ghi tay để tìm quy luật. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký nhanh khoảng 30 giây mỗi bữa và tự nhóm lại theo tuần, chỉ ra những gì lặp lại — cách hoạt động cụ thể được mô tả trong bài [Nhật ký 30 giây trong ứng dụng IKIHEALING](app-iki-nhat-ky-30-giay-phan-tich.html).
 
 Không có cách nào "đúng" hơn cách nào. Cách tốt nhất là cách bạn duy trì được đủ bảy ngày.
 
@@ -158,7 +158,7 @@ Thử dời bữa tối sớm hơn 60–90 phút và giữ bữa tối nhẹ hơ
 **Nếu bạn thấy: cả tuần gần như không có rau.**
 Rất phổ biến với người ăn ngoài. Cách dễ nhất không phải là nấu nhiều hơn, mà là chọn quán có canh và rau, hoặc chuẩn bị sẵn rau cho vài bữa như trong [Chuẩn bị bữa ăn cả tuần cho người đi làm](chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam.html).
 
-Mỗi người sẽ ra một bức tranh khác nhau, vì cơ địa và nhịp sống khác nhau. Nếu bạn muốn biết nhóm thực phẩm nào hợp với cơ địa mình trước khi bắt đầu điều chỉnh, [bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz) cho bạn một điểm khởi đầu cụ thể để đối chiếu với những gì nhật ký ghi lại.
+Mỗi người sẽ ra một bức tranh khác nhau, vì cơ địa và nhịp sống khác nhau. Nếu bạn muốn biết nhóm thực phẩm nào hợp với cơ địa mình trước khi bắt đầu điều chỉnh, [bài kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) cho bạn một điểm khởi đầu cụ thể để đối chiếu với những gì nhật ký ghi lại.
 
 ## Sáu lỗi khiến người ta bỏ nhật ký sau ba ngày
 
@@ -191,7 +191,7 @@ Trên mạng có hàng nghìn bài viết nói bạn nên ăn gì. Vấn đề l
 
 Bốn cột, ba mươi giây mỗi bữa, bảy ngày liên tục, đọc lại một lần, đổi một thứ. Chỉ vậy thôi.
 
-Đó là tinh thần chăm sóc sức khoẻ chủ động mà IKI theo đuổi: thay vì làm theo một công thức chung, bạn hiểu chính cơ thể mình rồi tự chọn điều phù hợp. Nếu bạn muốn có một điểm khởi đầu rõ ràng trước khi ghi ngày đầu tiên, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ cho bạn biết cơ địa mình nghiêng về nhóm nào, để những gì nhật ký ghi lại trở nên dễ đọc hơn nhiều.
+Đó là tinh thần chăm sóc sức khoẻ chủ động mà IKIHEALING theo đuổi: thay vì làm theo một công thức chung, bạn hiểu chính cơ thể mình rồi tự chọn điều phù hợp. Nếu bạn muốn có một điểm khởi đầu rõ ràng trước khi ghi ngày đầu tiên, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — kết quả sẽ cho bạn biết cơ địa mình nghiêng về nhóm nào, để những gì nhật ký ghi lại trở nên dễ đọc hơn nhiều.
 
 ## Nguồn tham khảo
 

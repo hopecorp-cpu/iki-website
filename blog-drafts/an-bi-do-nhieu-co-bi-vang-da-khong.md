@@ -7,7 +7,7 @@
   "keyword": "ăn bí đỏ nhiều có bị vàng da không",
   "category": "Thực phẩm",
   "date": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-bi-do-nhieu-co-bi-vang-da-khong-hero.jpg",
   "hero_alt": "Bí đỏ cắt miếng và một bát súp bí đỏ trên bàn gỗ mộc",
   "reading_min": 14,
@@ -77,7 +77,7 @@ Bạn **không cần** uống thêm gì, kiêng khem gì đặc biệt, hay lo l
 
 Đây là lúc nguyên tắc quen thuộc phát huy tác dụng: **ăn đa dạng nhiều màu sắc** thay vì ăn mãi một món. Mỗi màu rau củ đại diện cho một nhóm hợp chất khác nhau — xanh đậm, đỏ, tím, trắng, cam — và cơ thể cần cả nhóm chứ không cần thật nhiều một nhóm. Bài [Ăn rau củ nhiều màu sắc](an-rau-cu-nhieu-mau-sac.html) đi sâu vào nguyên tắc này.
 
-Mỗi người hấp thu và chuyển hoá beta-caroten với tốc độ khác nhau, nên có người ăn bí đỏ khá nhiều vẫn không sao, người khác chỉ vài tuần đã thấy vàng tay. Nếu bạn muốn hiểu cơ địa của mình nghiêng về nhóm nào và hợp với nhịp ăn ra sao, hãy thử [bài kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz) — nó cho bạn một điểm khởi đầu thay vì phải thử sai từng món.
+Mỗi người hấp thu và chuyển hoá beta-caroten với tốc độ khác nhau, nên có người ăn bí đỏ khá nhiều vẫn không sao, người khác chỉ vài tuần đã thấy vàng tay. Nếu bạn muốn hiểu cơ địa của mình nghiêng về nhóm nào và hợp với nhịp ăn ra sao, hãy thử [bài kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) — nó cho bạn một điểm khởi đầu thay vì phải thử sai từng món.
 
 ## Một tuần nên ăn bí đỏ mấy lần
 
@@ -112,7 +112,7 @@ Sau khi đã nói về mặt "ăn quá", hãy công bằng với quả bí đỏ
 
 **Rẻ và để được lâu.** Một quả bí đỏ nguyên vẹn để nơi khô thoáng có thể giữ hàng tuần mà không hỏng. Với gia đình muốn ăn uống lành mạnh mà vẫn tiết kiệm, đây là món đáng có trong bếp.
 
-**Kết hợp tốt với đạm.** Súp bí đỏ nấu cùng một nguồn đạm — đậu lăng, đậu gà, hoặc một muỗng [đạm thực vật](https://trueveganprotein.com) khuấy vào lúc súp đã nguội bớt — biến một món rau thành một bữa hoàn chỉnh. Đây là cách nhiều người trong cộng đồng IKI dùng cho bữa tối nhẹ hoặc bữa sáng nhanh.
+**Kết hợp tốt với đạm.** Súp bí đỏ nấu cùng một nguồn đạm — đậu lăng, đậu gà, hoặc một muỗng [đạm thực vật](https://trueveganprotein.com) khuấy vào lúc súp đã nguội bớt — biến một món rau thành một bữa hoàn chỉnh. Đây là cách nhiều người trong cộng đồng IKIHEALING dùng cho bữa tối nhẹ hoặc bữa sáng nhanh.
 
 Cũng cần nói thẳng phần bí đỏ **không** làm được: nó không chữa bệnh, không thay thế thuốc, và không tạo ra thay đổi tức thì cho sức khoẻ hay vóc dáng. Nó là một loại rau củ tốt trong một bữa ăn cân bằng — thế đã là đủ giá trị rồi.
 
@@ -177,7 +177,7 @@ Nếu bạn đang lo về chuyện vàng da hoặc chỉ đơn giản muốn ăn
 - **Ngày 6:** Nếu có trẻ nhỏ, rà lại thực đơn ăn dặm của bé xem bí đỏ đang chiếm bao nhiêu phần.
 - **Ngày 7:** Nhìn lại: bữa ăn tuần này đã đủ nhiều màu chưa? Da tay có nhạt bớt không nếu trước đó đã ngả vàng?
 
-Nếu bạn muốn ghi lại những quan sát này mà không mất thời gian, [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký bữa ăn chỉ mất vài chục giây và tự tổng hợp theo tuần, giúp bạn thấy rõ mình đang lặp lại món nào quá nhiều.
+Nếu bạn muốn ghi lại những quan sát này mà không mất thời gian, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký bữa ăn chỉ mất vài chục giây và tự tổng hợp theo tuần, giúp bạn thấy rõ mình đang lặp lại món nào quá nhiều.
 
 ## Kết: một quả bí đỏ, đúng liều lượng
 
@@ -187,7 +187,7 @@ Trả lời gọn cho câu hỏi **ăn bí đỏ nhiều có bị vàng da khôn
 
 Cách ăn đúng gói gọn trong ba điều: **2–3 lần một tuần, khoảng 200g mỗi lần, và luân phiên với các loại rau củ khác màu.** Nếu da đã ngả vàng, chỉ cần đổi món vài tuần.
 
-Đó cũng là tinh thần chăm sóc sức khoẻ chủ động mà IKI theo đuổi: không thần thánh hoá món nào, không sợ hãi món nào, mà đặt mỗi thứ vào đúng chỗ trong nhịp ăn uống của riêng bạn. Nếu bạn muốn biết cơ địa mình hợp với nhóm thực phẩm nào để bắt đầu, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — mất chưa tới hai phút và cho bạn một hướng đi rõ ràng hơn nhiều so với đọc thêm mười bài "công dụng".
+Đó cũng là tinh thần chăm sóc sức khoẻ chủ động mà IKIHEALING theo đuổi: không thần thánh hoá món nào, không sợ hãi món nào, mà đặt mỗi thứ vào đúng chỗ trong nhịp ăn uống của riêng bạn. Nếu bạn muốn biết cơ địa mình hợp với nhóm thực phẩm nào để bắt đầu, hãy [làm bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) — mất chưa tới hai phút và cho bạn một hướng đi rõ ràng hơn nhiều so với đọc thêm mười bài "công dụng".
 
 ## Nguồn tham khảo
 

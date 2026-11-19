@@ -8,9 +8,9 @@
   "category": "thuc-pham",
   "date": "2026-08-05",
   "updated": "2026-08-05",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/thuc-pham-giau-chat-chong-oxy-hoa-hero.jpg",
-  "hero_alt": "Nền thương hiệu IKI cho bài viết về thực phẩm giàu chất chống oxy hoá",
+  "hero_alt": "Nền thương hiệu IKIHEALING cho bài viết về thực phẩm giàu chất chống oxy hoá",
   "reading_min": 14,
   "answer": "Thực phẩm giàu chất chống oxy hoá phổ biến ở chợ Việt gồm rau lá xanh đậm, cà chua, cà rốt, bí đỏ, khoai lang tím, các loại đậu, tỏi, nghệ, gừng, trà xanh, ổi, cam quýt, thanh long ruột đỏ, nho, dâu, các loại hạt và cá béo. Cách ăn đúng quan trọng hơn việc tìm món đắt tiền: mỗi ngày nên có ít nhất ba đến năm màu rau củ khác nhau, ăn cả vỏ khi được, nấu vừa chín tới và có chút dầu để cơ thể hấp thu được nhóm tan trong dầu.",
   "faq": [
@@ -193,7 +193,7 @@ Nếu danh sách 18 món ở trên khiến bạn thấy ngợp, hãy làm theo c
 - **Ngày 6**: thay một ly nước ngọt bằng trà nhạt hoặc nước lọc.
 - **Ngày 7**: đi chợ và mua hai loại rau củ mà tháng qua bạn chưa từng mua.
 
-Sau bảy ngày, việc cần làm không phải là làm nhiều hơn mà là giữ được nhịp này thành thói quen. Nếu muốn theo dõi khẩu phần và nhìn ra chỗ còn trống, [app IKI](https://ikihealing.com/app.html) cho phép ghi nhanh bữa ăn và xem lại xu hướng theo tuần.
+Sau bảy ngày, việc cần làm không phải là làm nhiều hơn mà là giữ được nhịp này thành thói quen. Nếu muốn theo dõi khẩu phần và nhìn ra chỗ còn trống, [app IKIHEALING](https://ikihealing.com/app.html) cho phép ghi nhanh bữa ăn và xem lại xu hướng theo tuần.
 
 ## Tóm lại
 

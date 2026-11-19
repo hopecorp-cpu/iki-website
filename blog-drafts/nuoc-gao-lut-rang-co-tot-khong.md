@@ -9,7 +9,7 @@
   "category": "Kiến thức thực phẩm",
   "date": "2026-08-14",
   "updated": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nuoc-gao-lut-rang-co-tot-khong-hero.jpg",
   "hero_alt": "Hũ thuỷ tinh đựng gạo lứt rang và tách nước gạo lứt ấm trên khăn vải lanh",
   "reading_min": 14,
@@ -103,7 +103,7 @@ Có hai cách, tuỳ độ đậm bạn muốn:
 
 **Nên tránh:** uống một lượng lớn khi bụng hoàn toàn trống, và uống nước đặc liên tục nhiều ngày liền.
 
-Nếu mục tiêu của bạn là bớt cà phê buổi sáng, nước gạo lứt rang là một trong vài lựa chọn hợp lý — bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) so sánh cụ thể các phương án. Với người vẫn muốn giữ chút hương cà phê nhưng nhẹ nhàng hơn, các [thức uống thay cà phê trong cửa hàng IKI](https://ikihealing.com/shop/) là hướng khác cho cùng một nhu cầu.
+Nếu mục tiêu của bạn là bớt cà phê buổi sáng, nước gạo lứt rang là một trong vài lựa chọn hợp lý — bài [Uống gì thay cà phê buổi sáng](uong-gi-thay-ca-phe-buoi-sang.html) so sánh cụ thể các phương án. Với người vẫn muốn giữ chút hương cà phê nhưng nhẹ nhàng hơn, các [thức uống thay cà phê trong cửa hàng IKIHEALING](https://ikihealing.com/shop/) là hướng khác cho cùng một nhu cầu.
 
 ## Ai nên hạn chế
 
@@ -152,7 +152,7 @@ Nếu buổi chiều bạn hay uể oải và tìm đến đồ ngọt, hãy th�
 Điều đáng giữ lại sau bảy ngày không phải là "phải uống nước gạo lứt rang mỗi ngày", mà là **có sẵn một thức uống không đường trong tầm tay ở đúng khung giờ bạn hay thèm ngọt**. Nước gạo lứt rang chỉ là một trong nhiều ứng viên cho vai trò đó — và là ứng viên rất dễ tính.
 
 :::note Đo lại sau vài tuần, đừng chỉ cảm tính
-Thói quen chỉ đáng giữ khi bạn thấy khác biệt thật. Hãy ghi lại vài chỉ dấu đơn giản trước khi bắt đầu — số ly nước ngọt mỗi tuần, cảm giác nặng bụng sau bữa, chất lượng giấc ngủ — rồi so lại sau ba tuần. Bạn có thể theo dõi những chỉ dấu này cùng [App IKI](https://ikihealing.com/app.html), hoặc [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết cơ địa mình hợp với nhóm thức uống nào.
+Thói quen chỉ đáng giữ khi bạn thấy khác biệt thật. Hãy ghi lại vài chỉ dấu đơn giản trước khi bắt đầu — số ly nước ngọt mỗi tuần, cảm giác nặng bụng sau bữa, chất lượng giấc ngủ — rồi so lại sau ba tuần. Bạn có thể theo dõi những chỉ dấu này cùng [App IKIHEALING](https://ikihealing.com/app.html), hoặc [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để biết cơ địa mình hợp với nhóm thức uống nào.
 :::
 
 ## Những hiểu lầm hay gặp

@@ -8,7 +8,7 @@
   "category": "Chăm sóc sức khoẻ chủ động",
   "date": "2026-07-31",
   "updated": "2026-07-31",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/tap-the-duc-buoi-sang-hay-buoi-toi-hero.jpg",
   "hero_alt": "Đôi giày thể thao và chai nước đặt cạnh cửa sổ buổi sớm",
   "reading_min": 14,
@@ -207,12 +207,12 @@ Thay vì tranh luận mãi, hãy thử nghiệm. Bốn tuần là đủ để c�
 1. **Tuần 3 — chọn khung thắng và tăng nhẹ** — Giữ khung giờ cho cảm giác tốt hơn, tăng lên 4 buổi hoặc tăng thời lượng lên 40 phút.
 1. **Tuần 4 — cố định thành lịch** — Đặt lịch cụ thể theo ngày trong tuần, chuẩn bị sẵn quần áo và giày từ tối hôm trước.
 
-Ba chỉ số cần ghi rất đơn giản, mỗi cái chấm theo thang 1-10: mức dễ dàng khi bắt đầu buổi tập, mức năng lượng trong ngày, chất lượng giấc ngủ đêm đó. Sau bốn tuần, nhìn vào bảng số bạn sẽ thấy câu trả lời cho riêng mình rõ hơn bất kỳ bài báo nào. Nếu muốn tự động ghi lại và nhận nhắc nhở, [App IKI](../app.html) có sẵn phần nhật ký này.
+Ba chỉ số cần ghi rất đơn giản, mỗi cái chấm theo thang 1-10: mức dễ dàng khi bắt đầu buổi tập, mức năng lượng trong ngày, chất lượng giấc ngủ đêm đó. Sau bốn tuần, nhìn vào bảng số bạn sẽ thấy câu trả lời cho riêng mình rõ hơn bất kỳ bài báo nào. Nếu muốn tự động ghi lại và nhận nhắc nhở, [App IKIHEALING](../app.html) có sẵn phần nhật ký này.
 
 Và nếu kết quả là "cả hai khung đều ổn" — xin chúc mừng, bạn thuộc nhóm linh hoạt nhất. Khi đó hãy chọn khung giờ ít bị lịch sinh hoạt phá vỡ nhất, vì tính đều đặn mới là thứ tạo ra kết quả.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKI Healing, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Giữ được nhịp mới là phần khó. Đo trên **470 lượt tái mua thật** của IKIHEALING, khoảng cách giữa hai lần mua liên tiếp có **trung vị 27 ngày** — gần đúng một tháng; 25% quay lại trong vòng 13 ngày, 25% cách nhau trên 47 ngày. Xem đầy đủ trong [Báo cáo chu kỳ tái mua](bao-cao-chu-ky-tai-mua-2026.html).
 :::
 
 ## Nguồn tham khảo

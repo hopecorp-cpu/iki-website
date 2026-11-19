@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/suc-khoe-cho-nhan-vien-hanh-chinh-hero.jpg",
   "hero_alt": "Góc làm việc hành chính lành mạnh",
   "reading_min": 15,
@@ -183,8 +183,8 @@ Nếu bạn muốn đi sâu hơn vào cách nuôi lại sự cân bằng tinh th
 
 **"Thực phẩm bổ sung sẽ bù lại việc ngồi nhiều và ăn uống qua loa."** Thực phẩm bổ sung chỉ là thứ đi kèm hỗ trợ cho lối sống, không thay thế vận động, tư thế đúng, bữa ăn cân bằng hay giấc ngủ. Nền tảng vẫn luôn là thói quen hằng ngày.
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
-Chị L., một nhân viên hành chính, từng chia sẻ rằng cuối mỗi ngày làm chị thường mỏi vai gáy, mắt khô và hay với tay lấy bánh kẹo cùng trà sữa vào buổi chiều cho đỡ buồn ngủ. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKI, chị bắt đầu bằng ba việc nhỏ: đặt lời nhắc đứng dậy vươn vai mỗi giờ, kê màn hình laptop lên ngang tầm mắt, và để một hộp hạt cùng ít trái cây trong ngăn bàn thay cho bánh kẹo. Vài tuần sau chị kể rằng vai gáy cuối ngày đỡ nặng hơn và chị bớt thèm đồ ngọt buổi chiều vì đã có sẵn đồ ăn nhẹ lành hơn trong tầm tay. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
+Chị L., một nhân viên hành chính, từng chia sẻ rằng cuối mỗi ngày làm chị thường mỏi vai gáy, mắt khô và hay với tay lấy bánh kẹo cùng trà sữa vào buổi chiều cho đỡ buồn ngủ. Sau khi tham gia cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, chị bắt đầu bằng ba việc nhỏ: đặt lời nhắc đứng dậy vươn vai mỗi giờ, kê màn hình laptop lên ngang tầm mắt, và để một hộp hạt cùng ít trái cây trong ngăn bàn thay cho bánh kẹo. Vài tuần sau chị kể rằng vai gáy cuối ngày đỡ nặng hơn và chị bớt thèm đồ ngọt buổi chiều vì đã có sẵn đồ ăn nhẹ lành hơn trong tầm tay. (Đây là trải nghiệm cá nhân về thay đổi thói quen sinh hoạt, không phải lời khuyên y khoa hay cam kết về sức khoẻ; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Anh K. (Hà Nội) — dân văn phòng chỉnh lại tư thế và nhịp nghỉ mắt
@@ -195,6 +195,6 @@ Anh K. làm kế toán, gần như dán mắt vào bảng tính suốt tám ti�
 
 Sức khoẻ của dân văn phòng không được quyết định bởi một buổi tập cuối tuần, mà bởi hàng trăm khoảnh khắc nhỏ trong tám tiếng ngồi mỗi ngày: bạn ngồi thế nào, có đứng dậy không, có cho mắt nghỉ không, có sẵn đồ ăn lành và chai nước bên cạnh không. Bạn không cần bỏ việc hay đảo lộn lịch trình. Bạn chỉ cần đặt lại vài thói quen nhỏ vào đúng chỗ trong ngày làm.
 
-Hãy chọn một việc dễ nhất để bắt đầu ngay ngày mai — thường là kê màn hình ngang tầm mắt, đặt lời nhắc đứng dậy mỗi giờ, hoặc để sẵn một hộp hạt trong ngăn bàn — làm cho tới khi nó thành phản xạ tự nhiên, rồi mới thêm việc tiếp theo. Đi chậm mà chắc, mỗi tháng vững thêm một thói quen, một năm sau bạn sẽ thấy những ngày làm việc dài trở nên dễ chịu hơn nhiều. Ứng dụng IKI có thể là một người bạn đồng hành nhắc bạn giữ những thói quen nhỏ ấy giữa guồng công việc, nhưng thứ tạo ra khác biệt vẫn là chính những lựa chọn đều đặn của bạn mỗi ngày.
+Hãy chọn một việc dễ nhất để bắt đầu ngay ngày mai — thường là kê màn hình ngang tầm mắt, đặt lời nhắc đứng dậy mỗi giờ, hoặc để sẵn một hộp hạt trong ngăn bàn — làm cho tới khi nó thành phản xạ tự nhiên, rồi mới thêm việc tiếp theo. Đi chậm mà chắc, mỗi tháng vững thêm một thói quen, một năm sau bạn sẽ thấy những ngày làm việc dài trở nên dễ chịu hơn nhiều. Ứng dụng IKIHEALING có thể là một người bạn đồng hành nhắc bạn giữ những thói quen nhỏ ấy giữa guồng công việc, nhưng thứ tạo ra khác biệt vẫn là chính những lựa chọn đều đặn của bạn mỗi ngày.
 
 > Những nội dung trong bài mang tính tham khảo cho lối sống chủ động, không thay thế tư vấn của bác sĩ hay chuyên gia y tế. Nếu bạn có dấu hiệu bất thường kéo dài như đau, tê, mỏi mắt dai dẳng hoặc bệnh lý nền, hãy đi khám và hỏi ý kiến chuyên gia trước khi thay đổi chế độ sinh hoạt.

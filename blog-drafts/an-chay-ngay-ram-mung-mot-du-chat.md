@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng & ăn uống",
   "date": "2026-08-06",
   "updated": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-chay-ngay-ram-mung-mot-du-chat-hero.jpg",
   "hero_alt": "Mâm cơm chay Việt với đậu phụ, nấm, rau luộc và canh rau củ",
   "reading_min": 14,
@@ -176,8 +176,8 @@ Mâm chay ngon thường cần sơ chế nhiều hơn mâm thường, nên chu�
 
 Với chừng đó, sáng ngày rằm bạn chỉ còn việc nấu — và mâm cơm không bị dồn vào phút chót, cũng không bị phải mua vội mấy món chay đóng gói ở cửa hàng tiện lợi.
 
-:::case Từ cộng đồng IKI
-Trong cộng đồng IKI, chuyện lặp lại nhiều nhất quanh bữa chay ngày rằm không phải là "ăn chay khó" mà là "hoá ra mình thiếu đậu phụ". Nhiều gia đình chỉ đổi một chi tiết — thay hai món chiên bằng một món đậu phụ kho nấm và một đĩa rau luộc — rồi kể lại rằng buổi chiều ngày rằm không còn cảm giác rã rời như trước. (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, không phải lời khuyên y khoa; mỗi người có thể cảm nhận khác nhau.)
+:::case Từ cộng đồng IKIHEALING
+Trong cộng đồng IKIHEALING, chuyện lặp lại nhiều nhất quanh bữa chay ngày rằm không phải là "ăn chay khó" mà là "hoá ra mình thiếu đậu phụ". Nhiều gia đình chỉ đổi một chi tiết — thay hai món chiên bằng một món đậu phụ kho nấm và một đĩa rau luộc — rồi kể lại rằng buổi chiều ngày rằm không còn cảm giác rã rời như trước. (Đây là chia sẻ về trải nghiệm thay đổi thói quen ăn uống, không phải lời khuyên y khoa; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết: giữ nếp cũ, chỉnh lại cái mâm

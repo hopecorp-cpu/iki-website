@@ -9,7 +9,7 @@
   "category": "dong-y",
   "date": "2026-08-12",
   "updated": "2026-08-12",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong-hero.jpg",
   "hero_alt": "Tách trà thảo mộc ấm bên ngọn đèn nhỏ trong không gian buổi tối yên tĩnh",
   "reading_min": 14,

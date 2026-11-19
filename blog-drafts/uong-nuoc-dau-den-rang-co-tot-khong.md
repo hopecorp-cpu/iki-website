@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-10",
   "updated": "2026-08-10",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-nuoc-dau-den-rang-co-tot-khong-hero.jpg",
   "hero_alt": "Ấm nước đậu đen rang và ly thuỷ tinh trên bàn gỗ",
   "reading_min": 14,
@@ -188,7 +188,7 @@ Nếu bạn muốn biết nước đậu đen rang có hợp với mình không,
 5. **Ngày 6:** thử ăn cả hạt thay vì uống nước — một bát chè đậu đen ít đường hoặc đậu đen nấu cùng cơm.
 6. **Ngày 7:** đọc lại ghi chú và tự trả lời: cách nào khiến mình dễ chịu nhất, bụng dạ ổn nhất?
 
-Sau bảy ngày bạn sẽ có câu trả lời riêng, đáng tin hơn mọi lời khuyên chung. Nếu muốn ghi lại những quan sát kiểu này mà không phải dùng sổ tay, [App IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn mỗi ngày để bạn nhìn ra quy luật của cơ thể sau vài tuần.
+Sau bảy ngày bạn sẽ có câu trả lời riêng, đáng tin hơn mọi lời khuyên chung. Nếu muốn ghi lại những quan sát kiểu này mà không phải dùng sổ tay, [App IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn mỗi ngày để bạn nhìn ra quy luật của cơ thể sau vài tuần.
 
 ## Kết: một cốc là món ngon, cả ấm là chuyện khác
 
@@ -204,4 +204,4 @@ Chăm sóc sức khoẻ chủ động không phải là tìm ra loại nước u
 - Nhà thuốc FPT Long Châu — [Lưu ý khi uống nước đậu đen rang](https://nhathuoclongchau.com.vn/bai-viet/luu-y-khi-uong-nuoc-dau-den-rang-67552.html)
 - YouMed — [Cách nấu nước đậu đen rang: lợi ích và những lưu ý khi uống](https://youmed.vn/tin-tuc/nuoc-dau-den-rang/)
 
-Bài viết do **Đội ngũ Health Coach IKI** biên soạn, tổng hợp từ các nguồn y tế phổ thông và kinh nghiệm chăm sóc sức khoẻ chủ động. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.
+Bài viết do **Đội ngũ Health Coach IKIHEALING** biên soạn, tổng hợp từ các nguồn y tế phổ thông và kinh nghiệm chăm sóc sức khoẻ chủ động. Nội dung mang tính tham khảo, không thay thế chẩn đoán hoặc tư vấn y khoa.

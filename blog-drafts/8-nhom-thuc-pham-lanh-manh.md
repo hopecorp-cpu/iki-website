@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/8-nhom-thuc-pham-lanh-manh-hero.jpg",
   "hero_alt": "Bàn ăn bày đủ tám nhóm thực phẩm lành mạnh gồm gạo lứt, đậu, hạt, rau xanh, củ, trái cây và món lên men",
   "reading_min": 15,

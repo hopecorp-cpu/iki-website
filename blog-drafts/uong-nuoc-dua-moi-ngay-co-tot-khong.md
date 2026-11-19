@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-08-04",
   "updated": "2026-08-04",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-nuoc-dua-moi-ngay-co-tot-khong-hero.jpg",
   "hero_alt": "Nước dừa tươi rót vào ly thuỷ tinh bên quả dừa xanh bổ đôi",
   "reading_min": 13,
@@ -166,7 +166,7 @@ Và nếu bạn dùng nước dừa để thay hẳn nước lọc, bạn đang 
 
 Cách nhìn hữu ích: xem nước dừa như một món trong danh sách đồ uống lành mạnh của bạn, luân phiên cùng nước lọc, trà thảo mộc, nước chanh nhạt — thay vì tôn nó lên thành thức uống duy nhất.
 
-Việc theo dõi xem mình đang uống gì và cơ thể phản hồi ra sao là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKI](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày để bạn nhìn được xu hướng của chính mình sau vài tuần, thay vì dựa vào cảm giác.
+Việc theo dõi xem mình đang uống gì và cơ thể phản hồi ra sao là thứ rất dễ trôi qua mà không để lại dấu vết. [App IKIHEALING](https://ikihealing.com/app.html) được xây theo hướng ghi nhật ký ngắn mỗi ngày để bạn nhìn được xu hướng của chính mình sau vài tuần, thay vì dựa vào cảm giác.
 
 ## Tổng kết
 

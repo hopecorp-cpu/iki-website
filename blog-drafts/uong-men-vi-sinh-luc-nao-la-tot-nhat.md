@@ -8,7 +8,7 @@
   "category": "Thực phẩm & nguyên liệu",
   "date": "2026-08-15",
   "updated": "2026-08-15",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-men-vi-sinh-luc-nao-la-tot-nhat-hero.jpg",
   "hero_alt": "Bát sữa chua trắng, hũ rau củ muối và ly nước đặt trên bàn gỗ",
   "reading_min": 13,

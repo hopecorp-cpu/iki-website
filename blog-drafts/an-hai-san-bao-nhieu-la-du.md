@@ -7,7 +7,7 @@
   "keyword": "ăn hải sản bao nhiêu là đủ",
   "category": "thuc-pham",
   "date": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-hai-san-bao-nhieu-la-du-hero.jpg",
   "hero_alt": "Mâm hải sản tươi bày trên mặt gỗ cùng gừng và chanh",
   "reading_min": 14,
@@ -163,7 +163,7 @@ Kinh nghiệm ẩm thực dưỡng sinh phương Đông xếp phần lớn hải
 
 Người có cơ địa dễ lạnh bụng thường thấy dễ chịu hơn khi ăn hải sản vào buổi trưa, chế biến ấm, kèm gia vị ấm, và uống nước ấm thay vì đồ đá. Một tách trà thảo mộc ban ngày sau bữa cũng là thói quen dễ chịu mà nhiều người giữ được lâu dài.
 
-Cách phân loại theo thể tạng này là trục xuyên suốt trong nội dung của IKI — bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) giải thích chi tiết, và bạn cũng có thể [làm khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) để biết mình nghiêng về nhóm nào.
+Cách phân loại theo thể tạng này là trục xuyên suốt trong nội dung của IKIHEALING — bài [5 thể tạng theo Đông y](5-the-tang-theo-dong-y.html) giải thích chi tiết, và bạn cũng có thể [làm khảo sát thể tạng 90 giây](https://ikihealing.com/quiz) để biết mình nghiêng về nhóm nào.
 
 ## Không ăn được hải sản thì thay bằng gì
 
@@ -176,7 +176,7 @@ Có người dị ứng, có người ăn chay, có người đơn giản là kh
 **I-ốt và kẽm** thì có thể lấy từ rong biển, muối i-ốt, trứng, các loại hạt và đậu.
 
 :::case Ghi lại vài tuần thì thấy ngay
-Nhiều người trong cộng đồng IKI khi ghi lại bữa ăn vài tuần mới phát hiện ra mình không ăn quá ít hải sản — mà ăn **quá đơn điệu**: gần như chỉ tôm, tuần nào cũng tôm. Việc đổi sang một tuần có cá nục, một tuần có nghêu không tốn thêm tiền và cũng không mất công hơn, nhưng làm khẩu phần vi khoáng đa dạng hẳn. [Ứng dụng IKI](https://ikihealing.com/app.html) có thể quét bữa ăn và cho thấy bạn đang lặp lại nhóm nào.
+Nhiều người trong cộng đồng IKIHEALING khi ghi lại bữa ăn vài tuần mới phát hiện ra mình không ăn quá ít hải sản — mà ăn **quá đơn điệu**: gần như chỉ tôm, tuần nào cũng tôm. Việc đổi sang một tuần có cá nục, một tuần có nghêu không tốn thêm tiền và cũng không mất công hơn, nhưng làm khẩu phần vi khoáng đa dạng hẳn. [Ứng dụng IKIHEALING](https://ikihealing.com/app.html) có thể quét bữa ăn và cho thấy bạn đang lặp lại nhóm nào.
 :::
 
 ## Những nhầm lẫn thường gặp
@@ -194,7 +194,7 @@ Nếu chỉ nhớ được vài dòng từ bài này, hãy nhớ ba điều: **2
 
 Phần còn lại thuộc về cơ địa của bạn. Có người ăn hải sản buổi tối vẫn ngủ ngon; có người thấy nặng bụng ngay. Có người hợp với món hấp; có người phải kèm gừng mới dễ chịu. Không có bảng khuyến nghị chung nào thay được việc bạn tự quan sát cơ thể mình vài tuần.
 
-Nếu muốn bắt đầu bằng một điểm tựa cụ thể hơn con số trung bình, hãy [làm khảo sát thể tạng 90 giây của IKI](https://ikihealing.com/quiz) — kết quả sẽ cho bạn gợi ý về cách ăn, cách chế biến và nhịp bữa phù hợp với nhóm thể tạng của mình, thay vì áp một công thức chung cho tất cả mọi người.
+Nếu muốn bắt đầu bằng một điểm tựa cụ thể hơn con số trung bình, hãy [làm khảo sát thể tạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) — kết quả sẽ cho bạn gợi ý về cách ăn, cách chế biến và nhịp bữa phù hợp với nhóm thể tạng của mình, thay vì áp một công thức chung cho tất cả mọi người.
 
 ## Nguồn tham khảo
 

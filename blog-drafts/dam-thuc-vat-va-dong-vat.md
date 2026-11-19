@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/dam-thuc-vat-va-dong-vat-hero.jpg",
   "hero_alt": "Nguồn đạm thực vật đa dạng",
   "reading_min": 15,
@@ -142,7 +142,7 @@ Quanh chuyện đạm có không ít quan niệm lệch lạc khiến nhiều ng
 Hiểu đúng về đạm giúp bạn ăn cân bằng và tự tin hơn, thay vì chạy theo những quan niệm cực đoan về một nhóm thực phẩm.
 
 :::case Chị Uyên (27 tuổi, nhân viên hành chính, Vinh) — cắt thịt nhầm thành cắt cả đạm
-Chị Uyên, 27 tuổi, làm hành chính cho một công ty xây dựng ở Vinh, sống cùng bố mẹ và thường ăn theo mâm cơm gia đình. Chị kể rằng mình từng nghĩ ăn ít lại và cắt bớt thịt là cách để nhẹ người, nên nhiều bữa chị chỉ xới lưng cơm ăn với rau, gần như không đụng tới món đạm nào, bữa sáng thì thường chỉ là gói xôi trắng hoặc nhịn luôn. Kết quả là mới chín, mười giờ sáng chị đã đói cồn cào, ngăn bàn lúc nào cũng phải có bánh quy, và người cứ thiếu sức kiểu là lạ dù ăn "thanh đạm". Mẹ chị sốt ruột, còn tưởng con gái ăn kiêng khắc nghiệt theo mạng. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKI, chị mới vỡ ra rằng mình không cần ăn nhiều thịt, nhưng không được bỏ đạm: chị học cách để ý "đạm ở đâu" trong mỗi bữa — thêm đậu phụ, trứng, một ly đạm thực vật cho bữa sáng và các món đậu cho bữa chính. Hoá ra mâm cơm nhà chị vốn có sẵn đậu phụ và lạc rang, chỉ là trước đây chị gạt ra vì tưởng "ăn vào nặng bụng". Vài tuần sau, chị chia sẻ rằng mình thấy no lâu hơn, bớt thèm ăn vặt và có cảm giác nhiều sức hơn trong ngày. Hộp bánh quy trong ngăn bàn giờ đổi thành hũ đậu phộng và hạt điều. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
+Chị Uyên, 27 tuổi, làm hành chính cho một công ty xây dựng ở Vinh, sống cùng bố mẹ và thường ăn theo mâm cơm gia đình. Chị kể rằng mình từng nghĩ ăn ít lại và cắt bớt thịt là cách để nhẹ người, nên nhiều bữa chị chỉ xới lưng cơm ăn với rau, gần như không đụng tới món đạm nào, bữa sáng thì thường chỉ là gói xôi trắng hoặc nhịn luôn. Kết quả là mới chín, mười giờ sáng chị đã đói cồn cào, ngăn bàn lúc nào cũng phải có bánh quy, và người cứ thiếu sức kiểu là lạ dù ăn "thanh đạm". Mẹ chị sốt ruột, còn tưởng con gái ăn kiêng khắc nghiệt theo mạng. Sau khi tham gia cộng đồng chăm sóc sức khỏe chủ động của IKIHEALING, chị mới vỡ ra rằng mình không cần ăn nhiều thịt, nhưng không được bỏ đạm: chị học cách để ý "đạm ở đâu" trong mỗi bữa — thêm đậu phụ, trứng, một ly đạm thực vật cho bữa sáng và các món đậu cho bữa chính. Hoá ra mâm cơm nhà chị vốn có sẵn đậu phụ và lạc rang, chỉ là trước đây chị gạt ra vì tưởng "ăn vào nặng bụng". Vài tuần sau, chị chia sẻ rằng mình thấy no lâu hơn, bớt thèm ăn vặt và có cảm giác nhiều sức hơn trong ngày. Hộp bánh quy trong ngăn bàn giờ đổi thành hũ đậu phộng và hạt điều. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y tế hay cam kết về sức khỏe; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 :::case Anh Toàn (44 tuổi, thợ cơ khí, Hải Dương) — phối cả hai nguồn đạm cho nhẹ bụng

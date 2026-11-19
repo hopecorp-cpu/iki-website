@@ -8,7 +8,7 @@
   "category": "thuc-pham",
   "date": "2026-07-21",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/rau-la-xanh-moi-ngay-hero.jpg",
   "hero_alt": "Rổ rau lá xanh tươi gồm cải, mồng tơi và rau muống bày trên bàn bếp bên cạnh dao và thớt",
   "reading_min": 13,
@@ -206,7 +206,7 @@ Quanh chuyện ăn rau cũng có không ít lời đồn. Cùng gỡ vài hiểu
 
 **"Rau đông lạnh thì mất hết chất."** Rau đông lạnh đúng cách thường giữ được phần lớn dưỡng chất và là lựa chọn tiện lợi khi không có rau tươi. Rau tươi đúng mùa vẫn lý tưởng, nhưng rau đông lạnh không phải là thứ "vô giá trị".
 
-:::case Câu chuyện từ cộng đồng IKI (ẩn danh)
+:::case Câu chuyện từ cộng đồng IKIHEALING (ẩn danh)
 Một thành viên nam trong cộng đồng, ngoài ba mươi tuổi, làm kỹ sư công trình và thường ăn cơm quán theo ca làm, chia sẻ rằng trước đây bữa cơm của anh gần như chỉ có cơm và món mặn, rau thì "có cũng được, không có cũng xong". Về nhà cuối tuần, mâm cơm gia đình anh cũng quen nếp cũ: đĩa thịt rán, nồi cá kho, còn rau chỉ thỉnh thoảng mới xuất hiện. Anh bắt đầu từ một thay đổi rất nhỏ: ăn quán thì gọi thêm đĩa rau luộc, còn cuối tuần thì tự tay mua vài loại rau theo mùa để cả nhà nấu canh, xào tỏi đổi vị. Vợ anh sau đó cũng hưởng ứng, mỗi lần đi chợ mua hai ba loại rau khác nhau thay vì một loại thật nhiều. Sau vài tháng, anh thấy bữa ăn nhẹ nhàng, đầy đặn và dễ chịu hơn, đồng thời cả nhà ăn rau nhiều hơn một cách tự nhiên, không ai phải nhắc ai. Điều anh thích nhất là chuyện thêm rau hoá ra chẳng tốn kém hay cầu kỳ gì — chỉ là nhớ gọi thêm một đĩa. (Đây là trải nghiệm cá nhân được chia sẻ để tham khảo, không phải lời khuyên y tế và không đại diện cho kết quả của mọi người; nhu cầu dinh dưỡng của mỗi người mỗi khác, khi có vấn đề sức khỏe cụ thể bạn nên hỏi ý kiến chuyên gia dinh dưỡng hoặc bác sĩ.)
 :::
 
@@ -216,7 +216,7 @@ Chị M. kể rằng chị vốn nghĩ mấy loại rau như cải bó xôi ch�
 
 ## Kết
 
-Rau lá xanh là một ví dụ đẹp cho triết lý ăn uống mà cộng đồng IKI theo đuổi: **những lựa chọn bình dị, đều đặn và hợp lý mới là nền tảng của việc chăm sóc sức khỏe chủ động.** Rau xanh giàu chất xơ, vitamin và khoáng chất, lại ít năng lượng và dễ tiếp cận, đến mức đôi khi ta quên mất nó quý đến đâu.
+Rau lá xanh là một ví dụ đẹp cho triết lý ăn uống mà cộng đồng IKIHEALING theo đuổi: **những lựa chọn bình dị, đều đặn và hợp lý mới là nền tảng của việc chăm sóc sức khỏe chủ động.** Rau xanh giàu chất xơ, vitamin và khoáng chất, lại ít năng lượng và dễ tiếp cận, đến mức đôi khi ta quên mất nó quý đến đâu.
 
 Không cần cầu kỳ, chỉ cần nhớ vài điều cốt lõi: bữa nào cũng có rau, luân phiên nhiều loại theo mùa, rửa trước khi cắt và nấu nhanh để giữ chất, ăn khoảng 300g mỗi ngày chia đều các bữa, và đổi cách chế biến để đỡ ngán. Đó là cách để một nắm rau xanh phát huy hết giá trị của nó một cách bền vững.
 

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-07-22",
   "updated": "2026-07-22",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/day-bung-kho-tieu-sau-an-hero.jpg",
   "hero_alt": "Trà gừng ấm và rau xanh",
   "reading_min": 13,

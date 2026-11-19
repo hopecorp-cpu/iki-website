@@ -8,7 +8,7 @@
   "category": "Thói quen & lối sống",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lech-mui-gio-jet-lag-lay-lai-nhip-ngu-hero.jpg",
   "hero_alt": "Khung cửa sổ máy bay nhìn ra biển mây lúc bình minh, bên cạnh là cuốn sổ nhỏ và ly trà ấm trên khay",
   "reading_min": 14,
@@ -152,7 +152,7 @@ Kinh nghiệm dưỡng sinh phương Đông không có khái niệm "múi giờ"
 
 Đông y cũng lưu ý rằng những ngày di chuyển thường làm hệ tiêu hoá yếu đi tạm thời, nên khuyên ăn ấm, ăn mềm, ăn vừa phải và tránh đồ lạnh trong vài ngày đầu — điều trùng khớp với trải nghiệm thực tế của rất nhiều người: bụng khó chịu vài ngày sau chuyến bay dài. Đây là quan sát để tham khảo cho việc chăm sóc thói quen, không phải chẩn đoán y khoa.
 
-:::case Từ cộng đồng IKI
+:::case Từ cộng đồng IKIHEALING
 Một mẫu hình được chia sẻ lại nhiều lần từ những người đi công tác thường xuyên: điều tạo khác biệt lớn nhất không phải là ngủ được bao nhiêu trên máy bay, mà là **có ra ngoài trời trong buổi sáng đầu tiên hay không**. Người xuống sân bay rồi về khách sạn ngủ tới chiều thường mất 4–5 ngày mới ổn; người xuống sân bay rồi đi bộ ngoài nắng một tiếng, ăn đúng giờ và chỉ ngủ ngắn 20 phút, thường ổn lại trong 2 ngày. Cùng một chuyến bay, khác nhau ở quyết định của buổi sáng đầu tiên.
 :::
 
@@ -181,7 +181,7 @@ Mỗi người thích nghi với việc đổi nhịp theo cách khác nhau — 
 
 Ba việc đáng nhớ nhất: **ra ngoài trời trong buổi sáng đầu tiên**, **ăn ba bữa theo giờ địa phương ngay từ ngày đầu**, và **giấc ngủ ngày phải có báo thức**. Ba việc này làm được thì phần còn lại thường tự sắp xếp.
 
-Nếu bạn đi lại thường xuyên và muốn theo dõi xem nhịp ngủ cùng mức năng lượng của mình hồi phục ra sao qua từng chuyến, [ứng dụng IKI](https://ikihealing.com/app.html) ghi lại theo ngày và chỉ ra mẫu hình lặp lại — hữu ích để lần sau bạn biết cơ thể mình cần mấy ngày. Và nếu chuyến bay dài vừa rồi để lại cho bạn một khoản nợ ngủ đáng kể, [Ngủ bù cuối tuần có bù được không](ngu-bu-cuoi-tuan-co-bu-duoc-khong.html) giải thích cách trả khoản nợ đó mà không phá lại nhịp vừa chỉnh xong.
+Nếu bạn đi lại thường xuyên và muốn theo dõi xem nhịp ngủ cùng mức năng lượng của mình hồi phục ra sao qua từng chuyến, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) ghi lại theo ngày và chỉ ra mẫu hình lặp lại — hữu ích để lần sau bạn biết cơ thể mình cần mấy ngày. Và nếu chuyến bay dài vừa rồi để lại cho bạn một khoản nợ ngủ đáng kể, [Ngủ bù cuối tuần có bù được không](ngu-bu-cuoi-tuan-co-bu-duoc-khong.html) giải thích cách trả khoản nợ đó mà không phá lại nhịp vừa chỉnh xong.
 
 ## Nguồn tham khảo
 

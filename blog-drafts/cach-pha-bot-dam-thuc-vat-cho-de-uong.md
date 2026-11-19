@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/cach-pha-bot-dam-thuc-vat-cho-de-uong-hero.jpg",
   "hero_alt": "Ly bột đạm thực vật pha sẵn bên bình lắc và chuối chín trên bàn bếp buổi sáng",
   "reading_min": 14,
@@ -49,8 +49,8 @@ Trước khi sửa, cần hiểu vì sao nó khó uống. Có bốn nguyên nhâ
 
 Một điểm nữa đáng nói: mỗi người có một khẩu vị và một thể trạng khác nhau, nên công thức hợp với người này chưa chắc hợp với người kia. Nếu bạn muốn biết nếp bổ sung nào phù hợp với cơ địa của mình, có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) trước khi thử các công thức bên dưới.
 
-:::note Số liệu thực tế từ cộng đồng IKI
-Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKI — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
+:::note Số liệu thực tế từ cộng đồng IKIHEALING
+Trong tháng 08/2026, đạm thực vật chiếm **72% giỏ hàng sức khoẻ** của IKIHEALING — dẫn đầu bốn phân khúc theo dõi, và cũng là nhóm giữ chân tốt nhất với 27% khách mua lại đúng nhóm. Xem [bản tin nhịp tiêu dùng sức khoẻ tháng 08/2026](bao-cao-nhip-tieu-dung-thang-08-2026.html).
 :::
 
 ## Tỉ lệ chuẩn: bao nhiêu bột với bao nhiêu nước
@@ -176,7 +176,7 @@ Bột đạm thực vật là **thực phẩm bổ sung** cho chế độ ăn c�
 - Người có cơ địa dị ứng với đậu nành, các loại hạt hoặc gluten — cần đọc kỹ bảng thành phần trước khi dùng.
 
 :::case Anh T. (Hải Phòng) — đổi ba chi tiết nhỏ trong cách pha
-Anh T., 38 tuổi, làm văn phòng, kể rằng anh mua hộp bột đạm về nhưng chỉ uống được bốn hôm vì "vừa lợn cợn vừa ngái". Khi chia sẻ trong cộng đồng chăm sóc sức khoẻ chủ động của IKI, anh được góp ý ba điều: đổ nước vào bình trước rồi mới rắc bột, bỏ hẳn thói quen chế nước sôi, và thay nước lọc bằng sữa hạnh nhân không đường cùng nửa quả chuối. Anh nói ly nước sau khi đổi "khác hẳn, uống như sinh tố", và nhờ vậy anh duy trì được đều đặn vào bữa sáng suốt hơn hai tháng nay. Điều anh thấy rõ nhất là buổi sáng không còn đói lửng lơ trước giờ trưa như trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y khoa; mỗi người có thể cảm nhận khác nhau.)
+Anh T., 38 tuổi, làm văn phòng, kể rằng anh mua hộp bột đạm về nhưng chỉ uống được bốn hôm vì "vừa lợn cợn vừa ngái". Khi chia sẻ trong cộng đồng chăm sóc sức khoẻ chủ động của IKIHEALING, anh được góp ý ba điều: đổ nước vào bình trước rồi mới rắc bột, bỏ hẳn thói quen chế nước sôi, và thay nước lọc bằng sữa hạnh nhân không đường cùng nửa quả chuối. Anh nói ly nước sau khi đổi "khác hẳn, uống như sinh tố", và nhờ vậy anh duy trì được đều đặn vào bữa sáng suốt hơn hai tháng nay. Điều anh thấy rõ nhất là buổi sáng không còn đói lửng lơ trước giờ trưa như trước. (Đây là trải nghiệm cá nhân về thay đổi thói quen ăn uống, không phải lời khuyên y khoa; mỗi người có thể cảm nhận khác nhau.)
 :::
 
 ## Kết: ly đạm dễ uống là ly bạn uống được đều
@@ -185,7 +185,7 @@ Cách pha bột đạm thực vật cho dễ uống không nằm ở một bí q
 
 Điều quan trọng hơn cả công thức là sự đều đặn. Một ly pha đơn giản mà bạn uống được mỗi ngày có giá trị hơn nhiều so với một công thức cầu kỳ chỉ làm được vài lần rồi bỏ. Hãy bắt đầu từ công thức chuối sữa hạt, giữ trong hai tuần, rồi mới thử đổi vị.
 
-Nếu bạn chưa chắc mình cần bổ sung bao nhiêu và theo nhịp nào, hãy làm [bài kiểm tra thể trạng 90 giây](../quiz/) để có gợi ý hợp với cơ địa mình, hoặc dùng [App IKI](../app.html) để ghi lại nhật ký ăn uống mỗi ngày và tự thấy nếp của mình đang thiếu ở đâu. Muốn hiểu sâu hơn về nguyên liệu, bạn có thể đọc tiếp [Bột đạm thực vật loại nào tốt](bot-dam-thuc-vat-loai-nao-tot.html) và [Đạm thực vật là gì](dam-thuc-vat-la-gi.html).
+Nếu bạn chưa chắc mình cần bổ sung bao nhiêu và theo nhịp nào, hãy làm [bài kiểm tra thể trạng 90 giây](../quiz/) để có gợi ý hợp với cơ địa mình, hoặc dùng [App IKIHEALING](../app.html) để ghi lại nhật ký ăn uống mỗi ngày và tự thấy nếp của mình đang thiếu ở đâu. Muốn hiểu sâu hơn về nguyên liệu, bạn có thể đọc tiếp [Bột đạm thực vật loại nào tốt](bot-dam-thuc-vat-loai-nao-tot.html) và [Đạm thực vật là gì](dam-thuc-vat-la-gi.html).
 
 ## Nguồn tham khảo
 

@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-17",
   "updated": "2026-08-17",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-bot-ngu-coc-thay-bua-sang-hero.jpg",
   "hero_alt": "Ly bột ngũ cốc pha ấm bên cạnh nắm hạt và thìa gỗ trên bàn ăn sáng",
   "reading_min": 14,
@@ -71,7 +71,7 @@ Bảng thành phần nhìn dày đặc, nhưng chỉ cần đọc ba con số l�
 
 Ngoài ba con số, có hai chi tiết trong danh sách nguyên liệu đáng để ý: "bột kem không sữa" thường là dầu thực vật cùng chất tạo đặc, không phải sữa; và "hương liệu tổng hợp" cho biết vị thơm không đến từ chính hạt. Bài [đọc nhãn dinh dưỡng thực phẩm](doc-nhan-dinh-duong-thuc-pham.html) hướng dẫn kỹ hơn cách đọc một bảng nhãn trong 30 giây.
 
-Nếu bạn không chắc thể trạng của mình cần ưu tiên đạm, chất xơ hay việc ổn định nhịp năng lượng trong ngày, hãy dành 90 giây [kiểm tra thể trạng cùng IKI](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ cho biết bữa sáng của bạn nên nghiêng về hướng nào.
+Nếu bạn không chắc thể trạng của mình cần ưu tiên đạm, chất xơ hay việc ổn định nhịp năng lượng trong ngày, hãy dành 90 giây [kiểm tra thể trạng cùng IKIHEALING](https://ikihealing.com/quiz). Bản phân tích miễn phí sẽ cho biết bữa sáng của bạn nên nghiêng về hướng nào.
 
 ## Bột bán sẵn hay tự rang xay
 
@@ -106,7 +106,7 @@ Sau khi nâng cấp, ly bột từ chỗ chỉ có 4 gam đạm có thể lên t
 
 ## Ba tình huống, ba câu trả lời khác nhau
 
-**Người đi làm bận rộn.** Bột ngũ cốc nâng cấp là lựa chọn hợp lý cho những buổi sáng gấp. Nên xen kẽ: ba tới bốn buổi trong tuần uống bột, các buổi còn lại ăn bữa sáng thật để cơ thể vẫn nhận đủ chất xơ nguyên dạng và cảm giác nhai. Nếu bạn cần một thức uống buổi sáng thay cà phê để đỡ nôn nao dạ dày, [gian hàng IKI](https://ikihealing.com/shop/) có vài lựa chọn nhẹ hơn cho nhóm dễ bị bồn chồn khi uống cà phê đặc.
+**Người đi làm bận rộn.** Bột ngũ cốc nâng cấp là lựa chọn hợp lý cho những buổi sáng gấp. Nên xen kẽ: ba tới bốn buổi trong tuần uống bột, các buổi còn lại ăn bữa sáng thật để cơ thể vẫn nhận đủ chất xơ nguyên dạng và cảm giác nhai. Nếu bạn cần một thức uống buổi sáng thay cà phê để đỡ nôn nao dạ dày, [gian hàng IKIHEALING](https://ikihealing.com/shop/) có vài lựa chọn nhẹ hơn cho nhóm dễ bị bồn chồn khi uống cà phê đặc.
 
 **Người ăn chay.** Bột ngũ cốc là bạn đồng hành tốt vì nền nguyên liệu vốn là đậu và hạt. Nhưng chính nhóm này càng cần chú ý đạm, vì bữa sáng chay rất dễ trở thành bữa toàn tinh bột. Kết hợp bột ngũ cốc với đậu nành hoặc bột đạm thực vật giúp bộ axit amin đầy đủ hơn. Bài [sữa hạt và bột đạm thực vật khác nhau thế nào](sua-hat-va-bot-dam-thuc-vat-khac-nhau-the-nao.html) giải thích rõ sự khác biệt hay bị nhầm này.
 

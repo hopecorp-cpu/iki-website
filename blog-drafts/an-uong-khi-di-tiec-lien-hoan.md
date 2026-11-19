@@ -8,7 +8,7 @@
   "category": "Chăm sóc sức khoẻ chủ động",
   "date": "2026-07-31",
   "updated": "2026-07-31",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-uong-khi-di-tiec-lien-hoan-hero.jpg",
   "hero_alt": "Bàn tiệc nhiều món với một đĩa rau tươi đặt phía trước",
   "reading_min": 13,
@@ -203,7 +203,7 @@ Nếu chỉ nhớ được một phần của bài viết này, hãy nhớ bản
 
 Và một điều cuối cùng, có lẽ quan trọng hơn tất cả các mẹo phía trên: một bữa tiệc không phá hỏng sức khoẻ của ai, cũng như một bữa ăn lành mạnh không tạo ra sức khoẻ cho ai. Cái quyết định là những gì bạn làm trong phần lớn thời gian còn lại. Hãy ngồi xuống bàn tiệc, ăn ngon miệng, trò chuyện thật lòng với người bên cạnh — rồi hôm sau quay lại nhịp sinh hoạt bình thường mà không mang theo cảm giác có lỗi.
 
-Nếu bạn muốn theo dõi xem cơ thể phản ứng thế nào sau mỗi bữa tiệc để lần sau chuẩn bị tốt hơn, [App IKI](../app.html) có phần nhật ký ghi nhanh cảm nhận theo ngày.
+Nếu bạn muốn theo dõi xem cơ thể phản ứng thế nào sau mỗi bữa tiệc để lần sau chuẩn bị tốt hơn, [App IKIHEALING](../app.html) có phần nhật ký ghi nhanh cảm nhận theo ngày.
 
 ## Nguồn tham khảo
 

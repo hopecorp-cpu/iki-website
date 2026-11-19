@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-16",
   "updated": "2026-08-16",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/an-uong-cho-nguoi-lam-viec-ngoai-troi-nang-nong-hero.jpg",
   "hero_alt": "Bình nước và nón lá đặt trong bóng râm giữa buổi trưa nắng",
   "reading_min": 15,
@@ -154,7 +154,7 @@ Lịch dưới đây dành cho ca làm ban ngày mùa nắng, bạn điều ch�
 
 **Buổi tối. Phục hồi.** Uống thêm vài cốc nước rải đều. Bữa tối có canh, rau, đạm. Tắm bằng nước ấm vừa thay vì nước lạnh buốt ngay khi vừa đi nắng về. Ngủ đủ, vì giấc ngủ là phần phục hồi quan trọng nhất và cũng là phần hay bị cắt nhất.
 
-Ghi lại vài dòng mỗi tối — hôm nay uống được bao nhiêu, có chóng mặt lúc nào không — giúp bạn thấy quy luật của cơ thể mình sau vài tuần; [ứng dụng IKI](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
+Ghi lại vài dòng mỗi tối — hôm nay uống được bao nhiêu, có chóng mặt lúc nào không — giúp bạn thấy quy luật của cơ thể mình sau vài tuần; [ứng dụng IKIHEALING](https://ikihealing.com/app.html) có phần nhật ký ngắn dành cho việc này.
 
 Mỗi người lại chịu nắng theo một kiểu khác nhau: có người ra mồ hôi rất nhiều, có người ít mồ hôi nhưng nóng bừng trong người. Nếu bạn muốn biết thể trạng mình thuộc nhóm nào và nên ưu tiên bù gì, hãy làm [bài kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để nhận gợi ý riêng thay vì áp dụng một công thức chung.
 

@@ -8,7 +8,7 @@
   "category": "Tri thức Đông y & dân gian",
   "date": "2026-08-14",
   "updated": "2026-08-14",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-nuoc-la-voi-co-tot-khong-hero.jpg",
   "hero_alt": "Ấm đất và ly nước lá vối màu hổ phách bên khay tre",
   "reading_min": 14,
@@ -150,7 +150,7 @@ Nếu bạn muốn đưa nước lá vối vào nhịp ngày một cách nhẹ n
 Điều đáng giữ sau bảy ngày không phải là "phải uống nước vối", mà là **thói quen chọn một thức uống ấm, không đường, thay cho thức uống ngọt** — nước vối chỉ là một trong nhiều lựa chọn cho vai trò đó.
 
 :::note Chăm sóc chủ động là biết mình hợp gì
-Cùng một cốc nước lá, người thấy khoẻ khoắn, người thấy cồn ruột — khác biệt phần lớn nằm ở thể tạng và cách dùng. Thay vì thử sai nhiều lần, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có bản gợi ý phù hợp hơn với cơ địa mình, hoặc theo dõi phản ứng cơ thể mỗi ngày cùng [App IKI](https://ikihealing.com/app.html).
+Cùng một cốc nước lá, người thấy khoẻ khoắn, người thấy cồn ruột — khác biệt phần lớn nằm ở thể tạng và cách dùng. Thay vì thử sai nhiều lần, bạn có thể [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) để có bản gợi ý phù hợp hơn với cơ địa mình, hoặc theo dõi phản ứng cơ thể mỗi ngày cùng [App IKIHEALING](https://ikihealing.com/app.html).
 :::
 
 ## Những hiểu lầm hay gặp

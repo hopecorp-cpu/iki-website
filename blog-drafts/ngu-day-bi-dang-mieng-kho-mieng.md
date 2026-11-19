@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-19",
   "updated": "2026-08-19",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/ngu-day-bi-dang-mieng-kho-mieng-hero.jpg",
   "hero_alt": "Cốc nước ấm và bàn chải đánh răng đặt cạnh cửa sổ buổi sáng sớm yên tĩnh",
   "reading_min": 13,
@@ -141,7 +141,7 @@ Thay vì thay đổi tất cả rồi không biết điều gì có tác dụng,
 - **Ngày 6.** Nếu hay nghẹt mũi, xử lý phần mũi trước khi ngủ và quan sát sáng hôm sau.
 - **Ngày 7.** Đọc lại ghi chép cả tuần. Thường sẽ có một hoặc hai yếu tố nổi lên rõ ràng — đó là chỗ đáng tập trung tiếp.
 
-Cách làm này mất ít công hơn bạn tưởng và cho câu trả lời chính xác hơn nhiều so với việc đoán. Nếu muốn ghi chép có hệ thống, [App IKI](../app.html) có phần nhật ký thói quen hằng ngày để bạn theo dõi liên tục thay vì nhớ mang máng.
+Cách làm này mất ít công hơn bạn tưởng và cho câu trả lời chính xác hơn nhiều so với việc đoán. Nếu muốn ghi chép có hệ thống, [App IKIHEALING](../app.html) có phần nhật ký thói quen hằng ngày để bạn theo dõi liên tục thay vì nhớ mang máng.
 
 ## Khi nào cần đi khám thay vì tự điều chỉnh
 

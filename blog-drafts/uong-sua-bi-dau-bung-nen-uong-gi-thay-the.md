@@ -7,7 +7,7 @@
   "keyword": "uống sữa bị đau bụng",
   "category": "thuc-pham",
   "date": "2026-08-06",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/uong-sua-bi-dau-bung-nen-uong-gi-thay-the-hero.jpg",
   "hero_alt": "Ly sữa hạt và ly sữa bò đặt cạnh nhau trên bàn gỗ sáng",
   "reading_min": 14,
@@ -195,7 +195,7 @@ Thay vì thay đổi tất cả cùng lúc rồi không biết cái nào có tá
 
 **Tuần 4 — chốt khẩu phần.** Dựa trên ba tuần trước, xác định: mình giữ được bao nhiêu sữa, thay phần còn lại bằng gì, và bổ sung canxi cùng đạm từ đâu. Viết ra thành một thực đơn mẫu cho một tuần và dán lên tủ lạnh.
 
-Cách làm này mất một tháng nhưng cho bạn câu trả lời chính xác cho cơ thể mình, thay vì một lời khuyên chung chung trên mạng. Nếu bạn muốn có điểm khởi đầu cụ thể hơn cho khẩu phần và nhịp sinh hoạt phù hợp với thể trạng của mình, bài khảo sát [kiểm tra thể trạng 90 giây của IKI](https://ikihealing.com/quiz) sẽ đưa ra gợi ý theo từng nhóm cơ địa để bạn không phải mò từ đầu.
+Cách làm này mất một tháng nhưng cho bạn câu trả lời chính xác cho cơ thể mình, thay vì một lời khuyên chung chung trên mạng. Nếu bạn muốn có điểm khởi đầu cụ thể hơn cho khẩu phần và nhịp sinh hoạt phù hợp với thể trạng của mình, bài khảo sát [kiểm tra thể trạng 90 giây của IKIHEALING](https://ikihealing.com/quiz) sẽ đưa ra gợi ý theo từng nhóm cơ địa để bạn không phải mò từ đầu.
 
 ## Tóm lại
 

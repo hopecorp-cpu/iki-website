@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-13",
   "updated": "2026-08-13",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/chuan-bi-mang-thai-nen-an-gi-hero.jpg",
   "hero_alt": "Bữa ăn cân bằng với rau lá xanh, cá, trứng và các loại hạt trên bàn gỗ",
   "reading_min": 15,
@@ -168,7 +168,7 @@ Danh sách trên có thể gây choáng. Cách thực tế là chọn ba việc 
 
 Sau hai tuần, thêm: hai bữa cá mỗi tuần, chuyển sang muối i-ốt, thêm một bữa phụ có hạt và sữa chua.
 
-Việc ghi lại bữa ăn và giấc ngủ trong giai đoạn này hữu ích hơn bạn nghĩ, vì nó biến những dự định mơ hồ thành thứ nhìn thấy được. [App IKI](https://ikihealing.com/app.html) ghi lại bữa ăn, giấc ngủ và mức năng lượng theo ngày rồi tổng hợp thành xu hướng tuần, giúp bạn thấy mình đang thực sự ăn gì thay vì dựa vào trí nhớ. Và nếu chưa rõ cơ địa mình thuộc nhóm nào, bản [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) miễn phí là điểm khởi đầu nhẹ nhàng.
+Việc ghi lại bữa ăn và giấc ngủ trong giai đoạn này hữu ích hơn bạn nghĩ, vì nó biến những dự định mơ hồ thành thứ nhìn thấy được. [App IKIHEALING](https://ikihealing.com/app.html) ghi lại bữa ăn, giấc ngủ và mức năng lượng theo ngày rồi tổng hợp thành xu hướng tuần, giúp bạn thấy mình đang thực sự ăn gì thay vì dựa vào trí nhớ. Và nếu chưa rõ cơ địa mình thuộc nhóm nào, bản [kiểm tra thể trạng 90 giây](https://ikihealing.com/quiz) miễn phí là điểm khởi đầu nhẹ nhàng.
 
 Điều quan trọng nhất cần nhớ: chuẩn bị mang thai không phải cuộc thi ăn uống hoàn hảo. Đủ chất, đều đặn, bỏ những thứ có hại rõ ràng, và đi khám đúng lịch — bốn việc đó đã bao phủ phần lớn những gì bạn có thể chủ động làm.
 

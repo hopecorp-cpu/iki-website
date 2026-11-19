@@ -8,7 +8,7 @@
   "category": "Dinh dưỡng",
   "date": "2026-08-09",
   "updated": "2026-08-09",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/nguoi-gia-an-khong-ngon-mieng-hero.jpg",
   "hero_alt": "Bát cháo ấm và đĩa rau mềm trên mâm cơm gia đình",
   "reading_min": 14,

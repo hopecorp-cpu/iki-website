@@ -8,7 +8,7 @@
   "category": "dinh-duong",
   "date": "2026-08-11",
   "updated": "2026-08-11",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/sau-khi-uong-ruou-bia-nen-an-gi-hero.jpg",
   "hero_alt": "Một bát cháo trắng loãng và ly nước ấm đặt cạnh nhau trên bàn gỗ buổi sáng",
   "reading_min": 14,
@@ -164,7 +164,7 @@ Một buổi uống nhiều không chỉ ảnh hưởng đến sáng hôm sau. N
 
 **Ngày 3 — trở lại bình thường và nhìn lại.** Ăn uống như thường, và dành hai phút tự hỏi: buổi đó mình đã uống bao nhiêu, có ăn lót dạ không, có xen nước không. Câu trả lời sẽ cho bạn biết cần sửa gì ở lần tới.
 
-Nếu bạn muốn theo dõi những mốc như vậy một cách có hệ thống thay vì để trong đầu, [ứng dụng IKI](https://ikihealing.com/app.html) cho phép ghi nhật ký bữa ăn và giấc ngủ rồi nhìn lại theo tuần — hữu ích với những giai đoạn tiệc tùng dày như cuối năm.
+Nếu bạn muốn theo dõi những mốc như vậy một cách có hệ thống thay vì để trong đầu, [ứng dụng IKIHEALING](https://ikihealing.com/app.html) cho phép ghi nhật ký bữa ăn và giấc ngủ rồi nhìn lại theo tuần — hữu ích với những giai đoạn tiệc tùng dày như cuối năm.
 
 ## Uống bao nhiêu là "ít"? Và ai không nên uống
 

@@ -8,7 +8,7 @@
   "category": "thoi-quen",
   "date": "2026-08-18",
   "updated": "2026-08-18",
-  "author": "Đội ngũ Health Coach IKI",
+  "author": "Đội ngũ Health Coach IKIHEALING",
   "hero_local": "assets/blog/lam-sao-day-som-ma-khong-met-hero.jpg",
   "hero_alt": "Ánh nắng sớm chiếu qua rèm cửa vào một góc phòng ngủ gọn gàng yên tĩnh",
   "reading_min": 15,
@@ -77,7 +77,7 @@ Một số lưu ý khi chạy lộ trình:
 
 - **Đặt báo thức cho giờ đi ngủ, không chỉ giờ dậy.** Nghe hơi lạ nhưng đây là mẹo hiệu quả nhất trong cả danh sách. Chuông 20h45 nhắc "bắt đầu dọn dẹp buổi tối" có tác dụng thật sự.
 - **Chấp nhận hai ngày đầu hơi khó.** Đó là phản ứng bình thường của việc đổi nếp, không phải dấu hiệu bạn không hợp.
-- **Ghi lại giờ ngủ và giờ dậy.** Chỉ cần một dòng mỗi ngày trên giấy hoặc trong [App IKI](../app.html). Nhìn lại sau một tuần bạn sẽ thấy rất rõ đêm nào ngủ đủ thì sáng nào nhẹ nhõm.
+- **Ghi lại giờ ngủ và giờ dậy.** Chỉ cần một dòng mỗi ngày trên giấy hoặc trong [App IKIHEALING](../app.html). Nhìn lại sau một tuần bạn sẽ thấy rất rõ đêm nào ngủ đủ thì sáng nào nhẹ nhõm.
 
 ## Nếp buổi tối quyết định buổi sáng của bạn
 
