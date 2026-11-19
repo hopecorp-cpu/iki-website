@@ -82,7 +82,7 @@ export function schemaVideo(slug, moTaBai = "") {
     contentUrl: `https://www.youtube.com/watch?v=${v.videoId}`,
     inLanguage: "vi",
     publisher: {
-      "@type": "Organization", name: "IKI Healing — HOPE CORP",
+      "@type": "Organization", name: "IKIHEALING — HOPE CORP",
       logo: { "@type": "ImageObject", url: "https://ikihealing.com/assets/brand/20261119/iki-icon-1024.png" },
     },
     ...(ch.length >= 3 ? {

@@ -109,7 +109,7 @@ function soiTuCam(text) {
 }
 
 /* ---------- Tên riêng được phép còn tiếng Việt sau khi dịch ---------- */
-const TEN_RIENG = /CÔNG TY CỔ PHẦN TMDV HOPE|Công ty Cổ phần TMDV HOPE|Quang Trung|Hải Dương|Hải Phòng|Việt Nam|Tuệ Minh|Thanh Hương|Đồng Văn|Hà Giang|Học Viện|Cộng đồng|Sản phẩm|Ứng dụng|Trang chủ|Về HOPE CORP|Nghị định|Thông tư|Luật|Bộ Công Thương|Sở Tài chính|Phòng Đăng ký kinh doanh|Zalo|Tiếng Việt|IKI|HOPE|đ\b|₫/g;
+const TEN_RIENG = /CÔNG TY CỔ PHẦN TMDV HOPE|Công ty Cổ phần TMDV HOPE|Quang Trung|Hải Dương|Hải Phòng|Việt Nam|Tuệ Minh|Thanh Hương|Đồng Văn|Hà Giang|Học Viện|Cộng đồng|Sản phẩm|Ứng dụng|Trang chủ|Về HOPE CORP|Nghị định|Thông tư|Luật|Bộ Công Thương|Sở Tài chính|Phòng Đăng ký kinh doanh|Zalo|Tiếng Việt|IKIHEALING|HOPE|đ\b|₫/g;
 
 /**
  * Phân biệt CÂU tiếng Việt còn sót (lỗi thật, phải chặn) với TÊN RIÊNG tiếng Việt nằm trong câu
@@ -136,7 +136,7 @@ const dauVet = (s) => [
   ...(s.match(/\bdata-[a-z-]+=/g) || []),
 ].sort().join("\n");
 
-const RAO = `You are translating a page of ikihealing.com, the website of IKI (brand of CÔNG TY CỔ PHẦN TMDV HOPE / HOPE SERVICE CORPORATION, Hải Phòng, Vietnam). Target language: ${TEN_NGON}.
+const RAO = `You are translating a page of ikihealing.com, the website of IKIHEALING (brand of CÔNG TY CỔ PHẦN TMDV HOPE / HOPE SERVICE CORPORATION, Hải Phòng, Vietnam). Target language: ${TEN_NGON}.
 
 REGISTER: these are consumer-facing legal and policy pages. Use plain, precise, non-chatty ${TEN_NGON} of the kind used in real terms-of-service and privacy pages. Do not add warmth, marketing adjectives, or sentences that are not in the source. Do not drop sentences either: every obligation, deadline, number, percentage and exception must survive.
 
@@ -145,20 +145,20 @@ KEEP IN VIETNAMESE, exactly as written (do not translate, do not transliterate):
 - the registered address and all place names (Số 40A Quang Trung, phường Hải Dương, thành phố Hải Phòng, Việt Nam);
 - names of Vietnamese laws and decrees — write them as in the source and add a short English gloss in parentheses the first time, e.g. "Luật Thương mại điện tử 2025 (Vietnam's 2025 E-Commerce Law)";
 - names of Vietnamese authorities (Bộ Công Thương, Sở Tài chính, Phòng Đăng ký kinh doanh) with a gloss the first time;
-- brand, product and programme proper names (IKI, IKI Healing, HOPE CORP, Tuệ Minh, Thanh Hương, True Vegan Protein Pro). The course names "3 Ngày Reset" and "7 Ngày Detox" are programme names: keep them written exactly like that, do not translate them into "3-Day Reset" or "7-Day Detox". HARD RULE for these two names: the words detox / detoxify / detoxification / detoxifying / cleanse / デトックス / 解毒 must NEVER appear anywhere except inside the fixed string "7 Ngày Detox" itself. The source already states that "Detox" is only the name of the programme — translate that statement faithfully and never write that the programme removes, flushes or cleanses anything from the body;
+- brand, product and programme proper names (IKIHEALING, IKIHEALING, HOPE CORP, Tuệ Minh, Thanh Hương, True Vegan Protein Pro). The course names "3 Ngày Reset" and "7 Ngày Detox" are programme names: keep them written exactly like that, do not translate them into "3-Day Reset" or "7-Day Detox". HARD RULE for these two names: the words detox / detoxify / detoxification / detoxifying / cleanse / デトックス / 解毒 must NEVER appear anywhere except inside the fixed string "7 Ngày Detox" itself. The source already states that "Detox" is only the name of the programme — translate that statement faithfully and never write that the programme removes, flushes or cleanses anything from the body;
 - phone numbers, email addresses, tax code, business registration number, bank details, Zalo links;
 - the value="" of every hidden form input (_subject, _next, _cc, _template, _captcha) and every radio/checkbox value: leave them byte-for-byte as in the source, Vietnamese included. They are machine fields read by the sales inbox, not text for the reader.
 
 MONEY AND DATES: prices stay in Vietnamese đồng with the ₫ or "đ" sign and the same digits. Dates stay in the same day/month/year order as the source.
 
-COMPLIANCE (Vietnamese food-supplement law — this is a hard constraint): IKI products are food supplements, not medicine. Never write cure / treat / heal / detox / cleanse / diagnose, never a disease claim, never "results in X days". Where the source has a disclaimer ("không phải là thuốc, không thay thế thuốc chữa bệnh"), translate it faithfully and keep it in the same place. Promotions are gifts, never a percentage discount.
+COMPLIANCE (Vietnamese food-supplement law — this is a hard constraint): IKIHEALING products are food supplements, not medicine. Never write cure / treat / heal / detox / cleanse / diagnose, never a disease claim, never "results in X days". Where the source has a disclaimer ("không phải là thuốc, không thay thế thuốc chữa bệnh"), translate it faithfully and keep it in the same place. Promotions are gifts, never a percentage discount.
 
 GLOSSARY (${NGON === "ja" ? "Japanese" : "English"}), fixed wording — the Vietnamese source deliberately avoids medical words and the translation must too:
 ${NGON === "ja"
-  ? `- "bài đọc thể trạng (quiz)" / "quiz thể chất" -> 体質チェック（クイズ）. NEVER write 診断 anywhere on the page: 診断 means a medical diagnosis and IKI does not diagnose. Its result is チェック結果, not 診断結果.
+  ? `- "bài đọc thể trạng (quiz)" / "quiz thể chất" -> 体質チェック（クイズ）. NEVER write 診断 anywhere on the page: 診断 means a medical diagnosis and IKIHEALING does not diagnose. Its result is チェック結果, not 診断結果.
 - "dữ liệu sức khoẻ tự khai" -> ご自身で申告いただく健康に関する情報.
 - "thực phẩm bổ sung" -> 健康補助食品 (never 医薬品, never サプリで治す).`
-  : `- "bài đọc thể trạng (quiz)" / "quiz thể chất" -> "body-constitution quiz". Never "diagnosis" or "assessment of a condition": IKI does not diagnose. Its output is a "quiz result".
+  : `- "bài đọc thể trạng (quiz)" / "quiz thể chất" -> "body-constitution quiz". Never "diagnosis" or "assessment of a condition": IKIHEALING does not diagnose. Its output is a "quiz result".
 - "dữ liệu sức khoẻ tự khai" -> "self-reported health information".
 - "thực phẩm bổ sung" -> "food supplement" (never "supplement that treats", never "medicine").`}
 
@@ -171,11 +171,11 @@ Tone: clear and respectful, second person. ${NGON === "ja" ? "Use です・ま�
  * Che trước khi đưa cho mô hình, thay lại sau khi dịch: một nguồn, chạy lại ra y hệt.
  */
 const CHU_CO_DINH = [
-  { vi: "Chào bạn, IKI có thể hỗ trợ gì cho bạn?", en: "Hello, how can IKI help you?", ja: "こんにちは。IKIがお手伝いできることはありますか。" },
+  { vi: "Chào bạn, IKIHEALING có thể hỗ trợ gì cho bạn?", en: "Hello, how can IKIHEALING help you?", ja: "こんにちは。IKIHEALINGがお手伝いできることはありますか。" },
   // Tên Học Viện: lấy đúng chữ đã duyệt trong chân trang chuẩn (scripts/sync-footer.py COPY[1]),
   // nếu không menu ghi "Academy" mà thân bài ghi "Học Viện" — lệch ngay trong một trang.
-  { vi: "Học Viện IKI", en: "IKI Academy", ja: "IKIアカデミー" },
-  { vi: "Học Viện", en: "IKI Academy", ja: "IKIアカデミー" },
+  { vi: "Học Viện IKIHEALING", en: "IKIHEALING Academy", ja: "IKIHEALINGアカデミー" },
+  { vi: "Học Viện", en: "IKIHEALING Academy", ja: "IKIHEALINGアカデミー" },
 ];
 
 async function dichMot(ten, nhac = () => {}) {
@@ -186,7 +186,7 @@ async function dichMot(ten, nhac = () => {}) {
 
   const out = boRao(await goiClaude(
     RAO + `\n\nTASK: translate every user-visible Vietnamese string in this HTML page into ${TEN_NGON}: all text nodes, <title>, the content of meta description / og:title / og:description / twitter:title / twitter:description, and the attributes placeholder / alt / aria-label / title.
-Do NOT change any tag, attribute name, id, class, data-*, href, src, HTML entity, or the @@CHEn@@ placeholders; do not add, remove or reorder elements. Keep the " · IKI Healing" and " — IKI" suffixes in the title and og:title. Return ONLY the HTML, no fences, no commentary.`,
+Do NOT change any tag, attribute name, id, class, data-*, href, src, HTML entity, or the @@CHEn@@ placeholders; do not add, remove or reorder elements. Keep the " · IKIHEALING" and " — IKIHEALING" suffixes in the title and og:title. Return ONLY the HTML, no fences, no commentary.`,
     // Hạn chữ trả về: tiếng Nhật tốn token gấp bội tiếng Việt, trang chính sách bảo mật từng bị
     // cắt cụt giữa chừng ở mức 32k (mất 66 thẻ, cổng kiểm chặn đúng). Nới theo độ dài trang.
     masked, Math.min(64000, Math.max(32000, masked.length))));

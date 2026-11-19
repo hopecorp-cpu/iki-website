@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 /**
  * build-article.mjs — Dựng 1 bài blog tĩnh từ nguồn blog-drafts/<slug>.md
- * → blog/<slug>.html theo template IKI (head + schema Article/FAQ/Breadcrumb + header/footer).
+ * → blog/<slug>.html theo template IKIHEALING (head + schema Article/FAQ/Breadcrumb + header/footer).
  *
  * Nguồn: JSON frontmatter (giữa ---json ... ---) + body Markdown.
  * KHÔNG thư viện ngoài — MD converter tối giản đủ dùng (h2/h3, ul/ol, blockquote,
@@ -218,13 +218,13 @@ function render(fm, body) {
   // Khối video (nếu bài đã có video trên YouTube) chèn ngay trước h2 đầu tiên — điều 8 của bộ
   // quy tắc GEO/SEO video. Đi qua đây thì mỗi lượt build lại vẫn còn, không bị xoá như hồi chèn
   // vào HTML đã dựng.
-  const archiveNotice = LEGACY_APP_SLUGS.has(fm.slug) ? `<aside class="info-box ib-note" data-iki-archive="20260914"><div class="ib-title">Thông tin ứng dụng đã cập nhật</div><p>${ARCHIVE_NOTE} <a href="../app.html">Xem IKI Beauty &amp; Wellness hiện tại →</a></p></aside>` : "";
+  const archiveNotice = LEGACY_APP_SLUGS.has(fm.slug) ? `<aside class="info-box ib-note" data-iki-archive="20260914"><div class="ib-title">Thông tin ứng dụng đã cập nhật</div><p>${ARCHIVE_NOTE} <a href="../app.html">Xem IKIHEALING Beauty &amp; Wellness hiện tại →</a></p></aside>` : "";
   const articleCoVideo = archiveNotice + chenVideo(article, fm.slug);
   const url = `${SITE}/blog/${fm.slug}.html`;
   const faq = Array.isArray(fm.faq) ? fm.faq : [];
   const related = Array.isArray(fm.related) ? fm.related : [];
   const journey = Array.isArray(fm.journey) ? fm.journey : [];
-  const author = fm.author || "Đội ngũ Health Coach IKI";
+  const author = fm.author || "Đội ngũ Health Coach IKIHEALING";
   const readMin = fm.reading_min || Math.max(5, Math.round((body.split(/\s+/).length) / 200));
   // Ảnh hero: ưu tiên hero_local (đã đóng logo IKI+HOPE), else hero_image (URL remote)
   const heroSrc = fm.hero_local ? `../${fm.hero_local}` : fm.hero_image || "";
@@ -275,7 +275,7 @@ function render(fm, body) {
     || (Array.isArray(fm.khuyen_cao) && fm.khuyen_cao.includes("thanhHuong"));
   const globalDisclaimer = boChanTrangTPBS ? "" : `
       <div class="global-disclaimer">
-        <p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
+        <p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKIHEALING không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p>
       </div>`;
   const relatedHtml = related.length
     ? `<section class="post-related" aria-label="Bài liên quan"><h2>Đọc thêm</h2><ul>${related.map((r) => `<li><a href="${escAttr(r.url)}">${esc(r.title)}</a></li>`).join("")}</ul></section>`
@@ -283,7 +283,7 @@ function render(fm, body) {
   const journeyHtml = journey.length
     ? `<div class="journey"><div class="journey-title">Lộ trình theo chặng</div><ol class="journey-list">${journey.map((s, i) => `<li><span class="jn">${i + 1}</span><div><div class="jt">${esc(s.title)}</div>${s.note ? `<div class="jd">${inline(s.note)}</div>` : ""}</div></li>`).join("")}</ol></div>`
     : "";
-  // Box thương hiệu + sản phẩm (SEO: search "iki/ikihealing" → ra IKI + sản phẩm)
+  // Box thương hiệu + sản phẩm (SEO: search "iki/ikihealing" → ra IKIHEALING + sản phẩm)
   // T1 (MKT-06 lô B, TH 03/10/2026): khối chung không nêu tên sản phẩm; tiêu đề là câu đã duyệt (kiểm băm).
   const T1 = escAttr(cauDuyet("T1"));
   const brandBoxHtml = `<section class="brand-box" aria-label="${T1}">
@@ -291,8 +291,8 @@ function render(fm, body) {
           <ul>
             <li><a href="../tai-lieu/">Tài liệu miễn phí</a> — cẩm nang &amp; ebook chăm sóc sức khoẻ chủ động (PDF), nhận qua email.</li>
             <li><a href="../ve-hope.html#dinh-vi-iki">IKIHEALING</a> — hệ sinh thái chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.</li>
-            <li><a href="../hoc-vien.html">Học Viện IKI</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
-            <li><a href="../app.html">App IKI</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
+            <li><a href="../hoc-vien.html">Học Viện IKIHEALING</a> — khoá học chăm sóc sức khoẻ chủ động.</li>
+            <li><a href="../app.html">App IKIHEALING</a> — nhật ký sức khoẻ cá nhân hoá (tuỳ chọn).</li>
           </ul>
         </section>`;
 
@@ -322,7 +322,7 @@ function render(fm, body) {
 
   <meta property="og:type" content="article" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
+  <meta property="og:site_name" content="IKIHEALING — by HOPE CORP" />
   <meta property="og:url" content="${url}" />
   <meta property="og:title" content="${escAttr(fm.title)}" />
   <meta property="og:description" content="${escAttr(clamp(fm.description, 160))}" />
@@ -410,7 +410,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
   <header class="site-header" id="site-header">
     <nav class="nav">
-      <a class="brand" href="../index.html" aria-label="IKI Trang chủ">
+      <a class="brand" href="../index.html" aria-label="IKIHEALING Trang chủ">
         <img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64">
         <img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36">
       </a>
@@ -477,23 +477,23 @@ ${articleCoVideo}
       <div class="footer-grid">
         <div>
           <div class="footer-brand" style="display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:14px;font-size:0"><span style="display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border:1px solid rgba(245,197,24,.22);border-radius:14px;padding:12px 22px 10px"><img src="/assets/logo/hope-mark-512.png" alt="HOPE CORP" style="width:30px;height:auto;margin-bottom:3px" /><span style="font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1">HOPE</span><span style="font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem">CORP</span></span></div><div class="footer-company" style="margin:0 0 16px"><div style="font-weight:800;text-transform:uppercase;color:#FFFFFF;font-size:1.02rem;line-height:1.3;letter-spacing:.005em">Công ty Cổ phần TMDV HOPE</div><div style="margin-top:6px;font-weight:500;text-transform:uppercase;color:rgba(255,255,255,.52);font-size:.7rem;letter-spacing:.22em">From nature, for life</div></div>
-          <p>IKI là hệ sinh thái chăm sóc sức khoẻ chủ động cho phụ nữ và gia đình, kết nối kiến thức, công nghệ AI, cộng đồng và sản phẩm — đồng hành từ chăm làn da đến ăn uống, nghỉ ngơi và vận động mỗi ngày. IKI là thương hiệu của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p>
+          <p>IKIHEALING là hệ sinh thái chăm sóc sức khoẻ chủ động cho phụ nữ và gia đình, kết nối kiến thức, công nghệ AI, cộng đồng và sản phẩm — đồng hành từ chăm làn da đến ăn uống, nghỉ ngơi và vận động mỗi ngày. IKIHEALING là thương hiệu của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p>
         </div>
         <div>
           <h4>Hệ sinh thái</h4>
           <ul>
-            <li><a href="../hoc-vien.html">Học Viện IKI</a></li>
-            <li><a href="index.html">Blog IKI</a></li>
+            <li><a href="../hoc-vien.html">Học Viện IKIHEALING</a></li>
+            <li><a href="index.html">Blog IKIHEALING</a></li>
             <li><a href="tat-ca-bai-viet.html">Tất cả bài viết</a></li>
-            <li><a href="../cong-dong.html">Cộng đồng IKI</a></li>
-            <li><a href="../app.html">Ứng dụng IKI</a></li>
+            <li><a href="../cong-dong.html">Cộng đồng IKIHEALING</a></li>
+            <li><a href="../app.html">Ứng dụng IKIHEALING</a></li>
             <li><a href="../ve-hope.html">Về HOPE CORP</a></li>
           </ul>
         </div>
         <div>
           <h4>Hỗ trợ</h4>
           <ul>
-            <li><a href="../cong-nghe.html">Công nghệ IKI</a></li>
+            <li><a href="../cong-nghe.html">Công nghệ IKIHEALING</a></li>
             <li><a href="../chinh-sach-bao-mat.html">Chính sách bảo mật</a></li>
             <li><a href="mailto:contact@ikihealing.com">Liên hệ</a></li>
           </ul>
@@ -515,7 +515,7 @@ ${articleCoVideo}
       </div>
 ${globalDisclaimer}
       <div class="footer-bottom">
-        <span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span> <a href="mien-tru-trach-nhiem.html" style="color:rgba(255,255,255,0.7);text-decoration:underline">Miễn trừ trách nhiệm</a>
+        <span>© 2026 Công ty Cổ phần TMDV HOPE — IKIHEALING là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span> <a href="mien-tru-trach-nhiem.html" style="color:rgba(255,255,255,0.7);text-decoration:underline">Miễn trừ trách nhiệm</a>
       </div>
     </div>
   </footer>
@@ -528,7 +528,7 @@ ${taoPopup(chonSanPham(fm)?.slug, "../", !!fm.no_product || !chonSanPham(fm))}
 </style>
 <div class="zalo-chat-widget"
      data-oaid="599407064751177637"
-     data-welcome-message="Chào bạn, IKI có thể hỗ trợ gì cho bạn?"
+     data-welcome-message="Chào bạn, IKIHEALING có thể hỗ trợ gì cho bạn?"
      data-autopopup="0"
      data-width="350"
      data-height="420"></div>

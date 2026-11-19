@@ -22,14 +22,14 @@ const ANH_MAC_DINH = `${SITE}/assets/brand/20261119/iki-icon-1024.png`;
 
 const BAN = [
   { thuMuc: "shop", lang: "vi", duong: "/shop/",
-    moTa: "Cửa hàng IKI Healing: đạm thực vật True Vegan, trà thảo mộc và thức uống lành. Thực phẩm bổ sung, giao toàn quốc.",
-    ten: "Cửa hàng IKI Healing" },
+    moTa: "Cửa hàng IKIHEALING: đạm thực vật True Vegan, trà thảo mộc và thức uống lành. Thực phẩm bổ sung, giao toàn quốc.",
+    ten: "Cửa hàng IKIHEALING" },
   { thuMuc: "en/shop", lang: "en", duong: "/en/shop/",
-    moTa: "IKI Healing store: True Vegan plant protein, herbal teas and wholesome drinks. Food supplements, delivered across Vietnam.",
-    ten: "IKI Healing Store" },
+    moTa: "IKIHEALING store: True Vegan plant protein, herbal teas and wholesome drinks. Food supplements, delivered across Vietnam.",
+    ten: "IKIHEALING Store" },
   { thuMuc: "ja/shop", lang: "ja", duong: "/ja/shop/",
-    moTa: "IKI Healing ストア：植物性プロテイン True Vegan、ハーブティー、やさしい飲みもの。栄養補助食品です。",
-    ten: "IKI Healing ストア" },
+    moTa: "IKIHEALING ストア：植物性プロテイン True Vegan、ハーブティー、やさしい飲みもの。栄養補助食品です。",
+    ten: "IKIHEALING ストア" },
 ];
 
 // Đọc mảng PRODUCTS bằng cách cắt đúng cặp ngoặc vuông rồi JSON.parse — không eval mã của trang.
@@ -71,7 +71,7 @@ for (const b of BAN) {
     description: b.moTa,
     url: `${SITE}${b.duong}`,
     inLanguage: b.lang,
-    isPartOf: { "@type": "WebSite", name: "IKI Healing", url: SITE },
+    isPartOf: { "@type": "WebSite", name: "IKIHEALING", url: SITE },
     publisher: { "@type": "Organization", name: "Công ty Cổ phần TMDV HOPE", url: SITE },
     mainEntity: {
       "@type": "ItemList",
@@ -83,7 +83,7 @@ for (const b of BAN) {
           name: x.n,
           ...(x.desc ? { description: x.desc } : {}),
           ...(x.img ? { image: x.img } : {}),
-          brand: { "@type": "Brand", name: "IKI by HOPE CORP" },
+          brand: { "@type": "Brand", name: "IKIHEALING by HOPE CORP" },
           ...(x.price ? { offers: { "@type": "Offer", price: x.price, priceCurrency: "VND", availability: x.het_hang === true ? "https://schema.org/OutOfStock" : "https://schema.org/InStock", url: `${SITE}${b.duong}` } } : {}),
         },
       })),
@@ -94,7 +94,7 @@ for (const b of BAN) {
     MOC_DAU,
     `<meta name="description" content="${esc(b.moTa)}">`,
     `<meta property="og:type" content="website">`,
-    `<meta property="og:site_name" content="IKI Healing">`,
+    `<meta property="og:site_name" content="IKIHEALING">`,
     `<meta property="og:locale" content="${b.lang === "vi" ? "vi_VN" : b.lang === "ja" ? "ja_JP" : "en_US"}">`,
     `<meta property="og:title" content="${esc(tieuDe)}">`,
     `<meta property="og:description" content="${esc(b.moTa)}">`,

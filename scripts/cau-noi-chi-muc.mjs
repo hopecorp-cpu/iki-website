@@ -62,8 +62,8 @@ export function khoiCauNoi(slug) {
   const ds = phanCua(slug);
   if (ds.length < 3) return "";
   const esc = (t) => String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
-  return `<aside class="cau-noi" aria-label="Bài viết liên quan trên Blog IKI">
-          <h3>Đọc thêm trên Blog IKI Healing</h3>
+  return `<aside class="cau-noi" aria-label="Bài viết liên quan trên Blog IKIHEALING">
+          <h3>Đọc thêm trên Blog IKIHEALING</h3>
           <ul>${ds.map((b) => `<li><a href="${esc(b.slug)}.html">${esc(b.ten)}</a></li>`).join("")}</ul>
         </aside>`;
 }

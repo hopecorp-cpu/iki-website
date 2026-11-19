@@ -91,9 +91,9 @@ function soiTuCam(text) {
   return loi;
 }
 
-const RAO = `You are translating an e-commerce page for IKI Healing (HOPE Corp, Vietnam): plant-based protein, herbal teas, cooking oils, condiments, whole foods. Target language: ${TEN_NGON}.
+const RAO = `You are translating an e-commerce page for IKIHEALING (HOPE Corp, Vietnam): plant-based protein, herbal teas, cooking oils, condiments, whole foods. Target language: ${TEN_NGON}.
 COMPLIANCE (food supplement, Vietnamese law): never write cure/treat/heal/detox/cleanse or disease claims; use neutral wording ("supports daily nutrition", "herbal tea for everyday drinking"). Keep the disclaimer sentences faithful ("not a medicine, does not replace medicine").
-NAMES: keep brand/product proper names as-is (IKI Healing, HOPE Corp, True Vegan Protein Pro, Tuệ Minh, Thanh Hương, Homefood, Hanuti, SADHU, Mueloliva, Siri Siri SUDANTA, Eco G9, Đồng Văn, Hà Giang). Prices stay in Vietnamese đồng with the ₫ sign; ${NGON === "en" ? "use comma thousands separators (668,000₫)." : "use comma thousands separators (668,000₫) and you may add 円 nowhere — do not convert currency."}
+NAMES: keep brand/product proper names as-is (IKIHEALING, HOPE Corp, True Vegan Protein Pro, Tuệ Minh, Thanh Hương, Homefood, Hanuti, SADHU, Mueloliva, Siri Siri SUDANTA, Eco G9, Đồng Văn, Hà Giang). Prices stay in Vietnamese đồng with the ₫ sign; ${NGON === "en" ? "use comma thousands separators (668,000₫)." : "use comma thousands separators (668,000₫) and you may add 円 nowhere — do not convert currency."}
 Certification labels, translate consistently everywhere: "Thuần chay"→${NGON === "en" ? "Vegan" : "ヴィーガン"}, "Hữu cơ"→${NGON === "en" ? "Organic" : "オーガニック"}, "Nguyên chất"→${NGON === "en" ? "Pure" : "純正"}, "Nguyên liệu lành"→${NGON === "en" ? "Wholesome ingredients" : "やさしい原料"}.
 "COD" stays "COD". Tone: warm, concise, natural ${TEN_NGON} for online shoppers.`;
 
@@ -117,7 +117,7 @@ async function dichHtml() {
   const che = [];
   const masked = A.replace(/<style>[\s\S]*?<\/style>|<script[\s\S]*?<\/script>|<!--[\s\S]*?-->/g, (m) => { che.push(m); return `@@CHE${che.length - 1}@@`; });
   const out = boRao(await goiClaude(
-    RAO + `\nTASK: translate every user-visible Vietnamese string in this HTML fragment into ${TEN_NGON}: text nodes, <title>, and the attributes placeholder / alt / aria-label / title. Do NOT change any tag, attribute name, id, class, data-*, href, src, entity, or the @@CHEn@@ placeholders; do not add, remove or reorder elements. Keep "IKI Healing — ..." title pattern. Return ONLY the HTML, no fences, no commentary.`,
+    RAO + `\nTASK: translate every user-visible Vietnamese string in this HTML fragment into ${TEN_NGON}: text nodes, <title>, and the attributes placeholder / alt / aria-label / title. Do NOT change any tag, attribute name, id, class, data-*, href, src, entity, or the @@CHEn@@ placeholders; do not add, remove or reorder elements. Keep "IKIHEALING — ..." title pattern. Return ONLY the HTML, no fences, no commentary.`,
     masked, 40000));
   const loi = [];
   if (demThe(out) !== demThe(masked)) loi.push(`số thẻ lệch: gốc ${demThe(masked)} / dịch ${demThe(out)}`);

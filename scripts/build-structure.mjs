@@ -51,7 +51,7 @@ function orphanTitle(slug) {
     const h = fs.readFileSync(path.join(ROOT, "blog", `${slug}.html`), "utf8");
     const m = h.match(/<title>([^<]*)<\/title>/i);
     let t = m ? m[1].trim() : slug;
-    t = t.replace(/\s*[|–—-]\s*Blog IKI.*$/i, "").replace(/\s*\|\s*IKI.*$/i, "").trim();
+    t = t.replace(/\s*[|–—-]\s*Blog IKIHEALING.*$/i, "").replace(/\s*\|\s*IKIHEALING.*$/i, "").trim();
     return t || slug;
   } catch { return slug; }
 }
@@ -127,7 +127,7 @@ export function emailCta(plan, source) {
           <button type="submit">${esc(lm.button || "Nhận ngay →")}</button>
         </div>
         <input type="tel" name="phone" class="lead-phone" placeholder="Số điện thoại (không bắt buộc — để được tư vấn thêm)" aria-label="Số điện thoại" />
-        <label class="lead-consent"><input type="checkbox" name="consent" required /> Tôi đồng ý nhận nội dung chăm sóc sức khoẻ từ IKI. ${esc(lm.note || "Không spam.")}</label>
+        <label class="lead-consent"><input type="checkbox" name="consent" required /> Tôi đồng ý nhận nội dung chăm sóc sức khoẻ từ IKIHEALING. ${esc(lm.note || "Không spam.")}</label>
       </form>
     </div>
   </section>`;
@@ -159,7 +159,7 @@ function head(title, desc, canonical, ldExtra, noindex) {
   <link rel="alternate" hreflang="x-default" href="${canonical}" />
   <meta property="og:type" content="website" />
   <meta property="og:locale" content="vi_VN" />
-  <meta property="og:site_name" content="IKI Healing — by HOPE CORP" />
+  <meta property="og:site_name" content="IKIHEALING — by HOPE CORP" />
   <meta property="og:url" content="${canonical}" />
   <meta property="og:title" content="${escAttr(title)}" />
   <meta property="og:description" content="${escAttr(clamp(desc, 160))}" />
@@ -277,7 +277,7 @@ export function header() {
   <div class="announcement-bar">Nhận <a href="../tai-lieu/">cẩm nang chăm sóc sức khoẻ (PDF)</a> miễn phí — gửi thẳng vào email của bạn.</div>
   <header class="site-header" id="site-header">
     <nav class="nav">
-      <a class="brand" href="../index.html" aria-label="IKI Trang chủ"><img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64"><img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36"></a>
+      <a class="brand" href="../index.html" aria-label="IKIHEALING Trang chủ"><img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64"><img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36"></a>
       <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
         <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
         <svg class="icon-close" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
@@ -297,13 +297,13 @@ export function header() {
 export const footer = () => `
   <footer class="site-footer"><div class="container">
     <div class="footer-grid">
-      <div><div class="footer-brand" style="display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:14px;font-size:0"><span style="display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border:1px solid rgba(245,197,24,.22);border-radius:14px;padding:12px 22px 10px"><img src="/assets/logo/hope-mark-512.png" alt="HOPE CORP" style="width:30px;height:auto;margin-bottom:3px" /><span style="font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1">HOPE</span><span style="font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem">CORP</span></span></div><div class="footer-company" style="margin:0 0 16px"><div style="font-weight:800;text-transform:uppercase;color:#FFFFFF;font-size:1.02rem;line-height:1.3;letter-spacing:.005em">Công ty Cổ phần TMDV HOPE</div><div style="margin-top:6px;font-weight:500;text-transform:uppercase;color:rgba(255,255,255,.52);font-size:.7rem;letter-spacing:.22em">From nature, for life</div></div><p>IKI là hệ sinh thái chăm sóc sức khoẻ chủ động cho phụ nữ và gia đình, kết nối kiến thức, công nghệ AI, cộng đồng và sản phẩm — đồng hành từ chăm làn da đến ăn uống, nghỉ ngơi và vận động mỗi ngày. IKI là thương hiệu của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p></div>
-      <div><h4>Hệ sinh thái</h4><ul><li><a href="../hoc-vien.html">Học Viện IKI</a></li><li><a href="index.html">Blog IKI</a></li><li><a href="tat-ca-bai-viet.html">Tất cả bài viết</a></li><li><a href="../cong-dong.html">Cộng đồng IKI</a></li><li><a href="../app.html">Ứng dụng IKI</a></li><li><a href="../ve-hope.html">Về HOPE CORP</a></li></ul></div>
+      <div><div class="footer-brand" style="display:flex;flex-direction:column;align-items:flex-start;gap:14px;margin-bottom:14px;font-size:0"><span style="display:inline-flex;flex-direction:column;align-items:center;gap:2px;background:linear-gradient(160deg,#173A2C,#0E241B);border:1px solid rgba(245,197,24,.22);border-radius:14px;padding:12px 22px 10px"><img src="/assets/logo/hope-mark-512.png" alt="HOPE CORP" style="width:30px;height:auto;margin-bottom:3px" /><span style="font-weight:800;letter-spacing:.18em;color:#F7F3E8;font-size:.82rem;line-height:1">HOPE</span><span style="font-weight:800;letter-spacing:.3em;color:#F5C518;font-size:.58rem">CORP</span></span></div><div class="footer-company" style="margin:0 0 16px"><div style="font-weight:800;text-transform:uppercase;color:#FFFFFF;font-size:1.02rem;line-height:1.3;letter-spacing:.005em">Công ty Cổ phần TMDV HOPE</div><div style="margin-top:6px;font-weight:500;text-transform:uppercase;color:rgba(255,255,255,.52);font-size:.7rem;letter-spacing:.22em">From nature, for life</div></div><p>IKIHEALING là hệ sinh thái chăm sóc sức khoẻ chủ động cho phụ nữ và gia đình, kết nối kiến thức, công nghệ AI, cộng đồng và sản phẩm — đồng hành từ chăm làn da đến ăn uống, nghỉ ngơi và vận động mỗi ngày. IKIHEALING là thương hiệu của Công ty Cổ phần TMDV HOPE (MST 0801404967).</p></div>
+      <div><h4>Hệ sinh thái</h4><ul><li><a href="../hoc-vien.html">Học Viện IKIHEALING</a></li><li><a href="index.html">Blog IKIHEALING</a></li><li><a href="tat-ca-bai-viet.html">Tất cả bài viết</a></li><li><a href="../cong-dong.html">Cộng đồng IKIHEALING</a></li><li><a href="../app.html">Ứng dụng IKIHEALING</a></li><li><a href="../ve-hope.html">Về HOPE CORP</a></li></ul></div>
       <div><h4>Trụ nội dung</h4><ul><li><a href="lo-trinh.html">Lộ trình chăm sóc</a></li><li><a href="danh-muc-dinh-duong.html">Dinh dưỡng &amp; ăn uống</a></li><li><a href="danh-muc-thoi-quen.html">Thói quen &amp; lối sống</a></li><li><a href="danh-muc-dong-y.html">Đông y &amp; dân gian</a></li></ul></div>
       <div><h4>Liên hệ</h4><ul class="contact-list"><li class="contact-item"><span class="contact-label">Email</span><a href="mailto:contact@ikihealing.com">contact@ikihealing.com</a></li><li class="contact-item"><span class="contact-label">Tư vấn</span><a href="tel:0987931551">0987.931.551</a></li></ul></div>
     </div>
-    <div class="global-disclaimer"><p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKI không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p></div>
-    <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKI là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span> <a href="mien-tru-trach-nhiem.html" style="color:rgba(255,255,255,0.7);text-decoration:underline">Miễn trừ trách nhiệm</a></div>
+    <div class="global-disclaimer"><p>Nội dung mang tính tham khảo, không thay thế tư vấn y khoa. Sản phẩm IKIHEALING không phải là thuốc và không có tác dụng thay thế thuốc chữa bệnh.</p></div>
+    <div class="footer-bottom"><span>© 2026 Công ty Cổ phần TMDV HOPE — IKIHEALING là thương hiệu được sở hữu và vận hành bởi HOPE CORP.</span> <a href="mien-tru-trach-nhiem.html" style="color:rgba(255,255,255,0.7);text-decoration:underline">Miễn trừ trách nhiệm</a></div>
   </div></footer>
 <!-- Zalo OA chat widget -->
 <style>
@@ -312,7 +312,7 @@ export const footer = () => `
 </style>
 <div class="zalo-chat-widget"
      data-oaid="599407064751177637"
-     data-welcome-message="Chào bạn, IKI có thể hỗ trợ gì cho bạn?"
+     data-welcome-message="Chào bạn, IKIHEALING có thể hỗ trợ gì cho bạn?"
      data-autopopup="0"
      data-width="350"
      data-height="420"></div>
@@ -376,12 +376,12 @@ export function buildStructure() {
   for (const g of plan.roadmaps) for (const it of g.items) if (!plan.articles.find((a) => a.slug === it.slug)) searchIndex.push({ title: it.title, url: isPublished(it.slug) ? `${it.slug}.html` : null, cat: "Lộ trình", desc: g.group });
   fs.writeFileSync(path.join(outDir, "search-index.json"), JSON.stringify(searchIndex), "utf8");
   fs.writeFileSync(path.join(outDir, "index.html"),
-    blogHomeShell(head("Blog IKI — Lộ trình chăm sóc sức khoẻ chủ động",
-      "Blog IKI Beauty & Wellness — kiến thức chăm sóc sức khỏe chủ động cho phụ nữ và gia đình: dinh dưỡng, nghỉ ngơi, vận động, sắc đẹp và thói quen hằng ngày.",
+    blogHomeShell(head("Blog IKIHEALING — Lộ trình chăm sóc sức khoẻ chủ động",
+      "Blog IKIHEALING Beauty & Wellness — kiến thức chăm sóc sức khỏe chủ động cho phụ nữ và gia đình: dinh dưỡng, nghỉ ngơi, vận động, sắc đẹp và thói quen hằng ngày.",
       `${SITE}/blog/`,
-      { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKI", url: `${SITE}/blog/`, description: "Kiến thức chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: BRAND_NAME } })
+      { "@context": "https://schema.org", "@type": "Blog", name: "Blog IKIHEALING", url: `${SITE}/blog/`, description: "Kiến thức chăm sóc sức khỏe chủ động cho phụ nữ và gia đình.", inLanguage: "vi-VN", publisher: { "@type": "Organization", name: BRAND_NAME } })
     + header()
-    + `<main><section class="blog-hero"><span class="eyebrow">Blog IKI · Lộ trình chăm sóc sức khoẻ</span><h1>Chăm sóc sức khoẻ chủ động, theo từng chặng</h1><p>Đi từ hiểu cơ thể mình đến xây thói quen bền vững — mỗi chặng một bước, phủ dần kiến thức để bạn tự chủ sức khoẻ mỗi ngày.</p></section>${searchBox}${ageSection}${catNav}<div class="blog-layout"><div class="blog-main">${chapters}</div>${sidebar}</div>${emailCta(plan, "index")}${searchScript}</main>`
+    + `<main><section class="blog-hero"><span class="eyebrow">Blog IKIHEALING · Lộ trình chăm sóc sức khoẻ</span><h1>Chăm sóc sức khoẻ chủ động, theo từng chặng</h1><p>Đi từ hiểu cơ thể mình đến xây thói quen bền vững — mỗi chặng một bước, phủ dần kiến thức để bạn tự chủ sức khoẻ mỗi ngày.</p></section>${searchBox}${ageSection}${catNav}<div class="blog-layout"><div class="blog-main">${chapters}</div>${sidebar}</div>${emailCta(plan, "index")}${searchScript}</main>`
     + footer()), "utf8");
 
   // ---------- CATEGORY HUBS ----------
@@ -392,7 +392,7 @@ export function buildStructure() {
     const grid = pub.length ? `<section class="cat-section"><div class="blog-grid">${pub.map((a) => imgCard(a, c.name)).join("")}</div></section>` : "";
     const soon = planned.length ? `<section class="soon-list"><h2>Nội dung sắp có</h2><ul>${planned.map((a) => `<li><span class="tag">Sắp có</span>${esc(a.title)}</li>`).join("")}</ul></section>` : "";
     fs.writeFileSync(path.join(outDir, `danh-muc-${c.slug}.html`),
-      head(`${c.name} | Blog IKI`, c.desc, `${SITE}/blog/danh-muc-${c.slug}.html`,
+      head(`${c.name} | Blog IKIHEALING`, c.desc, `${SITE}/blog/danh-muc-${c.slug}.html`,
         { "@context": "https://schema.org", "@type": "CollectionPage", name: c.name, url: `${SITE}/blog/danh-muc-${c.slug}.html`, description: c.desc, inLanguage: "vi-VN" })
       + header()
       + `<main><section class="blog-hero"><span class="eyebrow">Trụ nội dung</span><h1>${esc(c.name)}</h1><p>${esc(c.desc)}</p></section>${grid}${soon}${emailCta(plan, `cat:${c.slug}`)}</main>`
@@ -431,11 +431,11 @@ export function buildStructure() {
     const tong = plan.articles.filter((a) => isPublished(a.slug)).length;
     const cssMl = `<style>.ml-nhom{margin:34px 0}.ml-nhom h2{font-size:1.35rem;margin:0 0 14px;padding-bottom:8px;border-bottom:2px solid #E3EADF}.ml-dem{font-size:.85rem;font-weight:500;color:#6B7A6B;margin-left:8px}.ml-ds{list-style:none;padding:0;margin:0;columns:2;column-gap:34px}.ml-ds li{break-inside:avoid;margin:0 0 9px;line-height:1.45}.ml-ds a{color:#1F4D1F;text-decoration:none}.ml-ds a:hover{text-decoration:underline}@media(max-width:760px){.ml-ds{columns:1}}</style>`;
     fs.writeFileSync(path.join(outDir, "tat-ca-bai-viet.html"),
-      head("Tất cả bài viết | Blog IKI Healing", `Mục lục đầy đủ ${tong} bài viết về dinh dưỡng, nghỉ ngơi, vận động, chăm sóc sắc đẹp và sức khỏe gia đình trên Blog IKI Beauty & Wellness.`,
+      head("Tất cả bài viết | Blog IKIHEALING", `Mục lục đầy đủ ${tong} bài viết về dinh dưỡng, nghỉ ngơi, vận động, chăm sóc sắc đẹp và sức khỏe gia đình trên Blog IKIHEALING Beauty & Wellness.`,
         `${SITE}/blog/tat-ca-bai-viet.html`,
-        { "@context": "https://schema.org", "@type": "CollectionPage", name: "Tất cả bài viết — Blog IKI Healing", url: `${SITE}/blog/tat-ca-bai-viet.html`, inLanguage: "vi-VN" })
+        { "@context": "https://schema.org", "@type": "CollectionPage", name: "Tất cả bài viết — Blog IKIHEALING", url: `${SITE}/blog/tat-ca-bai-viet.html`, inLanguage: "vi-VN" })
       + cssMl + header()
-      + `<main><section class="blog-hero"><span class="eyebrow">Mục lục</span><h1>Tất cả bài viết</h1><p>Toàn bộ ${tong} bài trên Blog IKI Healing, xếp theo trụ nội dung.</p></section><div class="post-wrap">${theoNhom}${khac}</div>${emailCta(plan, "muc-luc")}</main>`
+      + `<main><section class="blog-hero"><span class="eyebrow">Mục lục</span><h1>Tất cả bài viết</h1><p>Toàn bộ ${tong} bài trên Blog IKIHEALING, xếp theo trụ nội dung.</p></section><div class="post-wrap">${theoNhom}${khac}</div>${emailCta(plan, "muc-luc")}</main>`
       + footer(), "utf8");
     console.log(`  mục lục: tat-ca-bai-viet.html — ${tong} bài`);
   }
@@ -446,7 +446,7 @@ export function buildStructure() {
     return `<li><span class="dot ${pub ? "pub" : "soon"}"></span>${pub ? `<a href="${escAttr(it.slug)}.html">${esc(it.title)}</a>` : `<span>${esc(it.title)}</span>`}<span class="st ${pub ? "pub" : "soon"}">${pub ? "Đã có" : "Sắp có"}</span></li>`;
   }).join("")}</ul></div>`).join("");
   fs.writeFileSync(path.join(outDir, "lo-trinh.html"),
-    head("Lộ trình chăm sóc sức khoẻ chủ động | Blog IKI",
+    head("Lộ trình chăm sóc sức khoẻ chủ động | Blog IKIHEALING",
       "Các lộ trình chăm sóc sức khoẻ chủ động theo chặng — theo độ tuổi, nhu cầu và mối quan tâm sức khoẻ.",
       `${SITE}/blog/lo-trinh.html`,
       { "@context": "https://schema.org", "@type": "CollectionPage", name: "Lộ trình chăm sóc sức khoẻ chủ động", url: `${SITE}/blog/lo-trinh.html`, inLanguage: "vi-VN" })
@@ -463,7 +463,7 @@ export function buildStructure() {
     return `<section class="cat-section"><div class="ch-head" style="text-align:center;margin-bottom:14px"><h2>${esc(g.name)}</h2>${g.desc ? `<p>${esc(g.desc)}</p>` : ""}</div><div class="blog-grid">${cards}</div></section>`;
   }).join("");
   fs.writeFileSync(path.join(outDir, "moi-quan-tam.html"),
-    head("Chăm sóc theo mối quan tâm | Blog IKI",
+    head("Chăm sóc theo mối quan tâm | Blog IKIHEALING",
       "Chọn theo điều bạn quan tâm — tiêu hoá nhẹ nhàng, ngủ ngon, năng lượng mỗi ngày, ăn uống cân bằng — và tìm bài viết chăm sóc sức khoẻ chủ động phù hợp.",
       `${SITE}/blog/moi-quan-tam.html`,
       { "@context": "https://schema.org", "@type": "CollectionPage", name: "Chăm sóc sức khoẻ theo mối quan tâm", url: `${SITE}/blog/moi-quan-tam.html`, inLanguage: "vi-VN" })
@@ -496,7 +496,7 @@ export function buildStructure() {
       camNhanFiles.add(file);
       const slice = list.slice((n - 1) * TM_MOI_TRANG, n * TM_MOI_TRANG);
       const pager = total > 1 ? `<nav class="tm-pages" aria-label="Phân trang">${Array.from({ length: total }, (_, k) => k + 1).map((k) => (k === n ? `<span aria-current="page">${k}</span>` : `<a href="${tmFile(base, k)}">${k}</a>`)).join("")}</nav>` : "";
-      const tt = n === 1 ? title : `${title.replace(/ \| Blog IKI$/, "")} - trang ${n} | Blog IKI`;
+      const tt = n === 1 ? title : `${title.replace(/ \| Blog IKI$/, "")} - trang ${n} | Blog IKIHEALING`;
       fs.writeFileSync(path.join(outDir, file),
         head(tt, desc, `${SITE}/blog/${file}`,
           { "@context": "https://schema.org", "@type": "CollectionPage", name: h1, url: `${SITE}/blog/${file}`, inLanguage: "vi-VN" }, noindex || n > 1)
@@ -507,17 +507,17 @@ export function buildStructure() {
     }
   };
   tmPages({ base: "cam-nhan-cong-dong", list: tms, cur: "", source: "cam-nhan-cong-dong",
-    title: "Cảm nhận cộng đồng | Blog IKI",
-    desc: "Những chia sẻ chân thật của cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động mỗi ngày.",
+    title: "Cảm nhận cộng đồng | Blog IKIHEALING",
+    desc: "Những chia sẻ chân thật của cộng đồng IKIHEALING về hành trình xây thói quen chăm sóc sức khoẻ chủ động mỗi ngày.",
     eyebrow: "Cảm nhận cộng đồng", h1: "Những thói quen nhỏ, kể bằng lời thật",
-    lead: "Đây là chia sẻ của các thành viên trong cộng đồng IKI về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Chọn điều bạn quan tâm hoặc nhóm người giống mình ở bên dưới để đọc những chia sẻ gần với bạn nhất." });
+    lead: "Đây là chia sẻ của các thành viên trong cộng đồng IKIHEALING về hành trình xây thói quen chăm sóc sức khoẻ chủ động. Chọn điều bạn quan tâm hoặc nhóm người giống mình ở bên dưới để đọc những chia sẻ gần với bạn nhất." });
   for (const g of tmGroups) {
     tmPages({ base: `cam-nhan-${g.slug}`, list: tms.filter((t) => (t.tags || []).includes(g.slug)), cur: g.slug, source: `cam-nhan-${g.slug}`, noindex: g.count < TM_INDEX_TU,
-      title: `Cảm nhận: ${g.name} | Blog IKI`,
-      desc: `Chia sẻ của cộng đồng IKI ${g.type === "quan-tam" ? "quan tâm tới" : "thuộc nhóm"} ${g.name.toLowerCase()}: thói quen nhỏ, cảm nhận thật mỗi ngày.`,
+      title: `Cảm nhận: ${g.name} | Blog IKIHEALING`,
+      desc: `Chia sẻ của cộng đồng IKIHEALING ${g.type === "quan-tam" ? "quan tâm tới" : "thuộc nhóm"} ${g.name.toLowerCase()}: thói quen nhỏ, cảm nhận thật mỗi ngày.`,
       eyebrow: g.type === "quan-tam" ? "Cảm nhận theo mối quan tâm" : "Cảm nhận theo nhóm người",
       h1: g.name,
-      lead: `${g.count} chia sẻ của thành viên cộng đồng IKI ${g.type === "quan-tam" ? `quan tâm tới ${g.name.toLowerCase()}` : `thuộc nhóm ${g.name.toLowerCase()}`}. Mỗi người một cảm nhận riêng.` });
+      lead: `${g.count} chia sẻ của thành viên cộng đồng IKIHEALING ${g.type === "quan-tam" ? `quan tâm tới ${g.name.toLowerCase()}` : `thuộc nhóm ${g.name.toLowerCase()}`}. Mỗi người một cảm nhận riêng.` });
   }
   // Dọn trang cảm nhận cũ do chính khối này sinh ra (nhóm đã hết mẩu, trang phân trang thừa).
   for (const f of fs.readdirSync(outDir)) if (/^cam-nhan-.+\.html$/.test(f) && !camNhanFiles.has(f)) fs.unlinkSync(path.join(outDir, f));
@@ -526,28 +526,28 @@ export function buildStructure() {
   // Không gọi trà là thực phẩm bổ sung. Mục 3: câu đạm (hộp 22 gói, đổi 16/10/2026) rồi A4. Không gắn A8 vào điều khoản.
   const legalStyle = `<style>.legal{max-width:760px;margin:0 auto;padding:8px 22px 10px;font-size:1.02rem;color:#344054}.legal h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.4rem;color:#101828;margin:1.7em 0 .4em;scroll-margin-top:90px}.legal h2 .ln{color:var(--iki-teal-deep,#094938);font-family:var(--font-sans,'Manrope');font-size:.9rem;font-weight:700;margin-right:8px}.legal p{margin:.7em 0;line-height:1.72}.legal ul{margin:.5em 0;padding-left:1.3em}.legal li{margin:.35em 0;line-height:1.6}.legal strong{color:#101828}.legal .upd{color:#98a2b3;font-size:.88rem}.legal .note{background:#f4f8ff;border:1px solid #d6e4fb;border-radius:12px;padding:14px 18px;color:#334155;font-size:.94rem;margin:16px 0}</style>`;
   const legalBody = `<section class="legal">
-    <p class="upd">Cập nhật: 2026 · Áp dụng cho blog và các kênh nội dung của IKI Healing.</p>
+    <p class="upd">Cập nhật: 2026 · Áp dụng cho blog và các kênh nội dung của IKIHEALING.</p>
     <div class="note">Văn bản này là điều khoản nội dung &amp; miễn trừ trách nhiệm cho mục đích tham khảo và minh bạch với người đọc. Doanh nghiệp nên để bộ phận pháp chế rà soát trước khi coi là văn bản pháp lý chính thức.</div>
     <h2><span class="ln">1.</span>Mục đích và phạm vi nội dung</h2>
-    <p>Toàn bộ nội dung trên blog và các kênh chính thức của IKI (bài viết, hình ảnh, video, bản tin, cẩm nang…) hướng tới mục tiêu <strong>chia sẻ kiến thức chăm sóc sức khoẻ chủ động</strong>: dinh dưỡng, thói quen, vận động, giấc ngủ, tinh thần và kinh nghiệm dân gian được tiếp nhận có chọn lọc. Nội dung mang tính phổ thông, giáo dục cộng đồng, giúp người đọc <strong>hiểu đúng – làm đúng – duy trì lâu dài</strong>.</p>
-    <p>IKI là thương hiệu thuộc Công ty Cổ phần TMDV HOPE, <strong>không phải cơ sở khám chữa bệnh</strong>. Nội dung không phải là dịch vụ y tế và không thay thế việc thăm khám, chẩn đoán hay tư vấn trực tiếp của bác sĩ có thẩm quyền.</p>
+    <p>Toàn bộ nội dung trên blog và các kênh chính thức của IKIHEALING (bài viết, hình ảnh, video, bản tin, cẩm nang…) hướng tới mục tiêu <strong>chia sẻ kiến thức chăm sóc sức khoẻ chủ động</strong>: dinh dưỡng, thói quen, vận động, giấc ngủ, tinh thần và kinh nghiệm dân gian được tiếp nhận có chọn lọc. Nội dung mang tính phổ thông, giáo dục cộng đồng, giúp người đọc <strong>hiểu đúng – làm đúng – duy trì lâu dài</strong>.</p>
+    <p>IKIHEALING là thương hiệu thuộc Công ty Cổ phần TMDV HOPE, <strong>không phải cơ sở khám chữa bệnh</strong>. Nội dung không phải là dịch vụ y tế và không thay thế việc thăm khám, chẩn đoán hay tư vấn trực tiếp của bác sĩ có thẩm quyền.</p>
     <h2><span class="ln">2.</span>Không thay thế tư vấn y khoa cá nhân</h2>
     <p>Mỗi cơ thể là một trường hợp riêng. Điều phù hợp với người này chưa chắc phù hợp với người khác. Nếu bạn đang có bệnh lý nền, đang dùng thuốc theo đơn, đang mang thai hoặc cho con bú, hãy <strong>trao đổi với bác sĩ của bạn trước khi áp dụng</strong> bất kỳ gợi ý nào từ nội dung của chúng tôi. Việc lắng nghe cơ thể và điều chỉnh cùng chuyên gia là nền tảng của chăm sóc sức khoẻ chủ động.</p>
-    <h2><span class="ln">3.</span>Về sản phẩm của IKI / HOPE</h2>
+    <h2><span class="ln">3.</span>Về sản phẩm của IKIHEALING / HOPE</h2>
     <p>Thực phẩm bổ sung TRUE VEGAN PROTEIN PRO (hộp 22 gói x 22 g), số tự công bố 03/HOPECORP/2026. Tổ chức chịu trách nhiệm về sản phẩm: Công ty Cổ phần TMDV HOPE, Số 40A Quang Trung, Phường Hải Dương, Thành phố Hải Phòng. Dành cho người từ 18 tuổi trở lên. Trà Thanh Hương - trà thảo mộc túi lọc, Công ty CP TMDV HOPE chịu trách nhiệm. Sản phẩm được công bố theo quy định hiện hành. Cảm nhận và kết quả có thể khác nhau tuỳ cơ địa, chế độ sinh hoạt và mức độ kiên trì của mỗi người.</p>
     <h2><span class="ln">4.</span>Về cảm nhận và trải nghiệm cộng đồng</h2>
     <p>Các chia sẻ, cảm nhận của thành viên cộng đồng là <strong>trải nghiệm cá nhân về thay đổi thói quen sinh hoạt</strong>, không phải lời khuyên y khoa, không đại diện cho tất cả mọi người và không phải cam kết về kết quả sức khoẻ.</p>
     <h2><span class="ln">5.</span>Miễn trừ trách nhiệm</h2>
-    <p>IKI / HOPE CORP và đội ngũ vận hành <strong>không chịu trách nhiệm pháp lý hoặc cá nhân</strong> đối với bất kỳ rủi ro, hệ quả hoặc tác động không mong muốn nào có thể phát sinh khi người đọc <strong>tự ý áp dụng thông tin mà không có hướng dẫn y tế phù hợp</strong>. Mọi nội dung chỉ mang tính tham khảo, giáo dục và khuyến khích thay đổi lối sống tích cực, không nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa cá nhân.</p>
+    <p>IKIHEALING / HOPE CORP và đội ngũ vận hành <strong>không chịu trách nhiệm pháp lý hoặc cá nhân</strong> đối với bất kỳ rủi ro, hệ quả hoặc tác động không mong muốn nào có thể phát sinh khi người đọc <strong>tự ý áp dụng thông tin mà không có hướng dẫn y tế phù hợp</strong>. Mọi nội dung chỉ mang tính tham khảo, giáo dục và khuyến khích thay đổi lối sống tích cực, không nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa cá nhân.</p>
     <h2><span class="ln">6.</span>Bản quyền và sử dụng lại nội dung</h2>
-    <p>Nội dung, hình ảnh và tài liệu trên các kênh của IKI thuộc bản quyền của Công ty Cổ phần TMDV HOPE. Việc trích dẫn hoặc sử dụng lại cần ghi rõ nguồn và không chỉnh sửa làm sai lệch nội dung gốc. Chúng tôi khuyến khích chia sẻ có trách nhiệm vì mục tiêu lan toả tri thức sức khoẻ, và không chịu trách nhiệm với việc diễn giải sai lệch nằm ngoài phạm vi kiểm soát của mình.</p>
+    <p>Nội dung, hình ảnh và tài liệu trên các kênh của IKIHEALING thuộc bản quyền của Công ty Cổ phần TMDV HOPE. Việc trích dẫn hoặc sử dụng lại cần ghi rõ nguồn và không chỉnh sửa làm sai lệch nội dung gốc. Chúng tôi khuyến khích chia sẻ có trách nhiệm vì mục tiêu lan toả tri thức sức khoẻ, và không chịu trách nhiệm với việc diễn giải sai lệch nằm ngoài phạm vi kiểm soát của mình.</p>
     <h2><span class="ln">7.</span>Đồng ý và luật áp dụng</h2>
-    <p>Việc truy cập, tham khảo, sử dụng hoặc tham gia các hoạt động do IKI / HOPE vận hành đồng nghĩa với việc bạn đã đọc, hiểu và đồng ý với các điều khoản trong văn bản này. Văn bản được biên soạn theo pháp luật Việt Nam hiện hành; mọi tranh chấp, khiếu nại sẽ được xem xét, giải quyết theo quy định của pháp luật Việt Nam.</p>
+    <p>Việc truy cập, tham khảo, sử dụng hoặc tham gia các hoạt động do IKIHEALING / HOPE vận hành đồng nghĩa với việc bạn đã đọc, hiểu và đồng ý với các điều khoản trong văn bản này. Văn bản được biên soạn theo pháp luật Việt Nam hiện hành; mọi tranh chấp, khiếu nại sẽ được xem xét, giải quyết theo quy định của pháp luật Việt Nam.</p>
     <p class="upd">Liên hệ: contact@ikihealing.com · 0987.931.551 — Công ty Cổ phần TMDV HOPE (MST 0801404967).</p>
   </section>`;
   fs.writeFileSync(path.join(outDir, "mien-tru-trach-nhiem.html"),
-    head("Miễn trừ trách nhiệm &amp; điều khoản nội dung | IKI",
-      "Điều khoản nội dung và miễn trừ trách nhiệm của IKI Healing: nội dung mang tính giáo dục, không thay thế tư vấn y khoa.",
+    head("Miễn trừ trách nhiệm &amp; điều khoản nội dung | IKIHEALING",
+      "Điều khoản nội dung và miễn trừ trách nhiệm của IKIHEALING: nội dung mang tính giáo dục, không thay thế tư vấn y khoa.",
       `${SITE}/blog/mien-tru-trach-nhiem.html`, null, true)
     + header() + legalStyle
     + `<main><section class="blog-hero" style="padding-bottom:6px"><span class="eyebrow">Điều khoản nội dung</span><h1>Miễn trừ trách nhiệm</h1><p>Cách chúng tôi chia sẻ nội dung sức khoẻ và ranh giới trách nhiệm, để bạn đọc an tâm và đúng cách.</p></section>${legalBody}</main>`
@@ -555,9 +555,9 @@ export function buildStructure() {
 
   // ---------- THANK YOU ----------
   fs.writeFileSync(path.join(outDir, "cam-on.html"),
-    head("Cảm ơn bạn đã đăng ký | Blog IKI", "Cảm ơn bạn đã để lại email nhận cẩm nang chăm sóc sức khoẻ chủ động từ IKI.", `${SITE}/blog/cam-on.html`, null, true)
+    head("Cảm ơn bạn đã đăng ký | Blog IKIHEALING", "Cảm ơn bạn đã để lại email nhận cẩm nang chăm sóc sức khoẻ chủ động từ IKIHEALING.", `${SITE}/blog/cam-on.html`, null, true)
     + header()
-    + `<main><section class="blog-hero" style="padding-bottom:40px"><span class="eyebrow">Đã nhận đăng ký</span><h1>Cảm ơn bạn!</h1><p>IKI đã nhận email của bạn. Cẩm nang cũng vừa được gửi vào hộp thư của bạn — hoặc tải trực tiếp ngay dưới đây:</p><div style="margin-top:22px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap"><a class="btn btn-primary" href="../assets/cam-nang-cham-soc-suc-khoe-chu-dong.pdf" target="_blank" rel="noopener">Tải cẩm nang PDF →</a><a class="btn btn-secondary" href="index.html">Đọc Blog IKI</a><a class="btn btn-secondary" href="../app.html">Tải App IKI</a></div></section><script>try{if(typeof gtag==='function'){gtag('event','generate_lead',{event_category:'blog',event_label:'lead_magnet'});gtag('event','conversion',{send_to:'AW-18332022859/NzdQCOH0m9YcEMvwsaVE',value:1.0,currency:'VND',transaction_id:''});}}catch(e){}</script></main>`
+    + `<main><section class="blog-hero" style="padding-bottom:40px"><span class="eyebrow">Đã nhận đăng ký</span><h1>Cảm ơn bạn!</h1><p>IKIHEALING đã nhận email của bạn. Cẩm nang cũng vừa được gửi vào hộp thư của bạn — hoặc tải trực tiếp ngay dưới đây:</p><div style="margin-top:22px;display:flex;gap:12px;justify-content:center;flex-wrap:wrap"><a class="btn btn-primary" href="../assets/cam-nang-cham-soc-suc-khoe-chu-dong.pdf" target="_blank" rel="noopener">Tải cẩm nang PDF →</a><a class="btn btn-secondary" href="index.html">Đọc Blog IKIHEALING</a><a class="btn btn-secondary" href="../app.html">Tải App IKIHEALING</a></div></section><script>try{if(typeof gtag==='function'){gtag('event','generate_lead',{event_category:'blog',event_label:'lead_magnet'});gtag('event','conversion',{send_to:'AW-18332022859/NzdQCOH0m9YcEMvwsaVE',value:1.0,currency:'VND',transaction_id:''});}}catch(e){}</script></main>`
     + footer(), "utf8");
 
   updateSitemap(plan);
@@ -569,20 +569,20 @@ export function buildStructure() {
 // ---- GEO: tự sinh llms.txt từ content-plan (giữ đầy đủ khi thêm bài) ----
 function buildLlms(plan) {
   const L = [];
-  L.push(`# ${BRAND_NAME} — IKI by HOPE CORP`, "");
+  L.push(`# ${BRAND_NAME} — IKIHEALING by HOPE CORP`, "");
   L.push(`> ${BRAND_DESCRIPTION}`, "", "Cập nhật định vị: 14/09/2026.", "", BRAND_SCOPE, "");
-  L.push("Tên hiển thị thống nhất: IKI Beauty & Wellness. IKI Healing / ikihealing là tên nhận diện trước đây và tên miền của cùng hệ sinh thái. Đơn vị sở hữu thương hiệu IKI: CÔNG TY CỔ PHẦN TMDV HOPE (MST 0801404967, Hải Phòng).", "");
+  L.push("Tên hiển thị thống nhất: IKIHEALING Beauty & Wellness. IKIHEALING / ikihealing là tên nhận diện trước đây và tên miền của cùng hệ sinh thái. Đơn vị sở hữu thương hiệu IKIHEALING: CÔNG TY CỔ PHẦN TMDV HOPE (MST 0801404967, Hải Phòng).", "");
   L.push("## Giới thiệu chính thức");
-  L.push(`- [IKI Beauty & Wellness là gì?](${SITE}/ve-hope.html#dinh-vi-iki): định vị Health Care / HealthTech, đối tượng và các thành phần hệ sinh thái.`);
+  L.push(`- [IKIHEALING Beauty & Wellness là gì?](${SITE}/ve-hope.html#dinh-vi-iki): định vị Health Care / HealthTech, đối tượng và các thành phần hệ sinh thái.`);
   L.push(`- [Trang chủ](${SITE}/): kiến thức, Học Viện, cộng đồng, sản phẩm và công nghệ hỗ trợ chăm sóc chủ động.`);
-  L.push(`- [Ứng dụng IKI Beauty & Wellness](${SITE}/app.html): ${APP_DESCRIPTION}`);
-  L.push(`- [Đội ngũ HOPE CORP](${SITE}/team.html): con người và vai trò xây dựng IKI.`);
+  L.push(`- [Ứng dụng IKIHEALING Beauty & Wellness](${SITE}/app.html): ${APP_DESCRIPTION}`);
+  L.push(`- [Đội ngũ HOPE CORP](${SITE}/team.html): con người và vai trò xây dựng IKIHEALING.`);
   L.push(`- [Tuyên bố sở hữu và chính sách bảo mật](${SITE}/chinh-sach-bao-mat.html#tuyen-bo-so-huu).`, "");
   L.push("## Phạm vi nội dung và thông tin trước đây");
-  L.push("Các bài về Đông y, Y học cổ truyền và thể tạng là một phần kho kiến thức đã xuất bản; không đại diện cho định vị toàn bộ IKI hay mô tả tính năng của ứng dụng hiện tại. Những bài giới thiệu thiết kế app cũ được ghi chú rõ; thông tin ứng dụng mới nhất nằm ở /app.html.", "");
+  L.push("Các bài về Đông y, Y học cổ truyền và thể tạng là một phần kho kiến thức đã xuất bản; không đại diện cho định vị toàn bộ IKIHEALING hay mô tả tính năng của ứng dụng hiện tại. Những bài giới thiệu thiết kế app cũ được ghi chú rõ; thông tin ứng dụng mới nhất nằm ở /app.html.", "");
   L.push("Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm sóc sức khoẻ chủ động, KHÔNG nhằm chẩn đoán, điều trị hay thay thế tư vấn y khoa.", "");
   L.push("## Blog — Kiến thức chăm sóc sức khoẻ chủ động");
-  L.push(`- [Blog IKI](${SITE}/blog/): lộ trình chăm sóc sức khoẻ chủ động theo từng chặng.`);
+  L.push(`- [Blog IKIHEALING](${SITE}/blog/): lộ trình chăm sóc sức khoẻ chủ động theo từng chặng.`);
   for (const a of plan.articles) if (isPublished(a.slug) && !LEGACY_APP_SLUGS.has(a.slug) && !khongDuaVaoChiMuc(a.slug)) {
     const m = draftMeta(a.slug) || {};
     L.push(`- [${a.title}](${SITE}/blog/${a.slug}.html)${m.description ? ": " + m.description : ""}`);
@@ -591,10 +591,10 @@ function buildLlms(plan) {
   L.push(`- [Lộ trình chăm sóc sức khoẻ](${SITE}/blog/lo-trinh.html)`);
   for (const c of plan.categories) if (c.slug !== "lo-trinh") L.push(`- [${c.name}](${SITE}/blog/danh-muc-${c.slug}.html): ${c.desc}`);
   L.push("", "## Nền tảng & ứng dụng");
-  L.push(`- [Học Viện IKI](${SITE}/hoc-vien.html): khoá học chăm sóc sức khoẻ chủ động.`);
-  L.push(`- [Công nghệ IKI](${SITE}/cong-nghe.html): công nghệ hỗ trợ cá nhân hóa trải nghiệm chăm sóc hằng ngày.`);
-  L.push(`- [Cộng đồng IKI](${SITE}/cong-dong.html): không gian chia sẻ kiến thức và cùng thực hành chăm sóc bản thân, gia đình.`);
-  L.push(`- [Ứng dụng IKI](${SITE}/app.html): ${APP_DESCRIPTION}`);
+  L.push(`- [Học Viện IKIHEALING](${SITE}/hoc-vien.html): khoá học chăm sóc sức khoẻ chủ động.`);
+  L.push(`- [Công nghệ IKIHEALING](${SITE}/cong-nghe.html): công nghệ hỗ trợ cá nhân hóa trải nghiệm chăm sóc hằng ngày.`);
+  L.push(`- [Cộng đồng IKIHEALING](${SITE}/cong-dong.html): không gian chia sẻ kiến thức và cùng thực hành chăm sóc bản thân, gia đình.`);
+  L.push(`- [Ứng dụng IKIHEALING](${SITE}/app.html): ${APP_DESCRIPTION}`);
   // SẢN PHẨM — đọc từ san-pham-data.json để mỗi dòng có ĐỦ mô tả, quy cách và GIÁ.
   // Bản cũ chỉ liệt kê tên trỏ ra tên miền sale page ngoài, không một chữ mô tả: trợ lý AI đọc
   // llms.txt xong vẫn không trả lời nổi "Trà Tuệ Minh là gì, giá bao nhiêu" nên nó đi lấy nguồn
@@ -610,7 +610,7 @@ function buildLlms(plan) {
   } catch (e) {
     console.warn("  ! không đọc được san-pham-data.json cho llms.txt:", e.message);
   }
-  L.push(`- [Cửa hàng IKI](${SITE}/shop/): toàn bộ danh mục sản phẩm, giao toàn quốc.`);
+  L.push(`- [Cửa hàng IKIHEALING](${SITE}/shop/): toàn bộ danh mục sản phẩm, giao toàn quốc.`);
   L.push("- Trang bán riêng: [Trà Thanh Hương](https://thanhhuongtra.ikihealing.com) · [True Vegan Protein](https://trueveganprotein.com)");
   L.push("", "## Liên hệ");
   L.push("- Email: contact@ikihealing.com");

@@ -1,5 +1,5 @@
 /**
- * khoi-so-lieu.mjs — BỘ KHỐI TRỰC QUAN cho bài báo cáo số liệu của IKI.
+ * khoi-so-lieu.mjs — BỘ KHỐI TRỰC QUAN cho bài báo cáo số liệu của IKIHEALING.
  *
  * Vì sao có file này (CEO 04/09/2026, sau khi đọc bài "Shein và cái bẫy mang tên biên lãi gộp"
  * của Nguyễn Xuân Đông trên CafeBiz): bài đó dựng số thành BẢNG + BIỂU ĐỒ + KHỐI SỐ NỔI, còn
@@ -18,7 +18,7 @@
  * Dùng: import { bangSoLieu, bieuDoCot, bieuDoDuong, khoiSoNoi, khoiCoChe, cauTrichDan } from "./khoi-so-lieu.mjs"
  */
 
-const XANH = "#1F4D2F";       // xanh thương hiệu IKI
+const XANH = "#1F4D2F";       // xanh thương hiệu IKIHEALING
 const XANH_NHAT = "#E8F0E8";
 const VANG = "#D7B46A";       // gạch nhấn
 const XAM = "#8B8776";

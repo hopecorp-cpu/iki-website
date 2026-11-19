@@ -13,7 +13,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-9X3LTTL2N3"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-9X3LTTL2N3');</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>2分でわかる東洋医学の体質チェック — IKI Healing</title>
+<title>2分でわかる東洋医学の体質チェック — IKIHEALING</title>
 <meta name="description" content="寒熱・虚実の10問 — あなたの体質と、それに合う食べ方がわかります。"/>
 <link rel="canonical" href="https://ikihealing.com/ja/quiz/"/>
 <link rel="alternate" hreflang="vi" href="https://ikihealing.com/quiz/co-dia/"/><link rel="alternate" hreflang="en" href="https://ikihealing.com/en/quiz/"/><link rel="alternate" hreflang="ja" href="https://ikihealing.com/ja/quiz/"/><link rel="alternate" hreflang="x-default" href="https://ikihealing.com/quiz/co-dia/"/>
@@ -64,7 +64,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div class="steps3">
     <div class="step"><b>10問に答える</b><p>ふだんの体の感覚だけ — 検査は不要。</p></div>
     <div class="step"><b>体質がわかる</b><p>6つの東洋体質のどれか＋合う食材。</p></div>
-    <div class="step"><b>90日を見守る</b><p>IKIアプリで食事をスキャンし、四半期ごとに変化をチェック。</p></div>
+    <div class="step"><b>90日を見守る</b><p>IKIHEALINGアプリで食事をスキャンし、四半期ごとに変化をチェック。</p></div>
   </div>
   <button class="btn" onclick="start()">はじめる</button>
 </div>
@@ -85,17 +85,17 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <div id="rfoods" style="text-align:center"></div>
   <div class="secT">続けたい習慣</div>
   <p style="text-align:center;font-size:.94rem;margin:.2rem 0" id="rtip"></p>
-  <div class="teaser">これは入り口にすぎません — 完全版（養生ガイド・ツボ・90日の変化トラッキング）は無料のIKIアプリに。</div>
-  <a class="btn" href="https://app.ikihealing.com/?utm_source=quiz_codia&utm_medium=web&utm_campaign=ja" target="_blank" rel="noopener">無料のIKIアプリを開く →</a>
+  <div class="teaser">これは入り口にすぎません — 完全版（養生ガイド・ツボ・90日の変化トラッキング）は無料のIKIHEALINGアプリに。</div>
+  <a class="btn" href="https://app.ikihealing.com/?utm_source=quiz_codia&utm_medium=web&utm_campaign=ja" target="_blank" rel="noopener">無料のIKIHEALINGアプリを開く →</a>
   <div class="email">
     <b style="font-size:.95rem">90日後の再チェックをお知らせ</b>
-    <p style="color:var(--muted);font-size:.86rem;margin:.3rem 0">体質は季節と暮らしで変わります。メールを残せば、3か月後にIKIが再チェックをお知らせします。</p>
+    <p style="color:var(--muted);font-size:.86rem;margin:.3rem 0">体質は季節と暮らしで変わります。メールを残せば、3か月後にIKIHEALINGが再チェックをお知らせします。</p>
     <input id="em" type="email" placeholder="you@email.com"/>
     <button class="btn2" id="sendb" onclick="sendLead()">登録する</button>
     <p id="sentmsg" class="hide" style="color:var(--teal);font-weight:700;font-size:.9rem">登録しました！90日後にお会いしましょう。</p>
   </div>
 </div>
-<p class="legal">IKIはウェルネスのパートナーであり、医療サービスではありません。結果は暮らしの参考です。</p>
+<p class="legal">IKIHEALINGはウェルネスのパートナーであり、医療サービスではありません。結果は暮らしの参考です。</p>
 </div>
 <script>
 const D={"qs":[{"key":"extremities","t":"手足は普段どんな感じですか？","o":[{"v":-2,"l":"夏でもとても冷たく、かじかむほど"},{"v":-1,"l":"やや冷たい（特に朝）"},{"v":0,"l":"ふつう、ほどよく温かい"},{"v":1,"l":"熱っぽく、手のひらに汗をかきやすい"},{"v":2,"l":"ほてって赤くなり、いつも冷たい水で冷やしたくなる"}]},{"key":"thirst","t":"喉が渇いたとき、どんな飲み物が欲しくなりますか？","o":[{"v":-2,"l":"白湯や温かい飲み物。冷たい物は苦手"},{"v":-1,"l":"白湯か常温の水"},{"v":0,"l":"特にこだわりはない"},{"v":1,"l":"冷たい水が好きで、温かい物はあまり飲まない"},{"v":2,"l":"いつも氷水が欲しく、たくさん飲んでもまだ渇く"}]},{"key":"stool","t":"お通じは普段どんな様子ですか？","o":[{"v":-2,"l":"ゆるく形がなく、回数が多い"},{"v":-1,"l":"ややゆるめで、形が定まらない"},{"v":0,"l":"ほどよい状態で、1日1回"},{"v":1,"l":"やや乾いて硬め"},{"v":2,"l":"硬く、便秘がひどい"}]},{"key":"urine","t":"朝の尿はどんな様子ですか？","o":[{"v":-2,"l":"透明で量が多く、回数も多い"},{"v":-1,"l":"色が薄く、量が多い"},{"v":0,"l":"ほどよい薄い黄色"},{"v":1,"l":"濃い黄色で、量が少ない"},{"v":2,"l":"濃い黄色で熱っぽい感じがあり、量がとても少ない"}]},{"key":"face","t":"顔色や唇の色はいかがですか？","o":[{"v":-2,"l":"青白く血色がなく、唇がくすんでいる"},{"v":-1,"l":"やや青白く、血色が少ない"},{"v":0,"l":"自然な血色のよさ"},{"v":1,"l":"いつもより赤みが強い"},{"v":2,"l":"顔がほてって赤く、頬が真っ赤で、唇が濃い赤"}]},{"key":"climate","t":"暑さ・寒さへの強さはいかがですか？","o":[{"v":-2,"l":"極端な寒がりで、夏でも上着を着る"},{"v":-1,"l":"まわりの人より寒く感じやすい"},{"v":0,"l":"気候の変化にふつうに順応できる"},{"v":1,"l":"暑がりで、寒さはあまり感じない"},{"v":2,"l":"大の暑がりで、冬でも汗をかく"}]},{"key":"energy","t":"元気やスタミナはいかがですか？","o":[{"v":-2,"l":"いつも疲れ切っていて、何もする気になれない"},{"v":-1,"l":"午後に疲れやすく、昼寝が必要"},{"v":0,"l":"一日を通して元気が安定している"},{"v":1,"l":"元気があり余って、じっとしていられない"},{"v":2,"l":"気持ちが高ぶり、そわそわして落ち着かないことが多い"}]},{"key":"voice","t":"声や呼吸はいかがですか？","o":[{"v":-2,"l":"声が弱く小さく、呼吸が浅くて息切れしやすい"},{"v":-1,"l":"あまり通らず、長く話すと疲れる"},{"v":0,"l":"ふつう"},{"v":1,"l":"よく通り、力がある"},{"v":2,"l":"大きく力強いが、熱がこもって時々かすれる"}]},{"key":"sweat","t":"汗のかき方はいかがですか？","o":[{"v":-2,"l":"理由もなく汗が出る（自汗）"},{"v":-1,"l":"汗をかきやすく、寝汗も出やすい"},{"v":0,"l":"暑い時や運動した時にふつうにかく"},{"v":1,"l":"あまり汗をかかない"},{"v":2,"l":"ほとんどかかず、肌がかさついている"}]},{"key":"heaviness","t":"体の重だるさ・むくみ・痰の感じはありますか？","o":[{"v":0,"l":"軽やかで、そうした感覚はない"},{"v":1,"l":"時々、食後にお腹が張って体が重く感じる"},{"v":2,"l":"しょっちゅう：お腹の張り、脚のむくみ、痰の多さ、頭の重さ"}]}],"pt":{"duong_hu":{"name":"陽虚タイプ","desc":"寒＋虚：体の陽気が足りず、内側から冷えて力が出にくい状態。年配の方、疲れが長く続く方、病み上がりの方に多く見られます。","foods":["生姜、シナモン、八角","羊肉、烏骨鶏の煮込み","もち米、黒ごま"],"tip":"23時前に眠って陽気を養う"},"am_hu":{"name":"陰虚タイプ","desc":"熱＋虚：陰液が不足し、体が乾いてほてり、心が落ち着きにくい状態。更年期前後の女性や、ストレス・眠りの浅さが続く方に多く見られます。","foods":["蓮の実、れんこん、蓮の若茎","白きくらげ（銀耳）","梨、いちご、紫ぶどう"],"tip":"7〜8時間眠り、陰を消耗する夜更かしを避ける"},"han_thuc":{"name":"実寒タイプ","desc":"寒＋実：外からの冷えが急に入り込んだ状態。雨に濡れた後、冷たい物の食べ過ぎ、長時間の冷房などで起こりやすい。サイン：お腹の冷えと張り、寒気、鼻づまり。","foods":["熱々の生姜としそのお粥","生姜とねぎのスープ","熱い味噌汁"],"tip":"毎晩15分、温かい生姜湯で足湯をする"},"nhiet_thuc":{"name":"実熱タイプ","desc":"熱＋実：体の中に熱がこもった状態。辛い物や揚げ物、お酒、ストレスが重なると起こりやすい。サイン：赤みのあるニキビ、口のにおい、便秘、強い喉の渇き。","foods":["ツボクサ、葛粉、アーティチョーク","ゴーヤ、冬瓜、ドクダミ","緑豆（ぜんざい・ミルク・スープ）"],"tip":"水を1日2〜2.5L、こまめに分けて飲む"},"dam_thap":{"name":"痰湿タイプ","desc":"湿がたまり、気の巡りが滞った状態。体が重だるく、お腹が張りやすく、痰が絡み、むくみや体重増加につながりやすい。代謝が滞り、食後に眠くなりがち。","foods":["ハトムギ（薏苡仁）、小豆","冬瓜、山芋、ドクダミ","アーティチョーク茶、蓮茶"],"tip":"毎日30分の軽い運動で湿をさばく"},"can_bang":{"name":"中庸（バランス）","desc":"寒熱も虚実もバランスの取れた状態。体は元気で、臓腑の働きも安定しています。今の整った暮らしをそのまま続けましょう。","foods":["いろいろな全粒穀物","旬の野菜","豆・ナッツ・魚・脂肪の少ない肉を適量"],"tip":"7〜8時間、決まった時間に眠る"}}};
@@ -127,7 +127,7 @@ document.getElementById("sendb").classList.add("hide");document.getElementById("
 </style>
 <div class="zalo-chat-widget"
      data-oaid="599407064751177637"
-     data-welcome-message="Chào bạn, IKI có thể hỗ trợ gì cho bạn?"
+     data-welcome-message="Chào bạn, IKIHEALING có thể hỗ trợ gì cho bạn?"
      data-autopopup="0"
      data-width="350"
      data-height="420"></div>
