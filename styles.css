@@ -6549,3 +6549,22 @@ h3 {
 @media (max-width: 720px) {
   .nav-lang a { padding: 4px 6px; font-size: 12px; }
 }
+
+/* =====================================================================
+   Nhận diện IKIHEALING (19/11/2026): đầu trang xanh, logo vàng + chữ ngà.
+   Logo SVG ở /assets/brand/20261119/. Giữ nét gốc, không làm dày nét.
+   ===================================================================== */
+.site-header,.site-header.scrolled{background:#094938!important;border-bottom:1px solid #14594A!important;box-shadow:none!important;backdrop-filter:none;-webkit-backdrop-filter:none}
+.site-header .nav{padding-top:8px;padding-bottom:8px}
+.site-header .brand{gap:12px}
+.brand img.brand-em{height:72px;width:auto;display:block;flex:none}
+.brand img.brand-wm{height:34px;width:auto;display:block;flex:none}
+.site-header .nav-toggle{color:#FFEED2}
+.site-header .nav-toggle:hover{background:#14594A}
+body.nav-open .site-header .nav-toggle{color:#094938;background:transparent}
+@media (min-width:881px){
+  .site-header .nav-links a{color:#FFEED2}
+  .site-header .nav-links a:hover,.site-header .nav-links a.active{color:#DAA74B}
+}
+@media (max-width:880px){.site-header .brand{flex-direction:row;gap:10px}.brand img.brand-em{height:56px}.brand img.brand-wm{height:26px}}
+@media (max-width:400px){.brand img.brand-em{height:48px}.brand img.brand-wm{height:22px}}
