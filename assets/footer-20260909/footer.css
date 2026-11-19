@@ -56,8 +56,8 @@ body:has(.zalo-chat-widget) :is(footer,div).iki-standard-footer .if-f-zalo{displ
 body:has(.zalo-chat-widget) :is(footer,div).iki-standard-footer .if-float{bottom:100px;right:20px;}
 @media (max-width:880px){body:has(.zalo-chat-widget) :is(footer,div).iki-standard-footer .if-float{bottom:168px;}}
 @media print{:is(footer,div).iki-standard-footer .if-float{display:none;}}
-/* Nhận diện IKIHEALING (19/11/2026): cuối trang xanh, logo vàng + chữ ngà. */
-footer.iki-standard-footer,footer.iki-standard-footer.if-green,body.course-page footer.iki-standard-footer,body.iki-v2 footer.iki-standard-footer{--if-bg:#094938;--if-text:#FFEED2;--if-muted:#C9D8D1;--if-line:#2C6E5C;--if-accent:#DAA74B}
+/* Nhận diện IKIHEALING (19/11/2026): cuối trang xanh, logo vàng + chữ ngà (cả trang Cửa hàng). */
+footer.iki-standard-footer,footer.iki-standard-footer.if-green,footer.iki-standard-footer:has(#hopeLogoF),body.course-page footer.iki-standard-footer,body.iki-v2 footer.iki-standard-footer{--if-bg:#094938;--if-text:#FFEED2;--if-muted:#C9D8D1;--if-line:#2C6E5C;--if-accent:#DAA74B}
 footer.iki-standard-footer .if-brand img.brand-em{width:auto!important;height:84px!important}
 footer.iki-standard-footer .if-brand img.brand-wm{width:auto!important;height:40px!important}
 footer.iki-standard-footer .if-social a{background:#FFFFFF}
