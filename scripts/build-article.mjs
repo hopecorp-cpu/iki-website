@@ -411,8 +411,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <header class="site-header" id="site-header">
     <nav class="nav">
       <a class="brand" href="../index.html" aria-label="IKI Trang chủ">
-        <img class="brand-logo" src="/assets/brand/20260914/iki-logo-hong.png" alt="IKI logo" />
-        <span>IKI <span class="brand-sub">By HOPE CORP</span></span>
+        <img class="brand-em" src="/assets/brand/20261119/iki-emblem.svg" alt="" width="33" height="64">
+        <img class="brand-wm" src="/assets/brand/20261119/iki-wordmark-ivory.svg" alt="IKIHEALING - Wisdom for Wellbeing" width="151" height="36">
       </a>
       <button class="nav-toggle" type="button" aria-label="Mở menu" aria-expanded="false" aria-controls="primary-nav">
         <svg class="icon-open" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
