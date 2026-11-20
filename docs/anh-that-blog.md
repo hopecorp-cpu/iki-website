@@ -396,3 +396,44 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `rung-toc-sau-sinh-nen-an-gi-hero.jpg` | [8097324](https://pixabay.com/photos/mother-baby-newborn-together-8097324/) | Michelle-Maria |
 | `say-tau-xe-nen-an-gi-hero.jpg` | [9049653](https://pixabay.com/photos/women-drive-car-automobile-dog-9049653/) | Surprising_Media |
 | `sua-chua-va-loi-khuan-song-hero.jpg` | [7009982](https://pixabay.com/photos/yogurt-bowl-breakfast-bowl-7009982/) | Heribertoaguirrefotograf |
+
+## Đợt 10 (36 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `che-do-an-keto-co-phu-hop-voi-nguoi-viet-khong-hero.jpg` | [2701473](https://pixabay.com/photos/fat-good-fats-healthy-fats-2701473/) | idornbrach |
+| `chi-so-duong-huyet-thuc-pham-hero.jpg` | [4534589](https://pixabay.com/photos/bakery-bread-knife-cutting-loaf-4534589/) | pasja1000 |
+| `chon-dau-an-lanh-manh-hero.jpg` | [1383602](https://pixabay.com/photos/oil-olive-oil-bottles-food-meal-1383602/) | Pezibear |
+| `chon-thuc-pham-bo-sung-dung-cach-hero.jpg` | [4181395](https://pixabay.com/photos/girl-shop-souvenirs-woman-shelf-4181395/) | kasjanf |
+| `chon-tra-lam-qua-tang-suc-khoe-hero.jpg` | [5483343](https://pixabay.com/photos/gift-box-present-coffee-tea-5483343/) | Irenna_____ |
+| `chon-tra-thao-moc-cho-dan-van-phong-hero.jpg` | [3354189](https://pixabay.com/photos/drink-bar-glass-tea-meeting-3354189/) | ClickerHappy |
+| `chon-tra-thao-moc-viet-nam-hero.jpg` | [6136167](https://pixabay.com/photos/dried-petals-dried-leaves-containers-6136167/) | Monfocus |
+| `chuot-rut-chan-ban-dem-hero.jpg` | [3135710](https://pixabay.com/photos/ankle-calf-muscle-achilles-tendon-3135710/) | mrdjrlawrence |
+| `co-nen-uong-vitamin-tong-hop-moi-ngay-hero.jpg` | [5907331](https://pixabay.com/photos/vegetables-fruits-fresh-produce-5907331/) | Engin_Akyurt |
+| `da-kho-thieu-chat-gi-hero.jpg` | [5359396](https://pixabay.com/photos/hand-cream-elderly-skin-care-5359396/) | PeachMoon |
+| `dam-thuc-vat-co-du-axit-amin-thiet-yeu-khong-hero.jpg` | [651404](https://pixabay.com/photos/grains-brown-rice-quinoa-freekeh-651404/) | NatureFriend |
+| `dam-thuc-vat-la-gi-hero.jpg` | [3861864](https://pixabay.com/photos/string-bean-beans-assortment-3861864/) | arielnunezg |
+| `dau-chien-di-chien-lai-co-hai-khong-hero.jpg` | [4854950](https://pixabay.com/photos/krapfen-donuts-fried-sweet-4854950/) | ivabalk |
+| `dau-lung-duoi-va-van-dong-nhe-hero.jpg` | [8303785](https://pixabay.com/photos/woman-sitting-back-pain-laptop-8303785/) | fairpharma |
+| `di-bo-10-nghin-buoc-moi-ngay-hero.jpg` | [3483426](https://pixabay.com/photos/feet-walking-female-feet-young-3483426/) | Fotorech |
+| `di-bo-sau-an-hero.jpg` | [7679396](https://pixabay.com/photos/couple-walking-friends-together-7679396/) | Surprising_Media |
+| `di-ung-thoi-tiet-giao-mua-hero.jpg` | [1738191](https://pixabay.com/photos/allergy-medical-allergic-allergen-1738191/) | cenczi |
+| `dinh-duong-can-bang-tuoi-day-thi-hero.jpg` | [8408369](https://pixabay.com/photos/girls-casual-eating-sitting-stairs-8408369/) | Surprising_Media |
+| `dinh-duong-cho-phu-nu-mang-thai-hero.jpg` | [10345570](https://pixabay.com/photos/woman-apple-grass-hat-summer-book-10345570/) | em0rix |
+| `do-mo-hoi-nhieu-nen-an-uong-gi-hero.jpg` | [4923750](https://pixabay.com/photos/expensive-people-eye-portrait-men-4923750/) | yamidphoto |
+| `do-uong-co-gas-va-suc-khoe-hero.jpg` | [2741251](https://pixabay.com/photos/refreshment-cola-beverage-soda-2741251/) | Lernestorod |
+| `doc-nhan-thuc-pham-hero.jpg` | [1841132](https://pixabay.com/photos/apples-farmers-market-buy-buying-1841132/) | Pexels |
+| `giam-tinh-bot-dung-cach-hero.jpg` | [7209002](https://pixabay.com/photos/pasta-coriander-salad-food-dish-7209002/) | joannawielgosz |
+| `gian-co-dan-van-phong-hero.jpg` | [2685460](https://pixabay.com/photos/woman-job-task-the-back-monitor-2685460/) | geralt |
+| `giu-am-mua-dong-hero.jpg` | [1284411](https://pixabay.com/photos/woman-snowing-portrait-1284411/) | Pexels |
+| `ham-nong-thuc-an-bang-lo-vi-song-co-hai-khong-hero.jpg` | [1756631](https://pixabay.com/photos/kitchen-interior-stove-cooking-1756631/) | greissdesign |
+| `hay-bi-chong-mat-nen-an-gi-hero.jpg` | [358418](https://pixabay.com/photos/trees-path-nature-whirl-rotate-358418/) | kalhh |
+| `hay-bi-nhiet-mieng-nen-an-gi-hero.jpg` | [5907364](https://pixabay.com/photos/vegetables-fruits-fresh-produce-5907364/) | Engin_Akyurt |
+| `hay-tieu-dem-nen-uong-nuoc-the-nao-hero.jpg` | [3363788](https://pixabay.com/photos/summer-sunglasses-read-book-relax-3363788/) | Ylanite |
+| `hay-tinh-giac-luc-3-gio-sang-lam-sao-ngu-lai-hero.jpg` | [4580016](https://pixabay.com/photos/watches-change-the-time-time-clock-4580016/) | FotoKacper |
+| `hoa-nhai-trong-tra-huong-vi-va-cach-dung-hero.jpg` | [10343662](https://pixabay.com/photos/tea-flowers-herbal-tea-white-flower-10343662/) | FNur99 |
+| `hoa-que-trong-do-uong-huong-am-mua-lanh-hero.jpg` | [6791270](https://pixabay.com/photos/tea-drink-cup-aromatic-beverage-6791270/) | congerdesign |
+| `hoi-mieng-nguyen-nhan-va-thoi-quen-cham-soc-hero.jpg` | [2607299](https://pixabay.com/photos/smile-smiling-laughing-happy-girl-2607299/) | StockSnap |
+| `huyet-ap-thap-nen-an-gi-hero.jpg` | [2590564](https://pixabay.com/photos/people-woman-stripes-sweatshirt-2590564/) | StockSnap |
+| `khan-tieng-do-noi-nhieu-phai-lam-sao-hero.jpg` | [6377629](https://pixabay.com/photos/speaker-talk-woman-microphone-6377629/) | YasDO |
+| `khoai-lang-va-cu-qua-giau-tinh-bot-hero.jpg` | [5318960](https://pixabay.com/photos/sweet-potato-sweet-potato-background-5318960/) | outsideclick |
