@@ -306,3 +306,48 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `vitamin-d-va-anh-nang-hero.jpg` | [6543669](https://pixabay.com/photos/woman-model-pose-style-fashion-6543669/) | Sunriseforever |
 | `vitamin-k2-co-trong-thuc-pham-nao-hero.jpg` | [7048951](https://pixabay.com/photos/natt%C5%8D-rice-food-breakfast-dish-7048951/) | Japan-coutry-movie |
 | `vitamin-nhom-b-va-nang-luong-moi-ngay-hero.jpg` | [6106820](https://pixabay.com/photos/cereal-grains-sack-harvest-produce-6106820/) | congerdesign |
+
+## Đợt 8 (38 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `sua-hat-va-bot-dam-thuc-vat-khac-nhau-the-nao-hero.jpg` | [2412641](https://pixabay.com/photos/muesli-milk-fruit-breakfast-flakes-2412641/) | TeeFarm |
+| `sua-tiet-trung-va-sua-thanh-trung-khac-nhau-the-nao-hero.jpg` | [3231772](https://pixabay.com/photos/milk-yogurt-drink-calcium-glass-3231772/) | Imoflow |
+| `suc-khoe-lam-viec-tu-xa-hero.jpg` | [925806](https://pixabay.com/photos/office-desk-business-working-925806/) | StockSnap |
+| `suc-khoe-mua-mua-hero.jpg` | [7995866](https://pixabay.com/photos/rain-people-umbrellas-wet-weather-7995866/) | wal_172619 |
+| `suc-khoe-nam-gioi-trung-nien-hero.jpg` | [4800810](https://pixabay.com/photos/man-runner-running-fitness-canal-4800810/) | unitea |
+| `suc-khoe-nguoi-lam-ca-dem-hero.jpg` | [2019420](https://pixabay.com/photos/nurse-medicine-doctor-hospital-2019420/) | voltamax |
+| `suc-khoe-phu-nu-tuoi-40-hero.jpg` | [5698390](https://pixabay.com/photos/woman-smile-portrait-beauty-5698390/) | cruisejennie |
+| `suc-khoe-rang-mieng-hero.jpg` | [4818711](https://pixabay.com/photos/teeth-brushing-teeth-dentist-4818711/) | slavoljubovski |
+| `suc-khoe-tinh-than-noi-cong-so-hero.jpg` | [5842784](https://pixabay.com/photos/team-colleagues-coworkers-office-5842784/) | fahribaabdullah14 |
+| `suc-khoe-tuoi-man-kinh-hero.jpg` | [3972560](https://pixabay.com/photos/woman-portrait-business-haircut-3972560/) | OrnaW |
+| `tam-khuya-co-hai-khong-hero.jpg` | [6686057](https://pixabay.com/photos/bathroom-furniture-interior-design-6686057/) | tonlonkhu |
+| `tap-song-cham-hero.jpg` | [2176668](https://pixabay.com/photos/yoga-woman-lake-outdoors-2176668/) | leninscape |
+| `thoi-quen-buoi-toi-cho-phu-nu-hero.jpg` | [2600578](https://pixabay.com/photos/people-lady-girl-mobile-phone-2600578/) | StockSnap |
+| `thoi-quen-doc-sach-truoc-khi-ngu-hero.jpg` | [5845644](https://pixabay.com/photos/girls-books-laughs-young-cute-5845644/) | HuyNgan |
+| `thuc-pham-giau-dam-thuc-vat-hero.jpg` | [3959492](https://pixabay.com/photos/bean-white-kong-backup-status-3959492/) | allybally4b |
+| `thuc-pham-giau-kali-hero.jpg` | [1844894](https://pixabay.com/photos/bowl-breakfast-fruits-healthy-food-1844894/) | Pexels |
+| `thuc-pham-giau-sat-hero.jpg` | [1248955](https://pixabay.com/photos/top-view-basil-herbs-bowl-closeup-1248955/) | Kost9n4 |
+| `thuc-pham-len-men-truyen-thong-viet-hero.jpg` | [410339](https://pixabay.com/photos/pickled-mustard-pickles-chopped-410339/) | tk1 |
+| `thuc-pham-mua-lanh-hero.jpg` | [4508021](https://pixabay.com/photos/pumpkin-soup-soup-4508021/) | RitaE |
+| `thuc-pham-tang-sinh-collagen-tu-nhien-hero.jpg` | [6477825](https://pixabay.com/photos/berries-red-currant-currant-lemon-6477825/) | ruslanababenko |
+| `tra-khong-caffeine-uong-buoi-toi-hero.jpg` | [1410565](https://pixabay.com/photos/herbal-tea-tea-herbs-cups-teacups-1410565/) | congerdesign |
+| `trai-cay-theo-mua-o-viet-nam-hero.jpg` | [520481](https://pixabay.com/photos/lychees-fruits-food-healthy-520481/) | greissdesign |
+| `tran-bi-la-gi-trong-do-uong-thao-moc-hero.jpg` | [6991369](https://pixabay.com/photos/orange-zest-fruit-dried-orange-peel-6991369/) | Πασκαλ |
+| `tre-bieng-an-phai-lam-sao-hero.jpg` | [547511](https://pixabay.com/photos/meal-carrots-peas-healthy-547511/) | congerdesign |
+| `tre-cham-tang-can-nen-an-gi-hero.jpg` | [1963814](https://pixabay.com/photos/toddler-raspberries-holding-food-1963814/) | KathrinPie |
+| `trung-ga-dinh-duong-va-cach-an-hop-ly-hero.jpg` | [3217675](https://pixabay.com/photos/brown-eggs-breakfast-nutrition-food-3217675/) | JillWellington |
+| `trung-vit-lon-an-sao-cho-dung-hero.jpg` | [2542026](https://pixabay.com/photos/eggs-market-black-blue-fresh-2542026/) | broquitos |
+| `uong-dam-thuc-vat-co-noi-mun-khong-hero.jpg` | [4331973](https://pixabay.com/photos/woman-young-old-mirrors-4331973/) | geralt |
+| `uong-gi-thay-ca-phe-buoi-sang-hero.jpg` | [2356763](https://pixabay.com/photos/matcha-latte-hot-matcha-beverage-2356763/) | dungthuyvunguyen |
+| `uong-nuoc-chanh-mat-ong-buoi-sang-hero.jpg` | [3010065](https://pixabay.com/photos/lemon-copper-homemade-lemonade-3010065/) | zuzi99 |
+| `uong-nuoc-gung-am-buoi-sang-hero.jpg` | [3966502](https://pixabay.com/photos/ginger-ginger-tea-hot-drink-drink-3966502/) | congerdesign |
+| `uong-nuoc-rau-ma-moi-ngay-co-tot-khong-hero.jpg` | [7320560](https://pixabay.com/photos/smoothie-vegetable-smoothie-7320560/) | silviarita |
+| `uong-tra-dung-cach-hero.jpg` | [2356764](https://pixabay.com/photos/tea-hot-cup-table-tea-time-break-2356764/) | dungthuyvunguyen |
+| `uong-tra-khi-bung-doi-co-hai-khong-hero.jpg` | [2116007](https://pixabay.com/photos/new-year-alarm-clock-cup-morning-2116007/) | congerdesign |
+| `uong-tra-sua-moi-ngay-co-sao-khong-hero.jpg` | [2589257](https://pixabay.com/photos/tea-coffee-bubbles-people-man-2589257/) | StockSnap |
+| `uong-tra-thao-moc-thay-nuoc-loc-duoc-khong-hero.jpg` | [2356770](https://pixabay.com/photos/tea-drink-beverage-tea-time-2356770/) | dungthuyvunguyen |
+| `vitamin-b12-nguoi-an-chay-hero.jpg` | [389421](https://pixabay.com/photos/mushrooms-fungi-edible-389421/) | stevepb |
+| `vitamin-c-va-de-khang-hero.jpg` | [1239436](https://pixabay.com/photos/breakfast-cookery-food-fresh-fruit-1239436/) | Shutterbug26 |
+| `true-vegan-protein-la-gi-hero.jpg` | Ảnh sản phẩm của công ty (`assets/san-pham/true-vegan-protein-pro-hop-22-goi/hop-va-2-goi.webp`) | IKIHEALING |
+| `tra-thanh-huong-la-gi-hero.jpg` | Ảnh sản phẩm của công ty (`assets/san-pham/tra-thanh-huong.jpg`) | IKIHEALING |
