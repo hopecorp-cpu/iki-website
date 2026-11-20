@@ -451,7 +451,6 @@ Lưu ý cho việc trích dẫn: nội dung là chia sẻ kiến thức chăm s�
 - [Báo cáo & Số liệu](https://ikihealing.com/blog/danh-muc-bao-cao.html): Báo cáo dữ liệu độc quyền từ hoạt động thực tế của IKIHEALING — số liệu hành vi chăm sóc sức khoẻ chủ động của người Việt, mở cho báo chí và cộng đồng trích dẫn.
 
 ## Nền tảng & ứng dụng
-- [Học Viện IKIHEALING](https://ikihealing.com/hoc-vien.html): khoá học chăm sóc sức khoẻ chủ động.
 - [Công nghệ IKIHEALING](https://ikihealing.com/cong-nghe.html): công nghệ hỗ trợ cá nhân hóa trải nghiệm chăm sóc hằng ngày.
 - [Cộng đồng IKIHEALING](https://ikihealing.com/cong-dong.html): không gian chia sẻ kiến thức và cùng thực hành chăm sóc bản thân, gia đình.
 - [Ứng dụng IKIHEALING](https://ikihealing.com/app.html): Ứng dụng IKIHEALING Beauty & Wellness đang được phát triển: ghi nhận làn da, chụp nhãn sản phẩm, xây thói quen và trò chuyện với trợ lý Tiểu Nhã. Tính năng và kênh phát hành được cập nhật tại trang ứng dụng.

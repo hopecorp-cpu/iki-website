@@ -590,7 +590,6 @@ function buildLlms(plan) {
   L.push(`- [Lộ trình chăm sóc sức khoẻ](${SITE}/blog/lo-trinh.html)`);
   for (const c of plan.categories) if (c.slug !== "lo-trinh") L.push(`- [${c.name}](${SITE}/blog/danh-muc-${c.slug}.html): ${c.desc}`);
   L.push("", "## Nền tảng & ứng dụng");
-  L.push(`- [Học Viện IKIHEALING](${SITE}/hoc-vien.html): khoá học chăm sóc sức khoẻ chủ động.`);
   L.push(`- [Công nghệ IKIHEALING](${SITE}/cong-nghe.html): công nghệ hỗ trợ cá nhân hóa trải nghiệm chăm sóc hằng ngày.`);
   L.push(`- [Cộng đồng IKIHEALING](${SITE}/cong-dong.html): không gian chia sẻ kiến thức và cùng thực hành chăm sóc bản thân, gia đình.`);
   L.push(`- [Ứng dụng IKIHEALING](${SITE}/app.html): ${APP_DESCRIPTION}`);

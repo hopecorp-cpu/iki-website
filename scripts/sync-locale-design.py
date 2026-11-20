@@ -7,7 +7,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Comment, Doctype
 import re, json
 ROOT=Path(__file__).resolve().parents[1]
-PAGES=['index.html','team.html','hoc-vien.html','cong-dong.html','app.html','ve-hope.html','cong-nghe.html']
+PAGES=['index.html','team.html','cong-dong.html','app.html','ve-hope.html','cong-nghe.html']
 ROWS=[line.split('\t') for line in (ROOT/'data/locales/website-refresh.tsv').read_text().splitlines() if line]
 assert all(len(r)==3 for r in ROWS)
 # Source snapshots for the original translations are versioned for reproducibility separately.
