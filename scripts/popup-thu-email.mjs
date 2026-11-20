@@ -67,14 +67,14 @@ export const EXIT_POPUP_MAU = `<div id="ikiExit" role="dialog" aria-modal="true"
 #ikiExit [hidden]{display:none!important}
 #ikiExit{position:fixed;inset:0;z-index:2147483000;display:flex;align-items:center;justify-content:center;padding:18px;background:rgba(18,38,31,.55);opacity:0;transition:opacity .25s ease}
 #ikiExit.ie-show{opacity:1}
-#ikiExit .ie-card{position:relative;background:#fff;width:100%;max-width:430px;border-radius:22px;padding:34px 26px 22px;text-align:center;box-shadow:0 24px 70px rgba(16,24,40,.28);transform:translateY(14px) scale(.98);transition:transform .28s cubic-bezier(.2,.8,.25,1);font-family:var(--font-sans,'Manrope',system-ui,sans-serif)}
+#ikiExit .ie-card{position:relative;background:#fff;width:100%;max-width:430px;border-radius:22px;padding:34px 26px 22px;text-align:center;box-shadow:0 24px 70px rgba(16,24,40,.28);transform:translateY(14px) scale(.98);transition:transform .28s cubic-bezier(.2,.8,.25,1);font-family:var(--font-sans,'Be Vietnam Pro',system-ui,sans-serif)}
 #ikiExit.ie-show .ie-card{transform:none}
-#ikiExit .ie-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;border-radius:22px 22px 0 0;background:linear-gradient(90deg,#daa74b,#2c6e5c)}
+#ikiExit .ie-card::before{content:"";position:absolute;top:0;left:0;right:0;height:5px;border-radius:22px 22px 0 0;background:#DAA74B}
 #ikiExit .ie-x{position:absolute;top:12px;right:14px;border:none;background:none;font-size:26px;line-height:1;color:#98a2b3;cursor:pointer}
 #ikiExit .ie-x:hover{color:#475467}
 #ikiExit .ie-ico{width:38px;height:38px;color:#094938;margin:2px auto 8px;display:block}
 #ikiExit .ie-tag{display:inline-block;font-weight:700;font-size:.72rem;letter-spacing:.1em;text-transform:uppercase;color:#094938}
-#ikiExit h3{font-family:var(--font-display,'Cormorant Garamond',serif);font-weight:700;font-size:1.6rem;line-height:1.12;margin:8px 0 8px;color:#12261f}
+#ikiExit h3{font-family:var(--font-display,'Literata',serif);font-weight:700;font-size:1.6rem;line-height:1.12;margin:8px 0 8px;color:#12261f}
 #ikiExit p{color:#667085;font-size:1rem;margin:0 auto 16px;max-width:340px;line-height:1.5}
 #ikiExit p strong{color:#094938}
 #ikiExit .ie-form{display:flex;flex-direction:column;gap:10px;max-width:340px;margin:0 auto}

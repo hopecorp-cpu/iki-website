@@ -90,7 +90,7 @@ function head(sp, url, ld) {
   <meta name="twitter:image" content="${anhUrl}" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/fonts-literata/fonts.css">
   <link rel="icon" type="image/png" href="/assets/brand/20261119/iki-icon-1024.png" />
   <link rel="stylesheet" href="../styles.css?v=mau-20261119" />
   <script src="../script.js" defer></script>
@@ -108,16 +108,16 @@ ${ld.map((o) => `  <script type="application/ld+json">\n${JSON.stringify(o, null
     .sp-ban-moi strong{display:block;font-size:.97rem;color:#2f6b1f;margin:0 0 5px}
     .sp-ban-moi p{font-size:.88rem;line-height:1.55;color:#4a5a44;margin:0 0 9px}
     .sp-ban-moi a{display:inline-block;font-size:.88rem;font-weight:700;color:#2f6b1f;text-decoration:none;border-bottom:1.5px solid #8fb93f}
-    .sp-top h1{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.8rem,4vw,2.7rem);margin:.35rem 0 .6rem;line-height:1.2}
+    .sp-top h1{font-family:var(--font-display,'Literata');font-weight:700;font-size:clamp(1.8rem,4vw,2.7rem);margin:.35rem 0 .6rem;line-height:1.2}
     .sp-gia{font-size:1.7rem;font-weight:800;color:#1d2430;margin:6px 0 4px}
     .sp-gia small{display:block;font-size:.8rem;font-weight:500;color:#667085;margin-top:2px}
     .sp-mota{color:#475467;font-size:1.05rem;line-height:1.7;margin:12px 0 20px}
     .sp-cta{display:flex;gap:12px;flex-wrap:wrap;margin:18px 0 8px}
     .sp-btn{display:inline-block;padding:14px 26px;border-radius:8px;font-weight:700;text-decoration:none;font-size:1rem}
-    .sp-btn.chinh{background:var(--iki-gradient,linear-gradient(135deg,#daa74b,#2c6e5c));color:#fff}
+    .sp-btn.chinh{background:var(--iki-gradient,#094938);color:#fff}
     .sp-btn.phu{background:#fff;color:#094938;border:1.5px solid #daa74b}
     .sp-body{max-width:820px;margin:0 auto;padding:8px 20px 20px;font-size:1.07rem;line-height:1.78;color:#1d2430}
-    .sp-body h2{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(1.45rem,3vw,2rem);margin:2.1rem 0 .7rem}
+    .sp-body h2{font-family:var(--font-display,'Literata');font-weight:700;font-size:clamp(1.45rem,3vw,2rem);margin:2.1rem 0 .7rem}
     .sp-body p{margin:0 0 1.05rem} .sp-body ol,.sp-body ul{margin:0 0 1.1rem;padding-left:22px} .sp-body li{margin:.4rem 0}
     .sp-body a{color:#094938;font-weight:600}
     /* Bảng phải cuộn ngang được: màn hình điện thoại hẹp hơn bảng 2 cột có chữ dài. */
