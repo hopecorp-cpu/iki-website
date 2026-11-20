@@ -351,3 +351,48 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `vitamin-c-va-de-khang-hero.jpg` | [1239436](https://pixabay.com/photos/breakfast-cookery-food-fresh-fruit-1239436/) | Shutterbug26 |
 | `true-vegan-protein-la-gi-hero.jpg` | Ảnh sản phẩm của công ty (`assets/san-pham/true-vegan-protein-pro-hop-22-goi/hop-va-2-goi.webp`) | IKIHEALING |
 | `tra-thanh-huong-la-gi-hero.jpg` | Ảnh sản phẩm của công ty (`assets/san-pham/tra-thanh-huong.jpg`) | IKIHEALING |
+
+## Đợt 9 (40 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `khong-tap-gym-co-nen-uong-dam-thuc-vat-khong-hero.jpg` | [1712676](https://pixabay.com/photos/park-leisure-walk-winter-woman-1712676/) | Liblicas |
+| `kiem-soat-can-nang-lanh-manh-hero.jpg` | [4618185](https://pixabay.com/photos/remove-weight-diet-healthy-health-4618185/) | happyveganfit |
+| `luoc-rau-the-nao-de-khong-mat-chat-hero.jpg` | [3267635](https://pixabay.com/photos/food-broccoli-vegetable-cooking-3267635/) | Zichrini |
+| `magie-va-thuc-pham-giau-magie-hero.jpg` | [1118233](https://pixabay.com/photos/nuts-almonds-hazelnuts-mix-protein-1118233/) | jackmac34 |
+| `man-hinh-truoc-gio-ngu-hero.jpg` | [2013929](https://pixabay.com/photos/male-night-darkness-light-2013929/) | 1837081 |
+| `mat-ngu-tien-man-kinh-nen-an-gi-hero.jpg` | [3351794](https://pixabay.com/photos/woman-worried-nightmare-stress-3351794/) | TheDigitalArtist |
+| `me-cho-con-bu-nen-an-gi-hero.jpg` | [1866621](https://pixabay.com/photos/mother-baby-woman-child-little-1866621/) | Pexels |
+| `men-vi-sinh-va-men-tieu-hoa-khac-nhau-hero.jpg` | [8478515](https://pixabay.com/photos/kombucha-fermented-drink-8478515/) | Nennieinszweidrei |
+| `moi-an-chay-hay-doi-nhanh-va-met-hero.jpg` | [1992656](https://pixabay.com/photos/soup-salad-cress-sprout-chickpeas-1992656/) | Lebemaja |
+| `nau-an-tai-nha-hero.jpg` | [8911934](https://pixabay.com/photos/cooking-food-kitchen-pasta-baking-8911934/) | Taufiq_Rahman |
+| `nau-com-nha-nguoi-ban-hero.jpg` | [2618192](https://pixabay.com/photos/frying-pan-food-kitchen-cooking-2618192/) | StockSnap |
+| `nen-an-rau-truoc-hay-com-truoc-hero.jpg` | [4509961](https://pixabay.com/photos/food-health-rice-tomatoes-onion-4509961/) | tomekwalecki |
+| `nen-uong-ca-phe-muon-nhat-luc-may-gio-hero.jpg` | [2760594](https://pixabay.com/photos/coffee-comfortable-at-home-2760594/) | BunteAufnahmen |
+| `ngam-chan-nuoc-am-truoc-khi-ngu-hero.jpg` | [2576683](https://pixabay.com/photos/bath-tub-water-bathroom-shower-2576683/) | StockSnap |
+| `nghi-thuc-tra-toi-15-phut-hero.jpg` | [865304](https://pixabay.com/photos/girl-drinking-tea-coffee-cup-865304/) | Foundry |
+| `ngoi-lau-va-suc-khoe-hero.jpg` | [2565478](https://pixabay.com/photos/computer-keyboard-apple-electronics-2565478/) | StockSnap |
+| `ngoi-thien-5-phut-moi-ngay-hero.jpg` | [4489430](https://pixabay.com/photos/yoga-meditation-pose-meditate-4489430/) | EnergieDeVie |
+| `ngu-coc-nguyen-cam-gao-lut-hero.jpg` | [4994747](https://pixabay.com/photos/brown-rice-rice-food-4994747/) | SooYeongBeh |
+| `ngu-hay-nam-mo-nhieu-co-sao-khong-hero.jpg` | [2304038](https://pixabay.com/photos/girl-portrait-lying-down-2304038/) | Darbagan |
+| `ngu-muon-anh-huong-lan-da-hero.jpg` | [6322628](https://pixabay.com/photos/mask-woman-skin-care-portrait-6322628/) | Engin_Akyurt |
+| `ngu-ngay-nguyen-nhan-va-cach-cai-thien-hero.jpg` | [650684](https://pixabay.com/photos/sleeping-time-man-bedroom-rest-650684/) | Warintr |
+| `nguoi-an-chay-bo-sung-kem-the-nao-hero.jpg` | [3523449](https://pixabay.com/photos/anacardium-cashew-cashew-nuts-3523449/) | ReadyElements |
+| `nguoi-an-chay-bo-sung-sat-the-nao-hero.jpg` | [5148329](https://pixabay.com/photos/lentil-leguminous-plant-red-5148329/) | martin_hetto |
+| `nguoi-an-chay-tap-gym-nen-an-gi-hero.jpg` | [2264825](https://pixabay.com/photos/man-woman-push-ups-wellness-2264825/) | 5132824 |
+| `nguoi-chay-bo-nen-an-gi-hero.jpg` | [3684873](https://pixabay.com/photos/to-run-woman-morning-girl-walk-3684873/) | RoonzNL |
+| `nguoi-lon-hay-om-vat-nen-an-gi-hero.jpg` | [841165](https://pixabay.com/photos/sick-girl-woman-coffee-portrait-841165/) | PourquoiPas |
+| `nguoi-lon-tuoi-kho-nhai-nuot-nen-an-gi-hero.jpg` | [482354](https://pixabay.com/photos/carrots-carrot-soup-soup-orange-482354/) | Catkin |
+| `nguoi-moi-om-day-nen-an-gi-hero.jpg` | [2006317](https://pixabay.com/photos/soup-carrot-ginger-food-meal-2006317/) | Einladung_zum_Essen |
+| `nhin-an-gian-doan-16-8-co-phu-hop-nguoi-viet-hero.jpg` | [1834984](https://pixabay.com/photos/beans-breakfast-fried-eggs-food-1834984/) | Pexels |
+| `nhin-an-sang-co-sao-khong-hero.jpg` | [3669161](https://pixabay.com/photos/cappuccino-coffee-coffee-shop-empty-3669161/) | pixel2013 |
+| `nhip-sinh-hoc-giac-ngu-va-anh-sang-hero.jpg` | [3013209](https://pixabay.com/photos/bed-dust-sun-morning-wake-up-3013209/) | ClickerHappy |
+| `noi-chien-khong-dau-co-hai-khong-hero.jpg` | [3895820](https://pixabay.com/photos/potatoes-strength-meal-bio-3895820/) | photosforyou |
+| `nuoc-ep-can-tay-co-tot-khong-hero.jpg` | [769129](https://pixabay.com/photos/green-juice-cabbage-apple-green-769129/) | Rohtopia |
+| `nuoc-ep-sinh-to-dung-cach-hero.jpg` | [2253430](https://pixabay.com/photos/smoothies-juice-fruit-ripe-bio-2253430/) | silviarita |
+| `ra-dong-thuc-pham-dung-cach-hero.jpg` | [1868175](https://pixabay.com/photos/bottles-food-gallon-inside-light-1868175/) | Pexels |
+| `rau-cu-dong-lanh-co-tot-nhu-rau-tuoi-khong-hero.jpg` | [4797297](https://pixabay.com/photos/vegetables-vegan-bio-diet-vitamins-4797297/) | fotoblend |
+| `rau-thom-viet-va-loi-ich-suc-khoe-hero.jpg` | [7302670](https://pixabay.com/photos/vegetables-vegan-fresh-food-7302670/) | akbarnemati |
+| `rung-toc-sau-sinh-nen-an-gi-hero.jpg` | [8097324](https://pixabay.com/photos/mother-baby-newborn-together-8097324/) | Michelle-Maria |
+| `say-tau-xe-nen-an-gi-hero.jpg` | [9049653](https://pixabay.com/photos/women-drive-car-automobile-dog-9049653/) | Surprising_Media |
+| `sua-chua-va-loi-khuan-song-hero.jpg` | [7009982](https://pixabay.com/photos/yogurt-bowl-breakfast-bowl-7009982/) | Heribertoaguirrefotograf |
