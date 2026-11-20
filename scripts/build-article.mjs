@@ -478,7 +478,6 @@ ${articleCoVideo}
         <div>
           <h4>Hệ sinh thái</h4>
           <ul>
-            <li><a href="../hoc-vien.html">Học Viện IKIHEALING</a></li>
             <li><a href="index.html">Blog IKIHEALING</a></li>
             <li><a href="tat-ca-bai-viet.html">Tất cả bài viết</a></li>
             <li><a href="../cong-dong.html">Cộng đồng IKIHEALING</a></li>
