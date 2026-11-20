@@ -437,3 +437,44 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `huyet-ap-thap-nen-an-gi-hero.jpg` | [2590564](https://pixabay.com/photos/people-woman-stripes-sweatshirt-2590564/) | StockSnap |
 | `khan-tieng-do-noi-nhieu-phai-lam-sao-hero.jpg` | [6377629](https://pixabay.com/photos/speaker-talk-woman-microphone-6377629/) | YasDO |
 | `khoai-lang-va-cu-qua-giau-tinh-bot-hero.jpg` | [5318960](https://pixabay.com/photos/sweet-potato-sweet-potato-background-5318960/) | outsideclick |
+
+## Đợt 11 (36 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `an-dau-phu-co-tot-khong-hero.jpg` | [5966853](https://pixabay.com/photos/tofu-soybeans-food-meal-product-5966853/) | waichi2021 |
+| `an-nhieu-rau-van-tao-bon-vi-sao-hero.jpg` | [7844746](https://pixabay.com/photos/salad-green-stuff-chard-dish-food-7844746/) | Mondgesicht |
+| `an-rau-cu-nhieu-mau-sac-hero.jpg` | [2743498](https://pixabay.com/photos/carrot-carrots-produce-food-2743498/) | ShireShy |
+| `an-sang-bang-trai-cay-co-tot-khong-hero.jpg` | [898073](https://pixabay.com/photos/cereal-breakfast-meal-food-banana-898073/) | stevepb |
+| `an-sang-cho-tre-di-hoc-hero.jpg` | [1449678](https://pixabay.com/photos/children-noodle-high-land-1449678/) | hung772000 |
+| `an-sang-xong-van-doi-truoc-trua-hero.jpg` | [8305767](https://pixabay.com/photos/avocado-bread-food-delicious-diet-8305767/) | CrafterChef |
+| `an-toi-muon-co-sao-khong-hero.jpg` | [1006694](https://pixabay.com/photos/vegetables-pot-cooking-ingredients-1006694/) | stevepb |
+| `an-uong-khi-di-du-lich-hero.jpg` | [598164](https://pixabay.com/photos/break-breakfast-resting-place-598164/) | MannyvonKannen |
+| `an-uong-truoc-va-sau-khi-hien-mau-hero.jpg` | [732298](https://pixabay.com/photos/donation-give-732298/) | rdelarosa0 |
+| `an-uong-truoc-va-sau-khi-tiem-vaccine-hero.jpg` | [6961451](https://pixabay.com/photos/vaccination-adhesive-bandage-arm-6961451/) | Alexandra_Koch |
+| `an-vat-dem-khuya-co-anh-huong-gi-khong-hero.jpg` | [2759994](https://pixabay.com/photos/pretzels-baked-goods-crispy-salty-2759994/) | Couleur |
+| `an-vat-lanh-manh-hero.jpg` | [712980](https://pixabay.com/photos/health-nuts-food-diet-nutrition-712980/) | ecogreenlove |
+| `ba-bau-3-thang-dau-nen-an-gi-hero.jpg` | [5098881](https://pixabay.com/photos/pregnancy-baby-belly-woman-baby-5098881/) | 2147792 |
+| `ba-bau-uong-dam-thuc-vat-duoc-khong-hero.jpg` | [1284353](https://pixabay.com/photos/woman-baby-mother-pregnant-lady-1284353/) | Pexels |
+| `bao-quan-thuc-pham-dung-cach-hero.jpg` | [617686](https://pixabay.com/photos/cereal-healthy-breakfast-617686/) | Pezibear |
+| `bao-ve-mat-cho-tre-em-hero.jpg` | [1183465](https://pixabay.com/photos/child-tablet-technology-computer-1183465/) | NadineDoerle |
+| `bot-dam-thuc-vat-co-kho-uong-khong-hero.jpg` | [1610797](https://pixabay.com/photos/banana-apple-smoothie-drink-fruit-1610797/) | ImagesBG |
+| `bot-dam-thuc-vat-gia-bao-nhieu-hero.jpg` | [1232944](https://pixabay.com/photos/grocery-shopping-supermarket-1232944/) | stevepb |
+| `bot-dam-thuc-vat-loai-nao-tot-hero.jpg` | [5489155](https://pixabay.com/photos/bowl-healthy-fruit-diet-food-5489155/) | LeFuckhead |
+| `bua-sang-du-dam-cho-phu-nu-ban-ron-hero.jpg` | [820326](https://pixabay.com/photos/morning-breakfast-food-table-820326/) | fancycrave1 |
+| `bua-toi-nhe-de-tieu-hero.jpg` | [5605053](https://pixabay.com/photos/soup-pumpkin-soup-food-dish-meal-5605053/) | RitaE |
+| `buon-ngu-sau-khi-an-trua-hero.jpg` | [849804](https://pixabay.com/photos/startup-business-people-students-849804/) | StartupStockPhotos |
+| `cach-bo-thoi-quen-thuc-khuya-hero.jpg` | [731894](https://pixabay.com/photos/woman-working-bed-laptop-typing-731894/) | stokpic |
+| `cach-tinh-nhu-cau-calo-moi-ngay-hero.jpg` | [1516869](https://pixabay.com/photos/calculator-ballpoint-pen-block-1516869/) | 22594 |
+| `can-bao-nhieu-dam-moi-ngay-hero.jpg` | [8451254](https://pixabay.com/photos/bean-white-beans-legumes-food-8451254/) | 5558721 |
+| `canxi-va-xuong-chac-khoe-hero.jpg` | [7249297](https://pixabay.com/photos/tofu-soup-appetizer-food-7249297/) | joannawielgosz |
+| `cham-da-tu-ben-trong-hero.jpg` | [5062308](https://pixabay.com/photos/salad-salad-bowl-healthy-meal-food-5062308/) | matthiasboeckel |
+| `cham-soc-da-dau-va-gau-hero.jpg` | [7212761](https://pixabay.com/photos/human-person-water-bathe-summer-7212761/) | Pezibear |
+| `cham-soc-da-mua-hanh-kho-hero.jpg` | [9968928](https://pixabay.com/photos/sunscreen-cream-skincare-cosmetic-9968928/) | biosparsha |
+| `cham-soc-mat-nguoi-lon-tuoi-hero.jpg` | [3282517](https://pixabay.com/photos/elderly-old-age-visual-impairment-3282517/) | dassel |
+| `cham-soc-suc-khoe-ngay-tet-hero.jpg` | [5107281](https://pixabay.com/photos/apricot-blossom-yellow-spring-tet-5107281/) | manhhuyen |
+| `chat-beo-tot-xau-hero.jpg` | [2644150](https://pixabay.com/photos/avocado-avocados-food-healthy-food-2644150/) | FoodieFactor |
+| `chat-chong-oxy-hoa-trong-thuc-pham-hero.jpg` | [6589006](https://pixabay.com/photos/fruit-sweet-juicy-grapes-orange-6589006/) | fotomilan |
+| `chat-tao-ngot-thay-duong-co-an-toan-khong-hero.jpg` | [485055](https://pixabay.com/photos/sugar-trickle-spoon-cutlery-485055/) | 422737 |
+| `che-do-an-dia-trung-hai-hero.jpg` | [4855955](https://pixabay.com/photos/still-life-food-olive-oil-tomatoes-4855955/) | Angeleses |
+| `suc-khoe-cho-nhan-vien-hanh-chinh-hero.jpg` | [10562971](https://pixabay.com/photos/office-worker-office-employee-10562971/) | Sohidullah007 |
