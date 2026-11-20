@@ -81,3 +81,48 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `thoai-hoa-khop-hero.jpg` | [1814784](https://pixabay.com/photos/nordic-walking-stroller-walk-1814784/) | bluelightpictures |
 | `toc-yeu-rung-dinh-duong-hero.jpg` | [4682921](https://pixabay.com/photos/hairdresser-maintenance-hair-4682921/) | Engin_Akyurt |
 | `trao-nguoc-da-day-hero.jpg` | [2765178](https://pixabay.com/photos/mush-food-egg-yolk-2765178/) | lillith_um |
+
+## Đợt 3 (40 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `an-ca-dung-cach-moi-tuan-hero.jpg` | [7511640](https://pixabay.com/photos/fish-meal-lunch-food-asparagus-7511640/) | Nowaja |
+| `an-cay-nhieu-co-hai-khong-hero.jpg` | [2779828](https://pixabay.com/photos/cayenne-peppers-chili-peppers-2779828/) | JillWellington |
+| `an-cham-nhai-ky-hero.jpg` | [3798301](https://pixabay.com/photos/salad-salad-plate-restaurant-3798301/) | congerdesign |
+| `an-chay-truong-thieu-chat-gi-hero.jpg` | [4760714](https://pixabay.com/photos/pulses-lentils-beans-food-legume-4760714/) | yilmazfatih |
+| `an-chuoi-moi-ngay-co-tot-khong-hero.jpg` | [652497](https://pixabay.com/photos/bananas-sliced-slices-652497/) | Security |
+| `an-com-chan-canh-co-hai-khong-hero.jpg` | [1715309](https://pixabay.com/photos/soup-orient-vegan-dish-food-1715309/) | aedrozda |
+| `an-dam-cho-be-bat-dau-tu-dau-hero.jpg` | [2423896](https://pixabay.com/photos/baby-eating-firsts-food-child-2423896/) | 5686750 |
+| `an-do-nuong-thuong-xuyen-co-hai-khong-hero.jpg` | [3317060](https://pixabay.com/photos/vegetable-skewer-paprika-tomato-3317060/) | RitaE |
+| `an-gi-de-tang-chieu-cao-cho-tre-hero.jpg` | [846357](https://pixabay.com/photos/girl-eating-watermelon-eat-846357/) | JillWellington |
+| `an-gi-de-tap-trung-lam-viec-hero.jpg` | [5539444](https://pixabay.com/photos/keyboard-brambles-desktop-computer-5539444/) | tommiesler |
+| `an-gi-truoc-khi-ngu-de-ngu-ngon-hero.jpg` | [6509446](https://pixabay.com/photos/tea-chamomile-still-life-6509446/) | mystraysoul |
+| `an-gi-truoc-khi-tap-gym-buoi-sang-hero.jpg` | [1839515](https://pixabay.com/photos/oatmeal-cereals-strawberries-1839515/) | Pexels |
+| `an-giam-muoi-hero.jpg` | [2963447](https://pixabay.com/photos/pepper-salt-seasoning-pepper-mill-2963447/) | Divily |
+| `an-hoa-qua-truoc-hay-sau-bua-an-hero.jpg` | [2367029](https://pixabay.com/photos/watermelon-berry-fruit-heart-2367029/) | silviarita |
+| `an-it-thit-co-thieu-dam-khong-hero.jpg` | [4760700](https://pixabay.com/photos/pulses-lentils-beans-food-legume-4760700/) | yilmazfatih |
+| `an-mi-tom-the-nao-cho-do-hai-hero.jpg` | [10559609](https://pixabay.com/photos/noodle-soup-rice-noodles-bowl-10559609/) | PNGix |
+| `tre-em-uong-dam-thuc-vat-duoc-khong-hero.jpg` | [2474993](https://pixabay.com/photos/milk-glass-pitcher-fresh-2474993/) | Couleur |
+| `tre-em-uong-tra-thao-moc-duoc-khong-hero.jpg` | [722394](https://pixabay.com/photos/face-drink-breakfast-cup-yummy-722394/) | EME |
+| `tre-hay-roi-loan-tieu-hoa-nen-an-gi-hero.jpg` | [2569257](https://pixabay.com/photos/food-breakfast-table-healthy-green-2569257/) | StockSnap |
+| `uong-bot-ngu-coc-thay-bua-sang-hero.jpg` | [563796](https://pixabay.com/photos/cereals-cup-muesli-mug-563796/) | shixugang |
+| `uong-bot-san-day-co-tot-khong-hero.jpg` | [7034940](https://pixabay.com/photos/pestle-herbs-spices-food-mint-7034940/) | Hocus_Phocus |
+| `uong-ca-phe-co-bi-den-da-khong-hero.jpg` | [2626753](https://pixabay.com/photos/girl-woman-smile-smiling-happy-2626753/) | StockSnap |
+| `uong-canxi-va-sat-cach-nhau-bao-lau-hero.jpg` | [3985380](https://pixabay.com/photos/sesami-seed-sesami-seed-korea-3985380/) | allybally4b |
+| `uong-collagen-co-tot-khong-hero.jpg` | [1867431](https://pixabay.com/photos/woman-face-freckles-smile-smiling-1867431/) | Pexels |
+| `uong-dam-thuc-vat-bi-day-bung-hero.jpg` | [5308379](https://pixabay.com/photos/ibs-probiotic-gut-stomach-colon-5308379/) | Alicia_Harper |
+| `uong-dam-thuc-vat-co-hai-than-khong-hero.jpg` | [2315559](https://pixabay.com/photos/water-glass-tilted-clear-drink-2315559/) | IamNotPerfect |
+| `uong-dam-thuc-vat-co-tang-can-khong-hero.jpg` | [3406510](https://pixabay.com/photos/fashion-asian-japanese-chinese-3406510/) | N-Y-C |
+| `uong-dam-thuc-vat-luc-nao-trong-ngay-hero.jpg` | [4211525](https://pixabay.com/photos/blueberries-breakfast-drinks-table-4211525/) | World_of_Plants |
+| `uong-men-vi-sinh-luc-nao-la-tot-nhat-hero.jpg` | [1846085](https://pixabay.com/photos/berries-muesli-blackberries-bowl-1846085/) | Pexels |
+| `uong-nuoc-da-lanh-co-hai-khong-hero.jpg` | [3510210](https://pixabay.com/photos/water-ice-cubes-drink-refreshment-3510210/) | Bru-nO |
+| `uong-nuoc-dau-den-rang-co-tot-khong-hero.jpg` | [799943](https://pixabay.com/photos/beans-black-background-food-799943/) | artverau |
+| `uong-nuoc-dua-moi-ngay-co-tot-khong-hero.jpg` | [607349](https://pixabay.com/photos/poop-coconut-water-cocktail-607349/) | Gadini |
+| `uong-nuoc-la-dinh-lang-co-tot-khong-hero.jpg` | [1544884](https://pixabay.com/photos/sage-herbs-culinary-herbs-healthy-1544884/) | congerdesign |
+| `uong-nuoc-la-tia-to-co-tot-khong-hero.jpg` | [3509398](https://pixabay.com/photos/perilla-frutescens-lamiaceae-plant-3509398/) | Alexas_Fotos |
+| `uong-nuoc-la-voi-co-tot-khong-hero.jpg` | [2691122](https://pixabay.com/photos/mint-tea-dish-drink-drinking-2691122/) | JerzyGórecki |
+| `uong-sua-bi-dau-bung-nen-uong-gi-thay-the-hero.jpg` | [7015148](https://pixabay.com/photos/breakfast-oatmeal-cereal-healthy-7015148/) | congerdesign |
+| `uong-tra-thao-moc-buoi-toi-co-mat-ngu-khong-hero.jpg` | [3527705](https://pixabay.com/photos/lenses-book-reading-sunglasses-3527705/) | fernandozhiminaicela |
+| `uong-tra-thao-moc-moi-ngay-co-duoc-khong-hero.jpg` | [829527](https://pixabay.com/photos/cup-tee-porcelain-drink-decor-829527/) | congerdesign |
+| `uong-tra-thao-moc-mua-nao-thuc-nao-hero.jpg` | [4677221](https://pixabay.com/photos/weihnachtstee-tea-star-anise-warm-4677221/) | ValeriaLu |
+| `van-dong-ra-mo-hoi-loi-gi-cho-da-hero.jpg` | [2568300](https://pixabay.com/photos/people-woman-lady-runner-athlete-2568300/) | StockSnap |
