@@ -2,6 +2,8 @@
 
 CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, có con dấu logo cũ) bằng ảnh chụp thật miễn phí. Nguồn: Pixabay, giấy phép Pixabay Content License (dùng thương mại miễn phí, không bắt buộc ghi nguồn). Mỗi ảnh đã được người xem lại: đúng chủ đề bài, không phải ảnh AI, không có thuốc/kim tiêm/khung bệnh viện. Cắt giữa về 1200x675, JPEG q82, không đóng logo.
 
+Bài mới: chạy `node scripts/anh-that-hero.mjs <slug> "<từ khoá tiếng Anh>" --xem`, nhìn tấm xem thử, rồi chạy lại với `--chon=<số>`. Script tự lọc ảnh AI, thịt/hải sản/rượu/thuốc, ảnh trùng, và ghi dòng nguồn vào mục "Bài mới" cuối file.
+
 ## Đợt 1 (30 bài có ảnh xuất hiện nhiều nhất trên site)
 
 | File | Ảnh Pixabay | Tác giả |
