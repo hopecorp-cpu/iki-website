@@ -126,3 +126,48 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `uong-tra-thao-moc-moi-ngay-co-duoc-khong-hero.jpg` | [829527](https://pixabay.com/photos/cup-tee-porcelain-drink-decor-829527/) | congerdesign |
 | `uong-tra-thao-moc-mua-nao-thuc-nao-hero.jpg` | [4677221](https://pixabay.com/photos/weihnachtstee-tea-star-anise-warm-4677221/) | ValeriaLu |
 | `van-dong-ra-mo-hoi-loi-gi-cho-da-hero.jpg` | [2568300](https://pixabay.com/photos/people-woman-lady-runner-athlete-2568300/) | StockSnap |
+
+## Đợt 4 (40 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `nguoi-hay-thuc-khuya-nen-an-gi-hero.jpg` | [1866784](https://pixabay.com/photos/man-chair-computer-desk-sit-1866784/) | Pexels |
+| `nguoi-tap-yoga-nen-an-gi-hero.jpg` | [3053492](https://pixabay.com/photos/woman-yoga-meditation-mindfulness-3053492/) | lograstudio |
+| `nong-trong-nguoi-nen-an-gi-uong-gi-hero.jpg` | [815072](https://pixabay.com/photos/watermelon-juicy-fruits-sliced-815072/) | congerdesign |
+| `nuoc-gao-lut-rang-co-tot-khong-hero.jpg` | [4264846](https://pixabay.com/photos/rice-brown-food-nutrition-4264846/) | EzBom |
+| `nuoc-ham-xuong-co-bo-khong-hero.jpg` | [3008035](https://pixabay.com/photos/dining-table-ttukbaegi-steamed-3008035/) | hhh388 |
+| `nuoc-ion-kiem-co-tot-khong-hero.jpg` | [2821977](https://pixabay.com/photos/water-bottle-plastic-bottle-2821977/) | derneuemann |
+| `nuoc-mat-giai-nhiet-ban-san-co-tot-khong-hero.jpg` | [1851261](https://pixabay.com/photos/beverage-cold-drink-fruit-glass-1851261/) | Pexels |
+| `omega-3-tu-thuc-vat-hero.jpg` | [1274944](https://pixabay.com/photos/flax-seed-seeds-eat-healthy-bowl-1274944/) | Pezibear |
+| `pha-bot-dam-cho-ca-nha-moi-nguoi-mot-khau-vi-hero.jpg` | [10361999](https://pixabay.com/photos/family-three-generations-10361999/) | jellymarketing |
+| `pha-tra-cho-ca-nha-cung-uong-hero.jpg` | [6957304](https://pixabay.com/photos/picnic-camping-mother-and-child-6957304/) | Jupilu |
+| `phu-nu-uong-dam-thuc-vat-the-nao-cho-hop-hero.jpg` | [6082552](https://pixabay.com/photos/woman-avocado-shake-avocado-shake-6082552/) | HakimSantoso |
+| `quang-tham-mat-do-dau-hero.jpg` | [2356215](https://pixabay.com/photos/eyes-nature-green-2356215/) | lopezjoshua839 |
+| `sau-khi-uong-khang-sinh-nen-an-gi-hero.jpg` | [1875205](https://pixabay.com/photos/pickles-winter-food-vegetable-1875205/) | monicore |
+| `sau-khi-uong-ruou-bia-nen-an-gi-hero.jpg` | [1918107](https://pixabay.com/photos/ginger-hot-lemon-tea-lemon-snow-1918107/) | silviarita |
+| `sinh-vien-o-tro-an-gi-cho-du-chat-hero.jpg` | [569070](https://pixabay.com/photos/bell-pepper-slicing-culinary-569070/) | JESHOOTS-com |
+| `sua-hat-cho-tre-may-tuoi-uong-duoc-hero.jpg` | [6540932](https://pixabay.com/photos/baby-girl-portrait-kid-child-6540932/) | 99mimimi |
+| `sua-hat-co-thay-duoc-sua-bo-khong-hero.jpg` | [3636559](https://pixabay.com/photos/almonds-milk-drink-healthy-3636559/) | jennyleenaguirre |
+| `sua-hat-tu-lam-tai-nha-hero.jpg` | [2594538](https://pixabay.com/photos/milk-almond-milk-fresh-food-bio-2594538/) | Couleur |
+| `suc-khoe-cho-tai-xe-cong-nghe-shipper-hero.jpg` | [5036506](https://pixabay.com/photos/hanoi-overloaded-overload-moving-5036506/) | fransteddy |
+| `suong-mu-nao-hay-quen-kho-tap-trung-hero.jpg` | [4171740](https://pixabay.com/photos/audit-data-analytics-computer-4171740/) | Enhialus |
+| `tam-nuoc-nong-co-hai-da-khong-hero.jpg` | [1867380](https://pixabay.com/photos/adult-woman-showering-shower-fresh-1867380/) | Pexels |
+| `tang-suc-de-khang-cho-tre-nen-an-gi-hero.jpg` | [5033006](https://pixabay.com/photos/kid-girl-eating-play-cute-5033006/) | dilawarali |
+| `tap-the-duc-buoi-sang-hay-buoi-toi-hero.jpg` | [80112](https://pixabay.com/photos/men-women-exercising-training-80112/) | 12019 |
+| `thuc-don-7-ngay-cho-nguoi-an-chay-du-dam-hero.jpg` | [1269716](https://pixabay.com/photos/steam-vegetables-beans-broccoli-1269716/) | ImagesBG |
+| `thuc-pham-bien-doi-gen-co-hai-khong-hero.jpg` | [440338](https://pixabay.com/photos/corn-field-farm-clouds-crop-440338/) | ClickerHappy |
+| `thuc-pham-giau-axit-folic-hero.jpg` | [3286006](https://pixabay.com/photos/food-vegetable-leaf-healthy-flora-3286006/) | GregReese |
+| `thuc-pham-giau-i-ot-hero.jpg` | [3358815](https://pixabay.com/photos/coast-algae-sea-beach-shore-3358815/) | Quangpraha |
+| `thuc-pham-giau-selen-hero.jpg` | [484262](https://pixabay.com/photos/nuts-bowl-food-healthy-snack-484262/) | Trostle |
+| `thuc-pham-giau-vitamin-a-hero.jpg` | [9699694](https://pixabay.com/photos/food-healthy-fresh-nutrition-vegan-9699694/) | Johan_Benitez99co |
+| `thuc-pham-giau-vitamin-e-hero.jpg` | [3270036](https://pixabay.com/photos/wood-of-wood-food-spoon-3270036/) | padrinan |
+| `thuc-pham-huu-co-co-thuc-su-tot-hon-khong-hero.jpg` | [4354598](https://pixabay.com/photos/market-vegetables-eggplant-services-4354598/) | JaHo |
+| `thuc-pham-tot-cho-tri-nho-nguoi-lon-tuoi-hero.jpg` | [4344703](https://pixabay.com/photos/hands-old-old-age-senior-citizens-4344703/) | sabinevanerp |
+| `toc-bac-som-nen-an-gi-hero.jpg` | [1280445](https://pixabay.com/photos/granny-woman-senior-elder-elderly-1280445/) | brenkee |
+| `toi-nao-cung-doi-bung-du-da-an-no-hero.jpg` | [9539411](https://pixabay.com/photos/cake-sweet-indulgence-dessert-treat-9539411/) | u_czhrz1rjhw |
+| `tra-de-ngu-mua-o-dau-hero.jpg` | [90604](https://pixabay.com/photos/coffee-shop-business-interior-90604/) | 12019 |
+| `tra-hoa-cuc-co-tac-dung-gi-uong-luc-nao-hero.jpg` | [829220](https://pixabay.com/photos/chamomile-tea-drink-chamomile-tea-829220/) | congerdesign |
+| `tra-thao-moc-cho-phu-nu-hero.jpg` | [2439897](https://pixabay.com/photos/coffee-cup-drink-cappuccino-2439897/) | Engin_Akyurt |
+| `tra-thao-moc-nao-khong-co-caffeine-hero.jpg` | [4625378](https://pixabay.com/photos/tea-calendula-herbal-drink-flowers-4625378/) | JetraTull |
+| `tra-thao-moc-viet-va-tra-nhap-khau-hero.jpg` | [1009676](https://pixabay.com/photos/spices-multicoloured-coloured-curry-1009676/) | shorty_ox |
+| `tra-tui-loc-va-tra-roi-khac-nhau-the-nao-hero.jpg` | [5034097](https://pixabay.com/photos/tea-bag-dried-aroma-tee-5034097/) | pasja1000 |
