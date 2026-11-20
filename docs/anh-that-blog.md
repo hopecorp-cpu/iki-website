@@ -216,3 +216,48 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `nguoi-bi-gout-nen-an-gi-hero.jpg` | [2402449](https://pixabay.com/photos/cherries-bowl-fruits-red-cherries-2402449/) | JillWellington |
 | `nguoi-gay-kho-tang-can-nen-an-gi-hero.jpg` | [9317291](https://pixabay.com/photos/peanuts-nuts-food-snack-healthy-9317291/) | guvo59 |
 | `nguoi-gia-an-khong-ngon-mieng-hero.jpg` | [4508015](https://pixabay.com/photos/pumpkin-soup-soup-4508015/) | RitaE |
+
+## Đợt 6 (40 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `bao-cao-nhip-tieu-dung-thang-08-2026-hero.jpg` | [2615482](https://pixabay.com/photos/shopping-corona-business-vegetables-2615482/) | Alexas_Fotos |
+| `bao-cao-san-pham-giu-thoi-quen-2026-hero.jpg` | [791939](https://pixabay.com/photos/new-year-background-organizer-791939/) | kaboompics |
+| `bao-lau-thay-vo-goi-mot-lan-hero.jpg` | [820149](https://pixabay.com/photos/pillows-sheets-bed-linen-820149/) | JayMantri |
+| `bao-quan-bot-dam-thuc-vat-sau-khi-mo-nap-hero.jpg` | [2129316](https://pixabay.com/photos/stock-glass-candy-jar-glass-2129316/) | SteBue |
+| `bao-quan-tra-thao-moc-giu-huong-hero.jpg` | [6069409](https://pixabay.com/photos/tea-tea-leaf-tea-jar-spoon-6069409/) | mirkostoedter |
+| `bo-bua-trua-co-sao-khong-hero.jpg` | [593333](https://pixabay.com/photos/man-write-plan-desk-notes-pen-593333/) | StartupStockPhotos |
+| `bot-dam-thanh-dam-sua-dam-pha-san-chon-dang-nao-hero.jpg` | [10543945](https://pixabay.com/photos/energy-bar-chocolate-bar-chia-seeds-10543945/) | MutiaraAryani |
+| `bot-dam-thuc-vat-orgain-hero.jpg` | [1829080](https://pixabay.com/photos/spirulina-seaweed-vegetable-proteins-1829080/) | Nouchkac |
+| `bot-protein-khong-nong-trong-hero.jpg` | [2527036](https://pixabay.com/photos/smoothie-milkshake-chocolate-banana-2527036/) | TesaPhotography |
+| `bu-nuoc-va-dien-giai-khi-van-dong-hero.jpg` | [1822459](https://pixabay.com/photos/woman-running-run-fitness-sports-1822459/) | sasint |
+| `bua-phu-buoi-chieu-cho-dan-van-phong-hero.jpg` | [287179](https://pixabay.com/photos/orange-office-fruit-juicy-food-287179/) | mahdigermany |
+| `bui-min-anh-huong-den-da-hero.jpg` | [7750811](https://pixabay.com/photos/fog-road-people-haze-city-park-7750811/) | wal_172619 |
+| `bung-da-nhay-cam-nen-an-uong-the-nao-hero.jpg` | [2562648](https://pixabay.com/photos/rice-bowl-topping-food-breakfast-2562648/) | StockSnap |
+| `cach-chia-dia-bua-an-can-bang-hero.jpg` | [2206668](https://pixabay.com/photos/rice-vegetables-herbs-vegetarian-2206668/) | Einladung_zum_Essen |
+| `cach-chon-rau-cu-tuoi-sach-ngoai-cho-hero.jpg` | [4824802](https://pixabay.com/photos/market-vietnam-street-photography-4824802/) | havantai |
+| `cach-chon-sua-hat-dong-hop-mua-san-hero.jpg` | [4052658](https://pixabay.com/photos/supermarket-shelf-blur-yogurt-milk-4052658/) | Squirrel_photos |
+| `cach-ghi-nhat-ky-an-uong-hero.jpg` | [2306471](https://pixabay.com/photos/coffee-pen-notebook-open-notebook-2306471/) | Engin_Akyurt |
+| `cach-pha-bot-dam-thuc-vat-cho-de-uong-hero.jpg` | [3697014](https://pixabay.com/photos/smoothie-nutrition-detox-juice-3697014/) | marijana1 |
+| `cach-pha-tra-tui-loc-dung-cach-hero.jpg` | [5982485](https://pixabay.com/photos/tea-cup-drink-teacup-tee-hot-5982485/) | Abbat1 |
+| `cang-thang-anh-huong-lan-da-hero.jpg` | [3087585](https://pixabay.com/photos/laptop-woman-education-study-young-3087585/) | JESHOOTS-com |
+| `che-do-an-cho-da-mun-khoa-hoc-noi-gi-hero.jpg` | [6848753](https://pixabay.com/photos/woman-brush-sonic-facial-care-6848753/) | boaphotostudio |
+| `che-do-an-chong-viem-cho-nguoi-viet-hero.jpg` | [6305697](https://pixabay.com/photos/spices-ingredients-flavors-herbs-6305697/) | KavindaF |
+| `chuan-bi-bua-an-ca-tuan-cho-nguoi-di-lam-hero.jpg` | [2724355](https://pixabay.com/photos/salad-chickpeas-carrots-peppers-2724355/) | jereskok |
+| `chuan-bi-mang-thai-nen-an-gi-hero.jpg` | [6178270](https://pixabay.com/photos/pregnant-woman-belly-mother-parent-6178270/) | Marncom |
+| `com-hop-mang-di-lam-du-chat-an-toan-hero.jpg` | [749367](https://pixabay.com/photos/lunch-box-lunch-box-side-dish-korean-749367/) | jyleen21 |
+| `com-nguoi-ham-lai-co-tot-khong-hero.jpg` | [10370578](https://pixabay.com/photos/rice-bowl-white-rice-side-dish-10370578/) | tehzeebkazmii |
+| `da-xin-mau-do-dau-hero.jpg` | [2771001](https://pixabay.com/photos/girl-beauty-portrait-model-2771001/) | whitedaemon |
+| `dam-cho-nguoi-tren-50-giu-khoi-co-hero.jpg` | [4478084](https://pixabay.com/photos/china-old-man-dance-couple-men-4478084/) | qgadrian |
+| `dam-dau-nanh-dau-ha-lan-dam-gao-khac-nhau-hero.jpg` | [8445284](https://pixabay.com/photos/green-peas-fresh-organic-food-8445284/) | balouriarajesh |
+| `dam-va-lan-da-toc-mong-hero.jpg` | [2429933](https://pixabay.com/photos/girl-beautiful-woman-beauty-girl-2429933/) | Lucfier |
+| `dam-whey-va-dam-thuc-vat-loai-nao-tot-hon-hero.jpg` | [1500058](https://pixabay.com/photos/washing-powder-laundry-detergent-1500058/) | habelfrank |
+| `dau-hieu-co-the-thieu-dam-hero.jpg` | [5005761](https://pixabay.com/photos/vietnamese-asia-lady-women-girl-5005761/) | 6028523 |
+| `dau-nanh-trong-bua-com-viet-hero.jpg` | [4081697](https://pixabay.com/photos/tofu-korean-korean-food-4081697/) | allybally4b |
+| `di-lam-ve-met-khong-muon-nau-an-hero.jpg` | [1854245](https://pixabay.com/photos/pasta-pesto-farfalle-pesto-pasta-1854245/) | Pexels |
+| `doc-han-su-dung-thuc-pham-dung-cach-hero.jpg` | [2411667](https://pixabay.com/photos/happy-holidays-shopping-bottle-2411667/) | kc0uvb |
+| `doc-nhan-bot-dam-thuc-vat-hero.jpg` | [3101151](https://pixabay.com/photos/a-book-paper-document-poetry-side-3101151/) | felix_w |
+| `duy-tri-thoi-quen-an-uong-lanh-manh-hero.jpg` | [1838785](https://pixabay.com/photos/avocado-chopping-board-ingredients-1838785/) | Pexels |
+| `eat-clean-kieu-viet-van-an-com-hero.jpg` | [6484335](https://pixabay.com/photos/rice-vegetables-meal-egg-food-6484335/) | merakistudio |
+| `hat-chia-dung-the-nao-cho-dung-hero.jpg` | [3297309](https://pixabay.com/photos/chia-chia-seeds-healthy-yummy-meal-3297309/) | Monfocus |
+| `hat-sen-co-giup-ngu-ngon-khong-hero.jpg` | [10422482](https://pixabay.com/photos/lotus-seed-pod-aquatic-plant-10422482/) | Nennieinszweidrei |
