@@ -1,3 +1,4 @@
+@import url('/assets/fonts-literata/fonts.css');
 /* =====================================================================
    IKI by HOPE — Website Stylesheet
    IKI = brand chính (chữa lành, nhẹ nhàng)
@@ -10,7 +11,7 @@
   --iki-lime:        #daa74b;   /* yellow-green from gradient left */
   --iki-teal:        #2c6e5c;   /* healing teal from gradient right */
   --iki-teal-deep:   #094938;   /* deeper teal for headings on light bg */
-  --iki-gradient:    linear-gradient(135deg, #daa74b 0%, #2c6e5c 100%);
+  --iki-gradient:    #094938;
   --iki-gradient-soft: linear-gradient(135deg, rgba(218,167,75, 0.10) 0%, rgba(44,110,92, 0.10) 100%);
   --iki-gradient-mist: linear-gradient(135deg, rgba(218,167,75, 0.04) 0%, rgba(44,110,92, 0.04) 100%);
 
@@ -38,8 +39,8 @@
   --gray-700: #4D6259;
 
   /* Typography — refined elegance + warm friendliness */
-  --font-display: 'Cormorant Garamond', Georgia, 'Times New Roman', serif;
-  --font-body:    'Manrope', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-display: 'Literata', Georgia, 'Times New Roman', serif;
+  --font-body:    'Be Vietnam Pro', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
 
   /* Layout */
   --container: 1200px;
@@ -4282,14 +4283,14 @@ section { padding: 120px 0; }
   flex-direction: column;
   align-items: flex-start;
   line-height: 1;
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-weight: 600;
   font-size: 1.5rem;
   letter-spacing: 0.04em;
   color: var(--iki-teal, #2c6e5c);
 }
 .sales-mini-wordmark small {
-  font-family: 'Manrope', system-ui, sans-serif;
+  font-family: 'Be Vietnam Pro', system-ui, sans-serif;
   font-weight: 500;
   font-size: 0.62rem;
   letter-spacing: 0.18em;
@@ -4298,7 +4299,7 @@ section { padding: 120px 0; }
   margin-top: 4px;
 }
 .sales-mini-back {
-  font-family: 'Manrope', system-ui, sans-serif;
+  font-family: 'Be Vietnam Pro', system-ui, sans-serif;
   font-size: 0.88rem;
   font-weight: 500;
   color: var(--iki-teal, #2c6e5c);
@@ -4389,7 +4390,7 @@ section { padding: 120px 0; }
 
 .pillar-tag {
   display: inline-block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.16em;
@@ -4414,7 +4415,7 @@ section { padding: 120px 0; }
   justify-content: center;
 }
 .pillar h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.6rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -4422,7 +4423,7 @@ section { padding: 120px 0; }
   line-height: 1.2;
 }
 .pillar > p {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.95rem;
   color: var(--gray-700, #444);
   margin: 0 0 16px 0;
@@ -4436,7 +4437,7 @@ section { padding: 120px 0; }
   position: relative;
   padding-left: 20px;
   margin-bottom: 8px;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.88rem;
   color: var(--gray-700, #555);
   line-height: 1.5;
@@ -4452,7 +4453,7 @@ section { padding: 120px 0; }
   background: var(--iki-teal, #2c6e5c);
 }
 .pillar-stat {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.78rem;
   font-weight: 600;
   letter-spacing: 0.04em;
@@ -4478,7 +4479,7 @@ section { padding: 120px 0; }
   backdrop-filter: blur(8px);
 }
 .flow-node {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.95rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -4488,7 +4489,7 @@ section { padding: 120px 0; }
   border: 1px solid rgba(31, 41, 34, 0.08);
 }
 .flow-node.featured {
-  background: linear-gradient(135deg, var(--iki-lime, #daa74b), var(--iki-teal, #2c6e5c));
+  background: #094938;
   color: white;
   border-color: transparent;
   box-shadow: 0 4px 12px rgba(44,110,92, 0.25);
@@ -4538,7 +4539,7 @@ section { padding: 120px 0; }
   position: absolute;
   top: 24px;
   left: 24px;
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 2.2rem;
   font-weight: 600;
   font-style: italic;
@@ -4546,7 +4547,7 @@ section { padding: 120px 0; }
   line-height: 1;
 }
 .why-tech-card h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.4rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -4554,7 +4555,7 @@ section { padding: 120px 0; }
   line-height: 1.25;
 }
 .why-tech-card p {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.92rem;
   color: var(--gray-700, #555);
   line-height: 1.55;
@@ -4585,7 +4586,7 @@ section { padding: 120px 0; }
   box-shadow: 0 6px 20px rgba(44,110,92, 0.08);
 }
 .comp-col h4 {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.95rem;
   font-weight: 700;
   margin: 0 0 14px 0;
@@ -4598,7 +4599,7 @@ section { padding: 120px 0; }
   margin: 0;
 }
 .comp-col li {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.88rem;
   color: var(--gray-700, #555);
   padding: 6px 0;
@@ -4634,7 +4635,7 @@ section { padding: 120px 0; }
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border-radius: 8px;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.74rem;
   font-weight: 600;
   letter-spacing: 0.05em;
@@ -4703,7 +4704,7 @@ section { padding: 120px 0; }
   border-radius: 50%;
   overflow: hidden;
   margin: 0 auto 20px;
-  background: linear-gradient(135deg, var(--iki-lime, #daa74b), var(--iki-teal, #2c6e5c));
+  background: #094938;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -4717,7 +4718,7 @@ section { padding: 120px 0; }
 }
 .team-photo.photo-fallback::after {
   content: attr(data-initials);
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 3rem;
   font-weight: 600;
   color: white;
@@ -4725,7 +4726,7 @@ section { padding: 120px 0; }
 }
 
 .team-role {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.18em;
@@ -4738,7 +4739,7 @@ section { padding: 120px 0; }
   margin-bottom: 12px;
 }
 .team-name {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.7rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -4747,7 +4748,7 @@ section { padding: 120px 0; }
   line-height: 1.2;
 }
 .team-tagline {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.88rem;
   color: var(--gray-700, #555);
   text-align: center;
@@ -4755,7 +4756,7 @@ section { padding: 120px 0; }
   font-style: italic;
 }
 .team-bio {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.92rem;
   color: var(--gray-700, #444);
   line-height: 1.6;
@@ -4767,7 +4768,7 @@ section { padding: 120px 0; }
   margin: 0 0 18px;
 }
 .team-creds li {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.85rem;
   color: var(--gray-700, #555);
   padding: 6px 0;
@@ -4775,7 +4776,7 @@ section { padding: 120px 0; }
 }
 .team-creds li:last-child { border-bottom: none; }
 .team-quote {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-style: italic;
   font-size: 0.95rem;
   color: var(--iki-teal, #2c6e5c);
@@ -4806,7 +4807,7 @@ section { padding: 120px 0; }
 }
 .advisor-tag {
   display: inline-block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.18em;
@@ -4818,21 +4819,21 @@ section { padding: 120px 0; }
   margin-bottom: 14px;
 }
 .advisor-card h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 2rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
   margin: 0 0 6px;
 }
 .advisor-role {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.95rem;
   color: var(--gray-700, #555);
   font-style: italic;
   margin: 0;
 }
 .advisor-body p {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.98rem;
   color: var(--gray-700, #444);
   line-height: 1.75;
@@ -4856,7 +4857,7 @@ section { padding: 120px 0; }
 }
 .advisor-stats .stat-num {
   display: block;
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 2rem;
   font-weight: 600;
   color: var(--iki-teal, #2c6e5c);
@@ -4864,7 +4865,7 @@ section { padding: 120px 0; }
   margin-bottom: 4px;
 }
 .advisor-stats .stat-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.82rem;
   color: var(--gray-700, #555);
 }
@@ -4901,7 +4902,7 @@ section { padding: 120px 0; }
 }
 .lineage-era {
   display: inline-block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.7rem;
   font-weight: 600;
   letter-spacing: 0.14em;
@@ -4917,7 +4918,7 @@ section { padding: 120px 0; }
   margin-bottom: 10px;
 }
 .lineage-card h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.5rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -4925,7 +4926,7 @@ section { padding: 120px 0; }
   line-height: 1.2;
 }
 .lineage-tagline {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.82rem;
   color: var(--iki-teal, #2c6e5c);
   font-style: italic;
@@ -4933,7 +4934,7 @@ section { padding: 120px 0; }
   font-weight: 500;
 }
 .lineage-body {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.9rem;
   color: var(--gray-700, #555);
   line-height: 1.6;
@@ -4952,7 +4953,7 @@ section { padding: 120px 0; }
 }
 .advisor-card-mini .advisor-tag {
   display: inline-block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.7rem;
   font-weight: 700;
   letter-spacing: 0.16em;
@@ -4964,14 +4965,14 @@ section { padding: 120px 0; }
   margin-bottom: 12px;
 }
 .advisor-card-mini h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.6rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
   margin: 0 0 12px;
 }
 .advisor-card-mini p {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.95rem;
   color: var(--gray-700, #555);
   line-height: 1.65;
@@ -5038,7 +5039,7 @@ section { padding: 120px 0; }
   max-width: 600px;
 }
 .app-demo-caption {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.85rem;
   color: var(--gray-500, #888);
   letter-spacing: 0.04em;
@@ -5093,13 +5094,13 @@ section { padding: 120px 0; }
   position: absolute;
   top: 24px;
   right: 24px;
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.6rem;
   font-style: italic;
   color: rgba(44,110,92, 0.4);
 }
 .advantage-card h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.2rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -5107,7 +5108,7 @@ section { padding: 120px 0; }
   line-height: 1.3;
 }
 .advantage-card p {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.88rem;
   color: var(--gray-700, #555);
   line-height: 1.55;
@@ -5123,7 +5124,7 @@ section { padding: 120px 0; }
   text-align: center;
 }
 .advantage-takeaway p {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 1rem;
   color: var(--ink, #1f2922);
   line-height: 1.6;
@@ -5141,7 +5142,7 @@ section { padding: 120px 0; }
 }
 .health-coach-callout p,
 .health-coach-callout ul {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.95rem;
   color: var(--gray-700, #444);
   line-height: 1.7;
@@ -5162,7 +5163,7 @@ section { padding: 120px 0; }
   margin-top: 32px;
 }
 .founder-story-body .lead {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.25rem;
   font-style: italic;
   color: var(--gray-700, #444);
@@ -5170,7 +5171,7 @@ section { padding: 120px 0; }
   margin-bottom: 28px;
 }
 .founder-story-body h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.5rem;
   font-weight: 600;
   color: var(--iki-teal, #2c6e5c);
@@ -5178,14 +5179,14 @@ section { padding: 120px 0; }
   line-height: 1.3;
 }
 .founder-story-body p {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 1rem;
   color: var(--gray-700, #444);
   line-height: 1.8;
   margin: 0 0 14px;
 }
 .founder-pull {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.35rem;
   font-style: italic;
   color: var(--ink, #1f2922);
@@ -5203,7 +5204,7 @@ section { padding: 120px 0; }
   text-align: center;
 }
 .founder-manifesto p {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-style: italic;
   font-size: 1.3rem;
   color: var(--ink, #1f2922);
@@ -5213,7 +5214,7 @@ section { padding: 120px 0; }
 .founder-manifesto p:last-of-type { margin-bottom: 16px; }
 .founder-manifesto cite {
   display: block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.85rem;
   font-style: normal;
   color: var(--gray-700, #555);
@@ -5258,7 +5259,7 @@ section { padding: 120px 0; }
 }
 .body-type-tag {
   display: inline-block;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.62rem;
   font-weight: 700;
   letter-spacing: 0.14em;
@@ -5270,7 +5271,7 @@ section { padding: 120px 0; }
   margin-bottom: 8px;
 }
 .body-type h3 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 1.3rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -5278,7 +5279,7 @@ section { padding: 120px 0; }
   line-height: 1.2;
 }
 .body-type-summary {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.82rem;
   color: var(--gray-700, #555);
   margin: 0 0 12px;
@@ -5292,7 +5293,7 @@ section { padding: 120px 0; }
   text-align: left;
 }
 .body-type-symptoms li {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.78rem;
   color: var(--gray-700, #555);
   padding: 4px 0;
@@ -5321,7 +5322,7 @@ section { padding: 120px 0; }
 @media (max-width: 880px) { .ten-min-inner { grid-template-columns: 1fr; gap: 48px; } }
 
 .ten-min-text h2 {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 2.4rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
@@ -5333,7 +5334,7 @@ section { padding: 120px 0; }
   font-style: normal;
 }
 .ten-min-lead {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 1.05rem;
   color: var(--gray-700, #444);
   line-height: 1.65;
@@ -5361,29 +5362,29 @@ section { padding: 120px 0; }
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(135deg, var(--iki-lime, #daa74b), var(--iki-teal, #2c6e5c));
+  background: #094938;
   color: white;
   border-radius: 50%;
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-weight: 600;
   font-size: 1.05rem;
   letter-spacing: 0.02em;
 }
 .ten-min-step > div { display: flex; flex-direction: column; gap: 4px; }
 .ten-min-step strong {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.98rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
 }
 .ten-min-step span {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.85rem;
   color: var(--gray-700, #555);
   line-height: 1.45;
 }
 .ten-min-cta-text {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.95rem;
   color: var(--gray-700, #444);
   padding: 16px 20px;
@@ -5416,14 +5417,14 @@ section { padding: 120px 0; }
   text-align: center;
 }
 .ten-min-circle-time {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'Literata', Georgia, serif;
   font-size: 3.6rem;
   font-weight: 600;
   color: var(--ink, #1f2922);
   line-height: 1;
 }
 .ten-min-circle-label {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.85rem;
   color: var(--gray-700, #555);
   letter-spacing: 0.04em;
@@ -5438,7 +5439,7 @@ section { padding: 120px 0; }
   gap: 12px;
 }
 .ten-min-features li {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.92rem;
   color: var(--gray-700, #444);
   padding: 10px 16px;
@@ -5490,7 +5491,7 @@ section { padding: 120px 0; }
   right: -8px;
   background: var(--iki-teal, #2c6e5c);
   color: #fff;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.62rem;
   font-weight: 700;
   letter-spacing: 0.06em;
@@ -5512,14 +5513,14 @@ section { padding: 120px 0; }
   line-height: 1.1;
 }
 .store-badge-text small {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.62rem;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: rgba(255, 255, 255, 0.7);
 }
 .store-badge-text strong {
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 1.05rem;
   font-weight: 600;
   margin-top: 3px;
@@ -5559,7 +5560,7 @@ section { padding: 120px 0; }
   color: #fff;
   border-radius: 8px;
   text-decoration: none;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Be Vietnam Pro', sans-serif;
   font-size: 0.85rem;
   font-weight: 600;
   border: 1px solid rgba(255, 255, 255, 0.12);

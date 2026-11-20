@@ -12,5 +12,5 @@ export function blogHomeShell(html) {
   return html.replace(/<header\b[\s\S]*?<\/header>/, () => blogHeader)
     .replace(/<footer\b[\s\S]*?<\/footer>/, () => footer)
     .replace('<main>', '<main id="main" class="legacyblog wrap">')
-    .replace('</head>', '<link rel="stylesheet" href="/assets/iki-20260908/fonts.css"><link rel="stylesheet" href="/assets/iki-20260908/site.css?v=mau-20261119"><link rel="stylesheet" href="/assets/iki-20260908/blog-integration.css?v=mau-20261119"><script src="/assets/iki-20260908/site.js?v=navigation-4" defer></script></head>');
+    .replace('</head>', '<link rel="stylesheet" href="/assets/iki-20260908/fonts.css"><link rel="stylesheet" href="/assets/iki-20260908/site.css?v=mau-20261119"><link rel="stylesheet" href="/assets/iki-20260908/blog-integration.css?v=mau-20261120"><script src="/assets/iki-20260908/site.js?v=navigation-4" defer></script></head>');
 }

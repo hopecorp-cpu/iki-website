@@ -32,7 +32,7 @@
 <meta content="https://ikihealing.com/assets/brand/20261119/ikihealing-share.png" property="og:image"/>
 <link href="https://fonts.googleapis.com" rel="preconnect"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&amp;family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&amp;display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="/assets/fonts-literata/fonts.css">
 <link href="/assets/brand/20261119/iki-icon-1024.png" rel="icon" type="image/png"/>
 <link href="/styles.css?v=mau-20261119" rel="stylesheet"/>
 <script defer="" src="/script.js"></script>
@@ -53,19 +53,19 @@
 <style>
     .blog-hero{max-width:1100px;margin:0 auto;padding:44px 20px 8px;text-align:center}
     .blog-hero .eyebrow{color:var(--iki-teal-deep,#094938);font-weight:700;letter-spacing:.08em;text-transform:uppercase;font-size:.8rem}
-    .blog-hero h1{font-family:var(--font-display,'Cormorant Garamond');font-weight:700;font-size:clamp(2rem,5vw,3.1rem);margin:.4rem 0 .5rem}
+    .blog-hero h1{font-family:var(--font-display,'Literata');font-weight:700;font-size:clamp(2rem,5vw,3.1rem);margin:.4rem 0 .5rem}
     .blog-hero p{color:#667085;max-width:640px;margin:0 auto;font-size:1.05rem}
     .cat-nav{max-width:1100px;margin:18px auto 0;padding:0 20px;display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
     .cat-nav a{font-size:.9rem;font-weight:600;color:#344054;background:#fff;border:1px solid #e4e7ec;border-radius:8px;padding:7px 16px;text-decoration:none}
-    .cat-nav a:hover,.cat-nav a.active{background:var(--iki-gradient,linear-gradient(135deg,#daa74b,#2c6e5c));color:#fff;border-color:transparent}
+    .cat-nav a:hover,.cat-nav a.active{background:var(--iki-gradient,#094938);color:#fff;border-color:transparent}
     .age-section{max-width:1100px;margin:26px auto 6px;padding:0 20px}
     .age-head{text-align:center;margin-bottom:16px}
-    .age-head h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.7rem;margin:0}
+    .age-head h2{font-family:var(--font-display,'Literata');font-size:1.7rem;margin:0}
     .age-head p{color:#667085;margin:4px 0 0;font-size:.98rem}
     .blog-layout{max-width:1140px;margin:0 auto;padding:24px 20px 10px;display:grid;grid-template-columns:1fr 320px;gap:36px;align-items:start}
     @media(max-width:900px){.blog-layout{grid-template-columns:1fr}}
     .chapter{margin-bottom:34px}
-    .ch-head h2{font-family:var(--font-display,'Cormorant Garamond');font-size:1.7rem;margin:0 0 4px}
+    .ch-head h2{font-family:var(--font-display,'Literata');font-size:1.7rem;margin:0 0 4px}
     .ch-head p{color:#667085;margin:0 0 16px;font-size:.98rem;line-height:1.5}
     .chip-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:14px}
     .chip-card{display:block;background:#fff;border:1px solid #eef0f3;border-left:4px solid var(--iki-teal,#2c6e5c);border-radius:12px;padding:16px 18px;text-decoration:none;color:inherit;transition:transform .15s,box-shadow .15s}
@@ -85,17 +85,17 @@
     .side-cats span{color:#98a2b3;font-size:.82rem;font-weight:700;background:#f2f4f7;border-radius:8px;padding:2px 10px}
     .side-app{background:linear-gradient(135deg,#12261f,#1c3a30);color:#fff;border:none}
     .side-app .side-tag{color:var(--iki-lime,#daa74b);font-weight:700;font-size:.72rem;letter-spacing:.08em;text-transform:uppercase}
-    .side-app .side-h{font-family:var(--font-display,'Cormorant Garamond');font-size:1.35rem;font-weight:700;margin:6px 0}
+    .side-app .side-h{font-family:var(--font-display,'Literata');font-size:1.35rem;font-weight:700;margin:6px 0}
     .side-app p{color:rgba(255,255,255,.8);font-size:.9rem;margin:0 0 14px}
     .side-app .btn{display:inline-block}
     .lead-cta{max-width:1140px;margin:20px auto 50px;padding:0 20px}
     .lead-inner{background:linear-gradient(135deg,#12261f,#1c3a30);border-radius:22px;padding:40px 28px;text-align:center;color:#fff}
     .lead-cta .lead-tag{color:var(--iki-lime,#daa74b);font-weight:700;font-size:.74rem;letter-spacing:.1em;text-transform:uppercase}
-    .lead-cta h2{font-family:var(--font-display,'Cormorant Garamond');font-size:clamp(1.6rem,3.4vw,2.3rem);margin:8px 0 6px;color:#fff}
+    .lead-cta h2{font-family:var(--font-display,'Literata');font-size:clamp(1.6rem,3.4vw,2.3rem);margin:8px 0 6px;color:#fff}
     .lead-cta p{color:rgba(255,255,255,.82);margin:0 auto 20px;max-width:560px}
     .lead-row{display:flex;gap:10px;max-width:520px;margin:0 auto;flex-wrap:wrap}
     .lead-row input[type=email]{flex:1;min-width:200px;border:none;border-radius:12px;padding:14px 18px;font-size:1rem;font-family:inherit}
-    .lead-row button{border:none;border-radius:12px;padding:14px 24px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,linear-gradient(135deg,#daa74b,#2c6e5c));cursor:pointer;font-family:inherit}
+    .lead-row button{border:none;border-radius:12px;padding:14px 24px;font-weight:700;font-size:1rem;color:#fff;background:var(--iki-gradient,#094938);cursor:pointer;font-family:inherit}
     .lead-row button:hover{opacity:.94}
     .lead-consent{display:block;margin-top:12px;color:rgba(255,255,255,.6);font-size:.8rem}
     .lead-consent input{margin-right:6px}
