@@ -171,3 +171,48 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `tra-thao-moc-nao-khong-co-caffeine-hero.jpg` | [4625378](https://pixabay.com/photos/tea-calendula-herbal-drink-flowers-4625378/) | JetraTull |
 | `tra-thao-moc-viet-va-tra-nhap-khau-hero.jpg` | [1009676](https://pixabay.com/photos/spices-multicoloured-coloured-curry-1009676/) | shorty_ox |
 | `tra-tui-loc-va-tra-roi-khac-nhau-the-nao-hero.jpg` | [5034097](https://pixabay.com/photos/tea-bag-dried-aroma-tee-5034097/) | pasja1000 |
+
+## Đợt 5 (40 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `hay-bi-lanh-bung-nen-an-uong-the-nao-hero.jpg` | [6705349](https://pixabay.com/photos/ginger-ginger-ale-ginger-tea-6705349/) | Ninetechno |
+| `hay-them-do-ngot-phai-lam-sao-hero.jpg` | [10242834](https://pixabay.com/photos/donut-glaze-stacked-sweet-sugar-10242834/) | svbvrsv |
+| `hop-nhua-dung-do-an-nong-co-hai-khong-hero.jpg` | [4791477](https://pixabay.com/photos/noodles-cooked-meal-food-4791477/) | matthiasboeckel |
+| `kem-va-thuc-pham-giau-kem-hero.jpg` | [1738174](https://pixabay.com/photos/pumpkin-seeds-pumpkin-seeds-orange-1738174/) | Couleur |
+| `khoang-cach-giua-cac-bua-an-bao-lau-hero.jpg` | [374173](https://pixabay.com/photos/salad-fresh-organic-food-diet-374173/) | stevepb |
+| `khong-thich-an-rau-phai-lam-sao-hero.jpg` | [791891](https://pixabay.com/photos/salad-fresh-veggies-vegetables-791891/) | JillWellington |
+| `lam-sao-day-som-ma-khong-met-hero.jpg` | [4127336](https://pixabay.com/photos/woman-stretch-fitness-outdoor-4127336/) | lograstudio |
+| `lanh-tay-chan-nen-an-gi-hero.jpg` | [3454381](https://pixabay.com/photos/books-book-reading-library-3454381/) | ThoughtCatalog |
+| `lay-lai-nep-ngu-cho-tre-truoc-nam-hoc-moi-hero.jpg` | [1151351](https://pixabay.com/photos/baby-girl-sleep-sleeping-asleep-1151351/) | ddimitrova |
+| `lech-mui-gio-jet-lag-lay-lai-nhip-ngu-hero.jpg` | [3511342](https://pixabay.com/photos/happy-holidays-airport-airplane-3511342/) | JESHOOTS-com |
+| `leo-cau-thang-bo-moi-ngay-co-tot-khong-hero.jpg` | [6839018](https://pixabay.com/photos/fitness-running-stairs-steps-6839018/) | OleksandrPidvalnyi |
+| `luoi-uong-nuoc-phai-lam-sao-hero.jpg` | [2597139](https://pixabay.com/photos/laptop-apple-macbook-computer-2597139/) | StockSnap |
+| `mam-com-gia-dinh-nhieu-the-he-hero.jpg` | [827760](https://pixabay.com/photos/family-photo-happiness-parents-827760/) | miltonhuallpa95 |
+| `mang-bot-dam-di-cong-tac-du-lich-hero.jpg` | [4438268](https://pixabay.com/photos/travel-vacation-travelling-packing-4438268/) | StefanCoders |
+| `mat-ong-nguyen-chat-phan-biet-va-dung-dung-cach-hero.jpg` | [924732](https://pixabay.com/photos/honey-dipper-jar-food-924732/) | StockSnap |
+| `me-di-lam-cham-con-nho-hay-met-hero.jpg` | [4624889](https://pixabay.com/photos/motherhood-childhood-4624889/) | ParentiPacek |
+| `moi-kho-nut-ne-thieu-chat-gi-hero.jpg` | [6645450](https://pixabay.com/photos/makeup-lipstick-lips-lip-brush-6645450/) | iLeoplus |
+| `mon-an-de-tieu-cho-nguoi-lon-tuoi-hero.jpg` | [570922](https://pixabay.com/photos/soup-cream-soup-key-570922/) | Security |
+| `mon-an-khong-nen-ham-lai-nhieu-lan-hero.jpg` | [6914223](https://pixabay.com/photos/kitchen-interior-design-oven-6914223/) | IdaT |
+| `mong-tay-gion-de-gay-thieu-chat-gi-hero.jpg` | [1283917](https://pixabay.com/photos/hands-coffee-hold-holding-1283917/) | Pexels |
+| `mua-hop-bot-dam-roi-bo-quen-vi-sao-hero.jpg` | [2095750](https://pixabay.com/photos/retro-vintage-kitchen-cupboard-2095750/) | JillWellington |
+| `muoi-hong-himalaya-co-tot-hon-muoi-thuong-khong-hero.jpg` | [6624128](https://pixabay.com/photos/himalayan-salt-salt-seasoning-6624128/) | pictavio |
+| `nam-gioi-uong-sua-dau-nanh-co-anh-huong-gi-hero.jpg` | [2263942](https://pixabay.com/photos/soy-milk-soy-soybean-soy-milk-2263942/) | bigfatcat |
+| `nau-noi-ap-suat-co-mat-chat-khong-hero.jpg` | [7116220](https://pixabay.com/photos/express-pot-pressure-cooker-7116220/) | AnnRve |
+| `nen-an-may-bua-mot-ngay-hero.jpg` | [3397655](https://pixabay.com/photos/breakfast-wake-up-hour-s-old-mood-3397655/) | matuska |
+| `nep-uong-tra-buoi-sang-cho-nguoi-ban-ron-hero.jpg` | [2562260](https://pixabay.com/photos/lifestyle-kitchen-herbal-tea-drink-2562260/) | StockSnap |
+| `ngam-rau-nuoc-muoi-co-sach-khong-hero.jpg` | [10370291](https://pixabay.com/photos/tomato-washing-sink-colander-rinse-10370291/) | Irynkaa |
+| `ngay-den-do-nen-an-gi-hero.jpg` | [2715280](https://pixabay.com/photos/morning-girl-woman-bed-tee-morning-2715280/) | JESHOOTS-com |
+| `nghi-ngoi-dung-cach-cho-phu-nu-ban-ron-hero.jpg` | [977020](https://pixabay.com/photos/woman-headphones-music-girl-smile-977020/) | PourquoiPas |
+| `nghien-rang-khi-ngu-nguyen-nhan-va-cach-cai-thien-hero.jpg` | [2537324](https://pixabay.com/photos/people-woman-sleep-2537324/) | xiangying_xu |
+| `ngoi-dieu-hoa-ca-ngay-nen-an-uong-the-nao-hero.jpg` | [6605973](https://pixabay.com/photos/air-conditioner-air-conditioning-unit-6605973/) | AlfLucio |
+| `ngu-bao-nhieu-tieng-la-du-theo-do-tuoi-hero.jpg` | [4568283](https://pixabay.com/photos/alarm-clock-bed-sleep-bedroom-4568283/) | Katniss12 |
+| `ngu-bu-cuoi-tuan-co-bu-duoc-khong-hero.jpg` | [2197947](https://pixabay.com/photos/woman-asleep-girl-sleep-bed-cozy-2197947/) | Claudio_Scott |
+| `ngu-day-bi-dang-mieng-kho-mieng-hero.jpg` | [1850612](https://pixabay.com/photos/coffee-cup-girl-morning-outside-1850612/) | Pexels |
+| `ngu-day-mat-bi-sung-hero.jpg` | [8750234](https://pixabay.com/photos/woman-beauty-skincare-bodycare-8750234/) | Skinpetal |
+| `ngu-du-8-tieng-van-met-hero.jpg` | [4491221](https://pixabay.com/photos/break-sleeping-cute-girl-baby-4491221/) | manbob86 |
+| `nguoi-an-chay-bo-sung-canxi-hero.jpg` | [7249259](https://pixabay.com/photos/salad-asian-food-dish-meal-7249259/) | joannawielgosz |
+| `nguoi-bi-gout-nen-an-gi-hero.jpg` | [2402449](https://pixabay.com/photos/cherries-bowl-fruits-red-cherries-2402449/) | JillWellington |
+| `nguoi-gay-kho-tang-can-nen-an-gi-hero.jpg` | [9317291](https://pixabay.com/photos/peanuts-nuts-food-snack-healthy-9317291/) | guvo59 |
+| `nguoi-gia-an-khong-ngon-mieng-hero.jpg` | [4508015](https://pixabay.com/photos/pumpkin-soup-soup-4508015/) | RitaE |
