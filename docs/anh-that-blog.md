@@ -261,3 +261,48 @@ CEO duyệt 20/11/2026: thay ảnh đầu bài do máy sinh (Pollinations/sana, 
 | `eat-clean-kieu-viet-van-an-com-hero.jpg` | [6484335](https://pixabay.com/photos/rice-vegetables-meal-egg-food-6484335/) | merakistudio |
 | `hat-chia-dung-the-nao-cho-dung-hero.jpg` | [3297309](https://pixabay.com/photos/chia-chia-seeds-healthy-yummy-meal-3297309/) | Monfocus |
 | `hat-sen-co-giup-ngu-ngon-khong-hero.jpg` | [10422482](https://pixabay.com/photos/lotus-seed-pod-aquatic-plant-10422482/) | Nennieinszweidrei |
+
+## Đợt 7 (40 bài kế tiếp theo số lần xuất hiện)
+
+| Ảnh | Pixabay | Người chụp |
+|---|---|---|
+| `30-ngay-dau-uong-dam-thuc-vat-hero.jpg` | [2847957](https://pixabay.com/photos/coffee-cup-table-drink-beverage-2847957/) | 6689062 |
+| `an-bao-nhieu-trai-cay-moi-ngay-la-du-hero.jpg` | [10180110](https://pixabay.com/photos/fruit-basket-colorful-fruits-pine-10180110/) | Yuliia_Pat |
+| `an-chay-ngay-ram-mung-mot-du-chat-hero.jpg` | [597228](https://pixabay.com/photos/tofu-korean-korean-food-597228/) | 621hjmit |
+| `an-dau-moi-ngay-co-tot-khong-hero.jpg` | [7451006](https://pixabay.com/photos/kidney-beans-legumes-beans-7451006/) | viarami |
+| `an-do-hop-the-nao-cho-an-toan-hero.jpg` | [4990721](https://pixabay.com/photos/can-old-rusty-historical-tin-can-4990721/) | Damian_Konietzny |
+| `an-dua-thom-co-tac-dung-gi-hero.jpg` | [636562](https://pixabay.com/photos/pineapple-slices-fruit-vitamins-636562/) | Security |
+| `an-gi-de-da-dep-hero.jpg` | [2100108](https://pixabay.com/photos/oranges-citrus-fruits-vitamin-c-2100108/) | Couleur |
+| `an-gi-tot-cho-phoi-khi-khong-khi-o-nhiem-hero.jpg` | [5326159](https://pixabay.com/photos/people-diet-obesity-slimming-5326159/) | carlosfs05 |
+| `an-hai-san-bao-nhieu-la-du-hero.jpg` | [5947531](https://pixabay.com/photos/woman-lobster-market-vendor-thai-5947531/) | Thailand_becausewecan |
+| `an-nam-co-tot-khong-hero.jpg` | [756406](https://pixabay.com/photos/mushrooms-brown-mushrooms-cook-meal-756406/) | congerdesign |
+| `an-ngoai-hang-quan-thuong-xuyen-nen-an-the-nao-hero.jpg` | [4943816](https://pixabay.com/photos/vietnam-hanoi-meal-street-kitchen-4943816/) | Tho-Ge |
+| `an-nhieu-duong-anh-huong-lan-da-hero.jpg` | [548647](https://pixabay.com/photos/lump-sugar-sugar-cubes-sweet-food-548647/) | Humusak |
+| `an-noi-tang-dong-vat-co-tot-khong-hero.jpg` | [6281740](https://pixabay.com/photos/plate-cluttery-table-fork-board-6281740/) | DmitryGrushin |
+| `an-sang-bun-pho-banh-mi-xoi-co-tot-khong-hero.jpg` | [2681607](https://pixabay.com/photos/vietnam-bread-sedge-hat-rice-hat-2681607/) | hsiaopuchen |
+| `an-sang-luc-may-gio-la-tot-nhat-hero.jpg` | [848313](https://pixabay.com/photos/breakfast-fried-eggs-meal-egg-food-848313/) | JillWellington |
+| `an-theo-cam-xuc-lam-sao-de-dung-lai-hero.jpg` | [2629267](https://pixabay.com/photos/ice-cream-almond-almond-chocolate-2629267/) | ExplorerBob |
+| `an-theo-nhom-mau-co-dung-khong-hero.jpg` | [313864](https://pixabay.com/photos/lab-medical-diagnostics-test-tube-313864/) | kropekk_pl |
+| `an-toi-luc-may-gio-la-tot-nhat-hero.jpg` | [7614582](https://pixabay.com/photos/plate-knife-fork-utensils-7614582/) | Joa70 |
+| `an-toi-song-moi-ngay-co-tot-khong-hero.jpg` | [3419544](https://pixabay.com/photos/garlic-ingredient-flavoring-3419544/) | stevepb |
+| `an-uong-cho-nguoi-lam-viec-ngoai-troi-nang-nong-hero.jpg` | [8231301](https://pixabay.com/photos/bricks-layers-man-worker-labor-8231301/) | sinankuyucu45 |
+| `an-uong-khi-di-tiec-lien-hoan-hero.jpg` | [7040875](https://pixabay.com/photos/salad-fruit-berry-healthy-vitamins-7040875/) | MakaraEk |
+| `an-uong-lanh-manh-ma-tiet-kiem-hero.jpg` | [4331742](https://pixabay.com/photos/potatoes-vegetables-nature-fresh-4331742/) | stanbalik |
+| `an-uong-mua-thu-duong-phe-hero.jpg` | [8330221](https://pixabay.com/photos/pears-fruit-food-health-healthy-8330221/) | phydc |
+| `an-uong-tuoi-30-chuyen-hoa-cham-hero.jpg` | [2546077](https://pixabay.com/photos/tray-breakfast-muesli-fruits-bowls-2546077/) | silviarita |
+| `an-yen-mach-buoi-sang-dung-cach-hero.jpg` | [531209](https://pixabay.com/photos/blueberries-oats-oatmeal-healthy-531209/) | iha31 |
+| `an-yen-sao-the-nao-cho-dung-hero.jpg` | [1382950](https://pixabay.com/photos/birds-nest-edible-cave-saliva-1382950/) | cegoh |
+| `app-iki-lao-dong-hanh-tiet-khi-hero.jpg` | [10361991](https://pixabay.com/photos/card-game-elderly-couple-indoors-10361991/) | jellymarketing |
+| `app-iki-nhat-ky-30-giay-phan-tich-hero.jpg` | [5537230](https://pixabay.com/photos/iphone-hand-phone-mobile-phone-5537230/) | tranmautritam |
+| `app-iki-quet-bua-an-cham-am-duong-hero.jpg` | [1842202](https://pixabay.com/photos/camera-phone-picture-capture-1842202/) | Pexels |
+| `ba-bau-uong-tra-thao-moc-duoc-khong-hero.jpg` | [2568594](https://pixabay.com/photos/pregnant-woman-maternity-motherhood-2568594/) | StockSnap |
+| `bao-cao-ban-do-quan-tam-suc-khoe-2026-hero.jpg` | [1867757](https://pixabay.com/photos/woman-music-fit-fitness-technology-1867757/) | Pexels |
+| `bao-cao-cau-truc-gio-hang-2026-hero.jpg` | [3692440](https://pixabay.com/photos/e-commerce-online-commerce-3692440/) | athree23 |
+| `bao-cao-cham-soc-suc-khoe-chu-dong-2026-hero.jpg` | [8979620](https://pixabay.com/photos/man-woman-family-child-walking-8979620/) | Surprising_Media |
+| `bao-cao-chi-tieu-suc-khoe-theo-vung-mien-2026-hero.jpg` | [9295186](https://pixabay.com/photos/field-nature-sunlight-9295186/) | TieuBaoTruong |
+| `bao-cao-chu-ky-tai-mua-2026-hero.jpg` | [10416934](https://pixabay.com/photos/packages-boxes-delivery-outdoor-10416934/) | MonsterDealz |
+| `bao-cao-hanh-trinh-hoi-dap-2026-hero.jpg` | [791644](https://pixabay.com/photos/mobile-phone-mobile-smartphone-791644/) | kaboompics |
+| `bao-cao-nhip-mua-theo-thang-2026-hero.jpg` | [3045825](https://pixabay.com/photos/calendar-a-book-date-year-day-3045825/) | Darkmoon_Art |
+| `vitamin-d-va-anh-nang-hero.jpg` | [6543669](https://pixabay.com/photos/woman-model-pose-style-fashion-6543669/) | Sunriseforever |
+| `vitamin-k2-co-trong-thuc-pham-nao-hero.jpg` | [7048951](https://pixabay.com/photos/natt%C5%8D-rice-food-breakfast-dish-7048951/) | Japan-coutry-movie |
+| `vitamin-nhom-b-va-nang-luong-moi-ngay-hero.jpg` | [6106820](https://pixabay.com/photos/cereal-grains-sack-harvest-produce-6106820/) | congerdesign |
