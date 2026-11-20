@@ -2,8 +2,8 @@ import fs from 'fs';
 
 // Apply the website shell only to the blog homepage; preserve generated articles and forms.
 export function blogHomeShell(html) {
-  // Trang chủ mới (19/11/2026) có đầu trang riêng, nên lấy đầu trang chung từ Học Viện.
-  const shell = fs.readFileSync(new URL('../hoc-vien.html', import.meta.url), 'utf8');
+  // Trang chủ mới (19/11/2026) có đầu trang riêng, nên lấy đầu trang chung từ trang Cộng đồng.
+  const shell = fs.readFileSync(new URL('../cong-dong.html', import.meta.url), 'utf8');
   const header = shell.match(/<header class="sitehead">[\s\S]*?<\/header>/)?.[0];
   const footer = shell.match(/<footer\b[^>]*>[\s\S]*?<\/footer>/)?.[0];
   if (!header || !footer) throw new Error('Website header/footer missing');
